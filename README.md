@@ -11,7 +11,7 @@ All query files are named based on the Wikipedia page ID from which their query 
 The mappings of the Wikipedia page ID to the Wikipedia Page name and list of Wikitables contained in it is found in under the `queries/queries_df.pickle` pickled dataframe.
 We also provide our queries converted as keywords that were used by BM25 at [keyword_queries/](queries/keyword_queries/)
 
-The directory contains the following files/sub-directories:
+The [queries/](queries/) directory contains the following files/sub-directories:
 * `1_tuples_per_query/`: Contains all 9296 query tables with 1 tuple per query table 
 * `2_tuples_per_query/`: Contains all 9296 query tables with 2 tuples per query table 
 * `5_tuples_per_query/`: Contains all 9296 query tables with 5 tuples per query table 
@@ -22,3 +22,11 @@ The directory contains the following files/sub-directories:
 
 
 ## Ground-Truth (Relevance Assessments)
+The ground-truth relevance assessments for all 9296 query tables can be found under the [ground_truth/](ground_truth/) directory.
+There are two ground-truth relevance assessments (one with respect to the Wikipedia Categories and one with respect to the Navigation Links).
+For each version we provide a .json file for each query (i.e., each Wikipedia page) and denote all its semantically relevant Wikipedia Pages for which our measure is non-zero.
+In other words, given a Wikipedia page we identify all other Wikipedia pages for which there is a non-zero intersection of Wikipedia Categories or Navigation Links 
+
+The [ground_truth/](ground_truth/) directory contains the following files/sub-directories:
+* `wikipedia_categories/`: Contains the relevance assessments for each Wikipedia page based on the Jaccard of their Wikipedia Categories
+* `navigation_links/`: Contains the relevance assessments for each Wikipedia page based on the Jaccard of their Navigation Links

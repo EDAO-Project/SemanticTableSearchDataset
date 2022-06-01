@@ -1,0 +1,18 @@
+{
+    "Blood_volume": 1.0,
+    "Vasoconstriction": 1.0,
+    "Vasodilation": 0.24773413897280966,
+    "Cardiology_diagnostic_tests_and_procedures": 0.022099447513812154,
+    "Angiogenesis": 0.014705882352941176,
+    "Hypertrophic_cardiomyopathy": 0.014577259475218658,
+    "Dilated_cardiomyopathy": 0.013227513227513227,
+    "Pharmaceutical_drug": 0.012711864406779662,
+    "Meds": 0.012711864406779662,
+    "Eicosanoid": 0.012269938650306749,
+    "Disease-modifying_antirheumatic_drug": 0.011583011583011582,
+    "Anatomical_Therapeutic_Chemical_Classification_System": 0.010752688172043012,
+    "Chemotherapy": 0.010452961672473868,
+    "Long_QT_syndrome": 0.010224948875255624,
+    "Admission_note": 0.01020408163265306,
+    "Review_of_systems": 0.010050251256281407
+}

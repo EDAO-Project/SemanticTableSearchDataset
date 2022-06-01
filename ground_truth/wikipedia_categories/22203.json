@@ -1,0 +1,10 @@
+{
+    "Benign_tumor": 1.0,
+    "Admission_note": 0.5,
+    "Review_of_systems": 0.5,
+    "Pathognomonic": 0.25,
+    "Agnosia": 0.25,
+    "List_of_medical_roots,_suffixes_and_prefixes": 0.25,
+    "Preventive_medicine": 0.2,
+    "Equianalgesic": 0.14285714285714285
+}
