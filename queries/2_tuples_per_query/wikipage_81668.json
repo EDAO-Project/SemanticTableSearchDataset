@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christian_Schilling",
+            "http://dbpedia.org/resource/Eintracht_Duisburg_1848",
+            "http://dbpedia.org/resource/Belgium_national_football_team",
+            "http://dbpedia.org/resource/Netherlands_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Johannes_Schneider",
+            "http://dbpedia.org/resource/1._FC_Lokomotive_Leipzig",
+            "http://dbpedia.org/resource/Denmark_national_football_team",
+            "http://dbpedia.org/resource/Belgium_national_football_team"
+        ]
+    ]
+}

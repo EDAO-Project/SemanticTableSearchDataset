@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_WNBA_draft",
+            "http://dbpedia.org/resource/Tina_Thompson",
+            "http://dbpedia.org/resource/USC_Trojans",
+            "http://dbpedia.org/resource/Houston_Comets"
+        ]
+    ]
+}

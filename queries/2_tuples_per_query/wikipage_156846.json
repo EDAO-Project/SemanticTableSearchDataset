@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aqaba",
+            "http://dbpedia.org/resource/Jordan",
+            "http://dbpedia.org/resource/King_Hussein_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Antalya",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Antalya_Airport"
+        ]
+    ]
+}

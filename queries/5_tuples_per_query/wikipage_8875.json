@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ashfork-Bainbridge_Steel_Dam",
+            "http://dbpedia.org/resource/U.S._Route_66",
+            "http://dbpedia.org/resource/Ash_Fork,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Barney_Flat_Historic_Railroad_Logging_Landscape",
+            "http://dbpedia.org/resource/Kaibab_National_Forest",
+            "http://dbpedia.org/resource/Williams,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_Springs_Lookout_Tower",
+            "http://dbpedia.org/resource/Kaibab_National_Forest",
+            "http://dbpedia.org/resource/Big_Springs,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_Springs_Ranger_Station",
+            "http://dbpedia.org/resource/Kaibab_National_Forest",
+            "http://dbpedia.org/resource/Big_Springs,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Brow_Monument_and_Brow_Monument_Trail",
+            "http://dbpedia.org/resource/Kaibab_National_Forest",
+            "http://dbpedia.org/resource/Big_Springs,_Arizona"
+        ]
+    ]
+}

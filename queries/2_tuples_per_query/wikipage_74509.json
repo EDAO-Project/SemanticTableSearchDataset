@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Margaret_Jean_Anderson",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Pierre_Trudeau"
+        ],
+        [
+            "http://dbpedia.org/resource/Alfred_Johnson_Brooks",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Canada",
+            "http://dbpedia.org/resource/John_Diefenbaker"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Gulnara_Samitova-Galkina",
+            "http://dbpedia.org/resource/Beijing"
+        ]
+    ]
+}

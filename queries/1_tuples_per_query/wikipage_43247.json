@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santa_Fe,_New_Mexico",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lensic_Theater"
+        ]
+    ]
+}

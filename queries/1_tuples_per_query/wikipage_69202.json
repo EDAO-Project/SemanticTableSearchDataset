@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vladimir_Tkachenko",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/BC_Budivelnyk"
+        ]
+    ]
+}

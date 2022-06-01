@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cattewater_Wreck",
+            "http://dbpedia.org/resource/Plymouth",
+            "http://dbpedia.org/resource/English_Heritage"
+        ],
+        [
+            "http://dbpedia.org/resource/Mary_Rose",
+            "http://dbpedia.org/resource/Portsmouth",
+            "http://dbpedia.org/resource/English_Heritage"
+        ]
+    ]
+}

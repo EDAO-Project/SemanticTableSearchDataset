@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_in_literature",
+            "http://dbpedia.org/resource/Garth_Nix",
+            "http://dbpedia.org/resource/Sabriel",
+            "http://dbpedia.org/resource/HarperCollins"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_in_literature",
+            "http://dbpedia.org/resource/Isobelle_Carmody",
+            "http://dbpedia.org/resource/Ashling",
+            "http://dbpedia.org/resource/Viking_Press"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_in_literature",
+            "http://dbpedia.org/resource/Kerry_Greenwood",
+            "http://dbpedia.org/resource/The_Broken_Wheel",
+            "http://dbpedia.org/resource/HarperCollins"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_in_literature",
+            "http://dbpedia.org/resource/Isobelle_Carmody",
+            "http://dbpedia.org/resource/Greylands",
+            "http://dbpedia.org/resource/Puffin_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_in_literature",
+            "http://dbpedia.org/resource/Alison_Goodman",
+            "http://dbpedia.org/resource/Singing_the_Dogstar_Blues",
+            "http://dbpedia.org/resource/HarperCollins"
+        ]
+    ]
+}

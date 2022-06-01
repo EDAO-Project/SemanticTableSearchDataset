@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allen_Telescope_Array",
+            "http://dbpedia.org/resource/Hat_Creek_Radio_Observatory",
+            "http://dbpedia.org/resource/Parabolic_antenna"
+        ]
+    ]
+}

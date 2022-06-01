@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greece_at_the_2010_Winter_Olympics",
+            "http://dbpedia.org/resource/Athanassios_Tsakiris",
+            "http://dbpedia.org/resource/Biathlon_at_the_2010_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Albania_at_the_2010_Winter_Olympics",
+            "http://dbpedia.org/resource/Erjon_Tola",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_2010_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Algeria_at_the_2010_Winter_Olympics",
+            "http://dbpedia.org/resource/Mehdi-Selim_Khelifi",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_2010_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Argentina_at_the_2010_Winter_Olympics",
+            "http://dbpedia.org/resource/Cristian_Javier_Simari_Birkner",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_2010_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Armenia_at_the_2010_Winter_Olympics",
+            "http://dbpedia.org/resource/Arsen_Nersisyan",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_2010_Winter_Olympics"
+        ]
+    ]
+}

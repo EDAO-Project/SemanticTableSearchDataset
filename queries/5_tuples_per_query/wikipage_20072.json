@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All-Hallows-the-Great",
+            "http://dbpedia.org/resource/Thames_Street,_London",
+            "http://dbpedia.org/resource/St_Michael_Paternoster_Royal"
+        ],
+        [
+            "http://dbpedia.org/resource/St_Alphege_London_Wall",
+            "http://dbpedia.org/resource/London_Wall",
+            "http://dbpedia.org/resource/St_Mary_Aldermanbury"
+        ],
+        [
+            "http://dbpedia.org/resource/St_Benet_Fink",
+            "http://dbpedia.org/resource/Threadneedle_Street",
+            "http://dbpedia.org/resource/St_Peter_le_Poer"
+        ],
+        [
+            "http://dbpedia.org/resource/St_Benet_Gracechurch",
+            "http://dbpedia.org/resource/Gracechurch_Street",
+            "http://dbpedia.org/resource/All_Hallows_Lombard_Street"
+        ],
+        [
+            "http://dbpedia.org/resource/St_Dionis_Backchurch",
+            "http://dbpedia.org/resource/Fenchurch_Street",
+            "http://dbpedia.org/resource/All_Hallows_Lombard_Street"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cernon,_Marne",
+            "http://dbpedia.org/resource/Chaintrix-Bierges",
+            "http://dbpedia.org/resource/Champigneul-Champagne"
+        ],
+        [
+            "http://dbpedia.org/resource/Cheniers",
+            "http://dbpedia.org/resource/Cheppes-la-Prairie",
+            "http://dbpedia.org/resource/Chepy"
+        ]
+    ]
+}

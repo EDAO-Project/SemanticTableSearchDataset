@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fred_Akers",
+            "http://dbpedia.org/resource/University_of_Arkansas",
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+        ],
+        [
+            "http://dbpedia.org/resource/Bud_Adams",
+            "http://dbpedia.org/resource/University_of_Kansas",
+            "http://dbpedia.org/resource/Tennessee_Titans"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Arnsparger",
+            "http://dbpedia.org/resource/Miami_University",
+            "http://dbpedia.org/resource/New_York_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/Drew_Bennett",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles",
+            "http://dbpedia.org/resource/Wide_receiver"
+        ],
+        [
+            "http://dbpedia.org/resource/Drew_Brees",
+            "http://dbpedia.org/resource/Purdue_University",
+            "http://dbpedia.org/resource/Quarterback"
+        ]
+    ]
+}

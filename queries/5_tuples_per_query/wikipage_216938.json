@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Air_Canada_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_Hills,_Michigan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Palace_of_Auburn_Hills"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Quicken_Loans_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus,_Ohio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Nationwide_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Uncasville,_Connecticut",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mohegan_Sun_Arena"
+        ]
+    ]
+}

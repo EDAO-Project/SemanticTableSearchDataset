@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ellis_Park_Stadium",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/2013_Rugby_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/2013_Rugby_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/FNB_Stadium",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/2012_Rugby_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Forsyth_Barr_Stadium",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/2012_Rugby_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Wellington_Regional_Stadium",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/2011_Tri_Nations_Series"
+        ]
+    ]
+}

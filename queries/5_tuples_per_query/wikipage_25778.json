@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A.P._Hill_Army_Airfield",
+            "http://dbpedia.org/resource/Fort_A.P._Hill",
+            "http://dbpedia.org/resource/Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Allen_Army_Airfield",
+            "http://dbpedia.org/resource/Fort_Greely",
+            "http://dbpedia.org/resource/Delta_Junction,_Alaska"
+        ],
+        [
+            "http://dbpedia.org/resource/Amedee_Army_Airfield",
+            "http://dbpedia.org/resource/Sierra_Army_Depot",
+            "http://dbpedia.org/resource/Herlong,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Bicycle_Lake_Army_Airfield",
+            "http://dbpedia.org/resource/Fort_Irwin_National_Training_Center",
+            "http://dbpedia.org/resource/Barstow,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Biggs_Army_Airfield",
+            "http://dbpedia.org/resource/Fort_Bliss",
+            "http://dbpedia.org/resource/El_Paso,_Texas"
+        ]
+    ]
+}

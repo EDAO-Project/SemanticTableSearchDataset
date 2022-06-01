@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bryce_Harper",
+            "http://dbpedia.org/resource/Washington_Nationals",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/College_of_Southern_Nevada"
+        ]
+    ]
+}

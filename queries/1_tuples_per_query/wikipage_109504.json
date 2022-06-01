@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benelux",
+            "http://dbpedia.org/resource/Bertrand_Baguette",
+            "http://dbpedia.org/resource/2010_IndyCar_Series_season"
+        ]
+    ]
+}

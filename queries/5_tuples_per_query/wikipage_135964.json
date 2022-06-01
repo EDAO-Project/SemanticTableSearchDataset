@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carolina_Kostner",
+            "http://dbpedia.org/resource/Adelina_Sotnikova",
+            "http://dbpedia.org/resource/Elizaveta_Tuktamysheva"
+        ],
+        [
+            "http://dbpedia.org/resource/Mao_Asada",
+            "http://dbpedia.org/resource/Akiko_Suzuki",
+            "http://dbpedia.org/resource/Kanako_Murakami"
+        ],
+        [
+            "http://dbpedia.org/resource/Elena_Radionova",
+            "http://dbpedia.org/resource/Yulia_Lipnitskaya",
+            "http://dbpedia.org/resource/Anna_Pogorilaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Yuna",
+            "http://dbpedia.org/resource/Carolina_Kostner",
+            "http://dbpedia.org/resource/Mao_Asada"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashley_Wagner",
+            "http://dbpedia.org/resource/Christina_Gao",
+            "http://dbpedia.org/resource/Adelina_Sotnikova"
+        ]
+    ]
+}

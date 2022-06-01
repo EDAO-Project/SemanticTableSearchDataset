@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Het_Nieuwsblad",
+            "http://dbpedia.org/resource/Belg_der_Belgen",
+            "http://dbpedia.org/resource/Father_Damien"
+        ]
+    ]
+}

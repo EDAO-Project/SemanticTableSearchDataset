@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spirit_Lake_Massacre",
+            "http://dbpedia.org/resource/Arnolds_Park,_Iowa",
+            "http://dbpedia.org/resource/State_Historical_Society_of_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Gothic_House",
+            "http://dbpedia.org/resource/Eldon,_Iowa",
+            "http://dbpedia.org/resource/Grant_Wood"
+        ],
+        [
+            "http://dbpedia.org/resource/Iowa_State_University",
+            "http://dbpedia.org/resource/Ames,_Iowa",
+            "http://dbpedia.org/resource/Iowa_State_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Bill_Cody_Homestead",
+            "http://dbpedia.org/resource/Scott_County,_Iowa",
+            "http://dbpedia.org/resource/Buffalo_Bill"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Bill_Museum",
+            "http://dbpedia.org/resource/Le_Claire,_Iowa",
+            "http://dbpedia.org/resource/Buffalo_Bill"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/Alberta_Highway_16",
+            "http://dbpedia.org/resource/97_Street,_Edmonton"
+        ]
+    ]
+}

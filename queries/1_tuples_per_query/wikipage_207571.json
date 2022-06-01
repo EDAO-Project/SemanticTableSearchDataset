@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Chiasso",
+            "http://dbpedia.org/resource/FC_Sion",
+            "http://dbpedia.org/resource/FC_Martigny-Sports"
+        ]
+    ]
+}

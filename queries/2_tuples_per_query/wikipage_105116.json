@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1975_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Clint_Hurdle",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Merritt_Island_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Atlee_Hammaker",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/East_Tennessee_State_University"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yashwantrao_Chavan",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/6th_Lok_Sabha"
+        ],
+        [
+            "http://dbpedia.org/resource/C._M._Stephen",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/6th_Lok_Sabha"
+        ]
+    ]
+}

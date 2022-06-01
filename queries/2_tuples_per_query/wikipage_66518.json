@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ActiveMovie",
+            "http://dbpedia.org/resource/Application_programming_interface",
+            "http://dbpedia.org/resource/Windows_95",
+            "http://dbpedia.org/resource/DirectShow"
+        ],
+        [
+            "http://dbpedia.org/resource/Cardfile",
+            "http://dbpedia.org/resource/Windows_1.0",
+            "http://dbpedia.org/resource/Windows_ME",
+            "http://dbpedia.org/resource/Outlook_Express"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_K_League",
+            "http://dbpedia.org/resource/Choi_Soon-ho",
+            "http://dbpedia.org/resource/George_Alhassan"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_K_League",
+            "http://dbpedia.org/resource/Choi_Soon-ho",
+            "http://dbpedia.org/resource/Rob_Landsbergen"
+        ]
+    ]
+}

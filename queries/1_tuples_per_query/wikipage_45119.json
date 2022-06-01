@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ada_Covered_Bridge",
+            "http://dbpedia.org/resource/Ada_Township,_Michigan",
+            "http://dbpedia.org/resource/Kent_County,_Michigan"
+        ]
+    ]
+}

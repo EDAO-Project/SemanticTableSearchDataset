@@ -1,0 +1,33 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ABC_New_England_North_West",
+            "http://dbpedia.org/resource/Armidale,_New_South_Wales",
+            "http://dbpedia.org/resource/ABC_New_England_North_West",
+            "http://dbpedia.org/resource/2RN"
+        ],
+        [
+            "http://dbpedia.org/resource/Radio_National",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/2RN",
+            "http://dbpedia.org/resource/2RN"
+        ],
+        [
+            "http://dbpedia.org/resource/Gosford",
+            "http://dbpedia.org/resource/107.7_2GO",
+            "http://dbpedia.org/resource/Rete_Italia"
+        ],
+        [
+            "http://dbpedia.org/resource/Radio_National",
+            "http://dbpedia.org/resource/Goulburn,_New_South_Wales",
+            "http://dbpedia.org/resource/2RN",
+            "http://dbpedia.org/resource/2RN"
+        ],
+        [
+            "http://dbpedia.org/resource/2GZ",
+            "http://dbpedia.org/resource/Orange,_New_South_Wales",
+            "http://dbpedia.org/resource/2GZ",
+            "http://dbpedia.org/resource/2EL"
+        ]
+    ]
+}

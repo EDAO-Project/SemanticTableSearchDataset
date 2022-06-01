@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_in_sports",
+            "http://dbpedia.org/resource/George_Benton",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_in_sports",
+            "http://dbpedia.org/resource/George_Benton",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_in_sports",
+            "http://dbpedia.org/resource/Eddie_Futch",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_in_sports",
+            "http://dbpedia.org/resource/Eddie_Futch",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_in_sports",
+            "http://dbpedia.org/resource/Emanuel_Steward",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

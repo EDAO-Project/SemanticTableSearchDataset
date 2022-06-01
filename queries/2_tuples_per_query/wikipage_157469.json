@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_in_film",
+            "http://dbpedia.org/resource/Macaulay_Culkin",
+            "http://dbpedia.org/resource/Home_Alone",
+            "http://dbpedia.org/resource/20th_Century_Fox"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_in_film",
+            "http://dbpedia.org/resource/Joshua_John_Miller",
+            "http://dbpedia.org/resource/Class_of_1999",
+            "http://dbpedia.org/resource/Vestron_Pictures"
+        ]
+    ]
+}

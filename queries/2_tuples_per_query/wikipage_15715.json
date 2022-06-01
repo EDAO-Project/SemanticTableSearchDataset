@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_in_baseball",
+            "http://dbpedia.org/resource/Sparky_Anderson",
+            "http://dbpedia.org/resource/Detroit_Tigers",
+            "http://dbpedia.org/resource/Buck_Rodgers",
+            "http://dbpedia.org/resource/Washington_Nationals"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_in_baseball",
+            "http://dbpedia.org/resource/Tony_La_Russa",
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Jim_Leyland",
+            "http://dbpedia.org/resource/Pittsburgh_Pirates"
+        ]
+    ]
+}

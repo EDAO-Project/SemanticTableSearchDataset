@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Burke_Channel",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/British_Columbia_Coast"
+        ]
+    ]
+}

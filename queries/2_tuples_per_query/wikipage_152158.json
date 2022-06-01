@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1930_in_aviation",
+            "http://dbpedia.org/resource/Charles_W._Holman",
+            "http://dbpedia.org/resource/Laird_Solution"
+        ],
+        [
+            "http://dbpedia.org/resource/1931_in_aviation",
+            "http://dbpedia.org/resource/Lowell_Bayles",
+            "http://dbpedia.org/resource/Gee_Bee_Model_Z"
+        ]
+    ]
+}

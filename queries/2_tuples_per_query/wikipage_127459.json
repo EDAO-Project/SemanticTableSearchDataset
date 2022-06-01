@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Neymar",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Santos_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Mauricio_Victorino",
+            "http://dbpedia.org/resource/Uruguay",
+            "http://dbpedia.org/resource/Club_Universidad_de_Chile"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Glasgow",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Scottish_Exhibition_and_Conference_Centre"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Mapes_Adams",
+            "http://dbpedia.org/resource/United_States_Marine_Corps",
+            "http://dbpedia.org/resource/Sergeant",
+            "http://dbpedia.org/resource/Tianjin"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_C._Adriance",
+            "http://dbpedia.org/resource/United_States_Marine_Corps",
+            "http://dbpedia.org/resource/Corporal",
+            "http://dbpedia.org/resource/Tianjin"
+        ]
+    ]
+}

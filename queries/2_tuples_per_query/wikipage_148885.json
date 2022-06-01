@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_Winter_Olympics",
+            "http://dbpedia.org/resource/Andreas_Linger",
+            "http://dbpedia.org/resource/Luge"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Summer_Olympics",
+            "http://dbpedia.org/resource/Hans-Peter_Steinacher",
+            "http://dbpedia.org/resource/Sailing"
+        ]
+    ]
+}

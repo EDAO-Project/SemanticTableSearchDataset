@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KAPI",
+            "http://dbpedia.org/resource/Ruston,_Louisiana",
+            "http://dbpedia.org/resource/American_Family_Association",
+            "http://dbpedia.org/resource/Religious_broadcasting"
+        ]
+    ]
+}

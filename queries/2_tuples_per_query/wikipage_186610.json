@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pieter_Weening",
+            "http://dbpedia.org/resource/Laurens_ten_Dam",
+            "http://dbpedia.org/resource/Marcel_Kittel"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberto_Contador",
+            "http://dbpedia.org/resource/Addy_Engels",
+            "http://dbpedia.org/resource/Pieter_Weening"
+        ]
+    ]
+}

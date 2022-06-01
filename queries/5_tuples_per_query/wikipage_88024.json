@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Black_Donnellys",
+            "http://dbpedia.org/resource/NBC",
+            "http://dbpedia.org/resource/Studio_60_on_the_Sunset_Strip"
+        ],
+        [
+            "http://dbpedia.org/resource/Body_of_Proof",
+            "http://dbpedia.org/resource/American_Broadcasting_Company",
+            "http://dbpedia.org/resource/Detroit_1-8-7"
+        ],
+        [
+            "http://dbpedia.org/resource/Happy_Days",
+            "http://dbpedia.org/resource/American_Broadcasting_Company",
+            "http://dbpedia.org/resource/Temperatures_Rising"
+        ],
+        [
+            "http://dbpedia.org/resource/Malcolm_in_the_Middle",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company",
+            "http://dbpedia.org/resource/Futurama"
+        ],
+        [
+            "http://dbpedia.org/resource/Mr._Belvedere",
+            "http://dbpedia.org/resource/American_Broadcasting_Company",
+            "http://dbpedia.org/resource/Hawaiian_Heat"
+        ]
+    ]
+}

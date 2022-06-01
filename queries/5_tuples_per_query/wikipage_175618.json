@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Chang_Chen",
+            "http://dbpedia.org/resource/The_Go_Master"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Ken_Watanabe",
+            "http://dbpedia.org/resource/Memories_of_Tomorrow"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Jet_Li",
+            "http://dbpedia.org/resource/The_Warlords",
+            "http://dbpedia.org/resource/The_Warlords"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Joe_Odagiri",
+            "http://dbpedia.org/resource/Tokyo_Tower:_Mom_and_Me,_and_Sometimes_Dad"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Song_Kang-ho",
+            "http://dbpedia.org/resource/Secret_Sunshine"
+        ]
+    ]
+}

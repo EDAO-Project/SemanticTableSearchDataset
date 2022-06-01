@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bankers_Life_Fieldhouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlotte,_North_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/PNC_Music_Pavilion"
+        ]
+    ]
+}

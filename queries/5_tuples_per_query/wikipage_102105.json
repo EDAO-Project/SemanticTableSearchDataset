@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/13_Assassins",
+            "http://dbpedia.org/resource/Takashi_Miike",
+            "http://dbpedia.org/resource/Martial_arts"
+        ],
+        [
+            "http://dbpedia.org/resource/14_Blades",
+            "http://dbpedia.org/resource/Donnie_Yen",
+            "http://dbpedia.org/resource/Martial_arts"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok_Knockout",
+            "http://dbpedia.org/resource/Panna_Rittikrai",
+            "http://dbpedia.org/resource/Sorapong_Chatree"
+        ],
+        [
+            "http://dbpedia.org/resource/Blades_of_Blood",
+            "http://dbpedia.org/resource/Lee_Joon-ik",
+            "http://dbpedia.org/resource/Cha_Seung-won"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Book_of_Eli",
+            "http://dbpedia.org/resource/Hughes_brothers",
+            "http://dbpedia.org/resource/Denzel_Washington"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Red-crowned_crane",
+            "http://dbpedia.org/resource/List_of_birds_of_Japan",
+            "http://dbpedia.org/resource/Tsurui,_Hokkaido",
+            "http://dbpedia.org/resource/Hokkaido"
+        ],
+        [
+            "http://dbpedia.org/resource/Black-tailed_gull",
+            "http://dbpedia.org/resource/List_of_birds_of_Japan",
+            "http://dbpedia.org/resource/Hachinohe,_Aomori",
+            "http://dbpedia.org/resource/Aomori_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Lake_Ogawara",
+            "http://dbpedia.org/resource/List_of_birds_of_Japan",
+            "http://dbpedia.org/resource/Misawa,_Aomori",
+            "http://dbpedia.org/resource/Aomori_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Aomori_Nebuta_Matsuri",
+            "http://dbpedia.org/resource/Japanese_festivals",
+            "http://dbpedia.org/resource/Aomori,_Aomori",
+            "http://dbpedia.org/resource/Aomori_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Chagu_Chagu_Umakko",
+            "http://dbpedia.org/resource/Japanese_festivals",
+            "http://dbpedia.org/resource/Takizawa,_Iwate",
+            "http://dbpedia.org/resource/Iwate_Prefecture"
+        ]
+    ]
+}

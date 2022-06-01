@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pioneer,_Louisiana",
+            "http://dbpedia.org/resource/West_Carroll_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Fire_department"
+        ],
+        [
+            "http://dbpedia.org/resource/Yazoo_City,_Mississippi",
+            "http://dbpedia.org/resource/Yazoo_County,_Mississippi",
+            "http://dbpedia.org/resource/U.S._Route_49"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooba,_Mississippi",
+            "http://dbpedia.org/resource/Kemper_County,_Mississippi",
+            "http://dbpedia.org/resource/Wahalak,_Mississippi"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellefontaine,_Mississippi",
+            "http://dbpedia.org/resource/Webster_County,_Mississippi",
+            "http://dbpedia.org/resource/Houston,_Mississippi"
+        ],
+        [
+            "http://dbpedia.org/resource/Meridian,_Mississippi",
+            "http://dbpedia.org/resource/Lauderdale_County,_Mississippi",
+            "http://dbpedia.org/resource/Nellieburg,_Mississippi"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yokohama_DeNA_BayStars",
+            "http://dbpedia.org/resource/Takuya_Asao",
+            "http://dbpedia.org/resource/Daisuke_Miura",
+            "http://dbpedia.org/resource/Hitoki_Iwase"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo_Yakult_Swallows",
+            "http://dbpedia.org/resource/Akifumi_Takahashi",
+            "http://dbpedia.org/resource/Takehiko_Oshimoto",
+            "http://dbpedia.org/resource/Hitoki_Iwase"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo_Yakult_Swallows",
+            "http://dbpedia.org/resource/Masanori_Ishikawa",
+            "http://dbpedia.org/resource/Takuya_Asao",
+            "http://dbpedia.org/resource/Lim_Chang-yong"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiroshima_Toyo_Carp",
+            "http://dbpedia.org/resource/Kazuki_Yoshimi",
+            "http://dbpedia.org/resource/Colby_Lewis",
+            "http://dbpedia.org/resource/Maximo_Nelson"
+        ],
+        [
+            "http://dbpedia.org/resource/Hanshin_Tigers",
+            "http://dbpedia.org/resource/Scott_Atchison",
+            "http://dbpedia.org/resource/Takuya_Asao",
+            "http://dbpedia.org/resource/Kyuji_Fujikawa"
+        ]
+    ]
+}

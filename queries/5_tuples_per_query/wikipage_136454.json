@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_Brooke,_Baron_Brooke_of_Cumnor",
+            "http://dbpedia.org/resource/Harold_Macmillan",
+            "http://dbpedia.org/resource/Selwyn_Lloyd"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Boyd-Carpenter,_Baron_Boyd-Carpenter",
+            "http://dbpedia.org/resource/Harold_Macmillan",
+            "http://dbpedia.org/resource/Reginald_Maudling"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Boyd-Carpenter,_Baron_Boyd-Carpenter",
+            "http://dbpedia.org/resource/Alec_Douglas-Home",
+            "http://dbpedia.org/resource/Reginald_Maudling"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Diamond,_Baron_Diamond",
+            "http://dbpedia.org/resource/Harold_Wilson",
+            "http://dbpedia.org/resource/James_Callaghan"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Diamond,_Baron_Diamond",
+            "http://dbpedia.org/resource/Harold_Wilson",
+            "http://dbpedia.org/resource/Roy_Jenkins"
+        ]
+    ]
+}

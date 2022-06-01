@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Royal_Artillery_Bazaar",
+            "http://dbpedia.org/resource/Sanda,_Lahore",
+            "http://dbpedia.org/resource/Lahore_Transport_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Lahore_Junction_railway_station",
+            "http://dbpedia.org/resource/Islampura",
+            "http://dbpedia.org/resource/Metrobus"
+        ]
+    ]
+}

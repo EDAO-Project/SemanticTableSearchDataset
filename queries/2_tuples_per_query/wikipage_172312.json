@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Batman:_Year_One",
+            "http://dbpedia.org/resource/Lauren_Montgomery",
+            "http://dbpedia.org/resource/Warner_Bros._Animation"
+        ],
+        [
+            "http://dbpedia.org/resource/Cars_2",
+            "http://dbpedia.org/resource/John_Lasseter",
+            "http://dbpedia.org/resource/Pixar"
+        ]
+    ]
+}

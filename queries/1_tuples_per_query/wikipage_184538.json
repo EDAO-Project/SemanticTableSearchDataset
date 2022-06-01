@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bakersfield,_California",
+            "http://dbpedia.org/resource/KKEY-LP",
+            "http://dbpedia.org/resource/Nexstar_Broadcasting_Group"
+        ]
+    ]
+}

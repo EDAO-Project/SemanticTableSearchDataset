@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_MTV_Europe_Music_Awards",
+            "http://dbpedia.org/resource/Red_Hot_Chili_Peppers",
+            "http://dbpedia.org/resource/Bon_Jovi"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_MTV_Europe_Music_Awards",
+            "http://dbpedia.org/resource/Blink-182",
+            "http://dbpedia.org/resource/Crazy_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_MTV_Europe_Music_Awards",
+            "http://dbpedia.org/resource/Red_Hot_Chili_Peppers",
+            "http://dbpedia.org/resource/Bon_Jovi"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_MTV_Europe_Music_Awards",
+            "http://dbpedia.org/resource/Linkin_Park",
+            "http://dbpedia.org/resource/Korn"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_MTV_Europe_Music_Awards",
+            "http://dbpedia.org/resource/The_White_Stripes",
+            "http://dbpedia.org/resource/Good_Charlotte"
+        ]
+    ]
+}

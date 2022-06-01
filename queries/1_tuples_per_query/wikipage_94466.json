@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KVOD",
+            "http://dbpedia.org/resource/Classical_music",
+            "http://dbpedia.org/resource/Lakewood,_Colorado",
+            "http://dbpedia.org/resource/Centennial,_Colorado"
+        ]
+    ]
+}

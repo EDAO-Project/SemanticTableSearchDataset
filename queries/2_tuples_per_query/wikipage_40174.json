@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ben_Crenshaw",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1984_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Seve_Ballesteros",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/1980_Masters_Tournament"
+        ]
+    ]
+}

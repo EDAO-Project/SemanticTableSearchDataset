@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Abrahams",
+            "http://dbpedia.org/resource/Robert_Hays",
+            "http://dbpedia.org/resource/Parody"
+        ],
+        [
+            "http://dbpedia.org/resource/Caddyshack",
+            "http://dbpedia.org/resource/Harold_Ramis",
+            "http://dbpedia.org/resource/Chevy_Chase"
+        ]
+    ]
+}

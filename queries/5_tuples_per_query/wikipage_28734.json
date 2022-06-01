@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ampara",
+            "http://dbpedia.org/resource/Sri_Lanka",
+            "http://dbpedia.org/resource/Ampara_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Anuradhapura",
+            "http://dbpedia.org/resource/Sri_Lanka",
+            "http://dbpedia.org/resource/Anuradhapura_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Batticaloa",
+            "http://dbpedia.org/resource/Sri_Lanka",
+            "http://dbpedia.org/resource/Batticaloa_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Colombo",
+            "http://dbpedia.org/resource/Sri_Lanka",
+            "http://dbpedia.org/resource/Ratmalana_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Hambantota",
+            "http://dbpedia.org/resource/Sri_Lanka",
+            "http://dbpedia.org/resource/Mattala_Rajapaksa_International_Airport"
+        ]
+    ]
+}

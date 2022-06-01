@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Italy_national_rugby_union_team",
+            "http://dbpedia.org/resource/Cardiff",
+            "http://dbpedia.org/resource/Millennium_Stadium",
+            "http://dbpedia.org/resource/2000_Six_Nations_Championship"
+        ]
+    ]
+}

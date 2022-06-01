@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_ONE_Championship_events",
+            "http://dbpedia.org/resource/Mall_of_Asia_Arena",
+            "http://dbpedia.org/resource/Pasay",
+            "http://dbpedia.org/resource/Star_Sports_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_ONE_Championship_events",
+            "http://dbpedia.org/resource/Putra_Indoor_Stadium",
+            "http://dbpedia.org/resource/Bukit_Jalil",
+            "http://dbpedia.org/resource/Star_Sports_Network"
+        ]
+    ]
+}

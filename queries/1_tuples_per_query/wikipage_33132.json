@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Magnet",
+            "http://dbpedia.org/resource/Ham",
+            "http://dbpedia.org/resource/Silver",
+            "http://dbpedia.org/resource/Crash_test_dummy"
+        ]
+    ]
+}

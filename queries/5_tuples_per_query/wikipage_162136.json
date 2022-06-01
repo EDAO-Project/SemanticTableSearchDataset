@@ -1,0 +1,31 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lloydminster",
+            "http://dbpedia.org/resource/CKSA-DT",
+            "http://dbpedia.org/resource/CBC_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Lloydminster",
+            "http://dbpedia.org/resource/CITL-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Moose_Jaw",
+            "http://dbpedia.org/resource/CKCK-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network",
+            "http://dbpedia.org/resource/CKCK-DT"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Battleford",
+            "http://dbpedia.org/resource/CFQC-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network",
+            "http://dbpedia.org/resource/CFQC-DT"
+        ],
+        [
+            "http://dbpedia.org/resource/Prince_Albert,_Saskatchewan",
+            "http://dbpedia.org/resource/CIPA-TV",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ]
+    ]
+}

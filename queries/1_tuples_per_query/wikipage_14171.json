@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_Cannes_Film_Festival",
+            "http://dbpedia.org/resource/Investigation_of_a_Citizen_Above_Suspicion",
+            "http://dbpedia.org/resource/Elio_Petri",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

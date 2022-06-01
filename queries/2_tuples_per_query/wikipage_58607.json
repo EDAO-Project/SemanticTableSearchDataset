@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Claudia_Hengst",
+            "http://dbpedia.org/resource/Judith_Young",
+            "http://dbpedia.org/resource/Elizabeth_Prinsloo"
+        ],
+        [
+            "http://dbpedia.org/resource/Claudia_Hengst",
+            "http://dbpedia.org/resource/Gemma_Dashwood",
+            "http://dbpedia.org/resource/Sarah_Storey"
+        ]
+    ]
+}

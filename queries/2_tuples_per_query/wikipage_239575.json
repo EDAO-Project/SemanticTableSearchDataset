@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Televisa_Regional",
+            "http://dbpedia.org/resource/XEPM-TDT",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/CBS",
+            "http://dbpedia.org/resource/KDBC-TV",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

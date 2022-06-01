@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberavon_RFC",
+            "http://dbpedia.org/resource/Talbot_Athletic_Ground",
+            "http://dbpedia.org/resource/Port_Talbot"
+        ],
+        [
+            "http://dbpedia.org/resource/Bedford_Blues",
+            "http://dbpedia.org/resource/Goldington_Road",
+            "http://dbpedia.org/resource/Bedford"
+        ],
+        [
+            "http://dbpedia.org/resource/Connacht_Rugby",
+            "http://dbpedia.org/resource/Galway_Sportsgrounds",
+            "http://dbpedia.org/resource/Galway"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornish_Pirates",
+            "http://dbpedia.org/resource/Mennaye_Field",
+            "http://dbpedia.org/resource/Penzance"
+        ],
+        [
+            "http://dbpedia.org/resource/Ealing_Trailfinders_Rugby_Club",
+            "http://dbpedia.org/resource/Trailfinders_Sports_Ground",
+            "http://dbpedia.org/resource/West_Ealing"
+        ]
+    ]
+}

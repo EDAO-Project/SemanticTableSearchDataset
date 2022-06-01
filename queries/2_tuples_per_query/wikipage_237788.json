@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/37th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Arturo_Sandoval",
+            "http://dbpedia.org/resource/Ray_Barretto"
+        ],
+        [
+            "http://dbpedia.org/resource/38th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Antonio_Brasileiro",
+            "http://dbpedia.org/resource/Jerry_Gonzalez"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/50th_Academy_Awards",
+            "http://dbpedia.org/resource/Annie_Hall",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actor",
+            "http://dbpedia.org/resource/Woody_Allen"
+        ],
+        [
+            "http://dbpedia.org/resource/50th_Academy_Awards",
+            "http://dbpedia.org/resource/Annie_Hall",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actress",
+            "http://dbpedia.org/resource/Diane_Keaton"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berkley_School",
+            "http://dbpedia.org/resource/Maryland_Route_623",
+            "http://dbpedia.org/resource/Darlington,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Churchville_Presbyterian_Church",
+            "http://dbpedia.org/resource/Maryland_Route_22",
+            "http://dbpedia.org/resource/Churchville,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Deer_Creek_Friends_Meetinghouse",
+            "http://dbpedia.org/resource/Maryland_Route_161",
+            "http://dbpedia.org/resource/Darlington,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Finney_Houses_Historic_District",
+            "http://dbpedia.org/resource/Maryland_Route_155",
+            "http://dbpedia.org/resource/Churchville,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Havre_de_Grace_Historic_District",
+            "http://dbpedia.org/resource/Chesapeake_Bay",
+            "http://dbpedia.org/resource/Havre_de_Grace,_Maryland"
+        ]
+    ]
+}

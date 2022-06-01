@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aldo_Manganaro",
+            "http://dbpedia.org/resource/Uwe_Mehlmann",
+            "http://dbpedia.org/resource/Enrique_Cepeda"
+        ],
+        [
+            "http://dbpedia.org/resource/Freeman_Register",
+            "http://dbpedia.org/resource/Kim_Du-chun",
+            "http://dbpedia.org/resource/Eric_Stenback"
+        ]
+    ]
+}

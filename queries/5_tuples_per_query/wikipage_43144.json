@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Barbados",
+            "http://dbpedia.org/resource/Belarus",
+            "http://dbpedia.org/resource/Belize",
+            "http://dbpedia.org/resource/Benin"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolivia",
+            "http://dbpedia.org/resource/Botswana",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Burkina_Faso",
+            "http://dbpedia.org/resource/Burundi"
+        ],
+        [
+            "http://dbpedia.org/resource/Cambodia",
+            "http://dbpedia.org/resource/Cameroon",
+            "http://dbpedia.org/resource/Central_African_Republic",
+            "http://dbpedia.org/resource/Chad",
+            "http://dbpedia.org/resource/Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/Republic_of_the_Congo",
+            "http://dbpedia.org/resource/Costa_Rica",
+            "http://dbpedia.org/resource/Ivory_Coast",
+            "http://dbpedia.org/resource/Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Cyprus",
+            "http://dbpedia.org/resource/Czech_Republic",
+            "http://dbpedia.org/resource/Dominican_Republic",
+            "http://dbpedia.org/resource/Ecuador"
+        ]
+    ]
+}

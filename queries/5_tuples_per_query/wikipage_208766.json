@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pietro_Mennea",
+            "http://dbpedia.org/resource/Allan_Wells",
+            "http://dbpedia.org/resource/Don_Quarrie"
+        ],
+        [
+            "http://dbpedia.org/resource/Viktor_Markin",
+            "http://dbpedia.org/resource/Rick_Mitchell",
+            "http://dbpedia.org/resource/Frank_Schaffer"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Ovett",
+            "http://dbpedia.org/resource/Sebastian_Coe",
+            "http://dbpedia.org/resource/Nikolay_Kirov"
+        ],
+        [
+            "http://dbpedia.org/resource/Miruts_Yifter",
+            "http://dbpedia.org/resource/Suleiman_Nyambui",
+            "http://dbpedia.org/resource/Kaarlo_Maaninka"
+        ],
+        [
+            "http://dbpedia.org/resource/Miruts_Yifter",
+            "http://dbpedia.org/resource/Kaarlo_Maaninka",
+            "http://dbpedia.org/resource/Mohamed_Kedir"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/Scott_Olsen",
+            "http://dbpedia.org/resource/Matt_Albers",
+            "http://dbpedia.org/resource/Kevin_Gregg"
+        ]
+    ]
+}

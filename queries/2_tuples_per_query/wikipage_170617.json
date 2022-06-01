@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manhattan_Parade",
+            "http://dbpedia.org/resource/Lloyd_Bacon",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Public_Enemy",
+            "http://dbpedia.org/resource/William_A._Wellman",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Penn_State_Nittany_Lions_basketball",
+            "http://dbpedia.org/resource/John_Egli",
+            "http://dbpedia.org/resource/Princeton_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/Princeton_Tigers",
+            "http://dbpedia.org/resource/Butch_van_Breda_Kolff",
+            "http://dbpedia.org/resource/Wichita_State_University"
+        ]
+    ]
+}

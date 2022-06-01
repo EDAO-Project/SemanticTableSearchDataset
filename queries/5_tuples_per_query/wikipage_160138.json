@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Steve_Backley",
+            "http://dbpedia.org/resource/London_Borough_of_Bexley",
+            "http://dbpedia.org/resource/Sport_of_athletics"
+        ],
+        [
+            "http://dbpedia.org/resource/Linford_Christie",
+            "http://dbpedia.org/resource/London_Borough_of_Hammersmith_and_Fulham",
+            "http://dbpedia.org/resource/Sport_of_athletics"
+        ],
+        [
+            "http://dbpedia.org/resource/Luol_Deng",
+            "http://dbpedia.org/resource/London_Borough_of_Croydon",
+            "http://dbpedia.org/resource/Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Christine_Ohuruogu",
+            "http://dbpedia.org/resource/London_Borough_of_Newham",
+            "http://dbpedia.org/resource/Sport_of_athletics"
+        ],
+        [
+            "http://dbpedia.org/resource/Tasha_Danvers",
+            "http://dbpedia.org/resource/London_Borough_of_Croydon",
+            "http://dbpedia.org/resource/Sport_of_athletics"
+        ]
+    ]
+}

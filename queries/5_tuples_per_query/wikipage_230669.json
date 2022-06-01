@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1986_in_sports",
+            "http://dbpedia.org/resource/Koos_Maasdijk",
+            "http://dbpedia.org/resource/Elly_van_Hulst"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_in_sports",
+            "http://dbpedia.org/resource/Koos_Maasdijk",
+            "http://dbpedia.org/resource/Elly_van_Hulst"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_in_sports",
+            "http://dbpedia.org/resource/Robert_Eenhoorn",
+            "http://dbpedia.org/resource/Petra_Kamstra"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_in_sports",
+            "http://dbpedia.org/resource/Regilio_Tuur",
+            "http://dbpedia.org/resource/Petra_Kamstra"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_in_sports",
+            "http://dbpedia.org/resource/John_den_Braber",
+            "http://dbpedia.org/resource/Jacqueline_Goormachtigh"
+        ]
+    ]
+}

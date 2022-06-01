@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurozone",
+            "http://dbpedia.org/resource/Norwegian_krone",
+            "http://dbpedia.org/resource/Norwegian_krone"
+        ]
+    ]
+}

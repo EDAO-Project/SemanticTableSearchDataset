@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ade_Gardner",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Barrow_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Gidley",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Newcastle_Knights"
+        ],
+        [
+            "http://dbpedia.org/resource/Francis_Meli",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/New_Zealand_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Leon_Pryce",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Bradford_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Sean_Long",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Widnes_Vikings"
+        ]
+    ]
+}

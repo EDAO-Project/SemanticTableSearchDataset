@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eastern_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Ampara_District",
+            "http://dbpedia.org/resource/Ampara"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Central_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Anuradhapura_District",
+            "http://dbpedia.org/resource/Anuradhapura"
+        ],
+        [
+            "http://dbpedia.org/resource/Uva_Province",
+            "http://dbpedia.org/resource/Badulla_District",
+            "http://dbpedia.org/resource/Badulla"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Colombo_District",
+            "http://dbpedia.org/resource/Battaramulla"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastern_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Batticaloa_District",
+            "http://dbpedia.org/resource/Batticaloa"
+        ]
+    ]
+}

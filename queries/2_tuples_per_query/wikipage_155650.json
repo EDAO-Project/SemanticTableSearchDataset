@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Biz_Mackey",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Indianapolis_ABCs"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Malarcher",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Indianapolis_ABCs"
+        ]
+    ]
+}

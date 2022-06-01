@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bonneville_Dam",
+            "http://dbpedia.org/resource/Bonneville,_Oregon",
+            "http://dbpedia.org/resource/Multnomah_County,_Oregon",
+            "http://dbpedia.org/resource/Construction"
+        ]
+    ]
+}

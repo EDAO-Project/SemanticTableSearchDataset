@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ben_Austin",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sydney"
+        ]
+    ]
+}

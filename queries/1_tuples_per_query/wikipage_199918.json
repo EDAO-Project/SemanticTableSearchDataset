@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Louisville",
+            "http://dbpedia.org/resource/Denny_Crum",
+            "http://dbpedia.org/resource/Duke_University"
+        ]
+    ]
+}

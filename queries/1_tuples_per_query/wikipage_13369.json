@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Pat_Hentgen",
+            "http://dbpedia.org/resource/John_Burkett",
+            "http://dbpedia.org/resource/Jorge_Julio"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/7th_Dragon",
+            "http://dbpedia.org/resource/Nintendo_DS",
+            "http://dbpedia.org/resource/Role-playing_video_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Atomic_Battle_Dragons",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Jousting"
+        ]
+    ]
+}

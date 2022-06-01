@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Flogging_Molly",
+            "http://dbpedia.org/resource/Drunken_Lullabies",
+            "http://dbpedia.org/resource/SideOneDummy_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Flogging_Molly",
+            "http://dbpedia.org/resource/Within_a_Mile_of_Home",
+            "http://dbpedia.org/resource/SideOneDummy_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bouncing_Souls",
+            "http://dbpedia.org/resource/The_Gold_Record",
+            "http://dbpedia.org/resource/Epitaph_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Street_Dogs",
+            "http://dbpedia.org/resource/Fading_American_Dream",
+            "http://dbpedia.org/resource/DRT_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bouncing_Souls",
+            "http://dbpedia.org/resource/20th_Anniversary_Series",
+            "http://dbpedia.org/resource/Chunksaah_Records"
+        ]
+    ]
+}

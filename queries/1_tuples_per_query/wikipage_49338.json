@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acoustics",
+            "http://dbpedia.org/resource/Ernst_Chladni",
+            "http://dbpedia.org/resource/Oscillation"
+        ]
+    ]
+}

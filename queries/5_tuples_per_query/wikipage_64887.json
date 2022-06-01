@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bad_Karlshafen_station",
+            "http://dbpedia.org/resource/Bad_Karlshafen",
+            "http://dbpedia.org/resource/Solling_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Bensheim_station",
+            "http://dbpedia.org/resource/Bensheim",
+            "http://dbpedia.org/resource/Main-Neckar_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Bensheim-Auerbach_station",
+            "http://dbpedia.org/resource/Bensheim",
+            "http://dbpedia.org/resource/Main-Neckar_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Biblis_station",
+            "http://dbpedia.org/resource/Biblis",
+            "http://dbpedia.org/resource/Ried_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Darmstadt-Arheilgen",
+            "http://dbpedia.org/resource/Darmstadt",
+            "http://dbpedia.org/resource/Main-Neckar_Railway"
+        ]
+    ]
+}

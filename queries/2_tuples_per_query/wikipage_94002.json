@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shannon_Szabados",
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/MacEwan_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Tessa_Bonhomme",
+            "http://dbpedia.org/resource/Greater_Sudbury",
+            "http://dbpedia.org/resource/Calgary_Oval_X-Treme"
+        ]
+    ]
+}

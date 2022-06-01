@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beauchamp_Day",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Perth"
+        ],
+        [
+            "http://dbpedia.org/resource/Eric_Liddell",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Paris"
+        ],
+        [
+            "http://dbpedia.org/resource/Godfrey_Brown",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/Rudolf_Harbig",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Ardalion_Ignatyev",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Moscow"
+        ]
+    ]
+}

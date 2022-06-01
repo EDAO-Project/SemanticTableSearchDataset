@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/Antelope,_California",
+            "http://dbpedia.org/resource/Sierra_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornerback",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Miami_Northwestern_Senior_High_School"
+        ]
+    ]
+}

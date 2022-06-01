@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fritz-Walter-Stadion",
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ],
+        [
+            "http://dbpedia.org/resource/BRITA-Arena",
+            "http://dbpedia.org/resource/SV_Wehen_Wiesbaden",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Tynecastle_Stadium",
+            "http://dbpedia.org/resource/Scottish_Premier_League",
+            "http://dbpedia.org/resource/Jamie_Mole"
+        ],
+        [
+            "http://dbpedia.org/resource/Tynecastle_Stadium",
+            "http://dbpedia.org/resource/Scottish_Premier_League",
+            "http://dbpedia.org/resource/Laryea_Kingston"
+        ],
+        [
+            "http://dbpedia.org/resource/Easter_Road",
+            "http://dbpedia.org/resource/Scottish_Premier_League",
+            "http://dbpedia.org/resource/Bruno_Aguiar"
+        ]
+    ]
+}

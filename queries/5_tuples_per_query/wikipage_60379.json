@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Ernst_Gebendinger",
+            "http://dbpedia.org/resource/Olavi_Rove",
+            "http://dbpedia.org/resource/Walter_Lehmann"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Yuri_Titov",
+            "http://dbpedia.org/resource/Masao_Takemoto",
+            "http://dbpedia.org/resource/Takashi_Ono"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Ralf-Peter_Hemmann",
+            "http://dbpedia.org/resource/Artur_Akopyan",
+            "http://dbpedia.org/resource/Bogdan_Makuts"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/Yoo_Ok-ryul",
+            "http://dbpedia.org/resource/Vitaly_Scherbo",
+            "http://dbpedia.org/resource/Yutaka_Aihara"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/Yoo_Ok-ryul",
+            "http://dbpedia.org/resource/Ihor_Korobchynskyi",
+            "http://dbpedia.org/resource/Curtis_Hibbert"
+        ]
+    ]
+}

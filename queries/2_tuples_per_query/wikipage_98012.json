@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cleveland_Spiders",
+            "http://dbpedia.org/resource/National_League",
+            "http://dbpedia.org/resource/Tom_Loftus",
+            "http://dbpedia.org/resource/1889_in_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland_Spiders",
+            "http://dbpedia.org/resource/National_League",
+            "http://dbpedia.org/resource/Gus_Schmelz",
+            "http://dbpedia.org/resource/1890_in_baseball"
+        ]
+    ]
+}

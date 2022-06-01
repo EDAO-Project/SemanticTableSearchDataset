@@ -1,0 +1,17 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trbovlje_Power_Station",
+            "http://dbpedia.org/resource/Chimney",
+            "http://dbpedia.org/resource/Slovenia",
+            "http://dbpedia.org/resource/Trbovlje",
+            "http://dbpedia.org/resource/Chimney"
+        ],
+        [
+            "http://dbpedia.org/resource/Plomin_Power_Station",
+            "http://dbpedia.org/resource/Chimney",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Plomin"
+        ]
+    ]
+}

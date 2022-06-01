@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austin_and_Northwestern_Railroad",
+            "http://dbpedia.org/resource/Southern_Pacific_Transportation_Company",
+            "http://dbpedia.org/resource/Houston_and_Texas_Central_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Burlington-Rock_Island_Railroad",
+            "http://dbpedia.org/resource/Chicago,_Burlington_and_Quincy_Railroad",
+            "http://dbpedia.org/resource/Fort_Worth_and_Denver_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Cane_Belt_Railroad",
+            "http://dbpedia.org/resource/Atchison,_Topeka_and_Santa_Fe_Railway",
+            "http://dbpedia.org/resource/Gulf,_Colorado_and_Santa_Fe_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Paso_and_Northeastern_Railway",
+            "http://dbpedia.org/resource/Southern_Pacific_Transportation_Company",
+            "http://dbpedia.org/resource/El_Paso_and_Southwestern_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Worth_and_Denver_Railway",
+            "http://dbpedia.org/resource/Chicago,_Burlington_and_Quincy_Railroad",
+            "http://dbpedia.org/resource/Burlington_Northern_Railroad"
+        ]
+    ]
+}

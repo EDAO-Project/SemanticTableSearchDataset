@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Hammersmith"
+        ],
+        [
+            "http://dbpedia.org/resource/Santa_Monica,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Apple_Store"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Vic_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Red_Bank,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Count_Basie_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Somerville,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Somerville_Theatre"
+        ]
+    ]
+}

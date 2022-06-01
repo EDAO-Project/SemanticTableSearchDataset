@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Citi_Performing_Arts_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Public_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Detroit_Masonic_Temple"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Auditorium_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Music_hall"
+        ]
+    ]
+}

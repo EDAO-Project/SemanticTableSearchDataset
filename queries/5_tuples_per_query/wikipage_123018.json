@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hangman_Jury",
+            "http://dbpedia.org/resource/Aerosmith",
+            "http://dbpedia.org/resource/Steven_Tyler"
+        ],
+        [
+            "http://dbpedia.org/resource/Leave_a_Tender_Moment_Alone",
+            "http://dbpedia.org/resource/Billy_Joel",
+            "http://dbpedia.org/resource/Toots_Thielemans"
+        ],
+        [
+            "http://dbpedia.org/resource/Will_It_Go_Round_in_Circles",
+            "http://dbpedia.org/resource/Billy_Preston",
+            "http://dbpedia.org/resource/Stevie_Wonder"
+        ],
+        [
+            "http://dbpedia.org/resource/Blue_Bayou",
+            "http://dbpedia.org/resource/Roy_Orbison",
+            "http://dbpedia.org/resource/Charlie_McCoy"
+        ],
+        [
+            "http://dbpedia.org/resource/I_Feel_for_You",
+            "http://dbpedia.org/resource/Chaka_Khan",
+            "http://dbpedia.org/resource/Stevie_Wonder"
+        ]
+    ]
+}

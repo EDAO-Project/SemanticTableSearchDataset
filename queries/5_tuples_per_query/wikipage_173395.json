@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Bruno_Senna",
+            "http://dbpedia.org/resource/2012_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Enrique_Bernoldi",
+            "http://dbpedia.org/resource/2012_FIA_World_Endurance_Championship_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Luciano_Burti",
+            "http://dbpedia.org/resource/2012_Stock_Car_Brasil_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Ricardo_Zonta",
+            "http://dbpedia.org/resource/2012_Stock_Car_Brasil_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Augusto_Farfus",
+            "http://dbpedia.org/resource/2012_Deutsche_Tourenwagen_Masters_season"
+        ]
+    ]
+}

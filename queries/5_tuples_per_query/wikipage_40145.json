@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Madeleine_Albright",
+            "http://dbpedia.org/resource/Czechoslovakia",
+            "http://dbpedia.org/resource/United_States_Secretary_of_State"
+        ],
+        [
+            "http://dbpedia.org/resource/Sigurd_Anderson",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Governor_of_South_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/J._Hugo_Aronson",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/List_of_Governors_of_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/James_G._Barry",
+            "http://dbpedia.org/resource/Ireland",
+            "http://dbpedia.org/resource/Mayor"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Bernard_Barry",
+            "http://dbpedia.org/resource/Ireland",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives"
+        ]
+    ]
+}

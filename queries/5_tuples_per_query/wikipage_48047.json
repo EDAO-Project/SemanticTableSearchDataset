@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_in_baseball",
+            "http://dbpedia.org/resource/Lo_Kuo-chong",
+            "http://dbpedia.org/resource/Uni-President_7-Eleven_Lions",
+            "http://dbpedia.org/resource/Infielder"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_in_baseball",
+            "http://dbpedia.org/resource/Chang_Tai-shan",
+            "http://dbpedia.org/resource/Wei_Chuan_Dragons",
+            "http://dbpedia.org/resource/Infielder"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_baseball",
+            "http://dbpedia.org/resource/Tsao_Chun-yang",
+            "http://dbpedia.org/resource/Uni-President_7-Eleven_Lions",
+            "http://dbpedia.org/resource/Pitcher"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_baseball",
+            "http://dbpedia.org/resource/Chen_Chih-yuan",
+            "http://dbpedia.org/resource/Chinatrust_Brothers",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_baseball",
+            "http://dbpedia.org/resource/Shih_Chih-wei",
+            "http://dbpedia.org/resource/Lamigo_Monkeys",
+            "http://dbpedia.org/resource/Infielder"
+        ]
+    ]
+}

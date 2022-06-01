@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nanjing",
+            "http://dbpedia.org/resource/East_China",
+            "http://dbpedia.org/resource/Jiangsu",
+            "http://dbpedia.org/resource/Xuanwu_District,_Nanjing"
+        ]
+    ]
+}

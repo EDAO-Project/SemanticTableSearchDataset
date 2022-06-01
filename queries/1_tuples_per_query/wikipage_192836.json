@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joachim_Murat",
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/Louis_Bonaparte"
+        ]
+    ]
+}

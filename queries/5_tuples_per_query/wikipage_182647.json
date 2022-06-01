@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Westbury,_New_York",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/NYCB_Theatre_at_Westbury"
+        ],
+        [
+            "http://dbpedia.org/resource/Westbury,_New_York",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/NYCB_Theatre_at_Westbury"
+        ],
+        [
+            "http://dbpedia.org/resource/Westbury,_New_York",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/NYCB_Theatre_at_Westbury"
+        ],
+        [
+            "http://dbpedia.org/resource/Westbury,_New_York",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/NYCB_Theatre_at_Westbury"
+        ],
+        [
+            "http://dbpedia.org/resource/Merrillville,_Indiana",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Star_Plaza_Theatre"
+        ]
+    ]
+}

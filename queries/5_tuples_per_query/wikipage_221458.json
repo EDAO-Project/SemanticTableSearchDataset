@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Augsburg",
+            "http://dbpedia.org/resource/Augsburg",
+            "http://dbpedia.org/resource/WWK_ARENA"
+        ],
+        [
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen",
+            "http://dbpedia.org/resource/Leverkusen",
+            "http://dbpedia.org/resource/BayArena"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Allianz_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Borussia_Dortmund",
+            "http://dbpedia.org/resource/Dortmund",
+            "http://dbpedia.org/resource/Westfalenstadion"
+        ],
+        [
+            "http://dbpedia.org/resource/Eintracht_Braunschweig",
+            "http://dbpedia.org/resource/Braunschweig",
+            "http://dbpedia.org/resource/Eintracht-Stadion"
+        ]
+    ]
+}

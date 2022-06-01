@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Haneda_Airport",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Beijing_Capital_International_Airport",
+            "http://dbpedia.org/resource/Beijing"
+        ],
+        [
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Suvarnabhumi_Airport",
+            "http://dbpedia.org/resource/Bangkok"
+        ],
+        [
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Singapore_Changi_Airport",
+            "http://dbpedia.org/resource/Changi"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Dubai_International_Airport",
+            "http://dbpedia.org/resource/Dubai"
+        ]
+    ]
+}

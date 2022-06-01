@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Illinois",
+            "http://dbpedia.org/resource/Goodman_Theatre",
+            "http://dbpedia.org/resource/Art_Institute_of_Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Iowa",
+            "http://dbpedia.org/resource/Grinnell_College",
+            "http://dbpedia.org/resource/Grinnell,_Iowa"
+        ]
+    ]
+}

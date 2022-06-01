@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Infernales",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Fabulous_Moolah",
+            "http://dbpedia.org/resource/Baltimore",
+            "http://dbpedia.org/resource/House_show",
+            "http://dbpedia.org/resource/Judy_Grable"
+        ]
+    ]
+}

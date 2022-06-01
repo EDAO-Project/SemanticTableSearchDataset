@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bhagalpur",
+            "http://dbpedia.org/resource/Ganges",
+            "http://dbpedia.org/resource/Bihar"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolkata",
+            "http://dbpedia.org/resource/Ganges",
+            "http://dbpedia.org/resource/West_Bengal"
+        ],
+        [
+            "http://dbpedia.org/resource/Chandauli",
+            "http://dbpedia.org/resource/Ganges",
+            "http://dbpedia.org/resource/Uttar_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Jajmau",
+            "http://dbpedia.org/resource/Ganges",
+            "http://dbpedia.org/resource/Uttar_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Nawabganj,_Barabanki",
+            "http://dbpedia.org/resource/Ganges",
+            "http://dbpedia.org/resource/Uttar_Pradesh"
+        ]
+    ]
+}

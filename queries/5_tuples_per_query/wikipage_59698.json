@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Detroit_Tigers_season",
+            "http://dbpedia.org/resource/Carl_Pavano",
+            "http://dbpedia.org/resource/Armando_Galarraga",
+            "http://dbpedia.org/resource/Kerry_Wood"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Detroit_Tigers_season",
+            "http://dbpedia.org/resource/Joel_Zumaya",
+            "http://dbpedia.org/resource/Rafael_Betancourt",
+            "http://dbpedia.org/resource/Fernando_Rodney"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Detroit_Tigers_season",
+            "http://dbpedia.org/resource/Justin_Verlander",
+            "http://dbpedia.org/resource/Cliff_Lee",
+            "http://dbpedia.org/resource/Fernando_Rodney"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Toronto_Blue_Jays_season",
+            "http://dbpedia.org/resource/Rafael_Betancourt",
+            "http://dbpedia.org/resource/Shawn_Camp",
+            "http://dbpedia.org/resource/Jensen_Lewis"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Boston_Red_Sox_season",
+            "http://dbpedia.org/resource/Carl_Pavano",
+            "http://dbpedia.org/resource/Justin_Masterson",
+            "http://dbpedia.org/resource/Aaron_Laffey"
+        ]
+    ]
+}

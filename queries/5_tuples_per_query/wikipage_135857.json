@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_Guerbert",
+            "http://dbpedia.org/resource/Luzenac_AP",
+            "http://dbpedia.org/resource/Dijon_FCO"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_Mathlouthi",
+            "http://dbpedia.org/resource/RC_Strasbourg_Alsace",
+            "http://dbpedia.org/resource/RC_Lens"
+        ],
+        [
+            "http://dbpedia.org/resource/Omar_Kossoko",
+            "http://dbpedia.org/resource/Amiens_SC",
+            "http://dbpedia.org/resource/AJ_Auxerre"
+        ],
+        [
+            "http://dbpedia.org/resource/Mathieu_Duhamel",
+            "http://dbpedia.org/resource/Troyes_AC",
+            "http://dbpedia.org/resource/FC_Metz"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_Abdoulaye",
+            "http://dbpedia.org/resource/Clermont_Foot",
+            "http://dbpedia.org/resource/FC_Metz"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1959_NBA_draft",
+            "http://dbpedia.org/resource/Don_Hennon",
+            "http://dbpedia.org/resource/Sacramento_Kings"
+        ]
+    ]
+}

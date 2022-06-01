@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rasmus_Lindgren",
+            "http://dbpedia.org/resource/Free_agent",
+            "http://dbpedia.org/resource/FC_Groningen"
+        ],
+        [
+            "http://dbpedia.org/resource/Mathias_Schamp",
+            "http://dbpedia.org/resource/K.S.V._Oudenaarde",
+            "http://dbpedia.org/resource/Heracles_Almelo"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Hiariej",
+            "http://dbpedia.org/resource/FC_Groningen",
+            "http://dbpedia.org/resource/FC_Emmen"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonas_Ivens",
+            "http://dbpedia.org/resource/FC_Groningen",
+            "http://dbpedia.org/resource/Waasland-Beveren"
+        ],
+        [
+            "http://dbpedia.org/resource/Roly_Bonevacia",
+            "http://dbpedia.org/resource/AFC_Ajax",
+            "http://dbpedia.org/resource/Roda_JC_Kerkrade"
+        ]
+    ]
+}

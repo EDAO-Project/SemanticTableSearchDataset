@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NK_Bosna_Visoko",
+            "http://dbpedia.org/resource/Visoko",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/HNK_Cibalia",
+            "http://dbpedia.org/resource/Vinkovci",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Famos_Hrasnica",
+            "http://dbpedia.org/resource/Hrasnica",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Iskra_Bugojno",
+            "http://dbpedia.org/resource/Bugojno",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Istra",
+            "http://dbpedia.org/resource/Pula",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Croatia"
+        ]
+    ]
+}

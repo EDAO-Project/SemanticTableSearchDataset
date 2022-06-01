@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gavin_Exell",
+            "http://dbpedia.org/resource/Fitzroy_Football_Club",
+            "http://dbpedia.org/resource/Geelong_Football_Club"
+        ]
+    ]
+}

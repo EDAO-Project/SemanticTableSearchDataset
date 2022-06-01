@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Millar",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Geox-TMC"
+        ],
+        [
+            "http://dbpedia.org/resource/Gustav_Larsson",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Cycle_Collstrop"
+        ]
+    ]
+}

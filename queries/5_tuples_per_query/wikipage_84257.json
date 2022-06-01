@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1943_NFL_draft",
+            "http://dbpedia.org/resource/Marvin_Bass",
+            "http://dbpedia.org/resource/Detroit_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/1947_NFL_draft",
+            "http://dbpedia.org/resource/Ralph_Sazio",
+            "http://dbpedia.org/resource/Pittsburgh_Steelers"
+        ],
+        [
+            "http://dbpedia.org/resource/1948_NFL_draft",
+            "http://dbpedia.org/resource/Knox_Ramsey",
+            "http://dbpedia.org/resource/Chicago_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/1948_NFL_draft",
+            "http://dbpedia.org/resource/Lou_Creekmur",
+            "http://dbpedia.org/resource/Philadelphia_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_NFL_draft",
+            "http://dbpedia.org/resource/Jack_Cloud",
+            "http://dbpedia.org/resource/Green_Bay_Packers"
+        ]
+    ]
+}

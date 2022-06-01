@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sergey_Smiryagin",
+            "http://dbpedia.org/resource/Aleksey_Markovsky",
+            "http://dbpedia.org/resource/Sven_Lodziewski"
+        ],
+        [
+            "http://dbpedia.org/resource/Sven_Lodziewski",
+            "http://dbpedia.org/resource/Vladimir_Shemetov",
+            "http://dbpedia.org/resource/Serhiy_Krasyuk"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Invasion_of_Sawiq",
+            "http://dbpedia.org/resource/Abu_Sufyan_ibn_Harb",
+            "http://dbpedia.org/resource/Ibn_Hisham"
+        ],
+        [
+            "http://dbpedia.org/resource/Invasion_of_Banu_Qaynuqa",
+            "http://dbpedia.org/resource/Constitution_of_Medina",
+            "http://dbpedia.org/resource/Quran"
+        ],
+        [
+            "http://dbpedia.org/resource/Invasion_of_Dhi_Amr",
+            "http://dbpedia.org/resource/Medina",
+            "http://dbpedia.org/resource/Quran"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Mission_of_Amr_bin_Umayyah_al-Damri",
+            "http://dbpedia.org/resource/Abu_Sufyan_ibn_Harb",
+            "http://dbpedia.org/resource/Muhammad_ibn_Jarir_al-Tabari"
+        ],
+        [
+            "http://dbpedia.org/resource/Expedition_of_Bir_Maona",
+            "http://dbpedia.org/resource/Expedition_of_Abdullah_Ibn_Unais",
+            "http://dbpedia.org/resource/Quran"
+        ]
+    ]
+}

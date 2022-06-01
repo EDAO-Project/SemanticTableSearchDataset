@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zell_am_Ziller",
+            "http://dbpedia.org/resource/WSG_Wattens",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Markus_Weissenberger"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl-Benz-Stadion",
+            "http://dbpedia.org/resource/SV_Waldhof_Mannheim",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Dominik_Stroh-Engel"
+        ]
+    ]
+}

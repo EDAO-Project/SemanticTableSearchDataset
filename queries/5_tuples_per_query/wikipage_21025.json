@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Deseret_News",
+            "http://dbpedia.org/resource/State_of_Deseret",
+            "http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+            "http://dbpedia.org/resource/Salt_Lake_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Journal_of_Discourses",
+            "http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+            "http://dbpedia.org/resource/George_D._Watt",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Juvenile_Instructor",
+            "http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+            "http://dbpedia.org/resource/George_Q._Cannon",
+            "http://dbpedia.org/resource/Salt_Lake_City"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+            "http://dbpedia.org/resource/Lula_Greene_Richards",
+            "http://dbpedia.org/resource/Salt_Lake_City",
+            "http://dbpedia.org/resource/Emmeline_B._Wells"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+            "http://dbpedia.org/resource/Junius_F._Wells",
+            "http://dbpedia.org/resource/Salt_Lake_City",
+            "http://dbpedia.org/resource/Improvement_Era"
+        ]
+    ]
+}

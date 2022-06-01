@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Barry_Foote",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Smithfield-Selma_High_School"
+        ]
+    ]
+}

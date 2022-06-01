@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BMS_Scuderia_Italia",
+            "http://dbpedia.org/resource/Ferrari_550",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/JMB_Racing",
+            "http://dbpedia.org/resource/Ferrari_575M_Maranello",
+            "http://dbpedia.org/resource/Ferrari"
+        ]
+    ]
+}

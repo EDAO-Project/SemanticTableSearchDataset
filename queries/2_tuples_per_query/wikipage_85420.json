@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Murray_Bannerman",
+            "http://dbpedia.org/resource/Murray_Bannerman",
+            "http://dbpedia.org/resource/Chicago_Blackhawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Grant_Fuhr",
+            "http://dbpedia.org/resource/Grant_Fuhr",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ]
+    ]
+}

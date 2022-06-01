@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vigra_transmitter",
+            "http://dbpedia.org/resource/Guyed_mast",
+            "http://dbpedia.org/resource/Vigra"
+        ],
+        [
+            "http://dbpedia.org/resource/LORAN-C_transmitter_Jan_Mayen",
+            "http://dbpedia.org/resource/Guyed_mast",
+            "http://dbpedia.org/resource/Jan_Mayen"
+        ],
+        [
+            "http://dbpedia.org/resource/Grenland_Bridge",
+            "http://dbpedia.org/resource/Bridge",
+            "http://dbpedia.org/resource/Porsgrunn"
+        ],
+        [
+            "http://dbpedia.org/resource/Skavlen_Transmitter",
+            "http://dbpedia.org/resource/Guyed_mast",
+            "http://dbpedia.org/resource/Mosvik"
+        ],
+        [
+            "http://dbpedia.org/resource/Skarnsund_Bridge",
+            "http://dbpedia.org/resource/Bridge",
+            "http://dbpedia.org/resource/Mosvik"
+        ]
+    ]
+}

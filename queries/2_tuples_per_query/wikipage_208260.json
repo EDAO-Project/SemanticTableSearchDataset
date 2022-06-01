@@ -1,0 +1,17 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Polar_Satellite_Launch_Vehicle",
+            "http://dbpedia.org/resource/Polar_Satellite_Launch_Vehicle",
+            "http://dbpedia.org/resource/Satish_Dhawan_Space_Centre",
+            "http://dbpedia.org/resource/Satish_Dhawan_Space_Centre",
+            "http://dbpedia.org/resource/Indian_Space_Research_Organisation",
+            "http://dbpedia.org/resource/Indian_Space_Research_Organisation"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Chinese_anti-satellite_missile_test",
+            "http://dbpedia.org/resource/Sub-orbital_spaceflight",
+            "http://dbpedia.org/resource/Anti-satellite_weapon"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Fernando_Alonso",
+            "http://dbpedia.org/resource/2006_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Renault_in_Formula_One",
+            "http://dbpedia.org/resource/2006_Formula_One_season"
+        ]
+    ]
+}

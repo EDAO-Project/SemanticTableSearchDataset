@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gethin_Jenkins",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Welsh_Rugby_Union",
+            "http://dbpedia.org/resource/Cardiff_Blues"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_College",
+            "http://dbpedia.org/resource/Chestnut_Hill,_Massachusetts",
+            "http://dbpedia.org/resource/William_P._Leahy"
+        ]
+    ]
+}

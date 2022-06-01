@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Addingham",
+            "http://dbpedia.org/resource/City_of_Bradford",
+            "http://dbpedia.org/resource/Skipton_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Burley_in_Wharfedale",
+            "http://dbpedia.org/resource/City_of_Bradford",
+            "http://dbpedia.org/resource/Ilkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Clayton,_West_Yorkshire",
+            "http://dbpedia.org/resource/City_of_Bradford",
+            "http://dbpedia.org/resource/Bradford"
+        ],
+        [
+            "http://dbpedia.org/resource/Cullingworth",
+            "http://dbpedia.org/resource/City_of_Bradford",
+            "http://dbpedia.org/resource/Bingley"
+        ],
+        [
+            "http://dbpedia.org/resource/Harden,_West_Yorkshire",
+            "http://dbpedia.org/resource/City_of_Bradford",
+            "http://dbpedia.org/resource/Bingley"
+        ]
+    ]
+}

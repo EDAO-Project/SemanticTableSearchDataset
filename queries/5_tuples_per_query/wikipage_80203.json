@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anhui",
+            "http://dbpedia.org/resource/Hefei",
+            "http://dbpedia.org/resource/Shushan_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Fujian",
+            "http://dbpedia.org/resource/Fuzhou",
+            "http://dbpedia.org/resource/Gulou_District,_Fuzhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Gansu",
+            "http://dbpedia.org/resource/Lanzhou",
+            "http://dbpedia.org/resource/Chengguan_District,_Lanzhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Guangdong",
+            "http://dbpedia.org/resource/Guangzhou",
+            "http://dbpedia.org/resource/Yuexiu_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Guizhou",
+            "http://dbpedia.org/resource/Guiyang",
+            "http://dbpedia.org/resource/Guanshanhu_District"
+        ]
+    ]
+}

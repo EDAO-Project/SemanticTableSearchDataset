@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lang_Park",
+            "http://dbpedia.org/resource/Brisbane_Broncos",
+            "http://dbpedia.org/resource/North_Queensland_Cowboys"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_NBA_draft",
+            "http://dbpedia.org/resource/Doug_Moe",
+            "http://dbpedia.org/resource/Detroit_Pistons",
+            "http://dbpedia.org/resource/1968_ABA_All-Star_Game"
+        ]
+    ]
+}

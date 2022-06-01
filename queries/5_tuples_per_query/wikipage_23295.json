@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cairo_and_Vincennes_Railroad",
+            "http://dbpedia.org/resource/New_York_Central_Railroad",
+            "http://dbpedia.org/resource/Wabash_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_and_Illinois_River_Railroad",
+            "http://dbpedia.org/resource/Gulf,_Mobile_and_Ohio_Railroad",
+            "http://dbpedia.org/resource/Alton_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Charles_Air_Line",
+            "http://dbpedia.org/resource/Chicago_and_North_Western_Transportation_Company",
+            "http://dbpedia.org/resource/Galena_and_Chicago_Union_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Union_Station_Company",
+            "http://dbpedia.org/resource/Chicago,_Burlington_and_Quincy_Railroad",
+            "http://dbpedia.org/resource/Amtrak"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_and_Western_Indiana_Railroad",
+            "http://dbpedia.org/resource/Chicago_and_Eastern_Illinois_Railroad",
+            "http://dbpedia.org/resource/Paper_railroad"
+        ]
+    ]
+}

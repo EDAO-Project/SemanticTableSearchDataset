@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grand_Prix_of_Houston",
+            "http://dbpedia.org/resource/NRG_Park",
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/ESPN2"
+        ],
+        [
+            "http://dbpedia.org/resource/Monterey_Grand_Prix",
+            "http://dbpedia.org/resource/Mazda_Raceway_Laguna_Seca",
+            "http://dbpedia.org/resource/Monterey,_California",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Belgian_Champ_Car_Grand_Prix",
+            "http://dbpedia.org/resource/Circuit_Zolder",
+            "http://dbpedia.org/resource/Heusden-Zolder",
+            "http://dbpedia.org/resource/ESPN_on_ABC"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Prix_of_Cleveland",
+            "http://dbpedia.org/resource/Cleveland_Burke_Lakefront_Airport",
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/ESPN_on_ABC"
+        ],
+        [
+            "http://dbpedia.org/resource/Mont-Tremblant_Champ_Car_Grand_Prix",
+            "http://dbpedia.org/resource/Circuit_Mont-Tremblant",
+            "http://dbpedia.org/resource/Mont-Tremblant,_Quebec",
+            "http://dbpedia.org/resource/ESPN"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Nallari_Kiran_Kumar_Reddy",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Arunachal_Pradesh",
+            "http://dbpedia.org/resource/Nabam_Tuki",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ]
+    ]
+}

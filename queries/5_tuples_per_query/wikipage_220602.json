@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/Dawson_Creek",
+            "http://dbpedia.org/resource/British_Columbia_Highway_49"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Rycroft,_Alberta",
+            "http://dbpedia.org/resource/Alberta_Highway_49"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Donnelly,_Alberta",
+            "http://dbpedia.org/resource/Alberta_Highway_49"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Slave_Lake",
+            "http://dbpedia.org/resource/Alberta_Highway_2"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Athabasca,_Alberta",
+            "http://dbpedia.org/resource/Alberta_Highway_2"
+        ]
+    ]
+}

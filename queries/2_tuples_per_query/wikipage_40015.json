@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bangor-on-Dee",
+            "http://dbpedia.org/resource/Listed_building",
+            "http://dbpedia.org/resource/River_Dee,_Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Bigsweir_Bridge",
+            "http://dbpedia.org/resource/Listed_building",
+            "http://dbpedia.org/resource/River_Wye"
+        ]
+    ]
+}

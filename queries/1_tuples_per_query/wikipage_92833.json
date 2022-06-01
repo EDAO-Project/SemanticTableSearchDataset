@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/Dave_Keon",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Victor_M._Longstreet",
+            "http://dbpedia.org/resource/John_F._Kennedy",
+            "http://dbpedia.org/resource/Fred_Korth"
+        ]
+    ]
+}

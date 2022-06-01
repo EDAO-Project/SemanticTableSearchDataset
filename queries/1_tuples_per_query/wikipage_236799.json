@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moses_Robinson",
+            "http://dbpedia.org/resource/2nd_United_States_Congress",
+            "http://dbpedia.org/resource/Stephen_R._Bradley"
+        ]
+    ]
+}

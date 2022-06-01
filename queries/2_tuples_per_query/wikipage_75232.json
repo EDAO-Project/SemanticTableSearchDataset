@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Royale_Union_Saint-Gilloise",
+            "http://dbpedia.org/resource/K.F.C._Rhodienne-De_Hoek",
+            "http://dbpedia.org/resource/Club_Brugge_KV"
+        ],
+        [
+            "http://dbpedia.org/resource/Royale_Union_Saint-Gilloise",
+            "http://dbpedia.org/resource/K.F.C._Rhodienne-De_Hoek",
+            "http://dbpedia.org/resource/Club_Brugge_KV"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_Detroit_Tigers_season",
+            "http://dbpedia.org/resource/Chien-Ming_Wang",
+            "http://dbpedia.org/resource/Nate_Robertson",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Cleveland_Indians_season",
+            "http://dbpedia.org/resource/Chien-Ming_Wang",
+            "http://dbpedia.org/resource/Cliff_Lee",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ]
+    ]
+}

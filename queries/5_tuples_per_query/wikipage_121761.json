@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Arlene_Schnitzer_Concert_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Arlene_Schnitzer_Concert_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Diego",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/San_Diego_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Diego",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/San_Diego_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Costa_Mesa,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Pacific_Amphitheatre"
+        ]
+    ]
+}

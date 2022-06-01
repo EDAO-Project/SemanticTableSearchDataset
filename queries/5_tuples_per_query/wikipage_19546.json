@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phanerozoic",
+            "http://dbpedia.org/resource/Cenozoic",
+            "http://dbpedia.org/resource/Quaternary",
+            "http://dbpedia.org/resource/Holocene",
+            "http://dbpedia.org/resource/Chronozone",
+            "http://dbpedia.org/resource/Quaternary_glaciation"
+        ],
+        [
+            "http://dbpedia.org/resource/Phanerozoic",
+            "http://dbpedia.org/resource/Cenozoic",
+            "http://dbpedia.org/resource/Quaternary",
+            "http://dbpedia.org/resource/Pleistocene",
+            "http://dbpedia.org/resource/Late_Pleistocene",
+            "http://dbpedia.org/resource/Mammal"
+        ],
+        [
+            "http://dbpedia.org/resource/Phanerozoic",
+            "http://dbpedia.org/resource/Cenozoic",
+            "http://dbpedia.org/resource/Quaternary",
+            "http://dbpedia.org/resource/Pleistocene",
+            "http://dbpedia.org/resource/Middle_Pleistocene",
+            "http://dbpedia.org/resource/Mammal"
+        ],
+        [
+            "http://dbpedia.org/resource/Phanerozoic",
+            "http://dbpedia.org/resource/Cenozoic",
+            "http://dbpedia.org/resource/Quaternary",
+            "http://dbpedia.org/resource/Pleistocene",
+            "http://dbpedia.org/resource/Early_Pleistocene",
+            "http://dbpedia.org/resource/Mammal"
+        ],
+        [
+            "http://dbpedia.org/resource/Phanerozoic",
+            "http://dbpedia.org/resource/Cenozoic",
+            "http://dbpedia.org/resource/Quaternary",
+            "http://dbpedia.org/resource/Pleistocene",
+            "http://dbpedia.org/resource/Gelasian",
+            "http://dbpedia.org/resource/Mammal"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election,_1860",
+            "http://dbpedia.org/resource/Stephen_A._Douglas",
+            "http://dbpedia.org/resource/Abraham_Lincoln",
+            "http://dbpedia.org/resource/John_C._Breckinridge"
+        ]
+    ]
+}

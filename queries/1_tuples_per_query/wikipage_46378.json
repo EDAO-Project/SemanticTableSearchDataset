@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yunus_Qanuni",
+            "http://dbpedia.org/resource/Kabul_Province",
+            "http://dbpedia.org/resource/Cabinet_of_Afghanistan"
+        ]
+    ]
+}

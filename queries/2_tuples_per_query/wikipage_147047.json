@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gran_Premio_della_Costa_Etruschi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Elia_Viviani",
+            "http://dbpedia.org/resource/Cannondale_Pro_Cycling_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Vuelta_a_Mallorca",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Andrew_Fenn",
+            "http://dbpedia.org/resource/Etixx-Quick_Step"
+        ]
+    ]
+}

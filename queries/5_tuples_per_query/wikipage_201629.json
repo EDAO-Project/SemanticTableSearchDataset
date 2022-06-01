@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maricopa_County,_Arizona",
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/High-occupancy_vehicle_lane"
+        ],
+        [
+            "http://dbpedia.org/resource/Maricopa_County,_Arizona",
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/High-occupancy_vehicle_lane"
+        ],
+        [
+            "http://dbpedia.org/resource/Maricopa_County,_Arizona",
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/High-occupancy_vehicle_lane"
+        ],
+        [
+            "http://dbpedia.org/resource/Maricopa_County,_Arizona",
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/High-occupancy_vehicle_lane"
+        ],
+        [
+            "http://dbpedia.org/resource/Maricopa_County,_Arizona",
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/High-occupancy_vehicle_lane"
+        ]
+    ]
+}

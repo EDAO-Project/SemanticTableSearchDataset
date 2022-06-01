@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_First_Time_Ever_I_Saw_Your_Face",
+            "http://dbpedia.org/resource/Ewan_MacColl",
+            "http://dbpedia.org/resource/Handbags_and_Gladrags"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Arnold",
+            "http://dbpedia.org/resource/Kelly_Jones",
+            "http://dbpedia.org/resource/Graffiti_on_the_Train"
+        ]
+    ]
+}

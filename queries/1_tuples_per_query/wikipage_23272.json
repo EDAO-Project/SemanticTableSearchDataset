@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Camp_Nou",
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Catalonia",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ]
+    ]
+}

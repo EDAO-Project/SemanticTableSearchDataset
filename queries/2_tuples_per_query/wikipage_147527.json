@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Saransk_Cup",
+            "http://dbpedia.org/resource/Alexandra_Panova",
+            "http://dbpedia.org/resource/Marina_Melnikova",
+            "http://dbpedia.org/resource/Veronika_Kapshay",
+            "http://dbpedia.org/resource/Anastasia_Pivovarova"
+        ],
+        [
+            "http://dbpedia.org/resource/Alice_Springs",
+            "http://dbpedia.org/resource/Olivia_Rogowska",
+            "http://dbpedia.org/resource/Isabella_Holland",
+            "http://dbpedia.org/resource/Sally_Peers",
+            "http://dbpedia.org/resource/Keren_Shlomo"
+        ]
+    ]
+}

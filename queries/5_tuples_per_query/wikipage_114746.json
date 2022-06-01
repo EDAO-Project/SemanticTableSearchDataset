@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Laurence_S._Weiss",
+            "http://dbpedia.org/resource/Alan_Karcher",
+            "http://dbpedia.org/resource/George_Otlowski"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurence_S._Weiss",
+            "http://dbpedia.org/resource/Alan_Karcher",
+            "http://dbpedia.org/resource/George_Otlowski"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurence_S._Weiss",
+            "http://dbpedia.org/resource/Alan_Karcher",
+            "http://dbpedia.org/resource/George_Otlowski"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurence_S._Weiss",
+            "http://dbpedia.org/resource/Alan_Karcher",
+            "http://dbpedia.org/resource/George_Otlowski"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurence_S._Weiss",
+            "http://dbpedia.org/resource/Alan_Karcher",
+            "http://dbpedia.org/resource/George_Otlowski"
+        ]
+    ]
+}

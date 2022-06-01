@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Chairman_of_the_Parliament_of_Albania",
+            "http://dbpedia.org/resource/Pali_Miska",
+            "http://dbpedia.org/resource/Party_of_Labour_of_Albania"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/List_of_Presidents_of_the_National_Council_of_Austria",
+            "http://dbpedia.org/resource/Anton_Benya",
+            "http://dbpedia.org/resource/Social_Democratic_Party_of_Austria"
+        ]
+    ]
+}

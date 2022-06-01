@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Volcanic_Creek_Cone",
+            "http://dbpedia.org/resource/Cinder_cone",
+            "http://dbpedia.org/resource/Holocene"
+        ]
+    ]
+}

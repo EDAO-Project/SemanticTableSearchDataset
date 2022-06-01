@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_in_film",
+            "http://dbpedia.org/resource/Lethal_Weapon",
+            "http://dbpedia.org/resource/Richard_Donner"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_in_film",
+            "http://dbpedia.org/resource/Die_Hard",
+            "http://dbpedia.org/resource/John_McTiernan"
+        ]
+    ]
+}

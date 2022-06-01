@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tony_Stewart",
+            "http://dbpedia.org/resource/Richard_Childress_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Bowman",
+            "http://dbpedia.org/resource/RAB_Racing",
+            "http://dbpedia.org/resource/Toyota"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kansas_City_Royals",
+            "http://dbpedia.org/resource/Eddie_Guardado",
+            "http://dbpedia.org/resource/Yasuhiko_Yabuta",
+            "http://dbpedia.org/resource/C._J._Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_City_Royals",
+            "http://dbpedia.org/resource/Ron_Mahay",
+            "http://dbpedia.org/resource/Frank_Francisco",
+            "http://dbpedia.org/resource/Joakim_Soria"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Kevin_Millwood",
+            "http://dbpedia.org/resource/John_Maine",
+            "http://dbpedia.org/resource/C._J._Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/Vicente_Padilla",
+            "http://dbpedia.org/resource/Tim_Hudson",
+            "http://dbpedia.org/resource/C._J._Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_Nationals",
+            "http://dbpedia.org/resource/Kason_Gabbard",
+            "http://dbpedia.org/resource/Garrett_Mock",
+            "http://dbpedia.org/resource/Luis_Mendoza"
+        ]
+    ]
+}

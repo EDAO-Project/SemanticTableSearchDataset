@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tom_Scully",
+            "http://dbpedia.org/resource/Dandenong_Stingrays",
+            "http://dbpedia.org/resource/TAC_Cup",
+            "http://dbpedia.org/resource/Melbourne_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Trengove",
+            "http://dbpedia.org/resource/Sturt_Football_Club",
+            "http://dbpedia.org/resource/South_Australian_National_Football_League",
+            "http://dbpedia.org/resource/Melbourne_Football_Club"
+        ]
+    ]
+}

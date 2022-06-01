@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Honda_LPGA_Thailand",
+            "http://dbpedia.org/resource/Yani_Tseng",
+            "http://dbpedia.org/resource/Ai_Miyazato",
+            "http://dbpedia.org/resource/Jiyai_Shin"
+        ]
+    ]
+}

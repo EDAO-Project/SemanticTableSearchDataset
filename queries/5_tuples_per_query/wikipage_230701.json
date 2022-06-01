@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_European_Super_Cup",
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Camp_Nou"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_European_Super_Cup",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/San_Siro"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_European_Super_Cup",
+            "http://dbpedia.org/resource/SV_Werder_Bremen",
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/Weserstadion"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_European_Super_Cup",
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/SV_Werder_Bremen",
+            "http://dbpedia.org/resource/Camp_Nou"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_UEFA_Super_Cup",
+            "http://dbpedia.org/resource/Real_Zaragoza",
+            "http://dbpedia.org/resource/AFC_Ajax",
+            "http://dbpedia.org/resource/La_Romareda"
+        ]
+    ]
+}

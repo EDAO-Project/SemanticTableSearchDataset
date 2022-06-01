@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/American_Airlines_Center"
+        ]
+    ]
+}

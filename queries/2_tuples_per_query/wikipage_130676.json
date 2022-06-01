@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abu_Dhabi",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Abu_Dhabi_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Ain",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Al_Ain_International_Airport"
+        ]
+    ]
+}

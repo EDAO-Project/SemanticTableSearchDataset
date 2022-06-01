@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ehrhardt_7.5_cm_Model_1901",
+            "http://dbpedia.org/resource/German_Empire",
+            "http://dbpedia.org/resource/World_War_I"
+        ],
+        [
+            "http://dbpedia.org/resource/M116_howitzer",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Korean_War"
+        ]
+    ]
+}

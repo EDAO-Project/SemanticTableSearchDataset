@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Memoirs_of_Prison",
+            "http://dbpedia.org/resource/Nelson_Pereira_dos_Santos"
+        ],
+        [
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/A_Man_of_Principle",
+            "http://dbpedia.org/resource/Francisco_Norden"
+        ],
+        [
+            "http://dbpedia.org/resource/Czechoslovakia",
+            "http://dbpedia.org/resource/The_Millennial_Bee",
+            "http://dbpedia.org/resource/Juraj_Jakubisko"
+        ],
+        [
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Pessi_and_Illusia",
+            "http://dbpedia.org/resource/Heikki_Partanen"
+        ],
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/So_Long,_Stooge",
+            "http://dbpedia.org/resource/Claude_Berri"
+        ]
+    ]
+}

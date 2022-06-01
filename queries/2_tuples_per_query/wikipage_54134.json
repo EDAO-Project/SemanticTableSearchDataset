@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/If_These_Walls_Could_Talk_2",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/Introducing_Dorothy_Dandridge",
+            "http://dbpedia.org/resource/HBO"
+        ]
+    ]
+}

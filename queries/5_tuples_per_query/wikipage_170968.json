@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Band_Hero",
+            "http://dbpedia.org/resource/Neversoft",
+            "http://dbpedia.org/resource/North_America"
+        ],
+        [
+            "http://dbpedia.org/resource/Dance_Dance_Revolution_Extreme",
+            "http://dbpedia.org/resource/Konami",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Dance_Dance_Revolution_Ultramix",
+            "http://dbpedia.org/resource/Konami",
+            "http://dbpedia.org/resource/Northern_America"
+        ],
+        [
+            "http://dbpedia.org/resource/Dance_Dance_Revolution_Ultramix_2",
+            "http://dbpedia.org/resource/Konami",
+            "http://dbpedia.org/resource/Northern_America"
+        ],
+        [
+            "http://dbpedia.org/resource/DDR_Festival_Dance_Dance_Revolution",
+            "http://dbpedia.org/resource/Konami",
+            "http://dbpedia.org/resource/Japan"
+        ]
+    ]
+}

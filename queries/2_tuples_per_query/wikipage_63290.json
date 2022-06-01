@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Ivie",
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Decatur,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Dunning",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Stanford_University"
+        ]
+    ]
+}

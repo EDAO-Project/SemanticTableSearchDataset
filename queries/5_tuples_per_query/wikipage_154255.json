@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spencer_Haywood",
+            "http://dbpedia.org/resource/Pershing_High_School",
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Ken_Durrett"
+        ],
+        [
+            "http://dbpedia.org/resource/Maurice_Lucas",
+            "http://dbpedia.org/resource/Schenley_High_School",
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Raymond_Lewis"
+        ],
+        [
+            "http://dbpedia.org/resource/Quinn_Buckner",
+            "http://dbpedia.org/resource/Thornridge_High_School",
+            "http://dbpedia.org/resource/Dolton,_Illinois",
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Alvin_Adams"
+        ],
+        [
+            "http://dbpedia.org/resource/Adrian_Dantley",
+            "http://dbpedia.org/resource/DeMatha_Catholic_High_School",
+            "http://dbpedia.org/resource/Hyattsville,_Maryland",
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Kent_Benson"
+        ],
+        [
+            "http://dbpedia.org/resource/Darrell_Griffith",
+            "http://dbpedia.org/resource/Louisville_Male_High_School",
+            "http://dbpedia.org/resource/Louisville,_Kentucky",
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Albert_King"
+        ]
+    ]
+}

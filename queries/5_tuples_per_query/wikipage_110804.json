@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marama_Vahirua",
+            "http://dbpedia.org/resource/FC_Lorient",
+            "http://dbpedia.org/resource/AS_Nancy"
+        ],
+        [
+            "http://dbpedia.org/resource/Mathias_Autret",
+            "http://dbpedia.org/resource/Stade_Brestois_29",
+            "http://dbpedia.org/resource/FC_Lorient"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_Losilla",
+            "http://dbpedia.org/resource/Paris_FC",
+            "http://dbpedia.org/resource/Stade_Lavallois"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_Weber",
+            "http://dbpedia.org/resource/Paris_FC",
+            "http://dbpedia.org/resource/Stade_de_Reims"
+        ],
+        [
+            "http://dbpedia.org/resource/Steven_Paulle",
+            "http://dbpedia.org/resource/AS_Cannes",
+            "http://dbpedia.org/resource/Dijon_FCO"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hexis_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_DBR9",
+            "http://dbpedia.org/resource/Aston_Martin",
+            "http://dbpedia.org/resource/Clivio_Piccione"
+        ],
+        [
+            "http://dbpedia.org/resource/Hexis_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_DBR9",
+            "http://dbpedia.org/resource/Aston_Martin",
+            "http://dbpedia.org/resource/Stef_Dusseldorp"
+        ],
+        [
+            "http://dbpedia.org/resource/Hexis_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_DBR9",
+            "http://dbpedia.org/resource/Aston_Martin",
+            "http://dbpedia.org/resource/Christian_Hohenadel"
+        ],
+        [
+            "http://dbpedia.org/resource/Hexis_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_DBR9",
+            "http://dbpedia.org/resource/Aston_Martin",
+            "http://dbpedia.org/resource/Andrea_Piccini"
+        ],
+        [
+            "http://dbpedia.org/resource/Fischer_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_DBR9",
+            "http://dbpedia.org/resource/Aston_Martin",
+            "http://dbpedia.org/resource/Darren_Turner"
+        ]
+    ]
+}

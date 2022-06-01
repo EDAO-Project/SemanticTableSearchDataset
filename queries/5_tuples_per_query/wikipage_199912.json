@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1912_Summer_Olympics",
+            "http://dbpedia.org/resource/Hannes_Kolehmainen",
+            "http://dbpedia.org/resource/Jean_Bouin",
+            "http://dbpedia.org/resource/George_Hutson"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics",
+            "http://dbpedia.org/resource/Joseph_Guillemot",
+            "http://dbpedia.org/resource/Paavo_Nurmi",
+            "http://dbpedia.org/resource/Eric_Backman"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1924_Summer_Olympics",
+            "http://dbpedia.org/resource/Paavo_Nurmi",
+            "http://dbpedia.org/resource/Ville_Ritola",
+            "http://dbpedia.org/resource/Edvin_Wide"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Ville_Ritola",
+            "http://dbpedia.org/resource/Paavo_Nurmi",
+            "http://dbpedia.org/resource/Edvin_Wide"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1932_Summer_Olympics",
+            "http://dbpedia.org/resource/Lauri_Lehtinen",
+            "http://dbpedia.org/resource/Ralph_Hill",
+            "http://dbpedia.org/resource/Lauri_Virtanen"
+        ]
+    ]
+}

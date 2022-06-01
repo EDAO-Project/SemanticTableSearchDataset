@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Grammy_Award_for_Best_Original_Jazz_Composition",
+            "http://dbpedia.org/resource/The_Quintessence"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Grammy_Award_for_Best_Large_Jazz_Ensemble_Album",
+            "http://dbpedia.org/resource/Quincy_Jones_Explores_the_Music_of_Henry_Mancini"
+        ]
+    ]
+}

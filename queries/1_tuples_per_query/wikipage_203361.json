@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eastern_Cape",
+            "http://dbpedia.org/resource/Cape_Province",
+            "http://dbpedia.org/resource/Aliwal_North"
+        ]
+    ]
+}

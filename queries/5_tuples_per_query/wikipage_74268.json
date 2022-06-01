@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Ameri_Tbilisi",
+            "http://dbpedia.org/resource/Tbilisi",
+            "http://dbpedia.org/resource/Umaglesi_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Chikhura_Sachkhere",
+            "http://dbpedia.org/resource/Sachkhere",
+            "http://dbpedia.org/resource/Pirveli_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dila_Gori",
+            "http://dbpedia.org/resource/Gori,_Georgia",
+            "http://dbpedia.org/resource/Umaglesi_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dinamo_Tbilisi",
+            "http://dbpedia.org/resource/Tbilisi",
+            "http://dbpedia.org/resource/Pirveli_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Gagra",
+            "http://dbpedia.org/resource/Tbilisi",
+            "http://dbpedia.org/resource/Meore_Liga"
+        ]
+    ]
+}

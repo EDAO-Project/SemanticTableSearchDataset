@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scottish_Football_League_Premier_Division",
+            "http://dbpedia.org/resource/Pittodrie_Stadium",
+            "http://dbpedia.org/resource/Billy_Dodds",
+            "http://dbpedia.org/resource/Robbie_Winters"
+        ],
+        [
+            "http://dbpedia.org/resource/Scottish_Football_League_Premier_Division",
+            "http://dbpedia.org/resource/Pittodrie_Stadium",
+            "http://dbpedia.org/resource/Iliyan_Kiryakov",
+            "http://dbpedia.org/resource/Andy_McLaren"
+        ]
+    ]
+}

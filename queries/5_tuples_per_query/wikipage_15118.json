@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akita,_Akita",
+            "http://dbpedia.org/resource/Akita_Prefecture",
+            "http://dbpedia.org/resource/Honshu",
+            "http://dbpedia.org/resource/Core_cities_of_Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chiba,_Chiba",
+            "http://dbpedia.org/resource/Chiba_Prefecture",
+            "http://dbpedia.org/resource/Honshu",
+            "http://dbpedia.org/resource/Cities_designated_by_government_ordinance_of_Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Fukui,_Fukui",
+            "http://dbpedia.org/resource/Fukui_Prefecture",
+            "http://dbpedia.org/resource/Honshu",
+            "http://dbpedia.org/resource/Special_cities_of_Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyoto",
+            "http://dbpedia.org/resource/Kyoto_Prefecture",
+            "http://dbpedia.org/resource/Kansai_region",
+            "http://dbpedia.org/resource/Honshu"
+        ],
+        [
+            "http://dbpedia.org/resource/Naha",
+            "http://dbpedia.org/resource/Okinawa_Prefecture",
+            "http://dbpedia.org/resource/Kyushu",
+            "http://dbpedia.org/resource/Ryukyu_Islands"
+        ]
+    ]
+}

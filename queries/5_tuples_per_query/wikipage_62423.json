@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/37th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Green_Day",
+            "http://dbpedia.org/resource/Dookie",
+            "http://dbpedia.org/resource/Tori_Amos"
+        ],
+        [
+            "http://dbpedia.org/resource/39th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Beck",
+            "http://dbpedia.org/resource/Odelay",
+            "http://dbpedia.org/resource/Tori_Amos"
+        ],
+        [
+            "http://dbpedia.org/resource/41st_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Beastie_Boys",
+            "http://dbpedia.org/resource/Hello_Nasty",
+            "http://dbpedia.org/resource/Tori_Amos"
+        ],
+        [
+            "http://dbpedia.org/resource/43rd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Radiohead",
+            "http://dbpedia.org/resource/Kid_A",
+            "http://dbpedia.org/resource/Fiona_Apple"
+        ],
+        [
+            "http://dbpedia.org/resource/44th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Coldplay",
+            "http://dbpedia.org/resource/Parachute",
+            "http://dbpedia.org/resource/Tori_Amos"
+        ]
+    ]
+}

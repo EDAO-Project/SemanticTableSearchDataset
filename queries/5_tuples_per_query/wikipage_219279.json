@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FIL_European_Luge_Championships_1928",
+            "http://dbpedia.org/resource/Hilde_Raupach",
+            "http://dbpedia.org/resource/Margarete_Wolff",
+            "http://dbpedia.org/resource/Else_Hench"
+        ],
+        [
+            "http://dbpedia.org/resource/FIL_European_Luge_Championships_1929",
+            "http://dbpedia.org/resource/Lotte_Scheimpflug",
+            "http://dbpedia.org/resource/Christa_Klecker",
+            "http://dbpedia.org/resource/Fanny_Altendorfer"
+        ],
+        [
+            "http://dbpedia.org/resource/FIL_European_Luge_Championships_1937",
+            "http://dbpedia.org/resource/Titti_Maartmann",
+            "http://dbpedia.org/resource/Liv_Jensen",
+            "http://dbpedia.org/resource/Helen_Galtung"
+        ],
+        [
+            "http://dbpedia.org/resource/FIL_European_Luge_Championships_1938",
+            "http://dbpedia.org/resource/Friedel_Tietze",
+            "http://dbpedia.org/resource/Waltraut_Grassl",
+            "http://dbpedia.org/resource/Hanni_Fink"
+        ],
+        [
+            "http://dbpedia.org/resource/FIL_European_Luge_Championships_1939",
+            "http://dbpedia.org/resource/Friedel_Tietze",
+            "http://dbpedia.org/resource/Traudl_Grassi",
+            "http://dbpedia.org/resource/Hanni_Fink"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1969_Wimbledon_Championships",
+            "http://dbpedia.org/resource/The_Championships,_Wimbledon",
+            "http://dbpedia.org/resource/Karen_Krantzcke",
+            "http://dbpedia.org/resource/Pam_Teeguarden"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Wimbledon_Championships",
+            "http://dbpedia.org/resource/The_Championships,_Wimbledon",
+            "http://dbpedia.org/resource/Rosemary_Casals",
+            "http://dbpedia.org/resource/Rosie_Reyes"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Wimbledon_Championships",
+            "http://dbpedia.org/resource/The_Championships,_Wimbledon",
+            "http://dbpedia.org/resource/Margaret_Court",
+            "http://dbpedia.org/resource/Lorraine_Coghlan"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Wimbledon_Championships",
+            "http://dbpedia.org/resource/The_Championships,_Wimbledon",
+            "http://dbpedia.org/resource/Virginia_Wade",
+            "http://dbpedia.org/resource/Veronica_Burton"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_French_Open",
+            "http://dbpedia.org/resource/French_Open",
+            "http://dbpedia.org/resource/Steffi_Graf",
+            "http://dbpedia.org/resource/Natasha_Zvereva"
+        ]
+    ]
+}

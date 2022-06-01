@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Our_Lady_of_Czestochowa_Parish,_Boston",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Boston",
+            "http://dbpedia.org/resource/Massachusetts"
+        ]
+    ]
+}

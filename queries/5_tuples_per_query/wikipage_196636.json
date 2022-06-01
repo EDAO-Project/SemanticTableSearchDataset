@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1982_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Tyrell_Biggs",
+            "http://dbpedia.org/resource/Francesco_Damiani",
+            "http://dbpedia.org/resource/Peter_Hussing"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Roberto_Balado",
+            "http://dbpedia.org/resource/Aleksandr_Miroshnichenko",
+            "http://dbpedia.org/resource/Maik_Heydeck"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Roberto_Balado",
+            "http://dbpedia.org/resource/Svilen_Rusinov",
+            "http://dbpedia.org/resource/Larry_Donald"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Roberto_Balado",
+            "http://dbpedia.org/resource/Svilen_Rusinov",
+            "http://dbpedia.org/resource/Jo_el_Scott"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Alexei_Lezin",
+            "http://dbpedia.org/resource/Vitali_Klitschko",
+            "http://dbpedia.org/resource/Lawrence_Clay-Bey"
+        ]
+    ]
+}

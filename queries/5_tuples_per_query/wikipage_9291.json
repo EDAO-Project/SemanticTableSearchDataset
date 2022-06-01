@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Octavio_Gaona",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Santo",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Ringo_Mendoza",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Perro_Aguayo",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Sangre_Chicana",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

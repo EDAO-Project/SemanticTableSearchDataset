@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/President_of_Afghanistan",
+            "http://dbpedia.org/resource/Hamid_Karzai"
+        ],
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/President_of_Armenia",
+            "http://dbpedia.org/resource/Serzh_Sargsyan"
+        ]
+    ]
+}

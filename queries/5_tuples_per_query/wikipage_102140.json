@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andre_Cason",
+            "http://dbpedia.org/resource/Linford_Christie",
+            "http://dbpedia.org/resource/Chidi_Imoh"
+        ],
+        [
+            "http://dbpedia.org/resource/Nikolay_Antonov",
+            "http://dbpedia.org/resource/Linford_Christie",
+            "http://dbpedia.org/resource/Ade_Mafe"
+        ],
+        [
+            "http://dbpedia.org/resource/Devon_Morris",
+            "http://dbpedia.org/resource/Samson_Kitur",
+            "http://dbpedia.org/resource/Cayetano_Cornet"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollis_Conway",
+            "http://dbpedia.org/resource/Artur_Partyka",
+            "http://dbpedia.org/resource/Javier_Sotomayor"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollis_Conway",
+            "http://dbpedia.org/resource/Artur_Partyka",
+            "http://dbpedia.org/resource/Aleksey_Yemelin"
+        ]
+    ]
+}

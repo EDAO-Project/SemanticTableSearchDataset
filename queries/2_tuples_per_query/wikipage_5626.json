@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Jarrod_Washburn",
+            "http://dbpedia.org/resource/Jeff_Weaver",
+            "http://dbpedia.org/resource/George_Sherrill"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Gil_Meche",
+            "http://dbpedia.org/resource/Esteban_Loaiza",
+            "http://dbpedia.org/resource/J._J._Putz"
+        ]
+    ]
+}

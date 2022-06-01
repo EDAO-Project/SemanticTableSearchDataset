@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/Liev_Schreiber",
+            "http://dbpedia.org/resource/RKO_281",
+            "http://dbpedia.org/resource/Orson_Welles",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_television",
+            "http://dbpedia.org/resource/Ben_Kingsley",
+            "http://dbpedia.org/resource/Anne_Frank:_The_Whole_Story",
+            "http://dbpedia.org/resource/Otto_Frank",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ]
+    ]
+}

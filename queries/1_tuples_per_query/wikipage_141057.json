@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algoma_East",
+            "http://dbpedia.org/resource/Lester_B._Pearson",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ]
+    ]
+}

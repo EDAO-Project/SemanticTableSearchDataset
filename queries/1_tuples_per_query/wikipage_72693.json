@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newcastle,_New_South_Wales",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Newcastle_Entertainment_Centre"
+        ]
+    ]
+}

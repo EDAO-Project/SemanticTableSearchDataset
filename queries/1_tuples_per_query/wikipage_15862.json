@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Abrahams",
+            "http://dbpedia.org/resource/Robert_Hays",
+            "http://dbpedia.org/resource/Parody"
+        ]
+    ]
+}

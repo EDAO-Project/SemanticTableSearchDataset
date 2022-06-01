@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Winning_percentage",
+            "http://dbpedia.org/resource/Sal_Maglie",
+            "http://dbpedia.org/resource/1945_Major_League_Baseball_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Earned_run_average",
+            "http://dbpedia.org/resource/Christy_Mathewson",
+            "http://dbpedia.org/resource/1900_in_baseball"
+        ]
+    ]
+}

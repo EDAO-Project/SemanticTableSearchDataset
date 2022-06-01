@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Syracuse_University",
+            "http://dbpedia.org/resource/Jim_Boeheim",
+            "http://dbpedia.org/resource/University_of_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Maryland,_College_Park",
+            "http://dbpedia.org/resource/Lefty_Driesell",
+            "http://dbpedia.org/resource/Georgetown_University"
+        ]
+    ]
+}

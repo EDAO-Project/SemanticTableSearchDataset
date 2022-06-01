@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_Anae",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Queensland_Reds"
+        ],
+        [
+            "http://dbpedia.org/resource/Sekope_Kepu",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/New_South_Wales_Waratahs"
+        ],
+        [
+            "http://dbpedia.org/resource/Benn_Robinson",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/New_South_Wales_Waratahs"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Sio",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Brumbies"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Slipper",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Queensland_Reds"
+        ]
+    ]
+}

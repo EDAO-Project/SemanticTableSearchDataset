@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Red_Star_Belgrade",
+            "http://dbpedia.org/resource/Belgrade",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Serbia",
+            "http://dbpedia.org/resource/Red_Star_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michel_Dion",
+            "http://dbpedia.org/resource/Michel_Dion",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins"
+        ],
+        [
+            "http://dbpedia.org/resource/Barry_Beck",
+            "http://dbpedia.org/resource/Barry_Beck",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Julian_Reus",
+            "http://dbpedia.org/resource/2013_German_Athletics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Tobias_Unger",
+            "http://dbpedia.org/resource/2005_German_Athletics_Championships"
+        ]
+    ]
+}

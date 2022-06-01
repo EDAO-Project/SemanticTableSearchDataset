@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bacon_and_cabbage",
+            "http://dbpedia.org/resource/Ireland",
+            "http://dbpedia.org/resource/Cabbage"
+        ]
+    ]
+}

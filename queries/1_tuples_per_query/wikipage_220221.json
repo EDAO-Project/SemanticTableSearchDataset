@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Major",
+            "http://dbpedia.org/resource/Kumaon_Regiment",
+            "http://dbpedia.org/resource/Budgam"
+        ]
+    ]
+}

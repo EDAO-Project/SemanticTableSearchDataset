@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Bigler",
+            "http://dbpedia.org/resource/Dickinson_College",
+            "http://dbpedia.org/resource/High_school_dropouts"
+        ],
+        [
+            "http://dbpedia.org/resource/Leland_Stanford",
+            "http://dbpedia.org/resource/Cazenovia_College",
+            "http://dbpedia.org/resource/Bachelor_of_Laws"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Huntly_Haight",
+            "http://dbpedia.org/resource/Yale_University",
+            "http://dbpedia.org/resource/Bachelor_of_Arts"
+        ],
+        [
+            "http://dbpedia.org/resource/Newton_Booth",
+            "http://dbpedia.org/resource/DePauw_University",
+            "http://dbpedia.org/resource/Bachelor_of_Arts"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Budd",
+            "http://dbpedia.org/resource/University_of_California,_Berkeley",
+            "http://dbpedia.org/resource/Bachelor_of_Arts"
+        ]
+    ]
+}

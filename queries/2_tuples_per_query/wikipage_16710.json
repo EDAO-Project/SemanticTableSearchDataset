@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Udine",
+            "http://dbpedia.org/resource/Fabio_Battesini",
+            "http://dbpedia.org/resource/Hermann_Buse"
+        ],
+        [
+            "http://dbpedia.org/resource/Ferrara",
+            "http://dbpedia.org/resource/Learco_Guerra",
+            "http://dbpedia.org/resource/Hermann_Buse"
+        ]
+    ]
+}

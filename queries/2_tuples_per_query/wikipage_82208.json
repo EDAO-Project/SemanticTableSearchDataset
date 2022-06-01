@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Budmouth_College",
+            "http://dbpedia.org/resource/Chickerell",
+            "http://dbpedia.org/resource/Technology_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Ferndown_Upper_School",
+            "http://dbpedia.org/resource/Ferndown",
+            "http://dbpedia.org/resource/Arts_College"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miikka_Kiprusoff",
+            "http://dbpedia.org/resource/Turku",
+            "http://dbpedia.org/resource/Calgary_Flames"
+        ],
+        [
+            "http://dbpedia.org/resource/Lasse_Kukkonen",
+            "http://dbpedia.org/resource/Oulu",
+            "http://dbpedia.org/resource/Avangard_Omsk"
+        ]
+    ]
+}

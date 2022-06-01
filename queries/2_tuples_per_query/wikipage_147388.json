@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CJNK-FM",
+            "http://dbpedia.org/resource/Algonquin_Provincial_Park",
+            "http://dbpedia.org/resource/Weatheradio_Canada",
+            "http://dbpedia.org/resource/Weather_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/CJNK-FM",
+            "http://dbpedia.org/resource/Algonquin_Provincial_Park",
+            "http://dbpedia.org/resource/Weatheradio_Canada",
+            "http://dbpedia.org/resource/Weather_radio"
+        ]
+    ]
+}

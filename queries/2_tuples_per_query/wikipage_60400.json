@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chipata",
+            "http://dbpedia.org/resource/Zambia",
+            "http://dbpedia.org/resource/Chipata_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Dar_es_Salaam",
+            "http://dbpedia.org/resource/Tanzania",
+            "http://dbpedia.org/resource/Julius_Nyerere_International_Airport"
+        ]
+    ]
+}

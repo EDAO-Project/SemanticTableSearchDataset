@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Universalist_Unitarian_Church_of_Riverside",
+            "http://dbpedia.org/resource/Riverside,_California",
+            "http://dbpedia.org/resource/Permian"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Unitarian_Church_of_Honolulu",
+            "http://dbpedia.org/resource/Hawaii_Route_61",
+            "http://dbpedia.org/resource/Honolulu"
+        ]
+    ]
+}

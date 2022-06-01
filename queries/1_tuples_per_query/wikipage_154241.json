@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johan_Cruyff",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/AFC_Ajax"
+        ]
+    ]
+}

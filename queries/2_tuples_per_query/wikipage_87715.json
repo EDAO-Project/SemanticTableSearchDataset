@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cal_Wilson",
+            "http://dbpedia.org/resource/Corinne_Grant",
+            "http://dbpedia.org/resource/Wes_Carr"
+        ],
+        [
+            "http://dbpedia.org/resource/DeAnne_Smith",
+            "http://dbpedia.org/resource/Eamon_Sullivan",
+            "http://dbpedia.org/resource/Phil_Jamieson"
+        ]
+    ]
+}

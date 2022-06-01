@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antheuil",
+            "http://dbpedia.org/resource/Antigny-la-Ville",
+            "http://dbpedia.org/resource/Arcenant"
+        ],
+        [
+            "http://dbpedia.org/resource/Arconcey",
+            "http://dbpedia.org/resource/Argilly",
+            "http://dbpedia.org/resource/Arnay-le-Duc"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaune",
+            "http://dbpedia.org/resource/Bellenot-sous-Pouilly",
+            "http://dbpedia.org/resource/Bessey-en-Chaume"
+        ],
+        [
+            "http://dbpedia.org/resource/Bessey-la-Cour",
+            "http://dbpedia.org/resource/Beurey-Bauguay",
+            "http://dbpedia.org/resource/Blancey"
+        ],
+        [
+            "http://dbpedia.org/resource/Boncourt-le-Bois",
+            "http://dbpedia.org/resource/Bonnencontre",
+            "http://dbpedia.org/resource/Bouhey"
+        ]
+    ]
+}

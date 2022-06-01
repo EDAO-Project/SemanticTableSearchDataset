@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1986_Fujifilm_Trophy",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Petr_Barna",
+            "http://dbpedia.org/resource/Alessandro_Riccitelli",
+            "http://dbpedia.org/resource/Zhang_Shubin"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_Nations_Cup",
+            "http://dbpedia.org/resource/Gelsenkirchen",
+            "http://dbpedia.org/resource/Petr_Barna",
+            "http://dbpedia.org/resource/Viktor_Petrenko",
+            "http://dbpedia.org/resource/Paul_Wylie"
+        ]
+    ]
+}

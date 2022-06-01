@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Caballo_Island",
+            "http://dbpedia.org/resource/Manila_Bay",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Cabrera,_Balearic_Islands",
+            "http://dbpedia.org/resource/Balearic_Islands",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Cacela_Island",
+            "http://dbpedia.org/resource/Algarve",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Caja_de_Muertos",
+            "http://dbpedia.org/resource/Puerto_Rico",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Calayan,_Cagayan",
+            "http://dbpedia.org/resource/Babuyan_Islands",
+            "http://dbpedia.org/resource/Philippines"
+        ]
+    ]
+}

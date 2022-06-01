@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chittenden_County,_Vermont",
+            "http://dbpedia.org/resource/Essex_Junction,_Vermont",
+            "http://dbpedia.org/resource/U.S._Route_2_in_Vermont"
+        ]
+    ]
+}

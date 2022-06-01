@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mandarin_Chinese",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Chinese_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/Arabic",
+            "http://dbpedia.org/resource/North_Africa",
+            "http://dbpedia.org/resource/Varieties_of_Arabic"
+        ],
+        [
+            "http://dbpedia.org/resource/Russian_language",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Belarusian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Javanese_language",
+            "http://dbpedia.org/resource/Java",
+            "http://dbpedia.org/resource/List_of_largest_languages_without_official_status"
+        ]
+    ]
+}

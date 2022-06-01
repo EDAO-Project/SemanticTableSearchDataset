@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allgates",
+            "http://dbpedia.org/resource/Haverford,_Pennsylvania",
+            "http://dbpedia.org/resource/Wilson_Eyre"
+        ]
+    ]
+}

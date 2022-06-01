@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adri_van_der_Poel",
+            "http://dbpedia.org/resource/Moreno_Argentin",
+            "http://dbpedia.org/resource/Eric_Van_Lancker"
+        ],
+        [
+            "http://dbpedia.org/resource/Olaf_Ludwig",
+            "http://dbpedia.org/resource/Giorgio_Furlan",
+            "http://dbpedia.org/resource/Dirk_De_Wolf"
+        ],
+        [
+            "http://dbpedia.org/resource/Johan_Museeuw",
+            "http://dbpedia.org/resource/Moreno_Argentin",
+            "http://dbpedia.org/resource/Evgeni_Berzin"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefano_Zanini",
+            "http://dbpedia.org/resource/Lance_Armstrong",
+            "http://dbpedia.org/resource/Pascal_Richard"
+        ],
+        [
+            "http://dbpedia.org/resource/Bjarne_Riis",
+            "http://dbpedia.org/resource/Laurent_Jalabert",
+            "http://dbpedia.org/resource/Michele_Bartoli"
+        ]
+    ]
+}

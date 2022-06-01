@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cadet_Ice_Arena",
+            "http://dbpedia.org/resource/Colorado_Springs,_Colorado",
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Air_Force_Falcons",
+            "http://dbpedia.org/resource/Atlantic_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympia_Ice_Center",
+            "http://dbpedia.org/resource/West_Springfield,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/American_International_College",
+            "http://dbpedia.org/resource/Atlantic_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Tate_Rink",
+            "http://dbpedia.org/resource/West_Point,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Army_Black_Knights",
+            "http://dbpedia.org/resource/Atlantic_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/John_A._Ryan_Arena",
+            "http://dbpedia.org/resource/Watertown,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/Bentley_University",
+            "http://dbpedia.org/resource/Atlantic_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_State_Sports_Arena",
+            "http://dbpedia.org/resource/Buffalo,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Canisius_Golden_Griffins",
+            "http://dbpedia.org/resource/Atlantic_Hockey"
+        ]
+    ]
+}

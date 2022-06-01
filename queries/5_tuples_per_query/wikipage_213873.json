@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1975_Tour_de_France",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/Walter_Godefroot"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Tour_de_France",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/Gerben_Karstens"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Tour_de_France",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/Alain_Meslet"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Tour_de_France",
+            "http://dbpedia.org/resource/Saint-Germain-en-Laye",
+            "http://dbpedia.org/resource/Gerrie_Knetemann"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Tour_de_France",
+            "http://dbpedia.org/resource/Le_Perreux-sur-Marne",
+            "http://dbpedia.org/resource/Bernard_Hinault"
+        ]
+    ]
+}

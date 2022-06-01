@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Wade_Miley",
+            "http://dbpedia.org/resource/Burke_Badenhop",
+            "http://dbpedia.org/resource/J._J._Putz"
+        ]
+    ]
+}

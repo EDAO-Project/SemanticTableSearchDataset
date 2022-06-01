@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indy_Grand_Prix_of_Alabama",
+            "http://dbpedia.org/resource/Barber_Motorsports_Park",
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/NBCSN"
+        ]
+    ]
+}

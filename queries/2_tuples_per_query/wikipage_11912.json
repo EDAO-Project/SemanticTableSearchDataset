@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jack_Brabham",
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Brabham"
+        ],
+        [
+            "http://dbpedia.org/resource/Red_Byron",
+            "http://dbpedia.org/resource/NASCAR",
+            "http://dbpedia.org/resource/Sports_Car_Club_of_America"
+        ]
+    ]
+}

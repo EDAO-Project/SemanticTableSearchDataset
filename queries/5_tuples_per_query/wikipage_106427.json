@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maryland_Route_4",
+            "http://dbpedia.org/resource/Maryland_Route_5",
+            "http://dbpedia.org/resource/Pennsylvania_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_6",
+            "http://dbpedia.org/resource/Riverside,_Charles_County,_Maryland",
+            "http://dbpedia.org/resource/Maryland_Route_235"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_8",
+            "http://dbpedia.org/resource/Romancoke,_Maryland",
+            "http://dbpedia.org/resource/Maryland_Route_18"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_14",
+            "http://dbpedia.org/resource/Maryland_Route_16",
+            "http://dbpedia.org/resource/Maryland_Route_313"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_16",
+            "http://dbpedia.org/resource/Taylors_Island,_Maryland",
+            "http://dbpedia.org/resource/Delaware_Route_16"
+        ]
+    ]
+}

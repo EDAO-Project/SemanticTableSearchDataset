@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mary_Wayte",
+            "http://dbpedia.org/resource/Cynthia_Woodhead",
+            "http://dbpedia.org/resource/Annemarie_Verstappen"
+        ],
+        [
+            "http://dbpedia.org/resource/Tiffany_Cohen",
+            "http://dbpedia.org/resource/Sarah_Hardcastle",
+            "http://dbpedia.org/resource/June_Croft"
+        ],
+        [
+            "http://dbpedia.org/resource/Tiffany_Cohen",
+            "http://dbpedia.org/resource/Michele_Richardson",
+            "http://dbpedia.org/resource/Sarah_Hardcastle"
+        ],
+        [
+            "http://dbpedia.org/resource/Theresa_Andrews",
+            "http://dbpedia.org/resource/Betsy_Mitchell",
+            "http://dbpedia.org/resource/Jolanda_de_Rover"
+        ],
+        [
+            "http://dbpedia.org/resource/Petra_van_Staveren",
+            "http://dbpedia.org/resource/Anne_Ottenbrite",
+            "http://dbpedia.org/resource/Catherine_Poirot"
+        ]
+    ]
+}

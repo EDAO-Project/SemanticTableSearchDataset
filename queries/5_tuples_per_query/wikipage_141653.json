@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apache_Derby",
+            "http://dbpedia.org/resource/Apache_License",
+            "http://dbpedia.org/resource/Relational_database_management_system"
+        ],
+        [
+            "http://dbpedia.org/resource/Graphical_Environment_Manager",
+            "http://dbpedia.org/resource/GNU_General_Public_License",
+            "http://dbpedia.org/resource/OpenGEM"
+        ],
+        [
+            "http://dbpedia.org/resource/ILWIS",
+            "http://dbpedia.org/resource/GNU_General_Public_License",
+            "http://dbpedia.org/resource/ITC_Enschede"
+        ],
+        [
+            "http://dbpedia.org/resource/Id_Tech_4",
+            "http://dbpedia.org/resource/GNU_General_Public_License",
+            "http://dbpedia.org/resource/Doom_3"
+        ],
+        [
+            "http://dbpedia.org/resource/Movable_Type",
+            "http://dbpedia.org/resource/GNU_General_Public_License",
+            "http://dbpedia.org/resource/Blog"
+        ]
+    ]
+}

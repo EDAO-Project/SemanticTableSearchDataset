@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anaheim_Ducks",
+            "http://dbpedia.org/resource/Ryan_Getzlaf",
+            "http://dbpedia.org/resource/Saku_Koivu"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/Steve_Ott",
+            "http://dbpedia.org/resource/Christian_Ehrhoff"
+        ]
+    ]
+}

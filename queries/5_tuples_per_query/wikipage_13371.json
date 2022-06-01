@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CJOH-DT",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/CTV_Television_Network",
+            "http://dbpedia.org/resource/CJSS-TV"
+        ],
+        [
+            "http://dbpedia.org/resource/CBOT-DT",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/CBC_Television",
+            "http://dbpedia.org/resource/Ogdensburg,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/CBMT-DT",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/CBC_Television",
+            "http://dbpedia.org/resource/Massena,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/CJOH-DT",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/CTV_Television_Network",
+            "http://dbpedia.org/resource/Broadcast_relay_station"
+        ],
+        [
+            "http://dbpedia.org/resource/CKWS-DT",
+            "http://dbpedia.org/resource/Kingston,_Ontario",
+            "http://dbpedia.org/resource/CBC_Television",
+            "http://dbpedia.org/resource/Co-channel_interference"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eddie_Giacomin",
+            "http://dbpedia.org/resource/Eddie_Giacomin",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerry_Cheevers",
+            "http://dbpedia.org/resource/Gerry_Cheevers",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ]
+    ]
+}

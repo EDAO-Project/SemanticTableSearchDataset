@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/82nd_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Picture",
+            "http://dbpedia.org/resource/James_Cameron"
+        ]
+    ]
+}

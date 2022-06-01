@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/The_Lonely_Killers",
+            "http://dbpedia.org/resource/Boris_Szulzinger"
+        ]
+    ]
+}

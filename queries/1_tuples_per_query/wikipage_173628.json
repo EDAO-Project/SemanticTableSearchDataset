@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arabic",
+            "http://dbpedia.org/resource/Phrase_structure_grammar",
+            "http://dbpedia.org/resource/Linguistic_Data_Consortium"
+        ]
+    ]
+}

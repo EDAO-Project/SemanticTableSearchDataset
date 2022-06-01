@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Octave",
+            "http://dbpedia.org/resource/Minor_second",
+            "http://dbpedia.org/resource/Octave",
+            "http://dbpedia.org/resource/Tritone"
+        ]
+    ]
+}

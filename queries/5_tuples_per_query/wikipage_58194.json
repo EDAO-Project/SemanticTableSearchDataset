@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nou_Mestalla",
+            "http://dbpedia.org/resource/Valencia",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Valencia_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/Incheon_Asiad_Main_Stadium",
+            "http://dbpedia.org/resource/Incheon",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zenit_Stadium",
+            "http://dbpedia.org/resource/Saint_Petersburg",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Baku_National_Stadium",
+            "http://dbpedia.org/resource/Baku",
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Azerbaijan_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Basra_Sports_City",
+            "http://dbpedia.org/resource/Basra",
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations"
+        ]
+    ]
+}

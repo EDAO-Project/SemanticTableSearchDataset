@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Screen_Actors_Guild_Awards",
+            "http://dbpedia.org/resource/Jason_Alexander",
+            "http://dbpedia.org/resource/Seinfeld",
+            "http://dbpedia.org/resource/George_Costanza"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_Screen_Actors_Guild_Awards",
+            "http://dbpedia.org/resource/John_Goodman",
+            "http://dbpedia.org/resource/Roseanne",
+            "http://dbpedia.org/resource/Dan_Conner"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_Screen_Actors_Guild_Awards",
+            "http://dbpedia.org/resource/Kelsey_Grammer",
+            "http://dbpedia.org/resource/Frasier",
+            "http://dbpedia.org/resource/Frasier_Crane"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_Screen_Actors_Guild_Awards",
+            "http://dbpedia.org/resource/David_Hyde_Pierce",
+            "http://dbpedia.org/resource/Frasier",
+            "http://dbpedia.org/resource/Niles_Crane"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Screen_Actors_Guild_Awards",
+            "http://dbpedia.org/resource/David_Hyde_Pierce",
+            "http://dbpedia.org/resource/Frasier",
+            "http://dbpedia.org/resource/Niles_Crane"
+        ]
+    ]
+}

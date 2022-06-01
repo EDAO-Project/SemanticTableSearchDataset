@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arras",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Bad_Neuenahr-Ahrweiler",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Netherlands"
+        ]
+    ]
+}

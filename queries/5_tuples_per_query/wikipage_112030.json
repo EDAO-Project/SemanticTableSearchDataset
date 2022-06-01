@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeff_Gordon",
+            "http://dbpedia.org/resource/DuPont",
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Hendrick_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Brett_Bodine",
+            "http://dbpedia.org/resource/Pennzoil",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/King_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Elliott",
+            "http://dbpedia.org/resource/Budweiser",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Junior_Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/Rusty_Wallace",
+            "http://dbpedia.org/resource/Miller_Brewing_Company",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Team_Penske"
+        ],
+        [
+            "http://dbpedia.org/resource/Dale_Earnhardt",
+            "http://dbpedia.org/resource/GM_Certified_Service",
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Richard_Childress_Racing"
+        ]
+    ]
+}

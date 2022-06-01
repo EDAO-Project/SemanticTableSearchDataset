@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billy_Hughes",
+            "http://dbpedia.org/resource/Australian_House_of_Representatives",
+            "http://dbpedia.org/resource/Division_of_West_Sydney",
+            "http://dbpedia.org/resource/Australian_federal_election,_1901"
+        ]
+    ]
+}

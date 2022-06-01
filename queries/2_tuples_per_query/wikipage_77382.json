@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Maryland_Terrapins_football_team",
+            "http://dbpedia.org/resource/Torrey_Smith",
+            "http://dbpedia.org/resource/Wide_receiver"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Maryland_Terrapins_football_team",
+            "http://dbpedia.org/resource/Josh_Portis",
+            "http://dbpedia.org/resource/Quarterback"
+        ]
+    ]
+}

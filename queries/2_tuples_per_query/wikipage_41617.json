@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WMBV",
+            "http://dbpedia.org/resource/Dixons_Mills,_Alabama",
+            "http://dbpedia.org/resource/Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/WRNF",
+            "http://dbpedia.org/resource/Selma,_Alabama",
+            "http://dbpedia.org/resource/Alabama"
+        ]
+    ]
+}

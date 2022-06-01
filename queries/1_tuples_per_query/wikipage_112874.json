@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sort",
+            "http://dbpedia.org/resource/1984_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1984_Summer_Paralympics"
+        ]
+    ]
+}

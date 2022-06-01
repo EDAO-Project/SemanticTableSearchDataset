@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfred_Dunhill_Championship",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Marcel_Siem"
+        ],
+        [
+            "http://dbpedia.org/resource/Heineken_Classic",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Ernie_Els"
+        ],
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Match_Play_Championship",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tiger_Woods"
+        ],
+        [
+            "http://dbpedia.org/resource/Qatar_Masters",
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Joakim_Haeggman"
+        ],
+        [
+            "http://dbpedia.org/resource/Singapore_Masters",
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Colin_Montgomerie"
+        ]
+    ]
+}

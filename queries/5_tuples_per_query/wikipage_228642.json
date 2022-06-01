@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battersea_Park_Road_railway_station",
+            "http://dbpedia.org/resource/Battersea",
+            "http://dbpedia.org/resource/Battersea_Park_railway_station",
+            "http://dbpedia.org/resource/London,_Chatham_and_Dover_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Beckton_railway_station",
+            "http://dbpedia.org/resource/Beckton",
+            "http://dbpedia.org/resource/Beckton_DLR_station",
+            "http://dbpedia.org/resource/Eastern_Counties_and_Thames_Junction_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Beddington_Lane_railway_station",
+            "http://dbpedia.org/resource/Beddington",
+            "http://dbpedia.org/resource/Beddington_Lane_tram_stop",
+            "http://dbpedia.org/resource/Wimbledon_and_Croydon_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishopsgate_railway_station",
+            "http://dbpedia.org/resource/Shoreditch",
+            "http://dbpedia.org/resource/Liverpool_Street_station",
+            "http://dbpedia.org/resource/Eastern_Counties_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackfriars_Bridge_railway_station",
+            "http://dbpedia.org/resource/Southwark",
+            "http://dbpedia.org/resource/Blackfriars_station",
+            "http://dbpedia.org/resource/London,_Chatham_and_Dover_Railway"
+        ]
+    ]
+}

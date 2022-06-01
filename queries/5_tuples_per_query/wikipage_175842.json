@@ -1,0 +1,31 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Miki_Nakatani",
+            "http://dbpedia.org/resource/Memories_of_Matsuko"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Gong_Li",
+            "http://dbpedia.org/resource/Curse_of_the_Golden_Flower",
+            "http://dbpedia.org/resource/Curse_of_the_Golden_Flower"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Kim_Hye-soo",
+            "http://dbpedia.org/resource/Tazza:_The_High_Rollers"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Jeon_Do-yeon",
+            "http://dbpedia.org/resource/Secret_Sunshine"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Asian_Film_Awards",
+            "http://dbpedia.org/resource/Joan_Chen",
+            "http://dbpedia.org/resource/The_Home_Song_Stories",
+            "http://dbpedia.org/resource/The_Home_Song_Stories"
+        ]
+    ]
+}

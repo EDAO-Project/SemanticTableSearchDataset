@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta_Hawks",
+            "http://dbpedia.org/resource/Dick_Van_Arsdale",
+            "http://dbpedia.org/resource/Lou_Hudson"
+        ]
+    ]
+}

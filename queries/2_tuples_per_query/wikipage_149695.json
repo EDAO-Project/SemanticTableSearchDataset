@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/WBRC",
+            "http://dbpedia.org/resource/Raycom_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/Dothan,_Alabama",
+            "http://dbpedia.org/resource/WDFX-TV",
+            "http://dbpedia.org/resource/Raycom_Media"
+        ]
+    ]
+}

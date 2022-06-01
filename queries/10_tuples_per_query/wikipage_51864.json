@@ -1,0 +1,47 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Tacoma,_Washington",
+            "http://dbpedia.org/resource/Tacoma,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Tacoma,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Puyallup,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Puyallup,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Sumner,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Pacific,_Washington",
+            "http://dbpedia.org/resource/Pacific,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/King_County,_Washington",
+            "http://dbpedia.org/resource/Algona,_Washington",
+            "http://dbpedia.org/resource/Algona,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/King_County,_Washington",
+            "http://dbpedia.org/resource/Auburn,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/King_County,_Washington",
+            "http://dbpedia.org/resource/Auburn,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/King_County,_Washington",
+            "http://dbpedia.org/resource/Auburn,_Washington"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pablo_D._Abdala",
+            "http://dbpedia.org/resource/Rosario,_Santa_Fe",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Palestine_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergio_Aquino",
+            "http://dbpedia.org/resource/Clorinda,_Formosa",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Paraguay_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Eduardo_Arbide",
+            "http://dbpedia.org/resource/Rosario,_Santa_Fe",
+            "http://dbpedia.org/resource/Inside_forward",
+            "http://dbpedia.org/resource/Spain_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Emilio_Badini",
+            "http://dbpedia.org/resource/Santa_Fe,_Argentina",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Italy_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucas_Barrios",
+            "http://dbpedia.org/resource/San_Fernando,_Buenos_Aires",
+            "http://dbpedia.org/resource/Striker",
+            "http://dbpedia.org/resource/Paraguay_national_football_team"
+        ]
+    ]
+}

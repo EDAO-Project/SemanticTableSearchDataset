@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/United_States_Ambassador_to_Afghanistan",
+            "http://dbpedia.org/resource/James_B._Cunningham"
+        ],
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/United_States_Ambassador_to_Albania",
+            "http://dbpedia.org/resource/Alexander_Arvizu"
+        ],
+        [
+            "http://dbpedia.org/resource/Andorra",
+            "http://dbpedia.org/resource/United_States_Ambassador_to_Spain",
+            "http://dbpedia.org/resource/James_Costos"
+        ],
+        [
+            "http://dbpedia.org/resource/Antigua_and_Barbuda",
+            "http://dbpedia.org/resource/United_States_Ambassador_to_Antigua_and_Barbuda",
+            "http://dbpedia.org/resource/Larry_Leon_Palmer"
+        ],
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/United_States_Ambassador_to_Armenia",
+            "http://dbpedia.org/resource/John_A._Heffern"
+        ]
+    ]
+}

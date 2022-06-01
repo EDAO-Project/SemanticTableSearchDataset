@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_in_literature",
+            "http://dbpedia.org/resource/Dave_Luckett",
+            "http://dbpedia.org/resource/Scholastic_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_in_literature",
+            "http://dbpedia.org/resource/Natalie_Jane_Prior",
+            "http://dbpedia.org/resource/Headline_Publishing_Group"
+        ]
+    ]
+}

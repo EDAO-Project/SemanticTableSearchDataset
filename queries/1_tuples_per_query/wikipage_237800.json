@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_Dodge",
+            "http://dbpedia.org/resource/30th_United_States_Congress",
+            "http://dbpedia.org/resource/Isaac_P._Walker"
+        ]
+    ]
+}

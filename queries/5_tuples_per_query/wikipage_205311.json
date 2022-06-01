@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Cook",
+            "http://dbpedia.org/resource/Chocowinity,_North_Carolina",
+            "http://dbpedia.org/resource/Beaufort_County,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Norman_W._Sanderson",
+            "http://dbpedia.org/resource/Arapahoe,_North_Carolina",
+            "http://dbpedia.org/resource/Carteret_County,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Clark_Jenkins",
+            "http://dbpedia.org/resource/Tarboro,_North_Carolina",
+            "http://dbpedia.org/resource/Bertie_County,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Angela_Bryant",
+            "http://dbpedia.org/resource/Rocky_Mount,_North_Carolina",
+            "http://dbpedia.org/resource/Halifax_County,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_G._Davis",
+            "http://dbpedia.org/resource/Snow_Hill,_North_Carolina",
+            "http://dbpedia.org/resource/Greene_County,_North_Carolina"
+        ]
+    ]
+}

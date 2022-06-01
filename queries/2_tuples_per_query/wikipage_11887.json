@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Doosan_Bears",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Kim_Jin-wook"
+        ],
+        [
+            "http://dbpedia.org/resource/Hanwha_Eagles",
+            "http://dbpedia.org/resource/Daejeon",
+            "http://dbpedia.org/resource/Kim_Eung-ryong"
+        ]
+    ]
+}

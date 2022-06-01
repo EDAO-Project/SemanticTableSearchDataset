@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/College_Kumaran",
+            "http://dbpedia.org/resource/Thulasidas",
+            "http://dbpedia.org/resource/Mohanlal"
+        ],
+        [
+            "http://dbpedia.org/resource/Sound_of_Boot",
+            "http://dbpedia.org/resource/Shaji_Kailas",
+            "http://dbpedia.org/resource/Suresh_Gopi"
+        ],
+        [
+            "http://dbpedia.org/resource/Calcutta_News",
+            "http://dbpedia.org/resource/Blessy",
+            "http://dbpedia.org/resource/Antony_Thekkek"
+        ],
+        [
+            "http://dbpedia.org/resource/Innathe_Chintha_Vishayam",
+            "http://dbpedia.org/resource/Sathyan_Anthikad",
+            "http://dbpedia.org/resource/Mohanlal"
+        ],
+        [
+            "http://dbpedia.org/resource/De_Ingottu_Nokkiye",
+            "http://dbpedia.org/resource/Balachandra_Menon",
+            "http://dbpedia.org/resource/Jayasurya"
+        ]
+    ]
+}

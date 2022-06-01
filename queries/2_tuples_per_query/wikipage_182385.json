@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Changhua_County",
+            "http://dbpedia.org/resource/Cho_Po-yuan",
+            "http://dbpedia.org/resource/Kuomintang",
+            "http://dbpedia.org/resource/List_of_county_magistrates_of_Changhua"
+        ],
+        [
+            "http://dbpedia.org/resource/Chiayi",
+            "http://dbpedia.org/resource/Huang_Ming-hui",
+            "http://dbpedia.org/resource/Kuomintang",
+            "http://dbpedia.org/resource/Mayor_of_Chiayi"
+        ]
+    ]
+}

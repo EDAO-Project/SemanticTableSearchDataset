@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Company_of_Wolves",
+            "http://dbpedia.org/resource/Neil_Jordan",
+            "http://dbpedia.org/resource/Angela_Lansbury"
+        ],
+        [
+            "http://dbpedia.org/resource/Friday_the_13th:_The_Final_Chapter",
+            "http://dbpedia.org/resource/Joseph_Zito",
+            "http://dbpedia.org/resource/Crispin_Glover"
+        ]
+    ]
+}

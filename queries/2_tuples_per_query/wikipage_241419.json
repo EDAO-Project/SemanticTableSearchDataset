@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guilhem_Guirado",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/USA_Perpignan"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Kayser",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/ASM_Clermont_Auvergne"
+        ]
+    ]
+}

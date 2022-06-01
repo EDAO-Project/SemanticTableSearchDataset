@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/498_BC",
+            "http://dbpedia.org/resource/Thessaly",
+            "http://dbpedia.org/resource/Perseus"
+        ],
+        [
+            "http://dbpedia.org/resource/Agrigento",
+            "http://dbpedia.org/resource/Aulos",
+            "http://dbpedia.org/resource/Medusa"
+        ],
+        [
+            "http://dbpedia.org/resource/485_BC",
+            "http://dbpedia.org/resource/Acharnae",
+            "http://dbpedia.org/resource/Pankration"
+        ],
+        [
+            "http://dbpedia.org/resource/485_BC",
+            "http://dbpedia.org/resource/Aegina",
+            "http://dbpedia.org/resource/Neoptolemus"
+        ],
+        [
+            "http://dbpedia.org/resource/476_BC",
+            "http://dbpedia.org/resource/Hiero_I_of_Syracuse",
+            "http://dbpedia.org/resource/Pelops"
+        ]
+    ]
+}

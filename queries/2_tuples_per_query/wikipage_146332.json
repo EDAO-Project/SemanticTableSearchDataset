@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angivillers",
+            "http://dbpedia.org/resource/Angy",
+            "http://dbpedia.org/resource/Ansacq",
+            "http://dbpedia.org/resource/Ansauvillers"
+        ],
+        [
+            "http://dbpedia.org/resource/Bailleval",
+            "http://dbpedia.org/resource/Bazicourt",
+            "http://dbpedia.org/resource/Beauvoir,_Oise",
+            "http://dbpedia.org/resource/Blincourt"
+        ]
+    ]
+}

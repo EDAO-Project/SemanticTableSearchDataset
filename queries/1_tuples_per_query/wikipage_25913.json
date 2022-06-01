@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wismar",
+            "http://dbpedia.org/resource/Mecklenburg",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Rostock_Peace_Treaty"
+        ]
+    ]
+}

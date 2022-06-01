@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Valdas_Adamkus",
+            "http://dbpedia.org/resource/Lithuania",
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/List_of_rulers_of_Lithuania"
+        ],
+        [
+            "http://dbpedia.org/resource/Martti_Ahtisaari",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Social_Democratic_Party_of_Finland",
+            "http://dbpedia.org/resource/President_of_Finland"
+        ]
+    ]
+}

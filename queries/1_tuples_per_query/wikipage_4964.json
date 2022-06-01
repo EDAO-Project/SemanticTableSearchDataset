@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Sidorkiewicz",
+            "http://dbpedia.org/resource/Poland",
+            "http://dbpedia.org/resource/Hartford_Whalers"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Washington_Mystics",
+            "http://dbpedia.org/resource/Tan_White",
+            "http://dbpedia.org/resource/Tamika_Catchings",
+            "http://dbpedia.org/resource/Anna_DeForge",
+            "http://dbpedia.org/resource/Bankers_Life_Fieldhouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Comets",
+            "http://dbpedia.org/resource/Tammy_Sutton-Brown",
+            "http://dbpedia.org/resource/Tamika_Catchings",
+            "http://dbpedia.org/resource/K._B._Sharp",
+            "http://dbpedia.org/resource/Bankers_Life_Fieldhouse"
+        ]
+    ]
+}

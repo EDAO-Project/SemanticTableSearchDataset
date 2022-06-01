@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Western_College",
+            "http://dbpedia.org/resource/Yuma,_Arizona",
+            "http://dbpedia.org/resource/Arizona_Community_College_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_Arizona_College",
+            "http://dbpedia.org/resource/Coolidge,_Arizona",
+            "http://dbpedia.org/resource/Arizona_Community_College_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Cochise_College",
+            "http://dbpedia.org/resource/Douglas,_Arizona",
+            "http://dbpedia.org/resource/Arizona_Community_College_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastern_Arizona_College",
+            "http://dbpedia.org/resource/Thatcher,_Arizona",
+            "http://dbpedia.org/resource/Arizona_Community_College_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/GateWay_Community_College",
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/Arizona_Community_College_Athletic_Conference"
+        ]
+    ]
+}

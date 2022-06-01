@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1938_Amateur_World_Series",
+            "http://dbpedia.org/resource/Great_Britain",
+            "http://dbpedia.org/resource/United_States_national_baseball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Amateur_World_Series",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/United_States_national_baseball_team"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/16th_Goya_Awards",
+            "http://dbpedia.org/resource/Elena_Anaya",
+            "http://dbpedia.org/resource/Sex_and_Lucia"
+        ],
+        [
+            "http://dbpedia.org/resource/16th_Goya_Awards",
+            "http://dbpedia.org/resource/Najwa_Nimri",
+            "http://dbpedia.org/resource/Sex_and_Lucia"
+        ],
+        [
+            "http://dbpedia.org/resource/16th_Goya_Awards",
+            "http://dbpedia.org/resource/Rosana_Pastor",
+            "http://dbpedia.org/resource/Joanna_of_Castile"
+        ],
+        [
+            "http://dbpedia.org/resource/17th_Goya_Awards",
+            "http://dbpedia.org/resource/Mercedes_Sampietro",
+            "http://dbpedia.org/resource/Common_Places"
+        ],
+        [
+            "http://dbpedia.org/resource/17th_Goya_Awards",
+            "http://dbpedia.org/resource/Leonor_Watling",
+            "http://dbpedia.org/resource/My_Mother_Likes_Women"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Akron",
+            "http://dbpedia.org/resource/Akron,_Ohio",
+            "http://dbpedia.org/resource/Akron_Zips",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Bowling_Green_State_University",
+            "http://dbpedia.org/resource/Bowling_Green,_Ohio",
+            "http://dbpedia.org/resource/Bowling_Green_Falcons",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Kent_State_University",
+            "http://dbpedia.org/resource/Kent,_Ohio",
+            "http://dbpedia.org/resource/Kent_State_Golden_Flashes",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami_University",
+            "http://dbpedia.org/resource/Oxford,_Ohio",
+            "http://dbpedia.org/resource/Miami_RedHawks",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Ohio_State_University",
+            "http://dbpedia.org/resource/Columbus,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Buckeyes",
+            "http://dbpedia.org/resource/Big_Ten_Conference"
+        ]
+    ]
+}

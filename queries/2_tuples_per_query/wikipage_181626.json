@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_Mobile_Alabama_Bowl",
+            "http://dbpedia.org/resource/2000_Southern_Miss_Golden_Eagles_football_team",
+            "http://dbpedia.org/resource/2000_TCU_Horned_Frogs_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_GMAC_Bowl",
+            "http://dbpedia.org/resource/2002_Marshall_Thundering_Herd_football_team",
+            "http://dbpedia.org/resource/2002_Louisville_Cardinals_football_team"
+        ]
+    ]
+}

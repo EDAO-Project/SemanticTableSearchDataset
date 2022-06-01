@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Railroad_Development_Corporation",
+            "http://dbpedia.org/resource/5_ft_6_in_gauge_railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Pacific_National",
+            "http://dbpedia.org/resource/Rail_gauge_in_Australia"
+        ]
+    ]
+}

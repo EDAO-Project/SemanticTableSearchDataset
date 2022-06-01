@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Adventures_of_Shuggy",
+            "http://dbpedia.org/resource/Xbox_360",
+            "http://dbpedia.org/resource/Platform_game"
+        ],
+        [
+            "http://dbpedia.org/resource/BloodNet",
+            "http://dbpedia.org/resource/Amiga",
+            "http://dbpedia.org/resource/Adventure_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Countdown_Vampires",
+            "http://dbpedia.org/resource/PlayStation",
+            "http://dbpedia.org/resource/Survival_horror"
+        ],
+        [
+            "http://dbpedia.org/resource/Darkwatch",
+            "http://dbpedia.org/resource/PlayStation_2",
+            "http://dbpedia.org/resource/First-person_shooter"
+        ],
+        [
+            "http://dbpedia.org/resource/Dracula_2:_The_Last_Sanctuary",
+            "http://dbpedia.org/resource/PlayStation",
+            "http://dbpedia.org/resource/Graphic_adventure_game"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alpine,_Utah",
+            "http://dbpedia.org/resource/Utah_County,_Utah",
+            "http://dbpedia.org/resource/Wasatch_Range"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bitschhoffen",
+            "http://dbpedia.org/resource/Dalhunden",
+            "http://dbpedia.org/resource/Dambach,_Bas-Rhin",
+            "http://dbpedia.org/resource/Dauendorf"
+        ],
+        [
+            "http://dbpedia.org/resource/Drusenheim",
+            "http://dbpedia.org/resource/Engwiller",
+            "http://dbpedia.org/resource/Forstfeld",
+            "http://dbpedia.org/resource/Fort-Louis"
+        ],
+        [
+            "http://dbpedia.org/resource/Gumbrechtshoffen",
+            "http://dbpedia.org/resource/Gundershoffen",
+            "http://dbpedia.org/resource/Haguenau",
+            "http://dbpedia.org/resource/Herrlisheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Hochstett",
+            "http://dbpedia.org/resource/Huttendorf",
+            "http://dbpedia.org/resource/Kaltenhouse",
+            "http://dbpedia.org/resource/Kauffenheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Kindwiller",
+            "http://dbpedia.org/resource/La_Walck",
+            "http://dbpedia.org/resource/Leutenheim",
+            "http://dbpedia.org/resource/Mertzwiller"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_LPGA_Tour",
+            "http://dbpedia.org/resource/Maria_Hjorth",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_LPGA_Tour",
+            "http://dbpedia.org/resource/Karrie_Webb",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

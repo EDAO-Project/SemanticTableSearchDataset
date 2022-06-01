@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1876_in_baseball",
+            "http://dbpedia.org/resource/George_Bradley",
+            "http://dbpedia.org/resource/St._Louis_Brown_Stockings",
+            "http://dbpedia.org/resource/National_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1916_in_baseball",
+            "http://dbpedia.org/resource/Grover_Cleveland_Alexander",
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/National_League"
+        ]
+    ]
+}

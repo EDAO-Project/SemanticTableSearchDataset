@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_PGA_Tour",
+            "http://dbpedia.org/resource/Humana_Challenge",
+            "http://dbpedia.org/resource/Gary_Player"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_PGA_Tour",
+            "http://dbpedia.org/resource/Masters_Tournament",
+            "http://dbpedia.org/resource/Arnold_Palmer"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_PGA_Tour",
+            "http://dbpedia.org/resource/Masters_Tournament",
+            "http://dbpedia.org/resource/Gay_Brewer"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_PGA_Tour",
+            "http://dbpedia.org/resource/AT&T_Pebble_Beach_National_Pro-Am",
+            "http://dbpedia.org/resource/Billy_Casper"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_PGA_Tour",
+            "http://dbpedia.org/resource/Western_Open",
+            "http://dbpedia.org/resource/Miller_Barber"
+        ]
+    ]
+}

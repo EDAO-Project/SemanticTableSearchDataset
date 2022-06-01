@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stadion_Kantrida",
+            "http://dbpedia.org/resource/NK_Lokomotiva",
+            "http://dbpedia.org/resource/Ivor_Weitzer"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Kantrida",
+            "http://dbpedia.org/resource/HNK_Hajduk_Split",
+            "http://dbpedia.org/resource/Damir_Kreilach"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Kantrida",
+            "http://dbpedia.org/resource/GNK_Dinamo_Zagreb",
+            "http://dbpedia.org/resource/Danijel_Cesarec"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_HNK_Cibalia",
+            "http://dbpedia.org/resource/HNK_Cibalia",
+            "http://dbpedia.org/resource/Josip_Brezovec"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Kantrida",
+            "http://dbpedia.org/resource/NK_Istra_1961",
+            "http://dbpedia.org/resource/Danijel_Cesarec"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angelo_State_University",
+            "http://dbpedia.org/resource/Angelo_State_Rams_football",
+            "http://dbpedia.org/resource/San_Angelo,_Texas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Lone_Star_Conference",
+            "http://dbpedia.org/resource/San_Angelo_Stadium"
+        ]
+    ]
+}

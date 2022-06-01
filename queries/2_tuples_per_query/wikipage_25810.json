@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Donald_Barrell",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Guthrie_Hall",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/South_African_Rugby_Union"
+        ]
+    ]
+}

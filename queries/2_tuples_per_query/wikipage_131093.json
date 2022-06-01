@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Erik_Johnson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/St._Louis_Blues",
+            "http://dbpedia.org/resource/USA_Hockey_National_Team_Development_Program"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordan_Staal",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins",
+            "http://dbpedia.org/resource/Peterborough_Petes"
+        ]
+    ]
+}

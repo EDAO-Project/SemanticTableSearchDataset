@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tony_Iveson",
+            "http://dbpedia.org/resource/W._Somerset_Maugham",
+            "http://dbpedia.org/resource/Vine"
+        ],
+        [
+            "http://dbpedia.org/resource/Gyles_Brandreth",
+            "http://dbpedia.org/resource/Anton_Chekhov",
+            "http://dbpedia.org/resource/Michelangelo"
+        ]
+    ]
+}

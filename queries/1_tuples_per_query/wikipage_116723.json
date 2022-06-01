@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Malcolm_Archer",
+            "http://dbpedia.org/resource/Jesus_College,_Cambridge",
+            "http://dbpedia.org/resource/Bristol_Cathedral"
+        ]
+    ]
+}

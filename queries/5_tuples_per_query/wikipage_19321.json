@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Allison_Janney",
+            "http://dbpedia.org/resource/The_West_Wing",
+            "http://dbpedia.org/resource/C._J._Cregg"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Gillian_Anderson",
+            "http://dbpedia.org/resource/The_X-Files",
+            "http://dbpedia.org/resource/Dana_Scully"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Edie_Falco",
+            "http://dbpedia.org/resource/The_Sopranos",
+            "http://dbpedia.org/resource/Carmela_Soprano"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Edie_Falco",
+            "http://dbpedia.org/resource/The_Sopranos",
+            "http://dbpedia.org/resource/Carmela_Soprano"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Marg_Helgenberger",
+            "http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation",
+            "http://dbpedia.org/resource/Catherine_Willows"
+        ]
+    ]
+}

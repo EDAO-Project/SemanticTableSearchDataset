@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/113th_United_States_Congress",
+            "http://dbpedia.org/resource/Tom_Carper",
+            "http://dbpedia.org/resource/United_States_Senate_Committee_on_Finance"
+        ],
+        [
+            "http://dbpedia.org/resource/112th_United_States_Congress",
+            "http://dbpedia.org/resource/Aaron_Schock",
+            "http://dbpedia.org/resource/United_States_House_Committee_on_Ways_and_Means"
+        ],
+        [
+            "http://dbpedia.org/resource/112th_United_States_Congress",
+            "http://dbpedia.org/resource/Tom_Carper",
+            "http://dbpedia.org/resource/United_States_Senate_Committee_on_Finance"
+        ],
+        [
+            "http://dbpedia.org/resource/111th_United_States_Congress",
+            "http://dbpedia.org/resource/James_Langevin",
+            "http://dbpedia.org/resource/United_States_House_Committee_on_Ways_and_Means"
+        ],
+        [
+            "http://dbpedia.org/resource/111th_United_States_Congress",
+            "http://dbpedia.org/resource/Tom_Carper",
+            "http://dbpedia.org/resource/United_States_Senate_Committee_on_Finance"
+        ]
+    ]
+}

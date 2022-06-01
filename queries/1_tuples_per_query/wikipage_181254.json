@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bregenz_Forest_Mountains",
+            "http://dbpedia.org/resource/Northern_Limestone_Alps",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Glatthorn"
+        ]
+    ]
+}

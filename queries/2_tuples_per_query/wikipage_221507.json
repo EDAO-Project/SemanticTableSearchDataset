@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saaremaa",
+            "http://dbpedia.org/resource/West_Estonian_archipelago",
+            "http://dbpedia.org/resource/Estonia"
+        ],
+        [
+            "http://dbpedia.org/resource/Saba",
+            "http://dbpedia.org/resource/Lesser_Antilles",
+            "http://dbpedia.org/resource/Netherlands"
+        ]
+    ]
+}

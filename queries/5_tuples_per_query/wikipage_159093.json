@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/City_Centre_Bangladesh",
+            "http://dbpedia.org/resource/Dhaka",
+            "http://dbpedia.org/resource/Bangladesh"
+        ],
+        [
+            "http://dbpedia.org/resource/World_Trade_Centre,_Mumbai",
+            "http://dbpedia.org/resource/Mumbai",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Shreepati_Arcade",
+            "http://dbpedia.org/resource/Mumbai",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/World_Trade_Center",
+            "http://dbpedia.org/resource/Colombo",
+            "http://dbpedia.org/resource/Sri_Lanka"
+        ],
+        [
+            "http://dbpedia.org/resource/Urbana,_Kolkata",
+            "http://dbpedia.org/resource/Kolkata",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

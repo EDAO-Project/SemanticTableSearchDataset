@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scottish_Borders",
+            "http://dbpedia.org/resource/Berwickshire",
+            "http://dbpedia.org/resource/Duns"
+        ]
+    ]
+}

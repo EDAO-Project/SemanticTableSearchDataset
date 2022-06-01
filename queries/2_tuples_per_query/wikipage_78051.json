@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Doom_II:_Hell_on_Earth",
+            "http://dbpedia.org/resource/Id_Software",
+            "http://dbpedia.org/resource/Tapwave_Zodiac"
+        ],
+        [
+            "http://dbpedia.org/resource/Duke_Nukem_3D",
+            "http://dbpedia.org/resource/3D_Realms",
+            "http://dbpedia.org/resource/Game.com"
+        ]
+    ]
+}

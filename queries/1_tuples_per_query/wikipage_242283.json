@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Valletta",
+            "http://dbpedia.org/resource/Marsa,_Malta",
+            "http://dbpedia.org/resource/Senglea",
+            "http://dbpedia.org/resource/Fgura"
+        ]
+    ]
+}

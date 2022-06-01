@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indomalaya_ecozone",
+            "http://dbpedia.org/resource/Tropical_and_subtropical_moist_broadleaf_forests",
+            "http://dbpedia.org/resource/Andaman_Islands",
+            "http://dbpedia.org/resource/Andaman_and_Nicobar_Islands"
+        ],
+        [
+            "http://dbpedia.org/resource/Indomalaya_ecozone",
+            "http://dbpedia.org/resource/Tropical_and_subtropical_moist_broadleaf_forests",
+            "http://dbpedia.org/resource/Brahmaputra_Valley_semi-evergreen_forests",
+            "http://dbpedia.org/resource/Arunachal_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Indomalaya_ecozone",
+            "http://dbpedia.org/resource/Tropical_and_subtropical_moist_broadleaf_forests",
+            "http://dbpedia.org/resource/Brahmaputra_Valley_semi-evergreen_forests",
+            "http://dbpedia.org/resource/Assam"
+        ],
+        [
+            "http://dbpedia.org/resource/Indomalaya_ecozone",
+            "http://dbpedia.org/resource/Tropical_and_subtropical_moist_broadleaf_forests",
+            "http://dbpedia.org/resource/Brahmaputra_Valley_semi-evergreen_forests",
+            "http://dbpedia.org/resource/Meghalaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Indomalaya_ecozone",
+            "http://dbpedia.org/resource/Tropical_and_subtropical_moist_broadleaf_forests",
+            "http://dbpedia.org/resource/Brahmaputra_Valley_semi-evergreen_forests",
+            "http://dbpedia.org/resource/Nagaland"
+        ]
+    ]
+}

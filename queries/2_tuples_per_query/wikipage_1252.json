@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_in_sports",
+            "http://dbpedia.org/resource/Derek_Graham",
+            "http://dbpedia.org/resource/Belfast"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_in_sports",
+            "http://dbpedia.org/resource/Ron_Hill",
+            "http://dbpedia.org/resource/Freckleton"
+        ]
+    ]
+}

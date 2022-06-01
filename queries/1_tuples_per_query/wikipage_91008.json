@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1971_World_Championship_Tennis_Finals",
+            "http://dbpedia.org/resource/Ken_Rosewall",
+            "http://dbpedia.org/resource/Rod_Laver"
+        ]
+    ]
+}

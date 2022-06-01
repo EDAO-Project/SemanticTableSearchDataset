@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jia_Perkins",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Sky",
+            "http://dbpedia.org/resource/Charlotte_Sting"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooke_Wyckoff",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Sky",
+            "http://dbpedia.org/resource/Connecticut_Sun"
+        ],
+        [
+            "http://dbpedia.org/resource/Elaine_Powell",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Sky",
+            "http://dbpedia.org/resource/Detroit_Shock"
+        ],
+        [
+            "http://dbpedia.org/resource/Kiesha_Brown",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Sky",
+            "http://dbpedia.org/resource/Houston_Comets"
+        ],
+        [
+            "http://dbpedia.org/resource/Deanna_Jackson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Sky",
+            "http://dbpedia.org/resource/Indiana_Fever"
+        ]
+    ]
+}

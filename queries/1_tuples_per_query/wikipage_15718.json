@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Murder_of_Raja_Ahmed",
+            "http://dbpedia.org/resource/Constable",
+            "http://dbpedia.org/resource/Greater_Manchester_Police"
+        ]
+    ]
+}

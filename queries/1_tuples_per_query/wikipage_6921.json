@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bowling_Green_State_University",
+            "http://dbpedia.org/resource/Anderson_Arena",
+            "http://dbpedia.org/resource/Bowling_Green,_Ohio",
+            "http://dbpedia.org/resource/Ohio"
+        ]
+    ]
+}

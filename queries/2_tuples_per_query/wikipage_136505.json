@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johan_Gadolin",
+            "http://dbpedia.org/resource/Finns",
+            "http://dbpedia.org/resource/Gadolinium"
+        ],
+        [
+            "http://dbpedia.org/resource/Marie_Curie",
+            "http://dbpedia.org/resource/Poles",
+            "http://dbpedia.org/resource/Curium"
+        ]
+    ]
+}

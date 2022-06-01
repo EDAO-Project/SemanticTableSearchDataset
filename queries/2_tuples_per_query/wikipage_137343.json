@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sean_Cronin",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Connacht_Rugby"
+        ],
+        [
+            "http://dbpedia.org/resource/Jerry_Flannery",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Munster_Rugby"
+        ]
+    ]
+}

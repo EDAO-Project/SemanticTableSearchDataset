@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1981_American_League_Division_Series",
+            "http://dbpedia.org/resource/1981_New_York_Yankees_season",
+            "http://dbpedia.org/resource/1981_Milwaukee_Brewers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_American_League_Division_Series",
+            "http://dbpedia.org/resource/1981_Oakland_Athletics_season",
+            "http://dbpedia.org/resource/1981_Kansas_City_Royals_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_American_League_Division_Series",
+            "http://dbpedia.org/resource/1995_Cleveland_Indians_season",
+            "http://dbpedia.org/resource/1995_Boston_Red_Sox_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_American_League_Division_Series",
+            "http://dbpedia.org/resource/Seattle_Mariners",
+            "http://dbpedia.org/resource/New_York_Yankees"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_American_League_Division_Series",
+            "http://dbpedia.org/resource/1996_New_York_Yankees_season",
+            "http://dbpedia.org/resource/1996_Texas_Rangers_season"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Ricky_Martin",
+            "http://dbpedia.org/resource/Backstreet_Boys"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/NSYNC",
+            "http://dbpedia.org/resource/Christina_Aguilera"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/NSYNC",
+            "http://dbpedia.org/resource/Christina_Aguilera"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/No_Doubt",
+            "http://dbpedia.org/resource/Michelle_Branch"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Justin_Timberlake",
+            "http://dbpedia.org/resource/Christina_Aguilera"
+        ]
+    ]
+}

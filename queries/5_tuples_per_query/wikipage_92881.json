@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Tyson_Gay",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Usain_Bolt",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Jeremy_Wariner",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/Wilfred_Bungei",
+            "http://dbpedia.org/resource/Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Nixon_Chepseba",
+            "http://dbpedia.org/resource/Kenya"
+        ]
+    ]
+}

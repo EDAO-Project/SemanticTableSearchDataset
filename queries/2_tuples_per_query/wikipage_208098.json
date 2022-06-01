@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arabic",
+            "http://dbpedia.org/resource/Egyptian_Arabic",
+            "http://dbpedia.org/resource/Arabic_alphabet",
+            "http://dbpedia.org/resource/Emphatic_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/English_language",
+            "http://dbpedia.org/resource/Received_Pronunciation",
+            "http://dbpedia.org/resource/English_orthography",
+            "http://dbpedia.org/resource/Allophone"
+        ]
+    ]
+}

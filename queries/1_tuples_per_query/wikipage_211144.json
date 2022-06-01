@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/State_songs_of_Arizona",
+            "http://dbpedia.org/resource/Rex_Allen"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jongmyo_jerye",
+            "http://dbpedia.org/resource/Jongmyo",
+            "http://dbpedia.org/resource/Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Yangju_byeolsandae_nori",
+            "http://dbpedia.org/resource/Yangju",
+            "http://dbpedia.org/resource/Gyeonggi_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Goseong_ogwangdae",
+            "http://dbpedia.org/resource/Goseong_County,_South_Gyeongsang",
+            "http://dbpedia.org/resource/South_Gyeongsang_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Eunsan_byeolsinje",
+            "http://dbpedia.org/resource/Korean_shamanism",
+            "http://dbpedia.org/resource/South_Chungcheong_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Pungmul",
+            "http://dbpedia.org/resource/Imsil_County",
+            "http://dbpedia.org/resource/North_Jeolla_Province"
+        ]
+    ]
+}

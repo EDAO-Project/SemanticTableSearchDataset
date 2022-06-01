@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1982",
+            "http://dbpedia.org/resource/Anna_Vissi",
+            "http://dbpedia.org/resource/Mono_I_Agapi"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1984",
+            "http://dbpedia.org/resource/Andy_Paul",
+            "http://dbpedia.org/resource/Anna_Maria_Lena"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1985",
+            "http://dbpedia.org/resource/Lia_Vissi",
+            "http://dbpedia.org/resource/To_Katalava_Arga"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1992",
+            "http://dbpedia.org/resource/Evridiki",
+            "http://dbpedia.org/resource/Teriazoume"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1995",
+            "http://dbpedia.org/resource/Alexandros_Panayi",
+            "http://dbpedia.org/resource/Sti_Fotia"
+        ]
+    ]
+}

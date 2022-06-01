@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jomo_Kenyatta",
+            "http://dbpedia.org/resource/History_of_Kenya",
+            "http://dbpedia.org/resource/Kenya_African_National_Union"
+        ]
+    ]
+}

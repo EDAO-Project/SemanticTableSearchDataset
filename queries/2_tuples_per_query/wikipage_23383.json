@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnson_Wax_Headquarters",
+            "http://dbpedia.org/resource/Racine,_Wisconsin",
+            "http://dbpedia.org/resource/Racine_County,_Wisconsin",
+            "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/Astor_Fur_Warehouse",
+            "http://dbpedia.org/resource/Prairie_du_Chien,_Wisconsin",
+            "http://dbpedia.org/resource/Crawford_County,_Wisconsin",
+            "http://dbpedia.org/resource/Mississippi_River"
+        ]
+    ]
+}

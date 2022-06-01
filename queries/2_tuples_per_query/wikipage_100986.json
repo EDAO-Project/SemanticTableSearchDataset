@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Taibo",
+            "http://dbpedia.org/resource/Law_with_Two_Phases"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Lam_Ching-ying",
+            "http://dbpedia.org/resource/Mr._Vampire"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Petar_Zhekov",
+            "http://dbpedia.org/resource/PFC_CSKA_Sofia",
+            "http://dbpedia.org/resource/Bulgarian_A_Football_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia",
+            "http://dbpedia.org/resource/Josip_Skoblar",
+            "http://dbpedia.org/resource/Olympique_de_Marseille",
+            "http://dbpedia.org/resource/Ligue_1"
+        ]
+    ]
+}

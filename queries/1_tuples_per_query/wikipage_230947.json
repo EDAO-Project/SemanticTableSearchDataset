@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Otsuka_Pharmaceutical",
+            "http://dbpedia.org/resource/Aripiprazole",
+            "http://dbpedia.org/resource/Atypical_antipsychotic",
+            "http://dbpedia.org/resource/Schizophrenia"
+        ]
+    ]
+}

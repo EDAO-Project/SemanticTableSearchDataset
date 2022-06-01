@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alderson_Bridge",
+            "http://dbpedia.org/resource/Greenbrier_River",
+            "http://dbpedia.org/resource/Alderson,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Blue_Bend_Forest_Camp",
+            "http://dbpedia.org/resource/West_Virginia_Route_92",
+            "http://dbpedia.org/resource/Alvon,_West_Virginia"
+        ]
+    ]
+}

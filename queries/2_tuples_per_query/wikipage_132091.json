@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Okurayama_Ski_Jump_Stadium",
+            "http://dbpedia.org/resource/1972_Winter_Olympics",
+            "http://dbpedia.org/resource/Ski_jumping_at_the_1972_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympia-Kunsteisstadion",
+            "http://dbpedia.org/resource/1936_Winter_Olympics",
+            "http://dbpedia.org/resource/Figure_skating_at_the_1936_Winter_Olympics"
+        ]
+    ]
+}

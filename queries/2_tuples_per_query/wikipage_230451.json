@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zou_Shiming",
+            "http://dbpedia.org/resource/Suban_Pannon",
+            "http://dbpedia.org/resource/Godfrey_Castro"
+        ],
+        [
+            "http://dbpedia.org/resource/Zou_Shiming",
+            "http://dbpedia.org/resource/Suban_Pannon",
+            "http://dbpedia.org/resource/Hong_Moo-won"
+        ]
+    ]
+}

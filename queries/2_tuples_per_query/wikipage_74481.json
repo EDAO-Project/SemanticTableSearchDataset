@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Tytler",
+            "http://dbpedia.org/resource/1_Gorkha_Rifles",
+            "http://dbpedia.org/resource/Indian_Rebellion_of_1857",
+            "http://dbpedia.org/resource/Jammu_and_Kashmir"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Channer",
+            "http://dbpedia.org/resource/Indian_Staff_Corps",
+            "http://dbpedia.org/resource/Perak_War",
+            "http://dbpedia.org/resource/Perak"
+        ]
+    ]
+}

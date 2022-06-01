@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ledyard,_Connecticut",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Foxwoods_Resort_Casino"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic_City,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Trump_Plaza_Hotel_and_Casino"
+        ],
+        [
+            "http://dbpedia.org/resource/Wallingford,_Connecticut",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Oakdale_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Wantagh,_New_York",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Nikon_at_Jones_Beach_Theater"
+        ],
+        [
+            "http://dbpedia.org/resource/Holmdel_Township,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/PNC_Bank_Arts_Center"
+        ]
+    ]
+}

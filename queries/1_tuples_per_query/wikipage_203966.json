@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Talking_Heads",
+            "http://dbpedia.org/resource/Eric_Clapton"
+        ]
+    ]
+}

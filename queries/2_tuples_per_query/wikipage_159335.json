@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bethlem_Royal_Hospital",
+            "http://dbpedia.org/resource/Southwark",
+            "http://dbpedia.org/resource/Imperial_War_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridewell_Palace",
+            "http://dbpedia.org/resource/Blackfriars,_London",
+            "http://dbpedia.org/resource/Great_Fire_of_London"
+        ]
+    ]
+}

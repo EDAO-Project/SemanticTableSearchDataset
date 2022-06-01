@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Serge_Koussevitzky",
+            "http://dbpedia.org/resource/RCA"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Orchestra",
+            "http://dbpedia.org/resource/Eugene_Ormandy",
+            "http://dbpedia.org/resource/Sony"
+        ]
+    ]
+}

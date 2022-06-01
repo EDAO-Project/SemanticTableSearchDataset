@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Heliamphora_arenicola",
+            "http://dbpedia.org/resource/Andreas_Wistuba",
+            "http://dbpedia.org/resource/Venezuela"
+        ],
+        [
+            "http://dbpedia.org/resource/Heliamphora_ceracea",
+            "http://dbpedia.org/resource/Joachim_Nerz",
+            "http://dbpedia.org/resource/Brazil"
+        ]
+    ]
+}

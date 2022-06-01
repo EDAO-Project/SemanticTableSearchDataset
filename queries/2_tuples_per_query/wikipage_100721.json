@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_of_Susa",
+            "http://dbpedia.org/resource/Ulric_Manfred_II_of_Turin",
+            "http://dbpedia.org/resource/Otto_I,_Count_of_Savoy"
+        ],
+        [
+            "http://dbpedia.org/resource/Agnes_of_Aquitaine,_Countess_of_Savoy",
+            "http://dbpedia.org/resource/William_VII,_Duke_of_Aquitaine",
+            "http://dbpedia.org/resource/Peter_I,_Count_of_Savoy"
+        ]
+    ]
+}

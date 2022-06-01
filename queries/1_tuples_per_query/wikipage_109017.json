@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angel_Falls",
+            "http://dbpedia.org/resource/Canaima_National_Park",
+            "http://dbpedia.org/resource/Venezuela"
+        ]
+    ]
+}

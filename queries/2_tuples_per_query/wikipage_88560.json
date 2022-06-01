@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_Mediterranean_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_1951_Mediterranean_Games",
+            "http://dbpedia.org/resource/Alexandria"
+        ],
+        [
+            "http://dbpedia.org/resource/1955_Mediterranean_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_1955_Mediterranean_Games",
+            "http://dbpedia.org/resource/Barcelona"
+        ]
+    ]
+}

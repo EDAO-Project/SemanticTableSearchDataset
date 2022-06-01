@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armin_Hary",
+            "http://dbpedia.org/resource/Dave_Sime",
+            "http://dbpedia.org/resource/Peter_Radford"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilma_Rudolph",
+            "http://dbpedia.org/resource/Dorothy_Hyman",
+            "http://dbpedia.org/resource/Giuseppina_Leone"
+        ],
+        [
+            "http://dbpedia.org/resource/Livio_Berruti",
+            "http://dbpedia.org/resource/Lester_Carney",
+            "http://dbpedia.org/resource/Abdoulaye_Seye"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilma_Rudolph",
+            "http://dbpedia.org/resource/Jutta_Heine",
+            "http://dbpedia.org/resource/Dorothy_Hyman"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyudmila_Shevtsova",
+            "http://dbpedia.org/resource/Brenda_Jones",
+            "http://dbpedia.org/resource/Ursula_Donath"
+        ]
+    ]
+}

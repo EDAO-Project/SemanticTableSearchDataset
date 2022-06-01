@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hortensia_Bussi",
+            "http://dbpedia.org/resource/Salvador_Allende",
+            "http://dbpedia.org/resource/Death_of_Salvador_Allende",
+            "http://dbpedia.org/resource/Beatriz_Allende"
+        ],
+        [
+            "http://dbpedia.org/resource/Viktoria_Brezhneva",
+            "http://dbpedia.org/resource/Leonid_Brezhnev",
+            "http://dbpedia.org/resource/Death_and_state_funeral_of_Leonid_Brezhnev",
+            "http://dbpedia.org/resource/Galina_Brezhneva"
+        ],
+        [
+            "http://dbpedia.org/resource/Betty_Ford",
+            "http://dbpedia.org/resource/Gerald_Ford",
+            "http://dbpedia.org/resource/Death_and_state_funeral_of_Gerald_Ford",
+            "http://dbpedia.org/resource/Susan_Ford"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahatma_Gandhi",
+            "http://dbpedia.org/resource/Kasturba_Gandhi",
+            "http://dbpedia.org/resource/Bronchitis",
+            "http://dbpedia.org/resource/Harilal_Gandhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucretia_Garfield",
+            "http://dbpedia.org/resource/James_A._Garfield",
+            "http://dbpedia.org/resource/Assassination_of_James_A._Garfield",
+            "http://dbpedia.org/resource/Harry_Augustus_Garfield"
+        ]
+    ]
+}

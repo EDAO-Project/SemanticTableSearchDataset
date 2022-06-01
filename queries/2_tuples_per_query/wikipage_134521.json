@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_American_International_Auto_Show",
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/European_Motor_Show_Brussels",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Belgium"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santa_Clara_County,_California",
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/Santa_Clara,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Santa_Clara_County,_California",
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/San_Jose_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Santa_Clara_County,_California",
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/California_County_Routes_in_zone_G"
+        ],
+        [
+            "http://dbpedia.org/resource/Alameda_County,_California",
+            "http://dbpedia.org/resource/Fremont,_California",
+            "http://dbpedia.org/resource/California_State_Route_262"
+        ],
+        [
+            "http://dbpedia.org/resource/Alameda_County,_California",
+            "http://dbpedia.org/resource/Hayward,_California",
+            "http://dbpedia.org/resource/San_Lorenzo,_California"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eredivisie",
+            "http://dbpedia.org/resource/Rob_McDonald",
+            "http://dbpedia.org/resource/Eric_Viscaal"
+        ],
+        [
+            "http://dbpedia.org/resource/Eredivisie",
+            "http://dbpedia.org/resource/Jurrie_Koolhof",
+            "http://dbpedia.org/resource/Marino_Promes"
+        ],
+        [
+            "http://dbpedia.org/resource/Eredivisie",
+            "http://dbpedia.org/resource/Jurrie_Koolhof",
+            "http://dbpedia.org/resource/Martijn_Meerdink"
+        ],
+        [
+            "http://dbpedia.org/resource/Eredivisie",
+            "http://dbpedia.org/resource/Peter_Bosz",
+            "http://dbpedia.org/resource/Hans_van_de_Haar"
+        ],
+        [
+            "http://dbpedia.org/resource/Eerste_Divisie",
+            "http://dbpedia.org/resource/Frans_Adelaar",
+            "http://dbpedia.org/resource/Jhon_van_Beukering"
+        ]
+    ]
+}

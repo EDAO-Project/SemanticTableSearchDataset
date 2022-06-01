@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mombasa_County",
+            "http://dbpedia.org/resource/Hassan_Joho",
+            "http://dbpedia.org/resource/Orange_Democratic_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Kwale_County",
+            "http://dbpedia.org/resource/Salim_Mvurya",
+            "http://dbpedia.org/resource/Orange_Democratic_Movement"
+        ]
+    ]
+}

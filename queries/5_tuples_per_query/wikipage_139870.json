@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Valentin_Demyanenko",
+            "http://dbpedia.org/resource/Alfonso_Benavides",
+            "http://dbpedia.org/resource/Yuriy_Cheban"
+        ],
+        [
+            "http://dbpedia.org/resource/Lithuania",
+            "http://dbpedia.org/resource/Belarus",
+            "http://dbpedia.org/resource/Hungary"
+        ],
+        [
+            "http://dbpedia.org/resource/Romania",
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Poland"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Belarus",
+            "http://dbpedia.org/resource/Romania"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Belarus",
+            "http://dbpedia.org/resource/Russia"
+        ]
+    ]
+}

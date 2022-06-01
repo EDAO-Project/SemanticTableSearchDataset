@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bremanger",
+            "http://dbpedia.org/resource/Berle_Church",
+            "http://dbpedia.org/resource/Berle"
+        ],
+        [
+            "http://dbpedia.org/resource/Bremanger",
+            "http://dbpedia.org/resource/Midtgulen_Church",
+            "http://dbpedia.org/resource/Midtgulen"
+        ]
+    ]
+}

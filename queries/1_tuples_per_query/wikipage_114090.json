@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kent_Nilsson",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Atlanta_Flames",
+            "http://dbpedia.org/resource/1976_NHL_Amateur_Draft"
+        ]
+    ]
+}

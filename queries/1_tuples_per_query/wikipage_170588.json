@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Birdcage",
+            "http://dbpedia.org/resource/Mike_Nichols",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

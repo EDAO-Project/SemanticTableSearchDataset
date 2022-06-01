@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AB_postcode_area",
+            "http://dbpedia.org/resource/Aberdeen",
+            "http://dbpedia.org/resource/Aberdeenshire"
+        ]
+    ]
+}

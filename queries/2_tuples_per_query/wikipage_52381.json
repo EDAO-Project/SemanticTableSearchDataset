@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1992_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Drew_Bannister",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Brent_Gretzky",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

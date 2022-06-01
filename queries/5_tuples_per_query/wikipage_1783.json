@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KPLU-FM",
+            "http://dbpedia.org/resource/Pacific_Lutheran_University",
+            "http://dbpedia.org/resource/Public_broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/KNHC",
+            "http://dbpedia.org/resource/Seattle_Public_Schools",
+            "http://dbpedia.org/resource/Dance"
+        ],
+        [
+            "http://dbpedia.org/resource/KEXP-FM",
+            "http://dbpedia.org/resource/University_of_Washington",
+            "http://dbpedia.org/resource/Eclecticism_in_music"
+        ],
+        [
+            "http://dbpedia.org/resource/KMPS-FM",
+            "http://dbpedia.org/resource/CBS_Radio",
+            "http://dbpedia.org/resource/Country"
+        ],
+        [
+            "http://dbpedia.org/resource/KUOW-FM",
+            "http://dbpedia.org/resource/University_of_Washington",
+            "http://dbpedia.org/resource/NPR"
+        ]
+    ]
+}

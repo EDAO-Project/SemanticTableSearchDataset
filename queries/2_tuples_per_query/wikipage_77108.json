@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Helmut_Rahn",
+            "http://dbpedia.org/resource/Rot-Weiss_Essen",
+            "http://dbpedia.org/resource/West_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Just_Fontaine",
+            "http://dbpedia.org/resource/Stade_de_Reims",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

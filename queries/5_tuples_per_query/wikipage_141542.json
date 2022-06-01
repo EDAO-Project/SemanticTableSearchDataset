@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Biggest_Loser",
+            "http://dbpedia.org/resource/Blitz_Games",
+            "http://dbpedia.org/resource/THQ"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Biggest_Loser",
+            "http://dbpedia.org/resource/Blitz_Games",
+            "http://dbpedia.org/resource/THQ"
+        ],
+        [
+            "http://dbpedia.org/resource/EA_Sports_Active_NFL_Training_Camp",
+            "http://dbpedia.org/resource/EA_Canada",
+            "http://dbpedia.org/resource/EA_Sports"
+        ],
+        [
+            "http://dbpedia.org/resource/EA_Sports_Active_2",
+            "http://dbpedia.org/resource/EA_Canada",
+            "http://dbpedia.org/resource/EA_Sports"
+        ],
+        [
+            "http://dbpedia.org/resource/Get_Fit_with_Mel_B",
+            "http://dbpedia.org/resource/Lightning_Fish",
+            "http://dbpedia.org/resource/Koch_Media"
+        ]
+    ]
+}

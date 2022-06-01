@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Shyamol_Chhaya",
+            "http://dbpedia.org/resource/Humayun_Ahmed"
+        ],
+        [
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Viva_Cuba",
+            "http://dbpedia.org/resource/Juan_Carlos_Cremata_Malberti"
+        ],
+        [
+            "http://dbpedia.org/resource/Fiji",
+            "http://dbpedia.org/resource/The_Land_Has_Eyes",
+            "http://dbpedia.org/resource/Vilsoni_Hereniko"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Perhaps_Love",
+            "http://dbpedia.org/resource/Peter_Chan"
+        ],
+        [
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Paheli",
+            "http://dbpedia.org/resource/Amol_Palekar"
+        ]
+    ]
+}

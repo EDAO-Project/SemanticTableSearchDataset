@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bryson_DeChambeau",
+            "http://dbpedia.org/resource/Austin_Cook",
+            "http://dbpedia.org/resource/Fairfax,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelly_Kraft",
+            "http://dbpedia.org/resource/Dylan_Frittelli",
+            "http://dbpedia.org/resource/Mission_Hills,_Kansas"
+        ]
+    ]
+}

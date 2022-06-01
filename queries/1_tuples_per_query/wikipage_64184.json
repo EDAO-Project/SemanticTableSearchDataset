@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Millennium_Stadium",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2012_end-of-year_rugby_union_internationals"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yelagin_Island",
+            "http://dbpedia.org/resource/Neva_River",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Yell,_Shetland",
+            "http://dbpedia.org/resource/Shetland",
+            "http://dbpedia.org/resource/Scotland"
+        ]
+    ]
+}

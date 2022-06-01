@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Fernando_Alonso",
+            "http://dbpedia.org/resource/2006_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Renault_in_Formula_One",
+            "http://dbpedia.org/resource/2006_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/GP2_Series",
+            "http://dbpedia.org/resource/Lewis_Hamilton",
+            "http://dbpedia.org/resource/2006_GP2_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic_Championship",
+            "http://dbpedia.org/resource/Simon_Pagenaud",
+            "http://dbpedia.org/resource/2006_Atlantic_Championship_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Indy_Lights",
+            "http://dbpedia.org/resource/Jay_Howard",
+            "http://dbpedia.org/resource/2006_Indy_Pro_Series_season"
+        ]
+    ]
+}

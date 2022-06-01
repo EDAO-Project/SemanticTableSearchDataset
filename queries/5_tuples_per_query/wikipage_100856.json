@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Coombes_Church",
+            "http://dbpedia.org/resource/Coombes",
+            "http://dbpedia.org/resource/Church_of_England"
+        ],
+        [
+            "http://dbpedia.org/resource/St_James_the_Less_Church,_Lancing",
+            "http://dbpedia.org/resource/Lancing,_West_Sussex",
+            "http://dbpedia.org/resource/Parish_church"
+        ],
+        [
+            "http://dbpedia.org/resource/St_Mary_de_Haura_Church,_Shoreham-by-Sea",
+            "http://dbpedia.org/resource/Shoreham-by-Sea",
+            "http://dbpedia.org/resource/Collegiate_church"
+        ],
+        [
+            "http://dbpedia.org/resource/Church_of_St_Mary_the_Blessed_Virgin,_Sompting",
+            "http://dbpedia.org/resource/Sompting",
+            "http://dbpedia.org/resource/Anglo-Saxon_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Shoreham_Airport",
+            "http://dbpedia.org/resource/Lancing,_West_Sussex",
+            "http://dbpedia.org/resource/Art_Deco"
+        ]
+    ]
+}

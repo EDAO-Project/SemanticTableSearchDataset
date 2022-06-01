@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Forest_National"
+        ],
+        [
+            "http://dbpedia.org/resource/Utrecht",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Muziekcentrum_Vredenburg"
+        ]
+    ]
+}

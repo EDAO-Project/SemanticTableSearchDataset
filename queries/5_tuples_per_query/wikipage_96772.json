@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bentley",
+            "http://dbpedia.org/resource/Volkswagen_Group",
+            "http://dbpedia.org/resource/Bentley_Crewe",
+            "http://dbpedia.org/resource/Bentley_Azure"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford_of_Britain",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Ford_Southampton_plant",
+            "http://dbpedia.org/resource/Ford_Transit"
+        ],
+        [
+            "http://dbpedia.org/resource/IBC_Vehicles",
+            "http://dbpedia.org/resource/Opel",
+            "http://dbpedia.org/resource/Luton",
+            "http://dbpedia.org/resource/Renault_Trafic"
+        ],
+        [
+            "http://dbpedia.org/resource/Honda_of_the_UK_Manufacturing",
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Swindon",
+            "http://dbpedia.org/resource/Honda_CR-V"
+        ],
+        [
+            "http://dbpedia.org/resource/Jaguar_Land_Rover",
+            "http://dbpedia.org/resource/Tata_Motors",
+            "http://dbpedia.org/resource/Castle_Bromwich_Assembly",
+            "http://dbpedia.org/resource/Jaguar_XF"
+        ]
+    ]
+}

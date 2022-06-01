@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Arizona",
+            "http://dbpedia.org/resource/Tucson,_Arizona",
+            "http://dbpedia.org/resource/Arizona_Wildcats"
+        ]
+    ]
+}

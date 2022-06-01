@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_House_Committee_on_Agriculture",
+            "http://dbpedia.org/resource/United_States_House_Committee_on_Agriculture",
+            "http://dbpedia.org/resource/Frank_Lucas",
+            "http://dbpedia.org/resource/Collin_Peterson"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_Agriculture_Subcommittee_on_Nutrition",
+            "http://dbpedia.org/resource/Steve_King",
+            "http://dbpedia.org/resource/Marcia_Fudge"
+        ]
+    ]
+}

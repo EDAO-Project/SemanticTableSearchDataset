@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Black_Kettle",
+            "http://dbpedia.org/resource/Cheyenne",
+            "http://dbpedia.org/resource/Kansas_Territory"
+        ],
+        [
+            "http://dbpedia.org/resource/Lone_Horn",
+            "http://dbpedia.org/resource/Miniconjou",
+            "http://dbpedia.org/resource/Touch_the_Clouds"
+        ]
+    ]
+}

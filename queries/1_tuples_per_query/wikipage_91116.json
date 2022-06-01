@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Tyson_Gay",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Shanghai_Golden_Grand_Prix",
+            "http://dbpedia.org/resource/Shanghai"
+        ]
+    ]
+}

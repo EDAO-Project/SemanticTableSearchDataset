@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Helpmann_Awards",
+            "http://dbpedia.org/resource/The_Eighth_Wonder",
+            "http://dbpedia.org/resource/Opera_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_Helpmann_Awards",
+            "http://dbpedia.org/resource/Wozzeck",
+            "http://dbpedia.org/resource/Opera_Australia"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Croke_Park",
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Gaelic_Athletic_Association",
+            "http://dbpedia.org/resource/Gaelic_football"
+        ]
+    ]
+}

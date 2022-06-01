@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Floyd_Franks",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Tommy_Drake",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

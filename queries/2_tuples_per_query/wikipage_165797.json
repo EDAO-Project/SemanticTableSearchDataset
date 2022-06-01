@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Norfolk,_Virginia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Norfolk_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Clemson,_South_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Clemson_University"
+        ]
+    ]
+}

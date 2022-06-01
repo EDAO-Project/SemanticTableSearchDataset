@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Forrest",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Edmund_Barton"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Drake",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Edmund_Barton"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Coburg_Football_Club",
+            "http://dbpedia.org/resource/Harry_Kerley",
+            "http://dbpedia.org/resource/Charlie_Hardy"
+        ],
+        [
+            "http://dbpedia.org/resource/Coburg_Football_Club",
+            "http://dbpedia.org/resource/Harry_Kerley",
+            "http://dbpedia.org/resource/Charlie_Hardy"
+        ]
+    ]
+}

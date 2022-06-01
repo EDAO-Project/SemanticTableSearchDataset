@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/Bruce_Willis",
+            "http://dbpedia.org/resource/Friends",
+            "http://dbpedia.org/resource/List_of_Friends_characters",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/Anthony_LaPaglia",
+            "http://dbpedia.org/resource/Frasier",
+            "http://dbpedia.org/resource/Minor_characters_on_Frasier",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/Tom_Selleck",
+            "http://dbpedia.org/resource/Friends",
+            "http://dbpedia.org/resource/List_of_Friends_characters",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_television",
+            "http://dbpedia.org/resource/Anthony_LaPaglia",
+            "http://dbpedia.org/resource/Frasier",
+            "http://dbpedia.org/resource/Minor_characters_on_Frasier",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_television",
+            "http://dbpedia.org/resource/Brad_Pitt",
+            "http://dbpedia.org/resource/Friends",
+            "http://dbpedia.org/resource/List_of_Friends_characters",
+            "http://dbpedia.org/resource/NBC"
+        ]
+    ]
+}

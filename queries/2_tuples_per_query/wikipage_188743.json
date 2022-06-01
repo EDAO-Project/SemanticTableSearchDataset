@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ampara_District",
+            "http://dbpedia.org/resource/Eastern_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Ampara"
+        ],
+        [
+            "http://dbpedia.org/resource/Anuradhapura_District",
+            "http://dbpedia.org/resource/North_Central_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Anuradhapura"
+        ]
+    ]
+}

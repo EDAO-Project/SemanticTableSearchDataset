@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Audinghen",
+            "http://dbpedia.org/resource/Audresselles",
+            "http://dbpedia.org/resource/Baincthun"
+        ],
+        [
+            "http://dbpedia.org/resource/Bainghen",
+            "http://dbpedia.org/resource/Bazinghen",
+            "http://dbpedia.org/resource/Belle-et-Houllefort"
+        ]
+    ]
+}

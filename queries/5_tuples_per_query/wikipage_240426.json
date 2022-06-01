@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mitsubishi_Electric_Championship_at_Hualalai",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Hale_Irwin"
+        ],
+        [
+            "http://dbpedia.org/resource/Turtle_Bay_Championship",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Fred_Funk"
+        ],
+        [
+            "http://dbpedia.org/resource/ACE_Group_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Bobby_Wadkins"
+        ],
+        [
+            "http://dbpedia.org/resource/Ginn_Championship_at_Hammock_Beach",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Keith_Fergus"
+        ],
+        [
+            "http://dbpedia.org/resource/Triton_Financial_Classic",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Scott_Hoch"
+        ]
+    ]
+}

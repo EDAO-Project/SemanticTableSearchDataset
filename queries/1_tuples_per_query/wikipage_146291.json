@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chailly-en-Brie",
+            "http://dbpedia.org/resource/Chambry,_Seine-et-Marne",
+            "http://dbpedia.org/resource/Chamigny"
+        ]
+    ]
+}

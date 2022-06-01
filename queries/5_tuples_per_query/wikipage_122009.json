@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland_Timbers",
+            "http://dbpedia.org/resource/Dax_McCarty",
+            "http://dbpedia.org/resource/FC_Dallas"
+        ],
+        [
+            "http://dbpedia.org/resource/Vancouver_Whitecaps_FC",
+            "http://dbpedia.org/resource/Sanna_Nyassi",
+            "http://dbpedia.org/resource/Seattle_Sounders_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Timbers",
+            "http://dbpedia.org/resource/Eric_Brunner",
+            "http://dbpedia.org/resource/Columbus_Crew_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Vancouver_Whitecaps_FC",
+            "http://dbpedia.org/resource/Atiba_Harris",
+            "http://dbpedia.org/resource/FC_Dallas"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Timbers",
+            "http://dbpedia.org/resource/Adam_Moffat",
+            "http://dbpedia.org/resource/Columbus_Crew_SC"
+        ]
+    ]
+}

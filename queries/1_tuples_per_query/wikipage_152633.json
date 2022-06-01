@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Tallinn",
+            "http://dbpedia.org/resource/Tofig_Zulfugarov"
+        ]
+    ]
+}

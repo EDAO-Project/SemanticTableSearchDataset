@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Moore_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Moore_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Francisco",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Warfield"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Francisco",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Warfield"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Diego",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/San_Diego_State_University"
+        ]
+    ]
+}

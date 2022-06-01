@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Perry_Christie",
+            "http://dbpedia.org/resource/Progressive_Liberal_Party",
+            "http://dbpedia.org/resource/Black"
+        ],
+        [
+            "http://dbpedia.org/resource/Roland_Theodore_Symonette",
+            "http://dbpedia.org/resource/Bahamian_Democratic_Party",
+            "http://dbpedia.org/resource/White_people"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barcelona_Sporting_Club",
+            "http://dbpedia.org/resource/Club_Sport_Emelec",
+            "http://dbpedia.org/resource/Deportivo_Quito",
+            "http://dbpedia.org/resource/Carlos_Alberto_Raffo"
+        ],
+        [
+            "http://dbpedia.org/resource/Club_Deportivo_El_Nacional",
+            "http://dbpedia.org/resource/Club_9_de_Octubre",
+            "http://dbpedia.org/resource/LDU_Quito",
+            "http://dbpedia.org/resource/Deportivo_Quito"
+        ],
+        [
+            "http://dbpedia.org/resource/Club_Sport_Emelec",
+            "http://dbpedia.org/resource/Barcelona_Sporting_Club",
+            "http://dbpedia.org/resource/Club_Deportivo_El_Nacional",
+            "http://dbpedia.org/resource/Diego_Herrera"
+        ],
+        [
+            "http://dbpedia.org/resource/Club_Sport_Emelec",
+            "http://dbpedia.org/resource/Club_Deportivo_El_Nacional",
+            "http://dbpedia.org/resource/Barcelona_Sporting_Club",
+            "http://dbpedia.org/resource/Club_Deportivo_ESPOLI"
+        ],
+        [
+            "http://dbpedia.org/resource/Club_Deportivo_El_Nacional",
+            "http://dbpedia.org/resource/Club_Sport_Emelec",
+            "http://dbpedia.org/resource/Barcelona_Sporting_Club",
+            "http://dbpedia.org/resource/Ariel_Graziani"
+        ]
+    ]
+}

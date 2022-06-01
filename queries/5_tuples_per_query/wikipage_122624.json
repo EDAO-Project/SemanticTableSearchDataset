@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bintang_Medan_FC",
+            "http://dbpedia.org/resource/Medan",
+            "http://dbpedia.org/resource/North_Sumatra",
+            "http://dbpedia.org/resource/Teladan_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Manado_United",
+            "http://dbpedia.org/resource/Manado",
+            "http://dbpedia.org/resource/North_Sulawesi",
+            "http://dbpedia.org/resource/Klabat_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Medan_Chiefs",
+            "http://dbpedia.org/resource/Deli_Serdang_Regency",
+            "http://dbpedia.org/resource/North_Sumatra",
+            "http://dbpedia.org/resource/Baharuddin_Siregar_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Persebaya_Surabaya",
+            "http://dbpedia.org/resource/Surabaya",
+            "http://dbpedia.org/resource/East_Java",
+            "http://dbpedia.org/resource/Gelora_10_November_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Persema_Malang",
+            "http://dbpedia.org/resource/Malang",
+            "http://dbpedia.org/resource/East_Java",
+            "http://dbpedia.org/resource/Gajayana_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Philipp_Schmitt",
+            "http://dbpedia.org/resource/War_crime",
+            "http://dbpedia.org/resource/Execution_by_firing_squad"
+        ],
+        [
+            "http://dbpedia.org/resource/Czech_Republic",
+            "http://dbpedia.org/resource/Czechoslovakia",
+            "http://dbpedia.org/resource/Murder",
+            "http://dbpedia.org/resource/Hanging"
+        ],
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Hamida_Djandoubi",
+            "http://dbpedia.org/resource/Torture_murder",
+            "http://dbpedia.org/resource/Decapitation"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Germany",
+            "http://dbpedia.org/resource/Werner_Teske",
+            "http://dbpedia.org/resource/Treason",
+            "http://dbpedia.org/resource/Execution_by_shooting"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Villarbasse_massacre",
+            "http://dbpedia.org/resource/Murder",
+            "http://dbpedia.org/resource/Execution_by_firing_squad"
+        ]
+    ]
+}

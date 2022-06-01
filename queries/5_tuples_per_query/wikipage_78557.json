@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/World_record_progression_100_metres_freestyle",
+            "http://dbpedia.org/resource/Libby_Trickett",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/2009_Australian_Short_Course_Swimming_Championships",
+            "http://dbpedia.org/resource/Hobart"
+        ],
+        [
+            "http://dbpedia.org/resource/World_record_progression_100_metres_individual_medley",
+            "http://dbpedia.org/resource/Emily_Seebohm",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/2009_Australian_Short_Course_Swimming_Championships",
+            "http://dbpedia.org/resource/Hobart"
+        ],
+        [
+            "http://dbpedia.org/resource/World_record_progression_100_metres_butterfly",
+            "http://dbpedia.org/resource/Jessicah_Schipper",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/2009_Australian_Short_Course_Swimming_Championships",
+            "http://dbpedia.org/resource/Hobart"
+        ],
+        [
+            "http://dbpedia.org/resource/World_record_progression_100_metres_individual_medley",
+            "http://dbpedia.org/resource/Therese_Alshammar",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/2009_FINA_Swimming_World_Cup",
+            "http://dbpedia.org/resource/Durban"
+        ],
+        [
+            "http://dbpedia.org/resource/World_record_progression_50_metres_breaststroke",
+            "http://dbpedia.org/resource/Jessica_Hardy",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/2009_FINA_Swimming_World_Cup",
+            "http://dbpedia.org/resource/Durban"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Danny_Goodwin",
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Peoria,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommy_Bianco",
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Elmont,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Condredge_Holloway",
+            "http://dbpedia.org/resource/Montreal_Expos",
+            "http://dbpedia.org/resource/Huntsville,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Roy_Branch",
+            "http://dbpedia.org/resource/Kansas_City_Royals",
+            "http://dbpedia.org/resource/St._Louis"
+        ],
+        [
+            "http://dbpedia.org/resource/Taylor_Duncan",
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/Sacramento,_California"
+        ]
+    ]
+}

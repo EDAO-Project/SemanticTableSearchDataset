@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Senate_special_election_in_California,_1992",
+            "http://dbpedia.org/resource/John_F._Seymour",
+            "http://dbpedia.org/resource/Dianne_Feinstein"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_California,_1992",
+            "http://dbpedia.org/resource/Alan_Cranston",
+            "http://dbpedia.org/resource/Barbara_Boxer"
+        ]
+    ]
+}

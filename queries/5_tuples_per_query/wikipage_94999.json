@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auckland_Harbour_Bridge",
+            "http://dbpedia.org/resource/Waitemata_Harbour",
+            "http://dbpedia.org/resource/Auckland_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Balclutha_Road_Bridge",
+            "http://dbpedia.org/resource/Clutha_River",
+            "http://dbpedia.org/resource/Otago"
+        ],
+        [
+            "http://dbpedia.org/resource/City_to_Sea_Bridge",
+            "http://dbpedia.org/resource/Civic_Square,_Wellington",
+            "http://dbpedia.org/resource/Wellington_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_Bridge",
+            "http://dbpedia.org/resource/Waikato_River",
+            "http://dbpedia.org/resource/Waikato"
+        ],
+        [
+            "http://dbpedia.org/resource/Grafton_Bridge",
+            "http://dbpedia.org/resource/Grafton_Gully",
+            "http://dbpedia.org/resource/Central_Connector,_Auckland"
+        ]
+    ]
+}

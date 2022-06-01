@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roberto_Anzolin",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/1966_FIFA_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Tarcisio_Burgnich",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/1966_FIFA_World_Cup"
+        ]
+    ]
+}

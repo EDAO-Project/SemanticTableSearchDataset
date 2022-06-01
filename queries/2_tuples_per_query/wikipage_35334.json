@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/6th_United_States_Congress",
+            "http://dbpedia.org/resource/Jonathan_Nicoll_Havens",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections_in_New_York,_1798",
+            "http://dbpedia.org/resource/John_Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_United_States_Congress",
+            "http://dbpedia.org/resource/John_Cantine",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections_in_New_York,_1802",
+            "http://dbpedia.org/resource/Josiah_Hasbrouck"
+        ]
+    ]
+}

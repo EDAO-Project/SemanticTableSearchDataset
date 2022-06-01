@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Hayes",
+            "http://dbpedia.org/resource/Enrique_Figuerola",
+            "http://dbpedia.org/resource/Harry_Jerome"
+        ],
+        [
+            "http://dbpedia.org/resource/Betty_Cuthbert",
+            "http://dbpedia.org/resource/Ann_Packer",
+            "http://dbpedia.org/resource/Judy_Amoore"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Snell",
+            "http://dbpedia.org/resource/Bill_Crothers",
+            "http://dbpedia.org/resource/Wilson_Kiprugut"
+        ],
+        [
+            "http://dbpedia.org/resource/Ann_Packer",
+            "http://dbpedia.org/resource/Maryvonne_Dupureur",
+            "http://dbpedia.org/resource/Marise_Chamberlain"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Schul",
+            "http://dbpedia.org/resource/Harald_Norpoth",
+            "http://dbpedia.org/resource/Bill_Dellinger"
+        ]
+    ]
+}

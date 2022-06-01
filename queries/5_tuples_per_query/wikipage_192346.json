@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abruzzo",
+            "http://dbpedia.org/resource/Pescara",
+            "http://dbpedia.org/resource/Campo_Imperatore"
+        ],
+        [
+            "http://dbpedia.org/resource/Aosta_Valley",
+            "http://dbpedia.org/resource/Saint-Christophe,_Aosta_Valley",
+            "http://dbpedia.org/resource/Mont_Blanc"
+        ],
+        [
+            "http://dbpedia.org/resource/Apulia",
+            "http://dbpedia.org/resource/Foggia",
+            "http://dbpedia.org/resource/San_Giovanni_Rotondo"
+        ],
+        [
+            "http://dbpedia.org/resource/Basilicata",
+            "http://dbpedia.org/resource/Pisticci",
+            "http://dbpedia.org/resource/Latronico"
+        ],
+        [
+            "http://dbpedia.org/resource/Calabria",
+            "http://dbpedia.org/resource/Melito_di_Porto_Salvo",
+            "http://dbpedia.org/resource/Serrastretta"
+        ]
+    ]
+}

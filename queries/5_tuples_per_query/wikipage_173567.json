@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_W._Huber",
+            "http://dbpedia.org/resource/Harvard_Law_School",
+            "http://dbpedia.org/resource/Ruth_Bader_Ginsburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_G._Taranto",
+            "http://dbpedia.org/resource/Yale_Law_School",
+            "http://dbpedia.org/resource/Robert_Bork"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Bales",
+            "http://dbpedia.org/resource/Harvard_Law_School",
+            "http://dbpedia.org/resource/Joseph_Tyree_Sneed,_III"
+        ],
+        [
+            "http://dbpedia.org/resource/Kent_Syverud",
+            "http://dbpedia.org/resource/University_of_Michigan_Law_School",
+            "http://dbpedia.org/resource/Louis_F._Oberdorfer"
+        ],
+        [
+            "http://dbpedia.org/resource/Adalberto_Jordan",
+            "http://dbpedia.org/resource/University_of_Miami_School_of_Law",
+            "http://dbpedia.org/resource/Thomas_Alonzo_Clark"
+        ]
+    ]
+}

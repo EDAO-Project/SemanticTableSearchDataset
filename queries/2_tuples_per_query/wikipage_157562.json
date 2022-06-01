@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1979_in_film",
+            "http://dbpedia.org/resource/Diane_Lane",
+            "http://dbpedia.org/resource/Touched_by_Love",
+            "http://dbpedia.org/resource/Sony_Pictures_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_in_film",
+            "http://dbpedia.org/resource/Kristy_McNichol",
+            "http://dbpedia.org/resource/Little_Darlings",
+            "http://dbpedia.org/resource/Paramount_Pictures"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Los_Angeles_Dodgers_season",
+            "http://dbpedia.org/resource/Derek_Lowe",
+            "http://dbpedia.org/resource/Randy_Wolf",
+            "http://dbpedia.org/resource/Rafael_Soriano"
+        ]
+    ]
+}

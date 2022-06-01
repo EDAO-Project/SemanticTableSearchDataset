@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Constance_Wilson-Samuel",
+            "http://dbpedia.org/resource/Theresa_Weld",
+            "http://dbpedia.org/resource/Maribel_Vinson"
+        ]
+    ]
+}

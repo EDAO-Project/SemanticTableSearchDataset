@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baldev_Upadhyaya",
+            "http://dbpedia.org/resource/Uttar_Pradesh",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Ganda_Singh",
+            "http://dbpedia.org/resource/Punjab,_India",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_Herbert,_11th_Earl_of_Pembroke",
+            "http://dbpedia.org/resource/Philip_Goldsworthy",
+            "http://dbpedia.org/resource/Vice-Chamberlain_of_the_Household"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Stanhope,_3rd_Earl_Stanhope",
+            "http://dbpedia.org/resource/John_Petty,_2nd_Marquess_of_Lansdowne",
+            "http://dbpedia.org/resource/Earl_Stanhope"
+        ],
+        [
+            "http://dbpedia.org/resource/Algernon_Percy,_1st_Earl_of_Beverley",
+            "http://dbpedia.org/resource/Charles_Grey,_2nd_Earl_Grey",
+            "http://dbpedia.org/resource/Earl_of_Beverley"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Jenkinson,_1st_Earl_of_Liverpool",
+            "http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley",
+            "http://dbpedia.org/resource/Earl_of_Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Villiers,_2nd_Earl_of_Clarendon",
+            "http://dbpedia.org/resource/Sir_James_Lamb,_1st_Baronet",
+            "http://dbpedia.org/resource/Earl_of_Clarendon"
+        ]
+    ]
+}

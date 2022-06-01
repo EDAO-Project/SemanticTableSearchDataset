@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Peebles",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Physical_cosmology"
+        ]
+    ]
+}

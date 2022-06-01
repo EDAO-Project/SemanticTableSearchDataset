@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Petersburg,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tropicana_Field"
+        ]
+    ]
+}

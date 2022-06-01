@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arlanda_Central_Station",
+            "http://dbpedia.org/resource/Stockholm_Arlanda_Airport",
+            "http://dbpedia.org/resource/Sigtuna_Municipality"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlottenberg_Station",
+            "http://dbpedia.org/resource/Charlottenberg",
+            "http://dbpedia.org/resource/Eda_Municipality"
+        ],
+        [
+            "http://dbpedia.org/resource/Gothenburg_Central_Station",
+            "http://dbpedia.org/resource/Gothenburg",
+            "http://dbpedia.org/resource/Gothenburg_Municipality"
+        ],
+        [
+            "http://dbpedia.org/resource/Kiruna_Central_Station",
+            "http://dbpedia.org/resource/Kiruna",
+            "http://dbpedia.org/resource/Kiruna_Municipality"
+        ],
+        [
+            "http://dbpedia.org/resource/Liseberg_railway_station",
+            "http://dbpedia.org/resource/Gothenburg",
+            "http://dbpedia.org/resource/Gothenburg_Municipality"
+        ]
+    ]
+}

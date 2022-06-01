@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/68_Pages",
+            "http://dbpedia.org/resource/Sridhar_Rangayan",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok_Love_Story",
+            "http://dbpedia.org/resource/Poj_Arnon",
+            "http://dbpedia.org/resource/Thailand"
+        ],
+        [
+            "http://dbpedia.org/resource/Breakfast_with_Scot",
+            "http://dbpedia.org/resource/Laurie_Lynd",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Butch_Jamie",
+            "http://dbpedia.org/resource/Michelle_Ehlen",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Deadly_Skies",
+            "http://dbpedia.org/resource/Sam_Irvin",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

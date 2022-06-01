@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_National_Soccer_League",
+            "http://dbpedia.org/resource/South_Melbourne_FC",
+            "http://dbpedia.org/resource/Sydney_Olympic_FC",
+            "http://dbpedia.org/resource/Olympic_Park_Stadium"
+        ]
+    ]
+}

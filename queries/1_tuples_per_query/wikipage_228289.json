@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A.S._Roma",
+            "http://dbpedia.org/resource/Pietro_Pastore",
+            "http://dbpedia.org/resource/Campo_Testaccio",
+            "http://dbpedia.org/resource/Serie_A"
+        ]
+    ]
+}

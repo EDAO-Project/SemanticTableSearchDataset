@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adventfjorden",
+            "http://dbpedia.org/resource/Svalbard",
+            "http://dbpedia.org/resource/Spitsbergen"
+        ],
+        [
+            "http://dbpedia.org/resource/Balsfjorden",
+            "http://dbpedia.org/resource/Troms",
+            "http://dbpedia.org/resource/Balsfjord"
+        ]
+    ]
+}

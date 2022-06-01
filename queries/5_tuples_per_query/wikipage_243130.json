@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Siro",
+            "http://dbpedia.org/resource/Milan",
+            "http://dbpedia.org/resource/Lombardy",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadio_Olimpico",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Lazio",
+            "http://dbpedia.org/resource/A.S._Roma"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadio_San_Paolo",
+            "http://dbpedia.org/resource/Naples",
+            "http://dbpedia.org/resource/Campania",
+            "http://dbpedia.org/resource/S.S.C._Napoli"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadio_San_Nicola",
+            "http://dbpedia.org/resource/Bari",
+            "http://dbpedia.org/resource/Apulia",
+            "http://dbpedia.org/resource/F.C._Bari_1908"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadio_Artemio_Franchi",
+            "http://dbpedia.org/resource/Florence",
+            "http://dbpedia.org/resource/Tuscany",
+            "http://dbpedia.org/resource/ACF_Fiorentina"
+        ]
+    ]
+}

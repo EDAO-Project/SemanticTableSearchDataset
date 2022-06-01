@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jackson,_Mississippi",
+            "http://dbpedia.org/resource/Laura_Siegemund",
+            "http://dbpedia.org/resource/Florencia_Molinero",
+            "http://dbpedia.org/resource/Allie_Kiick",
+            "http://dbpedia.org/resource/Arantxa_Parra_Santonja"
+        ],
+        [
+            "http://dbpedia.org/resource/Dijon",
+            "http://dbpedia.org/resource/Kristina_Barrois",
+            "http://dbpedia.org/resource/Elitsa_Kostova",
+            "http://dbpedia.org/resource/Julie_Coin",
+            "http://dbpedia.org/resource/Emily_Webley-Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/Dijon",
+            "http://dbpedia.org/resource/Nicole_Clerico",
+            "http://dbpedia.org/resource/Elitsa_Kostova",
+            "http://dbpedia.org/resource/Julie_Coin",
+            "http://dbpedia.org/resource/Emily_Webley-Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/Pelham,_Alabama",
+            "http://dbpedia.org/resource/Mariana_Duque",
+            "http://dbpedia.org/resource/Kurumi_Nara",
+            "http://dbpedia.org/resource/Jessica_Pegula",
+            "http://dbpedia.org/resource/Chanelle_Scheepers"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Dothan_Pro_Tennis_Classic",
+            "http://dbpedia.org/resource/Julia_Cohen",
+            "http://dbpedia.org/resource/Irina_Falconi",
+            "http://dbpedia.org/resource/Alison_Riske",
+            "http://dbpedia.org/resource/Shelby_Rogers"
+        ]
+    ]
+}

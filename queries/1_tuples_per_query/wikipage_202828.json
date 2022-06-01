@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1975_Tour_de_France",
+            "http://dbpedia.org/resource/Rik_Van_Linden",
+            "http://dbpedia.org/resource/Lucien_Van_Impe",
+            "http://dbpedia.org/resource/Francesco_Moser"
+        ]
+    ]
+}

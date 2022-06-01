@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bassu",
+            "http://dbpedia.org/resource/Bassuet",
+            "http://dbpedia.org/resource/Bettancourt-la-Longue"
+        ],
+        [
+            "http://dbpedia.org/resource/Bignicourt-sur-Marne",
+            "http://dbpedia.org/resource/Bignicourt-sur-Saulx",
+            "http://dbpedia.org/resource/Blacy,_Marne"
+        ]
+    ]
+}

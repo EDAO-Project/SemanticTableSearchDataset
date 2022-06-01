@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apache_Flex",
+            "http://dbpedia.org/resource/Apache_License",
+            "http://dbpedia.org/resource/Adobe_AIR"
+        ],
+        [
+            "http://dbpedia.org/resource/Ext_JS",
+            "http://dbpedia.org/resource/GNU_General_Public_License",
+            "http://dbpedia.org/resource/JavaScript"
+        ]
+    ]
+}

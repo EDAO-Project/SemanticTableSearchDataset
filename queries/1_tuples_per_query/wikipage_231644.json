@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shenzhou_2",
+            "http://dbpedia.org/resource/China_Aerospace_Science_and_Technology_Corporation",
+            "http://dbpedia.org/resource/Low_Earth_orbit"
+        ]
+    ]
+}

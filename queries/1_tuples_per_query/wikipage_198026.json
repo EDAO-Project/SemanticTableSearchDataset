@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1",
+            "http://dbpedia.org/resource/Infosys",
+            "http://dbpedia.org/resource/Bangalore",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

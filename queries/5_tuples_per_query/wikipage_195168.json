@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_Arab_Junior_Athletics_Championships",
+            "http://dbpedia.org/resource/Casablanca",
+            "http://dbpedia.org/resource/Morocco"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Arab_Junior_Athletics_Championships",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Egypt"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_Arab_Junior_Athletics_Championships",
+            "http://dbpedia.org/resource/Damascus",
+            "http://dbpedia.org/resource/Syria"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Arab_Junior_Athletics_Championships",
+            "http://dbpedia.org/resource/Latakia",
+            "http://dbpedia.org/resource/Syria"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_Arab_Junior_Athletics_Championships",
+            "http://dbpedia.org/resource/Latakia",
+            "http://dbpedia.org/resource/Syria"
+        ]
+    ]
+}

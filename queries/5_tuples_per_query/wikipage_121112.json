@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stanley_Cup",
+            "http://dbpedia.org/resource/Chicago_Blackhawks",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Art_Ross_Trophy",
+            "http://dbpedia.org/resource/Martin_St._Louis",
+            "http://dbpedia.org/resource/Steven_Stamkos"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Masterton_Memorial_Trophy",
+            "http://dbpedia.org/resource/Josh_Harding",
+            "http://dbpedia.org/resource/Sidney_Crosby"
+        ],
+        [
+            "http://dbpedia.org/resource/Calder_Memorial_Trophy",
+            "http://dbpedia.org/resource/Jonathan_Huberdeau",
+            "http://dbpedia.org/resource/Brendan_Gallagher"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_J._Selke_Trophy",
+            "http://dbpedia.org/resource/Jonathan_Toews",
+            "http://dbpedia.org/resource/Patrice_Bergeron"
+        ]
+    ]
+}

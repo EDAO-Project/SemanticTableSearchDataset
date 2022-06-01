@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philip_II_Arena",
+            "http://dbpedia.org/resource/Skopje",
+            "http://dbpedia.org/resource/FK_Vardar"
+        ],
+        [
+            "http://dbpedia.org/resource/Gradski_stadion_Tetovo",
+            "http://dbpedia.org/resource/Tetovo",
+            "http://dbpedia.org/resource/FK_Teteks"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Bitola",
+            "http://dbpedia.org/resource/FK_Pelister"
+        ],
+        [
+            "http://dbpedia.org/resource/Milano_Arena",
+            "http://dbpedia.org/resource/Kumanovo",
+            "http://dbpedia.org/resource/FK_Milano_Kumanovo"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Mladost,_Strumica",
+            "http://dbpedia.org/resource/Strumica",
+            "http://dbpedia.org/resource/FK_Belasica"
+        ]
+    ]
+}

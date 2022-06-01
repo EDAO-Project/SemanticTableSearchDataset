@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Spencer_Haywood",
+            "http://dbpedia.org/resource/Chicago_Stadium"
+        ]
+    ]
+}

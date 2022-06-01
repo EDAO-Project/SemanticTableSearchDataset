@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_Martin",
+            "http://dbpedia.org/resource/Michael_Waltrip_Racing",
+            "http://dbpedia.org/resource/Toyota"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl_Edwards",
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Harvick",
+            "http://dbpedia.org/resource/Richard_Childress_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/A._J._Allmendinger",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Dodge"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyle_Busch",
+            "http://dbpedia.org/resource/Joe_Gibbs_Racing",
+            "http://dbpedia.org/resource/Toyota"
+        ]
+    ]
+}

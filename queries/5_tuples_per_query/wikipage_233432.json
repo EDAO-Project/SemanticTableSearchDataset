@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberdeen",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Capitol_Theatre,_Aberdeen"
+        ],
+        [
+            "http://dbpedia.org/resource/Edinburgh",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Edinburgh_Playhouse"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/100_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/De_Kuip"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/De_Kuip"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manning_Force",
+            "http://dbpedia.org/resource/Major_general",
+            "http://dbpedia.org/resource/American_Civil_War"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_E._Phelps",
+            "http://dbpedia.org/resource/Brigadier_general",
+            "http://dbpedia.org/resource/American_Civil_War"
+        ]
+    ]
+}

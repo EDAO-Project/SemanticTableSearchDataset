@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Landon_Donovan_MVP_Award",
+            "http://dbpedia.org/resource/Preki",
+            "http://dbpedia.org/resource/Sporting_Kansas_City"
+        ],
+        [
+            "http://dbpedia.org/resource/MLS_Golden_Boot",
+            "http://dbpedia.org/resource/Preki",
+            "http://dbpedia.org/resource/Sporting_Kansas_City"
+        ]
+    ]
+}

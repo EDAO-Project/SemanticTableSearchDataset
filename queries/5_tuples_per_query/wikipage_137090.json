@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Carmelita_Jeter",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Allyson_Felix",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/Kenia_Sinclair",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Anna_Mishchenko",
+            "http://dbpedia.org/resource/Ukraine"
+        ],
+        [
+            "http://dbpedia.org/resource/5000_metres",
+            "http://dbpedia.org/resource/Tirunesh_Dibaba",
+            "http://dbpedia.org/resource/Ethiopia"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Noel_Hickey",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/2000_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/2009_All-Ireland_Senior_Hurling_Championship"
+        ]
+    ]
+}

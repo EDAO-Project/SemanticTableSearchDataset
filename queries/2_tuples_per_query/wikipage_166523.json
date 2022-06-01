@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_Oval",
+            "http://dbpedia.org/resource/Adelaide_United_FC",
+            "http://dbpedia.org/resource/Adelaide"
+        ],
+        [
+            "http://dbpedia.org/resource/Lancaster_Park",
+            "http://dbpedia.org/resource/Wellington_Phoenix_FC",
+            "http://dbpedia.org/resource/Christchurch"
+        ]
+    ]
+}

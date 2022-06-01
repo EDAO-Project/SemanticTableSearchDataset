@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Willie_Applegarth",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/McDonald_Bailey",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Paris"
+        ],
+        [
+            "http://dbpedia.org/resource/McDonald_Bailey",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Belgrade"
+        ],
+        [
+            "http://dbpedia.org/resource/McDonald_Bailey",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/McDonald_Bailey",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Berlin"
+        ]
+    ]
+}

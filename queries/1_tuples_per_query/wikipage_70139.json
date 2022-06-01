@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Cyanamid",
+            "http://dbpedia.org/resource/Bridgewater_Township,_New_Jersey",
+            "http://dbpedia.org/resource/Somerset_County,_New_Jersey"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Trentham_Estate",
+            "http://dbpedia.org/resource/Stoke-on-Trent",
+            "http://dbpedia.org/resource/Cliff_Thorburn",
+            "http://dbpedia.org/resource/Jimmy_White"
+        ]
+    ]
+}

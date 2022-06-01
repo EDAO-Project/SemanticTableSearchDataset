@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Green",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenny_Beech",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Russell_Bromage",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Taylor",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_McCarthy",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ]
+    ]
+}

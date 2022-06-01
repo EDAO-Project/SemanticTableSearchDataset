@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Volleyball_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Czechoslovakia_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Japan_at_the_1964_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Volleyball_at_the_1968_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1968_Summer_Olympics",
+            "http://dbpedia.org/resource/Japan_at_the_1968_Summer_Olympics",
+            "http://dbpedia.org/resource/Czechoslovakia_at_the_1968_Summer_Olympics"
+        ]
+    ]
+}

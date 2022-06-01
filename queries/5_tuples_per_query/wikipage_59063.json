@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shadow_Hearts:_Covenant",
+            "http://dbpedia.org/resource/Sacnoth",
+            "http://dbpedia.org/resource/Universal_Entertainment_Corporation",
+            "http://dbpedia.org/resource/Shadow_Hearts"
+        ],
+        [
+            "http://dbpedia.org/resource/Shining_Tears",
+            "http://dbpedia.org/resource/Nex_Entertainment",
+            "http://dbpedia.org/resource/Sega",
+            "http://dbpedia.org/resource/Shining_Force"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Wars_Knights_of_the_Old_Republic_II:_The_Sith_Lords",
+            "http://dbpedia.org/resource/Obsidian_Entertainment",
+            "http://dbpedia.org/resource/LucasArts",
+            "http://dbpedia.org/resource/Star_Wars:_Knights_of_the_Old_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Summon_Night:_Swordcraft_Story_2",
+            "http://dbpedia.org/resource/Flight-Plan",
+            "http://dbpedia.org/resource/Banpresto",
+            "http://dbpedia.org/resource/Summon_Night:_Swordcraft_Story"
+        ],
+        [
+            "http://dbpedia.org/resource/Tales_of_Rebirth",
+            "http://dbpedia.org/resource/Namco_Tales_Studio",
+            "http://dbpedia.org/resource/Namco",
+            "http://dbpedia.org/resource/Tales_of_Symphonia"
+        ]
+    ]
+}

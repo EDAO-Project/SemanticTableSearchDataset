@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beyond_Re-Animator",
+            "http://dbpedia.org/resource/Brian_Yuzna",
+            "http://dbpedia.org/resource/Jeffrey_Combs"
+        ],
+        [
+            "http://dbpedia.org/resource/Final_Destination_2",
+            "http://dbpedia.org/resource/David_R._Ellis",
+            "http://dbpedia.org/resource/Ali_Larter"
+        ],
+        [
+            "http://dbpedia.org/resource/Freddy_vs._Jason",
+            "http://dbpedia.org/resource/Ronny_Yu",
+            "http://dbpedia.org/resource/Monica_Keena"
+        ],
+        [
+            "http://dbpedia.org/resource/Gozu",
+            "http://dbpedia.org/resource/Takashi_Miike",
+            "http://dbpedia.org/resource/Show_Aikawa"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeepers_Creepers_2",
+            "http://dbpedia.org/resource/Victor_Salva",
+            "http://dbpedia.org/resource/Ray_Wise"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlantic_and_Pacific_Highway",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/U.S._Route_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_and_Yellow_Trail",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Yellowstone_National_Park",
+            "http://dbpedia.org/resource/U.S._Route_41"
+        ]
+    ]
+}

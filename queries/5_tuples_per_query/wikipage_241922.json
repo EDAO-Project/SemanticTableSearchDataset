@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antonio_Brivio",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Alfa_Romeo_in_motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Luigi_Fagioli",
+            "http://dbpedia.org/resource/Daimler-Benz",
+            "http://dbpedia.org/resource/Mercedes-Benz"
+        ],
+        [
+            "http://dbpedia.org/resource/Rudolf_Caracciola",
+            "http://dbpedia.org/resource/Daimler-Benz",
+            "http://dbpedia.org/resource/Mercedes-Benz"
+        ],
+        [
+            "http://dbpedia.org/resource/Manfred_von_Brauchitsch",
+            "http://dbpedia.org/resource/Daimler-Benz",
+            "http://dbpedia.org/resource/Mercedes-Benz"
+        ],
+        [
+            "http://dbpedia.org/resource/Hermann_Lang",
+            "http://dbpedia.org/resource/Daimler-Benz",
+            "http://dbpedia.org/resource/Mercedes-Benz"
+        ]
+    ]
+}

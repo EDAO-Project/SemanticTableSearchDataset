@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NASCAR_98",
+            "http://dbpedia.org/resource/1997_NASCAR_Winston_Cup_Series",
+            "http://dbpedia.org/resource/PlayStation"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dont_Look_Back",
+            "http://dbpedia.org/resource/Bob_Dylan",
+            "http://dbpedia.org/resource/D._A._Pennebaker"
+        ],
+        [
+            "http://dbpedia.org/resource/Monterey_Pop",
+            "http://dbpedia.org/resource/Monterey_Pop_Festival",
+            "http://dbpedia.org/resource/D._A._Pennebaker"
+        ],
+        [
+            "http://dbpedia.org/resource/Cocksucker_Blues",
+            "http://dbpedia.org/resource/The_Rolling_Stones",
+            "http://dbpedia.org/resource/Robert_Frank"
+        ],
+        [
+            "http://dbpedia.org/resource/Cracked_Actor",
+            "http://dbpedia.org/resource/David_Bowie",
+            "http://dbpedia.org/resource/Alan_Yentob"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Blank_Generation",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Ivan_Kral"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/LucasArts",
+            "http://dbpedia.org/resource/Totally_Games",
+            "http://dbpedia.org/resource/MS-DOS"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Naxatra_News",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Odia_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Kanak_TV",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Odia_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaj_Tak",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi"
+        ],
+        [
+            "http://dbpedia.org/resource/A1_Report",
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Albanian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Top_News",
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Albanian_language"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base",
+            "http://dbpedia.org/resource/Dick_Rutan",
+            "http://dbpedia.org/resource/Rutan_Voyager"
+        ]
+    ]
+}

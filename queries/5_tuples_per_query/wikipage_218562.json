@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_Amos",
+            "http://dbpedia.org/resource/Microbiologist",
+            "http://dbpedia.org/resource/Harvard_Medical_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Alice_Ball",
+            "http://dbpedia.org/resource/Chemist",
+            "http://dbpedia.org/resource/Hydnocarpus_wightianus"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Banneker",
+            "http://dbpedia.org/resource/Mathematician",
+            "http://dbpedia.org/resource/Almanac"
+        ],
+        [
+            "http://dbpedia.org/resource/Augustin_Banyaga",
+            "http://dbpedia.org/resource/Mathematician",
+            "http://dbpedia.org/resource/Diffeomorphism"
+        ],
+        [
+            "http://dbpedia.org/resource/Patricia_Bath",
+            "http://dbpedia.org/resource/Ophthalmology",
+            "http://dbpedia.org/resource/Cataract"
+        ]
+    ]
+}

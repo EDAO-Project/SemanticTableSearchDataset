@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Suzanne_Birt",
+            "http://dbpedia.org/resource/Shelly_Bradley",
+            "http://dbpedia.org/resource/Robyn_Green",
+            "http://dbpedia.org/resource/Leslie_MacDougall",
+            "http://dbpedia.org/resource/Charlottetown"
+        ],
+        [
+            "http://dbpedia.org/resource/Erika_Brown",
+            "http://dbpedia.org/resource/Debbie_McCormick",
+            "http://dbpedia.org/resource/Ann_Swisshelm",
+            "http://dbpedia.org/resource/Jessica_Schultz",
+            "http://dbpedia.org/resource/Madison,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/Chelsea_Carey",
+            "http://dbpedia.org/resource/Kristy_McDonald",
+            "http://dbpedia.org/resource/Kristen_Foster",
+            "http://dbpedia.org/resource/Lindsay_Titheridge",
+            "http://dbpedia.org/resource/Morden,_Manitoba"
+        ],
+        [
+            "http://dbpedia.org/resource/Amber_Holland",
+            "http://dbpedia.org/resource/Kim_Schneider",
+            "http://dbpedia.org/resource/Tammy_Schneider",
+            "http://dbpedia.org/resource/Heather_Kalenchuk",
+            "http://dbpedia.org/resource/Kronau,_Saskatchewan"
+        ],
+        [
+            "http://dbpedia.org/resource/Shannon_Kleibrink",
+            "http://dbpedia.org/resource/Amy_Nixon",
+            "http://dbpedia.org/resource/Bronwen_Webster",
+            "http://dbpedia.org/resource/Chelsey_Matson",
+            "http://dbpedia.org/resource/Calgary"
+        ]
+    ]
+}

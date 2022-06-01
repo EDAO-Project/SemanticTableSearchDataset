@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Salem_Al-Yami",
+            "http://dbpedia.org/resource/Idrissa_Sanou",
+            "http://dbpedia.org/resource/Jamal_Al-Saffar"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Hamed_Al-Bishi",
+            "http://dbpedia.org/resource/Joseph_Batangdon",
+            "http://dbpedia.org/resource/Oumar_Loum"
+        ]
+    ]
+}

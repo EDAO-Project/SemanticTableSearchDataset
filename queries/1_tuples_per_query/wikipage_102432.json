@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Diamondbacks",
+            "http://dbpedia.org/resource/National_League_West",
+            "http://dbpedia.org/resource/Kirk_Gibson",
+            "http://dbpedia.org/resource/A._J._Hinch"
+        ]
+    ]
+}

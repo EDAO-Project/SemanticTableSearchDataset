@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Lok_Sabha",
+            "http://dbpedia.org/resource/Ramnath_Goenka",
+            "http://dbpedia.org/resource/Bharatiya_Jana_Sangh"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Lok_Sabha",
+            "http://dbpedia.org/resource/Raghavji",
+            "http://dbpedia.org/resource/Janata_Party"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Circuito_de_Jerez",
+            "http://dbpedia.org/resource/Jerez_de_la_Frontera",
+            "http://dbpedia.org/resource/1997_European_Grand_Prix"
+        ]
+    ]
+}

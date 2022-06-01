@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Amitabh_Bachchan",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Amitabh_Bachchan",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Shah_Rukh_Khan",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Amitabh_Bachchan",
+            "http://dbpedia.org/resource/Sony_Pictures_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Amitabh_Bachchan",
+            "http://dbpedia.org/resource/Sony_Pictures_Television"
+        ]
+    ]
+}

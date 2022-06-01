@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Bill_Burbach",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Wahlert_Catholic_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Jim_Lyttle",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Florida_State_Seminoles_baseball"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cape_Grim_massacre",
+            "http://dbpedia.org/resource/Cape_Grim",
+            "http://dbpedia.org/resource/Massacre"
+        ],
+        [
+            "http://dbpedia.org/resource/Quakers_Hill,_New_South_Wales",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Arson"
+        ],
+        [
+            "http://dbpedia.org/resource/Convincing_Ground_massacre",
+            "http://dbpedia.org/resource/Portland,_Victoria",
+            "http://dbpedia.org/resource/Massacre"
+        ],
+        [
+            "http://dbpedia.org/resource/Pinjarra_massacre",
+            "http://dbpedia.org/resource/Pinjarra,_Western_Australia",
+            "http://dbpedia.org/resource/Massacre"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_Schwab",
+            "http://dbpedia.org/resource/Top_End",
+            "http://dbpedia.org/resource/Spree_killer"
+        ]
+    ]
+}

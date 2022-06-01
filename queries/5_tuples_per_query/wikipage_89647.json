@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cipriano_Castro",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Victoriano_Huerta",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilhelm_II,_German_Emperor",
+            "http://dbpedia.org/resource/German_Empire",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Arturo_Alessandri",
+            "http://dbpedia.org/resource/Chile",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Juan_Bautista_Sacasa",
+            "http://dbpedia.org/resource/Nicaragua",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

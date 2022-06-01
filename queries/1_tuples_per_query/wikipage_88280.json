@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abrams_Battle_Tank",
+            "http://dbpedia.org/resource/Dynamix",
+            "http://dbpedia.org/resource/Sega"
+        ]
+    ]
+}

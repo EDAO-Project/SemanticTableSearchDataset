@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lookin_At_Lucky",
+            "http://dbpedia.org/resource/Bob_Baffert",
+            "http://dbpedia.org/resource/Michael_E._Pegram"
+        ],
+        [
+            "http://dbpedia.org/resource/Bernardini",
+            "http://dbpedia.org/resource/Thomas_Albertrani",
+            "http://dbpedia.org/resource/Darley_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Funny_Cide",
+            "http://dbpedia.org/resource/Barclay_Tagg",
+            "http://dbpedia.org/resource/Sackatoga_Stable"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Quiet",
+            "http://dbpedia.org/resource/Bob_Baffert",
+            "http://dbpedia.org/resource/Michael_E._Pegram"
+        ],
+        [
+            "http://dbpedia.org/resource/Silver_Charm",
+            "http://dbpedia.org/resource/Bob_Baffert",
+            "http://dbpedia.org/resource/Robert_B._Lewis"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stanislav_Tereba",
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/AC_Sparta_Prague"
+        ],
+        [
+            "http://dbpedia.org/resource/Yasushi_Nagao",
+            "http://dbpedia.org/resource/Assassination",
+            "http://dbpedia.org/resource/Otoya_Yamaguchi"
+        ]
+    ]
+}

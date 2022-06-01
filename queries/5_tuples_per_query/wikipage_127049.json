@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allianz_Championship",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Tom_Lehman"
+        ],
+        [
+            "http://dbpedia.org/resource/ACE_Group_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Bernhard_Langer"
+        ],
+        [
+            "http://dbpedia.org/resource/Mississippi_Gulf_Resort_Classic",
+            "http://dbpedia.org/resource/Mississippi",
+            "http://dbpedia.org/resource/Tom_Lehman"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Tradition",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Tom_Lehman"
+        ],
+        [
+            "http://dbpedia.org/resource/Principal_Charity_Classic",
+            "http://dbpedia.org/resource/Iowa",
+            "http://dbpedia.org/resource/Bob_Gilder"
+        ]
+    ]
+}

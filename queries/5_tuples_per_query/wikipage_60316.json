@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antiphospholipid_syndrome",
+            "http://dbpedia.org/resource/Anti-cardiolipin_antibodies",
+            "http://dbpedia.org/resource/HLA-DR7"
+        ],
+        [
+            "http://dbpedia.org/resource/Systemic_scleroderma",
+            "http://dbpedia.org/resource/Anti-nuclear_antibody",
+            "http://dbpedia.org/resource/COL1A2"
+        ],
+        [
+            "http://dbpedia.org/resource/Eosinophilic_gastroenteritis",
+            "http://dbpedia.org/resource/Immunoglobulin_E",
+            "http://dbpedia.org/resource/Interleukin_3"
+        ],
+        [
+            "http://dbpedia.org/resource/Glomerulonephritis",
+            "http://dbpedia.org/resource/Immunoglobulin_A",
+            "http://dbpedia.org/resource/Thromboangiitis_obliterans"
+        ],
+        [
+            "http://dbpedia.org/resource/Mixed_connective_tissue_disease",
+            "http://dbpedia.org/resource/Anti-nuclear_antibody",
+            "http://dbpedia.org/resource/HLA-DR4"
+        ]
+    ]
+}

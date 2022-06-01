@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clarence_Munn",
+            "http://dbpedia.org/resource/Big_Ten_Conference",
+            "http://dbpedia.org/resource/1954_Rose_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Michigan_State_Spartans_football_team",
+            "http://dbpedia.org/resource/Duffy_Daugherty",
+            "http://dbpedia.org/resource/1966_Rose_Bowl"
+        ]
+    ]
+}

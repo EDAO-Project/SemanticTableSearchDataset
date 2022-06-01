@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/National_Film_Awards",
+            "http://dbpedia.org/resource/National_Film_Award_for_Best_Actress",
+            "http://dbpedia.org/resource/Vidya_Balan",
+            "http://dbpedia.org/resource/Vidya_Balan"
+        ]
+    ]
+}

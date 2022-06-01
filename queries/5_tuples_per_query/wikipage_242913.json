@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Toronto",
+            "http://dbpedia.org/resource/Carleton_University",
+            "http://dbpedia.org/resource/Yale_University"
+        ],
+        [
+            "http://dbpedia.org/resource/York_University",
+            "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology",
+            "http://dbpedia.org/resource/University_of_Toronto"
+        ],
+        [
+            "http://dbpedia.org/resource/Amherst_College",
+            "http://dbpedia.org/resource/Yale_University",
+            "http://dbpedia.org/resource/Harvard_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Carleton_University",
+            "http://dbpedia.org/resource/University_of_Toronto",
+            "http://dbpedia.org/resource/Yale_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Bates_College",
+            "http://dbpedia.org/resource/Yale_University",
+            "http://dbpedia.org/resource/Carleton_University"
+        ]
+    ]
+}

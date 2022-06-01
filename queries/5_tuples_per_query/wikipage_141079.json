@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mahatma_Gandhi_Setu",
+            "http://dbpedia.org/resource/Ganges",
+            "http://dbpedia.org/resource/Bihar",
+            "http://dbpedia.org/resource/Patna"
+        ],
+        [
+            "http://dbpedia.org/resource/Vikramshila_Setu",
+            "http://dbpedia.org/resource/Ganges",
+            "http://dbpedia.org/resource/Bihar",
+            "http://dbpedia.org/resource/Bhagalpur"
+        ],
+        [
+            "http://dbpedia.org/resource/Vembanad_Rail_Bridge",
+            "http://dbpedia.org/resource/Vembanad",
+            "http://dbpedia.org/resource/Kerala",
+            "http://dbpedia.org/resource/Kochi"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolia_Bhomora_Setu",
+            "http://dbpedia.org/resource/Brahmaputra_River",
+            "http://dbpedia.org/resource/Assam",
+            "http://dbpedia.org/resource/Tezpur"
+        ],
+        [
+            "http://dbpedia.org/resource/Godavari_Bridge",
+            "http://dbpedia.org/resource/Godavari_River",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Rajahmundry"
+        ]
+    ]
+}

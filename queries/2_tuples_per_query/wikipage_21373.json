@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gary_Player",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Johannesburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernie_Els",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Johannesburg"
+        ]
+    ]
+}

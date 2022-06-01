@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_Kingdom_constituencies",
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Potwalloper"
+        ]
+    ]
+}

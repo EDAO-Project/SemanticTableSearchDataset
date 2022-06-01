@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_I_of_Prussia",
+            "http://dbpedia.org/resource/Frederick_William_I_of_Prussia",
+            "http://dbpedia.org/resource/Frederick_William,_Margrave_of_Brandenburg-Schwedt"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_I_of_Prussia",
+            "http://dbpedia.org/resource/Frederick_William_I_of_Prussia",
+            "http://dbpedia.org/resource/Frederick_the_Great"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_William_I_of_Prussia",
+            "http://dbpedia.org/resource/Frederick_the_Great",
+            "http://dbpedia.org/resource/Frederick_William,_Margrave_of_Brandenburg-Schwedt"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_William_I_of_Prussia",
+            "http://dbpedia.org/resource/Frederick_the_Great",
+            "http://dbpedia.org/resource/Frederick_William,_Margrave_of_Brandenburg-Schwedt"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_William_I_of_Prussia",
+            "http://dbpedia.org/resource/Frederick_the_Great",
+            "http://dbpedia.org/resource/Prince_Augustus_William_of_Prussia"
+        ]
+    ]
+}

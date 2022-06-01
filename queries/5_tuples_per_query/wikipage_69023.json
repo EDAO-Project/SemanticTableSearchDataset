@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Laurent_Riboulet",
+            "http://dbpedia.org/resource/Joshua_Pim",
+            "http://dbpedia.org/resource/Robert_Wrenn"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Maurice_Germot",
+            "http://dbpedia.org/resource/Beals_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Maurice_Germot",
+            "http://dbpedia.org/resource/William_Clothier"
+        ],
+        [
+            "http://dbpedia.org/resource/Horace_Rice",
+            "http://dbpedia.org/resource/Max_Decugis",
+            "http://dbpedia.org/resource/Norman_Brookes"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Cecil_Parke",
+            "http://dbpedia.org/resource/Max_Decugis",
+            "http://dbpedia.org/resource/Maurice_E._McLoughlin"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Province_of_Albacete",
+            "http://dbpedia.org/resource/Albacete",
+            "http://dbpedia.org/resource/Castilla-La_Mancha",
+            "http://dbpedia.org/resource/List_of_municipalities_in_Albacete"
+        ],
+        [
+            "http://dbpedia.org/resource/Province_of_Alicante",
+            "http://dbpedia.org/resource/Alicante",
+            "http://dbpedia.org/resource/Valencian_Community",
+            "http://dbpedia.org/resource/List_of_municipalities_in_Alicante"
+        ],
+        [
+            "http://dbpedia.org/resource/Province_of_Badajoz",
+            "http://dbpedia.org/resource/Badajoz",
+            "http://dbpedia.org/resource/Extremadura",
+            "http://dbpedia.org/resource/List_of_municipalities_in_Badajoz"
+        ],
+        [
+            "http://dbpedia.org/resource/Province_of_Barcelona",
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Catalonia",
+            "http://dbpedia.org/resource/List_of_municipalities_in_Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Province_of_Ciudad_Real",
+            "http://dbpedia.org/resource/Ciudad_Real",
+            "http://dbpedia.org/resource/Castilla-La_Mancha",
+            "http://dbpedia.org/resource/List_of_municipalities_in_Ciudad_Real"
+        ]
+    ]
+}

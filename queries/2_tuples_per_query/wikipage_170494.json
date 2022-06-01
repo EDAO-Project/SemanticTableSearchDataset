@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anglican_Network_in_Canada",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Anglican_Church_of_South_America"
+        ],
+        [
+            "http://dbpedia.org/resource/Diocese_of_Cascadia",
+            "http://dbpedia.org/resource/Bellingham,_Washington",
+            "http://dbpedia.org/resource/Kevin_Bond_Allen"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maxie_Long",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/New_York_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Reidpath",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Stockholm"
+        ]
+    ]
+}

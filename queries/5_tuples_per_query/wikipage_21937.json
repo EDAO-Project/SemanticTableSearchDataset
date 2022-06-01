@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut",
+            "http://dbpedia.org/resource/Greenwich,_Connecticut",
+            "http://dbpedia.org/resource/New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut",
+            "http://dbpedia.org/resource/Stamford,_Connecticut",
+            "http://dbpedia.org/resource/University_of_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut",
+            "http://dbpedia.org/resource/Norwalk,_Connecticut",
+            "http://dbpedia.org/resource/Norwalk_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut",
+            "http://dbpedia.org/resource/Fairfield,_Connecticut",
+            "http://dbpedia.org/resource/Fairfield_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut",
+            "http://dbpedia.org/resource/Fairfield,_Connecticut",
+            "http://dbpedia.org/resource/General_Electric"
+        ]
+    ]
+}

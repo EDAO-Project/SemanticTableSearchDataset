@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_College",
+            "http://dbpedia.org/resource/Boston_College_Eagles",
+            "http://dbpedia.org/resource/Chestnut_Hill,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Clemson_University",
+            "http://dbpedia.org/resource/Clemson_Tigers",
+            "http://dbpedia.org/resource/Clemson,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Duke_University",
+            "http://dbpedia.org/resource/Duke_Blue_Devils",
+            "http://dbpedia.org/resource/Durham,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_State_University",
+            "http://dbpedia.org/resource/Florida_State_Seminoles",
+            "http://dbpedia.org/resource/Tallahassee,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Georgia_Institute_of_Technology",
+            "http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets",
+            "http://dbpedia.org/resource/Atlanta"
+        ]
+    ]
+}

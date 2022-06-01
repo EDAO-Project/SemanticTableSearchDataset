@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_WNBA_Championship",
+            "http://dbpedia.org/resource/Houston_Comets",
+            "http://dbpedia.org/resource/New_York_Liberty",
+            "http://dbpedia.org/resource/Cynthia_Cooper-Dyke"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_WNBA_Championship",
+            "http://dbpedia.org/resource/Houston_Comets",
+            "http://dbpedia.org/resource/New_York_Liberty",
+            "http://dbpedia.org/resource/Cynthia_Cooper-Dyke"
+        ]
+    ]
+}

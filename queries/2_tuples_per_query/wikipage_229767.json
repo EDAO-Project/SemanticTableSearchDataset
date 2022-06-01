@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1929_La_Liga",
+            "http://dbpedia.org/resource/Paco_Bienzobas",
+            "http://dbpedia.org/resource/Real_Sociedad"
+        ],
+        [
+            "http://dbpedia.org/resource/Guillermo_Gorostiza",
+            "http://dbpedia.org/resource/Second_Spanish_Republic",
+            "http://dbpedia.org/resource/Athletic_Bilbao"
+        ]
+    ]
+}

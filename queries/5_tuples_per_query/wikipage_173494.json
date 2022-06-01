@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Axel_Witsel",
+            "http://dbpedia.org/resource/S.L._Benfica",
+            "http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Florent_Sinama_Pongolle",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal",
+            "http://dbpedia.org/resource/FC_Rostov"
+        ],
+        [
+            "http://dbpedia.org/resource/Renato_Neto",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal",
+            "http://dbpedia.org/resource/K.A.A._Gent"
+        ],
+        [
+            "http://dbpedia.org/resource/Miguel_Lopes",
+            "http://dbpedia.org/resource/FC_Porto",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Tonel",
+            "http://dbpedia.org/resource/GNK_Dinamo_Zagreb",
+            "http://dbpedia.org/resource/S.C._Beira-Mar"
+        ]
+    ]
+}

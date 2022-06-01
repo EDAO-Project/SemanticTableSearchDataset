@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/688_Attack_Sub",
+            "http://dbpedia.org/resource/Electronic_Arts",
+            "http://dbpedia.org/resource/Sega"
+        ]
+    ]
+}

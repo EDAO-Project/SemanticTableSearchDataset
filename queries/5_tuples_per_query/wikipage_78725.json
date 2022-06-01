@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1980_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Reggie_Jackson",
+            "http://dbpedia.org/resource/New_York_Yankees"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Hal_McRae",
+            "http://dbpedia.org/resource/Kansas_City_Royals"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Don_Baylor",
+            "http://dbpedia.org/resource/New_York_Yankees"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Andre_Thornton",
+            "http://dbpedia.org/resource/Cleveland_Indians"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Don_Baylor",
+            "http://dbpedia.org/resource/New_York_Yankees"
+        ]
+    ]
+}

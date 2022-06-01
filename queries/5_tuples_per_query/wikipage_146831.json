@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chamrousse",
+            "http://dbpedia.org/resource/Chantelouve",
+            "http://dbpedia.org/resource/Chantesse",
+            "http://dbpedia.org/resource/Chapareillan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chichilianne",
+            "http://dbpedia.org/resource/Chirens",
+            "http://dbpedia.org/resource/Cholonge",
+            "http://dbpedia.org/resource/Choranche"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Tronche",
+            "http://dbpedia.org/resource/La_Valette",
+            "http://dbpedia.org/resource/Laffrey",
+            "http://dbpedia.org/resource/Lalley"
+        ],
+        [
+            "http://dbpedia.org/resource/Lumbin",
+            "http://dbpedia.org/resource/Malleval-en-Vercors",
+            "http://dbpedia.org/resource/Marcieu",
+            "http://dbpedia.org/resource/Marcilloles"
+        ],
+        [
+            "http://dbpedia.org/resource/Montchaboud",
+            "http://dbpedia.org/resource/Monteynard",
+            "http://dbpedia.org/resource/Montfalcon",
+            "http://dbpedia.org/resource/Morette"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_McDonough",
+            "http://dbpedia.org/resource/Donald_DiFrancesco",
+            "http://dbpedia.org/resource/William_J._Maguire"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_McDonough",
+            "http://dbpedia.org/resource/Donald_DiFrancesco",
+            "http://dbpedia.org/resource/William_J._Maguire"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_McDonough",
+            "http://dbpedia.org/resource/Bob_Franks",
+            "http://dbpedia.org/resource/William_J._Maguire"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_DiFrancesco",
+            "http://dbpedia.org/resource/Bob_Franks",
+            "http://dbpedia.org/resource/Maureen_Ogden"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_DiFrancesco",
+            "http://dbpedia.org/resource/Bob_Franks",
+            "http://dbpedia.org/resource/Maureen_Ogden"
+        ]
+    ]
+}

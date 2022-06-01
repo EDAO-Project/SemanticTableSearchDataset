@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cardiff",
+            "http://dbpedia.org/resource/Ray_Edmonds",
+            "http://dbpedia.org/resource/Manuel_Francisco"
+        ],
+        [
+            "http://dbpedia.org/resource/Johannesburg",
+            "http://dbpedia.org/resource/Doug_Mountjoy",
+            "http://dbpedia.org/resource/Paul_Mifsud"
+        ]
+    ]
+}

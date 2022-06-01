@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_League_I",
+            "http://dbpedia.org/resource/Andy_Farrell",
+            "http://dbpedia.org/resource/Wigan_Warriors",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_III",
+            "http://dbpedia.org/resource/Iestyn_Harris",
+            "http://dbpedia.org/resource/Leeds_Rhinos",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_IV",
+            "http://dbpedia.org/resource/Adrian_Vowles",
+            "http://dbpedia.org/resource/Castleford_Tigers",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_V",
+            "http://dbpedia.org/resource/Sean_Long",
+            "http://dbpedia.org/resource/St_Helens_RFC",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VI",
+            "http://dbpedia.org/resource/Paul_Sculthorpe",
+            "http://dbpedia.org/resource/St_Helens_RFC",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WEEX",
+            "http://dbpedia.org/resource/Connoisseur_Media",
+            "http://dbpedia.org/resource/Sports_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/WFNN",
+            "http://dbpedia.org/resource/Connoisseur_Media",
+            "http://dbpedia.org/resource/Sports_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/WKHW",
+            "http://dbpedia.org/resource/Educational_Media_Foundation",
+            "http://dbpedia.org/resource/Contemporary_Christian_music"
+        ],
+        [
+            "http://dbpedia.org/resource/WKVB",
+            "http://dbpedia.org/resource/Educational_Media_Foundation",
+            "http://dbpedia.org/resource/Contemporary_Christian_music"
+        ],
+        [
+            "http://dbpedia.org/resource/WLKA",
+            "http://dbpedia.org/resource/Educational_Media_Foundation",
+            "http://dbpedia.org/resource/Contemporary_Christian_music"
+        ]
+    ]
+}

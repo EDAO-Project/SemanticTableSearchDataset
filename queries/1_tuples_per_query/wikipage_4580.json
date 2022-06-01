@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Geneva",
+            "http://dbpedia.org/resource/Sigma_Iota",
+            "http://dbpedia.org/resource/Switzerland"
+        ]
+    ]
+}

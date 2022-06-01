@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Intel_Xeon_chipsets",
+            "http://dbpedia.org/resource/Xeon",
+            "http://dbpedia.org/resource/Blackford"
+        ],
+        [
+            "http://dbpedia.org/resource/Xeon",
+            "http://dbpedia.org/resource/Pentium_III",
+            "http://dbpedia.org/resource/Cascade_Range"
+        ],
+        [
+            "http://dbpedia.org/resource/Celeron",
+            "http://dbpedia.org/resource/Pentium_II",
+            "http://dbpedia.org/resource/Covington"
+        ],
+        [
+            "http://dbpedia.org/resource/Centrino",
+            "http://dbpedia.org/resource/Intel_GMA",
+            "http://dbpedia.org/resource/Crestline"
+        ],
+        [
+            "http://dbpedia.org/resource/Xeon",
+            "http://dbpedia.org/resource/Pentium_4",
+            "http://dbpedia.org/resource/Dempsey"
+        ]
+    ]
+}

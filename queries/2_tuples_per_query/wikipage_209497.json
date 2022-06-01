@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BC_Racers",
+            "http://dbpedia.org/resource/1995_in_video_gaming",
+            "http://dbpedia.org/resource/Core_Design",
+            "http://dbpedia.org/resource/U.S._Gold"
+        ],
+        [
+            "http://dbpedia.org/resource/Darxide",
+            "http://dbpedia.org/resource/1995_in_video_gaming",
+            "http://dbpedia.org/resource/Frontier_Developments",
+            "http://dbpedia.org/resource/Sega"
+        ]
+    ]
+}

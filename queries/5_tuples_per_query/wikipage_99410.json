@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Visakhapatnam",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Visakhapatnam_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Vijayawada",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Krishna_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Warangal",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Warangal_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Guntur",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Guntur_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Nellore",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Nellore_district"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany,_Georgia",
+            "http://dbpedia.org/resource/WALB-DT2",
+            "http://dbpedia.org/resource/This_TV",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Evansville,_Indiana",
+            "http://dbpedia.org/resource/WEVV-DT2",
+            "http://dbpedia.org/resource/MyNetworkTV",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Orlando,_Florida",
+            "http://dbpedia.org/resource/WUCF-TV",
+            "http://dbpedia.org/resource/PBS",
+            "http://dbpedia.org/resource/V-me"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo,_New_York",
+            "http://dbpedia.org/resource/WBBZ-TV",
+            "http://dbpedia.org/resource/This_TV",
+            "http://dbpedia.org/resource/Me-TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Wayne,_Indiana",
+            "http://dbpedia.org/resource/WISE-DT2",
+            "http://dbpedia.org/resource/MyNetworkTV",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ]
+    ]
+}

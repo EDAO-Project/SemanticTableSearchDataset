@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Alabama_at_Birmingham",
+            "http://dbpedia.org/resource/UAB_Blazers",
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/Conference_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Central_Florida",
+            "http://dbpedia.org/resource/UCF_Knights",
+            "http://dbpedia.org/resource/Orlando,_Florida",
+            "http://dbpedia.org/resource/American_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Denver",
+            "http://dbpedia.org/resource/Denver_Pioneers",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/The_Summit_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Atlantic_University",
+            "http://dbpedia.org/resource/Florida_Atlantic_Owls",
+            "http://dbpedia.org/resource/Boca_Raton,_Florida",
+            "http://dbpedia.org/resource/Conference_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_International_University",
+            "http://dbpedia.org/resource/FIU_Panthers",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Conference_USA"
+        ]
+    ]
+}

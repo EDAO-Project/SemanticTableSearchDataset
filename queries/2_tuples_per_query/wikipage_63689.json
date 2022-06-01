@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aufferville",
+            "http://dbpedia.org/resource/Avon,_Seine-et-Marne",
+            "http://dbpedia.org/resource/Bagneaux-sur-Loing"
+        ],
+        [
+            "http://dbpedia.org/resource/Boissy-aux-Cailles",
+            "http://dbpedia.org/resource/Bougligny",
+            "http://dbpedia.org/resource/Boulancourt"
+        ]
+    ]
+}

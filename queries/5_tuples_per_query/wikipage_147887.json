@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cyclo-cross_Ruddervoorde",
+            "http://dbpedia.org/resource/Niels_Albert",
+            "http://dbpedia.org/resource/Bart_Aernouts",
+            "http://dbpedia.org/resource/Klaas_Vantornout"
+        ],
+        [
+            "http://dbpedia.org/resource/Cyclo-cross_Zonhoven",
+            "http://dbpedia.org/resource/Niels_Albert",
+            "http://dbpedia.org/resource/Sven_Nys",
+            "http://dbpedia.org/resource/Kevin_Pauwels"
+        ],
+        [
+            "http://dbpedia.org/resource/Duinencross_Koksijde",
+            "http://dbpedia.org/resource/Sven_Nys",
+            "http://dbpedia.org/resource/Kevin_Pauwels",
+            "http://dbpedia.org/resource/Bart_Aernouts"
+        ],
+        [
+            "http://dbpedia.org/resource/Ziklokross_Igorre",
+            "http://dbpedia.org/resource/Kevin_Pauwels",
+            "http://dbpedia.org/resource/Sven_Nys",
+            "http://dbpedia.org/resource/Tom_Meeusen"
+        ],
+        [
+            "http://dbpedia.org/resource/Essen",
+            "http://dbpedia.org/resource/Bart_Wellens",
+            "http://dbpedia.org/resource/Niels_Albert",
+            "http://dbpedia.org/resource/Rob_Peeters"
+        ]
+    ]
+}

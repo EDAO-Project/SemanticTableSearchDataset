@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patsy_Mink",
+            "http://dbpedia.org/resource/Democratic_Party_of_Hawaii",
+            "http://dbpedia.org/resource/93rd_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1972"
+        ],
+        [
+            "http://dbpedia.org/resource/Patsy_Mink",
+            "http://dbpedia.org/resource/Democratic_Party_of_Hawaii",
+            "http://dbpedia.org/resource/94th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1974"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Akaka",
+            "http://dbpedia.org/resource/Democratic_Party_of_Hawaii",
+            "http://dbpedia.org/resource/95th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1976"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Akaka",
+            "http://dbpedia.org/resource/Democratic_Party_of_Hawaii",
+            "http://dbpedia.org/resource/96th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1978"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Akaka",
+            "http://dbpedia.org/resource/Democratic_Party_of_Hawaii",
+            "http://dbpedia.org/resource/97th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1980"
+        ]
+    ]
+}

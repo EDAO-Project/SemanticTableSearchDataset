@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/Frasier",
+            "http://dbpedia.org/resource/David_Angell",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/Friends",
+            "http://dbpedia.org/resource/Kevin_S._Bright",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/Sex_and_the_City",
+            "http://dbpedia.org/resource/Michael_Patrick_King",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_television",
+            "http://dbpedia.org/resource/Sex_and_the_City",
+            "http://dbpedia.org/resource/Michael_Patrick_King",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_television",
+            "http://dbpedia.org/resource/Everybody_Loves_Raymond",
+            "http://dbpedia.org/resource/Ray_Romano",
+            "http://dbpedia.org/resource/CBS"
+        ]
+    ]
+}

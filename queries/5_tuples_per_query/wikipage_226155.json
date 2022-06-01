@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_S._Fulton",
+            "http://dbpedia.org/resource/24th_United_States_Congress",
+            "http://dbpedia.org/resource/Ambrose_Hundley_Sevier"
+        ],
+        [
+            "http://dbpedia.org/resource/William_S._Fulton",
+            "http://dbpedia.org/resource/25th_United_States_Congress",
+            "http://dbpedia.org/resource/Ambrose_Hundley_Sevier"
+        ],
+        [
+            "http://dbpedia.org/resource/William_S._Fulton",
+            "http://dbpedia.org/resource/26th_United_States_Congress",
+            "http://dbpedia.org/resource/Ambrose_Hundley_Sevier"
+        ],
+        [
+            "http://dbpedia.org/resource/William_S._Fulton",
+            "http://dbpedia.org/resource/27th_United_States_Congress",
+            "http://dbpedia.org/resource/Ambrose_Hundley_Sevier"
+        ],
+        [
+            "http://dbpedia.org/resource/William_S._Fulton",
+            "http://dbpedia.org/resource/28th_United_States_Congress",
+            "http://dbpedia.org/resource/Ambrose_Hundley_Sevier"
+        ]
+    ]
+}

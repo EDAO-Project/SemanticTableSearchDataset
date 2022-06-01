@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_Criterium_of_Polish_Speedway_Leagues_Aces",
+            "http://dbpedia.org/resource/Andrzej_Huszcza",
+            "http://dbpedia.org/resource/Roman_Jankowski"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Criterium_of_Polish_Speedway_Leagues_Aces",
+            "http://dbpedia.org/resource/Andrzej_Huszcza",
+            "http://dbpedia.org/resource/Edward_Jancarz"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomasz_Gollob",
+            "http://dbpedia.org/resource/Jan_Krzystyniak",
+            "http://dbpedia.org/resource/Andrzej_Huszcza"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomasz_Gollob",
+            "http://dbpedia.org/resource/Jan_Krzystyniak",
+            "http://dbpedia.org/resource/Roman_Jankowski"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomasz_Gollob",
+            "http://dbpedia.org/resource/Jacek_Gollob",
+            "http://dbpedia.org/resource/Joe_Screen"
+        ]
+    ]
+}

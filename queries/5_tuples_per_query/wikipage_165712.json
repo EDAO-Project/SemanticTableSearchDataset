@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bobby_Labonte",
+            "http://dbpedia.org/resource/2012_Daytona_500",
+            "http://dbpedia.org/resource/Daytona_International_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Harvick",
+            "http://dbpedia.org/resource/2012_Subway_Fresh_Fit_500",
+            "http://dbpedia.org/resource/Phoenix_International_Raceway"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Stewart",
+            "http://dbpedia.org/resource/2012_Kobalt_Tools_400",
+            "http://dbpedia.org/resource/Las_Vegas_Motor_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Keselowski",
+            "http://dbpedia.org/resource/2012_Food_City_500",
+            "http://dbpedia.org/resource/Bristol_Motor_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyle_Busch",
+            "http://dbpedia.org/resource/2012_Auto_Club_400",
+            "http://dbpedia.org/resource/Auto_Club_Speedway"
+        ]
+    ]
+}

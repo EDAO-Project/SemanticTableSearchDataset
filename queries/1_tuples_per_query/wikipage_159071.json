@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Quincy_Adams",
+            "http://dbpedia.org/resource/National_Republican_Party",
+            "http://dbpedia.org/resource/Braintree,_Massachusetts",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1830"
+        ]
+    ]
+}

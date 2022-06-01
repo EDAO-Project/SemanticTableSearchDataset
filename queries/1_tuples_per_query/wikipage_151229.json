@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ricky_Ray",
+            "http://dbpedia.org/resource/Charleston_Hughes",
+            "http://dbpedia.org/resource/Lindsey_Lamar",
+            "http://dbpedia.org/resource/Jon_Cornish"
+        ]
+    ]
+}

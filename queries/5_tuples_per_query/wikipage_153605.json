@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zheng_Jie",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/2012_ASB_Classic"
+        ],
+        [
+            "http://dbpedia.org/resource/Mona_Barthel",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/2012_Moorilla_Hobart_International"
+        ],
+        [
+            "http://dbpedia.org/resource/Lara_Arruabarrena",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/2012_Copa_Sony_Ericsson_Colsanitas"
+        ],
+        [
+            "http://dbpedia.org/resource/Sofia_Arvidsson",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/2012_Regions_Morgan_Keegan_Championships_and_Memphis_International"
+        ],
+        [
+            "http://dbpedia.org/resource/Hsieh_Su-wei",
+            "http://dbpedia.org/resource/Chinese_Taipei",
+            "http://dbpedia.org/resource/2012_Malaysian_Open"
+        ]
+    ]
+}

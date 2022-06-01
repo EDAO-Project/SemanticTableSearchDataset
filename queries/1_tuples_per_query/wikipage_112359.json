@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Ian_Woosnam"
+        ]
+    ]
+}

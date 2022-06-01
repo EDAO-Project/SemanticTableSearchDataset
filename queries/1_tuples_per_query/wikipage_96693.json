@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuusamo",
+            "http://dbpedia.org/resource/Jason_Lamy-Chappuis",
+            "http://dbpedia.org/resource/Hannu_Manninen",
+            "http://dbpedia.org/resource/Eric_Frenzel"
+        ]
+    ]
+}

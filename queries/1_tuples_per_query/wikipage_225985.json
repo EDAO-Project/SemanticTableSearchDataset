@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roanoke_Island",
+            "http://dbpedia.org/resource/Walter_Raleigh",
+            "http://dbpedia.org/resource/Digitalis"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mollusca",
+            "http://dbpedia.org/resource/Tunicate",
+            "http://dbpedia.org/resource/Vermes",
+            "http://dbpedia.org/resource/Flatworm"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1928_Stanley_Cup_Finals",
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/Lester_Patrick",
+            "http://dbpedia.org/resource/Montreal_Maroons",
+            "http://dbpedia.org/resource/Eddie_Gerard",
+            "http://dbpedia.org/resource/Frank_Boucher"
+        ]
+    ]
+}

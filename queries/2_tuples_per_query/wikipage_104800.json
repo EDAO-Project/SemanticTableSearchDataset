@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Germany,_Pale_Mother",
+            "http://dbpedia.org/resource/Helma_Sanders-Brahms",
+            "http://dbpedia.org/resource/30th_Berlin_International_Film_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Palermo_or_Wolfsburg",
+            "http://dbpedia.org/resource/Werner_Schroeter",
+            "http://dbpedia.org/resource/Golden_Bear"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London_Buses_route_13",
+            "http://dbpedia.org/resource/Golders_Green",
+            "http://dbpedia.org/resource/Aldwych",
+            "http://dbpedia.org/resource/London_Sovereign"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Buses_route_82",
+            "http://dbpedia.org/resource/Victoria,_London",
+            "http://dbpedia.org/resource/North_Finchley",
+            "http://dbpedia.org/resource/Metroline"
+        ]
+    ]
+}

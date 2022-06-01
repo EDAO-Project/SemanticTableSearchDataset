@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_NBA_draft",
+            "http://dbpedia.org/resource/Otto_Porter",
+            "http://dbpedia.org/resource/Washington_Wizards"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_NBA_draft",
+            "http://dbpedia.org/resource/Greg_Monroe",
+            "http://dbpedia.org/resource/Detroit_Pistons"
+        ]
+    ]
+}

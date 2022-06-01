@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kalevi_Keskstaadion",
+            "http://dbpedia.org/resource/Tallinn",
+            "http://dbpedia.org/resource/JK_Tallinna_Kalev"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_Atlanta_Braves_season",
+            "http://dbpedia.org/resource/Kris_Medlen",
+            "http://dbpedia.org/resource/Matt_Capps",
+            "http://dbpedia.org/resource/Billy_Wagner"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Florida_Marlins_season",
+            "http://dbpedia.org/resource/Chris_Volstad",
+            "http://dbpedia.org/resource/Brian_Bruney",
+            "http://dbpedia.org/resource/Juan_Carlos_Oviedo"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Florida_Marlins_season",
+            "http://dbpedia.org/resource/Tyler_Clippard",
+            "http://dbpedia.org/resource/Burke_Badenhop",
+            "http://dbpedia.org/resource/Matt_Capps"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Florida_Marlins_season",
+            "http://dbpedia.org/resource/Tyler_Clippard",
+            "http://dbpedia.org/resource/Clay_Hensley",
+            "http://dbpedia.org/resource/Matt_Capps"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_New_York_Mets_season",
+            "http://dbpedia.org/resource/Luis_Atilano",
+            "http://dbpedia.org/resource/John_Maine",
+            "http://dbpedia.org/resource/Miguel_Batista"
+        ]
+    ]
+}

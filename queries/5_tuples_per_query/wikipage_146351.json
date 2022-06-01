@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anneville-sur-Scie",
+            "http://dbpedia.org/resource/Ardouval",
+            "http://dbpedia.org/resource/Argueil",
+            "http://dbpedia.org/resource/Arques-la-Bataille"
+        ],
+        [
+            "http://dbpedia.org/resource/Avesnes-en-Bray",
+            "http://dbpedia.org/resource/Avesnes-en-Val",
+            "http://dbpedia.org/resource/Avremesnil",
+            "http://dbpedia.org/resource/Bacqueville-en-Caux"
+        ],
+        [
+            "http://dbpedia.org/resource/Beauval-en-Caux",
+            "http://dbpedia.org/resource/Beauvoir-en-Lyons",
+            "http://dbpedia.org/resource/Bellencombre",
+            "http://dbpedia.org/resource/Bellengreville,_Seine-Maritime"
+        ],
+        [
+            "http://dbpedia.org/resource/Belleville-en-Caux",
+            "http://dbpedia.org/resource/Belleville-sur-Mer",
+            "http://dbpedia.org/resource/Belmesnil",
+            "http://dbpedia.org/resource/Berneval-le-Grand"
+        ],
+        [
+            "http://dbpedia.org/resource/Bertheauville",
+            "http://dbpedia.org/resource/Bertreville",
+            "http://dbpedia.org/resource/Bertreville-Saint-Ouen",
+            "http://dbpedia.org/resource/Bertrimont"
+        ]
+    ]
+}

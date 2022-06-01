@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nokdong_Station",
+            "http://dbpedia.org/resource/Gwangju",
+            "http://dbpedia.org/resource/Dong_District,_Gwangju"
+        ],
+        [
+            "http://dbpedia.org/resource/Sotae_Station",
+            "http://dbpedia.org/resource/Gwangju",
+            "http://dbpedia.org/resource/Dong_District,_Gwangju"
+        ]
+    ]
+}

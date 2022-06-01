@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baton_Rouge_Ladies_Invitational",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Sandra_Haynie"
+        ],
+        [
+            "http://dbpedia.org/resource/Peach_Blossom_Open",
+            "http://dbpedia.org/resource/South_Carolina",
+            "http://dbpedia.org/resource/Mickey_Wright"
+        ]
+    ]
+}

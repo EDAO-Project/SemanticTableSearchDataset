@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_Appel",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Stanford_Cardinal_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Kris_Bryant",
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/San_Diego_Toreros_baseball"
+        ]
+    ]
+}

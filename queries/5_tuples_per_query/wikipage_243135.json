@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bais_Moshe",
+            "http://dbpedia.org/resource/Scranton,_Pennsylvania",
+            "http://dbpedia.org/resource/Orthodox_Judaism"
+        ],
+        [
+            "http://dbpedia.org/resource/Byzantine_Catholic_Seminary_of_SS._Cyril_and_Methodius",
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/Ruthenian_Catholic_Metropolitan_Church_of_Pittsburgh"
+        ],
+        [
+            "http://dbpedia.org/resource/Calvary_Baptist_Theological_Seminary",
+            "http://dbpedia.org/resource/Upper_Gwynedd_Township,_Montgomery_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Baptists"
+        ],
+        [
+            "http://dbpedia.org/resource/Christ_the_Saviour_Seminary",
+            "http://dbpedia.org/resource/Johnstown,_Pennsylvania",
+            "http://dbpedia.org/resource/American_Carpatho-Russian_Orthodox_Diocese"
+        ],
+        [
+            "http://dbpedia.org/resource/Evangelical_Seminary",
+            "http://dbpedia.org/resource/Myerstown,_Pennsylvania",
+            "http://dbpedia.org/resource/Evangelical_Association"
+        ]
+    ]
+}

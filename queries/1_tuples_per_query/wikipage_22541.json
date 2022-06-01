@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Alsop_IV_House",
+            "http://dbpedia.org/resource/Middletown,_Connecticut",
+            "http://dbpedia.org/resource/Middlesex_County,_Connecticut",
+            "http://dbpedia.org/resource/Wesleyan_University"
+        ]
+    ]
+}

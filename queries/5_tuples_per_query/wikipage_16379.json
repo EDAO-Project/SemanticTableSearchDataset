@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_v._Holmes_County_Board_of_Education",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Desegregation"
+        ],
+        [
+            "http://dbpedia.org/resource/Waller_v._Florida",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Collateral_estoppel"
+        ],
+        [
+            "http://dbpedia.org/resource/Williams_v._Florida",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Jury"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Carolina_v._Alford",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Plea"
+        ],
+        [
+            "http://dbpedia.org/resource/Massachusetts_v._Laird",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Vietnam_War"
+        ]
+    ]
+}

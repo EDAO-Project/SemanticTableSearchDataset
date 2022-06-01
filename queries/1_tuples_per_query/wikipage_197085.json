@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Bulgarian_Supercup",
+            "http://dbpedia.org/resource/PFC_Beroe_Stara_Zagora",
+            "http://dbpedia.org/resource/PFC_Ludogorets_Razgrad",
+            "http://dbpedia.org/resource/Vasil_Levski_National_Stadium"
+        ]
+    ]
+}

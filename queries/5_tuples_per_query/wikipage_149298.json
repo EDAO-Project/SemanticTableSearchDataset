@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1986_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Boston_College_Eagles",
+            "http://dbpedia.org/resource/1986_Georgia_Bulldogs_football_team",
+            "http://dbpedia.org/resource/1986_Hall_of_Fame_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/1987_Michigan_Wolverines_football_team",
+            "http://dbpedia.org/resource/1987_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/1988_Hall_of_Fame_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Syracuse_Orange",
+            "http://dbpedia.org/resource/1988_LSU_Tigers_football_team",
+            "http://dbpedia.org/resource/1989_Hall_of_Fame_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/1989_Auburn_Tigers_football_team",
+            "http://dbpedia.org/resource/1989_Ohio_State_Buckeyes_football_team",
+            "http://dbpedia.org/resource/1990_Hall_of_Fame_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/1991_Syracuse_Orangemen_football_team",
+            "http://dbpedia.org/resource/1991_Ohio_State_Buckeyes_football_team",
+            "http://dbpedia.org/resource/1992_Hall_of_Fame_Bowl"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bambang_Pamungkas",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Persija_Jakarta",
+            "http://dbpedia.org/resource/PSIS_Semarang"
+        ],
+        [
+            "http://dbpedia.org/resource/Boaz_Solossa",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Persipura_Jayapura",
+            "http://dbpedia.org/resource/Persija_Jakarta"
+        ],
+        [
+            "http://dbpedia.org/resource/Boakay_Eddie_Foday",
+            "http://dbpedia.org/resource/Liberia",
+            "http://dbpedia.org/resource/Persiwa_Wamena",
+            "http://dbpedia.org/resource/PSIS_Semarang"
+        ],
+        [
+            "http://dbpedia.org/resource/Boaz_Solossa",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Persipura_Jayapura",
+            "http://dbpedia.org/resource/Persitara_North_Jakarta"
+        ],
+        [
+            "http://dbpedia.org/resource/Talaohu_Musafri",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Persiba_Balikpapan",
+            "http://dbpedia.org/resource/PSIS_Semarang"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_Caribbean_Series",
+            "http://dbpedia.org/resource/Joe_Tuminelli",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/Panamanian_Professional_Baseball_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_Caribbean_Series",
+            "http://dbpedia.org/resource/Ray_Noble",
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Cienfuegos"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_Caribbean_Series",
+            "http://dbpedia.org/resource/Earl_Battey",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/Industriales_de_Valencia"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Caribbean_Series",
+            "http://dbpedia.org/resource/Manny_Mota",
+            "http://dbpedia.org/resource/Dominican_Republic",
+            "http://dbpedia.org/resource/Tigres_del_Licey"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Caribbean_Series",
+            "http://dbpedia.org/resource/Bobby_Valentine",
+            "http://dbpedia.org/resource/Dominican_Republic",
+            "http://dbpedia.org/resource/Tigres_del_Licey"
+        ]
+    ]
+}

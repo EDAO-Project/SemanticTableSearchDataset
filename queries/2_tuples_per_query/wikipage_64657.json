@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A1_Team_China",
+            "http://dbpedia.org/resource/Ho-Pin_Tung",
+            "http://dbpedia.org/resource/Cheng_Congfu"
+        ],
+        [
+            "http://dbpedia.org/resource/A1_Team_Great_Britain",
+            "http://dbpedia.org/resource/Danny_Watts",
+            "http://dbpedia.org/resource/Danny_Watts",
+            "http://dbpedia.org/resource/James_Winslow"
+        ]
+    ]
+}

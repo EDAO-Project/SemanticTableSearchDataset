@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chester_Manifold",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1901"
+        ],
+        [
+            "http://dbpedia.org/resource/Gratton_Wilson",
+            "http://dbpedia.org/resource/Free_Trade_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1903"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Scullin",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1910"
+        ],
+        [
+            "http://dbpedia.org/resource/Chester_Manifold",
+            "http://dbpedia.org/resource/Commonwealth_Liberal_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1913"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Crouch",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1929"
+        ]
+    ]
+}

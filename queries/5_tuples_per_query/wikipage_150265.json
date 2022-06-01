@@ -1,0 +1,25 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beckie_Scott",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_2002_Winter_Olympics",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_2002_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Rob_Blake",
+            "http://dbpedia.org/resource/Ed_Jovanovski"
+        ],
+        [
+            "http://dbpedia.org/resource/Eric_Brewer",
+            "http://dbpedia.org/resource/Paul_Kariya"
+        ],
+        [
+            "http://dbpedia.org/resource/Martin_Brodeur",
+            "http://dbpedia.org/resource/Mario_Lemieux"
+        ],
+        [
+            "http://dbpedia.org/resource/Theoren_Fleury",
+            "http://dbpedia.org/resource/Eric_Lindros"
+        ]
+    ]
+}

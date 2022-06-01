@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/3D_Dot_Game_Heroes",
+            "http://dbpedia.org/resource/Silicon_Studio",
+            "http://dbpedia.org/resource/FromSoftware"
+        ],
+        [
+            "http://dbpedia.org/resource/Beyond:_Two_Souls",
+            "http://dbpedia.org/resource/Quantic_Dream",
+            "http://dbpedia.org/resource/Sony_Computer_Entertainment"
+        ]
+    ]
+}

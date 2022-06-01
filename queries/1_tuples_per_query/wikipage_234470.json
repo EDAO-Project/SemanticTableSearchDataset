@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Donald_Lippincott",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Stockholm"
+        ]
+    ]
+}

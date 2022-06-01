@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1992_in_Russian_football",
+            "http://dbpedia.org/resource/Viktor_Onopko",
+            "http://dbpedia.org/resource/FC_Spartak_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_in_Russian_football",
+            "http://dbpedia.org/resource/Viktor_Onopko",
+            "http://dbpedia.org/resource/FC_Spartak_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_in_Russian_football",
+            "http://dbpedia.org/resource/Igor_Simutenkov",
+            "http://dbpedia.org/resource/FC_Dynamo_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_in_Russian_football",
+            "http://dbpedia.org/resource/Ilya_Tsymbalar",
+            "http://dbpedia.org/resource/FC_Spartak_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_in_Russian_football",
+            "http://dbpedia.org/resource/Andrey_Tikhonov",
+            "http://dbpedia.org/resource/FC_Spartak_Moscow"
+        ]
+    ]
+}

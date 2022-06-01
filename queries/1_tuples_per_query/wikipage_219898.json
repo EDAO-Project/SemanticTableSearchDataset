@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rowing_at_the_1976_Summer_Olympics",
+            "http://dbpedia.org/resource/East_Germany_at_the_1976_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1976_Summer_Olympics",
+            "http://dbpedia.org/resource/Romania_at_the_1976_Summer_Olympics"
+        ]
+    ]
+}

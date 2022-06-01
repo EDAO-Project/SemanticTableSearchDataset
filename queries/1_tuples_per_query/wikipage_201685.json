@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_PGA_Tour",
+            "http://dbpedia.org/resource/Henrik_Stenson",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Somnath",
+            "http://dbpedia.org/resource/Gujarat",
+            "http://dbpedia.org/resource/Prabhas_Patan",
+            "http://dbpedia.org/resource/Somnath"
+        ],
+        [
+            "http://dbpedia.org/resource/Mallikarjuna_Swamy",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Srisailam",
+            "http://dbpedia.org/resource/Srisailam"
+        ]
+    ]
+}

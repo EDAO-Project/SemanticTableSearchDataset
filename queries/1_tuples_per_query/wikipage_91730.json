@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akron_Zips",
+            "http://dbpedia.org/resource/University_of_Akron",
+            "http://dbpedia.org/resource/Akron,_Ohio",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ]
+    ]
+}

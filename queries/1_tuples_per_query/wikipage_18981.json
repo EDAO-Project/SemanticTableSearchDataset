@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Daniel_D._Tompkins",
+            "http://dbpedia.org/resource/Scarsdale,_New_York"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1991_European_Sprint_Swimming_Championships",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_European_Sprint_Swimming_Championships",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Russia"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_and_Edith_Adelman_House",
+            "http://dbpedia.org/resource/Fox_Point,_Wisconsin",
+            "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/XM_Satellite_Radio_Indy_200",
+            "http://dbpedia.org/resource/Phoenix_International_Raceway",
+            "http://dbpedia.org/resource/Avondale,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_500_Classic",
+            "http://dbpedia.org/resource/Atlanta_Motor_Speedway",
+            "http://dbpedia.org/resource/Hampton,_Georgia"
+        ]
+    ]
+}

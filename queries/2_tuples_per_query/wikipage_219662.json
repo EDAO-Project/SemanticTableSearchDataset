@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Butler_University",
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/Butler_Bulldogs",
+            "http://dbpedia.org/resource/Big_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Cincinnati",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/Cincinnati_Bearcats",
+            "http://dbpedia.org/resource/American_Athletic_Conference"
+        ]
+    ]
+}

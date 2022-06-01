@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Franz_Beckenbauer",
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/West_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Giacinto_Facchetti",
+            "http://dbpedia.org/resource/Inter_Milan",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

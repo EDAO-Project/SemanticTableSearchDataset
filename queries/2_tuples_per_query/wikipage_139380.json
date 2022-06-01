@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Amitabh_Bachchan",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati",
+            "http://dbpedia.org/resource/Amitabh_Bachchan",
+            "http://dbpedia.org/resource/Star_Plus"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Streets_of_Philadelphia",
+            "http://dbpedia.org/resource/Bruce_Springsteen",
+            "http://dbpedia.org/resource/The_Division_Bell",
+            "http://dbpedia.org/resource/Pink_Floyd"
+        ],
+        [
+            "http://dbpedia.org/resource/Streets_of_Philadelphia",
+            "http://dbpedia.org/resource/Bruce_Springsteen",
+            "http://dbpedia.org/resource/The_Division_Bell",
+            "http://dbpedia.org/resource/Pink_Floyd"
+        ]
+    ]
+}

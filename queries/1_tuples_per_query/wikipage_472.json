@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/World_record_progression_50_metres_freestyle",
+            "http://dbpedia.org/resource/Roland_Schoeman",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Pietermaritzburg"
+        ]
+    ]
+}

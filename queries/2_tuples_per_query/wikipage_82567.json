@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mehriban_Aliyeva",
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Intangible_cultural_heritage"
+        ],
+        [
+            "http://dbpedia.org/resource/Alicia_Alonso",
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Intangible_cultural_heritage"
+        ]
+    ]
+}

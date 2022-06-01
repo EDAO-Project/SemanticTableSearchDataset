@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/28_Days_Later",
+            "http://dbpedia.org/resource/Danny_Boyle",
+            "http://dbpedia.org/resource/Cillian_Murphy"
+        ],
+        [
+            "http://dbpedia.org/resource/Blade_II",
+            "http://dbpedia.org/resource/Guillermo_del_Toro",
+            "http://dbpedia.org/resource/Wesley_Snipes"
+        ],
+        [
+            "http://dbpedia.org/resource/Blood_Feast_2:_All_U_Can_Eat",
+            "http://dbpedia.org/resource/Herschell_Gordon_Lewis",
+            "http://dbpedia.org/resource/Marti_Pellow"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Brotherhood_III",
+            "http://dbpedia.org/resource/David_DeCoteau",
+            "http://dbpedia.org/resource/Kristopher_Turner"
+        ],
+        [
+            "http://dbpedia.org/resource/Bubba_Ho-Tep",
+            "http://dbpedia.org/resource/Don_Coscarelli",
+            "http://dbpedia.org/resource/Bruce_Campbell"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anzeling",
+            "http://dbpedia.org/resource/Arraincourt",
+            "http://dbpedia.org/resource/Arriance"
+        ],
+        [
+            "http://dbpedia.org/resource/Bambiderstroff",
+            "http://dbpedia.org/resource/Bannay,_Moselle",
+            "http://dbpedia.org/resource/Berviller-en-Moselle"
+        ]
+    ]
+}

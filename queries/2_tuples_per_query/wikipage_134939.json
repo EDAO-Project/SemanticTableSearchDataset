@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Plymouth",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Plymouth_Pavilions"
+        ],
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/National_Exhibition_Centre"
+        ]
+    ]
+}

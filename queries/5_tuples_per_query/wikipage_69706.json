@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/KeyArena"
+        ],
+        [
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/KeyArena"
+        ],
+        [
+            "http://dbpedia.org/resource/Salt_Lake_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Salt_Palace"
+        ],
+        [
+            "http://dbpedia.org/resource/Lincoln,_Nebraska",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bob_Devaney_Sports_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_City,_Missouri",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kemper_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bangalore",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/M_G_Road,_Bangalore"
+        ]
+    ]
+}

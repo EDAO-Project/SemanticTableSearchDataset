@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/STS-3",
+            "http://dbpedia.org/resource/White_Sands_Space_Harbor",
+            "http://dbpedia.org/resource/Space_Shuttle_external_tank"
+        ],
+        [
+            "http://dbpedia.org/resource/STS-9",
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base",
+            "http://dbpedia.org/resource/Spacelab"
+        ]
+    ]
+}

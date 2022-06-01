@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_Currie_Cup_Division_A",
+            "http://dbpedia.org/resource/Natal_Sharks",
+            "http://dbpedia.org/resource/Blue_Bulls",
+            "http://dbpedia.org/resource/Loftus_Versfeld_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Currie_Cup",
+            "http://dbpedia.org/resource/Blue_Bulls",
+            "http://dbpedia.org/resource/Golden_Lions",
+            "http://dbpedia.org/resource/Loftus_Versfeld_Stadium"
+        ]
+    ]
+}

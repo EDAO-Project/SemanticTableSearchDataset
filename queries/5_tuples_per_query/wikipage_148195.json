@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Vietnam"
+        ],
+        [
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Vietnam"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Vietnam",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Uzbekistan",
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Iran"
+        ]
+    ]
+}

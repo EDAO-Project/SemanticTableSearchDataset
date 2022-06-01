@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Latin_Grammy_Awards_of_2000",
+            "http://dbpedia.org/resource/Emilio_Estefan",
+            "http://dbpedia.org/resource/Cuba"
+        ],
+        [
+            "http://dbpedia.org/resource/Latin_Grammy_Awards_of_2001",
+            "http://dbpedia.org/resource/Julio_Iglesias",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Latin_Grammy_Awards_of_2003",
+            "http://dbpedia.org/resource/Gilberto_Gil",
+            "http://dbpedia.org/resource/Brazil"
+        ],
+        [
+            "http://dbpedia.org/resource/Latin_Grammy_Awards_of_2004",
+            "http://dbpedia.org/resource/Carlos_Santana",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/Latin_Grammy_Awards_of_2006",
+            "http://dbpedia.org/resource/Ricky_Martin",
+            "http://dbpedia.org/resource/Puerto_Rico"
+        ]
+    ]
+}

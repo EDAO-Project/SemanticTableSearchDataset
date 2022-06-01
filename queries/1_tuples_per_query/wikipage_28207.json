@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gelderland",
+            "http://dbpedia.org/resource/Nijkerk",
+            "http://dbpedia.org/resource/Amersfoort"
+        ]
+    ]
+}

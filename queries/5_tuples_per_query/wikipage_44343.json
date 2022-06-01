@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Top_Gun",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Tom_Cruise",
+            "http://dbpedia.org/resource/Tony_Scott"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Karate_Kid,_Part_II",
+            "http://dbpedia.org/resource/Columbia_Pictures",
+            "http://dbpedia.org/resource/Ralph_Macchio",
+            "http://dbpedia.org/resource/John_G._Avildsen"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Trek_IV:_The_Voyage_Home",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/William_Shatner",
+            "http://dbpedia.org/resource/Leonard_Nimoy"
+        ],
+        [
+            "http://dbpedia.org/resource/Back_to_School",
+            "http://dbpedia.org/resource/Orion_Pictures",
+            "http://dbpedia.org/resource/Rodney_Dangerfield",
+            "http://dbpedia.org/resource/Alan_Metter"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruthless_People",
+            "http://dbpedia.org/resource/Touchstone_Pictures",
+            "http://dbpedia.org/resource/Danny_DeVito",
+            "http://dbpedia.org/resource/Jim_Abrahams"
+        ]
+    ]
+}

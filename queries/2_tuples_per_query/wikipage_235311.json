@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_M._Teller",
+            "http://dbpedia.org/resource/44th_United_States_Congress",
+            "http://dbpedia.org/resource/Jerome_B._Chaffee"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_M._Teller",
+            "http://dbpedia.org/resource/45th_United_States_Congress",
+            "http://dbpedia.org/resource/Jerome_B._Chaffee"
+        ]
+    ]
+}

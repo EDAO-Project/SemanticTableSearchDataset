@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Branko_Zebec",
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/1954_FIFA_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Stjepan_Bobek",
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/1950_FIFA_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivica_Horvat",
+            "http://dbpedia.org/resource/Sisak",
+            "http://dbpedia.org/resource/1950_FIFA_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Vladimir_Beara",
+            "http://dbpedia.org/resource/Sinj",
+            "http://dbpedia.org/resource/1950_FIFA_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Bernard_Vukas",
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/1950_FIFA_World_Cup"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al-Dawayima_massacre",
+            "http://dbpedia.org/resource/Al-Dawayima",
+            "http://dbpedia.org/resource/Israel_Defense_Forces"
+        ]
+    ]
+}

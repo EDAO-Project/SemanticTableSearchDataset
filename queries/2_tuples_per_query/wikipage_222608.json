@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/House_of_Zogu",
+            "http://dbpedia.org/resource/Prince_Leka_of_Albania"
+        ],
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/House_of_Savoy",
+            "http://dbpedia.org/resource/Vittorio_Emanuele,_Prince_of_Naples"
+        ]
+    ]
+}

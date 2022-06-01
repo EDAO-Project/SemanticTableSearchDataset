@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Perth",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Perth_Entertainment_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Adelaide",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Adelaide_Entertainment_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Brisbane_Entertainment_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Canberra",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Canberra_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Palais_Theatre"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arnold_Palmer",
+            "http://dbpedia.org/resource/Wake_Forest_University",
+            "http://dbpedia.org/resource/Golf"
+        ],
+        [
+            "http://dbpedia.org/resource/Banks_McFadden",
+            "http://dbpedia.org/resource/Clemson_University",
+            "http://dbpedia.org/resource/College_football"
+        ]
+    ]
+}

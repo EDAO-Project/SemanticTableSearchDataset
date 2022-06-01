@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Joe_Hockey",
+            "http://dbpedia.org/resource/Liberal_Party_of_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bahamas",
+            "http://dbpedia.org/resource/Perry_Christie",
+            "http://dbpedia.org/resource/Progressive_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Abul_Maal_Abdul_Muhith",
+            "http://dbpedia.org/resource/Bangladesh_Awami_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Koen_Geens",
+            "http://dbpedia.org/resource/Christen-Democratisch_en_Vlaams"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolivia",
+            "http://dbpedia.org/resource/Luis_Alberto_Arce_Catacora",
+            "http://dbpedia.org/resource/Independent_politician"
+        ]
+    ]
+}

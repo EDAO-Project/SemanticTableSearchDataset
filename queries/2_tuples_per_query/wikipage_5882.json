@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_college_football_season",
+            "http://dbpedia.org/resource/NC_State_Wolfpack_football",
+            "http://dbpedia.org/resource/Liberty_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_NCAA_Division_I_football_season",
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels_football",
+            "http://dbpedia.org/resource/Sun_Bowl"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bloom_High_School",
+            "http://dbpedia.org/resource/Dixie_Highway",
+            "http://dbpedia.org/resource/Chicago_Heights,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Portage_National_Historic_Site",
+            "http://dbpedia.org/resource/Chicago_Sanitary_and_Ship_Canal",
+            "http://dbpedia.org/resource/Forest_View,_Illinois"
+        ]
+    ]
+}

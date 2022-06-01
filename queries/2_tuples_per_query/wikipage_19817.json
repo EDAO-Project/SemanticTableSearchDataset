@@ -1,0 +1,22 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_Little_League_World_Series",
+            "http://dbpedia.org/resource/Wallingford,_Connecticut",
+            "http://dbpedia.org/resource/Lincoln_County,_Maine",
+            "http://dbpedia.org/resource/Pittsfield,_Massachusetts",
+            "http://dbpedia.org/resource/Manchester,_New_Hampshire",
+            "http://dbpedia.org/resource/Lincoln,_Rhode_Island",
+            "http://dbpedia.org/resource/South_Burlington,_Vermont"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Little_League_World_Series",
+            "http://dbpedia.org/resource/Orange,_Connecticut",
+            "http://dbpedia.org/resource/Westbrook,_Maine",
+            "http://dbpedia.org/resource/Jesse_Burkett",
+            "http://dbpedia.org/resource/Portsmouth,_New_Hampshire",
+            "http://dbpedia.org/resource/Portsmouth,_Rhode_Island",
+            "http://dbpedia.org/resource/Essex_Junction,_Vermont"
+        ]
+    ]
+}

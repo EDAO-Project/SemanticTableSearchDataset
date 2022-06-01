@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Malaysia_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Mitsuo_Ogasawara"
+        ],
+        [
+            "http://dbpedia.org/resource/ZTE_Arena",
+            "http://dbpedia.org/resource/Hungary_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Keiji_Tamada"
+        ],
+        [
+            "http://dbpedia.org/resource/Generali_Arena",
+            "http://dbpedia.org/resource/Czech_Republic_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Tatsuhiko_Kubo"
+        ],
+        [
+            "http://dbpedia.org/resource/City_of_Manchester_Stadium",
+            "http://dbpedia.org/resource/Iceland_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Tatsuhiko_Kubo"
+        ],
+        [
+            "http://dbpedia.org/resource/City_of_Manchester_Stadium",
+            "http://dbpedia.org/resource/England_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Shinji_Ono"
+        ]
+    ]
+}

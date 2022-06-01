@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Bears",
+            "http://dbpedia.org/resource/Soldier_Field",
+            "http://dbpedia.org/resource/Fox_NFL"
+        ],
+        [
+            "http://dbpedia.org/resource/Indianapolis_Colts",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Orleans_Saints",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/Fox_NFL"
+        ],
+        [
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Lambeau_Field",
+            "http://dbpedia.org/resource/Fox_NFL"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_Lions",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/Fox_NFL"
+        ]
+    ]
+}

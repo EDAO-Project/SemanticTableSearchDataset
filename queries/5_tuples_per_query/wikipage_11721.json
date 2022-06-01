@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ain",
+            "http://dbpedia.org/resource/Belley",
+            "http://dbpedia.org/resource/Arrondissement_of_Belley"
+        ],
+        [
+            "http://dbpedia.org/resource/Ain",
+            "http://dbpedia.org/resource/Bourg-en-Bresse",
+            "http://dbpedia.org/resource/Arrondissement_of_Bourg-en-Bresse"
+        ],
+        [
+            "http://dbpedia.org/resource/Ain",
+            "http://dbpedia.org/resource/Gex,_Ain",
+            "http://dbpedia.org/resource/Arrondissement_of_Gex"
+        ],
+        [
+            "http://dbpedia.org/resource/Ain",
+            "http://dbpedia.org/resource/Nantua",
+            "http://dbpedia.org/resource/Arrondissement_of_Nantua"
+        ],
+        [
+            "http://dbpedia.org/resource/Aisne",
+            "http://dbpedia.org/resource/Laon",
+            "http://dbpedia.org/resource/Arrondissement_of_Laon"
+        ]
+    ]
+}

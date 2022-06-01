@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Washington_State_Route_8",
+            "http://dbpedia.org/resource/Elma,_Washington",
+            "http://dbpedia.org/resource/Olympia,_Washington",
+            "http://dbpedia.org/resource/U.S._Route_410"
+        ]
+    ]
+}

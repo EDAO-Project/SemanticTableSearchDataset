@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toyota_Land_Cruiser",
+            "http://dbpedia.org/resource/Toyota",
+            "http://dbpedia.org/resource/Police_car"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_IIHF_European_U18_Championship",
+            "http://dbpedia.org/resource/Soviet_Union_national_under-18_ice_hockey_team",
+            "http://dbpedia.org/resource/West_Germany"
+        ]
+    ]
+}

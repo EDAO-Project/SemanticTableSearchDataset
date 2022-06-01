@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BearCity_2:_The_Proposal",
+            "http://dbpedia.org/resource/Doug_Langway",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Call_Me_Kuchu",
+            "http://dbpedia.org/resource/Malika_Zouhali-Worrall",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Gayby",
+            "http://dbpedia.org/resource/Jonathan_Lisecki",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Keep_the_Lights_On",
+            "http://dbpedia.org/resource/Ira_Sachs",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurence_Anyways",
+            "http://dbpedia.org/resource/Xavier_Dolan",
+            "http://dbpedia.org/resource/Quebec"
+        ]
+    ]
+}

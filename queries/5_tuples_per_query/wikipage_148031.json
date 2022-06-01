@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Empire_Awards",
+            "http://dbpedia.org/resource/M._Night_Shyamalan",
+            "http://dbpedia.org/resource/The_Sixth_Sense"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Empire_Awards",
+            "http://dbpedia.org/resource/Ang_Lee",
+            "http://dbpedia.org/resource/Crouching_Tiger,_Hidden_Dragon"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Empire_Awards",
+            "http://dbpedia.org/resource/Cameron_Crowe",
+            "http://dbpedia.org/resource/Almost_Famous"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Empire_Awards",
+            "http://dbpedia.org/resource/Peter_Jackson",
+            "http://dbpedia.org/resource/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Empire_Awards",
+            "http://dbpedia.org/resource/Steven_Spielberg",
+            "http://dbpedia.org/resource/A.I._Artificial_Intelligence"
+        ]
+    ]
+}

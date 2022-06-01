@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alise-Sainte-Reine",
+            "http://dbpedia.org/resource/Ampilly-le-Sec",
+            "http://dbpedia.org/resource/Ampilly-les-Bordes"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellenod-sur-Seine",
+            "http://dbpedia.org/resource/Beneuvre",
+            "http://dbpedia.org/resource/Benoisey"
+        ]
+    ]
+}

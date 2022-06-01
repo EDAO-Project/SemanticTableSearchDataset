@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kaarinan_Pojat",
+            "http://dbpedia.org/resource/Kaarina",
+            "http://dbpedia.org/resource/SPL_Turun_piiri",
+            "http://dbpedia.org/resource/Kaarinan_Pojat",
+            "http://dbpedia.org/resource/Kolmonen"
+        ],
+        [
+            "http://dbpedia.org/resource/Kajaanin_Haka",
+            "http://dbpedia.org/resource/Kajaani",
+            "http://dbpedia.org/resource/SPL_Pohjois-Suomen_piiri",
+            "http://dbpedia.org/resource/Kajaanin_Haka",
+            "http://dbpedia.org/resource/Kolmonen"
+        ]
+    ]
+}

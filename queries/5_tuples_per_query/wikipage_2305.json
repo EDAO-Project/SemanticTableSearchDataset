@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_in_film",
+            "http://dbpedia.org/resource/Knife_in_the_Water",
+            "http://dbpedia.org/resource/Roman_Polanski"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_in_film",
+            "http://dbpedia.org/resource/Everything_for_Sale",
+            "http://dbpedia.org/resource/Andrzej_Wajda"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_in_film",
+            "http://dbpedia.org/resource/Salt_of_the_Black_Earth",
+            "http://dbpedia.org/resource/Kazimierz_Kutz"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_in_film",
+            "http://dbpedia.org/resource/Pearl_in_the_Crown",
+            "http://dbpedia.org/resource/Kazimierz_Kutz"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_in_film",
+            "http://dbpedia.org/resource/Nights_and_Days",
+            "http://dbpedia.org/resource/Jerzy_Antczak"
+        ]
+    ]
+}

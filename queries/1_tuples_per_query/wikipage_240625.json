@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bruce_Barclay",
+            "http://dbpedia.org/resource/New_Zealand_Labour_Party",
+            "http://dbpedia.org/resource/Christchurch_Central"
+        ]
+    ]
+}

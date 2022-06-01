@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tamahara_Dam",
+            "http://dbpedia.org/resource/Embankment_dam",
+            "http://dbpedia.org/resource/Gunma_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Turlough_Hill",
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/County_Wicklow"
+        ],
+        [
+            "http://dbpedia.org/resource/Dinorwig_Power_Station",
+            "http://dbpedia.org/resource/Snowdonia",
+            "http://dbpedia.org/resource/Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Solana_Generating_Station",
+            "http://dbpedia.org/resource/Gila_Bend,_Arizona",
+            "http://dbpedia.org/resource/Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Olivenhain_Dam",
+            "http://dbpedia.org/resource/Lake_Hodges",
+            "http://dbpedia.org/resource/Escondido,_California"
+        ]
+    ]
+}

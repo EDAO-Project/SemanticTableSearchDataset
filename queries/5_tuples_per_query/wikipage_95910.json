@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Montgomerie",
+            "http://dbpedia.org/resource/Nottinghamshire_County_Cricket_Club",
+            "http://dbpedia.org/resource/Trent_Bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoff_Cook",
+            "http://dbpedia.org/resource/Gloucestershire_County_Cricket_Club",
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Northampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Wayne_Larkins",
+            "http://dbpedia.org/resource/Worcestershire_County_Cricket_Club",
+            "http://dbpedia.org/resource/Wardown_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Sales",
+            "http://dbpedia.org/resource/Yorkshire_County_Cricket_Club",
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Northampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Allan_Lamb",
+            "http://dbpedia.org/resource/Leicestershire_County_Cricket_Club",
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Northampton"
+        ]
+    ]
+}

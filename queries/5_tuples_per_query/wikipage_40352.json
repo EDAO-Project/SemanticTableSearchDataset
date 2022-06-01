@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4_Wheel_Thunder",
+            "http://dbpedia.org/resource/2001_in_video_gaming",
+            "http://dbpedia.org/resource/Kalisto_Entertainment",
+            "http://dbpedia.org/resource/Midway_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/4x4_Evolution",
+            "http://dbpedia.org/resource/2000_in_video_gaming",
+            "http://dbpedia.org/resource/Terminal_Reality",
+            "http://dbpedia.org/resource/Gathering_of_Developers"
+        ],
+        [
+            "http://dbpedia.org/resource/18_Wheeler:_American_Pro_Trucker",
+            "http://dbpedia.org/resource/2001_in_video_gaming",
+            "http://dbpedia.org/resource/Sega_AM2",
+            "http://dbpedia.org/resource/Sega"
+        ],
+        [
+            "http://dbpedia.org/resource/102_Dalmatians:_Puppies_to_the_Rescue",
+            "http://dbpedia.org/resource/2000_in_video_gaming",
+            "http://dbpedia.org/resource/Crystal_Dynamics",
+            "http://dbpedia.org/resource/Eidos_Interactive"
+        ],
+        [
+            "http://dbpedia.org/resource/Alien_Front_Online",
+            "http://dbpedia.org/resource/2001_in_video_gaming",
+            "http://dbpedia.org/resource/Sega_Wow",
+            "http://dbpedia.org/resource/Sega"
+        ]
+    ]
+}

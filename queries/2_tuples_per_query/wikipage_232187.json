@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Don_Bradman",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/South_Africa_national_cricket_team",
+            "http://dbpedia.org/resource/Melbourne_Cricket_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Lara",
+            "http://dbpedia.org/resource/West_Indies_cricket_team",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/Kensington_Oval"
+        ]
+    ]
+}

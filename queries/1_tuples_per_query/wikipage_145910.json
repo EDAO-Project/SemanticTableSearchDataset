@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prague",
+            "http://dbpedia.org/resource/Czech_Republic",
+            "http://dbpedia.org/resource/Strahov_Stadium"
+        ]
+    ]
+}

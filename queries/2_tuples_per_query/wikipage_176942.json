@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1981_Chicago_Bears_season",
+            "http://dbpedia.org/resource/Leslie_Frazier",
+            "http://dbpedia.org/resource/Cornerback",
+            "http://dbpedia.org/resource/Alcorn_State_Braves_and_Lady_Braves",
+            "http://dbpedia.org/resource/Southwestern_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/Angelo_King",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/South_Carolina_State_Bulldogs_and_Lady_Bulldogs",
+            "http://dbpedia.org/resource/Mid-Eastern_Athletic_Conference"
+        ]
+    ]
+}

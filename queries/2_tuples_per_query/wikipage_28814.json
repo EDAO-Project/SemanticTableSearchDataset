@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Elena_Mikhailovskaya",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Elena_Mikhailovskaya",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ]
+    ]
+}

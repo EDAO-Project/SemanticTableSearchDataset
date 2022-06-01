@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yilan_City",
+            "http://dbpedia.org/resource/County-controlled_city",
+            "http://dbpedia.org/resource/Yilan_County,_Taiwan"
+        ]
+    ]
+}

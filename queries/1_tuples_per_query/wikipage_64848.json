@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aalen_station",
+            "http://dbpedia.org/resource/Aalen",
+            "http://dbpedia.org/resource/Brenz_Railway"
+        ]
+    ]
+}

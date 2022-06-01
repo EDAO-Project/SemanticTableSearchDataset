@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Can-Am_Duel",
+            "http://dbpedia.org/resource/Daytona_International_Speedway",
+            "http://dbpedia.org/resource/Fireball_Roberts",
+            "http://dbpedia.org/resource/Cotton_Owens",
+            "http://dbpedia.org/resource/Fred_Lorenzen"
+        ]
+    ]
+}

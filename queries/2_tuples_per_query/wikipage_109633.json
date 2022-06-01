@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hexis_Racing",
+            "http://dbpedia.org/resource/Clivio_Piccione",
+            "http://dbpedia.org/resource/Aston_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitaphone_Racing",
+            "http://dbpedia.org/resource/Michael_Bartels",
+            "http://dbpedia.org/resource/Maserati"
+        ]
+    ]
+}

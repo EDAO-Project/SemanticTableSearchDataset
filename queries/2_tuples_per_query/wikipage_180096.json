@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1976_NFL_draft",
+            "http://dbpedia.org/resource/Gary_Barbaro",
+            "http://dbpedia.org/resource/Defensive_back",
+            "http://dbpedia.org/resource/Kansas_City_Chiefs"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_NFL_draft",
+            "http://dbpedia.org/resource/Dwight_Walker",
+            "http://dbpedia.org/resource/Wide_receiver",
+            "http://dbpedia.org/resource/Cleveland_Browns"
+        ]
+    ]
+}

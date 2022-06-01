@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darren_Allinson",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Welsh_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_Phibbs",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Australian_Rugby_Union"
+        ]
+    ]
+}

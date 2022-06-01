@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Luna_5",
+            "http://dbpedia.org/resource/Molniya-M",
+            "http://dbpedia.org/resource/Mare_Nubium"
+        ],
+        [
+            "http://dbpedia.org/resource/Luna_9",
+            "http://dbpedia.org/resource/Molniya-M",
+            "http://dbpedia.org/resource/Oceanus_Procellarum"
+        ],
+        [
+            "http://dbpedia.org/resource/Luna_13",
+            "http://dbpedia.org/resource/Molniya-M",
+            "http://dbpedia.org/resource/Oceanus_Procellarum"
+        ],
+        [
+            "http://dbpedia.org/resource/Luna_15",
+            "http://dbpedia.org/resource/Proton-K",
+            "http://dbpedia.org/resource/Apollo_11"
+        ],
+        [
+            "http://dbpedia.org/resource/Luna_16",
+            "http://dbpedia.org/resource/Proton-K",
+            "http://dbpedia.org/resource/Mare_Fecunditatis"
+        ]
+    ]
+}

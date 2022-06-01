@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aerosmith",
+            "http://dbpedia.org/resource/Apollonia_Kotero",
+            "http://dbpedia.org/resource/Appetite_for_Destruction"
+        ],
+        [
+            "http://dbpedia.org/resource/Cher",
+            "http://dbpedia.org/resource/Culture_Club",
+            "http://dbpedia.org/resource/Charmbracelet"
+        ],
+        [
+            "http://dbpedia.org/resource/Duran_Duran",
+            "http://dbpedia.org/resource/Devo",
+            "http://dbpedia.org/resource/Dookie"
+        ],
+        [
+            "http://dbpedia.org/resource/Eminem",
+            "http://dbpedia.org/resource/Erasure",
+            "http://dbpedia.org/resource/Elephunk"
+        ],
+        [
+            "http://dbpedia.org/resource/Foo_Fighters",
+            "http://dbpedia.org/resource/Fugees",
+            "http://dbpedia.org/resource/Fear_of_a_Black_Planet"
+        ]
+    ]
+}

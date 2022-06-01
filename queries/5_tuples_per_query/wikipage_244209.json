@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giuseppe_Campari",
+            "http://dbpedia.org/resource/Alfa_Corse",
+            "http://dbpedia.org/resource/Alfa_Romeo_8C"
+        ],
+        [
+            "http://dbpedia.org/resource/Tazio_Nuvolari",
+            "http://dbpedia.org/resource/Alfa_Corse",
+            "http://dbpedia.org/resource/Alfa_Romeo_8C"
+        ],
+        [
+            "http://dbpedia.org/resource/Ferdinando_Minoia",
+            "http://dbpedia.org/resource/Alfa_Corse",
+            "http://dbpedia.org/resource/Alfa_Romeo_8C"
+        ],
+        [
+            "http://dbpedia.org/resource/Baconin_Borzacchini",
+            "http://dbpedia.org/resource/Alfa_Corse",
+            "http://dbpedia.org/resource/Alfa_Romeo_8C"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_Divo",
+            "http://dbpedia.org/resource/Bugatti",
+            "http://dbpedia.org/resource/Bugatti_Type_51"
+        ]
+    ]
+}

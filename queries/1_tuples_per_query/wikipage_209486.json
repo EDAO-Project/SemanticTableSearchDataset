@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gmunden",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Gmunden_Tramway",
+            "http://dbpedia.org/resource/Tram"
+        ]
+    ]
+}

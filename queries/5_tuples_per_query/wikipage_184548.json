@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Rangel",
+            "http://dbpedia.org/resource/Incumbent",
+            "http://dbpedia.org/resource/113th_United_States_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Maxine_Waters",
+            "http://dbpedia.org/resource/Incumbent",
+            "http://dbpedia.org/resource/113th_United_States_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanford_Bishop",
+            "http://dbpedia.org/resource/Incumbent",
+            "http://dbpedia.org/resource/103rd_United_States_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanford_Bishop",
+            "http://dbpedia.org/resource/Incumbent",
+            "http://dbpedia.org/resource/113th_United_States_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Corrine_Brown",
+            "http://dbpedia.org/resource/Incumbent",
+            "http://dbpedia.org/resource/113th_United_States_Congress"
+        ]
+    ]
+}

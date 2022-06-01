@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greenland",
+            "http://dbpedia.org/resource/Igloo",
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Mortuary_Temple_of_Hatshepsut"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Leshan_Giant_Buddha",
+            "http://dbpedia.org/resource/Czech_Republic",
+            "http://dbpedia.org/resource/Sedlec_Ossuary"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carolina_Kostner",
+            "http://dbpedia.org/resource/Adelina_Sotnikova",
+            "http://dbpedia.org/resource/Elizaveta_Tuktamysheva"
+        ],
+        [
+            "http://dbpedia.org/resource/Mao_Asada",
+            "http://dbpedia.org/resource/Akiko_Suzuki",
+            "http://dbpedia.org/resource/Kanako_Murakami"
+        ]
+    ]
+}

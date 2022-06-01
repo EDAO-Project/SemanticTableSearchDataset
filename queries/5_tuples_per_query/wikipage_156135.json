@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Madjid_Bougherra"
+        ],
+        [
+            "http://dbpedia.org/resource/Belize",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Joy_Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Shih_Ming-teh"
+        ],
+        [
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Juan_Mayr"
+        ],
+        [
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Sujatha_Singh"
+        ]
+    ]
+}

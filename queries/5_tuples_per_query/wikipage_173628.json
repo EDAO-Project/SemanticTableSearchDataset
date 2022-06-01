@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arabic",
+            "http://dbpedia.org/resource/Phrase_structure_grammar",
+            "http://dbpedia.org/resource/Linguistic_Data_Consortium"
+        ],
+        [
+            "http://dbpedia.org/resource/Arabic",
+            "http://dbpedia.org/resource/Dependency_grammar",
+            "http://dbpedia.org/resource/Linguistic_Data_Consortium"
+        ],
+        [
+            "http://dbpedia.org/resource/Classical_Arabic",
+            "http://dbpedia.org/resource/Dependency_grammar",
+            "http://dbpedia.org/resource/GNU_General_Public_License"
+        ],
+        [
+            "http://dbpedia.org/resource/Chinese_language",
+            "http://dbpedia.org/resource/Phrase_structure_grammar",
+            "http://dbpedia.org/resource/Linguistic_Data_Consortium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chinese_language",
+            "http://dbpedia.org/resource/Dependency_grammar",
+            "http://dbpedia.org/resource/Linguistic_Data_Consortium"
+        ]
+    ]
+}

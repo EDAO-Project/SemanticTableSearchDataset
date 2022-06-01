@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guangxi",
+            "http://dbpedia.org/resource/Nanning",
+            "http://dbpedia.org/resource/Yongning_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Guangxi",
+            "http://dbpedia.org/resource/Laibin",
+            "http://dbpedia.org/resource/Xingbin_District"
+        ]
+    ]
+}

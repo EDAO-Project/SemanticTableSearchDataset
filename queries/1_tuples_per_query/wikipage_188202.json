@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pac-Land",
+            "http://dbpedia.org/resource/Namco",
+            "http://dbpedia.org/resource/Platform_game"
+        ]
+    ]
+}

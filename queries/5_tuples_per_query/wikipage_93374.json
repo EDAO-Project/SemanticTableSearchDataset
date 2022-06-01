@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1956_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Willie_Mays",
+            "http://dbpedia.org/resource/San_Francisco_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Willie_Mays",
+            "http://dbpedia.org/resource/San_Francisco_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Hank_Aaron",
+            "http://dbpedia.org/resource/Atlanta_Braves"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Bobby_Bonds",
+            "http://dbpedia.org/resource/San_Francisco_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Tommy_Harper",
+            "http://dbpedia.org/resource/Milwaukee_Brewers"
+        ]
+    ]
+}

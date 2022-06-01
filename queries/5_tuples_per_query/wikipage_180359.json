@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pancrazio_De_Pasquale",
+            "http://dbpedia.org/resource/Italian_Communist_Party",
+            "http://dbpedia.org/resource/Communist_and_Allies_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Guido_Fanti",
+            "http://dbpedia.org/resource/Italian_Communist_Party",
+            "http://dbpedia.org/resource/Communist_and_Allies_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlo_Alberto_Galluzzi",
+            "http://dbpedia.org/resource/Italian_Communist_Party",
+            "http://dbpedia.org/resource/Communist_and_Allies_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Francesca_Marinaro",
+            "http://dbpedia.org/resource/Italian_Communist_Party",
+            "http://dbpedia.org/resource/Communist_and_Allies_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberto_Moravia",
+            "http://dbpedia.org/resource/Italian_Communist_Party",
+            "http://dbpedia.org/resource/Communist_and_Allies_Group"
+        ]
+    ]
+}

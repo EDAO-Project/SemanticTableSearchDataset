@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tiger_Jeet_Singh",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Inoki",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Riki_Choshu",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Tatsumi_Fujinami",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Dos_Caras",
+            "http://dbpedia.org/resource/Naucalpan",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

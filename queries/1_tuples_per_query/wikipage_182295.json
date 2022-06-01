@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_North,_Lord_North",
+            "http://dbpedia.org/resource/George_North,_3rd_Earl_of_Guilford",
+            "http://dbpedia.org/resource/Earl_of_Guilford"
+        ]
+    ]
+}

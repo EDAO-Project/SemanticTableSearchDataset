@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newmarket_Bus_Terminal",
+            "http://dbpedia.org/resource/Newmarket,_Ontario",
+            "http://dbpedia.org/resource/GO_Transit"
+        ]
+    ]
+}

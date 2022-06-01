@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Genesee_Generating_Station",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Warburg,_Alberta",
+            "http://dbpedia.org/resource/Capital_Power_Corporation"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Superman:_Doomsday",
+            "http://dbpedia.org/resource/Bruce_Timm",
+            "http://dbpedia.org/resource/Warner_Bros._Animation"
+        ]
+    ]
+}

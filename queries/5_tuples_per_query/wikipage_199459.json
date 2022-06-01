@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Borough_of_Newcastle-under-Lyme",
+            "http://dbpedia.org/resource/Borough_status_in_the_United_Kingdom",
+            "http://dbpedia.org/resource/Staffordshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Amber_Valley",
+            "http://dbpedia.org/resource/Borough_status_in_the_United_Kingdom",
+            "http://dbpedia.org/resource/Derbyshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Borough_of_Waverley",
+            "http://dbpedia.org/resource/Borough_status_in_the_United_Kingdom",
+            "http://dbpedia.org/resource/Surrey"
+        ],
+        [
+            "http://dbpedia.org/resource/Tonbridge_and_Malling",
+            "http://dbpedia.org/resource/Borough_status_in_the_United_Kingdom",
+            "http://dbpedia.org/resource/Kent"
+        ],
+        [
+            "http://dbpedia.org/resource/Borough_of_Havant",
+            "http://dbpedia.org/resource/Borough_status_in_the_United_Kingdom",
+            "http://dbpedia.org/resource/Hampshire"
+        ]
+    ]
+}

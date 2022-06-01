@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acton_Court",
+            "http://dbpedia.org/resource/Iron_Acton",
+            "http://dbpedia.org/resource/South_Gloucestershire",
+            "http://dbpedia.org/resource/Tudor_architecture"
+        ]
+    ]
+}

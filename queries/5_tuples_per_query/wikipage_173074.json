@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santiago",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Chinese_Taipei",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Linz",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Russia"
+        ]
+    ]
+}

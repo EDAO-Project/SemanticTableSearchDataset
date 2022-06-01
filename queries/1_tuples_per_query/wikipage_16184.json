@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/99th_Grey_Cup",
+            "http://dbpedia.org/resource/Wally_Buono",
+            "http://dbpedia.org/resource/BC_Lions",
+            "http://dbpedia.org/resource/Winnipeg_Blue_Bombers",
+            "http://dbpedia.org/resource/Vancouver"
+        ]
+    ]
+}

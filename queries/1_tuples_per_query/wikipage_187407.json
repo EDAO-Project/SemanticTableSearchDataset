@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chamique_Holdsclaw",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Washington_Mystics",
+            "http://dbpedia.org/resource/University_of_Tennessee"
+        ]
+    ]
+}

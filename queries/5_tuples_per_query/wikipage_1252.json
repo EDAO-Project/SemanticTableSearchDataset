@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_in_sports",
+            "http://dbpedia.org/resource/Derek_Graham",
+            "http://dbpedia.org/resource/Belfast"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_in_sports",
+            "http://dbpedia.org/resource/Ron_Hill",
+            "http://dbpedia.org/resource/Freckleton"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_in_sports",
+            "http://dbpedia.org/resource/Kirk_Pfeffer",
+            "http://dbpedia.org/resource/Las_Vegas_Valley"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_in_sports",
+            "http://dbpedia.org/resource/Michael_Musyoki",
+            "http://dbpedia.org/resource/Philadelphia"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_in_sports",
+            "http://dbpedia.org/resource/Paul_Cummings",
+            "http://dbpedia.org/resource/Dayton,_Ohio"
+        ]
+    ]
+}

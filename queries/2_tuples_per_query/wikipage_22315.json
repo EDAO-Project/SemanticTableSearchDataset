@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oregon_Route_99W",
+            "http://dbpedia.org/resource/Oregon_Route_99",
+            "http://dbpedia.org/resource/Oregon_Route_99E",
+            "http://dbpedia.org/resource/Interstate_5_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Day_Highway",
+            "http://dbpedia.org/resource/Oregon_Route_19",
+            "http://dbpedia.org/resource/Interstate_84_in_Oregon",
+            "http://dbpedia.org/resource/U.S._Route_26_in_Oregon"
+        ]
+    ]
+}

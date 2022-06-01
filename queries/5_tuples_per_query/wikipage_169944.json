@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/University_of_Minnesota"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Bakersfield,_California",
+            "http://dbpedia.org/resource/Bakersfield_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Del_Mar,_California",
+            "http://dbpedia.org/resource/Torrey_Pines_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Maple_Valley,_Washington",
+            "http://dbpedia.org/resource/Tahoma_Senior_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Sun_Valley,_Los_Angeles",
+            "http://dbpedia.org/resource/Village_Christian_Schools"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederico_Paredes",
+            "http://dbpedia.org/resource/1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Fencing_at_the_1928_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Domingos_de_Sousa",
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Equestrian_at_the_1936_Summer_Olympics"
+        ]
+    ]
+}

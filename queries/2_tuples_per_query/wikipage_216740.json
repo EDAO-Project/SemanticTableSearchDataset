@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FIBA_Saporta_Cup",
+            "http://dbpedia.org/resource/Faidon_Matthaiou",
+            "http://dbpedia.org/resource/Steve_Giatzoglou"
+        ],
+        [
+            "http://dbpedia.org/resource/Euroleague",
+            "http://dbpedia.org/resource/Giannis_Ioannidis",
+            "http://dbpedia.org/resource/David_Rivers"
+        ]
+    ]
+}

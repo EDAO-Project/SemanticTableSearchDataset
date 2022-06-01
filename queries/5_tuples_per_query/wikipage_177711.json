@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Luis_Valley_Regional_Medical_Center",
+            "http://dbpedia.org/resource/Alamosa_County,_Colorado",
+            "http://dbpedia.org/resource/Alamosa,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Medical_Center_of_Aurora",
+            "http://dbpedia.org/resource/Arapahoe_County,_Colorado",
+            "http://dbpedia.org/resource/Aurora,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/Boulder_Community_Hospital",
+            "http://dbpedia.org/resource/Boulder_County,_Colorado",
+            "http://dbpedia.org/resource/Boulder,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/Penrose_Hospital",
+            "http://dbpedia.org/resource/El_Paso_County,_Colorado",
+            "http://dbpedia.org/resource/Colorado_Springs,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/Memorial_Hermann_Southwest_Hospital",
+            "http://dbpedia.org/resource/Montezuma_County,_Colorado",
+            "http://dbpedia.org/resource/Cortez,_Colorado"
+        ]
+    ]
+}

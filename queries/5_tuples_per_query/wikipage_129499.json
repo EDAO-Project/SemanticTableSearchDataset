@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ita_Buttrose",
+            "http://dbpedia.org/resource/Robyn_Butler",
+            "http://dbpedia.org/resource/Rob_Mills"
+        ],
+        [
+            "http://dbpedia.org/resource/Judith_McGrath",
+            "http://dbpedia.org/resource/Todd_Woodbridge",
+            "http://dbpedia.org/resource/Channel_V_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Noni_Hazlehurst",
+            "http://dbpedia.org/resource/Rebecca_De_Unamuno",
+            "http://dbpedia.org/resource/So_You_Think_You_Can_Dance_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Stilson",
+            "http://dbpedia.org/resource/Andrew_Gaze",
+            "http://dbpedia.org/resource/Brooke_McClymont"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Blackman",
+            "http://dbpedia.org/resource/Kate_Langbroek",
+            "http://dbpedia.org/resource/Sophie_Monk"
+        ]
+    ]
+}

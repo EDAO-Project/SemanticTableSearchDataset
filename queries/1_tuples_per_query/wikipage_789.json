@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buffalo_Bills",
+            "http://dbpedia.org/resource/Ralph_Wilson_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wadmalaw_Island",
+            "http://dbpedia.org/resource/South_Carolina",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Waglan_Island",
+            "http://dbpedia.org/resource/Po_Toi_Islands",
+            "http://dbpedia.org/resource/China"
+        ]
+    ]
+}

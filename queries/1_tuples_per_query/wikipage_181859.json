@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bowling_Green_Falcons",
+            "http://dbpedia.org/resource/Nevada_Wolf_Pack",
+            "http://dbpedia.org/resource/1992_Las_Vegas_Bowl"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Jose_Earthquakes",
+            "http://dbpedia.org/resource/Shea_Salinas",
+            "http://dbpedia.org/resource/Furman_University"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Red_Bulls",
+            "http://dbpedia.org/resource/Eric_Brunner",
+            "http://dbpedia.org/resource/Ohio_State_University"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Croke_Park",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/2009_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Lansdowne_Road",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/2003_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Lansdowne_Road",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/2001_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_de_France",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/2000_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Lansdowne_Road",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/1983_Five_Nations_Championship"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fabian_Cancellara",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Trek_Factory_Racing",
+            "http://dbpedia.org/resource/2012_Tour_de_France,_Stage_11_to_Stage_20"
+        ]
+    ]
+}

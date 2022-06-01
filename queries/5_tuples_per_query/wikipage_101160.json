@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._helicopter_armament_subsystems",
+            "http://dbpedia.org/resource/Bell_47",
+            "http://dbpedia.org/resource/M1919_Browning_machine_gun"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._helicopter_armament_subsystems",
+            "http://dbpedia.org/resource/Bell_47",
+            "http://dbpedia.org/resource/M60_machine_gun"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._helicopter_armament_subsystems",
+            "http://dbpedia.org/resource/Bell_UH-1_Iroquois",
+            "http://dbpedia.org/resource/Folding-Fin_Aerial_Rocket"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._helicopter_armament_subsystems",
+            "http://dbpedia.org/resource/Sikorsky_H-34",
+            "http://dbpedia.org/resource/Folding-Fin_Aerial_Rocket"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._helicopter_armament_subsystems",
+            "http://dbpedia.org/resource/Bell_UH-1_Iroquois",
+            "http://dbpedia.org/resource/M75_grenade_launcher"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_Jefferson",
+            "http://dbpedia.org/resource/Uremia",
+            "http://dbpedia.org/resource/Charlottesville,_Virginia",
+            "http://dbpedia.org/resource/Monticello"
+        ]
+    ]
+}

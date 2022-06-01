@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rochester_Red_Wings",
+            "http://dbpedia.org/resource/International_League",
+            "http://dbpedia.org/resource/Harry_Walker"
+        ],
+        [
+            "http://dbpedia.org/resource/Minor_League_Baseball",
+            "http://dbpedia.org/resource/Omaha_Cardinals",
+            "http://dbpedia.org/resource/George_Kissell"
+        ]
+    ]
+}

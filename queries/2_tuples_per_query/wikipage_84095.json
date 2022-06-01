@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Ivet_Lalova",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/2011_European_Team_Championships",
+            "http://dbpedia.org/resource/Novi_Sad"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Yelyzaveta_Bryzhina",
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/2010_European_Team_Championships",
+            "http://dbpedia.org/resource/Bergen"
+        ]
+    ]
+}

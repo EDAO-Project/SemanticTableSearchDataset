@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_in_baseball",
+            "http://dbpedia.org/resource/Dave_Magadan",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Alabama_Crimson_Tide_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_in_baseball",
+            "http://dbpedia.org/resource/Oddibe_McDowell",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_in_baseball",
+            "http://dbpedia.org/resource/Pete_Incaviglia",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Oklahoma_State_Cowboys_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_in_baseball",
+            "http://dbpedia.org/resource/Casey_Close",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Michigan_Wolverines_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_in_baseball",
+            "http://dbpedia.org/resource/Robin_Ventura",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Oklahoma_State_Cowboys_baseball"
+        ]
+    ]
+}

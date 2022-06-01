@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fanling_Environmental_Resource_Centre",
+            "http://dbpedia.org/resource/Fanling",
+            "http://dbpedia.org/resource/Environmental_Protection_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Flagstaff_House",
+            "http://dbpedia.org/resource/Hong_Kong_Park",
+            "http://dbpedia.org/resource/Leisure_and_Cultural_Services_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong_Film_Archive",
+            "http://dbpedia.org/resource/Sai_Wan_Ho",
+            "http://dbpedia.org/resource/Leisure_and_Cultural_Services_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong_Heritage_Discovery_Centre",
+            "http://dbpedia.org/resource/Kowloon_Park",
+            "http://dbpedia.org/resource/Leisure_and_Cultural_Services_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong_Heritage_Museum",
+            "http://dbpedia.org/resource/Sha_Tin",
+            "http://dbpedia.org/resource/Leisure_and_Cultural_Services_Department"
+        ]
+    ]
+}

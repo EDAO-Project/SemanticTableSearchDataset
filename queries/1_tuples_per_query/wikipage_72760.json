@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1887_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Ed_Daily",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/Polo_Grounds"
+        ]
+    ]
+}

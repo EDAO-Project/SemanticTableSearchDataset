@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Herma_Bauma",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Herma_Bauma",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Nadezhda_Konyayeva",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Saint_Petersburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Nadezhda_Konyayeva",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Kiev"
+        ],
+        [
+            "http://dbpedia.org/resource/Nadezhda_Konyayeva",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Kiev"
+        ]
+    ]
+}

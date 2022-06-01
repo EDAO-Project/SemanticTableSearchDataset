@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patsy_Mink",
+            "http://dbpedia.org/resource/Democratic_Party_of_Hawaii",
+            "http://dbpedia.org/resource/93rd_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1972"
+        ]
+    ]
+}

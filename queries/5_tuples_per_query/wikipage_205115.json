@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carroll_Shelby_International",
+            "http://dbpedia.org/resource/Dan_Gurney",
+            "http://dbpedia.org/resource/Ford_GT40",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_Healey_Motor_Company",
+            "http://dbpedia.org/resource/Paddy_Hopkirk",
+            "http://dbpedia.org/resource/Austin-Healey_Sprite",
+            "http://dbpedia.org/resource/British_Motor_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Lorenzo_Bandini",
+            "http://dbpedia.org/resource/Ferrari_P",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Scuderia_Filipinetti",
+            "http://dbpedia.org/resource/Willy_Mairesse",
+            "http://dbpedia.org/resource/Ferrari_365",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/North_American_Racing_Team",
+            "http://dbpedia.org/resource/Richie_Ginther",
+            "http://dbpedia.org/resource/Ferrari_P",
+            "http://dbpedia.org/resource/Ferrari"
+        ]
+    ]
+}

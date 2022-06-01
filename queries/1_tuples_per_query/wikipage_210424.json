@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia",
+            "http://dbpedia.org/resource/Czech_Republic"
+        ]
+    ]
+}

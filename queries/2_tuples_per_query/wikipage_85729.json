@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Army_Forces_Command",
+            "http://dbpedia.org/resource/Daniel_B._Allyn",
+            "http://dbpedia.org/resource/Fort_Bragg"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Army_Training_and_Doctrine_Command",
+            "http://dbpedia.org/resource/Robert_W._Cone",
+            "http://dbpedia.org/resource/Fort_Eustis"
+        ]
+    ]
+}

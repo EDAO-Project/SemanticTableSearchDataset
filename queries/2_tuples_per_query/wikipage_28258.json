@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bammy",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Cassava"
+        ],
+        [
+            "http://dbpedia.org/resource/Bara_brith",
+            "http://dbpedia.org/resource/Wales",
+            "http://dbpedia.org/resource/Raisin"
+        ]
+    ]
+}

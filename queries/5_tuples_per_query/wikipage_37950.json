@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1959_in_film",
+            "http://dbpedia.org/resource/The_Village_on_the_River",
+            "http://dbpedia.org/resource/Dutch_language",
+            "http://dbpedia.org/resource/Fons_Rademakers"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_in_film",
+            "http://dbpedia.org/resource/Like_Two_Drops_of_Water",
+            "http://dbpedia.org/resource/Dutch_language",
+            "http://dbpedia.org/resource/Fons_Rademakers"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_in_film",
+            "http://dbpedia.org/resource/The_Human_Dutch",
+            "http://dbpedia.org/resource/Dutch_language",
+            "http://dbpedia.org/resource/Bert_Haanstra"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_in_film",
+            "http://dbpedia.org/resource/Help!_The_Doctor_Is_Drowning",
+            "http://dbpedia.org/resource/Dutch_language",
+            "http://dbpedia.org/resource/Nikolai_van_der_Heyde"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_in_film",
+            "http://dbpedia.org/resource/Dokter_Pulder_zaait_papavers",
+            "http://dbpedia.org/resource/Dutch_language",
+            "http://dbpedia.org/resource/Bert_Haanstra"
+        ]
+    ]
+}

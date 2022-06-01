@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberdeenshire",
+            "http://dbpedia.org/resource/Grampian",
+            "http://dbpedia.org/resource/Aberdeen"
+        ],
+        [
+            "http://dbpedia.org/resource/Argyll",
+            "http://dbpedia.org/resource/Strathclyde",
+            "http://dbpedia.org/resource/Argyll_and_Bute"
+        ],
+        [
+            "http://dbpedia.org/resource/Ayrshire",
+            "http://dbpedia.org/resource/Strathclyde",
+            "http://dbpedia.org/resource/Cunninghame"
+        ],
+        [
+            "http://dbpedia.org/resource/Dumfriesshire",
+            "http://dbpedia.org/resource/Dumfries_and_Galloway",
+            "http://dbpedia.org/resource/Nithsdale"
+        ],
+        [
+            "http://dbpedia.org/resource/Dunbartonshire",
+            "http://dbpedia.org/resource/Strathclyde",
+            "http://dbpedia.org/resource/Dumbarton"
+        ]
+    ]
+}

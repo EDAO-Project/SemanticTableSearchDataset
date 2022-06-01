@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert,_Somme",
+            "http://dbpedia.org/resource/Allaines",
+            "http://dbpedia.org/resource/Assevillers"
+        ],
+        [
+            "http://dbpedia.org/resource/Athies,_Somme",
+            "http://dbpedia.org/resource/Auchonvillers",
+            "http://dbpedia.org/resource/Authuille"
+        ]
+    ]
+}

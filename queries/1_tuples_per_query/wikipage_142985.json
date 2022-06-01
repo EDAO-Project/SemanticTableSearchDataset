@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rochester,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Main_Street_Armory"
+        ]
+    ]
+}

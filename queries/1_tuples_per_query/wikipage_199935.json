@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_90",
+            "http://dbpedia.org/resource/Aurora,_Cayuga_County,_New_York",
+            "http://dbpedia.org/resource/Alexander_Jackson_Davis"
+        ]
+    ]
+}

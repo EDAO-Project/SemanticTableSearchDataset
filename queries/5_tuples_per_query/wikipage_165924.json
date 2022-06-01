@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fabian_Cancellara",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Trek_Factory_Racing",
+            "http://dbpedia.org/resource/2012_Tour_de_France,_Stage_11_to_Stage_20"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Gallopin",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Trek_Factory_Racing",
+            "http://dbpedia.org/resource/2012_Tour_de_France,_Stage_11_to_Stage_20"
+        ],
+        [
+            "http://dbpedia.org/resource/Giovanni_Bernaudeau",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Team_Europcar",
+            "http://dbpedia.org/resource/2012_Tour_de_France,_Stage_11_to_Stage_20"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikel_Astarloza",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Euskaltel-Euskadi",
+            "http://dbpedia.org/resource/2012_Tour_de_France,_Prologue_to_Stage_10"
+        ],
+        [
+            "http://dbpedia.org/resource/Amets_Txurruka",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Euskaltel-Euskadi",
+            "http://dbpedia.org/resource/2012_Tour_de_France,_Prologue_to_Stage_10"
+        ]
+    ]
+}

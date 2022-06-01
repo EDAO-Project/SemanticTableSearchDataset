@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Ancona_1905",
+            "http://dbpedia.org/resource/Ancona",
+            "http://dbpedia.org/resource/Stadio_del_Conero"
+        ],
+        [
+            "http://dbpedia.org/resource/F.C._Crotone",
+            "http://dbpedia.org/resource/Crotone",
+            "http://dbpedia.org/resource/Stadio_Ezio_Scida"
+        ]
+    ]
+}

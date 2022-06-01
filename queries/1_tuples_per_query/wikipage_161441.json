@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Az_obsitos",
+            "http://dbpedia.org/resource/Sigmund_Romberg",
+            "http://dbpedia.org/resource/Lee_Shubert"
+        ]
+    ]
+}

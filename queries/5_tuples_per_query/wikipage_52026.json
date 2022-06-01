@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sophia_Aggelonitis",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party",
+            "http://dbpedia.org/resource/Hamilton_Mountain"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Gerretsen",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party",
+            "http://dbpedia.org/resource/Kingston_and_the_Islands"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Milloy",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party",
+            "http://dbpedia.org/resource/Kitchener_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Runciman",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+            "http://dbpedia.org/resource/Senate_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Deb_Matthews",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party",
+            "http://dbpedia.org/resource/London_North_Centre"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cousin_Cousine",
+            "http://dbpedia.org/resource/Jean-Charles_Tacchella",
+            "http://dbpedia.org/resource/Marie-Christine_Barrault"
+        ],
+        [
+            "http://dbpedia.org/resource/Flic_Story",
+            "http://dbpedia.org/resource/Jacques_Deray",
+            "http://dbpedia.org/resource/Alain_Delon"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Genius,_Two_Partners_and_a_Dupe",
+            "http://dbpedia.org/resource/Damiano_Damiani",
+            "http://dbpedia.org/resource/Miou-Miou"
+        ],
+        [
+            "http://dbpedia.org/resource/India_Song",
+            "http://dbpedia.org/resource/Marguerite_Duras",
+            "http://dbpedia.org/resource/Delphine_Seyrig"
+        ],
+        [
+            "http://dbpedia.org/resource/Innocents_with_Dirty_Hands",
+            "http://dbpedia.org/resource/Claude_Chabrol",
+            "http://dbpedia.org/resource/Rod_Steiger"
+        ]
+    ]
+}

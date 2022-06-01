@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Quad_City_Steamwheelers",
+            "http://dbpedia.org/resource/Alabama_Vipers",
+            "http://dbpedia.org/resource/Moline,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Quad_City_Steamwheelers",
+            "http://dbpedia.org/resource/Richmond_Speed",
+            "http://dbpedia.org/resource/Moline,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Peoria_Pirates",
+            "http://dbpedia.org/resource/Florida_Firecats",
+            "http://dbpedia.org/resource/Peoria,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio_Talons",
+            "http://dbpedia.org/resource/Macon_Knights",
+            "http://dbpedia.org/resource/Tulsa,_Oklahoma"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Firecats",
+            "http://dbpedia.org/resource/Peoria_Pirates",
+            "http://dbpedia.org/resource/Estero,_Florida"
+        ]
+    ]
+}

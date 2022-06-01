@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_in_literature",
+            "http://dbpedia.org/resource/Nicola_Griffith",
+            "http://dbpedia.org/resource/Bending_the_Landscape",
+            "http://dbpedia.org/resource/The_Overlook_Press"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_film",
+            "http://dbpedia.org/resource/Bill_Condon",
+            "http://dbpedia.org/resource/Gods_and_Monsters",
+            "http://dbpedia.org/resource/Lions_Gate_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_film",
+            "http://dbpedia.org/resource/Trey_Parker",
+            "http://dbpedia.org/resource/South_Park:_Bigger,_Longer_&_Uncut",
+            "http://dbpedia.org/resource/Paramount_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_comics",
+            "http://dbpedia.org/resource/Peter_David",
+            "http://dbpedia.org/resource/Supergirl",
+            "http://dbpedia.org/resource/DC_Comics"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_television",
+            "http://dbpedia.org/resource/Joss_Whedon",
+            "http://dbpedia.org/resource/Buffy_the_Vampire_Slayer",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ]
+    ]
+}

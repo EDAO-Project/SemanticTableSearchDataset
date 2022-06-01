@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1930_in_aviation",
+            "http://dbpedia.org/resource/Charles_W._Holman",
+            "http://dbpedia.org/resource/Laird_Solution"
+        ],
+        [
+            "http://dbpedia.org/resource/1931_in_aviation",
+            "http://dbpedia.org/resource/Lowell_Bayles",
+            "http://dbpedia.org/resource/Gee_Bee_Model_Z"
+        ],
+        [
+            "http://dbpedia.org/resource/1932_in_aviation",
+            "http://dbpedia.org/resource/Jimmy_Doolittle",
+            "http://dbpedia.org/resource/Gee_Bee_Model_R"
+        ],
+        [
+            "http://dbpedia.org/resource/1934_in_aviation",
+            "http://dbpedia.org/resource/Roscoe_Turner",
+            "http://dbpedia.org/resource/Wedell-Williams_Model_44"
+        ],
+        [
+            "http://dbpedia.org/resource/1946_in_aviation",
+            "http://dbpedia.org/resource/Alvin_M._Johnston",
+            "http://dbpedia.org/resource/Bell_P-39_Airacobra"
+        ]
+    ]
+}

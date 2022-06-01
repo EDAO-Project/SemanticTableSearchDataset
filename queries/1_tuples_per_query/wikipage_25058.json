@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Altamont_Corridor_Express",
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/California"
+        ]
+    ]
+}

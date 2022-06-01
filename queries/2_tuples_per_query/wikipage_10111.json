@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antigonish,_Nova_Scotia",
+            "http://dbpedia.org/resource/CIHF-DT",
+            "http://dbpedia.org/resource/Global_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Antigonish,_Nova_Scotia",
+            "http://dbpedia.org/resource/CJCB-TV",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ]
+    ]
+}

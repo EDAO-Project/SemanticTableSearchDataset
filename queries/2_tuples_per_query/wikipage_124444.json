@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Parramatta_Eels",
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Jerome_Ropati",
+            "http://dbpedia.org/resource/James_Maloney"
+        ],
+        [
+            "http://dbpedia.org/resource/Wests_Tigers",
+            "http://dbpedia.org/resource/Leichhardt_Oval",
+            "http://dbpedia.org/resource/Simon_Mannering",
+            "http://dbpedia.org/resource/Brett_Seymour"
+        ]
+    ]
+}

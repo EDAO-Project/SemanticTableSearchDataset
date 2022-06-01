@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CKBA-FM",
+            "http://dbpedia.org/resource/Athabasca,_Alberta",
+            "http://dbpedia.org/resource/Newcap_Radio",
+            "http://dbpedia.org/resource/Classic_hits"
+        ],
+        [
+            "http://dbpedia.org/resource/CKRY-FM",
+            "http://dbpedia.org/resource/Banff,_Alberta",
+            "http://dbpedia.org/resource/Corus_Entertainment",
+            "http://dbpedia.org/resource/Country_music"
+        ]
+    ]
+}

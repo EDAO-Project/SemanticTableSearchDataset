@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin",
+            "http://dbpedia.org/resource/Frank_Erwin_Center",
+            "http://dbpedia.org/resource/Austin,_Texas",
+            "http://dbpedia.org/resource/Texas"
+        ]
+    ]
+}

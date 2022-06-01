@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/M-Wave",
+            "http://dbpedia.org/resource/1998_Winter_Olympics",
+            "http://dbpedia.org/resource/Speed_skating_at_the_1998_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Minami-ku,_Sapporo",
+            "http://dbpedia.org/resource/1972_Winter_Olympics",
+            "http://dbpedia.org/resource/Biathlon_at_the_1972_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Minami-ku,_Sapporo",
+            "http://dbpedia.org/resource/1972_Winter_Olympics",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_1972_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Makomanai_Ice_Arena",
+            "http://dbpedia.org/resource/1972_Winter_Olympics",
+            "http://dbpedia.org/resource/Figure_skating_at_the_1972_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Makomanai_Open_Stadium",
+            "http://dbpedia.org/resource/1972_Winter_Olympics",
+            "http://dbpedia.org/resource/Speed_skating_at_the_1972_Winter_Olympics"
+        ]
+    ]
+}

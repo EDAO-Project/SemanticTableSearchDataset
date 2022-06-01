@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kristin_Otto",
+            "http://dbpedia.org/resource/Yang_Wenyi",
+            "http://dbpedia.org/resource/Jill_Sterkel"
+        ],
+        [
+            "http://dbpedia.org/resource/Kristin_Otto",
+            "http://dbpedia.org/resource/Yang_Wenyi",
+            "http://dbpedia.org/resource/Katrin_Meissner"
+        ]
+    ]
+}

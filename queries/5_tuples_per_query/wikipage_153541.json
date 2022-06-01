@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Verona",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Verona_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Verona",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Verona_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburg",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Millerntor-Stadion"
+        ],
+        [
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/St._Jakob_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Ahoy_Rotterdam"
+        ]
+    ]
+}

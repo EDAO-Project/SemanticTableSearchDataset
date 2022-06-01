@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pa_Bong",
+            "http://dbpedia.org/resource/Saraphi_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Pa_Daet_Subdistrict",
+            "http://dbpedia.org/resource/Pa_Daet_District",
+            "http://dbpedia.org/resource/Chiang_Rai_Province"
+        ]
+    ]
+}

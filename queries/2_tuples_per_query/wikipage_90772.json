@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bridlington_Priory",
+            "http://dbpedia.org/resource/Bridlington",
+            "http://dbpedia.org/resource/George_Gilbert_Scott"
+        ],
+        [
+            "http://dbpedia.org/resource/Furness_Abbey_Hotel",
+            "http://dbpedia.org/resource/Barrow-in-Furness",
+            "http://dbpedia.org/resource/Manor_house"
+        ]
+    ]
+}

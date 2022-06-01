@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afraid_to_Die",
+            "http://dbpedia.org/resource/Yasuzo_Masumura",
+            "http://dbpedia.org/resource/Eiji_Funakoshi"
+        ],
+        [
+            "http://dbpedia.org/resource/Les_Bonnes_Femmes",
+            "http://dbpedia.org/resource/Claude_Chabrol",
+            "http://dbpedia.org/resource/Bernadette_Lafont"
+        ]
+    ]
+}

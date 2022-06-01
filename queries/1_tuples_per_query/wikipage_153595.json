@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/Oslo",
+            "http://dbpedia.org/resource/Manizha_Bakhtari"
+        ]
+    ]
+}

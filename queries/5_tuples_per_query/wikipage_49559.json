@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Biel-Bienne",
+            "http://dbpedia.org/resource/Biel/Bienne",
+            "http://dbpedia.org/resource/Gurzelen_Stadion"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Concordia_Basel",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Stadion_Rankhof"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Lausanne-Sport",
+            "http://dbpedia.org/resource/Lausanne",
+            "http://dbpedia.org/resource/Stade_olympique_de_la_Pontaise"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Locarno",
+            "http://dbpedia.org/resource/Locarno",
+            "http://dbpedia.org/resource/Stadio_del_Lido"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Lugano",
+            "http://dbpedia.org/resource/Lugano",
+            "http://dbpedia.org/resource/Cornaredo_Stadium"
+        ]
+    ]
+}

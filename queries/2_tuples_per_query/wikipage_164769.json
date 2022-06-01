@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/New_Zealand_national_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Wanderers_Stadium",
+            "http://dbpedia.org/resource/Johannesburg",
+            "http://dbpedia.org/resource/South_Africa_national_cricket_team"
+        ]
+    ]
+}

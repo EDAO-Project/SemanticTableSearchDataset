@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bercenay-le-Hayer",
+            "http://dbpedia.org/resource/Bessy",
+            "http://dbpedia.org/resource/Boulages"
+        ],
+        [
+            "http://dbpedia.org/resource/Bourdenay",
+            "http://dbpedia.org/resource/Bouy-sur-Orvin",
+            "http://dbpedia.org/resource/Champfleury,_Aube"
+        ]
+    ]
+}

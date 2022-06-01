@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_James",
+            "http://dbpedia.org/resource/New_College,_Oxford",
+            "http://dbpedia.org/resource/Worshipful_Company_of_Stationers_and_Newspaper_Makers"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Rouse",
+            "http://dbpedia.org/resource/Balliol_College,_Oxford",
+            "http://dbpedia.org/resource/English_Civil_War"
+        ]
+    ]
+}

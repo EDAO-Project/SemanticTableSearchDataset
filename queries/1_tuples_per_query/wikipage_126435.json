@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Shelby",
+            "http://dbpedia.org/resource/Methodism",
+            "http://dbpedia.org/resource/Alabama_Senate",
+            "http://dbpedia.org/resource/University_of_Alabama"
+        ]
+    ]
+}

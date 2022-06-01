@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kaftanzoglio_Stadium",
+            "http://dbpedia.org/resource/2004_Summer_Olympics",
+            "http://dbpedia.org/resource/Football_at_the_2004_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Kallithea",
+            "http://dbpedia.org/resource/1896_Summer_Olympics",
+            "http://dbpedia.org/resource/Shooting_at_the_1896_Summer_Olympics"
+        ]
+    ]
+}

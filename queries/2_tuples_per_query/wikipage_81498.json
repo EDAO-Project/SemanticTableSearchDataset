@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thach,_Alabama",
+            "http://dbpedia.org/resource/Limestone_County,_Alabama",
+            "http://dbpedia.org/resource/Interstate_65"
+        ],
+        [
+            "http://dbpedia.org/resource/Grant,_Alabama",
+            "http://dbpedia.org/resource/Marshall_County,_Alabama",
+            "http://dbpedia.org/resource/Guntersville_Lake"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Mobile,_Alabama",
+            "http://dbpedia.org/resource/RSA_Battle_House_Tower"
+        ]
+    ]
+}

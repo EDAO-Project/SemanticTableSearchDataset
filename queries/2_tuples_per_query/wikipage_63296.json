@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rick_Manning",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Niagara_Falls,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Larry_Christenson",
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/Marysville,_Washington"
+        ]
+    ]
+}

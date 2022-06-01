@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_2",
+            "http://dbpedia.org/resource/Interstate_87",
+            "http://dbpedia.org/resource/Massachusetts_Route_2",
+            "http://dbpedia.org/resource/U.S._Route_11_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_7",
+            "http://dbpedia.org/resource/Pennsylvania_Route_29",
+            "http://dbpedia.org/resource/Vermont_Route_9",
+            "http://dbpedia.org/resource/New_York_State_Route_43"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_8",
+            "http://dbpedia.org/resource/New_York_State_Route_10",
+            "http://dbpedia.org/resource/New_York_State_Route_9N",
+            "http://dbpedia.org/resource/New_York_State_Route_284"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_15",
+            "http://dbpedia.org/resource/Interstate_390",
+            "http://dbpedia.org/resource/New_York_State_Route_31",
+            "http://dbpedia.org/resource/New_York_State_Route_96"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_19",
+            "http://dbpedia.org/resource/Pennsylvania_Route_449",
+            "http://dbpedia.org/resource/Lake_Ontario_State_Parkway",
+            "http://dbpedia.org/resource/New_York_State_Route_28"
+        ]
+    ]
+}

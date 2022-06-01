@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elouise_P._Cobell",
+            "http://dbpedia.org/resource/Blackfeet_Indian_Reservation",
+            "http://dbpedia.org/resource/Ranch"
+        ],
+        [
+            "http://dbpedia.org/resource/Plenty_Coups",
+            "http://dbpedia.org/resource/Billings,_Montana",
+            "http://dbpedia.org/resource/Tribal_chief"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Horse_Capture",
+            "http://dbpedia.org/resource/Butte,_Montana",
+            "http://dbpedia.org/resource/Anthropologist"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_Joseph",
+            "http://dbpedia.org/resource/Nez_Perce_War",
+            "http://dbpedia.org/resource/Tribal_chief"
+        ],
+        [
+            "http://dbpedia.org/resource/Denise_Juneau",
+            "http://dbpedia.org/resource/Billings,_Montana",
+            "http://dbpedia.org/resource/Montana_Office_of_Public_Instruction"
+        ]
+    ]
+}

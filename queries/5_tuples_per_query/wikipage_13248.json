@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Felipe_Alou",
+            "http://dbpedia.org/resource/Dominican_Republic",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Matty_Alou",
+            "http://dbpedia.org/resource/Dominican_Republic",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Luis_Aparicio",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/Shortstop"
+        ],
+        [
+            "http://dbpedia.org/resource/Bert_Campaneris",
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Shortstop"
+        ],
+        [
+            "http://dbpedia.org/resource/Rod_Carew",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/First_baseman"
+        ]
+    ]
+}

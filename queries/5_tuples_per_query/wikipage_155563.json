@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Goa_Velha",
+            "http://dbpedia.org/resource/Goa",
+            "http://dbpedia.org/resource/Basilica_of_Bom_Jesus",
+            "http://dbpedia.org/resource/Latin_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Mumbai",
+            "http://dbpedia.org/resource/Maharashtra",
+            "http://dbpedia.org/resource/Mount_Mary_Church,_Bandra",
+            "http://dbpedia.org/resource/Latin_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai",
+            "http://dbpedia.org/resource/Tamil_Nadu",
+            "http://dbpedia.org/resource/San_Thome_Basilica",
+            "http://dbpedia.org/resource/Latin_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Sardhana",
+            "http://dbpedia.org/resource/Uttar_Pradesh",
+            "http://dbpedia.org/resource/Basilica_of_Our_Lady_of_Graces",
+            "http://dbpedia.org/resource/Latin_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Velankanni",
+            "http://dbpedia.org/resource/Tamil_Nadu",
+            "http://dbpedia.org/resource/Basilica_of_Our_Lady_of_Good_Health",
+            "http://dbpedia.org/resource/Latin_Church"
+        ]
+    ]
+}

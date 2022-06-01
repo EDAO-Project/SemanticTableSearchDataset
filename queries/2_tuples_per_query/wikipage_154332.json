@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia_at_the_2012_Winter_Youth_Olympics",
+            "http://dbpedia.org/resource/Greta_Small",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_2012_Winter_Youth_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany_at_the_2012_Winter_Youth_Olympics",
+            "http://dbpedia.org/resource/Katharina_Althaus",
+            "http://dbpedia.org/resource/Ski_jumping_at_the_2012_Winter_Youth_Olympics"
+        ]
+    ]
+}

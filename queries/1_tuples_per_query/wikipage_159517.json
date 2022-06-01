@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Helsinki_Roosters",
+            "http://dbpedia.org/resource/Amsterdam_Crusaders"
+        ]
+    ]
+}

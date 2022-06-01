@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amar_Prem",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Anand_Bakshi",
+            "http://dbpedia.org/resource/Kishore_Kumar"
+        ],
+        [
+            "http://dbpedia.org/resource/Amar_Prem",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Anand_Bakshi",
+            "http://dbpedia.org/resource/Kishore_Kumar"
+        ],
+        [
+            "http://dbpedia.org/resource/Kal_Aaj_Aur_Kal",
+            "http://dbpedia.org/resource/Shankar_Jaikishan",
+            "http://dbpedia.org/resource/Gopaldas_Neeraj",
+            "http://dbpedia.org/resource/Asha_Bhosle"
+        ],
+        [
+            "http://dbpedia.org/resource/Aankhon_Aankhon_Mein",
+            "http://dbpedia.org/resource/Shankar_Jaikishan",
+            "http://dbpedia.org/resource/Hasrat_Jaipuri",
+            "http://dbpedia.org/resource/Kishore_Kumar"
+        ],
+        [
+            "http://dbpedia.org/resource/Raampur_Ka_Lakshman",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Majrooh_Sultanpuri",
+            "http://dbpedia.org/resource/Kishore_Kumar"
+        ]
+    ]
+}

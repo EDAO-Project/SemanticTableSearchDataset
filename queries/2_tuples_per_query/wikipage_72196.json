@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Owen",
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Oliver_Kahn",
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Le_Mans_Series",
+            "http://dbpedia.org/resource/2005_Monterey_Sports_Car_Championships",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Lucas_Luhr"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Le_Mans_Series",
+            "http://dbpedia.org/resource/2006_American_Le_Mans_at_Mid-Ohio",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Timo_Bernhard"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Le_Mans_Series",
+            "http://dbpedia.org/resource/2006_New_England_Grand_Prix",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Timo_Bernhard"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Le_Mans_Series",
+            "http://dbpedia.org/resource/2006_Utah_Grand_Prix",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Lucas_Luhr"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Le_Mans_Series",
+            "http://dbpedia.org/resource/2006_Road_America_500",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Sascha_Maassen"
+        ]
+    ]
+}

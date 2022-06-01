@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_USA_2011",
+            "http://dbpedia.org/resource/Katie_Blair",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Miss_Montana_Teen_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_USA_2011",
+            "http://dbpedia.org/resource/Alyssa_Campanella",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Miss_New_Jersey_Teen_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_USA_2009",
+            "http://dbpedia.org/resource/Tami_Farrell",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Miss_Oregon_Teen_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_USA_2009",
+            "http://dbpedia.org/resource/Carrie_Prejean",
+            "http://dbpedia.org/resource/San_Diego",
+            "http://dbpedia.org/resource/Miss_USA_2009_same-sex_marriage_controversy"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_USA_2005",
+            "http://dbpedia.org/resource/Brittany_Hogan",
+            "http://dbpedia.org/resource/Escondido,_California",
+            "http://dbpedia.org/resource/Fear_Factor"
+        ]
+    ]
+}

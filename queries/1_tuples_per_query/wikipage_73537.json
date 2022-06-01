@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Mike_Adamson",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Point_Loma_High_School"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Bartlett",
+            "http://dbpedia.org/resource/86th_United_States_Congress",
+            "http://dbpedia.org/resource/86th_United_States_Congress",
+            "http://dbpedia.org/resource/86th_United_States_Congress",
+            "http://dbpedia.org/resource/Ernest_Gruening"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Bartlett",
+            "http://dbpedia.org/resource/87th_United_States_Congress",
+            "http://dbpedia.org/resource/87th_United_States_Congress",
+            "http://dbpedia.org/resource/87th_United_States_Congress",
+            "http://dbpedia.org/resource/Ernest_Gruening"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Screen_Actors_Guild_Awards",
+            "http://dbpedia.org/resource/Jason_Alexander",
+            "http://dbpedia.org/resource/Seinfeld",
+            "http://dbpedia.org/resource/George_Costanza"
+        ]
+    ]
+}

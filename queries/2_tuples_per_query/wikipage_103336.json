@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_I_Do_Is_Think_of_You",
+            "http://dbpedia.org/resource/Moving_Violation",
+            "http://dbpedia.org/resource/Eddie_Holland"
+        ],
+        [
+            "http://dbpedia.org/resource/Dancing_Machine",
+            "http://dbpedia.org/resource/G.I.T.:_Get_It_Together",
+            "http://dbpedia.org/resource/Hal_Davis"
+        ]
+    ]
+}

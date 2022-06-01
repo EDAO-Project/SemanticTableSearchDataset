@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peshtigo_Fire",
+            "http://dbpedia.org/resource/Wisconsin",
+            "http://dbpedia.org/resource/Great_Chicago_Fire"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Michigan_Fire",
+            "http://dbpedia.org/resource/Michigan",
+            "http://dbpedia.org/resource/Great_Chicago_Fire"
+        ],
+        [
+            "http://dbpedia.org/resource/Matheson_Fire",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Cochrane,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Fire_of_1922",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Timiskaming_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Laguna_Fire",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Marble_Cone_Fire"
+        ]
+    ]
+}

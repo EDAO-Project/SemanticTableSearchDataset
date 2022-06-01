@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joseph_Horner_Fletcher",
+            "http://dbpedia.org/resource/Kingswood_School",
+            "http://dbpedia.org/resource/Wesley_College,_Auckland"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Kelynack",
+            "http://dbpedia.org/resource/Penzance",
+            "http://dbpedia.org/resource/Methodism"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Egan_Moulton",
+            "http://dbpedia.org/resource/Kingswood_School",
+            "http://dbpedia.org/resource/Tupou_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Prescott",
+            "http://dbpedia.org/resource/Kingswood_School",
+            "http://dbpedia.org/resource/MLC_School"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Egan_Moulton",
+            "http://dbpedia.org/resource/Kingswood_School",
+            "http://dbpedia.org/resource/Tupou_College"
+        ]
+    ]
+}

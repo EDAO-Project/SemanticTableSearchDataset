@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chattahoochee_River",
+            "http://dbpedia.org/resource/Chattahoochee_River",
+            "http://dbpedia.org/resource/Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Quitman_County,_Georgia",
+            "http://dbpedia.org/resource/Georgetown,_Quitman_County,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Randolph_County,_Georgia",
+            "http://dbpedia.org/resource/Cuthbert,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Randolph_County,_Georgia",
+            "http://dbpedia.org/resource/Cuthbert,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Randolph_County,_Georgia",
+            "http://dbpedia.org/resource/Shellman,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Terrell_County,_Georgia",
+            "http://dbpedia.org/resource/Dawson,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Terrell_County,_Georgia",
+            "http://dbpedia.org/resource/Dawson,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Dougherty_County,_Georgia",
+            "http://dbpedia.org/resource/Albany,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Dougherty_County,_Georgia",
+            "http://dbpedia.org/resource/Albany,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Dougherty_County,_Georgia",
+            "http://dbpedia.org/resource/Albany,_Georgia"
+        ]
+    ]
+}

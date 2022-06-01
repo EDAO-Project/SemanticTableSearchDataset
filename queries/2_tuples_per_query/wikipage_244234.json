@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_of_Cook",
+            "http://dbpedia.org/resource/Don_Dobie",
+            "http://dbpedia.org/resource/Ray_Thorburn"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Darling_Downs",
+            "http://dbpedia.org/resource/Reginald_Swartz",
+            "http://dbpedia.org/resource/Tom_McVeigh"
+        ]
+    ]
+}

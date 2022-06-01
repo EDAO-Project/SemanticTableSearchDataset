@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Postal_codes_in_Algeria",
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/ISO_3166-2:DZ"
+        ]
+    ]
+}

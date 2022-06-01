@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Davidson_College",
+            "http://dbpedia.org/resource/Lefty_Driesell",
+            "http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill",
+            "http://dbpedia.org/resource/Dean_Smith",
+            "http://dbpedia.org/resource/Drake_University"
+        ]
+    ]
+}

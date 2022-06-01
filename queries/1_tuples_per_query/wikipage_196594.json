@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/18_Wheels_of_Steel",
+            "http://dbpedia.org/resource/SCS_Software",
+            "http://dbpedia.org/resource/Cosmi_Corporation",
+            "http://dbpedia.org/resource/Vehicle_simulation_game",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ]
+    ]
+}

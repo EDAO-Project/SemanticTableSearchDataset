@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eyvind_Johnson",
+            "http://dbpedia.org/resource/The_Days_of_His_Grace",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Johan_Borgen",
+            "http://dbpedia.org/resource/Nye_noveller",
+            "http://dbpedia.org/resource/Norway"
+        ]
+    ]
+}

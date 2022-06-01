@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thach,_Alabama",
+            "http://dbpedia.org/resource/Limestone_County,_Alabama",
+            "http://dbpedia.org/resource/Interstate_65"
+        ],
+        [
+            "http://dbpedia.org/resource/Grant,_Alabama",
+            "http://dbpedia.org/resource/Marshall_County,_Alabama",
+            "http://dbpedia.org/resource/Guntersville_Lake"
+        ],
+        [
+            "http://dbpedia.org/resource/Phenix_City,_Alabama",
+            "http://dbpedia.org/resource/Russell_County,_Alabama",
+            "http://dbpedia.org/resource/Dragstrip"
+        ],
+        [
+            "http://dbpedia.org/resource/Waverly,_Tennessee",
+            "http://dbpedia.org/resource/Humphreys_County,_Tennessee",
+            "http://dbpedia.org/resource/Kentucky_Lake"
+        ],
+        [
+            "http://dbpedia.org/resource/Murfreesboro,_Tennessee",
+            "http://dbpedia.org/resource/Rutherford_County,_Tennessee",
+            "http://dbpedia.org/resource/April_2009_tornado_outbreak"
+        ]
+    ]
+}

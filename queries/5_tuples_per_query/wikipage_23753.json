@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Octopus_card",
+            "http://dbpedia.org/resource/Octopus_Cards_Limited"
+        ],
+        [
+            "http://dbpedia.org/resource/Macau",
+            "http://dbpedia.org/resource/Macau_Pass",
+            "http://dbpedia.org/resource/Transmac"
+        ],
+        [
+            "http://dbpedia.org/resource/Fukuoka_Prefecture",
+            "http://dbpedia.org/resource/Hayakaken",
+            "http://dbpedia.org/resource/Fukuoka_City_Subway"
+        ],
+        [
+            "http://dbpedia.org/resource/Fukuoka_Prefecture",
+            "http://dbpedia.org/resource/Nimoca",
+            "http://dbpedia.org/resource/Nishi-Nippon_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Fukuoka_Prefecture",
+            "http://dbpedia.org/resource/SUGOCA",
+            "http://dbpedia.org/resource/Kyushu_Railway_Company"
+        ]
+    ]
+}

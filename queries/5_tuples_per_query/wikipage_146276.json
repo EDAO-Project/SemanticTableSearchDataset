@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arrancourt",
+            "http://dbpedia.org/resource/Authon-la-Plaine",
+            "http://dbpedia.org/resource/Auvers-Saint-Georges"
+        ],
+        [
+            "http://dbpedia.org/resource/Baulne",
+            "http://dbpedia.org/resource/Blandy,_Essonne",
+            "http://dbpedia.org/resource/Bois-Herpin"
+        ],
+        [
+            "http://dbpedia.org/resource/Boissy-sous-Saint-Yon",
+            "http://dbpedia.org/resource/Bouray-sur-Juine",
+            "http://dbpedia.org/resource/Boutervilliers"
+        ],
+        [
+            "http://dbpedia.org/resource/Boutigny-sur-Essonne",
+            "http://dbpedia.org/resource/Bouville,_Essonne",
+            "http://dbpedia.org/resource/Breuillet,_Essonne"
+        ],
+        [
+            "http://dbpedia.org/resource/Cerny,_Essonne",
+            "http://dbpedia.org/resource/Chalo-Saint-Mars",
+            "http://dbpedia.org/resource/Chalou-Moulineux"
+        ]
+    ]
+}

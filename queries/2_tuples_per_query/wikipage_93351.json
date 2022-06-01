@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dicotyledon",
+            "http://dbpedia.org/resource/Monocotyledon",
+            "http://dbpedia.org/resource/Flowering_plant"
+        ],
+        [
+            "http://dbpedia.org/resource/Reptile",
+            "http://dbpedia.org/resource/Mammal",
+            "http://dbpedia.org/resource/Amniote"
+        ]
+    ]
+}

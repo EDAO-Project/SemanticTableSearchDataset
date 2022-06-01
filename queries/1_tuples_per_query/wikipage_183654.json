@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Coosa_County,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Talladega-Sylacauga,_AL_Micropolitan_Statistical_Area",
+            "http://dbpedia.org/resource/Birmingham,_Alabama,_metropolitan_area"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Codex_Beratinus",
+            "http://dbpedia.org/resource/Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Vienna_Dioscurides",
+            "http://dbpedia.org/resource/Austrian_National_Library"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Plantin_Press",
+            "http://dbpedia.org/resource/Plantin-Moretus_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Carl_Linnaeus",
+            "http://dbpedia.org/resource/Copenhagen"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Malatestiana_Library",
+            "http://dbpedia.org/resource/Cesena"
+        ]
+    ]
+}

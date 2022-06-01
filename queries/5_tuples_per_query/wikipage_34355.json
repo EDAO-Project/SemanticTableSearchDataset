@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Karl-Heinz_Altermann",
+            "http://dbpedia.org/resource/Germans"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Heinz_Angelmaier",
+            "http://dbpedia.org/resource/Germans"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Erich_Axthammer",
+            "http://dbpedia.org/resource/Germans"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Karl-Ludwig_Barths",
+            "http://dbpedia.org/resource/Germans"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Joachim_Boosfeld",
+            "http://dbpedia.org/resource/Germans"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/FC_Barcelona_Handbol",
+            "http://dbpedia.org/resource/BM_Neptuno",
+            "http://dbpedia.org/resource/Xavier_Pascual"
+        ]
+    ]
+}

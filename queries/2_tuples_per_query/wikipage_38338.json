@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Neel_Jani"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Adam_Carroll"
+        ]
+    ]
+}

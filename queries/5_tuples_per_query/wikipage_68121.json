@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ACT_New_Zealand",
+            "http://dbpedia.org/resource/Don_Brash",
+            "http://dbpedia.org/resource/Party_lists_in_the_New_Zealand_general_election,_2011"
+        ],
+        [
+            "http://dbpedia.org/resource/Green_Party_of_Aotearoa_New_Zealand",
+            "http://dbpedia.org/resource/Russel_Norman",
+            "http://dbpedia.org/resource/Party_lists_in_the_New_Zealand_general_election,_2011"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_Labour_Party",
+            "http://dbpedia.org/resource/Phil_Goff",
+            "http://dbpedia.org/resource/Party_lists_in_the_New_Zealand_general_election,_2011"
+        ],
+        [
+            "http://dbpedia.org/resource/Mana_Movement",
+            "http://dbpedia.org/resource/Hone_Harawira",
+            "http://dbpedia.org/resource/Party_lists_in_the_New_Zealand_general_election,_2011"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_National_Party",
+            "http://dbpedia.org/resource/John_Key",
+            "http://dbpedia.org/resource/Party_lists_in_the_New_Zealand_general_election,_2011"
+        ]
+    ]
+}

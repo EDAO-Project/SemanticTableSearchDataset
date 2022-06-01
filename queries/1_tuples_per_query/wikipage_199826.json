@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/Davidson_County,_Tennessee",
+            "http://dbpedia.org/resource/Nashville,_Tennessee"
+        ]
+    ]
+}

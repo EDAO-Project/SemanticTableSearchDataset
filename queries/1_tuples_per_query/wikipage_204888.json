@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_NoZe_Brotherhood",
+            "http://dbpedia.org/resource/Baylor_University",
+            "http://dbpedia.org/resource/Waco,_Texas"
+        ]
+    ]
+}

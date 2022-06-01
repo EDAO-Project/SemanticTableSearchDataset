@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arvillers",
+            "http://dbpedia.org/resource/Assainvillers",
+            "http://dbpedia.org/resource/Aubercourt"
+        ],
+        [
+            "http://dbpedia.org/resource/Bayonvillers",
+            "http://dbpedia.org/resource/Beaucourt-en-Santerre",
+            "http://dbpedia.org/resource/Beaufort-en-Santerre"
+        ],
+        [
+            "http://dbpedia.org/resource/Biarre",
+            "http://dbpedia.org/resource/Billancourt",
+            "http://dbpedia.org/resource/Bouchoir"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouillancourt-la-Bataille",
+            "http://dbpedia.org/resource/Boussicourt",
+            "http://dbpedia.org/resource/Braches"
+        ],
+        [
+            "http://dbpedia.org/resource/Champien",
+            "http://dbpedia.org/resource/Chaussoy-Epagny",
+            "http://dbpedia.org/resource/Chilly,_Somme"
+        ]
+    ]
+}

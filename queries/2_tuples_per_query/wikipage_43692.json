@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dorfold_Hall",
+            "http://dbpedia.org/resource/Acton,_Cheshire",
+            "http://dbpedia.org/resource/Jacobean_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Adlington_Hall",
+            "http://dbpedia.org/resource/Adlington,_Cheshire",
+            "http://dbpedia.org/resource/Manor_house"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nail_Yakupov",
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Sarnia_Sting"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Murray",
+            "http://dbpedia.org/resource/Columbus_Blue_Jackets",
+            "http://dbpedia.org/resource/Everett_Silvertips"
+        ]
+    ]
+}

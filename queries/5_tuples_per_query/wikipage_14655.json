@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Paul_Quantrill",
+            "http://dbpedia.org/resource/Jason_Isringhausen",
+            "http://dbpedia.org/resource/Billy_Koch"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Mark_Mulder",
+            "http://dbpedia.org/resource/Esteban_Loaiza",
+            "http://dbpedia.org/resource/Jim_Mecir"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Tim_Hudson",
+            "http://dbpedia.org/resource/Chris_Michalak",
+            "http://dbpedia.org/resource/Jason_Isringhausen"
+        ],
+        [
+            "http://dbpedia.org/resource/Seattle_Mariners",
+            "http://dbpedia.org/resource/Jamie_Moyer",
+            "http://dbpedia.org/resource/Esteban_Loaiza",
+            "http://dbpedia.org/resource/Kazuhiro_Sasaki"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Scott_Schoeneweis",
+            "http://dbpedia.org/resource/Steve_Parris",
+            "http://dbpedia.org/resource/Troy_Percival"
+        ]
+    ]
+}

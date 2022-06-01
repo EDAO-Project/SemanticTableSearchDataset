@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blithfield_Reservoir",
+            "http://dbpedia.org/resource/Blithfield",
+            "http://dbpedia.org/resource/South_Staffordshire_Water"
+        ]
+    ]
+}

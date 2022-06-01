@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sukarno",
+            "http://dbpedia.org/resource/Indonesian_National_Party",
+            "http://dbpedia.org/resource/Mohammad_Hatta"
+        ]
+    ]
+}

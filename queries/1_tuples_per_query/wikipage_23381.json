@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Juan_Island_National_Historical_Park",
+            "http://dbpedia.org/resource/Friday_Harbor,_Washington",
+            "http://dbpedia.org/resource/San_Juan_County,_Washington",
+            "http://dbpedia.org/resource/Pig_War"
+        ]
+    ]
+}

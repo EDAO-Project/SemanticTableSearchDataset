@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_Rose_Bowl",
+            "http://dbpedia.org/resource/1997_Michigan_Wolverines_football_team",
+            "http://dbpedia.org/resource/1997_Washington_State_Cougars_football_team"
+        ]
+    ]
+}

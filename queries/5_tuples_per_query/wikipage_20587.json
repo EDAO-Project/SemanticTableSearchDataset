@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_California,_1950",
+            "http://dbpedia.org/resource/Sheridan_Downey",
+            "http://dbpedia.org/resource/Richard_Nixon"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Florida",
+            "http://dbpedia.org/resource/Claude_Pepper",
+            "http://dbpedia.org/resource/George_Smathers"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Idaho",
+            "http://dbpedia.org/resource/Glen_H._Taylor",
+            "http://dbpedia.org/resource/Herman_Welker"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Illinois",
+            "http://dbpedia.org/resource/Scott_W._Lucas",
+            "http://dbpedia.org/resource/Everett_Dirksen"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Maryland",
+            "http://dbpedia.org/resource/Millard_Tydings",
+            "http://dbpedia.org/resource/John_Butler"
+        ]
+    ]
+}

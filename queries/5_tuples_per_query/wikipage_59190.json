@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Andy_Benes",
+            "http://dbpedia.org/resource/Colorado_Rockies",
+            "http://dbpedia.org/resource/Chase_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Randy_Johnson",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Dodger_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Randy_Johnson",
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/Chase_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Randy_Johnson",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Dodger_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Randy_Johnson",
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Chase_Field"
+        ]
+    ]
+}

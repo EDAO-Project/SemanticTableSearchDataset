@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Audemus_jura_nostra_defendere",
+            "http://dbpedia.org/resource/Latin"
+        ],
+        [
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/History_of_Alaska",
+            "http://dbpedia.org/resource/English_language"
+        ]
+    ]
+}

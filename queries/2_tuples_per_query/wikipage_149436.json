@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Gold_Coast,_Queensland",
+            "http://dbpedia.org/resource/Gold_Coast_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Perth",
+            "http://dbpedia.org/resource/Perth_Airport"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/UFC_Fight_Night:_Machida_vs._Munoz",
+            "http://dbpedia.org/resource/Manchester_Arena",
+            "http://dbpedia.org/resource/Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/UFC_166",
+            "http://dbpedia.org/resource/Toyota_Center",
+            "http://dbpedia.org/resource/Houston"
+        ]
+    ]
+}

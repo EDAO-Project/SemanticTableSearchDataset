@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Space_Invaders",
+            "http://dbpedia.org/resource/Taito_Corporation",
+            "http://dbpedia.org/resource/Video_game_industry"
+        ],
+        [
+            "http://dbpedia.org/resource/Pac-Man",
+            "http://dbpedia.org/resource/Namco",
+            "http://dbpedia.org/resource/Mascot"
+        ],
+        [
+            "http://dbpedia.org/resource/Rally-X",
+            "http://dbpedia.org/resource/Namco",
+            "http://dbpedia.org/resource/Bonus_stage"
+        ],
+        [
+            "http://dbpedia.org/resource/Galaga",
+            "http://dbpedia.org/resource/Namco",
+            "http://dbpedia.org/resource/Galaxian"
+        ],
+        [
+            "http://dbpedia.org/resource/Ms._Pac-Man",
+            "http://dbpedia.org/resource/Midway_Games",
+            "http://dbpedia.org/resource/Counterfeit"
+        ]
+    ]
+}

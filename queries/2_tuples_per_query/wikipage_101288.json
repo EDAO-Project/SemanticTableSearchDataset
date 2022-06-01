@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Associated_Television",
+            "http://dbpedia.org/resource/Victoria_Palace_Theatre",
+            "http://dbpedia.org/resource/Jack_Hylton",
+            "http://dbpedia.org/resource/Max_Bygraves",
+            "http://dbpedia.org/resource/Elizabeth_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Associated_Television",
+            "http://dbpedia.org/resource/Prince_of_Wales_Theatre",
+            "http://dbpedia.org/resource/Bruce_Forsyth",
+            "http://dbpedia.org/resource/Acker_Bilk",
+            "http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother"
+        ]
+    ]
+}

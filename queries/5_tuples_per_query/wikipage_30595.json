@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/61st_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/Allison_Janney",
+            "http://dbpedia.org/resource/The_West_Wing"
+        ],
+        [
+            "http://dbpedia.org/resource/61st_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/Joely_Richardson",
+            "http://dbpedia.org/resource/Nip/Tuck"
+        ],
+        [
+            "http://dbpedia.org/resource/61st_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/Amber_Tamblyn",
+            "http://dbpedia.org/resource/Joan_of_Arcadia"
+        ],
+        [
+            "http://dbpedia.org/resource/62nd_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/Edie_Falco",
+            "http://dbpedia.org/resource/The_Sopranos"
+        ],
+        [
+            "http://dbpedia.org/resource/62nd_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/Joely_Richardson",
+            "http://dbpedia.org/resource/Nip/Tuck"
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Davis_Racing",
+            "http://dbpedia.org/resource/Dodge_Intrepid",
+            "http://dbpedia.org/resource/Scott_Wimmer",
+            "http://dbpedia.org/resource/Caterpillar",
+            "http://dbpedia.org/resource/Bill_Davis",
+            "http://dbpedia.org/resource/Frank_Stoddard"
+        ]
+    ]
+}

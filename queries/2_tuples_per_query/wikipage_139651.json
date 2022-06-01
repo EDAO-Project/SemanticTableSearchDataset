@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Televisa_Regional",
+            "http://dbpedia.org/resource/Televisa_Regional",
+            "http://dbpedia.org/resource/Acapulco"
+        ],
+        [
+            "http://dbpedia.org/resource/Azteca_7",
+            "http://dbpedia.org/resource/Azteca_7",
+            "http://dbpedia.org/resource/Acapulco"
+        ]
+    ]
+}

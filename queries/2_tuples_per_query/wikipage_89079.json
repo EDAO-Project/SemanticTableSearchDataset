@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indian_Institute_of_Technology_Bhubaneswar",
+            "http://dbpedia.org/resource/Bhubaneswar",
+            "http://dbpedia.org/resource/Odisha"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Institute_of_Technology_Bombay",
+            "http://dbpedia.org/resource/Mumbai",
+            "http://dbpedia.org/resource/Maharashtra"
+        ]
+    ]
+}

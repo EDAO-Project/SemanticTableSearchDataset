@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1937_NFL_draft",
+            "http://dbpedia.org/resource/Eddie_Jankowski",
+            "http://dbpedia.org/resource/History_of_American_football_positions",
+            "http://dbpedia.org/resource/Wisconsin_Badgers_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1938_NFL_draft",
+            "http://dbpedia.org/resource/Cecil_Isbell",
+            "http://dbpedia.org/resource/History_of_American_football_positions",
+            "http://dbpedia.org/resource/Purdue_Boilermakers_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1939_NFL_draft",
+            "http://dbpedia.org/resource/Larry_Buhler",
+            "http://dbpedia.org/resource/History_of_American_football_positions",
+            "http://dbpedia.org/resource/Minnesota_Golden_Gophers_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1945_NFL_draft",
+            "http://dbpedia.org/resource/Walt_Schlinkman",
+            "http://dbpedia.org/resource/History_of_American_football_positions",
+            "http://dbpedia.org/resource/Texas_Tech_Red_Raiders_and_Lady_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/1946_NFL_draft",
+            "http://dbpedia.org/resource/Johnny_Strzykalski",
+            "http://dbpedia.org/resource/History_of_American_football_positions",
+            "http://dbpedia.org/resource/Marquette_University"
+        ]
+    ]
+}

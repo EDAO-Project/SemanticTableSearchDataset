@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jaguar_Cars",
+            "http://dbpedia.org/resource/Jaguar_XJR-11",
+            "http://dbpedia.org/resource/Jaguar_XJR-12"
+        ],
+        [
+            "http://dbpedia.org/resource/Jaguar_Cars",
+            "http://dbpedia.org/resource/Jaguar_XJR-14",
+            "http://dbpedia.org/resource/Jaguar_XJR-12"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WNGY",
+            "http://dbpedia.org/resource/Morton,_Illinois",
+            "http://dbpedia.org/resource/Peoria,_Illinois",
+            "http://dbpedia.org/resource/Triad_Broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/WXCL",
+            "http://dbpedia.org/resource/Pekin,_Illinois",
+            "http://dbpedia.org/resource/Peoria,_Illinois",
+            "http://dbpedia.org/resource/Triad_Broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/WKOY-FM",
+            "http://dbpedia.org/resource/Princeton,_West_Virginia",
+            "http://dbpedia.org/resource/Bluefield,_West_Virginia",
+            "http://dbpedia.org/resource/Triad_Broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/WHKX",
+            "http://dbpedia.org/resource/Bluefield,_Virginia",
+            "http://dbpedia.org/resource/Bluefield,_West_Virginia",
+            "http://dbpedia.org/resource/Triad_Broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/WHQX",
+            "http://dbpedia.org/resource/Gary,_West_Virginia",
+            "http://dbpedia.org/resource/Bluefield,_West_Virginia",
+            "http://dbpedia.org/resource/Triad_Broadcasting"
+        ]
+    ]
+}

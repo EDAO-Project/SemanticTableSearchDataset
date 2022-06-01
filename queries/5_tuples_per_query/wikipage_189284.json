@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birger_Jarl",
+            "http://dbpedia.org/resource/Bengt_Erland_Fogelberg",
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Birger_Jarls_torg"
+        ],
+        [
+            "http://dbpedia.org/resource/Gustav_I_of_Sweden",
+            "http://dbpedia.org/resource/Bengt_Erland_Fogelberg",
+            "http://dbpedia.org/resource/Uppsala",
+            "http://dbpedia.org/resource/Uppsala_Castle"
+        ],
+        [
+            "http://dbpedia.org/resource/Gustav_I_of_Sweden",
+            "http://dbpedia.org/resource/Carl_Milles",
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Nordic_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/Gustav_I_of_Sweden",
+            "http://dbpedia.org/resource/Johan_Tobias_Sergel",
+            "http://dbpedia.org/resource/Kalmar",
+            "http://dbpedia.org/resource/Kalmar_Castle"
+        ],
+        [
+            "http://dbpedia.org/resource/Gustavus_Adolphus_of_Sweden",
+            "http://dbpedia.org/resource/Bengt_Erland_Fogelberg",
+            "http://dbpedia.org/resource/Bremen",
+            "http://dbpedia.org/resource/Bremen_Cathedral"
+        ]
+    ]
+}

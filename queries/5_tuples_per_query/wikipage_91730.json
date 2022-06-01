@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akron_Zips",
+            "http://dbpedia.org/resource/University_of_Akron",
+            "http://dbpedia.org/resource/Akron,_Ohio",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Bowling_Green_Falcons",
+            "http://dbpedia.org/resource/Bowling_Green_State_University",
+            "http://dbpedia.org/resource/Bowling_Green,_Ohio",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Bearcats",
+            "http://dbpedia.org/resource/University_of_Cincinnati",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/American_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland_State_Vikings",
+            "http://dbpedia.org/resource/Cleveland_State_University",
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/Horizon_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Dayton_Flyers",
+            "http://dbpedia.org/resource/University_of_Dayton",
+            "http://dbpedia.org/resource/Dayton,_Ohio",
+            "http://dbpedia.org/resource/Atlantic_10_Conference"
+        ]
+    ]
+}

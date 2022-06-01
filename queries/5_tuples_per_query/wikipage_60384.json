@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Helena_Rakoczy",
+            "http://dbpedia.org/resource/Gertrude_Kolar",
+            "http://dbpedia.org/resource/Alexandra_Lemoine"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Varna",
+            "http://dbpedia.org/resource/Olga_Korbut",
+            "http://dbpedia.org/resource/Ludmilla_Tourischeva",
+            "http://dbpedia.org/resource/Bozena_Perdykulova"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Maxi_Gnauck",
+            "http://dbpedia.org/resource/Stella_Zakharova",
+            "http://dbpedia.org/resource/Steffi_Kraker"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Yelena_Shushunova",
+            "http://dbpedia.org/resource/Ecaterina_Szabo",
+            "http://dbpedia.org/resource/Dagmar_Kersten"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Yelena_Shushunova",
+            "http://dbpedia.org/resource/Eugenia_Golea",
+            "http://dbpedia.org/resource/Aurelia_Dobre"
+        ]
+    ]
+}

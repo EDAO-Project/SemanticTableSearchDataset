@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russell_White",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Crespi_Carmelite_High_School",
+            "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        ],
+        [
+            "http://dbpedia.org/resource/Daylon_McCutcheon",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Bishop_Amat_Memorial_High_School",
+            "http://dbpedia.org/resource/University_of_Southern_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Claiborne",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/John_W._North_High_School",
+            "http://dbpedia.org/resource/University_of_Southern_California"
+        ],
+        [
+            "http://dbpedia.org/resource/DeShaun_Foster",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Tustin_High_School",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+        ],
+        [
+            "http://dbpedia.org/resource/Tyler_Ebell",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Ventura_High_School",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+        ]
+    ]
+}

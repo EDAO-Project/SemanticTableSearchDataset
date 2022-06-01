@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battle_of_Weihaiwei",
+            "http://dbpedia.org/resource/First_Sino-Japanese_War",
+            "http://dbpedia.org/resource/Imperial_Japanese_Navy",
+            "http://dbpedia.org/resource/Beiyang_Fleet"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Port_Arthur",
+            "http://dbpedia.org/resource/Russo-Japanese_War",
+            "http://dbpedia.org/resource/Imperial_Japanese_Navy",
+            "http://dbpedia.org/resource/Russian_Navy"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_the_Yellow_Sea",
+            "http://dbpedia.org/resource/Russo-Japanese_War",
+            "http://dbpedia.org/resource/Imperial_Japanese_Navy",
+            "http://dbpedia.org/resource/Russian_Navy"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Tsushima",
+            "http://dbpedia.org/resource/Russo-Japanese_War",
+            "http://dbpedia.org/resource/Imperial_Japanese_Navy",
+            "http://dbpedia.org/resource/Russian_Navy"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Elli",
+            "http://dbpedia.org/resource/First_Balkan_War",
+            "http://dbpedia.org/resource/Hellenic_Navy",
+            "http://dbpedia.org/resource/Ottoman_Navy"
+        ]
+    ]
+}

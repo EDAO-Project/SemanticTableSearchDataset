@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Courage_Under_Fire",
+            "http://dbpedia.org/resource/20th_Century_Fox",
+            "http://dbpedia.org/resource/Edward_Zwick",
+            "http://dbpedia.org/resource/Drama_film",
+            "http://dbpedia.org/resource/Live_action"
+        ]
+    ]
+}

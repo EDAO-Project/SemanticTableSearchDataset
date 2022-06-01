@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London_Borough_of_Wandsworth",
+            "http://dbpedia.org/resource/London_boroughs",
+            "http://dbpedia.org/resource/Greater_London"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Borough_of_Haringey",
+            "http://dbpedia.org/resource/London_boroughs",
+            "http://dbpedia.org/resource/Greater_London"
+        ]
+    ]
+}

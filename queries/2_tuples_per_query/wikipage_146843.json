@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avermes",
+            "http://dbpedia.org/resource/Bagneux,_Allier",
+            "http://dbpedia.org/resource/Barberier",
+            "http://dbpedia.org/resource/Bayet"
+        ],
+        [
+            "http://dbpedia.org/resource/Cesset",
+            "http://dbpedia.org/resource/Chantelle,_Allier",
+            "http://dbpedia.org/resource/Chapeau",
+            "http://dbpedia.org/resource/Chareil-Cintrat"
+        ]
+    ]
+}

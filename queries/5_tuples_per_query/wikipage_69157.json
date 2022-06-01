@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sydney_Showground_Speedway",
+            "http://dbpedia.org/resource/Jim_Airey",
+            "http://dbpedia.org/resource/Nigel_Boocock",
+            "http://dbpedia.org/resource/Eric_Boocock"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Showground_Speedway",
+            "http://dbpedia.org/resource/Phil_Crump",
+            "http://dbpedia.org/resource/John_Titman",
+            "http://dbpedia.org/resource/Phil_Herne"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane_Exhibition_Ground",
+            "http://dbpedia.org/resource/John_Titman",
+            "http://dbpedia.org/resource/Phil_Crump",
+            "http://dbpedia.org/resource/Billy_Sanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Showground_Speedway",
+            "http://dbpedia.org/resource/Billy_Sanders",
+            "http://dbpedia.org/resource/Phil_Crump",
+            "http://dbpedia.org/resource/John_Titman"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane_Exhibition_Ground",
+            "http://dbpedia.org/resource/Billy_Sanders",
+            "http://dbpedia.org/resource/Phil_Crump",
+            "http://dbpedia.org/resource/John_Titman"
+        ]
+    ]
+}

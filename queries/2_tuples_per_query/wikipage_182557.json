@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shantae:_Half-Genie_Hero",
+            "http://dbpedia.org/resource/WayForward_Technologies",
+            "http://dbpedia.org/resource/Kickstarter",
+            "http://dbpedia.org/resource/Action_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Mighty_No._9",
+            "http://dbpedia.org/resource/Comcept",
+            "http://dbpedia.org/resource/Kickstarter",
+            "http://dbpedia.org/resource/Action_game"
+        ]
+    ]
+}

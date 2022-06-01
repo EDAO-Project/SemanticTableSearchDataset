@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belmont_Abbey_College",
+            "http://dbpedia.org/resource/Belmont,_North_Carolina",
+            "http://dbpedia.org/resource/North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Benedictine_College",
+            "http://dbpedia.org/resource/Atchison,_Kansas",
+            "http://dbpedia.org/resource/Kansas"
+        ]
+    ]
+}

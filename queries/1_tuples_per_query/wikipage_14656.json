@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Chris_Carpenter",
+            "http://dbpedia.org/resource/Kip_Wells",
+            "http://dbpedia.org/resource/Billy_Koch"
+        ]
+    ]
+}

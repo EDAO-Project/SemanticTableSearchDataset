@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boadu_Maxwell_Acosty",
+            "http://dbpedia.org/resource/A.C._Reggiana_1919",
+            "http://dbpedia.org/resource/ACF_Fiorentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Diego_Falcinelli",
+            "http://dbpedia.org/resource/A.S.D._Pontevecchio",
+            "http://dbpedia.org/resource/U.S._Sassuolo_Calcio"
+        ]
+    ]
+}

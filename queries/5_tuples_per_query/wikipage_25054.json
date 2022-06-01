@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Bob_Lemon",
+            "http://dbpedia.org/resource/Gerry_Staley"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Jack_Harshman",
+            "http://dbpedia.org/resource/Hank_Aguirre"
+        ],
+        [
+            "http://dbpedia.org/resource/History_of_the_Oakland_Athletics",
+            "http://dbpedia.org/resource/Early_Wynn",
+            "http://dbpedia.org/resource/Wally_Burnette"
+        ],
+        [
+            "http://dbpedia.org/resource/History_of_the_Oakland_Athletics",
+            "http://dbpedia.org/resource/Jack_Crimian",
+            "http://dbpedia.org/resource/Herb_Score"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Jack_Harshman",
+            "http://dbpedia.org/resource/Bob_Lemon"
+        ]
+    ]
+}

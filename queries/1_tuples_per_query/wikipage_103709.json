@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apricot",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Iran"
+        ]
+    ]
+}

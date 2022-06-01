@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dave_Gallagher",
+            "http://dbpedia.org/resource/Right_fielder",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

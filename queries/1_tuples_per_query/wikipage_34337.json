@@ -1,0 +1,19 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001",
+            "http://dbpedia.org/resource/January_2001",
+            "http://dbpedia.org/resource/February_2001",
+            "http://dbpedia.org/resource/March_2001",
+            "http://dbpedia.org/resource/April_2001",
+            "http://dbpedia.org/resource/May_2001",
+            "http://dbpedia.org/resource/June_2001",
+            "http://dbpedia.org/resource/July_2001",
+            "http://dbpedia.org/resource/August_2001",
+            "http://dbpedia.org/resource/September_2001",
+            "http://dbpedia.org/resource/October_2001",
+            "http://dbpedia.org/resource/November_2001",
+            "http://dbpedia.org/resource/December_2001"
+        ]
+    ]
+}

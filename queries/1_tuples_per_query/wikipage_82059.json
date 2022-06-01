@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WTA_Swiss_Open",
+            "http://dbpedia.org/resource/Lucerne",
+            "http://dbpedia.org/resource/Nicole_Bradtke"
+        ]
+    ]
+}

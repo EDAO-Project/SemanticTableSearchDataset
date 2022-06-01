@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Siro",
+            "http://dbpedia.org/resource/Inter_Milan",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ]
+    ]
+}

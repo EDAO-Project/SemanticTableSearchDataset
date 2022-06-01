@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adaptaur",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Cattle"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Braford",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Brahman"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Charbray",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Charolais_cattle"
+        ],
+        [
+            "http://dbpedia.org/resource/Belmont_Red",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Afrikaner_cattle"
+        ],
+        [
+            "http://dbpedia.org/resource/British_White_cattle",
+            "http://dbpedia.org/resource/Great_Britain",
+            "http://dbpedia.org/resource/Polled_livestock"
+        ]
+    ]
+}

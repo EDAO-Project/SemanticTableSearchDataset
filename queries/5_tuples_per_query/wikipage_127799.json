@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Jackie_Joyner-Kersee",
+            "http://dbpedia.org/resource/Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Larisa_Turchinskaya",
+            "http://dbpedia.org/resource/Bryansk"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Jessica_Ennis-Hill",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Eunice_Barber",
+            "http://dbpedia.org/resource/Arles"
+        ],
+        [
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/Lyudmyla_Blonska",
+            "http://dbpedia.org/resource/Osaka"
+        ]
+    ]
+}

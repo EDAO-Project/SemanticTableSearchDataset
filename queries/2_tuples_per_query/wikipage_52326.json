@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mazor_Bahaina",
+            "http://dbpedia.org/resource/Israel",
+            "http://dbpedia.org/resource/Politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Darrin_Bell",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cartoonist"
+        ]
+    ]
+}

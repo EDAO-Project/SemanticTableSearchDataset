@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Real_Salt_Lake",
+            "http://dbpedia.org/resource/Mehdi_Ballouchy",
+            "http://dbpedia.org/resource/Santa_Clara_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus_Crew_SC",
+            "http://dbpedia.org/resource/Jason_Garey",
+            "http://dbpedia.org/resource/University_of_Maryland,_College_Park"
+        ]
+    ]
+}

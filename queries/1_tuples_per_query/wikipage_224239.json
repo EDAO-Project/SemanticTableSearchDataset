@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gyeongbu_Line",
+            "http://dbpedia.org/resource/Seoul_Station",
+            "http://dbpedia.org/resource/Korail"
+        ]
+    ]
+}

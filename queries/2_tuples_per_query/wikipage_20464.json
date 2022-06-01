@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Long_Eaton_Speedway",
+            "http://dbpedia.org/resource/Edinburgh_Monarchs",
+            "http://dbpedia.org/resource/Oxford_Cheetahs",
+            "http://dbpedia.org/resource/Berwick_Bandits"
+        ],
+        [
+            "http://dbpedia.org/resource/Peterborough_Panthers",
+            "http://dbpedia.org/resource/Edinburgh_Monarchs",
+            "http://dbpedia.org/resource/Hull_Vikings",
+            "http://dbpedia.org/resource/Reading_Racers"
+        ]
+    ]
+}

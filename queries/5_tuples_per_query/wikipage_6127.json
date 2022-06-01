@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_Korean_FA_Cup",
+            "http://dbpedia.org/resource/Pohang_Steelers",
+            "http://dbpedia.org/resource/Suwon_Samsung_Bluewings"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Korean_FA_Cup",
+            "http://dbpedia.org/resource/Jeonnam_Dragons",
+            "http://dbpedia.org/resource/Seongnam_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Korean_FA_Cup",
+            "http://dbpedia.org/resource/FC_Seoul",
+            "http://dbpedia.org/resource/Ulsan_Hyundai_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Korean_FA_Cup",
+            "http://dbpedia.org/resource/Seongnam_FC",
+            "http://dbpedia.org/resource/Jeonbuk_Hyundai_Motors_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Korean_FA_Cup",
+            "http://dbpedia.org/resource/Jeonbuk_Hyundai_Motors_FC",
+            "http://dbpedia.org/resource/Seongnam_FC"
+        ]
+    ]
+}

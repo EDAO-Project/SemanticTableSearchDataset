@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chen_Haijian",
+            "http://dbpedia.org/resource/Gennadiy_Chernovol",
+            "http://dbpedia.org/resource/Salem_Al-Yami"
+        ],
+        [
+            "http://dbpedia.org/resource/Fawzi_Al-Shammari",
+            "http://dbpedia.org/resource/Hamed_Al-Bishi",
+            "http://dbpedia.org/resource/Yang_Yaozu"
+        ],
+        [
+            "http://dbpedia.org/resource/Fawzi_Al-Shammari",
+            "http://dbpedia.org/resource/Hamdan_Al-Bishi",
+            "http://dbpedia.org/resource/Yuki_Yamaguchi"
+        ],
+        [
+            "http://dbpedia.org/resource/Rashid_Ramzi",
+            "http://dbpedia.org/resource/Saif_Saaeed_Shaheen",
+            "http://dbpedia.org/resource/Fumikazu_Kobayashi"
+        ],
+        [
+            "http://dbpedia.org/resource/Ahmad_Hassan_Abdullah",
+            "http://dbpedia.org/resource/Abdelhak_Zakaria",
+            "http://dbpedia.org/resource/Eduardo_Buenavista"
+        ]
+    ]
+}

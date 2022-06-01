@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charley_Paddock",
+            "http://dbpedia.org/resource/Morris_Kirksey",
+            "http://dbpedia.org/resource/Harry_Edward"
+        ],
+        [
+            "http://dbpedia.org/resource/Allen_Woodring",
+            "http://dbpedia.org/resource/Charley_Paddock",
+            "http://dbpedia.org/resource/Harry_Edward"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_Guillemot",
+            "http://dbpedia.org/resource/Paavo_Nurmi",
+            "http://dbpedia.org/resource/Eric_Backman"
+        ],
+        [
+            "http://dbpedia.org/resource/Earl_Thomson",
+            "http://dbpedia.org/resource/Harold_Barron",
+            "http://dbpedia.org/resource/Feg_Murray"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_at_the_1920_Summer_Olympics",
+            "http://dbpedia.org/resource/France_at_the_1920_Summer_Olympics",
+            "http://dbpedia.org/resource/Sweden_at_the_1920_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Borth",
+            "http://dbpedia.org/resource/Llandre",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Capel_Dewi,_Llandysul",
+            "http://dbpedia.org/resource/Llandysul",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Ceulanamaesmawr",
+            "http://dbpedia.org/resource/Llangynfelyn",
+            "http://dbpedia.org/resource/Plaid_Cymru"
+        ],
+        [
+            "http://dbpedia.org/resource/Ciliau_Aeron",
+            "http://dbpedia.org/resource/Henfynyw",
+            "http://dbpedia.org/resource/Plaid_Cymru"
+        ],
+        [
+            "http://dbpedia.org/resource/Llanfihangel_Ystrad",
+            "http://dbpedia.org/resource/Nantcwnlle",
+            "http://dbpedia.org/resource/Plaid_Cymru"
+        ]
+    ]
+}

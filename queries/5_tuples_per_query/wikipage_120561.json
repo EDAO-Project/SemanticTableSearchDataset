@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrew_Gaff",
+            "http://dbpedia.org/resource/Oakleigh_Chargers",
+            "http://dbpedia.org/resource/West_Coast_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Caddy",
+            "http://dbpedia.org/resource/Northern_Knights",
+            "http://dbpedia.org/resource/Gold_Coast_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Dyson_Heppell",
+            "http://dbpedia.org/resource/TAC_Cup",
+            "http://dbpedia.org/resource/Essendon_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Dion_Prestia",
+            "http://dbpedia.org/resource/Calder_Cannons",
+            "http://dbpedia.org/resource/Gold_Coast_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Melbourne_Football_Club_players",
+            "http://dbpedia.org/resource/North_Ballarat_Rebels",
+            "http://dbpedia.org/resource/Melbourne_Football_Club"
+        ]
+    ]
+}

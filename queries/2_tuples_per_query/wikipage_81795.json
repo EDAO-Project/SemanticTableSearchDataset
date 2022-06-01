@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adobe_Fireworks",
+            "http://dbpedia.org/resource/Macromedia",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ],
+        [
+            "http://dbpedia.org/resource/Adobe_Photoshop",
+            "http://dbpedia.org/resource/John_Knoll",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ]
+    ]
+}

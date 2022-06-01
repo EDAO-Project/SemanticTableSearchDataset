@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sandrine_Testud",
+            "http://dbpedia.org/resource/Barbara_Schett",
+            "http://dbpedia.org/resource/Serena_Williams",
+            "http://dbpedia.org/resource/Kristina_Brandi"
+        ],
+        [
+            "http://dbpedia.org/resource/Patty_Schnyder",
+            "http://dbpedia.org/resource/Mary_Pierce",
+            "http://dbpedia.org/resource/Jana_Kandarr",
+            "http://dbpedia.org/resource/Anna_Kournikova"
+        ]
+    ]
+}

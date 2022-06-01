@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CIBER_Field_at_the_University_of_Denver_Soccer_Stadium",
+            "http://dbpedia.org/resource/Denver_Pioneers",
+            "http://dbpedia.org/resource/National_Collegiate_Athletic_Association",
+            "http://dbpedia.org/resource/Denver"
+        ]
+    ]
+}

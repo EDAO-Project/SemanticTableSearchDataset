@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_League_I",
+            "http://dbpedia.org/resource/Shaun_McRae",
+            "http://dbpedia.org/resource/Chris_Joynt"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_II",
+            "http://dbpedia.org/resource/Shaun_McRae",
+            "http://dbpedia.org/resource/Chris_Joynt"
+        ]
+    ]
+}

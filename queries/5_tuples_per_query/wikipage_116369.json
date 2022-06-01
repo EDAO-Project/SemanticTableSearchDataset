@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/QF_12-pounder_12_cwt_naval_gun",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Second_Boer_War"
+        ],
+        [
+            "http://dbpedia.org/resource/OTO_Melara_76_mm",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Cold_War"
+        ],
+        [
+            "http://dbpedia.org/resource/3",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cold_War"
+        ],
+        [
+            "http://dbpedia.org/resource/8.8_cm_SK_L/45_naval_gun",
+            "http://dbpedia.org/resource/German_Empire",
+            "http://dbpedia.org/resource/World_War_I"
+        ],
+        [
+            "http://dbpedia.org/resource/French_100_mm_naval_gun",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Cold_War"
+        ]
+    ]
+}

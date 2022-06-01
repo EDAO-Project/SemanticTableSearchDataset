@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/State_songs_of_Arizona",
+            "http://dbpedia.org/resource/Rex_Allen"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Rocky_Mountain_High",
+            "http://dbpedia.org/resource/John_Denver"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Old_Folks_at_Home",
+            "http://dbpedia.org/resource/Stephen_Foster_Memorial"
+        ],
+        [
+            "http://dbpedia.org/resource/Indiana",
+            "http://dbpedia.org/resource/On_the_Banks_of_the_Wabash,_Far_Away",
+            "http://dbpedia.org/resource/Paul_Dresser"
+        ],
+        [
+            "http://dbpedia.org/resource/Indiana",
+            "http://dbpedia.org/resource/Back_Home_Again_in_Indiana",
+            "http://dbpedia.org/resource/Ballard_MacDonald"
+        ]
+    ]
+}

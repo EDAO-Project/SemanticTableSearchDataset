@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_in_music",
+            "http://dbpedia.org/resource/Ayumi_Hamasaki",
+            "http://dbpedia.org/resource/Dearest"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_music",
+            "http://dbpedia.org/resource/Eminem",
+            "http://dbpedia.org/resource/Without_Me"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_music",
+            "http://dbpedia.org/resource/Hikaru_Utada",
+            "http://dbpedia.org/resource/Sakura_Drops"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_music",
+            "http://dbpedia.org/resource/Missy_Elliott",
+            "http://dbpedia.org/resource/Pass_That_Dutch"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_music",
+            "http://dbpedia.org/resource/Mika_Nakashima",
+            "http://dbpedia.org/resource/Seppun"
+        ]
+    ]
+}

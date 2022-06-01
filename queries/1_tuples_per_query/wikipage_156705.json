@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AIK_Fotboll",
+            "http://dbpedia.org/resource/Landskrona_BoIS",
+            "http://dbpedia.org/resource/Landskrona_IP"
+        ]
+    ]
+}

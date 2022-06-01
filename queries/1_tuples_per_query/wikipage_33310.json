@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Jose_Earthquakes",
+            "http://dbpedia.org/resource/Shea_Salinas",
+            "http://dbpedia.org/resource/Furman_University"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adamos_Adamou",
+            "http://dbpedia.org/resource/Progressive_Party_of_Working_People",
+            "http://dbpedia.org/resource/Limassol"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicos_Anastasiades",
+            "http://dbpedia.org/resource/Democratic_Rally",
+            "http://dbpedia.org/resource/Limassol"
+        ]
+    ]
+}

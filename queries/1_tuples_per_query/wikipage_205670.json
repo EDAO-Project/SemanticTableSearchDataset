@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrews_Academy",
+            "http://dbpedia.org/resource/Michigan",
+            "http://dbpedia.org/resource/Berrien_Springs,_Michigan"
+        ]
+    ]
+}

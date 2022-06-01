@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HSBC_Brazil_Cup",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Catriona_Matthew"
+        ],
+        [
+            "http://dbpedia.org/resource/SBS_Open_at_Turtle_Bay",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Angela_Stanford"
+        ],
+        [
+            "http://dbpedia.org/resource/Honda_LPGA_Thailand",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Lorena_Ochoa"
+        ],
+        [
+            "http://dbpedia.org/resource/MasterCard_Classic",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Pat_Hurst"
+        ],
+        [
+            "http://dbpedia.org/resource/J_Golf_Phoenix_LPGA_International",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Karrie_Webb"
+        ]
+    ]
+}

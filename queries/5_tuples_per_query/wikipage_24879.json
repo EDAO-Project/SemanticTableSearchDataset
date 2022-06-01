@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kay_Bailey_Hutchison_Convention_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Oklahoma_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cox_Convention_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Stadium"
+        ]
+    ]
+}

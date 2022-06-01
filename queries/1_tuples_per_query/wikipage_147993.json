@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Tour_Down_Under",
+            "http://dbpedia.org/resource/Simon_Gerrans",
+            "http://dbpedia.org/resource/Trek_Factory_Racing",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

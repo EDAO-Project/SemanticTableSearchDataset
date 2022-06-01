@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Kim_Staal",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Frans_Nielsen",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Peter_Regin",
+            "http://dbpedia.org/resource/Ottawa_Senators"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Jannik_Hansen",
+            "http://dbpedia.org/resource/Vancouver_Canucks"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Morten_Madsen",
+            "http://dbpedia.org/resource/Minnesota_Wild"
+        ]
+    ]
+}

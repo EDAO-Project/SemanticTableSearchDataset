@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beaumont-du-Lac",
+            "http://dbpedia.org/resource/Bersac-sur-Rivalier",
+            "http://dbpedia.org/resource/Beynac",
+            "http://dbpedia.org/resource/Boisseuil"
+        ],
+        [
+            "http://dbpedia.org/resource/Coussac-Bonneval",
+            "http://dbpedia.org/resource/Couzeix",
+            "http://dbpedia.org/resource/Domps",
+            "http://dbpedia.org/resource/Eybouleuf"
+        ],
+        [
+            "http://dbpedia.org/resource/Eyjeaux",
+            "http://dbpedia.org/resource/Eymoutiers",
+            "http://dbpedia.org/resource/Feytiat",
+            "http://dbpedia.org/resource/Flavignac"
+        ],
+        [
+            "http://dbpedia.org/resource/Glandon",
+            "http://dbpedia.org/resource/Glanges",
+            "http://dbpedia.org/resource/Isle,_Haute-Vienne",
+            "http://dbpedia.org/resource/Jabreilles-les-Bordes"
+        ],
+        [
+            "http://dbpedia.org/resource/Janailhac",
+            "http://dbpedia.org/resource/Jourgnac",
+            "http://dbpedia.org/resource/La_Croisille-sur-Briance",
+            "http://dbpedia.org/resource/La_Geneytouse"
+        ]
+    ]
+}

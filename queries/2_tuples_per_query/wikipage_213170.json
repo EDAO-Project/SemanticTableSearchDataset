@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_Abrahams",
+            "http://dbpedia.org/resource/Jackson_Scholz",
+            "http://dbpedia.org/resource/Arthur_Porritt,_Baron_Porritt"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackson_Scholz",
+            "http://dbpedia.org/resource/Charley_Paddock",
+            "http://dbpedia.org/resource/Eric_Liddell"
+        ]
+    ]
+}

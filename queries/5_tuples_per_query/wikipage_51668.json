@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scotland_national_rugby_union_team",
+            "http://dbpedia.org/resource/Twickenham_Stadium",
+            "http://dbpedia.org/resource/2007_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy_national_rugby_union_team",
+            "http://dbpedia.org/resource/Twickenham_Stadium",
+            "http://dbpedia.org/resource/2007_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/Croke_Park",
+            "http://dbpedia.org/resource/2007_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/France_national_rugby_union_team",
+            "http://dbpedia.org/resource/Twickenham_Stadium",
+            "http://dbpedia.org/resource/2007_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Wales_national_rugby_union_team",
+            "http://dbpedia.org/resource/Millennium_Stadium",
+            "http://dbpedia.org/resource/2007_Six_Nations_Championship"
+        ]
+    ]
+}

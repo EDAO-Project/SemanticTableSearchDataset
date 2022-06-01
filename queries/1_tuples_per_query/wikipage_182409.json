@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alain_Menu",
+            "http://dbpedia.org/resource/RML_Group",
+            "http://dbpedia.org/resource/Chevrolet_Cruze"
+        ]
+    ]
+}

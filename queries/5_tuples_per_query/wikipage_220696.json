@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jimmy_White",
+            "http://dbpedia.org/resource/Terry_Griffiths",
+            "http://dbpedia.org/resource/Snooker_season_1984/1985"
+        ],
+        [
+            "http://dbpedia.org/resource/Dennis_Taylor",
+            "http://dbpedia.org/resource/Terry_Griffiths",
+            "http://dbpedia.org/resource/Snooker_season_1985/1986"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Wattana",
+            "http://dbpedia.org/resource/Terry_Griffiths",
+            "http://dbpedia.org/resource/Snooker_season_1986/1987"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Davis",
+            "http://dbpedia.org/resource/Stephen_Hendry",
+            "http://dbpedia.org/resource/Snooker_season_1991/1992"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_Hendry",
+            "http://dbpedia.org/resource/James_Wattana",
+            "http://dbpedia.org/resource/Snooker_season_1989/1990"
+        ]
+    ]
+}

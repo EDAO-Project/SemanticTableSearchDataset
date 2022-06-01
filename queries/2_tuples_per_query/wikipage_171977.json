@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Liliana_Allen",
+            "http://dbpedia.org/resource/Anita_Howard",
+            "http://dbpedia.org/resource/Natalya_Pomoshchnikova-Voronova"
+        ],
+        [
+            "http://dbpedia.org/resource/Galina_Malchugina",
+            "http://dbpedia.org/resource/Liliana_Allen",
+            "http://dbpedia.org/resource/Esther_Jones"
+        ]
+    ]
+}

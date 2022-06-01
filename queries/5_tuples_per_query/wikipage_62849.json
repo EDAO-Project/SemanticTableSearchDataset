@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allsvenskan",
+            "http://dbpedia.org/resource/Swedish_Football_Division_2",
+            "http://dbpedia.org/resource/Stattena_IF"
+        ],
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_2",
+            "http://dbpedia.org/resource/Swedish_Football_Division_3",
+            "http://dbpedia.org/resource/Sandvikens_AIK_Fotboll"
+        ],
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_2",
+            "http://dbpedia.org/resource/Swedish_Football_Division_3",
+            "http://dbpedia.org/resource/IK_Brage"
+        ],
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_2",
+            "http://dbpedia.org/resource/Swedish_Football_Division_3",
+            "http://dbpedia.org/resource/IK_Sirius_Fotboll"
+        ],
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_2",
+            "http://dbpedia.org/resource/Swedish_Football_Division_3",
+            "http://dbpedia.org/resource/IFK_Arboga_IK"
+        ]
+    ]
+}

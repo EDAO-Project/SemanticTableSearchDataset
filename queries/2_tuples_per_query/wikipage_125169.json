@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agulla_protomaculata",
+            "http://dbpedia.org/resource/Michael_S._Engel",
+            "http://dbpedia.org/resource/Lutetian",
+            "http://dbpedia.org/resource/Green_River_Formation",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Arostropsis",
+            "http://dbpedia.org/resource/Eocene",
+            "http://dbpedia.org/resource/Baltic_amber",
+            "http://dbpedia.org/resource/Europe",
+            "http://dbpedia.org/resource/Entiminae"
+        ]
+    ]
+}

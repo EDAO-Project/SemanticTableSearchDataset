@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Allister",
+            "http://dbpedia.org/resource/Traditional_Unionist_Voice",
+            "http://dbpedia.org/resource/Non-Inscrits"
+        ]
+    ]
+}

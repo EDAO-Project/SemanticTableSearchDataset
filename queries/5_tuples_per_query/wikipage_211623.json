@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elizabeth_II",
+            "http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Josip_Broz_Tito",
+            "http://dbpedia.org/resource/List_of_heads_of_state_of_Yugoslavia",
+            "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia"
+        ],
+        [
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower",
+            "http://dbpedia.org/resource/President_of_the_United_States",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Nixon",
+            "http://dbpedia.org/resource/President_of_the_United_States",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Birendra_of_Nepal",
+            "http://dbpedia.org/resource/King_of_Nepal",
+            "http://dbpedia.org/resource/Kingdom_of_Nepal"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Up4Sale",
+            "http://dbpedia.org/resource/Online_auction",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

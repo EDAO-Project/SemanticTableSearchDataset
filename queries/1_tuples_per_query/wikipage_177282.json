@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charlie_Bartson",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/1890_Chicago_Pirates_season"
+        ]
+    ]
+}

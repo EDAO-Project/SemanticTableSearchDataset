@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1979_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Dave_Christian",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Bill_Whelton",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Pat_Daley",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Thomas_Steen",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Tim_Watters",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

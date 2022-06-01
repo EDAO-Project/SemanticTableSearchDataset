@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Turning_Torso",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Emporis_Skyscraper_Award"
+        ],
+        [
+            "http://dbpedia.org/resource/Scandic_Victoria_Tower",
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Herlev_Hospital",
+            "http://dbpedia.org/resource/Herlev",
+            "http://dbpedia.org/resource/Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Uppsala_Cathedral",
+            "http://dbpedia.org/resource/Uppsala",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Kista_Science_Tower",
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

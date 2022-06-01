@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1926_European_Aquatics_Championships",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/1927_European_Aquatics_Championships",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Hungary"
+        ],
+        [
+            "http://dbpedia.org/resource/1931_European_Aquatics_Championships",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/1934_European_Aquatics_Championships",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/1938_European_Aquatics_Championships",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ]
+    ]
+}

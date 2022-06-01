@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1974",
+            "http://dbpedia.org/resource/Nik_Ahmad_Kamil_Nik_Mahmud",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1974",
+            "http://dbpedia.org/resource/Syed_Nasir_Ismail",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1978",
+            "http://dbpedia.org/resource/Syed_Nasir_Ismail",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1982",
+            "http://dbpedia.org/resource/Mohamed_Zahir_Ismail",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1986",
+            "http://dbpedia.org/resource/Mohamed_Zahir_Ismail",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ]
+    ]
+}

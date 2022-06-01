@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_Norway_Regional_Health_Authority",
+            "http://dbpedia.org/resource/Regional_health_authority",
+            "http://dbpedia.org/resource/Ministry_of_Health_and_Care_Services"
+        ],
+        [
+            "http://dbpedia.org/resource/Electronic_Chart_Centre",
+            "http://dbpedia.org/resource/Aksjeselskap",
+            "http://dbpedia.org/resource/Cartography"
+        ],
+        [
+            "http://dbpedia.org/resource/Enova_SF",
+            "http://dbpedia.org/resource/Statsforetak",
+            "http://dbpedia.org/resource/Ministry_of_Petroleum_and_Energy"
+        ],
+        [
+            "http://dbpedia.org/resource/Gassco",
+            "http://dbpedia.org/resource/Aksjeselskap",
+            "http://dbpedia.org/resource/Ministry_of_Petroleum_and_Energy"
+        ],
+        [
+            "http://dbpedia.org/resource/Gassnova",
+            "http://dbpedia.org/resource/Statsforetak",
+            "http://dbpedia.org/resource/Ministry_of_Petroleum_and_Energy"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California_Maritime_Academy",
+            "http://dbpedia.org/resource/Vallejo,_California",
+            "http://dbpedia.org/resource/Solano_County,_California",
+            "http://dbpedia.org/resource/California_State_University"
+        ]
+    ]
+}

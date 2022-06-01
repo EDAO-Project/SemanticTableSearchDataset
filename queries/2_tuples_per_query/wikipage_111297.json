@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apedale_Heritage_Centre",
+            "http://dbpedia.org/resource/Chesterton,_Staffordshire",
+            "http://dbpedia.org/resource/Borough_of_Newcastle-under-Lyme",
+            "http://dbpedia.org/resource/Moseley_Railway_Trust"
+        ],
+        [
+            "http://dbpedia.org/resource/Boscobel_House",
+            "http://dbpedia.org/resource/Boscobel",
+            "http://dbpedia.org/resource/South_Staffordshire",
+            "http://dbpedia.org/resource/English_Heritage"
+        ]
+    ]
+}

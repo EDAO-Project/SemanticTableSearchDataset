@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roland_Schoeman",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/2009_FINA_Swimming_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefan_Nystrand",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/2009_FINA_Swimming_World_Cup"
+        ]
+    ]
+}

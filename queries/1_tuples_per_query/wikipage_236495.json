@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/KHPT",
+            "http://dbpedia.org/resource/Classic_hits"
+        ]
+    ]
+}

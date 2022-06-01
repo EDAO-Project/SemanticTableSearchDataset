@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southern_theater_of_the_American_Revolutionary_War",
+            "http://dbpedia.org/resource/Kingdom_of_Great_Britain",
+            "http://dbpedia.org/resource/Siege_of_Yorktown"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_and_New_Jersey_campaign",
+            "http://dbpedia.org/resource/Kingdom_of_Great_Britain",
+            "http://dbpedia.org/resource/New_York"
+        ]
+    ]
+}

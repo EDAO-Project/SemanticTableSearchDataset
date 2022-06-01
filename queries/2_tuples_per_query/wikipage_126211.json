@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_Angola",
+            "http://dbpedia.org/resource/Marcelina_Vahekeni",
+            "http://dbpedia.org/resource/Ondjiva"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Aruba",
+            "http://dbpedia.org/resource/Liza_Helder",
+            "http://dbpedia.org/resource/Oranjestad,_Aruba"
+        ]
+    ]
+}

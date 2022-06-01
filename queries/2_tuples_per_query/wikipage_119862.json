@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arroyo_Grande_IOOF_Hall",
+            "http://dbpedia.org/resource/Arroyo_Grande,_California",
+            "http://dbpedia.org/resource/Romanesque_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Fullerton_Odd_Fellows_Temple",
+            "http://dbpedia.org/resource/Fullerton,_California",
+            "http://dbpedia.org/resource/National_Register_of_Historic_Places_architectural_style_categories"
+        ]
+    ]
+}

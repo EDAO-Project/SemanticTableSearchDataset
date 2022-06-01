@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Semyon_Varlamov",
+            "http://dbpedia.org/resource/Samara,_Russia",
+            "http://dbpedia.org/resource/Washington_Capitals"
+        ]
+    ]
+}

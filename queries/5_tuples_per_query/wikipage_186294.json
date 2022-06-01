@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ringelspitz",
+            "http://dbpedia.org/resource/Glarus_Alps",
+            "http://dbpedia.org/resource/Sarganserland"
+        ],
+        [
+            "http://dbpedia.org/resource/Piz_Dolf",
+            "http://dbpedia.org/resource/Glarus_Alps",
+            "http://dbpedia.org/resource/Sarganserland"
+        ],
+        [
+            "http://dbpedia.org/resource/Pizol",
+            "http://dbpedia.org/resource/Glarus_Alps",
+            "http://dbpedia.org/resource/Sarganserland"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruchen",
+            "http://dbpedia.org/resource/Glarus_Alps",
+            "http://dbpedia.org/resource/Sarganserland"
+        ],
+        [
+            "http://dbpedia.org/resource/Magerrain",
+            "http://dbpedia.org/resource/Glarus_Alps",
+            "http://dbpedia.org/resource/Sarganserland"
+        ]
+    ]
+}

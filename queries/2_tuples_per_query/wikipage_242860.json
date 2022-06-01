@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Palau_Sant_Jordi"
+        ],
+        [
+            "http://dbpedia.org/resource/Bologna",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Unipol_Arena"
+        ]
+    ]
+}

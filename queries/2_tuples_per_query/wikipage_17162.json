@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Prayer_for_Owen_Meany",
+            "http://dbpedia.org/resource/John_Irving",
+            "http://dbpedia.org/resource/Jan_Morris"
+        ],
+        [
+            "http://dbpedia.org/resource/The_English_Patient",
+            "http://dbpedia.org/resource/Michael_Ondaatje",
+            "http://dbpedia.org/resource/Anthony_Minghella"
+        ]
+    ]
+}

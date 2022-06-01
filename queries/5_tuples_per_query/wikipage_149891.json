@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Forgotten_Realms:_Demon_Stone",
+            "http://dbpedia.org/resource/Stormfront_Studios",
+            "http://dbpedia.org/resource/Atari",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ],
+        [
+            "http://dbpedia.org/resource/Eye_of_the_Beholder_II:_The_Legend_of_Darkmoon",
+            "http://dbpedia.org/resource/Westwood_Studios",
+            "http://dbpedia.org/resource/Strategic_Simulations",
+            "http://dbpedia.org/resource/DOS"
+        ],
+        [
+            "http://dbpedia.org/resource/Gateway_to_the_Savage_Frontier",
+            "http://dbpedia.org/resource/Stormfront_Studios",
+            "http://dbpedia.org/resource/Strategic_Simulations",
+            "http://dbpedia.org/resource/Amiga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hillsfar",
+            "http://dbpedia.org/resource/Westwood_Studios",
+            "http://dbpedia.org/resource/Strategic_Simulations",
+            "http://dbpedia.org/resource/Amiga"
+        ],
+        [
+            "http://dbpedia.org/resource/Icewind_Dale",
+            "http://dbpedia.org/resource/Black_Isle_Studios",
+            "http://dbpedia.org/resource/Interplay_Entertainment",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ]
+    ]
+}

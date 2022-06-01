@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bartosz_Kizierowski",
+            "http://dbpedia.org/resource/Lorenzo_Vismara",
+            "http://dbpedia.org/resource/Oleksandr_Volynets"
+        ],
+        [
+            "http://dbpedia.org/resource/Pieter_van_den_Hoogenband",
+            "http://dbpedia.org/resource/Emiliano_Brembilla",
+            "http://dbpedia.org/resource/Massimiliano_Rosolino"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Aldemir_da_Silva_Junior",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/2012_South_American_Under-23_Championships_in_Athletics"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Bayron_Piedra",
+            "http://dbpedia.org/resource/Ecuador",
+            "http://dbpedia.org/resource/2004_South_American_Under-23_Championships_in_Athletics"
+        ]
+    ]
+}

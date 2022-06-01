@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billingley",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Barnsley",
+            "http://dbpedia.org/resource/Hemsworth_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Brierley",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Barnsley",
+            "http://dbpedia.org/resource/Hemsworth_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Cawthorne",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Barnsley",
+            "http://dbpedia.org/resource/Penistone_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Dunford,_South_Yorkshire",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Barnsley",
+            "http://dbpedia.org/resource/Penistone_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Houghton,_South_Yorkshire",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Barnsley",
+            "http://dbpedia.org/resource/Hemsworth_Rural_District"
+        ]
+    ]
+}

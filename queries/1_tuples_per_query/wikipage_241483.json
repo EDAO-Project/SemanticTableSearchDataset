@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Walter_Leake",
+            "http://dbpedia.org/resource/15th_United_States_Congress",
+            "http://dbpedia.org/resource/Thomas_Hill_Williams"
+        ]
+    ]
+}

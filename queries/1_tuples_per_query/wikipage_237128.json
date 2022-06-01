@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Detroit_Tigers",
+            "http://dbpedia.org/resource/Andrew_Brown",
+            "http://dbpedia.org/resource/Nate_Robertson",
+            "http://dbpedia.org/resource/Alan_Embree"
+        ]
+    ]
+}

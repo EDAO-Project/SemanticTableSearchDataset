@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/West_Berkshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Reading,_Berkshire"
+        ]
+    ]
+}

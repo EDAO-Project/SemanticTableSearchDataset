@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2007_AFF_Championship",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Myanmar_national_football_team",
+            "http://dbpedia.org/resource/Suchao_Nuchnum"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_AFF_Championship",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Philippines_national_football_team",
+            "http://dbpedia.org/resource/Sarayuth_Chaikamdee"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_AFF_Championship",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Malaysia_national_football_team",
+            "http://dbpedia.org/resource/Sarayuth_Chaikamdee"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_AFF_Championship",
+            "http://dbpedia.org/resource/Hanoi",
+            "http://dbpedia.org/resource/Vietnam_national_football_team",
+            "http://dbpedia.org/resource/Datsakorn_Thonglao"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_AFF_Championship",
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Singapore_national_football_team",
+            "http://dbpedia.org/resource/Pipat_Thonkanya"
+        ]
+    ]
+}

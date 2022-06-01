@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ben_Crenshaw",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1984_Masters_Tournament"
+        ]
+    ]
+}

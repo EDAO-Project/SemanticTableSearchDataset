@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Alabama_School_of_Medicine",
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/Mobile,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Colorado_School_of_Medicine",
+            "http://dbpedia.org/resource/Aurora,_Colorado",
+            "http://dbpedia.org/resource/Denver"
+        ]
+    ]
+}

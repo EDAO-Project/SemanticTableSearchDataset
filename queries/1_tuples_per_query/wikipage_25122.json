@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_Buffalo_Bulls_football_team",
+            "http://dbpedia.org/resource/Virginia_Cavaliers_football",
+            "http://dbpedia.org/resource/Atlantic_Coast_Conference",
+            "http://dbpedia.org/resource/Scott_Stadium",
+            "http://dbpedia.org/resource/Craig_Cirbus"
+        ]
+    ]
+}

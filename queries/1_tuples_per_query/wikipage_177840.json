@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maryland_SoccerPlex",
+            "http://dbpedia.org/resource/Washington_Freedom",
+            "http://dbpedia.org/resource/Lauren_Holiday"
+        ]
+    ]
+}

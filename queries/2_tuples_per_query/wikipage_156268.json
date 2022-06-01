@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gilberto_Agustoni",
+            "http://dbpedia.org/resource/Apostolic_Signatura",
+            "http://dbpedia.org/resource/Pope_John_Paul_II"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Alencherry",
+            "http://dbpedia.org/resource/Patriarch",
+            "http://dbpedia.org/resource/Pope_Benedict_XVI"
+        ]
+    ]
+}

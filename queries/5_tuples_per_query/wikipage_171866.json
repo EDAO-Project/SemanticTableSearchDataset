@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clinton_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Castanea_Township,_Clinton_County,_Pennsylvania",
+            "http://dbpedia.org/resource/U.S._Route_220"
+        ],
+        [
+            "http://dbpedia.org/resource/Clinton_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Lock_Haven,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Route_150"
+        ],
+        [
+            "http://dbpedia.org/resource/Clinton_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Lock_Haven,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Route_150"
+        ],
+        [
+            "http://dbpedia.org/resource/Clinton_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Lock_Haven,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Route_664"
+        ],
+        [
+            "http://dbpedia.org/resource/Clinton_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Renovo,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Route_144"
+        ]
+    ]
+}

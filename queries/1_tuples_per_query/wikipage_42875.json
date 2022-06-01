@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/At_First_Sight",
+            "http://dbpedia.org/resource/Metro-Goldwyn-Mayer",
+            "http://dbpedia.org/resource/Irwin_Winkler",
+            "http://dbpedia.org/resource/Romance_film",
+            "http://dbpedia.org/resource/Live_action"
+        ]
+    ]
+}

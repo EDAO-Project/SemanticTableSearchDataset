@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Roger_Black",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/1985_European_Athletics_Junior_Championships",
+            "http://dbpedia.org/resource/Cottbus"
+        ],
+        [
+            "http://dbpedia.org/resource/5000_metres",
+            "http://dbpedia.org/resource/Steve_Binns",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/1979_European_Athletics_Junior_Championships",
+            "http://dbpedia.org/resource/Bydgoszcz"
+        ],
+        [
+            "http://dbpedia.org/resource/10,000_metres",
+            "http://dbpedia.org/resource/Ali_Kaya",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/2013_European_Athletics_Junior_Championships",
+            "http://dbpedia.org/resource/Rieti"
+        ],
+        [
+            "http://dbpedia.org/resource/110_metres_hurdles",
+            "http://dbpedia.org/resource/Wilhem_Belocian",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/2013_European_Athletics_Junior_Championships",
+            "http://dbpedia.org/resource/Rieti"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres_hurdles",
+            "http://dbpedia.org/resource/Timofey_Chalyy",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/2013_European_Athletics_Junior_Championships",
+            "http://dbpedia.org/resource/Rieti"
+        ]
+    ]
+}

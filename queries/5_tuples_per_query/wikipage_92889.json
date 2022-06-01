@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Canadian_Championship",
+            "http://dbpedia.org/resource/Camilo_Sanvezzo",
+            "http://dbpedia.org/resource/Vancouver_Whitecaps_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Canadian_Championship",
+            "http://dbpedia.org/resource/Eric_Hassli",
+            "http://dbpedia.org/resource/Vancouver_Whitecaps_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Canadian_Championship",
+            "http://dbpedia.org/resource/Reggie_Lambe",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Canadian_Championship",
+            "http://dbpedia.org/resource/Maicon_Santos",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Canadian_Championship",
+            "http://dbpedia.org/resource/Chad_Barrett",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Subaru_World_Rally_Team",
+            "http://dbpedia.org/resource/Subaru",
+            "http://dbpedia.org/resource/Subaru_Impreza",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Colin_McRae"
+        ],
+        [
+            "http://dbpedia.org/resource/Subaru_World_Rally_Team",
+            "http://dbpedia.org/resource/Subaru",
+            "http://dbpedia.org/resource/Subaru_Impreza",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Carlos_Sainz"
+        ],
+        [
+            "http://dbpedia.org/resource/Subaru_World_Rally_Team",
+            "http://dbpedia.org/resource/Subaru",
+            "http://dbpedia.org/resource/Subaru_Impreza",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Piero_Liatti"
+        ],
+        [
+            "http://dbpedia.org/resource/Subaru_World_Rally_Team",
+            "http://dbpedia.org/resource/Subaru",
+            "http://dbpedia.org/resource/Subaru_Impreza",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Richard_Burns"
+        ],
+        [
+            "http://dbpedia.org/resource/Subaru_World_Rally_Team",
+            "http://dbpedia.org/resource/Subaru",
+            "http://dbpedia.org/resource/Subaru_Impreza",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Possum_Bourne"
+        ]
+    ]
+}

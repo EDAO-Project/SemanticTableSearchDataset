@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Albanian_lek",
+            "http://dbpedia.org/resource/Bank_of_Albania"
+        ],
+        [
+            "http://dbpedia.org/resource/Andorra",
+            "http://dbpedia.org/resource/Euro",
+            "http://dbpedia.org/resource/European_Central_Bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Armenian_dram",
+            "http://dbpedia.org/resource/Central_Bank_of_Armenia"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Euro",
+            "http://dbpedia.org/resource/National_Bank_of_Austria"
+        ],
+        [
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Azerbaijani_manat",
+            "http://dbpedia.org/resource/Central_Bank_of_Azerbaijan"
+        ]
+    ]
+}

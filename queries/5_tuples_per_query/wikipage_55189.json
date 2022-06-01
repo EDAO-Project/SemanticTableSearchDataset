@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1978_Seattle_Mariners_season",
+            "http://dbpedia.org/resource/Glenn_Abbott",
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Kingdome"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Seattle_Mariners_season",
+            "http://dbpedia.org/resource/Glenn_Abbott",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Kingdome"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Seattle_Mariners_season",
+            "http://dbpedia.org/resource/Mike_Parrott",
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/Kingdome"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Seattle_Mariners_season",
+            "http://dbpedia.org/resource/Glenn_Abbott",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Kingdome"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Seattle_Mariners_season",
+            "http://dbpedia.org/resource/Floyd_Bannister",
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Hubert_H._Humphrey_Metrodome"
+        ]
+    ]
+}

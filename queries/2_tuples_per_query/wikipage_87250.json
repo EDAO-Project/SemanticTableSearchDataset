@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/USL_Second_Division",
+            "http://dbpedia.org/resource/Virginia_Beach_Mariners",
+            "http://dbpedia.org/resource/USL_First_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/Premier_Development_League",
+            "http://dbpedia.org/resource/Syracuse_Salty_Dogs",
+            "http://dbpedia.org/resource/USL_First_Division"
+        ]
+    ]
+}

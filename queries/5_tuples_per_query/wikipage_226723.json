@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edmonton_Gardens",
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Rogers_Place"
+        ],
+        [
+            "http://dbpedia.org/resource/SaskTel_Centre",
+            "http://dbpedia.org/resource/Tim_Hortons_Brier",
+            "http://dbpedia.org/resource/Sandman_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Niagara_Center",
+            "http://dbpedia.org/resource/IIHF_World_U20_Championship",
+            "http://dbpedia.org/resource/Ufa_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Scotiabank_Centre",
+            "http://dbpedia.org/resource/Canadian_Olympic_Curling_Trials",
+            "http://dbpedia.org/resource/MTS_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Moda_Center",
+            "http://dbpedia.org/resource/National_Lacrosse_League_All-Star_Game",
+            "http://dbpedia.org/resource/Pepsi_Center"
+        ]
+    ]
+}

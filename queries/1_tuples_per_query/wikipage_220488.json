@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benin",
+            "http://dbpedia.org/resource/West_African_CFA_franc",
+            "http://dbpedia.org/resource/Central_Bank_of_West_African_States"
+        ]
+    ]
+}

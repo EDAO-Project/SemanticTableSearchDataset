@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bell_Road_Bridge",
+            "http://dbpedia.org/resource/Pinckney,_Michigan",
+            "http://dbpedia.org/resource/Truss_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Brinkerhoff-Becker_House",
+            "http://dbpedia.org/resource/Ypsilanti,_Michigan",
+            "http://dbpedia.org/resource/Eastern_Michigan_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Delhi_Bridge",
+            "http://dbpedia.org/resource/Scio_Township,_Michigan",
+            "http://dbpedia.org/resource/Wrought_iron"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_Observatory",
+            "http://dbpedia.org/resource/Ann_Arbor,_Michigan",
+            "http://dbpedia.org/resource/University_of_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Nathan_B._Devereaux_Octagon_House",
+            "http://dbpedia.org/resource/Northfield_Township,_Michigan",
+            "http://dbpedia.org/resource/Orson_Squire_Fowler"
+        ]
+    ]
+}

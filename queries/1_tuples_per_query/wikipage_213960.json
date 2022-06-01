@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shibuya",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Shibuya_Public_Hall"
+        ]
+    ]
+}

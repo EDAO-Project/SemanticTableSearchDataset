@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Jenny_Wolf",
+            "http://dbpedia.org/resource/Wang_Beixing",
+            "http://dbpedia.org/resource/Lee_Sang-hwa"
+        ],
+        [
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Wang_Beixing",
+            "http://dbpedia.org/resource/Jenny_Wolf",
+            "http://dbpedia.org/resource/Lee_Sang-hwa"
+        ]
+    ]
+}

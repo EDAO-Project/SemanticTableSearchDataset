@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dave_Bautista",
+            "http://dbpedia.org/resource/SAP_Center_at_San_Jose",
+            "http://dbpedia.org/resource/San_Jose,_California"
+        ]
+    ]
+}

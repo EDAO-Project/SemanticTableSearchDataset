@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vito_Corleone",
+            "http://dbpedia.org/resource/Marlon_Brando",
+            "http://dbpedia.org/resource/The_Godfather"
+        ]
+    ]
+}

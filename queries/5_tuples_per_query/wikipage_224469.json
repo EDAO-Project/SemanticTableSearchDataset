@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sicut_Judaeis",
+            "http://dbpedia.org/resource/Pope_Callixtus_II",
+            "http://dbpedia.org/resource/First_Crusade"
+        ],
+        [
+            "http://dbpedia.org/resource/Omne_Datum_Optimum",
+            "http://dbpedia.org/resource/Pope_Innocent_II",
+            "http://dbpedia.org/resource/Knights_Templar"
+        ],
+        [
+            "http://dbpedia.org/resource/Milites_Templi",
+            "http://dbpedia.org/resource/Pope_Celestine_II",
+            "http://dbpedia.org/resource/Knights_Templar"
+        ],
+        [
+            "http://dbpedia.org/resource/Militia_Dei",
+            "http://dbpedia.org/resource/Pope_Eugene_III",
+            "http://dbpedia.org/resource/Knights_Templar"
+        ],
+        [
+            "http://dbpedia.org/resource/Quantum_praedecessores",
+            "http://dbpedia.org/resource/Pope_Eugene_III",
+            "http://dbpedia.org/resource/Second_Crusade"
+        ]
+    ]
+}

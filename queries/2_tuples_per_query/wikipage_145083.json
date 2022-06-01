@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Jacksonville_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Philips_Arena"
+        ]
+    ]
+}

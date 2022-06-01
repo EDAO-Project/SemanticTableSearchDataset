@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cindy_Klassen",
+            "http://dbpedia.org/resource/Speed_skating_at_the_Winter_Olympics",
+            "http://dbpedia.org/resource/Winter_Olympic_Games",
+            "http://dbpedia.org/resource/2002_Winter_Olympics"
+        ]
+    ]
+}

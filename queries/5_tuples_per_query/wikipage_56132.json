@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nairo_Quintana",
+            "http://dbpedia.org/resource/Stefano_Pirazzi",
+            "http://dbpedia.org/resource/Nicolas_Edet"
+        ],
+        [
+            "http://dbpedia.org/resource/Mauricio_Soler",
+            "http://dbpedia.org/resource/Leonardo_Piepoli",
+            "http://dbpedia.org/resource/Denis_Menchov"
+        ],
+        [
+            "http://dbpedia.org/resource/Santiago_Botero",
+            "http://dbpedia.org/resource/Francesco_Casagrande",
+            "http://dbpedia.org/resource/Carlos_Sastre"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Virenque",
+            "http://dbpedia.org/resource/Mariano_Piccoli",
+            "http://dbpedia.org/resource/Tony_Rominger"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Virenque",
+            "http://dbpedia.org/resource/Mariano_Piccoli",
+            "http://dbpedia.org/resource/Laurent_Jalabert"
+        ]
+    ]
+}

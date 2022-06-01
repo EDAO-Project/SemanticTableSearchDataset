@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colonel",
+            "http://dbpedia.org/resource/Peter_Brownback",
+            "http://dbpedia.org/resource/United_States_Army"
+        ]
+    ]
+}

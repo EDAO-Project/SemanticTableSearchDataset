@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_Formula_One_season",
+            "http://dbpedia.org/resource/Michael_Schumacher",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/1998_Argentine_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Formula_One_season",
+            "http://dbpedia.org/resource/Jacques_Villeneuve",
+            "http://dbpedia.org/resource/Williams_Grand_Prix_Engineering",
+            "http://dbpedia.org/resource/1997_Argentine_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Formula_One_season",
+            "http://dbpedia.org/resource/Damon_Hill",
+            "http://dbpedia.org/resource/Williams_Grand_Prix_Engineering",
+            "http://dbpedia.org/resource/1996_Argentine_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Formula_One_season",
+            "http://dbpedia.org/resource/Damon_Hill",
+            "http://dbpedia.org/resource/Williams_Grand_Prix_Engineering",
+            "http://dbpedia.org/resource/1995_Argentine_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Formula_One_season",
+            "http://dbpedia.org/resource/Nelson_Piquet",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/1981_Argentine_Grand_Prix"
+        ]
+    ]
+}

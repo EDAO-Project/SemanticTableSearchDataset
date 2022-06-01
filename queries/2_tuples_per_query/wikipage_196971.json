@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/First_Texas_Legislature",
+            "http://dbpedia.org/resource/Edward_Burleson",
+            "http://dbpedia.org/resource/Bastrop_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Second_Texas_Legislature",
+            "http://dbpedia.org/resource/Edward_Burleson",
+            "http://dbpedia.org/resource/Bastrop_County,_Texas"
+        ]
+    ]
+}

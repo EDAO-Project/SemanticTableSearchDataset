@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oskar_Rohr",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Striker"
+        ],
+        [
+            "http://dbpedia.org/resource/Aleksandrs_Vanags",
+            "http://dbpedia.org/resource/Latvia",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

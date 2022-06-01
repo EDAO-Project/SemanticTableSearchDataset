@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1955_Formula_One_season",
+            "http://dbpedia.org/resource/Jim_Rathmann",
+            "http://dbpedia.org/resource/1955_Indianapolis_500"
+        ]
+    ]
+}

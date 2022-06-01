@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clarence_Munn",
+            "http://dbpedia.org/resource/Big_Ten_Conference",
+            "http://dbpedia.org/resource/1954_Rose_Bowl"
+        ]
+    ]
+}

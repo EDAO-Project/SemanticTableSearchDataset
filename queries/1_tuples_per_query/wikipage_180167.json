@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Orion_International",
+            "http://dbpedia.org/resource/Diesel_fuel",
+            "http://dbpedia.org/resource/Detroit_Diesel_Series_50"
+        ]
+    ]
+}

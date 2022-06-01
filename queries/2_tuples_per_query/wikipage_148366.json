@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_59",
+            "http://dbpedia.org/resource/Iowa",
+            "http://dbpedia.org/resource/Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_61",
+            "http://dbpedia.org/resource/Keokuk,_Iowa",
+            "http://dbpedia.org/resource/Arkansas"
+        ]
+    ]
+}

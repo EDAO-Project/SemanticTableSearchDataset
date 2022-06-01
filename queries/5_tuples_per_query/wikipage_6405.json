@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/1951_British_Grand_Prix",
+            "http://dbpedia.org/resource/2013_Spanish_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/1967_Dutch_Grand_Prix",
+            "http://dbpedia.org/resource/2003_Brazilian_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/Renault_in_Formula_One",
+            "http://dbpedia.org/resource/1979_French_Grand_Prix",
+            "http://dbpedia.org/resource/2013_Indian_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/Mercedes-Benz_in_Formula_One",
+            "http://dbpedia.org/resource/1954_French_Grand_Prix",
+            "http://dbpedia.org/resource/2013_Hungarian_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/Honda_in_Formula_One",
+            "http://dbpedia.org/resource/1965_Mexican_Grand_Prix",
+            "http://dbpedia.org/resource/2006_Hungarian_Grand_Prix"
+        ]
+    ]
+}

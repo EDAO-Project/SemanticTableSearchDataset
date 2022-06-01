@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gill_Swerts",
+            "http://dbpedia.org/resource/AZ_Alkmaar",
+            "http://dbpedia.org/resource/Feyenoord"
+        ],
+        [
+            "http://dbpedia.org/resource/Martijn_Barto",
+            "http://dbpedia.org/resource/Harkemase_Boys",
+            "http://dbpedia.org/resource/SC_Cambuur"
+        ],
+        [
+            "http://dbpedia.org/resource/Mitchell_Donald",
+            "http://dbpedia.org/resource/AFC_Ajax",
+            "http://dbpedia.org/resource/Roda_JC_Kerkrade"
+        ],
+        [
+            "http://dbpedia.org/resource/Willem_Janssen",
+            "http://dbpedia.org/resource/Roda_JC_Kerkrade",
+            "http://dbpedia.org/resource/FC_Twente"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Kromkamp",
+            "http://dbpedia.org/resource/PSV_Eindhoven",
+            "http://dbpedia.org/resource/Go_Ahead_Eagles"
+        ]
+    ]
+}

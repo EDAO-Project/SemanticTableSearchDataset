@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tani_Fuga",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Samoa_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunia_Koto",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Fiji_Rugby_Union"
+        ]
+    ]
+}

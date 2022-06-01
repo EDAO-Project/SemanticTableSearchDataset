@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stroud",
+            "http://dbpedia.org/resource/Quedgeley",
+            "http://dbpedia.org/resource/A419_road"
+        ],
+        [
+            "http://dbpedia.org/resource/A4074_road",
+            "http://dbpedia.org/resource/A41_road",
+            "http://dbpedia.org/resource/Icknield_Way"
+        ],
+        [
+            "http://dbpedia.org/resource/A418_road",
+            "http://dbpedia.org/resource/A41_road",
+            "http://dbpedia.org/resource/Long_Crendon"
+        ],
+        [
+            "http://dbpedia.org/resource/Drayton,_Vale_of_White_Horse",
+            "http://dbpedia.org/resource/A417_road",
+            "http://dbpedia.org/resource/Sutton_Courtenay"
+        ],
+        [
+            "http://dbpedia.org/resource/Farmoor",
+            "http://dbpedia.org/resource/A4130_road",
+            "http://dbpedia.org/resource/Cumnor"
+        ]
+    ]
+}

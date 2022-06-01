@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/Hugh_Greer",
+            "http://dbpedia.org/resource/Dartmouth_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Dartmouth_College",
+            "http://dbpedia.org/resource/Doggie_Julian",
+            "http://dbpedia.org/resource/University_of_Connecticut"
+        ]
+    ]
+}

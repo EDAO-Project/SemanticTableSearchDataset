@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mower_County,_Minnesota",
+            "http://dbpedia.org/resource/Grand_Meadow,_Minnesota",
+            "http://dbpedia.org/resource/Rochester,_Minnesota"
+        ],
+        [
+            "http://dbpedia.org/resource/Mower_County,_Minnesota",
+            "http://dbpedia.org/resource/Lansing,_Minnesota",
+            "http://dbpedia.org/resource/Le_Mars,_Iowa"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shane_Gould",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Mark_Spitz",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

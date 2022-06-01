@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sucheta_Kriplani",
+            "http://dbpedia.org/resource/Uttar_Pradesh",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Nandini_Satpathy",
+            "http://dbpedia.org/resource/Odisha",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Shashikala_Kakodkar",
+            "http://dbpedia.org/resource/Goa",
+            "http://dbpedia.org/resource/Maharashtrawadi_Gomantak_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Anwara_Taimur",
+            "http://dbpedia.org/resource/Assam",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/V._N._Janaki",
+            "http://dbpedia.org/resource/Tamil_Nadu",
+            "http://dbpedia.org/resource/All_India_Anna_Dravida_Munnetra_Kazhagam"
+        ]
+    ]
+}

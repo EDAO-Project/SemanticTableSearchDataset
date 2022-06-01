@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armstrong-Walker_House",
+            "http://dbpedia.org/resource/Delaware_Route_71",
+            "http://dbpedia.org/resource/Middletown,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/Augustine_Beach_Hotel",
+            "http://dbpedia.org/resource/Delaware_Route_9",
+            "http://dbpedia.org/resource/Port_Penn,_Delaware"
+        ]
+    ]
+}

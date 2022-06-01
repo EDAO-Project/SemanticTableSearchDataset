@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blue_Lightning",
+            "http://dbpedia.org/resource/Raymond_Lee",
+            "http://dbpedia.org/resource/Tony_Leung_Ka-fai"
+        ],
+        [
+            "http://dbpedia.org/resource/Casino_Raiders_II",
+            "http://dbpedia.org/resource/Johnnie_To",
+            "http://dbpedia.org/resource/Andy_Lau"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ape_Escape",
+            "http://dbpedia.org/resource/PlayStation",
+            "http://dbpedia.org/resource/Platform_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Back_to_the_Future:_The_Game",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Back_to_the_Future_Part_III"
+        ],
+        [
+            "http://dbpedia.org/resource/Empire_Earth",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Final_Fantasy_VIII",
+            "http://dbpedia.org/resource/PlayStation",
+            "http://dbpedia.org/resource/Characters_of_Final_Fantasy_VIII"
+        ],
+        [
+            "http://dbpedia.org/resource/Future_Wars",
+            "http://dbpedia.org/resource/Amiga",
+            "http://dbpedia.org/resource/Window_cleaner"
+        ]
+    ]
+}

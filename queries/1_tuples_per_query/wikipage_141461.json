@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Riversleigh",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/Fossil"
+        ]
+    ]
+}

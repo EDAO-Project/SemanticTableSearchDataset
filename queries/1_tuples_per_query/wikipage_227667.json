@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chet_Miller",
+            "http://dbpedia.org/resource/1953_Indianapolis_500",
+            "http://dbpedia.org/resource/Indianapolis_Motor_Speedway",
+            "http://dbpedia.org/resource/Kurtis_Kraft"
+        ]
+    ]
+}

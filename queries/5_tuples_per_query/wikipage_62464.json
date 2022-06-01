@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brothers_Five",
+            "http://dbpedia.org/resource/Lo_Wei",
+            "http://dbpedia.org/resource/Cheng_Pei-pei"
+        ],
+        [
+            "http://dbpedia.org/resource/Cotton_Comes_to_Harlem",
+            "http://dbpedia.org/resource/Ossie_Davis",
+            "http://dbpedia.org/resource/Godfrey_Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Dirty_Harry",
+            "http://dbpedia.org/resource/Don_Siegel",
+            "http://dbpedia.org/resource/Clint_Eastwood"
+        ],
+        [
+            "http://dbpedia.org/resource/Duel_of_Fists",
+            "http://dbpedia.org/resource/Chang_Cheh",
+            "http://dbpedia.org/resource/David_Chiang"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Big_Boss",
+            "http://dbpedia.org/resource/Lo_Wei",
+            "http://dbpedia.org/resource/Bruce_Lee"
+        ]
+    ]
+}

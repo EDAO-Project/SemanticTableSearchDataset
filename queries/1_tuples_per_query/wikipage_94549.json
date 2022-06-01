@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Canadian_Trade_Office_in_Taipei",
+            "http://dbpedia.org/resource/Foreign_relations_of_Taiwan"
+        ]
+    ]
+}

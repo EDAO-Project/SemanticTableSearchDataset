@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_NASCAR_Strictly_Stock_Series",
+            "http://dbpedia.org/resource/Red_Byron",
+            "http://dbpedia.org/resource/Oldsmobile"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_NASCAR_Grand_National_Series",
+            "http://dbpedia.org/resource/Bill_Rexford",
+            "http://dbpedia.org/resource/Oldsmobile"
+        ]
+    ]
+}

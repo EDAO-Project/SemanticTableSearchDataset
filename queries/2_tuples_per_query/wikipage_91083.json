@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jason_Soloman",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Sam_McMahon",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Madison_Square_Garden",
+            "http://dbpedia.org/resource/The_Mega_Powers"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Rutherford,_New_Jersey",
+            "http://dbpedia.org/resource/Izod_Center",
+            "http://dbpedia.org/resource/Brutus_Beefcake"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_Center",
+            "http://dbpedia.org/resource/Owen_Hart"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/Quicken_Loans_Arena",
+            "http://dbpedia.org/resource/Mick_Foley"
+        ],
+        [
+            "http://dbpedia.org/resource/Uniondale,_New_York",
+            "http://dbpedia.org/resource/Nassau_Veterans_Memorial_Coliseum",
+            "http://dbpedia.org/resource/Professional_wrestling_match_types"
+        ]
+    ]
+}

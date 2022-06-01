@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/Rick_Jeanneret",
+            "http://dbpedia.org/resource/Rob_Ray",
+            "http://dbpedia.org/resource/Sabres_Hockey_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Carolina_Hurricanes",
+            "http://dbpedia.org/resource/John_Forslund",
+            "http://dbpedia.org/resource/Tripp_Tracy",
+            "http://dbpedia.org/resource/Fox_Sports_Carolinas"
+        ]
+    ]
+}

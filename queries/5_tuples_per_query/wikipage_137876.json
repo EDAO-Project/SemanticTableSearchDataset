@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WYFD",
+            "http://dbpedia.org/resource/Decatur,_Alabama",
+            "http://dbpedia.org/resource/WYFD"
+        ],
+        [
+            "http://dbpedia.org/resource/WGTF",
+            "http://dbpedia.org/resource/Dothan,_Alabama",
+            "http://dbpedia.org/resource/WGTF"
+        ],
+        [
+            "http://dbpedia.org/resource/WYBP",
+            "http://dbpedia.org/resource/Fort_Lauderdale,_Florida",
+            "http://dbpedia.org/resource/WYBP"
+        ],
+        [
+            "http://dbpedia.org/resource/WYFB",
+            "http://dbpedia.org/resource/Gainesville,_Florida",
+            "http://dbpedia.org/resource/WYFB"
+        ],
+        [
+            "http://dbpedia.org/resource/WYFO",
+            "http://dbpedia.org/resource/Lakeland,_Florida",
+            "http://dbpedia.org/resource/WYFO"
+        ]
+    ]
+}

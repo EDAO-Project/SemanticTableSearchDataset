@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ulrika_Knape",
+            "http://dbpedia.org/resource/1973_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Diving_at_the_1973_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Ulrika_Knape",
+            "http://dbpedia.org/resource/1973_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Diving_at_the_1973_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Ulrika_Knape",
+            "http://dbpedia.org/resource/1975_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Diving_at_the_1975_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Per_Holmertz",
+            "http://dbpedia.org/resource/1978_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Swimming_at_the_1978_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Bengt_Baron",
+            "http://dbpedia.org/resource/1982_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Swimming_at_the_1978_World_Aquatics_Championships"
+        ]
+    ]
+}

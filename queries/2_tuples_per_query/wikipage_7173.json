@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dale_Earnhardt",
+            "http://dbpedia.org/resource/GM_Certified_Service",
+            "http://dbpedia.org/resource/Richard_Childress_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobby_Labonte",
+            "http://dbpedia.org/resource/Interstate_Batteries",
+            "http://dbpedia.org/resource/Joe_Gibbs_Racing",
+            "http://dbpedia.org/resource/Pontiac"
+        ]
+    ]
+}

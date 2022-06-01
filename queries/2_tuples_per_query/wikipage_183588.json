@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_Arena_Football_League_season",
+            "http://dbpedia.org/resource/Dwayne_Dixon",
+            "http://dbpedia.org/resource/Massachusetts_Marauders",
+            "http://dbpedia.org/resource/Wide_receiver"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Arena_Football_League_season",
+            "http://dbpedia.org/resource/Milton_Barney",
+            "http://dbpedia.org/resource/New_Orleans_Night",
+            "http://dbpedia.org/resource/Wide_receiver"
+        ]
+    ]
+}

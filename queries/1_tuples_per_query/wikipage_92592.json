@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bluestack_Way",
+            "http://dbpedia.org/resource/County_Donegal",
+            "http://dbpedia.org/resource/Donegal",
+            "http://dbpedia.org/resource/Ardara"
+        ]
+    ]
+}

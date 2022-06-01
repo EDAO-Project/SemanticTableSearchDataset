@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joe_Canning",
+            "http://dbpedia.org/resource/Galway_GAA",
+            "http://dbpedia.org/resource/Tipperary_GAA"
+        ]
+    ]
+}

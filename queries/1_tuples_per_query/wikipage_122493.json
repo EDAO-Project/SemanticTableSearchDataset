@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/Gene_Mayer",
+            "http://dbpedia.org/resource/John_Sadri",
+            "http://dbpedia.org/resource/Mel_Purcell",
+            "http://dbpedia.org/resource/Bruce_Manson"
+        ]
+    ]
+}

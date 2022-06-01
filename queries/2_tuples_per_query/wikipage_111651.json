@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gerrit_Cole",
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/UCLA_Bruins_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Hultzen",
+            "http://dbpedia.org/resource/Seattle_Mariners",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Virginia_Cavaliers_baseball"
+        ]
+    ]
+}

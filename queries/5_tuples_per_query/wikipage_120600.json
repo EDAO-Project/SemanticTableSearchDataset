@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cape_Town",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Bellville_Velodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Johannesburg",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Gallagher_Convention_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Milan",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Mediolanum_Forum"
+        ],
+        [
+            "http://dbpedia.org/resource/Lisbon",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/MEO_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Porto",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Coliseu_do_Porto"
+        ]
+    ]
+}

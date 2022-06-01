@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Paradise_Rock_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Pottsville,_Pennsylvania",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Goodfellas"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Heerenveen",
+            "http://dbpedia.org/resource/Nina_Statkevich",
+            "http://dbpedia.org/resource/Stien_Kaiser",
+            "http://dbpedia.org/resource/Ans_Schut"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandbu",
+            "http://dbpedia.org/resource/Atje_Keulen-Deelstra",
+            "http://dbpedia.org/resource/Trijnie_Rep",
+            "http://dbpedia.org/resource/Nina_Statkevich"
+        ],
+        [
+            "http://dbpedia.org/resource/Almaty",
+            "http://dbpedia.org/resource/Atje_Keulen-Deelstra",
+            "http://dbpedia.org/resource/Nina_Statkevich",
+            "http://dbpedia.org/resource/Tatyana_Shelekhova"
+        ],
+        [
+            "http://dbpedia.org/resource/Heerenveen",
+            "http://dbpedia.org/resource/Natalya_Petrusyova",
+            "http://dbpedia.org/resource/Karin_Enke",
+            "http://dbpedia.org/resource/Gabi_Zange"
+        ],
+        [
+            "http://dbpedia.org/resource/Heerenveen",
+            "http://dbpedia.org/resource/Natalya_Petrusyova",
+            "http://dbpedia.org/resource/Karin_Enke",
+            "http://dbpedia.org/resource/Natalya_Glebova"
+        ]
+    ]
+}

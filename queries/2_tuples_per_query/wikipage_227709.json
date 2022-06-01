@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buckner_Thruston",
+            "http://dbpedia.org/resource/9th_United_States_Congress",
+            "http://dbpedia.org/resource/John_Adair"
+        ],
+        [
+            "http://dbpedia.org/resource/Buckner_Thruston",
+            "http://dbpedia.org/resource/9th_United_States_Congress",
+            "http://dbpedia.org/resource/Henry_Clay"
+        ]
+    ]
+}

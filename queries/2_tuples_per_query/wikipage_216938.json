@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Air_Canada_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_Hills,_Michigan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Palace_of_Auburn_Hills"
+        ]
+    ]
+}

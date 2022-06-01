@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carolina_Crown_Drum_and_Bugle_Corps",
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/Lucas_Oil_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Blue_Devils_Drum_and_Bugle_Corps",
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/Lucas_Oil_Stadium"
+        ]
+    ]
+}

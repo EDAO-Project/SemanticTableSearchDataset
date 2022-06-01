@@ -1,0 +1,27 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Animale",
+            "http://dbpedia.org/resource/Don_Diablo",
+            "http://dbpedia.org/resource/Don_Diablo",
+            "http://dbpedia.org/resource/Animale"
+        ],
+        [
+            "http://dbpedia.org/resource/Martina_Sorbara",
+            "http://dbpedia.org/resource/Fixin_to_Thrill"
+        ],
+        [
+            "http://dbpedia.org/resource/Fixin_to_Thrill",
+            "http://dbpedia.org/resource/Martina_Sorbara",
+            "http://dbpedia.org/resource/Fixin_to_Thrill"
+        ],
+        [
+            "http://dbpedia.org/resource/Martina_Sorbara",
+            "http://dbpedia.org/resource/Fixin_to_Thrill"
+        ],
+        [
+            "http://dbpedia.org/resource/Martina_Sorbara",
+            "http://dbpedia.org/resource/Fixin_to_Thrill"
+        ]
+    ]
+}

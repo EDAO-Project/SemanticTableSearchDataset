@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Mobile,_Alabama",
+            "http://dbpedia.org/resource/RSA_Battle_House_Tower"
+        ],
+        [
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Anchorage,_Alaska",
+            "http://dbpedia.org/resource/Conoco-Phillips_Building"
+        ]
+    ]
+}

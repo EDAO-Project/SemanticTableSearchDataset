@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Southern_California",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/California"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barrington_Court",
+            "http://dbpedia.org/resource/Barrington,_Somerset",
+            "http://dbpedia.org/resource/Tudor_architecture"
+        ]
+    ]
+}

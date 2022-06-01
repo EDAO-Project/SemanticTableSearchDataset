@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Roger_Clemens",
+            "http://dbpedia.org/resource/Mike_Oquist",
+            "http://dbpedia.org/resource/Paul_Quantrill"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Robert_Person",
+            "http://dbpedia.org/resource/Steve_Karsay",
+            "http://dbpedia.org/resource/Paul_Quantrill"
+        ]
+    ]
+}

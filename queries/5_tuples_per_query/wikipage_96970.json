@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Africa_Open",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Charl_Schwartzel",
+            "http://dbpedia.org/resource/Sunshine_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/Joburg_Open",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Charl_Schwartzel",
+            "http://dbpedia.org/resource/Sunshine_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/Avantha_Masters",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Andrew_Dodt",
+            "http://dbpedia.org/resource/Asian_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Match_Play_Championship",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ian_Poulter",
+            "http://dbpedia.org/resource/World_Golf_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Championship",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ernie_Els",
+            "http://dbpedia.org/resource/World_Golf_Championships"
+        ]
+    ]
+}

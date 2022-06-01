@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Qing_conquest_of_the_Ming",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Qing_dynasty"
+        ],
+        [
+            "http://dbpedia.org/resource/1918_flu_pandemic",
+            "http://dbpedia.org/resource/World_War_I",
+            "http://dbpedia.org/resource/World_War_I_casualties"
+        ]
+    ]
+}

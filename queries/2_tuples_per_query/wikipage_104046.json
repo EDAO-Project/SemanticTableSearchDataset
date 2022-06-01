@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baten_Kaitos_Origins",
+            "http://dbpedia.org/resource/Tri-Crescendo",
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Baten_Kaitos:_Eternal_Wings_and_the_Lost_Ocean"
+        ],
+        [
+            "http://dbpedia.org/resource/Dungeon_Siege:_Throne_of_Agony",
+            "http://dbpedia.org/resource/SuperVillain_Studios",
+            "http://dbpedia.org/resource/2K_Games",
+            "http://dbpedia.org/resource/Dungeon_Siege_II"
+        ]
+    ]
+}

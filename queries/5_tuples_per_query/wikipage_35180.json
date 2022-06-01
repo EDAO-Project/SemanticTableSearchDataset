@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Averitt-Winchester_House",
+            "http://dbpedia.org/resource/Florida_State_Road_59",
+            "http://dbpedia.org/resource/Miccosukee,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Bannerman_Plantation",
+            "http://dbpedia.org/resource/Tallahassee,_Florida",
+            "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellevue_Plantation",
+            "http://dbpedia.org/resource/Florida_State_Road_371",
+            "http://dbpedia.org/resource/Tallahassee,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackwood-Harwood_Plantations_Cemetery",
+            "http://dbpedia.org/resource/Florida_State_Road_263",
+            "http://dbpedia.org/resource/Tallahassee,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Calhoun_Street_Historic_District",
+            "http://dbpedia.org/resource/U.S._Route_90_in_Florida",
+            "http://dbpedia.org/resource/Tallahassee,_Florida"
+        ]
+    ]
+}

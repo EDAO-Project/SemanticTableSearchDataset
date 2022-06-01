@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cincinnati_Bengals",
+            "http://dbpedia.org/resource/Riverfront_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/History_of_the_Los_Angeles_Rams",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/Monday_Night_Football"
+        ]
+    ]
+}

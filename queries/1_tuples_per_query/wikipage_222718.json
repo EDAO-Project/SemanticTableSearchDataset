@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2004_in_NASCAR",
+            "http://dbpedia.org/resource/Fox_NASCAR",
+            "http://dbpedia.org/resource/Mike_Joy",
+            "http://dbpedia.org/resource/Darrell_Waltrip"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeff_Gordon",
+            "http://dbpedia.org/resource/Hendrick_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Burton",
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Dale_Jarrett",
+            "http://dbpedia.org/resource/Yates_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Elliott",
+            "http://dbpedia.org/resource/Bill_Elliott_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Ricky_Rudd",
+            "http://dbpedia.org/resource/Rudd_Performance_Motorsports",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ]
+    ]
+}

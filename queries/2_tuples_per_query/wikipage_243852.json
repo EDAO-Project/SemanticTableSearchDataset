@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_ARL_season",
+            "http://dbpedia.org/resource/Grant_Bell",
+            "http://dbpedia.org/resource/Laurie_Spina",
+            "http://dbpedia.org/resource/1995_North_Queensland_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_ARL_season",
+            "http://dbpedia.org/resource/Graham_Lowe",
+            "http://dbpedia.org/resource/Dean_Schifilliti",
+            "http://dbpedia.org/resource/1996_North_Queensland_Cowboys_season"
+        ]
+    ]
+}

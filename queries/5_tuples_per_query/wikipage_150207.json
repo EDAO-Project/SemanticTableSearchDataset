@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Melkweg"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/O2_Academy_Islington"
+        ],
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/O2_Academy_Birmingham"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/O2_Academy_Bristol"
+        ],
+        [
+            "http://dbpedia.org/resource/Vilnius",
+            "http://dbpedia.org/resource/Lithuania",
+            "http://dbpedia.org/resource/Forum_Palace"
+        ]
+    ]
+}

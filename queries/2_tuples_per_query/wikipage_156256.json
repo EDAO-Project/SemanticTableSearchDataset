@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kerala_State_Film_Award_for_Best_Film",
+            "http://dbpedia.org/resource/Film_producer",
+            "http://dbpedia.org/resource/Adaminte_Makan_Abu"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerala_State_Film_Award_for_Second_Best_Film",
+            "http://dbpedia.org/resource/Film_producer",
+            "http://dbpedia.org/resource/Makaramanju"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bridgend_Ravens",
+            "http://dbpedia.org/resource/Brewery_Field",
+            "http://dbpedia.org/resource/Bridgend"
+        ]
+    ]
+}

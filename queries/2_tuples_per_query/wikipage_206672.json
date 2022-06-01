@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_in_sports",
+            "http://dbpedia.org/resource/Phil_Rizzuto",
+            "http://dbpedia.org/resource/Baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_in_sports",
+            "http://dbpedia.org/resource/Allie_Reynolds",
+            "http://dbpedia.org/resource/Baseball"
+        ]
+    ]
+}

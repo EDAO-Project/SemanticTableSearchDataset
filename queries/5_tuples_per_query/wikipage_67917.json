@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baron_Ferrers_of_Chartley",
+            "http://dbpedia.org/resource/Elizabeth_Compton,_Countess_of_Northampton",
+            "http://dbpedia.org/resource/Earl_of_Northampton",
+            "http://dbpedia.org/resource/Robert_Shirley,_1st_Earl_Ferrers",
+            "http://dbpedia.org/resource/Abeyance"
+        ],
+        [
+            "http://dbpedia.org/resource/Duchess_of_Marlborough",
+            "http://dbpedia.org/resource/Henrietta_Godolphin,_2nd_Duchess_of_Marlborough",
+            "http://dbpedia.org/resource/Earl_of_Godolphin",
+            "http://dbpedia.org/resource/John_Churchill,_1st_Duke_of_Marlborough",
+            "http://dbpedia.org/resource/Charles_Spencer,_3rd_Duke_of_Marlborough"
+        ],
+        [
+            "http://dbpedia.org/resource/Baron_Ferrers_of_Chartley",
+            "http://dbpedia.org/resource/Charlotte_Townshend,_Viscountess_Townshend",
+            "http://dbpedia.org/resource/Marquess_Townshend",
+            "http://dbpedia.org/resource/Elizabeth_Compton,_Countess_of_Northampton",
+            "http://dbpedia.org/resource/George_Townshend,_2nd_Marquess_Townshend"
+        ],
+        [
+            "http://dbpedia.org/resource/Baron_Compton",
+            "http://dbpedia.org/resource/Charlotte_Townshend,_Viscountess_Townshend",
+            "http://dbpedia.org/resource/Marquess_Townshend",
+            "http://dbpedia.org/resource/James_Compton,_5th_Earl_of_Northampton",
+            "http://dbpedia.org/resource/George_Townshend,_2nd_Marquess_Townshend"
+        ],
+        [
+            "http://dbpedia.org/resource/Baron_Percy",
+            "http://dbpedia.org/resource/Elizabeth_Percy,_Duchess_of_Northumberland",
+            "http://dbpedia.org/resource/Duke_of_Northumberland",
+            "http://dbpedia.org/resource/Algernon_Seymour,_7th_Duke_of_Somerset",
+            "http://dbpedia.org/resource/Hugh_Percy,_2nd_Duke_of_Northumberland"
+        ]
+    ]
+}

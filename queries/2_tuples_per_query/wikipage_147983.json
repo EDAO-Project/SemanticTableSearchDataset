@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Augsburg_College",
+            "http://dbpedia.org/resource/Minneapolis",
+            "http://dbpedia.org/resource/Lutheranism",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/Commission_on_Collegiate_Nursing_Education"
+        ],
+        [
+            "http://dbpedia.org/resource/Bethany_Lutheran_College",
+            "http://dbpedia.org/resource/Mankato,_Minnesota",
+            "http://dbpedia.org/resource/Lutheranism",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/The_Higher_Learning_Commission"
+        ]
+    ]
+}

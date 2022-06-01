@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sanjeev_Rajput",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/China"
+        ]
+    ]
+}

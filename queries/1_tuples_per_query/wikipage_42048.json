@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Christian_Science_Monitor",
+            "http://dbpedia.org/resource/Pulitzer_Prize_for_International_Reporting",
+            "http://dbpedia.org/resource/Los_Angeles_Times"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2003_Wisconsin_Badgers_football_team",
+            "http://dbpedia.org/resource/Mountaineer_Field_at_Milan_Puskar_Stadium",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Cincinnati_Bearcats_football_team",
+            "http://dbpedia.org/resource/Mountaineer_Field_at_Milan_Puskar_Stadium",
+            "http://dbpedia.org/resource/ESPN_Events"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Miami_Hurricanes_football_team",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Rutgers_Scarlet_Knights_football_team",
+            "http://dbpedia.org/resource/Mountaineer_Field_at_Milan_Puskar_Stadium",
+            "http://dbpedia.org/resource/ESPN_Events"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Virginia_Tech_Hokies_football_team",
+            "http://dbpedia.org/resource/Mountaineer_Field_at_Milan_Puskar_Stadium",
+            "http://dbpedia.org/resource/ESPN"
+        ]
+    ]
+}

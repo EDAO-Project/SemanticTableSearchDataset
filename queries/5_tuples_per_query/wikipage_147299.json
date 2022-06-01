@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christianity",
+            "http://dbpedia.org/resource/Abrahamic_religions",
+            "http://dbpedia.org/resource/Western_world"
+        ],
+        [
+            "http://dbpedia.org/resource/Islam",
+            "http://dbpedia.org/resource/Abrahamic_religions",
+            "http://dbpedia.org/resource/Middle_East"
+        ],
+        [
+            "http://dbpedia.org/resource/Irreligion",
+            "http://dbpedia.org/resource/Secularism",
+            "http://dbpedia.org/resource/Western_world"
+        ],
+        [
+            "http://dbpedia.org/resource/Hinduism",
+            "http://dbpedia.org/resource/Indian_religions",
+            "http://dbpedia.org/resource/South_Asia"
+        ],
+        [
+            "http://dbpedia.org/resource/Buddhism",
+            "http://dbpedia.org/resource/Indian_religions",
+            "http://dbpedia.org/resource/South_Asia"
+        ]
+    ]
+}

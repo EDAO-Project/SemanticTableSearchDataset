@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ATP_Auckland_Open",
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Zagreb_Indoors",
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/Croatia"
+        ]
+    ]
+}

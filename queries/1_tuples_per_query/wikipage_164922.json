@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vaslav_Nijinsky",
+            "http://dbpedia.org/resource/Claude_Debussy",
+            "http://dbpedia.org/resource/Nicholas_Georgiadis"
+        ]
+    ]
+}

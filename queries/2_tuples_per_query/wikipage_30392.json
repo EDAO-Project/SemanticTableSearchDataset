@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wake_Forest_University_School_of_Business",
+            "http://dbpedia.org/resource/Wake_Forest_University",
+            "http://dbpedia.org/resource/Winston-Salem,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Bennett_S._LeBow_College_of_Business",
+            "http://dbpedia.org/resource/Drexel_University",
+            "http://dbpedia.org/resource/Philadelphia"
+        ]
+    ]
+}

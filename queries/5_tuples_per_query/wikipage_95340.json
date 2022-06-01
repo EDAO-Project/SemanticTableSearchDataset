@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Subiaco_Dams",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Dam"
+        ],
+        [
+            "http://dbpedia.org/resource/Almonacid_de_la_Cuba_Dam",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Dam"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornalvo_Dam",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Dam"
+        ],
+        [
+            "http://dbpedia.org/resource/Proserpina_Dam",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Dam"
+        ],
+        [
+            "http://dbpedia.org/resource/Harbaqa_Dam",
+            "http://dbpedia.org/resource/Syria",
+            "http://dbpedia.org/resource/Dam"
+        ]
+    ]
+}

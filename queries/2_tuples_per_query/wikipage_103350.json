@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minuscule_2612",
+            "http://dbpedia.org/resource/Gospel_of_Mark",
+            "http://dbpedia.org/resource/Kenneth_Willis_Clark_Collection",
+            "http://dbpedia.org/resource/Durham,_North_Carolina",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Minuscule_2613",
+            "http://dbpedia.org/resource/Gospel",
+            "http://dbpedia.org/resource/Kenneth_Willis_Clark_Collection",
+            "http://dbpedia.org/resource/Durham,_North_Carolina",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

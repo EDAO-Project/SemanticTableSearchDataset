@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ljudmila_Ninova",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Austria"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_McKoy",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Austria"
+        ]
+    ]
+}

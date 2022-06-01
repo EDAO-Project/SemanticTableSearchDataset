@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Luzhniki_Stadium",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/FC_Spartak_Moscow"
+        ]
+    ]
+}

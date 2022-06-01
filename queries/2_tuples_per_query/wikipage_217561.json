@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denali",
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Alaska_Range"
+        ],
+        [
+            "http://dbpedia.org/resource/Denali",
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Alaska_Range"
+        ]
+    ]
+}

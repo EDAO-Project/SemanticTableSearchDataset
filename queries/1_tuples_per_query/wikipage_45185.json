@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fallon,_Montana",
+            "http://dbpedia.org/resource/Dawson_County,_Montana",
+            "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+        ]
+    ]
+}

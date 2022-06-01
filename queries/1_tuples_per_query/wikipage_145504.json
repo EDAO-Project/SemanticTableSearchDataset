@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trevor_Francis",
+            "http://dbpedia.org/resource/Pony_International",
+            "http://dbpedia.org/resource/Auto_Windscreens"
+        ]
+    ]
+}

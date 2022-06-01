@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Karen_Nelson_Moore",
+            "http://dbpedia.org/resource/Harvard_Law_School",
+            "http://dbpedia.org/resource/Malcolm_Richard_Wilkey"
+        ],
+        [
+            "http://dbpedia.org/resource/Diane_Wood",
+            "http://dbpedia.org/resource/University_of_Texas_School_of_Law",
+            "http://dbpedia.org/resource/Irving_Loeb_Goldberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Keith_P._Ellison",
+            "http://dbpedia.org/resource/Yale_Law_School",
+            "http://dbpedia.org/resource/J._Skelly_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruth_Wedgwood",
+            "http://dbpedia.org/resource/Yale_Law_School",
+            "http://dbpedia.org/resource/Henry_Friendly"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_G._Lauber",
+            "http://dbpedia.org/resource/Yale_Law_School",
+            "http://dbpedia.org/resource/Malcolm_Richard_Wilkey"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amalie_Arena"
+        ]
+    ]
+}

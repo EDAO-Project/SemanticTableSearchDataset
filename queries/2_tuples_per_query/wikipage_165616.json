@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eddy_de_Neve",
+            "http://dbpedia.org/resource/Netherlands_national_football_team",
+            "http://dbpedia.org/resource/Antwerp",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Vivian_Woodward",
+            "http://dbpedia.org/resource/England_national_amateur_football_team",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ]
+    ]
+}

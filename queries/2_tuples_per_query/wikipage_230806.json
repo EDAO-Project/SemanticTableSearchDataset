@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Danai_Udomchoke",
+            "http://dbpedia.org/resource/Lee_Hyung-taik",
+            "http://dbpedia.org/resource/Cecil_Mamiit"
+        ],
+        [
+            "http://dbpedia.org/resource/Danai_Udomchoke",
+            "http://dbpedia.org/resource/Lee_Hyung-taik",
+            "http://dbpedia.org/resource/Go_Soeda"
+        ]
+    ]
+}

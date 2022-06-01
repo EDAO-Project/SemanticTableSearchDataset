@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apricot",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Iran"
+        ],
+        [
+            "http://dbpedia.org/resource/Banana",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Mango",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Coconut",
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Indonesia"
+        ],
+        [
+            "http://dbpedia.org/resource/Sugarcane",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

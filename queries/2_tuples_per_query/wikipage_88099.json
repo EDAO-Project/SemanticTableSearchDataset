@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pennsylvania_College_of_Technology",
+            "http://dbpedia.org/resource/Williamsport,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_College_of_Technology"
+        ],
+        [
+            "http://dbpedia.org/resource/Penn_State_Beaver",
+            "http://dbpedia.org/resource/Monaca,_Pennsylvania",
+            "http://dbpedia.org/resource/Penn_State_Beaver"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aurora_Country_Club",
+            "http://dbpedia.org/resource/Aurora,_Illinois",
+            "http://dbpedia.org/resource/Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Medinah_Country_Club",
+            "http://dbpedia.org/resource/Medinah,_Illinois",
+            "http://dbpedia.org/resource/Illinois"
+        ]
+    ]
+}

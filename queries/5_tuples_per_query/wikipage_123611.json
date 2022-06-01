@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Courier-Mail",
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/News_Corp_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Sydney_Morning_Herald",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Fairfax_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Australian",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/News_Corp_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Newcastle_Herald",
+            "http://dbpedia.org/resource/Newcastle,_New_South_Wales",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Fairfax_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/Gold_Coast_Bulletin",
+            "http://dbpedia.org/resource/Gold_Coast,_Queensland",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/News_Corp_Australia"
+        ]
+    ]
+}

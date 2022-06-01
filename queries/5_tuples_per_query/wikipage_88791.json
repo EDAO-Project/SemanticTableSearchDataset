@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Australian_One_and_a_Half_Litre_Championship",
+            "http://dbpedia.org/resource/Australian_One_and_a_Half_Litre_Championship",
+            "http://dbpedia.org/resource/Elfin_Type_100_Mono"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Australian_One_and_a_Half_Litre_Championship",
+            "http://dbpedia.org/resource/Australian_One_and_a_Half_Litre_Championship",
+            "http://dbpedia.org/resource/Elfin_Type_100_Mono"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Australian_Formula_2_Championship",
+            "http://dbpedia.org/resource/Australian_Formula_2",
+            "http://dbpedia.org/resource/Elfin_Sports_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Australian_Formula_2_Championship",
+            "http://dbpedia.org/resource/Australian_Formula_2",
+            "http://dbpedia.org/resource/Elfin_Sports_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_Tasman_Series",
+            "http://dbpedia.org/resource/Tasman_Series",
+            "http://dbpedia.org/resource/Elfin_MR5"
+        ]
+    ]
+}

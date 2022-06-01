@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avelesges",
+            "http://dbpedia.org/resource/Avesnes-Chaussoy",
+            "http://dbpedia.org/resource/Bacouel-sur-Selle",
+            "http://dbpedia.org/resource/Baizieux"
+        ],
+        [
+            "http://dbpedia.org/resource/Barly,_Somme",
+            "http://dbpedia.org/resource/Bavelincourt",
+            "http://dbpedia.org/resource/Bayencourt",
+            "http://dbpedia.org/resource/Beaucamps-le-Jeune"
+        ]
+    ]
+}

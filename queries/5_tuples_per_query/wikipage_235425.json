@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agios_Efstratios",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Saint_Eustratius"
+        ],
+        [
+            "http://dbpedia.org/resource/Alejandro_Selkirk_Island",
+            "http://dbpedia.org/resource/Chile",
+            "http://dbpedia.org/resource/Alexander_Selkirk"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Island",
+            "http://dbpedia.org/resource/Antarctica",
+            "http://dbpedia.org/resource/Alexander_I_of_Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Annenkov_Island",
+            "http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands",
+            "http://dbpedia.org/resource/Mikhail_Annenkov"
+        ],
+        [
+            "http://dbpedia.org/resource/Baffin_Island",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/William_Baffin"
+        ]
+    ]
+}

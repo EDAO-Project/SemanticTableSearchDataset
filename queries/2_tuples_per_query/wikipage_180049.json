@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lamu_County",
+            "http://dbpedia.org/resource/Abu_Chiaba",
+            "http://dbpedia.org/resource/The_National_Alliance"
+        ],
+        [
+            "http://dbpedia.org/resource/Garissa_County",
+            "http://dbpedia.org/resource/Mohamed_Yusuf_Haji",
+            "http://dbpedia.org/resource/The_National_Alliance"
+        ]
+    ]
+}

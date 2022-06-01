@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1978_New_York_Giants_season",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ]
+    ]
+}

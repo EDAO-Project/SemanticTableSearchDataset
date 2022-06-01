@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Cardinals",
+            "http://dbpedia.org/resource/Larry_Fitzgerald",
+            "http://dbpedia.org/resource/Darnell_Dockett",
+            "http://dbpedia.org/resource/Lorenzo_Alexander"
+        ]
+    ]
+}

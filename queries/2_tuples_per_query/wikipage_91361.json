@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ivana_Hong",
+            "http://dbpedia.org/resource/Shawn_Johnson",
+            "http://dbpedia.org/resource/Nastia_Liukin"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Samantha_Peszek",
+            "http://dbpedia.org/resource/Alicia_Sacramone",
+            "http://dbpedia.org/resource/Shayla_Worley"
+        ]
+    ]
+}

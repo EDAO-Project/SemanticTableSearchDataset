@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armaucourt",
+            "http://dbpedia.org/resource/Arraye-et-Han",
+            "http://dbpedia.org/resource/Art-sur-Meurthe",
+            "http://dbpedia.org/resource/Atton"
+        ],
+        [
+            "http://dbpedia.org/resource/Autreville-sur-Moselle",
+            "http://dbpedia.org/resource/Autrey,_Meurthe-et-Moselle",
+            "http://dbpedia.org/resource/Azelot",
+            "http://dbpedia.org/resource/Bainville-aux-Miroirs"
+        ]
+    ]
+}

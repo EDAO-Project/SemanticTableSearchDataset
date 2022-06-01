@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amiens_Cathedral",
+            "http://dbpedia.org/resource/Amiens",
+            "http://dbpedia.org/resource/Somme",
+            "http://dbpedia.org/resource/Picardy"
+        ],
+        [
+            "http://dbpedia.org/resource/Bec_Abbey",
+            "http://dbpedia.org/resource/Le_Bec-Hellouin",
+            "http://dbpedia.org/resource/Eure",
+            "http://dbpedia.org/resource/Upper_Normandy"
+        ],
+        [
+            "http://dbpedia.org/resource/Charroux_Abbey",
+            "http://dbpedia.org/resource/Charroux,_Vienne",
+            "http://dbpedia.org/resource/Vienne",
+            "http://dbpedia.org/resource/Poitou-Charentes"
+        ],
+        [
+            "http://dbpedia.org/resource/Chartres_Cathedral",
+            "http://dbpedia.org/resource/Chartres",
+            "http://dbpedia.org/resource/Eure-et-Loir",
+            "http://dbpedia.org/resource/Centre-Val_de_Loire"
+        ],
+        [
+            "http://dbpedia.org/resource/Font-de-Gaume",
+            "http://dbpedia.org/resource/Les_Eyzies-de-Tayac-Sireuil",
+            "http://dbpedia.org/resource/Dordogne",
+            "http://dbpedia.org/resource/Aquitaine"
+        ]
+    ]
+}

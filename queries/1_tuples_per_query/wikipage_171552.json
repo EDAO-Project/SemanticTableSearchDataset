@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Siege_of_Ambur",
+            "http://dbpedia.org/resource/Ambur",
+            "http://dbpedia.org/resource/First_Anglo-Mysore_War",
+            "http://dbpedia.org/resource/Kingdom_of_Mysore",
+            "http://dbpedia.org/resource/East_India_Company"
+        ]
+    ]
+}

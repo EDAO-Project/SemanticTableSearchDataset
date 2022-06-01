@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Concord,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Concord_Pavilion"
+        ]
+    ]
+}

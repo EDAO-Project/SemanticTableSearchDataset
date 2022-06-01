@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newlands_Cricket_Ground",
+            "http://dbpedia.org/resource/2009_Indian_Premier_League",
+            "http://dbpedia.org/resource/Rajasthan_Royals",
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/2009_Indian_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/M._A._Chidambaram_Stadium",
+            "http://dbpedia.org/resource/2010_Indian_Premier_League",
+            "http://dbpedia.org/resource/Kings_XI_Punjab",
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/2010_Indian_Premier_League"
+        ]
+    ]
+}

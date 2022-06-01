@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colorado_Chautauqua",
+            "http://dbpedia.org/resource/Boulder,_Colorado",
+            "http://dbpedia.org/resource/Boulder_County,_Colorado",
+            "http://dbpedia.org/resource/Chautauqua"
+        ],
+        [
+            "http://dbpedia.org/resource/Granada_War_Relocation_Center",
+            "http://dbpedia.org/resource/Granada,_Colorado",
+            "http://dbpedia.org/resource/Prowers_County,_Colorado",
+            "http://dbpedia.org/resource/World_War_II"
+        ]
+    ]
+}

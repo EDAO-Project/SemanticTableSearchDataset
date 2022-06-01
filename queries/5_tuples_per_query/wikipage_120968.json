@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Walthour",
+            "http://dbpedia.org/resource/Paul_Guignard",
+            "http://dbpedia.org/resource/Piet_Dickentman"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_Linart",
+            "http://dbpedia.org/resource/Paul_Suter",
+            "http://dbpedia.org/resource/Paul_Guignard"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_Linart",
+            "http://dbpedia.org/resource/Paul_Krewer",
+            "http://dbpedia.org/resource/Walter_Sawall"
+        ],
+        [
+            "http://dbpedia.org/resource/Georges_Paillard",
+            "http://dbpedia.org/resource/Victor_Linart",
+            "http://dbpedia.org/resource/Paul_Krewer"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Lacquehay",
+            "http://dbpedia.org/resource/Franco_Giorgetti",
+            "http://dbpedia.org/resource/Erich_Metze"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_PGA_Tour",
+            "http://dbpedia.org/resource/Humana_Challenge",
+            "http://dbpedia.org/resource/Gary_Player"
+        ]
+    ]
+}

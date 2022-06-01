@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_Veikkausliiga",
+            "http://dbpedia.org/resource/Marek_Czakon",
+            "http://dbpedia.org/resource/FC_Ilves"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Veikkausliiga",
+            "http://dbpedia.org/resource/Kimmo_Tarkkio",
+            "http://dbpedia.org/resource/FC_Haka"
+        ]
+    ]
+}

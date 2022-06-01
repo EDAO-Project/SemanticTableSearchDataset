@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta_metropolitan_area",
+            "http://dbpedia.org/resource/Gainesville,_Georgia_metropolitan_area",
+            "http://dbpedia.org/resource/Hall_County,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_metropolitan_area",
+            "http://dbpedia.org/resource/LaGrange,_Georgia",
+            "http://dbpedia.org/resource/Troup_County,_Georgia"
+        ]
+    ]
+}

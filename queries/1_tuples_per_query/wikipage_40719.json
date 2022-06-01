@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_USA_1957",
+            "http://dbpedia.org/resource/Charlotte_Sheffield",
+            "http://dbpedia.org/resource/Salt_Lake_City",
+            "http://dbpedia.org/resource/Miss_Utah_USA"
+        ]
+    ]
+}

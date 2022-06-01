@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Flint,_Michigan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Dort_Federal_Credit_Union_Event_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Lansing,_Michigan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lansing_Center"
+        ]
+    ]
+}

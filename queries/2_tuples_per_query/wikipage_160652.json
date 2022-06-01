@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Corehouse",
+            "http://dbpedia.org/resource/Lanarkshire",
+            "http://dbpedia.org/resource/George_Cranstoun"
+        ],
+        [
+            "http://dbpedia.org/resource/Canford_School",
+            "http://dbpedia.org/resource/Canford_Magna",
+            "http://dbpedia.org/resource/Country_house"
+        ]
+    ]
+}

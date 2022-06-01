@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/The_West_Wing",
+            "http://dbpedia.org/resource/Aaron_Sorkin",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/The_Practice",
+            "http://dbpedia.org/resource/David_E._Kelley",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/The_Sopranos",
+            "http://dbpedia.org/resource/David_Chase",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_television",
+            "http://dbpedia.org/resource/The_West_Wing",
+            "http://dbpedia.org/resource/Aaron_Sorkin",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_television",
+            "http://dbpedia.org/resource/The_Practice",
+            "http://dbpedia.org/resource/David_E._Kelley",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ]
+    ]
+}

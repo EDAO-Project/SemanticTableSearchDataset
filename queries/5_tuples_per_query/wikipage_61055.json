@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Johnny_Cueto",
+            "http://dbpedia.org/resource/Jon_Garland",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_St._Louis_Cardinals_season",
+            "http://dbpedia.org/resource/Micah_Owings",
+            "http://dbpedia.org/resource/Brad_Thompson",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/David_Weathers",
+            "http://dbpedia.org/resource/Brad_Lidge",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Jamie_Moyer",
+            "http://dbpedia.org/resource/Micah_Owings",
+            "http://dbpedia.org/resource/Brad_Lidge"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Milwaukee_Brewers_season",
+            "http://dbpedia.org/resource/Braden_Looper",
+            "http://dbpedia.org/resource/Homer_Bailey",
+            "http://dbpedia.org/resource/Trevor_Hoffman"
+        ]
+    ]
+}

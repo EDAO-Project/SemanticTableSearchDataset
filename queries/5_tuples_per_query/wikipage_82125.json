@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pilot_officer",
+            "http://dbpedia.org/resource/No._77_Squadron_RAAF",
+            "http://dbpedia.org/resource/Sunchon"
+        ],
+        [
+            "http://dbpedia.org/resource/Pilot_officer",
+            "http://dbpedia.org/resource/No._77_Squadron_RAAF",
+            "http://dbpedia.org/resource/Sea_of_Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Flight_lieutenant",
+            "http://dbpedia.org/resource/No._77_Squadron_RAAF",
+            "http://dbpedia.org/resource/Haeju"
+        ],
+        [
+            "http://dbpedia.org/resource/Pilot_officer",
+            "http://dbpedia.org/resource/No._77_Squadron_RAAF",
+            "http://dbpedia.org/resource/Wonsan"
+        ],
+        [
+            "http://dbpedia.org/resource/Pilot_officer",
+            "http://dbpedia.org/resource/No._77_Squadron_RAAF",
+            "http://dbpedia.org/resource/Haeju"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Ratliff",
+            "http://dbpedia.org/resource/Texas_Senate,_District_1",
+            "http://dbpedia.org/resource/Mount_Pleasant,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Florence_Shapiro",
+            "http://dbpedia.org/resource/Texas_Senate,_District_2",
+            "http://dbpedia.org/resource/Plano,_Texas"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Israeli_Labor_Party",
+            "http://dbpedia.org/resource/David_Libai",
+            "http://dbpedia.org/resource/Eitan_Cabel"
+        ],
+        [
+            "http://dbpedia.org/resource/Israeli_Labor_Party",
+            "http://dbpedia.org/resource/Moshe_Shahal",
+            "http://dbpedia.org/resource/Rafik_Haj_Yahia"
+        ],
+        [
+            "http://dbpedia.org/resource/Likud",
+            "http://dbpedia.org/resource/Eliyahu_Ben-Elissar",
+            "http://dbpedia.org/resource/Reuven_Rivlin"
+        ],
+        [
+            "http://dbpedia.org/resource/Likud",
+            "http://dbpedia.org/resource/Haim_Dayan",
+            "http://dbpedia.org/resource/Tzomet"
+        ],
+        [
+            "http://dbpedia.org/resource/Likud",
+            "http://dbpedia.org/resource/Pini_Badash",
+            "http://dbpedia.org/resource/Doron_Shmueli"
+        ]
+    ]
+}

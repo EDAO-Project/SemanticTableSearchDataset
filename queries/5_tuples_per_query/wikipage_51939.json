@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_9N",
+            "http://dbpedia.org/resource/Elizabethtown,_New_York",
+            "http://dbpedia.org/resource/U.S._Route_9_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Warren_County,_New_York",
+            "http://dbpedia.org/resource/Ticonderoga,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Route_9N"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_9N",
+            "http://dbpedia.org/resource/Keene,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Route_73"
+        ],
+        [
+            "http://dbpedia.org/resource/Keeseville,_New_York",
+            "http://dbpedia.org/resource/Chesterfield,_New_York",
+            "http://dbpedia.org/resource/Lake_Champlain"
+        ],
+        [
+            "http://dbpedia.org/resource/Keeseville,_New_York",
+            "http://dbpedia.org/resource/Chesterfield,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Route_373"
+        ]
+    ]
+}

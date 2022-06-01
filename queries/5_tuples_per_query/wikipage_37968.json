@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dachimawa_Lee",
+            "http://dbpedia.org/resource/Ryoo_Seung-wan",
+            "http://dbpedia.org/resource/Im_Won-hee"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Frozen_Flower",
+            "http://dbpedia.org/resource/Yoo_Ha",
+            "http://dbpedia.org/resource/Jo_In-sung"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Good,_the_Bad,_the_Weird",
+            "http://dbpedia.org/resource/Kim_Jee-woon",
+            "http://dbpedia.org/resource/Song_Kang-ho"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Man_Who_Was_Superman",
+            "http://dbpedia.org/resource/Jeong_Yoon-cheol",
+            "http://dbpedia.org/resource/Jun_Ji-hyun"
+        ],
+        [
+            "http://dbpedia.org/resource/Modern_Boy",
+            "http://dbpedia.org/resource/Jung_Ji-woo",
+            "http://dbpedia.org/resource/Park_Hae-il"
+        ]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Howard",
+            "http://dbpedia.org/resource/John_Brumby",
+            "http://dbpedia.org/resource/Morris_Iemma",
+            "http://dbpedia.org/resource/Mike_Rann",
+            "http://dbpedia.org/resource/Paul_Lennon",
+            "http://dbpedia.org/resource/Anna_Bligh",
+            "http://dbpedia.org/resource/Alan_Carpenter",
+            "http://dbpedia.org/resource/Clare_Martin",
+            "http://dbpedia.org/resource/Jon_Stanhope"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Howard",
+            "http://dbpedia.org/resource/John_Brumby",
+            "http://dbpedia.org/resource/Morris_Iemma",
+            "http://dbpedia.org/resource/Mike_Rann",
+            "http://dbpedia.org/resource/Paul_Lennon",
+            "http://dbpedia.org/resource/Anna_Bligh",
+            "http://dbpedia.org/resource/Alan_Carpenter",
+            "http://dbpedia.org/resource/Clare_Martin",
+            "http://dbpedia.org/resource/Jon_Stanhope"
+        ]
+    ]
+}

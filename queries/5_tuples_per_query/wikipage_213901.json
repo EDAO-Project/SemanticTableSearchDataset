@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billy_Hughes",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Chris_Watson"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Pearce",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Joseph_Lyons"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Gullett",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Robert_Menzies"
+        ],
+        [
+            "http://dbpedia.org/resource/John_McEwen",
+            "http://dbpedia.org/resource/National_Party_of_Australia",
+            "http://dbpedia.org/resource/Robert_Menzies"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Hasluck",
+            "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+            "http://dbpedia.org/resource/Harold_Holt"
+        ]
+    ]
+}

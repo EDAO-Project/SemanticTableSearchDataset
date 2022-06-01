@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nottingham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/University_of_Nottingham"
+        ],
+        [
+            "http://dbpedia.org/resource/York",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/University_of_York"
+        ]
+    ]
+}

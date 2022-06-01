@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1932",
+            "http://dbpedia.org/resource/Albert_C._Willford",
+            "http://dbpedia.org/resource/Thomas_J._B._Robinson"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1934",
+            "http://dbpedia.org/resource/John_W._Gwynne",
+            "http://dbpedia.org/resource/Albert_C._Willford"
+        ]
+    ]
+}

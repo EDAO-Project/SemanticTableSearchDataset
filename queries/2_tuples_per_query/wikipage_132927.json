@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hannam_University",
+            "http://dbpedia.org/resource/Chodang_University",
+            "http://dbpedia.org/resource/Gimcheon_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Yonsei_University",
+            "http://dbpedia.org/resource/Dong-eui_University",
+            "http://dbpedia.org/resource/Gimcheon_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_Australian_Touring_Car_Championship",
+            "http://dbpedia.org/resource/Amaroo_Park",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Mark_Skaife",
+            "http://dbpedia.org/resource/Gibson_Motorsport"
+        ]
+    ]
+}

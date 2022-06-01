@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jack_Nicklaus",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1963_PGA_Championship"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zee_Cine_Awards",
+            "http://dbpedia.org/resource/Aishwarya_Rai_Bachchan",
+            "http://dbpedia.org/resource/Hum_Dil_De_Chuke_Sanam"
+        ],
+        [
+            "http://dbpedia.org/resource/Zee_Cine_Awards",
+            "http://dbpedia.org/resource/Ameesha_Patel",
+            "http://dbpedia.org/resource/Gadar:_Ek_Prem_Katha"
+        ],
+        [
+            "http://dbpedia.org/resource/Zee_Cine_Awards",
+            "http://dbpedia.org/resource/Karisma_Kapoor",
+            "http://dbpedia.org/resource/Zubeidaa"
+        ],
+        [
+            "http://dbpedia.org/resource/Zee_Cine_Awards",
+            "http://dbpedia.org/resource/Nandita_Das",
+            "http://dbpedia.org/resource/Bawandar"
+        ],
+        [
+            "http://dbpedia.org/resource/Zee_Cine_Awards",
+            "http://dbpedia.org/resource/Antara_Mali",
+            "http://dbpedia.org/resource/Main_Madhuri_Dixit_Banna_Chahti_Hoon"
+        ]
+    ]
+}

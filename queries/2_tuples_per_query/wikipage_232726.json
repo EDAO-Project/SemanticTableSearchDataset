@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/One_Crowded_Hour",
+            "http://dbpedia.org/resource/Augie_March",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/When_You_Were_Young",
+            "http://dbpedia.org/resource/The_Killers",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

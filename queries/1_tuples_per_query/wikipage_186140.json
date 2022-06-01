@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_Powlett,_4th_Duke_of_Bolton",
+            "http://dbpedia.org/resource/Charles_Powlett,_5th_Duke_of_Bolton",
+            "http://dbpedia.org/resource/Marquess_of_Winchester"
+        ]
+    ]
+}

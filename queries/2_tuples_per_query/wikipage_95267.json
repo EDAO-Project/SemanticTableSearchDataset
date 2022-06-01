@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Batting_average",
+            "http://dbpedia.org/resource/Ed_Delahanty",
+            "http://dbpedia.org/resource/1899_in_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Home_run",
+            "http://dbpedia.org/resource/Ryan_Howard",
+            "http://dbpedia.org/resource/2006_Major_League_Baseball_season"
+        ]
+    ]
+}

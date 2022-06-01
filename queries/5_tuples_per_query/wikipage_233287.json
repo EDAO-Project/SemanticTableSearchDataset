@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Helen_Wainwright",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethel_McGary",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Coral_Gables,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Edith_Mayne",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Exmouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Martha_Norelius",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Massapequa,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Helene_Madison",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/New_York"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Basketball_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/United_States_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Canada_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Mexico_at_the_1936_Summer_Olympics"
+        ]
+    ]
+}

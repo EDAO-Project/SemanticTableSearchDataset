@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Toronto_Pearson_International_Airport",
+            "http://dbpedia.org/resource/LINK_Train"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/Cincinnati/Northern_Kentucky_International_Airport",
+            "http://dbpedia.org/resource/Cincinnati_Airport_People_Mover"
+        ]
+    ]
+}

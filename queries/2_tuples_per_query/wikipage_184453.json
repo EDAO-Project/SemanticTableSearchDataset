@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arusha",
+            "http://dbpedia.org/resource/Tanzania",
+            "http://dbpedia.org/resource/Kilimanjaro_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Athens",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Athens_International_Airport"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Garuda_1",
+            "http://dbpedia.org/resource/Geostationary_transfer_orbit",
+            "http://dbpedia.org/resource/Communications_satellite"
+        ]
+    ]
+}

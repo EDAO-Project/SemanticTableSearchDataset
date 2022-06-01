@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Museum_of_cacao_and_chocolate",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Choco-Story",
+            "http://dbpedia.org/resource/Bruges",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Cadbury_World",
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Imhoff-Schokoladenmuseum",
+            "http://dbpedia.org/resource/Cologne",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Waldenbuch",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Ritter_Sport"
+        ]
+    ]
+}

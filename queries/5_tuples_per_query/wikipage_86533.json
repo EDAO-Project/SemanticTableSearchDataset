@@ -1,0 +1,26 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adjustable_spanner",
+            "http://dbpedia.org/resource/Adjustable_spanner",
+            "http://dbpedia.org/resource/Johan_Petter_Johansson"
+        ],
+        [
+            "http://dbpedia.org/resource/Socket_wrench",
+            "http://dbpedia.org/resource/Socket_wrench",
+            "http://dbpedia.org/resource/Universal_joint"
+        ],
+        [
+            "http://dbpedia.org/resource/Breaker_bar",
+            "http://dbpedia.org/resource/Torque"
+        ],
+        [
+            "http://dbpedia.org/resource/Torx",
+            "http://dbpedia.org/resource/Cam_out"
+        ],
+        [
+            "http://dbpedia.org/resource/Impact_wrench",
+            "http://dbpedia.org/resource/Stiction"
+        ]
+    ]
+}

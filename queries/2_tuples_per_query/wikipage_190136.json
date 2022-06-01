@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Satoru_Kashiwase",
+            "http://dbpedia.org/resource/Shimizu_S-Pulse",
+            "http://dbpedia.org/resource/New_York_Cosmos"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Klute",
+            "http://dbpedia.org/resource/Atlanta_Silverbacks",
+            "http://dbpedia.org/resource/Colorado_Rapids"
+        ]
+    ]
+}

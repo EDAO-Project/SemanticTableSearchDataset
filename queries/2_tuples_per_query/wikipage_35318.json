@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Althorne_railway_station",
+            "http://dbpedia.org/resource/Maldon_District",
+            "http://dbpedia.org/resource/Greater_Anglia"
+        ],
+        [
+            "http://dbpedia.org/resource/Audley_End_railway_station",
+            "http://dbpedia.org/resource/Uttlesford",
+            "http://dbpedia.org/resource/CrossCountry"
+        ]
+    ]
+}

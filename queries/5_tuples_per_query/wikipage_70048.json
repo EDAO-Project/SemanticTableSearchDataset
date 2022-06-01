@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Franz_Beckenbauer",
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/West_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Giacinto_Facchetti",
+            "http://dbpedia.org/resource/Inter_Milan",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Luigi_Riva",
+            "http://dbpedia.org/resource/Cagliari_Calcio",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Gianni_Rivera",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Willi_Schulz",
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/West_Germany"
+        ]
+    ]
+}

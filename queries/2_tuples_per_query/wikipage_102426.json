@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Open_de_Baleares",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Seve_Ballesteros"
+        ],
+        [
+            "http://dbpedia.org/resource/Cannes_Open",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Mark_McNulty"
+        ]
+    ]
+}

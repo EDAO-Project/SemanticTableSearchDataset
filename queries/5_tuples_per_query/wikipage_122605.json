@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antonio_I,_Prince_of_Monaco",
+            "http://dbpedia.org/resource/Louise_Hippolyte,_Princess_of_Monaco",
+            "http://dbpedia.org/resource/Louis_I,_Prince_of_Monaco"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_III,_Prince_of_Monaco",
+            "http://dbpedia.org/resource/Princess_Florestine_of_Monaco",
+            "http://dbpedia.org/resource/Florestan_I,_Prince_of_Monaco"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_III,_Prince_of_Monaco",
+            "http://dbpedia.org/resource/Albert_I,_Prince_of_Monaco",
+            "http://dbpedia.org/resource/Florestan_I,_Prince_of_Monaco"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_I,_Prince_of_Monaco",
+            "http://dbpedia.org/resource/Princess_Florestine_of_Monaco",
+            "http://dbpedia.org/resource/Charles_III,_Prince_of_Monaco"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_I,_Prince_of_Monaco",
+            "http://dbpedia.org/resource/Louis_II,_Prince_of_Monaco",
+            "http://dbpedia.org/resource/Charles_III,_Prince_of_Monaco"
+        ]
+    ]
+}

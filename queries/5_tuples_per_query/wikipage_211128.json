@@ -1,0 +1,27 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fort_Peck_Indian_Reservation",
+            "http://dbpedia.org/resource/Fort_Peck_Indian_Reservation",
+            "http://dbpedia.org/resource/Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Spirit_Lake_Tribe",
+            "http://dbpedia.org/resource/Spirit_Lake_Tribe",
+            "http://dbpedia.org/resource/North_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/Standing_Rock_Indian_Reservation",
+            "http://dbpedia.org/resource/Standing_Rock_Indian_Reservation",
+            "http://dbpedia.org/resource/South_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/Lake_Traverse_Indian_Reservation",
+            "http://dbpedia.org/resource/Sisseton_Wahpeton_Oyate"
+        ],
+        [
+            "http://dbpedia.org/resource/Flandreau_Indian_Reservation",
+            "http://dbpedia.org/resource/Flandreau_Santee_Sioux_Tribe"
+        ]
+    ]
+}

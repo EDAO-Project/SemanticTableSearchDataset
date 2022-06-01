@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chipata",
+            "http://dbpedia.org/resource/Zambia",
+            "http://dbpedia.org/resource/Chipata_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Dar_es_Salaam",
+            "http://dbpedia.org/resource/Tanzania",
+            "http://dbpedia.org/resource/Julius_Nyerere_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Nsumbu_National_Park",
+            "http://dbpedia.org/resource/Zambia",
+            "http://dbpedia.org/resource/Kasaba_Bay_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Kasama",
+            "http://dbpedia.org/resource/Zambia",
+            "http://dbpedia.org/resource/Kasama_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Lilongwe",
+            "http://dbpedia.org/resource/Malawi",
+            "http://dbpedia.org/resource/Lilongwe_International_Airport"
+        ]
+    ]
+}

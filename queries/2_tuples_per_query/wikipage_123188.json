@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Norderney",
+            "http://dbpedia.org/resource/Norddeich_Mole_railway_station",
+            "http://dbpedia.org/resource/Roll-on/roll-off",
+            "http://dbpedia.org/resource/Length_overall",
+            "http://dbpedia.org/resource/Passenger"
+        ],
+        [
+            "http://dbpedia.org/resource/Juist",
+            "http://dbpedia.org/resource/Norddeich_Mole_railway_station",
+            "http://dbpedia.org/resource/Roll-on/roll-off",
+            "http://dbpedia.org/resource/Length_overall",
+            "http://dbpedia.org/resource/Passenger"
+        ]
+    ]
+}

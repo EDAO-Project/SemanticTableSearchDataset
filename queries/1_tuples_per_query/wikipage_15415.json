@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dallas_County,_Iowa",
+            "http://dbpedia.org/resource/Dexter,_Iowa",
+            "http://dbpedia.org/resource/Redfield,_Iowa"
+        ]
+    ]
+}

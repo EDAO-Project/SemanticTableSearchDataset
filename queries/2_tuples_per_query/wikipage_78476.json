@@ -1,0 +1,26 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_Little_League_World_Series",
+            "http://dbpedia.org/resource/Phenix_City,_Alabama",
+            "http://dbpedia.org/resource/Bradenton,_Florida",
+            "http://dbpedia.org/resource/Columbus,_Georgia",
+            "http://dbpedia.org/resource/Clemmons,_North_Carolina",
+            "http://dbpedia.org/resource/Spartanburg,_South_Carolina",
+            "http://dbpedia.org/resource/Morristown,_Tennessee",
+            "http://dbpedia.org/resource/Richmond,_Virginia",
+            "http://dbpedia.org/resource/Charles_Town,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Little_League_World_Series",
+            "http://dbpedia.org/resource/Russellville,_Alabama",
+            "http://dbpedia.org/resource/Boynton_Beach,_Florida",
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/Wilmington,_North_Carolina",
+            "http://dbpedia.org/resource/Gaffney,_South_Carolina",
+            "http://dbpedia.org/resource/Johnson_City,_Tennessee",
+            "http://dbpedia.org/resource/Springfield,_Virginia",
+            "http://dbpedia.org/resource/Hedgesville,_West_Virginia"
+        ]
+    ]
+}

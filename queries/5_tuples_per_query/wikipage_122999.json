@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Iliad",
+            "http://dbpedia.org/resource/Homer",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Greek_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Odyssey",
+            "http://dbpedia.org/resource/Homer",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Greek_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Children_of_Gebelawi",
+            "http://dbpedia.org/resource/Naguib_Mahfouz",
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Arabic"
+        ],
+        [
+            "http://dbpedia.org/resource/Metamorphoses",
+            "http://dbpedia.org/resource/Ovid",
+            "http://dbpedia.org/resource/Roman_Empire",
+            "http://dbpedia.org/resource/Classical_Latin"
+        ],
+        [
+            "http://dbpedia.org/resource/Masnavi",
+            "http://dbpedia.org/resource/Rumi",
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Persian_language"
+        ]
+    ]
+}

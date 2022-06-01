@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1975_State_of_the_Union_Address",
+            "http://dbpedia.org/resource/Gerald_Ford",
+            "http://dbpedia.org/resource/Hubert_Humphrey"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_State_of_the_Union_Address",
+            "http://dbpedia.org/resource/Ronald_Reagan",
+            "http://dbpedia.org/resource/Paul_Tsongas"
+        ]
+    ]
+}

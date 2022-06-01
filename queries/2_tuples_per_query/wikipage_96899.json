@@ -1,0 +1,17 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WHBF-TV",
+            "http://dbpedia.org/resource/Citadel_Broadcasting",
+            "http://dbpedia.org/resource/1080i",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/WHBF-TV",
+            "http://dbpedia.org/resource/Citadel_Broadcasting",
+            "http://dbpedia.org/resource/480i",
+            "http://dbpedia.org/resource/Live_Well_Network",
+            "http://dbpedia.org/resource/Live_Well_Network"
+        ]
+    ]
+}

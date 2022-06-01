@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adrian_Gonzalez",
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Chula_Vista,_California"
+        ]
+    ]
+}

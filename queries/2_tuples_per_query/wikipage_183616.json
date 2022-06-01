@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tamahara_Dam",
+            "http://dbpedia.org/resource/Embankment_dam",
+            "http://dbpedia.org/resource/Gunma_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Turlough_Hill",
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/County_Wicklow"
+        ]
+    ]
+}

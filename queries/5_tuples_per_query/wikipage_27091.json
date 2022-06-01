@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russia_national_rugby_league_team",
+            "http://dbpedia.org/resource/Rugby_League_European_Championship_B",
+            "http://dbpedia.org/resource/Heidelberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Serbia_national_rugby_league_team",
+            "http://dbpedia.org/resource/Rugby_League_European_Championship_B",
+            "http://dbpedia.org/resource/Heidelberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Norway_national_rugby_league_team",
+            "http://dbpedia.org/resource/Rugby_League_European_Championship_B",
+            "http://dbpedia.org/resource/Oslo"
+        ],
+        [
+            "http://dbpedia.org/resource/Serbia_national_rugby_league_team",
+            "http://dbpedia.org/resource/Rugby_League_European_Championship_B",
+            "http://dbpedia.org/resource/Belgrade"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy_national_rugby_league_team",
+            "http://dbpedia.org/resource/Rugby_League_European_Championship_B",
+            "http://dbpedia.org/resource/Cologne"
+        ]
+    ]
+}

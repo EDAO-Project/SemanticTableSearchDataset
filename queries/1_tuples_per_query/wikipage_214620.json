@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arabic",
+            "http://dbpedia.org/resource/Modern_Standard_Arabic",
+            "http://dbpedia.org/resource/Arabic_alphabet",
+            "http://dbpedia.org/resource/Arabic_phonology"
+        ]
+    ]
+}

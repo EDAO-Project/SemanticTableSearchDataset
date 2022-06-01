@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cardiff_Blues",
+            "http://dbpedia.org/resource/Cardiff_Arms_Park",
+            "http://dbpedia.org/resource/Cardiff"
+        ],
+        [
+            "http://dbpedia.org/resource/Celtic_Warriors",
+            "http://dbpedia.org/resource/Brewery_Field",
+            "http://dbpedia.org/resource/Bridgend"
+        ],
+        [
+            "http://dbpedia.org/resource/Connacht_Rugby",
+            "http://dbpedia.org/resource/Galway_Sportsgrounds",
+            "http://dbpedia.org/resource/Galway"
+        ],
+        [
+            "http://dbpedia.org/resource/Edinburgh_Rugby",
+            "http://dbpedia.org/resource/Meadowbank_Stadium",
+            "http://dbpedia.org/resource/Edinburgh"
+        ],
+        [
+            "http://dbpedia.org/resource/Glasgow_Warriors",
+            "http://dbpedia.org/resource/Hughenden,_Glasgow",
+            "http://dbpedia.org/resource/Glasgow"
+        ]
+    ]
+}

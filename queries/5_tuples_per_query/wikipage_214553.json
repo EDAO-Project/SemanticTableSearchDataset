@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Close_front_unrounded_vowel",
+            "http://dbpedia.org/resource/Close_vowel",
+            "http://dbpedia.org/resource/Front_vowel",
+            "http://dbpedia.org/resource/Roundedness"
+        ],
+        [
+            "http://dbpedia.org/resource/Close_front_rounded_vowel",
+            "http://dbpedia.org/resource/Close_vowel",
+            "http://dbpedia.org/resource/Front_vowel",
+            "http://dbpedia.org/resource/Roundedness"
+        ],
+        [
+            "http://dbpedia.org/resource/Close_central_unrounded_vowel",
+            "http://dbpedia.org/resource/Close_vowel",
+            "http://dbpedia.org/resource/Central_vowel",
+            "http://dbpedia.org/resource/Roundedness"
+        ],
+        [
+            "http://dbpedia.org/resource/Close_central_rounded_vowel",
+            "http://dbpedia.org/resource/Close_vowel",
+            "http://dbpedia.org/resource/Central_vowel",
+            "http://dbpedia.org/resource/Roundedness"
+        ],
+        [
+            "http://dbpedia.org/resource/Close_back_unrounded_vowel",
+            "http://dbpedia.org/resource/Close_vowel",
+            "http://dbpedia.org/resource/Back_vowel",
+            "http://dbpedia.org/resource/Roundedness"
+        ]
+    ]
+}

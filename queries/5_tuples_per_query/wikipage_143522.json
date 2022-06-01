@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1303_Luthera",
+            "http://dbpedia.org/resource/Hamburg_Observatory",
+            "http://dbpedia.org/resource/Friedrich_Karl_Arnold_Schwassmann"
+        ],
+        [
+            "http://dbpedia.org/resource/1305_Pongola",
+            "http://dbpedia.org/resource/Union_Observatory",
+            "http://dbpedia.org/resource/Harry_Edwin_Wood"
+        ],
+        [
+            "http://dbpedia.org/resource/1306_Scythia",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Grigory_Neujmin"
+        ],
+        [
+            "http://dbpedia.org/resource/1309_Hyperborea",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Grigory_Neujmin"
+        ],
+        [
+            "http://dbpedia.org/resource/1310_Villigera",
+            "http://dbpedia.org/resource/Hamburg_Observatory",
+            "http://dbpedia.org/resource/Friedrich_Karl_Arnold_Schwassmann"
+        ]
+    ]
+}

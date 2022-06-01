@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/13_Ghosts",
+            "http://dbpedia.org/resource/William_Castle",
+            "http://dbpedia.org/resource/Charles_Herbert"
+        ],
+        [
+            "http://dbpedia.org/resource/Atom_Age_Vampire",
+            "http://dbpedia.org/resource/Anton_Giulio_Majano",
+            "http://dbpedia.org/resource/Alberto_Lupo"
+        ]
+    ]
+}

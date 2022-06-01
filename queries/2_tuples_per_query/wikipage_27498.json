@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southlander",
+            "http://dbpedia.org/resource/Steve_Hanft",
+            "http://dbpedia.org/resource/Rory_Cochrane"
+        ],
+        [
+            "http://dbpedia.org/resource/Waking_Life",
+            "http://dbpedia.org/resource/Richard_Linklater",
+            "http://dbpedia.org/resource/Wiley_Wiggins"
+        ]
+    ]
+}

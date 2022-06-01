@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ahoy_Rotterdam",
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Rotterdam_Open"
+        ],
+        [
+            "http://dbpedia.org/resource/Impact,_Muang_Thong_Thani",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/PTT_Thailand_Open"
+        ]
+    ]
+}

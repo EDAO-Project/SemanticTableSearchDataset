@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dallas_County,_Iowa",
+            "http://dbpedia.org/resource/Dexter,_Iowa",
+            "http://dbpedia.org/resource/Redfield,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Polk_County,_Iowa",
+            "http://dbpedia.org/resource/Urbandale,_Iowa",
+            "http://dbpedia.org/resource/Camp_Dodge"
+        ],
+        [
+            "http://dbpedia.org/resource/Jasper_County,_Iowa",
+            "http://dbpedia.org/resource/Rock_Creek_Township,_Jasper_County,_Iowa",
+            "http://dbpedia.org/resource/Lynnville,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Iowa_County,_Iowa",
+            "http://dbpedia.org/resource/Hartford_Township,_Iowa_County,_Iowa",
+            "http://dbpedia.org/resource/Victor,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Iowa_County,_Iowa",
+            "http://dbpedia.org/resource/Sumner_Township,_Iowa_County,_Iowa",
+            "http://dbpedia.org/resource/Millersburg,_Iowa"
+        ]
+    ]
+}

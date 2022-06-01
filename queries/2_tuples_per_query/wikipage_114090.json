@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kent_Nilsson",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Atlanta_Flames",
+            "http://dbpedia.org/resource/1976_NHL_Amateur_Draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommy_Albelin",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Quebec_Nordiques",
+            "http://dbpedia.org/resource/1983_NHL_Entry_Draft"
+        ]
+    ]
+}

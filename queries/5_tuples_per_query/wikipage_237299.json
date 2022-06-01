@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AK-47",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/AKM",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Zastava_M92",
+            "http://dbpedia.org/resource/Serbia",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/M4_carbine",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/M16_rifle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ]
+    ]
+}

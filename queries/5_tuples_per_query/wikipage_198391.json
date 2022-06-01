@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/American_League",
+            "http://dbpedia.org/resource/Manny_Ramirez",
+            "http://dbpedia.org/resource/Cleveland_Indians"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/National_League",
+            "http://dbpedia.org/resource/Sammy_Sosa",
+            "http://dbpedia.org/resource/Chicago_Cubs"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/American_League",
+            "http://dbpedia.org/resource/Carlos_Delgado",
+            "http://dbpedia.org/resource/Toronto_Blue_Jays"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/National_League",
+            "http://dbpedia.org/resource/Todd_Helton",
+            "http://dbpedia.org/resource/Colorado_Rockies"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/National_League",
+            "http://dbpedia.org/resource/Barry_Bonds",
+            "http://dbpedia.org/resource/San_Francisco_Giants"
+        ]
+    ]
+}

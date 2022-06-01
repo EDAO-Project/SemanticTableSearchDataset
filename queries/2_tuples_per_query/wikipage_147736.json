@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CKYK-FM",
+            "http://dbpedia.org/resource/Alma,_Quebec",
+            "http://dbpedia.org/resource/RNC_Media",
+            "http://dbpedia.org/resource/Modern_rock"
+        ],
+        [
+            "http://dbpedia.org/resource/CKYK-FM",
+            "http://dbpedia.org/resource/Alma,_Quebec",
+            "http://dbpedia.org/resource/RNC_Media",
+            "http://dbpedia.org/resource/Modern_rock"
+        ]
+    ]
+}

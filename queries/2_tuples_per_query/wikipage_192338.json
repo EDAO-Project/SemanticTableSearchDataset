@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Satyendra_Nath_Bose",
+            "http://dbpedia.org/resource/Science",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/B._G._Kher",
+            "http://dbpedia.org/resource/Public_policy",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kazuto_Sakata",
+            "http://dbpedia.org/resource/Tadayuki_Okada",
+            "http://dbpedia.org/resource/Shinichi_Ito"
+        ],
+        [
+            "http://dbpedia.org/resource/Akira_Saito",
+            "http://dbpedia.org/resource/Tetsuya_Harada",
+            "http://dbpedia.org/resource/Daryl_Beattie"
+        ]
+    ]
+}

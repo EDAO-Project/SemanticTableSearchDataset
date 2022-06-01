@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gelora_Bung_Karno_Stadium",
+            "http://dbpedia.org/resource/Jakarta",
+            "http://dbpedia.org/resource/Indonesia_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Palaran_Stadium",
+            "http://dbpedia.org/resource/Samarinda",
+            "http://dbpedia.org/resource/2008_Pekan_Olahraga_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/Gelora_Bung_Tomo_Stadium",
+            "http://dbpedia.org/resource/Surabaya",
+            "http://dbpedia.org/resource/Persebaya_Surabaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Riau_Main_Stadium",
+            "http://dbpedia.org/resource/Pekanbaru",
+            "http://dbpedia.org/resource/2012_Pekan_Olahraga_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/Gelora_Sriwijaya_Stadium",
+            "http://dbpedia.org/resource/Palembang",
+            "http://dbpedia.org/resource/2011_Southeast_Asian_Games"
+        ]
+    ]
+}

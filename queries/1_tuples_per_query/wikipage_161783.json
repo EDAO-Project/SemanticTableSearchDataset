@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexandertorte",
+            "http://dbpedia.org/resource/Latvia",
+            "http://dbpedia.org/resource/Dessert"
+        ]
+    ]
+}

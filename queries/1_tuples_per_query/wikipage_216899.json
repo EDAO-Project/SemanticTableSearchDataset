@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Borth",
+            "http://dbpedia.org/resource/Llandre",
+            "http://dbpedia.org/resource/Independent_politician"
+        ]
+    ]
+}

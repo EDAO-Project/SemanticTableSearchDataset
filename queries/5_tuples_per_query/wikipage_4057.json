@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sensible_Soccer",
+            "http://dbpedia.org/resource/Sensible_Software",
+            "http://dbpedia.org/resource/Sega"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahjong_solitaire",
+            "http://dbpedia.org/resource/Activision",
+            "http://dbpedia.org/resource/Sega"
+        ],
+        [
+            "http://dbpedia.org/resource/Smash_TV",
+            "http://dbpedia.org/resource/Acclaim_Cheltenham",
+            "http://dbpedia.org/resource/Acclaim_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Sonic_the_Hedgehog_Spinball",
+            "http://dbpedia.org/resource/Sega_development_studios",
+            "http://dbpedia.org/resource/Sega"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Wars_video_games",
+            "http://dbpedia.org/resource/LucasArts",
+            "http://dbpedia.org/resource/U.S._Gold"
+        ]
+    ]
+}

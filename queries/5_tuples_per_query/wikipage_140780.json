@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Penn_State_Abington",
+            "http://dbpedia.org/resource/Abington_Township,_Montgomery_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Penn_State_Abington",
+            "http://dbpedia.org/resource/North_Eastern_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Penn_State_Altoona",
+            "http://dbpedia.org/resource/Logan_Township,_Blair_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Penn_State_Altoona",
+            "http://dbpedia.org/resource/Allegheny_Mountain_Collegiate_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Penn_State_Beaver",
+            "http://dbpedia.org/resource/Monaca,_Pennsylvania",
+            "http://dbpedia.org/resource/Penn_State_Beaver",
+            "http://dbpedia.org/resource/Penn_State_University_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Penn_State_Berks",
+            "http://dbpedia.org/resource/Spring_Township,_Berks_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Penn_State_Berks",
+            "http://dbpedia.org/resource/North_Eastern_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Penn_State_Brandywine",
+            "http://dbpedia.org/resource/Media,_Pennsylvania",
+            "http://dbpedia.org/resource/Penn_State_Brandywine",
+            "http://dbpedia.org/resource/Penn_State_University_Athletic_Conference"
+        ]
+    ]
+}

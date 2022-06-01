@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apricot",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Iran"
+        ],
+        [
+            "http://dbpedia.org/resource/Banana",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/China"
+        ]
+    ]
+}

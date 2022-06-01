@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Interstate_15_in_California",
+            "http://dbpedia.org/resource/San_Diego",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/Interstate_8"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Route_66",
+            "http://dbpedia.org/resource/La_Verne,_California",
+            "http://dbpedia.org/resource/San_Bernardino,_California",
+            "http://dbpedia.org/resource/U.S._Route_66"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Route_99",
+            "http://dbpedia.org/resource/Wheeler_Ridge,_California",
+            "http://dbpedia.org/resource/Red_Bluff,_California",
+            "http://dbpedia.org/resource/U.S._Route_99"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Route_103",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Long_Beach,_California",
+            "http://dbpedia.org/resource/California_State_Route_47"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Route_114",
+            "http://dbpedia.org/resource/East_Palo_Alto,_California",
+            "http://dbpedia.org/resource/Menlo_Park,_California",
+            "http://dbpedia.org/resource/California_State_Route_84"
+        ]
+    ]
+}

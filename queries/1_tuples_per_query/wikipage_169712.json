@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brooklyn_Nets",
+            "http://dbpedia.org/resource/Barclays_Center",
+            "http://dbpedia.org/resource/New_York_City"
+        ]
+    ]
+}

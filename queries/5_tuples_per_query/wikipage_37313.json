@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Ratliff",
+            "http://dbpedia.org/resource/Texas_Senate,_District_1",
+            "http://dbpedia.org/resource/Mount_Pleasant,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Drew_Nixon",
+            "http://dbpedia.org/resource/Texas_Senate,_District_3",
+            "http://dbpedia.org/resource/Carthage,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Florence_Shapiro",
+            "http://dbpedia.org/resource/Texas_Senate,_District_8",
+            "http://dbpedia.org/resource/Plano,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Jane_Nelson",
+            "http://dbpedia.org/resource/Texas_Senate,_District_9",
+            "http://dbpedia.org/resource/Flower_Mound,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Jerry_E._Patterson",
+            "http://dbpedia.org/resource/Texas_Senate,_District_11",
+            "http://dbpedia.org/resource/Pasadena,_Texas"
+        ]
+    ]
+}

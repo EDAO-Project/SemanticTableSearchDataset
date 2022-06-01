@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Man_Apart",
+            "http://dbpedia.org/resource/F._Gary_Gray",
+            "http://dbpedia.org/resource/Vin_Diesel"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gears_of_War",
+            "http://dbpedia.org/resource/Gears_of_War:_Aspho_Fields",
+            "http://dbpedia.org/resource/Karen_Traviss"
+        ],
+        [
+            "http://dbpedia.org/resource/Gears_of_War",
+            "http://dbpedia.org/resource/Gears_of_War:_Anvil_Gate",
+            "http://dbpedia.org/resource/Karen_Traviss"
+        ],
+        [
+            "http://dbpedia.org/resource/Gears_of_War",
+            "http://dbpedia.org/resource/Gears_of_War:_The_Slab",
+            "http://dbpedia.org/resource/Karen_Traviss"
+        ],
+        [
+            "http://dbpedia.org/resource/Hitman:_Enemy_Within",
+            "http://dbpedia.org/resource/William_C._Dietz",
+            "http://dbpedia.org/resource/Hitman_2:_Silent_Assassin"
+        ],
+        [
+            "http://dbpedia.org/resource/Infinity_Blade",
+            "http://dbpedia.org/resource/Infinity_Blade:_Awakening",
+            "http://dbpedia.org/resource/Brandon_Sanderson"
+        ]
+    ]
+}

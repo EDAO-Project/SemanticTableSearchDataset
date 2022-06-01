@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_Naley",
+            "http://dbpedia.org/resource/South_Adelaide_Panthers",
+            "http://dbpedia.org/resource/West_Australian_Football_League",
+            "http://dbpedia.org/resource/Subiaco_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Garry_McIntosh",
+            "http://dbpedia.org/resource/Norwood_Football_Club",
+            "http://dbpedia.org/resource/West_Australian_Football_League",
+            "http://dbpedia.org/resource/Football_Park"
+        ]
+    ]
+}

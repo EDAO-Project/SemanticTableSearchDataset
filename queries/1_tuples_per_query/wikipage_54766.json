@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akademija,_Kaunas",
+            "http://dbpedia.org/resource/Kaunas_County",
+            "http://dbpedia.org/resource/Kaunas_District_Municipality"
+        ]
+    ]
+}

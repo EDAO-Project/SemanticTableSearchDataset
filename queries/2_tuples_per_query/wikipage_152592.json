@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colin_Alexander",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Brisbane_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramsay_Anderson",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Essendon_Football_Club"
+        ]
+    ]
+}

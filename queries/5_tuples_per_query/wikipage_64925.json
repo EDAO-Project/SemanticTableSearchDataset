@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alveslohe",
+            "http://dbpedia.org/resource/Elmshorn-Barmstedt-Oldesloe_railway",
+            "http://dbpedia.org/resource/AKN_Eisenbahn"
+        ],
+        [
+            "http://dbpedia.org/resource/Barmstedt",
+            "http://dbpedia.org/resource/Elmshorn-Barmstedt-Oldesloe_railway",
+            "http://dbpedia.org/resource/AKN_Eisenbahn"
+        ],
+        [
+            "http://dbpedia.org/resource/Bokholt-Hanredder",
+            "http://dbpedia.org/resource/Elmshorn-Barmstedt-Oldesloe_railway",
+            "http://dbpedia.org/resource/AKN_Eisenbahn"
+        ],
+        [
+            "http://dbpedia.org/resource/Norderstedt",
+            "http://dbpedia.org/resource/Alster_Northern_Railway",
+            "http://dbpedia.org/resource/AKN_Eisenbahn"
+        ],
+        [
+            "http://dbpedia.org/resource/Norderstedt",
+            "http://dbpedia.org/resource/Alster_Northern_Railway",
+            "http://dbpedia.org/resource/AKN_Eisenbahn"
+        ]
+    ]
+}

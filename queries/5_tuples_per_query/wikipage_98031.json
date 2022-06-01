@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ricky_Petterd",
+            "http://dbpedia.org/resource/Alan_Didak",
+            "http://dbpedia.org/resource/Aaron_Davey"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaun_Higgins",
+            "http://dbpedia.org/resource/Daniel_Giansiracusa",
+            "http://dbpedia.org/resource/Tom_Scully"
+        ],
+        [
+            "http://dbpedia.org/resource/Colin_Sylvia",
+            "http://dbpedia.org/resource/Aaron_Davey",
+            "http://dbpedia.org/resource/Travis_Boak"
+        ],
+        [
+            "http://dbpedia.org/resource/Heath_Scotland",
+            "http://dbpedia.org/resource/Chris_Judd",
+            "http://dbpedia.org/resource/Brent_Moloney"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Jamar",
+            "http://dbpedia.org/resource/Dane_Swan",
+            "http://dbpedia.org/resource/Aaron_Davey"
+        ]
+    ]
+}

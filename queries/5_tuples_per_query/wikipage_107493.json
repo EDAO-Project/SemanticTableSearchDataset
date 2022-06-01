@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prime_Minister_of_Israel",
+            "http://dbpedia.org/resource/Yitzhak_Rabin",
+            "http://dbpedia.org/resource/Israeli_Labor_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Prime_Minister_of_Israel",
+            "http://dbpedia.org/resource/Shimon_Peres",
+            "http://dbpedia.org/resource/Israeli_Labor_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Ministry_of_Economic_Strategy",
+            "http://dbpedia.org/resource/Shimon_Shetreet",
+            "http://dbpedia.org/resource/Israeli_Labor_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Ministry_of_Economic_Strategy",
+            "http://dbpedia.org/resource/Yossi_Beilin",
+            "http://dbpedia.org/resource/Israeli_Labor_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Ministry_of_National_Infrastructures,_Energy_and_Water_Resources",
+            "http://dbpedia.org/resource/Amnon_Rubinstein",
+            "http://dbpedia.org/resource/Meretz"
+        ]
+    ]
+}

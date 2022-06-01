@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hatley_Park_National_Historic_Site",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/Colwood,_British_Columbia",
+            "http://dbpedia.org/resource/Capital_Regional_District",
+            "http://dbpedia.org/resource/Royal_Roads_Military_College"
+        ]
+    ]
+}

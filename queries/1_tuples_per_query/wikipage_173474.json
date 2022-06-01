@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_F._Lettow",
+            "http://dbpedia.org/resource/Stanford_Law_School",
+            "http://dbpedia.org/resource/Ben_C._Duniway"
+        ]
+    ]
+}

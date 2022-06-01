@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1971_World_Series_of_Poker",
+            "http://dbpedia.org/resource/Johnny_Moss",
+            "http://dbpedia.org/resource/Puggy_Pearson"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_World_Series_of_Poker",
+            "http://dbpedia.org/resource/Amarillo_Slim",
+            "http://dbpedia.org/resource/Puggy_Pearson"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_World_Series_of_Poker",
+            "http://dbpedia.org/resource/Puggy_Pearson",
+            "http://dbpedia.org/resource/Johnny_Moss"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_World_Series_of_Poker",
+            "http://dbpedia.org/resource/Johnny_Moss",
+            "http://dbpedia.org/resource/Crandell_Addington"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_World_Series_of_Poker",
+            "http://dbpedia.org/resource/Doyle_Brunson",
+            "http://dbpedia.org/resource/Jesse_Alto"
+        ]
+    ]
+}

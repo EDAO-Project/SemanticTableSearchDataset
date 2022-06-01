@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/So_Wa_Wai",
+            "http://dbpedia.org/resource/Serhiy_Norenko",
+            "http://dbpedia.org/resource/Andriy_Zhyltsov"
+        ],
+        [
+            "http://dbpedia.org/resource/Earle_Connor",
+            "http://dbpedia.org/resource/Lukas_Christen",
+            "http://dbpedia.org/resource/Andriy_Danylov"
+        ],
+        [
+            "http://dbpedia.org/resource/Marlon_Shirley",
+            "http://dbpedia.org/resource/Brian_Frasure",
+            "http://dbpedia.org/resource/Neil_Fuller"
+        ],
+        [
+            "http://dbpedia.org/resource/So_Wa_Wai",
+            "http://dbpedia.org/resource/Serhiy_Norenko",
+            "http://dbpedia.org/resource/Ahmed_Saif_Zaal_Abu_Muhair"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Allek",
+            "http://dbpedia.org/resource/Matt_Slade",
+            "http://dbpedia.org/resource/Ahmed_Hassan_Mahmoud"
+        ]
+    ]
+}

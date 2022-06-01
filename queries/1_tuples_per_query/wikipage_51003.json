@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Simpsons",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company",
+            "http://dbpedia.org/resource/Danny_Elfman"
+        ]
+    ]
+}

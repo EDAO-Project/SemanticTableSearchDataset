@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ilya_Kovalchuk",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Atlanta_Thrashers",
+            "http://dbpedia.org/resource/HC_Spartak_Moscow"
+        ]
+    ]
+}

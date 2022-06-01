@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gyeongbu_Line",
+            "http://dbpedia.org/resource/Seoul_Station",
+            "http://dbpedia.org/resource/Korail"
+        ],
+        [
+            "http://dbpedia.org/resource/Gyeongbu_High_Speed_Railway",
+            "http://dbpedia.org/resource/Seoul_Station",
+            "http://dbpedia.org/resource/Korail"
+        ],
+        [
+            "http://dbpedia.org/resource/Gyeongui_Line",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Korail"
+        ],
+        [
+            "http://dbpedia.org/resource/Gyooe_Line",
+            "http://dbpedia.org/resource/Goyang",
+            "http://dbpedia.org/resource/Korail"
+        ],
+        [
+            "http://dbpedia.org/resource/Gyeongin_Line",
+            "http://dbpedia.org/resource/Guro_Station",
+            "http://dbpedia.org/resource/Korail"
+        ]
+    ]
+}

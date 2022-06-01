@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algeria_at_the_2012_Summer_Paralympics",
+            "http://dbpedia.org/resource/Nadia_Medjemedj",
+            "http://dbpedia.org/resource/Athletics_at_the_2012_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Angola_at_the_2012_Summer_Paralympics",
+            "http://dbpedia.org/resource/Maria_Lucilene_Silva",
+            "http://dbpedia.org/resource/Athletics_at_the_2012_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Antigua_and_Barbuda_at_the_2012_Summer_Paralympics",
+            "http://dbpedia.org/resource/Jamol_Pilgrim",
+            "http://dbpedia.org/resource/Athletics_at_the_2012_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Azerbaijan_at_the_2012_Summer_Paralympics",
+            "http://dbpedia.org/resource/Ilham_Zakiyev",
+            "http://dbpedia.org/resource/Judo_at_the_2012_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahrain_at_the_2012_Summer_Paralympics",
+            "http://dbpedia.org/resource/Ahmed_Meshaima",
+            "http://dbpedia.org/resource/Athletics_at_the_2012_Summer_Paralympics"
+        ]
+    ]
+}

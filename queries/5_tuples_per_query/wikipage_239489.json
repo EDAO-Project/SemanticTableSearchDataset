@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CHOZ-FM",
+            "http://dbpedia.org/resource/Argentia",
+            "http://dbpedia.org/resource/Geoff_Stirling",
+            "http://dbpedia.org/resource/Adult_contemporary_music"
+        ],
+        [
+            "http://dbpedia.org/resource/CKCM",
+            "http://dbpedia.org/resource/Baie_Verte,_Newfoundland_and_Labrador",
+            "http://dbpedia.org/resource/Newcap_Radio",
+            "http://dbpedia.org/resource/News"
+        ],
+        [
+            "http://dbpedia.org/resource/CBN-FM",
+            "http://dbpedia.org/resource/Baie_Verte,_Newfoundland_and_Labrador",
+            "http://dbpedia.org/resource/CBC_Radio_2",
+            "http://dbpedia.org/resource/Public_broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/CHVO-FM",
+            "http://dbpedia.org/resource/Bay_Roberts",
+            "http://dbpedia.org/resource/Newcap_Radio",
+            "http://dbpedia.org/resource/News"
+        ],
+        [
+            "http://dbpedia.org/resource/CHOZ-FM",
+            "http://dbpedia.org/resource/Bonavista,_Newfoundland_and_Labrador",
+            "http://dbpedia.org/resource/Geoff_Stirling",
+            "http://dbpedia.org/resource/Adult_contemporary_music"
+        ]
+    ]
+}

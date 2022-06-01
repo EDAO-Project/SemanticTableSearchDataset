@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Hadley,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mount_Holyoke_College"
+        ]
+    ]
+}

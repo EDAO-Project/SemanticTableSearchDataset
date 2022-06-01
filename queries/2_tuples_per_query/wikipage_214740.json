@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Carolina_gubernatorial_election,_1865",
+            "http://dbpedia.org/resource/James_Lawrence_Orr",
+            "http://dbpedia.org/resource/Wade_Hampton_III"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Carolina_gubernatorial_election,_1876",
+            "http://dbpedia.org/resource/Wade_Hampton_III",
+            "http://dbpedia.org/resource/Daniel_Henry_Chamberlain"
+        ]
+    ]
+}

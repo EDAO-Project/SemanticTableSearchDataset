@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_Bowl_I",
+            "http://dbpedia.org/resource/Los_Angeles_Memorial_Coliseum",
+            "http://dbpedia.org/resource/The_Pride_of_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_II",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl",
+            "http://dbpedia.org/resource/Grambling_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_IV",
+            "http://dbpedia.org/resource/Tulane_Stadium",
+            "http://dbpedia.org/resource/Al_Hirt"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_XII",
+            "http://dbpedia.org/resource/Mercedes-Benz_Superdome",
+            "http://dbpedia.org/resource/University_of_Louisiana_at_Monroe"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_XVI",
+            "http://dbpedia.org/resource/Silverdome",
+            "http://dbpedia.org/resource/Diana_Ross"
+        ]
+    ]
+}

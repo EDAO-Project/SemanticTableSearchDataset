@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/10_meter_air_pistol",
+            "http://dbpedia.org/resource/Thailand_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/North_Korea_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/China_at_the_1974_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/25_meter_standard_pistol",
+            "http://dbpedia.org/resource/Japan_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/North_Korea_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/South_Korea_at_the_1974_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/25_meter_center-fire_pistol",
+            "http://dbpedia.org/resource/China_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/Thailand_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/South_Korea_at_the_1974_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/25_meter_rapid_fire_pistol",
+            "http://dbpedia.org/resource/North_Korea_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/China_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/Japan_at_the_1974_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/50_meter_pistol",
+            "http://dbpedia.org/resource/China_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/Japan_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/Thailand_at_the_1974_Asian_Games"
+        ]
+    ]
+}

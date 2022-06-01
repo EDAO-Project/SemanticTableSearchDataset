@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Knoxville,_Tennessee",
+            "http://dbpedia.org/resource/Johnson_City,_Tennessee",
+            "http://dbpedia.org/resource/Carter_County,_Tennessee"
+        ],
+        [
+            "http://dbpedia.org/resource/Knoxville,_Tennessee",
+            "http://dbpedia.org/resource/Morristown,_Tennessee",
+            "http://dbpedia.org/resource/Grainger_County,_Tennessee"
+        ]
+    ]
+}

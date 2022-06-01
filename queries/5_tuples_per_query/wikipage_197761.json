@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Samuel_Johnston",
+            "http://dbpedia.org/resource/1st_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1788_and_1789"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_Johnston",
+            "http://dbpedia.org/resource/2nd_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1788_and_1789"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Martin",
+            "http://dbpedia.org/resource/3rd_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1792_and_1793"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Martin",
+            "http://dbpedia.org/resource/4th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1792_and_1793"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Martin",
+            "http://dbpedia.org/resource/5th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1792_and_1793"
+        ]
+    ]
+}

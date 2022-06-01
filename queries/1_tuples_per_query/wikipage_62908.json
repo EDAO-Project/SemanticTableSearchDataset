@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_NBA_draft",
+            "http://dbpedia.org/resource/Ronnie_Henderson",
+            "http://dbpedia.org/resource/Louisiana_State_University"
+        ]
+    ]
+}

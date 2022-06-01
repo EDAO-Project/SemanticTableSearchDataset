@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Sweden_at_the_1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Norway_at_the_1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Finland_at_the_1908_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1912_Summer_Olympics",
+            "http://dbpedia.org/resource/Italy_at_the_1912_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1912_Summer_Olympics",
+            "http://dbpedia.org/resource/Great_Britain_at_the_1912_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2003_in_music",
+            "http://dbpedia.org/resource/Eminem",
+            "http://dbpedia.org/resource/The_Eminem_Show"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_music",
+            "http://dbpedia.org/resource/Outkast",
+            "http://dbpedia.org/resource/Speakerboxxx/The_Love_Below"
+        ]
+    ]
+}

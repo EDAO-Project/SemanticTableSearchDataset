@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Zander",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Stockholm"
+        ],
+        [
+            "http://dbpedia.org/resource/Paavo_Nurmi",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Helsinki"
+        ],
+        [
+            "http://dbpedia.org/resource/Otto_Peltzer",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/Luigi_Beccali",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Turin"
+        ],
+        [
+            "http://dbpedia.org/resource/Luigi_Beccali",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Milan"
+        ]
+    ]
+}

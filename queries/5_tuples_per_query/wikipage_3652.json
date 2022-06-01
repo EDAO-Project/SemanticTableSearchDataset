@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Columbia_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Igor_Stravinsky",
+            "http://dbpedia.org/resource/Columbia_Masterworks_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Concertgebouw_Orchestra",
+            "http://dbpedia.org/resource/Colin_Davis",
+            "http://dbpedia.org/resource/Philips"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Danish_Orchestra",
+            "http://dbpedia.org/resource/Paul_Jorgensen",
+            "http://dbpedia.org/resource/Culture"
+        ],
+        [
+            "http://dbpedia.org/resource/Montreal_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Charles_Dutoit",
+            "http://dbpedia.org/resource/Decca_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Seattle_Symphony",
+            "http://dbpedia.org/resource/Gerard_Schwarz",
+            "http://dbpedia.org/resource/Delos_Productions"
+        ]
+    ]
+}

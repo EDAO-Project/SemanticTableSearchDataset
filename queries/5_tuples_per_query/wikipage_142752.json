@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Times",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Tribune_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose_Mercury_News",
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/MediaNews_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Post",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/News_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Sun-Times",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Sun-Times_Media_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Denver_Post",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/MediaNews_Group"
+        ]
+    ]
+}

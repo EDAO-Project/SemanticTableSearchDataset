@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1978_New_York_Giants_season",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Detroit_Lions_season",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Minnesota_Vikings_season",
+            "http://dbpedia.org/resource/Metropolitan_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Atlanta_Falcons_season",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Minnesota_Vikings_season",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ]
+    ]
+}

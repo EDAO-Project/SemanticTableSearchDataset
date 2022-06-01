@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carleton_Ravens",
+            "http://dbpedia.org/resource/Concordia_Stingers",
+            "http://dbpedia.org/resource/Ottawa"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottawa_Gee-Gees",
+            "http://dbpedia.org/resource/McGill_Redmen",
+            "http://dbpedia.org/resource/Ottawa"
+        ]
+    ]
+}

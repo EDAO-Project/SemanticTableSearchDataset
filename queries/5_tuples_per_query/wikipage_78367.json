@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billy_Hughes",
+            "http://dbpedia.org/resource/Australian_House_of_Representatives",
+            "http://dbpedia.org/resource/Division_of_West_Sydney",
+            "http://dbpedia.org/resource/Australian_federal_election,_1901"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Hughes",
+            "http://dbpedia.org/resource/Australian_House_of_Representatives",
+            "http://dbpedia.org/resource/Division_of_Bendigo",
+            "http://dbpedia.org/resource/Australian_federal_election,_1917"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Hughes",
+            "http://dbpedia.org/resource/Australian_House_of_Representatives",
+            "http://dbpedia.org/resource/Division_of_North_Sydney",
+            "http://dbpedia.org/resource/Australian_federal_election,_1922"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Hughes",
+            "http://dbpedia.org/resource/Australian_House_of_Representatives",
+            "http://dbpedia.org/resource/Division_of_Bradfield",
+            "http://dbpedia.org/resource/Australian_federal_election,_1949"
+        ],
+        [
+            "http://dbpedia.org/resource/Nelson_Lemmon",
+            "http://dbpedia.org/resource/Division_of_Forrest",
+            "http://dbpedia.org/resource/Australian_federal_election,_1943",
+            "http://dbpedia.org/resource/Australian_federal_election,_1949"
+        ]
+    ]
+}

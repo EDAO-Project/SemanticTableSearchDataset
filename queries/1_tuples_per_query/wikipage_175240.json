@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mother",
+            "http://dbpedia.org/resource/Bong_Joon-ho",
+            "http://dbpedia.org/resource/South_Korea"
+        ]
+    ]
+}

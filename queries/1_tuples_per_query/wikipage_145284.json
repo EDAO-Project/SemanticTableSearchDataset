@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Casino_Jack",
+            "http://dbpedia.org/resource/George_Hickenlooper",
+            "http://dbpedia.org/resource/Kevin_Spacey"
+        ]
+    ]
+}

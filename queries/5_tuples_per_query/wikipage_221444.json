@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Serge_Koussevitzky",
+            "http://dbpedia.org/resource/RCA"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Orchestra",
+            "http://dbpedia.org/resource/Eugene_Ormandy",
+            "http://dbpedia.org/resource/Sony"
+        ],
+        [
+            "http://dbpedia.org/resource/Philharmonia_Orchestra",
+            "http://dbpedia.org/resource/Thomas_Schippers",
+            "http://dbpedia.org/resource/Angel"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland_Orchestra",
+            "http://dbpedia.org/resource/George_Szell",
+            "http://dbpedia.org/resource/Sony"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Erich_Leinsdorf",
+            "http://dbpedia.org/resource/RCA"
+        ]
+    ]
+}

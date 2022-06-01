@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chitimacha_Louisiana_Open",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Steven_Alker"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Tee_Arkansas_Classic",
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Jace_Bugg"
+        ]
+    ]
+}

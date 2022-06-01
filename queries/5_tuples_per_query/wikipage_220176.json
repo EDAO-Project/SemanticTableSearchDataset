@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DYCB-TV",
+            "http://dbpedia.org/resource/Cebu",
+            "http://dbpedia.org/resource/ABS-CBN_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/DYKC-TV",
+            "http://dbpedia.org/resource/Cebu",
+            "http://dbpedia.org/resource/Radio_Philippines_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/DYTV-TV",
+            "http://dbpedia.org/resource/Cebu",
+            "http://dbpedia.org/resource/Intercontinental_Broadcasting_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/DYAC-TV",
+            "http://dbpedia.org/resource/Cebu",
+            "http://dbpedia.org/resource/ABS-CBN_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/DYAN-TV",
+            "http://dbpedia.org/resource/Cebu",
+            "http://dbpedia.org/resource/Nation_Broadcasting_Corporation"
+        ]
+    ]
+}

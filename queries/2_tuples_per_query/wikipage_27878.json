@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/James_Forrestal",
+            "http://dbpedia.org/resource/Franklin_D._Roosevelt",
+            "http://dbpedia.org/resource/Frank_Knox"
+        ],
+        [
+            "http://dbpedia.org/resource/Ralph_Austin_Bard",
+            "http://dbpedia.org/resource/Franklin_D._Roosevelt",
+            "http://dbpedia.org/resource/James_Forrestal"
+        ]
+    ]
+}

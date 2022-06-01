@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ashley_River_Railroad",
+            "http://dbpedia.org/resource/Atlantic_Coast_Line_Railroad",
+            "http://dbpedia.org/resource/Plant_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic,_Greenville_and_Western_Railway",
+            "http://dbpedia.org/resource/Atlantic_Coast_Line_Railroad",
+            "http://dbpedia.org/resource/Carolina,_Knoxville_and_Western_Railway"
+        ]
+    ]
+}

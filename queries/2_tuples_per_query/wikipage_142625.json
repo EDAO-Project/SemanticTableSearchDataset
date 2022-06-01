@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_VFL_draft",
+            "http://dbpedia.org/resource/Richard_Lounder",
+            "http://dbpedia.org/resource/Richmond_Football_Club",
+            "http://dbpedia.org/resource/Central_District_Football_Club",
+            "http://dbpedia.org/resource/South_Australian_National_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_AFL_draft",
+            "http://dbpedia.org/resource/Drew_Banfield",
+            "http://dbpedia.org/resource/West_Coast_Eagles",
+            "http://dbpedia.org/resource/Subiaco_Football_Club",
+            "http://dbpedia.org/resource/West_Australian_Football_League"
+        ]
+    ]
+}

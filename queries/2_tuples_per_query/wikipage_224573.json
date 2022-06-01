@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Donald_Arseneault",
+            "http://dbpedia.org/resource/New_Brunswick_Liberal_Association",
+            "http://dbpedia.org/resource/Dalhousie-Restigouche_East"
+        ],
+        [
+            "http://dbpedia.org/resource/Roy_Boudreau",
+            "http://dbpedia.org/resource/New_Brunswick_Liberal_Association",
+            "http://dbpedia.org/resource/Campbellton-Restigouche_Centre"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Herma_Bauma",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Herma_Bauma",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Vienna"
+        ]
+    ]
+}

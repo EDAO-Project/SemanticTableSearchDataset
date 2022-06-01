@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Kahoe",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

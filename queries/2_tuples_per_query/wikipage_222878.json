@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/El_Paso_County,_Texas",
+            "http://dbpedia.org/resource/Anthony,_Texas",
+            "http://dbpedia.org/resource/Westway,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Paso_County,_Texas",
+            "http://dbpedia.org/resource/El_Paso,_Texas",
+            "http://dbpedia.org/resource/University_of_Texas_at_El_Paso"
+        ]
+    ]
+}

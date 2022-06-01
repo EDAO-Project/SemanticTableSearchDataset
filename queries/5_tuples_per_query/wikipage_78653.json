@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Infernales",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Jaque_Mate",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Infernales",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Brazo",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Bestia_Salvaje",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

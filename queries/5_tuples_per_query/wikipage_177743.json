@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_NBA_draft",
+            "http://dbpedia.org/resource/Doug_Moe",
+            "http://dbpedia.org/resource/Detroit_Pistons",
+            "http://dbpedia.org/resource/1968_ABA_All-Star_Game"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_NBA_draft",
+            "http://dbpedia.org/resource/Billy_Cunningham",
+            "http://dbpedia.org/resource/Philadelphia_76ers",
+            "http://dbpedia.org/resource/1969_NBA_All-Star_Game"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_NBA_draft",
+            "http://dbpedia.org/resource/Charlie_Scott",
+            "http://dbpedia.org/resource/Boston_Celtics",
+            "http://dbpedia.org/resource/1973_NBA_All-Star_Game"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_NBA_draft",
+            "http://dbpedia.org/resource/Bob_McAdoo",
+            "http://dbpedia.org/resource/Buffalo_Braves",
+            "http://dbpedia.org/resource/1974_NBA_All-Star_Game"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_NBA_draft",
+            "http://dbpedia.org/resource/Mitch_Kupchak",
+            "http://dbpedia.org/resource/Washington_Wizards",
+            "http://dbpedia.org/resource/1978_NBA_Finals"
+        ]
+    ]
+}

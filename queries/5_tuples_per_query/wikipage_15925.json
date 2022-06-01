@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Big_Catch",
+            "http://dbpedia.org/resource/Leo_D._Maloney",
+            "http://dbpedia.org/resource/Hoot_Gibson"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Broncho_Kid",
+            "http://dbpedia.org/resource/Mack_V._Wright",
+            "http://dbpedia.org/resource/Hoot_Gibson"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Deerslayer_and_Chingachgook",
+            "http://dbpedia.org/resource/Arthur_Wellin",
+            "http://dbpedia.org/resource/Bela_Lugosi"
+        ],
+        [
+            "http://dbpedia.org/resource/Elmo_the_Fearless",
+            "http://dbpedia.org/resource/J._P._McGowan",
+            "http://dbpedia.org/resource/Elmo_Lincoln"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Grinning_Granger",
+            "http://dbpedia.org/resource/Leo_D._Maloney",
+            "http://dbpedia.org/resource/Hoot_Gibson"
+        ]
+    ]
+}

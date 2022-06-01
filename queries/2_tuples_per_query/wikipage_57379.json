@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dov_Yosef",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Third_government_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Ben-Gurion",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Seventh_government_of_Israel"
+        ]
+    ]
+}

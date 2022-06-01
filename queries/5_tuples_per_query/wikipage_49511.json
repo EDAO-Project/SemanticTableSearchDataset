@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Utah_Senate_District",
+            "http://dbpedia.org/resource/Fred_J._Fife",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Utah_Senate_District",
+            "http://dbpedia.org/resource/Scott_McCoy",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Utah_Senate_District",
+            "http://dbpedia.org/resource/Patricia_W._Jones",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Utah_Senate_District",
+            "http://dbpedia.org/resource/Karen_Mayne",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/10th_Utah_Senate_District",
+            "http://dbpedia.org/resource/Chris_Buttars",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah"
+        ]
+    ]
+}

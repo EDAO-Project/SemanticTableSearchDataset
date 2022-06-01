@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hughie_Green",
+            "http://dbpedia.org/resource/An_American_Tragedy",
+            "http://dbpedia.org/resource/Mirror"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Gielgud",
+            "http://dbpedia.org/resource/The_Oxford_Dictionary_of_Quotations",
+            "http://dbpedia.org/resource/Watercolor_painting"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_C._Beasley",
+            "http://dbpedia.org/resource/United_States_Navy",
+            "http://dbpedia.org/resource/Seaman"
+        ]
+    ]
+}

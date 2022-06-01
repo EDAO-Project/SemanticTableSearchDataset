@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bregenz_Forest_Mountains",
+            "http://dbpedia.org/resource/Northern_Limestone_Alps",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Glatthorn"
+        ],
+        [
+            "http://dbpedia.org/resource/Lechquellen_Mountains",
+            "http://dbpedia.org/resource/Northern_Limestone_Alps",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Untere_Wildgrubenspitze"
+        ],
+        [
+            "http://dbpedia.org/resource/Lechtal_Alps",
+            "http://dbpedia.org/resource/Northern_Limestone_Alps",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Parseierspitze"
+        ],
+        [
+            "http://dbpedia.org/resource/Wetterstein",
+            "http://dbpedia.org/resource/Northern_Limestone_Alps",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Zugspitze"
+        ],
+        [
+            "http://dbpedia.org/resource/Karwendel",
+            "http://dbpedia.org/resource/Northern_Limestone_Alps",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Birkkarspitze"
+        ]
+    ]
+}

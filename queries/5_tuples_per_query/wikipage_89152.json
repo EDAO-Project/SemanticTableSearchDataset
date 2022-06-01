@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal",
+            "http://dbpedia.org/resource/2009_Superleague_Formula_season",
+            "http://dbpedia.org/resource/Pedro_Petiz"
+        ],
+        [
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/2008_Superleague_Formula_season",
+            "http://dbpedia.org/resource/Robert_Doornbos"
+        ],
+        [
+            "http://dbpedia.org/resource/AC_Sparta_Prague",
+            "http://dbpedia.org/resource/2011_Superleague_Formula_season",
+            "http://dbpedia.org/resource/Filip_Salaquarda"
+        ],
+        [
+            "http://dbpedia.org/resource/PSV_Eindhoven",
+            "http://dbpedia.org/resource/2008_Superleague_Formula_season",
+            "http://dbpedia.org/resource/Yelmer_Buurman"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Ain_FC",
+            "http://dbpedia.org/resource/2008_Superleague_Formula_season",
+            "http://dbpedia.org/resource/Andreas_Zuber"
+        ]
+    ]
+}

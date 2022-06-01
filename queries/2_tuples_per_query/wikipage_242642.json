@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1939_NFL_draft",
+            "http://dbpedia.org/resource/Sid_Luckman",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/Columbia_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1942_NFL_draft",
+            "http://dbpedia.org/resource/Frankie_Albert",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/Stanford_University"
+        ]
+    ]
+}

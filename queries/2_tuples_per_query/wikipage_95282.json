@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KCME",
+            "http://dbpedia.org/resource/Classical_music",
+            "http://dbpedia.org/resource/Manitou_Springs,_Colorado",
+            "http://dbpedia.org/resource/HD_Radio"
+        ],
+        [
+            "http://dbpedia.org/resource/KEPC",
+            "http://dbpedia.org/resource/Alternative_rock",
+            "http://dbpedia.org/resource/Colorado_Springs,_Colorado",
+            "http://dbpedia.org/resource/Pikes_Peak_Community_College"
+        ]
+    ]
+}

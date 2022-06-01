@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Chicago_Cubs_season",
+            "http://dbpedia.org/resource/Kevin_Gregg",
+            "http://dbpedia.org/resource/Juan_Carlos_Oviedo",
+            "http://dbpedia.org/resource/Aaron_Heilman"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Washington_Nationals_season",
+            "http://dbpedia.org/resource/Ron_Villone",
+            "http://dbpedia.org/resource/Kiko_Calero",
+            "http://dbpedia.org/resource/Mike_MacDougal"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Washington_Nationals_season",
+            "http://dbpedia.org/resource/John_Lannan",
+            "http://dbpedia.org/resource/Rick_VandenHurk",
+            "http://dbpedia.org/resource/Mike_MacDougal"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Ricky_Nolasco",
+            "http://dbpedia.org/resource/Joe_Blanton",
+            "http://dbpedia.org/resource/Juan_Carlos_Oviedo"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Brian_Sanches",
+            "http://dbpedia.org/resource/Cole_Hamels",
+            "http://dbpedia.org/resource/Juan_Carlos_Oviedo"
+        ]
+    ]
+}

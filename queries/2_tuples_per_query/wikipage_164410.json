@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonas_Gustavsson",
+            "http://dbpedia.org/resource/Detroit_Red_Wings",
+            "http://dbpedia.org/resource/Winnipeg_Jets"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Lundin",
+            "http://dbpedia.org/resource/Ottawa_Senators",
+            "http://dbpedia.org/resource/Minnesota_Wild"
+        ]
+    ]
+}

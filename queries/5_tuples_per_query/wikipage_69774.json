@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Griffin_III",
+            "http://dbpedia.org/resource/2011_Baylor_Bears_football_team",
+            "http://dbpedia.org/resource/2011_Alamo_Bowl",
+            "http://dbpedia.org/resource/2011_Washington_Huskies_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Cam_Newton",
+            "http://dbpedia.org/resource/2010_Auburn_Tigers_football_team",
+            "http://dbpedia.org/resource/2011_BCS_National_Championship_Game",
+            "http://dbpedia.org/resource/2010_Oregon_Ducks_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Sam_Bradford",
+            "http://dbpedia.org/resource/2008_Oklahoma_Sooners_football_team",
+            "http://dbpedia.org/resource/2009_BCS_National_Championship_Game",
+            "http://dbpedia.org/resource/2008_Florida_Gators_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Tebow",
+            "http://dbpedia.org/resource/2007_Florida_Gators_football_team",
+            "http://dbpedia.org/resource/2008_Capital_One_Bowl",
+            "http://dbpedia.org/resource/2007_Michigan_Wolverines_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Troy_Smith",
+            "http://dbpedia.org/resource/2006_Ohio_State_Buckeyes_football_team",
+            "http://dbpedia.org/resource/2007_BCS_National_Championship_Game",
+            "http://dbpedia.org/resource/2006_Florida_Gators_football_team"
+        ]
+    ]
+}

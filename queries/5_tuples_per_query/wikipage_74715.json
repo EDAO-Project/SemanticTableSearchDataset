@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_in_film",
+            "http://dbpedia.org/resource/Hibiscus_Town",
+            "http://dbpedia.org/resource/Xie_Jin"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_in_film",
+            "http://dbpedia.org/resource/Ju_Dou",
+            "http://dbpedia.org/resource/Zhang_Yimou"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_in_film",
+            "http://dbpedia.org/resource/The_Story_of_Qiu_Ju",
+            "http://dbpedia.org/resource/Zhang_Yimou"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_in_film",
+            "http://dbpedia.org/resource/Country_Teachers",
+            "http://dbpedia.org/resource/He_Qun"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_film",
+            "http://dbpedia.org/resource/Warriors_of_Heaven_and_Earth",
+            "http://dbpedia.org/resource/He_Ping"
+        ]
+    ]
+}

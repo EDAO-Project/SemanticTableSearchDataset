@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_1_in_Pennsylvania",
+            "http://dbpedia.org/resource/Chester_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Philadelphia"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_6_in_Pennsylvania",
+            "http://dbpedia.org/resource/Crawford_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Meadville,_Pennsylvania"
+        ]
+    ]
+}

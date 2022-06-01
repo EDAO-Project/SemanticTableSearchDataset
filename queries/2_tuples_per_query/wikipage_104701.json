@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Girona_Open",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Steven_Richardson"
+        ],
+        [
+            "http://dbpedia.org/resource/Open_Mediterrania",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Ian_Woosnam"
+        ]
+    ]
+}

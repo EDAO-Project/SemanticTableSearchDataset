@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Cocke",
+            "http://dbpedia.org/resource/4th_United_States_Congress",
+            "http://dbpedia.org/resource/William_Blount"
+        ]
+    ]
+}

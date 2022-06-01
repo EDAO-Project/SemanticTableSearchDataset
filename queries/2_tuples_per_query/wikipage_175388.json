@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1985_World_Marathon_Cup",
+            "http://dbpedia.org/resource/Djibouti",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Ethiopia"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_World_Marathon_Cup",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

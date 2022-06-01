@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_Bowl_I",
+            "http://dbpedia.org/resource/Vince_Lombardi",
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Kansas_City_Chiefs",
+            "http://dbpedia.org/resource/Hank_Stram",
+            "http://dbpedia.org/resource/Los_Angeles_Memorial_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_II",
+            "http://dbpedia.org/resource/Vince_Lombardi",
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Oakland_Raiders",
+            "http://dbpedia.org/resource/John_Rauch",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl"
+        ]
+    ]
+}

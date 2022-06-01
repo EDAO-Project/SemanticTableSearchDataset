@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jorge_Luis_Borges",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Spanish_language"
+        ]
+    ]
+}

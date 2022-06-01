@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nelson_W._Aldrich_House",
+            "http://dbpedia.org/resource/Providence,_Rhode_Island",
+            "http://dbpedia.org/resource/Providence_County,_Rhode_Island",
+            "http://dbpedia.org/resource/Nelson_W._Aldrich"
+        ],
+        [
+            "http://dbpedia.org/resource/Westminster_Arcade",
+            "http://dbpedia.org/resource/Providence,_Rhode_Island",
+            "http://dbpedia.org/resource/Providence_County,_Rhode_Island",
+            "http://dbpedia.org/resource/Shopping_mall"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gabor_Boritt",
+            "http://dbpedia.org/resource/James_L._Swanson",
+            "http://dbpedia.org/resource/Gettysburg_Address"
+        ],
+        [
+            "http://dbpedia.org/resource/Doug_Bandow",
+            "http://dbpedia.org/resource/Radicals_for_Capitalism",
+            "http://dbpedia.org/resource/Libertarianism_in_the_United_States"
+        ]
+    ]
+}

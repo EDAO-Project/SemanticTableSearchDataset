@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Carlos_Valderrama",
+            "http://dbpedia.org/resource/Tampa_Bay_Mutiny",
+            "http://dbpedia.org/resource/Roy_Lassiter"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Preki",
+            "http://dbpedia.org/resource/Sporting_Kansas_City",
+            "http://dbpedia.org/resource/Marco_Etcheverry"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Marco_Etcheverry",
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/Cobi_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Jason_Kreis",
+            "http://dbpedia.org/resource/FC_Dallas",
+            "http://dbpedia.org/resource/Marco_Etcheverry"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Tony_Meola",
+            "http://dbpedia.org/resource/Sporting_Kansas_City",
+            "http://dbpedia.org/resource/Mamadou_Diallo"
+        ]
+    ]
+}

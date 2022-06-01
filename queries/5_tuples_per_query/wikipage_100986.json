@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Taibo",
+            "http://dbpedia.org/resource/Law_with_Two_Phases"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Lam_Ching-ying",
+            "http://dbpedia.org/resource/Mr._Vampire"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Billy_Lau",
+            "http://dbpedia.org/resource/Mr._Vampire"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Waise_Lee",
+            "http://dbpedia.org/resource/A_Better_Tomorrow"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Wu_Ma",
+            "http://dbpedia.org/resource/Righting_Wrongs"
+        ]
+    ]
+}

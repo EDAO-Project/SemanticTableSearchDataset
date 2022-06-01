@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Allister",
+            "http://dbpedia.org/resource/Traditional_Unionist_Voice",
+            "http://dbpedia.org/resource/Non-Inscrits"
+        ],
+        [
+            "http://dbpedia.org/resource/Elspeth_Attwooll",
+            "http://dbpedia.org/resource/Liberal_Democrats",
+            "http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerard_Batten",
+            "http://dbpedia.org/resource/UK_Independence_Party",
+            "http://dbpedia.org/resource/Independence/Democracy"
+        ],
+        [
+            "http://dbpedia.org/resource/Godfrey_Bloom",
+            "http://dbpedia.org/resource/UK_Independence_Party",
+            "http://dbpedia.org/resource/Independence/Democracy"
+        ],
+        [
+            "http://dbpedia.org/resource/Sharon_Bowles",
+            "http://dbpedia.org/resource/Liberal_Democrats",
+            "http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe"
+        ]
+    ]
+}

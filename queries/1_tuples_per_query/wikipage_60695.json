@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/Glen_Perkins",
+            "http://dbpedia.org/resource/Gil_Meche",
+            "http://dbpedia.org/resource/Joe_Nathan"
+        ]
+    ]
+}

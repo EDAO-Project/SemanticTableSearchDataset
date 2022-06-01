@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marc_VDS_Racing_Team",
+            "http://dbpedia.org/resource/Maxime_Martin",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_bus_routes_in_London",
+            "http://dbpedia.org/resource/Edgware",
+            "http://dbpedia.org/resource/Kilburn,_London",
+            "http://dbpedia.org/resource/Metroline"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Buses_route_79",
+            "http://dbpedia.org/resource/Edgware",
+            "http://dbpedia.org/resource/Alperton",
+            "http://dbpedia.org/resource/Metroline"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Buses_route_107",
+            "http://dbpedia.org/resource/Edgware",
+            "http://dbpedia.org/resource/New_Barnet",
+            "http://dbpedia.org/resource/Metroline"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Buses_route_113",
+            "http://dbpedia.org/resource/Edgware",
+            "http://dbpedia.org/resource/Marble_Arch",
+            "http://dbpedia.org/resource/Metroline"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_bus_routes_in_London",
+            "http://dbpedia.org/resource/Northwick_Park_Hospital",
+            "http://dbpedia.org/resource/Brent_Cross",
+            "http://dbpedia.org/resource/Metroline"
+        ]
+    ]
+}

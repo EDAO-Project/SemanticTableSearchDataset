@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lists_of_U.S._state_animals",
+            "http://dbpedia.org/resource/Elk",
+            "http://dbpedia.org/resource/Rocky_Mountains"
+        ]
+    ]
+}

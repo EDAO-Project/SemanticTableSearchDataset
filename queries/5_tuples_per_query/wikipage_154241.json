@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johan_Cruyff",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/AFC_Ajax"
+        ],
+        [
+            "http://dbpedia.org/resource/Franz_Beckenbauer",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Kazimierz_Deyna",
+            "http://dbpedia.org/resource/Poland",
+            "http://dbpedia.org/resource/Legia_Warsaw"
+        ],
+        [
+            "http://dbpedia.org/resource/Gianni_Rivera",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Giacinto_Facchetti",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ]
+    ]
+}

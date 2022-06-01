@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brock_Lesnar",
+            "http://dbpedia.org/resource/Metallica",
+            "http://dbpedia.org/resource/Enter_Sandman"
+        ],
+        [
+            "http://dbpedia.org/resource/C.B._Dollaway",
+            "http://dbpedia.org/resource/Eminem",
+            "http://dbpedia.org/resource/The_Eminem_Show"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Henderson",
+            "http://dbpedia.org/resource/Red_Rider",
+            "http://dbpedia.org/resource/As_Far_as_Siam"
+        ],
+        [
+            "http://dbpedia.org/resource/Dong_Hyun_Kim",
+            "http://dbpedia.org/resource/Jay_Z",
+            "http://dbpedia.org/resource/Numb/Encore"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_Fitch",
+            "http://dbpedia.org/resource/Johnny_Cash",
+            "http://dbpedia.org/resource/Rusty_Cage"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wales",
+            "http://dbpedia.org/resource/Pontins",
+            "http://dbpedia.org/resource/Prestatyn",
+            "http://dbpedia.org/resource/Jack_Lisowski",
+            "http://dbpedia.org/resource/Liam_Highfield"
+        ],
+        [
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/2009_Six-red_World_Grand_Prix",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Jimmy_White",
+            "http://dbpedia.org/resource/Barry_Hawkins"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cathedral_of_Christ_the_Saviour",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/Holy_Trinity_Cathedral_of_Tbilisi",
+            "http://dbpedia.org/resource/Georgian_Orthodox_Church",
+            "http://dbpedia.org/resource/Tbilisi"
+        ],
+        [
+            "http://dbpedia.org/resource/Transfiguration_Cathedral,_Khabarovsk",
+            "http://dbpedia.org/resource/Patriarch_Alexy_II_of_Moscow",
+            "http://dbpedia.org/resource/Khabarovsk"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Nevsky",
+            "http://dbpedia.org/resource/Oka_River",
+            "http://dbpedia.org/resource/Nizhny_Novgorod"
+        ],
+        [
+            "http://dbpedia.org/resource/Annunciation_Cathedral,_Voronezh",
+            "http://dbpedia.org/resource/Russian_Revival_architecture",
+            "http://dbpedia.org/resource/Voronezh"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bendigo_Football_Club",
+            "http://dbpedia.org/resource/Windy_Hill,_Essendon",
+            "http://dbpedia.org/resource/Bendigo"
+        ],
+        [
+            "http://dbpedia.org/resource/Box_Hill_Hawks_Football_Club",
+            "http://dbpedia.org/resource/Box_Hill_City_Oval",
+            "http://dbpedia.org/resource/Box_Hill,_Victoria"
+        ],
+        [
+            "http://dbpedia.org/resource/Casey_Scorpions",
+            "http://dbpedia.org/resource/Casey_Fields",
+            "http://dbpedia.org/resource/Melbourne"
+        ],
+        [
+            "http://dbpedia.org/resource/Coburg_Football_Club",
+            "http://dbpedia.org/resource/Coburg_City_Oval",
+            "http://dbpedia.org/resource/Coburg,_Victoria"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankston_Football_Club",
+            "http://dbpedia.org/resource/Frankston_Park",
+            "http://dbpedia.org/resource/Frankston,_Victoria"
+        ]
+    ]
+}

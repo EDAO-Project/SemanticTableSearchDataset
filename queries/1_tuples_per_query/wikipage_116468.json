@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andy_Welsh",
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

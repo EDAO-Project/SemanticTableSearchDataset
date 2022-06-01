@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Museum_of_the_Polish_Peasant_Movement",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Masovian_Voivodeship"
+        ],
+        [
+            "http://dbpedia.org/resource/Museum_of_Independence",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Masovian_Voivodeship"
+        ],
+        [
+            "http://dbpedia.org/resource/National_Museum_of_Ethnography",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Masovian_Voivodeship"
+        ],
+        [
+            "http://dbpedia.org/resource/Pszczyna_Castle",
+            "http://dbpedia.org/resource/Pszczyna",
+            "http://dbpedia.org/resource/Silesian_Voivodeship"
+        ],
+        [
+            "http://dbpedia.org/resource/National_Museum_of_Agriculture_in_Szreniawa",
+            "http://dbpedia.org/resource/Szreniawa,_Greater_Poland_Voivodeship",
+            "http://dbpedia.org/resource/List_of_agriculture_ministries"
+        ]
+    ]
+}

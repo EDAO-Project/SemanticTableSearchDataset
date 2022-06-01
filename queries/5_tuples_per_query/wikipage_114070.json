@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_Nabisco_Dinah_Shore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amy_Alcott"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Nabisco_Dinah_Shore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Juli_Inkster"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_Nabisco_Dinah_Shore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Betsy_King"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_Nabisco_Dinah_Shore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amy_Alcott"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_Nabisco_Dinah_Shore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Juli_Inkster"
+        ]
+    ]
+}

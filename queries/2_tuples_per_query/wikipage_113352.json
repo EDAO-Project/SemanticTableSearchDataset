@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_Cars_characters",
+            "http://dbpedia.org/resource/Peter_Jacobson",
+            "http://dbpedia.org/resource/Cars_2"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Toy_Story_characters",
+            "http://dbpedia.org/resource/Wayne_Knight",
+            "http://dbpedia.org/resource/Toy_Story_2"
+        ]
+    ]
+}

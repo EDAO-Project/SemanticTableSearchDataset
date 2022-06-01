@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Miami_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Miami_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amalie_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Philips_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Madison_Square_Garden"
+        ]
+    ]
+}

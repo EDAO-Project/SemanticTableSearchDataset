@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1901_All_England_Badminton_Championships",
+            "http://dbpedia.org/resource/H._W._Davies",
+            "http://dbpedia.org/resource/Ralph_Watling"
+        ],
+        [
+            "http://dbpedia.org/resource/1903_All_England_Badminton_Championships",
+            "http://dbpedia.org/resource/Ralph_Watling",
+            "http://dbpedia.org/resource/Henry_Norman_Marrett"
+        ]
+    ]
+}

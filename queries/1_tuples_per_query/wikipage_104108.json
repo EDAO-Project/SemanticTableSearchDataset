@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ball_State_Cardinals_football",
+            "http://dbpedia.org/resource/Stan_Parrish",
+            "http://dbpedia.org/resource/Pete_Lembo"
+        ]
+    ]
+}

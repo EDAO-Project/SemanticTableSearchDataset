@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama_Crimson_Tide_football",
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Tuscaloosa,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Southeastern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_Tigers_football",
+            "http://dbpedia.org/resource/Auburn_University",
+            "http://dbpedia.org/resource/Auburn,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Southeastern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Alabama_Jaguars_football",
+            "http://dbpedia.org/resource/University_of_South_Alabama",
+            "http://dbpedia.org/resource/Mobile,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Sun_Belt_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Troy_Trojans_football",
+            "http://dbpedia.org/resource/Troy_University",
+            "http://dbpedia.org/resource/Troy,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Sun_Belt_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/UAB_Blazers_football",
+            "http://dbpedia.org/resource/University_of_Alabama_at_Birmingham",
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Conference_USA"
+        ]
+    ]
+}

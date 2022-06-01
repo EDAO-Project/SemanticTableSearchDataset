@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_of_Bowman",
+            "http://dbpedia.org/resource/Andrea_West",
+            "http://dbpedia.org/resource/Con_Sciacca"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Canning",
+            "http://dbpedia.org/resource/Ricky_Johnston",
+            "http://dbpedia.org/resource/Jane_Gerick"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Capricornia",
+            "http://dbpedia.org/resource/Paul_Marek",
+            "http://dbpedia.org/resource/Kirsten_Livermore"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Chisholm",
+            "http://dbpedia.org/resource/Michael_Wooldridge",
+            "http://dbpedia.org/resource/Anna_Burke"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Curtin",
+            "http://dbpedia.org/resource/Allan_Rocher",
+            "http://dbpedia.org/resource/Julie_Bishop"
+        ]
+    ]
+}

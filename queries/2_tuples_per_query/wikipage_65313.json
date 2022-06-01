@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/One_Israel",
+            "http://dbpedia.org/resource/Ehud_Barak",
+            "http://dbpedia.org/resource/Eitan_Cabel"
+        ],
+        [
+            "http://dbpedia.org/resource/One_Israel",
+            "http://dbpedia.org/resource/Shlomo_Ben-Ami",
+            "http://dbpedia.org/resource/Orit_Noked"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cameroon_national_football_team",
+            "http://dbpedia.org/resource/2012_Nehru_Cup",
+            "http://dbpedia.org/resource/Alaa_Al_Shbli"
+        ],
+        [
+            "http://dbpedia.org/resource/Amman",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Ahmad_Al_Douni"
+        ]
+    ]
+}

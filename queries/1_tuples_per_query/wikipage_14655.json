@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Paul_Quantrill",
+            "http://dbpedia.org/resource/Jason_Isringhausen",
+            "http://dbpedia.org/resource/Billy_Koch"
+        ]
+    ]
+}

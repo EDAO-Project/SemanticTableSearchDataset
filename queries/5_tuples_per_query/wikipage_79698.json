@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acadia_Divinity_College",
+            "http://dbpedia.org/resource/Wolfville",
+            "http://dbpedia.org/resource/Harry_Gardner"
+        ],
+        [
+            "http://dbpedia.org/resource/Alliance_Theological_Seminary",
+            "http://dbpedia.org/resource/Nyack,_New_York",
+            "http://dbpedia.org/resource/Michael_G._Scales"
+        ],
+        [
+            "http://dbpedia.org/resource/Asbury_Theological_Seminary",
+            "http://dbpedia.org/resource/Wilmore,_Kentucky",
+            "http://dbpedia.org/resource/Timothy_Tennent"
+        ],
+        [
+            "http://dbpedia.org/resource/Austin_Presbyterian_Theological_Seminary",
+            "http://dbpedia.org/resource/Austin,_Texas",
+            "http://dbpedia.org/resource/Theodore_Wardlaw"
+        ],
+        [
+            "http://dbpedia.org/resource/Beeson_Divinity_School",
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/Timothy_George"
+        ]
+    ]
+}

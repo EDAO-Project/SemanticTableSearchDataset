@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vladimir_Kumarin",
+            "http://dbpedia.org/resource/Russians",
+            "http://dbpedia.org/resource/Tambov_Gang"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergey_Timofeev",
+            "http://dbpedia.org/resource/Russians",
+            "http://dbpedia.org/resource/Orekhovskaya_gang"
+        ],
+        [
+            "http://dbpedia.org/resource/Vyacheslav_Ivankov",
+            "http://dbpedia.org/resource/Russians",
+            "http://dbpedia.org/resource/Thief_in_law"
+        ],
+        [
+            "http://dbpedia.org/resource/Maxim_Lazovsky",
+            "http://dbpedia.org/resource/Russians",
+            "http://dbpedia.org/resource/Russian_apartment_bombings"
+        ],
+        [
+            "http://dbpedia.org/resource/Khozh-Ahmed_Noukhayev",
+            "http://dbpedia.org/resource/Chechens",
+            "http://dbpedia.org/resource/Chechen_mafia"
+        ]
+    ]
+}

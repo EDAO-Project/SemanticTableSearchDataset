@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aurora_Boulevard",
+            "http://dbpedia.org/resource/Quezon_City",
+            "http://dbpedia.org/resource/Aurora_Quezon",
+            "http://dbpedia.org/resource/First_Spouse_of_the_Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Chino_Roces_Avenue",
+            "http://dbpedia.org/resource/Makati",
+            "http://dbpedia.org/resource/Chino_Roces",
+            "http://dbpedia.org/resource/The_Manila_Times"
+        ]
+    ]
+}

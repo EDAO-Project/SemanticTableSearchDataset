@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_College",
+            "http://dbpedia.org/resource/Chestnut_Hill,_Massachusetts",
+            "http://dbpedia.org/resource/Private_university",
+            "http://dbpedia.org/resource/Boston_College_Eagles",
+            "http://dbpedia.org/resource/Baldwin_the_Eagle"
+        ]
+    ]
+}

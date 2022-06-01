@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shannon_Szabados",
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/MacEwan_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Tessa_Bonhomme",
+            "http://dbpedia.org/resource/Greater_Sudbury",
+            "http://dbpedia.org/resource/Calgary_Oval_X-Treme"
+        ],
+        [
+            "http://dbpedia.org/resource/Carla_MacLeod",
+            "http://dbpedia.org/resource/Spruce_Grove",
+            "http://dbpedia.org/resource/Calgary_Oval_X-Treme"
+        ],
+        [
+            "http://dbpedia.org/resource/Becky_Kellar-Duke",
+            "http://dbpedia.org/resource/Hagersville,_Ontario",
+            "http://dbpedia.org/resource/Burlington_Barracudas"
+        ],
+        [
+            "http://dbpedia.org/resource/Colleen_Sostorics",
+            "http://dbpedia.org/resource/Kennedy,_Saskatchewan",
+            "http://dbpedia.org/resource/Calgary_Oval_X-Treme"
+        ]
+    ]
+}

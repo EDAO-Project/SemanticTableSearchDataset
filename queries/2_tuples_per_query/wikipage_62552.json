@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_Football_Club",
+            "http://dbpedia.org/resource/Malcolm_Blight_Medal",
+            "http://dbpedia.org/resource/Bernie_Vince"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlton_Football_Club",
+            "http://dbpedia.org/resource/John_Nicholls_Medal",
+            "http://dbpedia.org/resource/Chris_Judd"
+        ]
+    ]
+}

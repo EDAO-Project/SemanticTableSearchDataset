@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_in_film",
+            "http://dbpedia.org/resource/The_Enchanting_Shadow",
+            "http://dbpedia.org/resource/Mandarin_Chinese",
+            "http://dbpedia.org/resource/Li_Han-hsiang"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_in_film",
+            "http://dbpedia.org/resource/The_Love_Eterne",
+            "http://dbpedia.org/resource/Mandarin_Chinese",
+            "http://dbpedia.org/resource/Li_Han-hsiang"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_in_film",
+            "http://dbpedia.org/resource/Between_Tears_and_Smiles",
+            "http://dbpedia.org/resource/Mandarin_Chinese",
+            "http://dbpedia.org/resource/Ho_Meng_Hua"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_in_film",
+            "http://dbpedia.org/resource/Come_Drink_with_Me",
+            "http://dbpedia.org/resource/Mandarin_Chinese",
+            "http://dbpedia.org/resource/King_Hu"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_in_film",
+            "http://dbpedia.org/resource/The_Arch",
+            "http://dbpedia.org/resource/Mandarin_Chinese",
+            "http://dbpedia.org/resource/Tang_Shu_Shuen"
+        ]
+    ]
+}

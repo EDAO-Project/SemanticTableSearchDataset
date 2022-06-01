@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Wright,_Baron_Wright",
+            "http://dbpedia.org/resource/Master_of_the_Rolls",
+            "http://dbpedia.org/resource/High_Court_of_Justice"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederic_Maugham,_1st_Viscount_Maugham",
+            "http://dbpedia.org/resource/Lord_Chancellor",
+            "http://dbpedia.org/resource/Lord_Justice_of_Appeal"
+        ],
+        [
+            "http://dbpedia.org/resource/Gavin_Simonds,_1st_Viscount_Simonds",
+            "http://dbpedia.org/resource/Lord_Chancellor",
+            "http://dbpedia.org/resource/High_Court_of_Justice"
+        ],
+        [
+            "http://dbpedia.org/resource/Rayner_Goddard,_Baron_Goddard",
+            "http://dbpedia.org/resource/Lord_Chief_Justice_of_England_and_Wales",
+            "http://dbpedia.org/resource/Lord_Justice_of_Appeal"
+        ],
+        [
+            "http://dbpedia.org/resource/John_MacDermott,_Baron_MacDermott",
+            "http://dbpedia.org/resource/Lord_Chief_Justice_of_Northern_Ireland",
+            "http://dbpedia.org/resource/Courts_of_Northern_Ireland"
+        ]
+    ]
+}

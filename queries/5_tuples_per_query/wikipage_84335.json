@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1815_Philadelphia_train_accident",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Philadelphia,_Tyne_and_Wear"
+        ],
+        [
+            "http://dbpedia.org/resource/Best_Friend_of_Charleston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Charleston,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Port_of_Hull",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Kingston_upon_Hull"
+        ],
+        [
+            "http://dbpedia.org/resource/PS_Henry_Eckford",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/New_York_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Shipwrecks_of_the_inland_Columbia_River",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Champoeg,_Oregon"
+        ]
+    ]
+}

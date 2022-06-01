@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lancing_College",
+            "http://dbpedia.org/resource/Lancing,_West_Sussex",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Denstone_College",
+            "http://dbpedia.org/resource/Denstone",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Holdenby_House",
+            "http://dbpedia.org/resource/Holdenby",
+            "http://dbpedia.org/resource/Christopher_Hatton"
+        ],
+        [
+            "http://dbpedia.org/resource/Abbots_Bromley_School",
+            "http://dbpedia.org/resource/Abbots_Bromley",
+            "http://dbpedia.org/resource/Ashlar"
+        ],
+        [
+            "http://dbpedia.org/resource/Lancing_College",
+            "http://dbpedia.org/resource/Lancing,_West_Sussex",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Chien-Ming_Wang",
+            "http://dbpedia.org/resource/Roy_Halladay",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ]
+    ]
+}

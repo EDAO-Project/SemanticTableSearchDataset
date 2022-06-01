@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alise-Sainte-Reine",
+            "http://dbpedia.org/resource/Ampilly-le-Sec",
+            "http://dbpedia.org/resource/Ampilly-les-Bordes"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellenod-sur-Seine",
+            "http://dbpedia.org/resource/Beneuvre",
+            "http://dbpedia.org/resource/Benoisey"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouix",
+            "http://dbpedia.org/resource/Boussey",
+            "http://dbpedia.org/resource/Boux-sous-Salmaise"
+        ],
+        [
+            "http://dbpedia.org/resource/Buncey",
+            "http://dbpedia.org/resource/Bure-les-Templiers",
+            "http://dbpedia.org/resource/Busseaut"
+        ],
+        [
+            "http://dbpedia.org/resource/Channay",
+            "http://dbpedia.org/resource/Charencey",
+            "http://dbpedia.org/resource/Charigny"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_Knox",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/George_Washington"
+        ]
+    ]
+}

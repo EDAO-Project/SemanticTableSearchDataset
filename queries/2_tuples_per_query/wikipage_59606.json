@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Puerto_Rico_Highway_100",
+            "http://dbpedia.org/resource/Cabo_Rojo,_Puerto_Rico",
+            "http://dbpedia.org/resource/Hormigueros,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/Puerto_Rico_Highway_103",
+            "http://dbpedia.org/resource/Cabo_Rojo,_Puerto_Rico",
+            "http://dbpedia.org/resource/Hormigueros,_Puerto_Rico"
+        ]
+    ]
+}

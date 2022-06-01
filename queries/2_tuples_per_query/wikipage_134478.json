@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daytona_International_Speedway",
+            "http://dbpedia.org/resource/Ian_Baas",
+            "http://dbpedia.org/resource/Ian_Baas"
+        ],
+        [
+            "http://dbpedia.org/resource/Homestead-Miami_Speedway",
+            "http://dbpedia.org/resource/Turner_Motorsport",
+            "http://dbpedia.org/resource/Turner_Motorsport"
+        ]
+    ]
+}

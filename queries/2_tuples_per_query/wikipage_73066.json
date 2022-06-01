@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Slovenia",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Norway"
+        ]
+    ]
+}

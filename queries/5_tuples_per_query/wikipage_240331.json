@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fred_Apostoli",
+            "http://dbpedia.org/resource/Boxing",
+            "http://dbpedia.org/resource/Golden_Gate_National_Recreation_Area"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_DiMaggio",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/San_Francisco_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Hank_Luisetti",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/Stanford_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernie_Nevers",
+            "http://dbpedia.org/resource/American_football",
+            "http://dbpedia.org/resource/Stanford_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Russell",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/University_of_San_Francisco"
+        ]
+    ]
+}

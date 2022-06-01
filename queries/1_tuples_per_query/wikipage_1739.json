@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Africa",
+            "http://dbpedia.org/resource/South_African_Broadcasting_Corporation",
+            "http://dbpedia.org/resource/English_language"
+        ]
+    ]
+}

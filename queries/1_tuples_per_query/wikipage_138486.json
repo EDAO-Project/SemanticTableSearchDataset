@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mackenzie_River",
+            "http://dbpedia.org/resource/Beaufort_Sea",
+            "http://dbpedia.org/resource/Thutade_Lake",
+            "http://dbpedia.org/resource/Northwest_Territories"
+        ]
+    ]
+}

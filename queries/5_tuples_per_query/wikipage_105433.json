@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ayr_State_High_School",
+            "http://dbpedia.org/resource/Ayr,_Queensland",
+            "http://dbpedia.org/resource/Shire_of_Burdekin"
+        ],
+        [
+            "http://dbpedia.org/resource/Charters_Towers_State_High_School",
+            "http://dbpedia.org/resource/Charters_Towers",
+            "http://dbpedia.org/resource/Charters_Towers_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Kirwan_State_High_School",
+            "http://dbpedia.org/resource/Kirwan,_Queensland",
+            "http://dbpedia.org/resource/City_of_Townsville"
+        ],
+        [
+            "http://dbpedia.org/resource/Pimlico_State_High_School",
+            "http://dbpedia.org/resource/Pimlico,_Queensland",
+            "http://dbpedia.org/resource/City_of_Townsville"
+        ],
+        [
+            "http://dbpedia.org/resource/Pioneer_State_High_School",
+            "http://dbpedia.org/resource/Andergrove,_Queensland",
+            "http://dbpedia.org/resource/Mackay_Region"
+        ]
+    ]
+}

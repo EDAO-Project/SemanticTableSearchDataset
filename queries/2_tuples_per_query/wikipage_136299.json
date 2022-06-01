@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/28th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Cliff_Pilkey",
+            "http://dbpedia.org/resource/Ontario_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Charles_McIlveen",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

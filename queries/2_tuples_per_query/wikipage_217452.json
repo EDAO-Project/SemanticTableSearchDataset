@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Schalk_Brits",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/South_African_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_George",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ]
+    ]
+}

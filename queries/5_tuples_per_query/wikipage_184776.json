@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Berns"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Scala"
+        ],
+        [
+            "http://dbpedia.org/resource/Saalburg",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/SonneMondSterne"
+        ],
+        [
+            "http://dbpedia.org/resource/Hasselt",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Pukkelpop"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/La_Cigale"
+        ]
+    ]
+}

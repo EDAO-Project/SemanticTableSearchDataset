@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1933_NFL_season",
+            "http://dbpedia.org/resource/Jim_Musick",
+            "http://dbpedia.org/resource/1933_Boston_Redskins_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1934_NFL_season",
+            "http://dbpedia.org/resource/Beattie_Feathers",
+            "http://dbpedia.org/resource/1934_Chicago_Bears_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1936_NFL_season",
+            "http://dbpedia.org/resource/Tuffy_Leemans",
+            "http://dbpedia.org/resource/1936_New_York_Giants_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1937_NFL_season",
+            "http://dbpedia.org/resource/Cliff_Battles",
+            "http://dbpedia.org/resource/1937_Washington_Redskins_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1939_NFL_season",
+            "http://dbpedia.org/resource/Bill_Osmanski",
+            "http://dbpedia.org/resource/1939_Chicago_Bears_season"
+        ]
+    ]
+}

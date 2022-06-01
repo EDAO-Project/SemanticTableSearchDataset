@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rory_Best",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Irish_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Ulster_Rugby"
+        ]
+    ]
+}

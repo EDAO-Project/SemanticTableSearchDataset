@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Erika_Brown",
+            "http://dbpedia.org/resource/Debbie_McCormick",
+            "http://dbpedia.org/resource/Ann_Swisshelm",
+            "http://dbpedia.org/resource/Jessica_Schultz",
+            "http://dbpedia.org/resource/Madison,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/Chelsea_Carey",
+            "http://dbpedia.org/resource/Kristy_McDonald",
+            "http://dbpedia.org/resource/Kristen_Foster",
+            "http://dbpedia.org/resource/Lindsay_Titheridge",
+            "http://dbpedia.org/resource/Morden,_Manitoba"
+        ]
+    ]
+}

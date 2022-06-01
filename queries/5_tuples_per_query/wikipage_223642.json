@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alapaha_Rise",
+            "http://dbpedia.org/resource/Alapaha_River",
+            "http://dbpedia.org/resource/Hamilton_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Springs_Wilderness",
+            "http://dbpedia.org/resource/St._Johns_River",
+            "http://dbpedia.org/resource/Lake_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Caverns_State_Park",
+            "http://dbpedia.org/resource/Chipola_River",
+            "http://dbpedia.org/resource/Jackson_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Ichetucknee_Springs_State_Park",
+            "http://dbpedia.org/resource/Ichetucknee_River",
+            "http://dbpedia.org/resource/Columbia_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/De_Leon_Springs_State_Park",
+            "http://dbpedia.org/resource/St._Johns_River",
+            "http://dbpedia.org/resource/Volusia_County,_Florida"
+        ]
+    ]
+}

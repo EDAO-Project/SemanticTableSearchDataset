@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canberra",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/AIS_Arena"
+        ]
+    ]
+}

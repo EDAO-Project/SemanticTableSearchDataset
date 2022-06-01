@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Brook_Lopez",
+            "http://dbpedia.org/resource/Reggie_Evans",
+            "http://dbpedia.org/resource/Deron_Williams",
+            "http://dbpedia.org/resource/United_Center"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Arman_Kirakossian"
+        ]
+    ]
+}

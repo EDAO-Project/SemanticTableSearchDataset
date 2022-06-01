@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/Robbie_Erlin",
+            "http://dbpedia.org/resource/Mark_Buehrle",
+            "http://dbpedia.org/resource/Luke_Gregerson"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/Casey_Janssen",
+            "http://dbpedia.org/resource/Brad_Boxberger",
+            "http://dbpedia.org/resource/Aaron_Loup"
+        ]
+    ]
+}

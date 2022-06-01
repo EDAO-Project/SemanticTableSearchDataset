@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_WNBA_season",
+            "http://dbpedia.org/resource/Tari_Phillips",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/New_York_Liberty"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_WNBA_season",
+            "http://dbpedia.org/resource/Janeth_Arcain",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Houston_Comets"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alverno_College",
+            "http://dbpedia.org/resource/Milwaukee",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Beloit_College",
+            "http://dbpedia.org/resource/Beloit,_Wisconsin",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackhawk_Technical_College",
+            "http://dbpedia.org/resource/Janesville,_Wisconsin",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Cardinal_Stritch_University",
+            "http://dbpedia.org/resource/Milwaukee",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Carroll_University",
+            "http://dbpedia.org/resource/Waukesha,_Wisconsin",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ]
+    ]
+}

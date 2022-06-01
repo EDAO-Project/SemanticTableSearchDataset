@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Road_cycling",
+            "http://dbpedia.org/resource/2013_Tour_of_the_Basque_Country",
+            "http://dbpedia.org/resource/Nairo_Quintana"
+        ]
+    ]
+}

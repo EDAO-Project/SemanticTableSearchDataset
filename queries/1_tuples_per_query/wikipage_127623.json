@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/K_League",
+            "http://dbpedia.org/resource/Pohang_Steelers",
+            "http://dbpedia.org/resource/Dongdaemun_Stadium",
+            "http://dbpedia.org/resource/Lee_Chun-seok"
+        ]
+    ]
+}

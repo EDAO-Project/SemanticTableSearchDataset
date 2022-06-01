@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anasazi_State_Park_Museum",
+            "http://dbpedia.org/resource/Garfield_County,_Utah",
+            "http://dbpedia.org/resource/Ancestral_Puebloans"
+        ],
+        [
+            "http://dbpedia.org/resource/Antelope_Island_State_Park",
+            "http://dbpedia.org/resource/Davis_County,_Utah",
+            "http://dbpedia.org/resource/Antelope_Island"
+        ]
+    ]
+}

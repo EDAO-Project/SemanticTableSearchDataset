@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bashir_Mirza",
+            "http://dbpedia.org/resource/Painting",
+            "http://dbpedia.org/resource/Punjab,_Pakistan",
+            "http://dbpedia.org/resource/Pakistan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohsin_Naqvi",
+            "http://dbpedia.org/resource/Poetry",
+            "http://dbpedia.org/resource/Punjab,_Pakistan",
+            "http://dbpedia.org/resource/Pakistan"
+        ],
+        [
+            "http://dbpedia.org/resource/Nisar_Bazmi",
+            "http://dbpedia.org/resource/Composer",
+            "http://dbpedia.org/resource/Sindh",
+            "http://dbpedia.org/resource/Pakistan"
+        ],
+        [
+            "http://dbpedia.org/resource/Zarina_Baloch",
+            "http://dbpedia.org/resource/Folk_music",
+            "http://dbpedia.org/resource/Sindh",
+            "http://dbpedia.org/resource/Pakistan"
+        ],
+        [
+            "http://dbpedia.org/resource/Anwar_Maqsood_Hameedi",
+            "http://dbpedia.org/resource/Playwright",
+            "http://dbpedia.org/resource/Sindh",
+            "http://dbpedia.org/resource/Pakistan"
+        ]
+    ]
+}

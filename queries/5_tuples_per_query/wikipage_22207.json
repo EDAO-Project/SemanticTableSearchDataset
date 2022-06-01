@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aled_de_Malmanche",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/New_Zealand_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_van_Vuuren",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/South_African_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Attoub",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Heinke_van_der_Merwe",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/South_African_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Romain_Frou",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ]
+    ]
+}

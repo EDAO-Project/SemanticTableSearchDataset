@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_Downton_Abbey_episodes",
+            "http://dbpedia.org/resource/British_Academy_Television_Awards",
+            "http://dbpedia.org/resource/Brendan_Coyle"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Downton_Abbey_episodes",
+            "http://dbpedia.org/resource/Monte-Carlo_Television_Festival",
+            "http://dbpedia.org/resource/Michelle_Dockery"
+        ]
+    ]
+}

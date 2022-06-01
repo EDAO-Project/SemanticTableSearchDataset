@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KWTU",
+            "http://dbpedia.org/resource/Classical_music",
+            "http://dbpedia.org/resource/University_of_Tulsa"
+        ],
+        [
+            "http://dbpedia.org/resource/KWGS",
+            "http://dbpedia.org/resource/NPR",
+            "http://dbpedia.org/resource/University_of_Tulsa"
+        ]
+    ]
+}

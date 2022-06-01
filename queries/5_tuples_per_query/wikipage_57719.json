@@ -1,0 +1,35 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Foxhound",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/English_Foxhound",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Basset_Bleu_de_Gascogne",
+            "http://dbpedia.org/resource/Hound_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Basset_Fauve_de_Bretagne",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Basset_Hound",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group"
+        ]
+    ]
+}

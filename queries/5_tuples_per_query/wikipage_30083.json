@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abiel_Smith_School",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Suffolk_County,_Massachusetts",
+            "http://dbpedia.org/resource/Greater_Boston",
+            "http://dbpedia.org/resource/African_Meeting_House"
+        ],
+        [
+            "http://dbpedia.org/resource/Adams_National_Historical_Park",
+            "http://dbpedia.org/resource/Quincy,_Massachusetts",
+            "http://dbpedia.org/resource/Norfolk_County,_Massachusetts",
+            "http://dbpedia.org/resource/Greater_Boston",
+            "http://dbpedia.org/resource/John_Adams"
+        ],
+        [
+            "http://dbpedia.org/resource/Addison_Gallery_of_American_Art",
+            "http://dbpedia.org/resource/Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Merrimack_Valley",
+            "http://dbpedia.org/resource/Phillips_Academy"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_M._Sackler_Museum",
+            "http://dbpedia.org/resource/Cambridge,_Massachusetts",
+            "http://dbpedia.org/resource/Middlesex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Greater_Boston",
+            "http://dbpedia.org/resource/Harvard_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Thompson_House-Count_Rumford_Birthplace",
+            "http://dbpedia.org/resource/Woburn,_Massachusetts",
+            "http://dbpedia.org/resource/Middlesex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Greater_Boston",
+            "http://dbpedia.org/resource/Benjamin_Thompson"
+        ]
+    ]
+}

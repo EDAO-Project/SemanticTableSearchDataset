@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arkansas_Tech_University",
+            "http://dbpedia.org/resource/Russellville,_Arkansas",
+            "http://dbpedia.org/resource/Arkansas_Tech_Wonder_Boys"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Central_University",
+            "http://dbpedia.org/resource/Ada,_Oklahoma",
+            "http://dbpedia.org/resource/East_Central_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/Harding_University",
+            "http://dbpedia.org/resource/Searcy,_Arkansas",
+            "http://dbpedia.org/resource/Harding_Bisons"
+        ],
+        [
+            "http://dbpedia.org/resource/Henderson_State_University",
+            "http://dbpedia.org/resource/Arkadelphia,_Arkansas",
+            "http://dbpedia.org/resource/Henderson_State_Reddies"
+        ],
+        [
+            "http://dbpedia.org/resource/Northwestern_Oklahoma_State_University",
+            "http://dbpedia.org/resource/Alva,_Oklahoma",
+            "http://dbpedia.org/resource/Northwestern_Oklahoma_State_Rangers"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hiram_Bingham_III",
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Machu_Picchu"
+        ]
+    ]
+}

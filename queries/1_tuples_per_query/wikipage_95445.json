@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fatal_dog_attacks_in_the_United_States",
+            "http://dbpedia.org/resource/Rottweiler",
+            "http://dbpedia.org/resource/Mongrel",
+            "http://dbpedia.org/resource/Chow_Chow"
+        ]
+    ]
+}

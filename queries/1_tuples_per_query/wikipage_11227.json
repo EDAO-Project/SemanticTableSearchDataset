@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeff_Burton",
+            "http://dbpedia.org/resource/Exide",
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ]
+    ]
+}

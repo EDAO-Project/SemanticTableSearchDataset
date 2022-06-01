@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Devonport,_Plymouth",
+            "http://dbpedia.org/resource/Devon",
+            "http://dbpedia.org/resource/Plymouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolton",
+            "http://dbpedia.org/resource/Lancashire",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Bolton"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashton-under-Lyne",
+            "http://dbpedia.org/resource/Lancashire",
+            "http://dbpedia.org/resource/Tameside"
+        ],
+        [
+            "http://dbpedia.org/resource/Bradford",
+            "http://dbpedia.org/resource/Yorkshire",
+            "http://dbpedia.org/resource/City_of_Bradford"
+        ],
+        [
+            "http://dbpedia.org/resource/Halifax,_West_Yorkshire",
+            "http://dbpedia.org/resource/Yorkshire",
+            "http://dbpedia.org/resource/Calderdale"
+        ]
+    ]
+}

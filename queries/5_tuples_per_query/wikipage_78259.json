@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Interstate_24_in_Illinois",
+            "http://dbpedia.org/resource/Williamson_County,_Illinois",
+            "http://dbpedia.org/resource/Interstate_57"
+        ],
+        [
+            "http://dbpedia.org/resource/Interstate_39",
+            "http://dbpedia.org/resource/McLean_County,_Illinois",
+            "http://dbpedia.org/resource/Interstate_55_in_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Interstate_55_in_Illinois",
+            "http://dbpedia.org/resource/St._Clair_County,_Illinois",
+            "http://dbpedia.org/resource/Missouri"
+        ],
+        [
+            "http://dbpedia.org/resource/Interstate_57",
+            "http://dbpedia.org/resource/Alexander_County,_Illinois",
+            "http://dbpedia.org/resource/Missouri"
+        ],
+        [
+            "http://dbpedia.org/resource/Interstate_64_in_Illinois",
+            "http://dbpedia.org/resource/St._Clair_County,_Illinois",
+            "http://dbpedia.org/resource/Missouri"
+        ]
+    ]
+}

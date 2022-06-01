@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sydney_Entertainment_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sydney_Entertainment_Centre"
+        ]
+    ]
+}

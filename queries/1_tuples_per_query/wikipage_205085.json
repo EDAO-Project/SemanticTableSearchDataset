@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_Academy_Awards",
+            "http://dbpedia.org/resource/1928_in_film",
+            "http://dbpedia.org/resource/William_C._deMille",
+            "http://dbpedia.org/resource/The_Broadway_Melody"
+        ]
+    ]
+}

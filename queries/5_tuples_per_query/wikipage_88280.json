@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abrams_Battle_Tank",
+            "http://dbpedia.org/resource/Dynamix",
+            "http://dbpedia.org/resource/Sega"
+        ],
+        [
+            "http://dbpedia.org/resource/AEGIS:_Guardian_of_the_Fleet",
+            "http://dbpedia.org/resource/MicroProse",
+            "http://dbpedia.org/resource/Atari_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Agent_USA",
+            "http://dbpedia.org/resource/Soup2Nuts",
+            "http://dbpedia.org/resource/Scholastic_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/Alien_Incident",
+            "http://dbpedia.org/resource/Housemarque",
+            "http://dbpedia.org/resource/GameTek"
+        ],
+        [
+            "http://dbpedia.org/resource/Alien_Trilogy",
+            "http://dbpedia.org/resource/Acclaim_Cheltenham",
+            "http://dbpedia.org/resource/Acclaim_Entertainment"
+        ]
+    ]
+}

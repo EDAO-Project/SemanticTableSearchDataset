@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daisuke_Takahashi",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/2010_World_Figure_Skating_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Evgeni_Plushenko",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Figure_skating_at_the_2010_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_Chan",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/2010_World_Figure_Skating_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Joubert",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/2010_World_Figure_Skating_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Takahiko_Kozuka",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Figure_skating_at_the_2010_Winter_Olympics"
+        ]
+    ]
+}

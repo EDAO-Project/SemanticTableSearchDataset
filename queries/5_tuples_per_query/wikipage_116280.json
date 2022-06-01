@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Ted_Simmons",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Southfield_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Terry_Kennedy",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Florida_State_Seminoles_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Bobby_Meacham",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/San_Diego_State_Aztecs"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Todd_Worrell",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Biola_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Jim_Lindeman",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Bradley_Braves"
+        ]
+    ]
+}

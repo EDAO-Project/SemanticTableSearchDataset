@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/23d_Fighter_Group",
+            "http://dbpedia.org/resource/Moody_Air_Force_Base",
+            "http://dbpedia.org/resource/Air_Combat_Command",
+            "http://dbpedia.org/resource/Fairchild_Republic_A-10_Thunderbolt_II"
+        ],
+        [
+            "http://dbpedia.org/resource/44th_Fighter_Group",
+            "http://dbpedia.org/resource/Holloman_Air_Force_Base",
+            "http://dbpedia.org/resource/Air_Force_Reserve_Command",
+            "http://dbpedia.org/resource/Lockheed_Martin_F-22_Raptor"
+        ],
+        [
+            "http://dbpedia.org/resource/53d_Weapons_Evaluation_Group",
+            "http://dbpedia.org/resource/Tyndall_Air_Force_Base",
+            "http://dbpedia.org/resource/Air_Combat_Command",
+            "http://dbpedia.org/resource/McDonnell_Douglas_F-4_Phantom_II"
+        ],
+        [
+            "http://dbpedia.org/resource/317th_Airlift_Group",
+            "http://dbpedia.org/resource/Dyess_Air_Force_Base",
+            "http://dbpedia.org/resource/Air_Mobility_Command",
+            "http://dbpedia.org/resource/Lockheed_C-130_Hercules"
+        ],
+        [
+            "http://dbpedia.org/resource/336th_Training_Group",
+            "http://dbpedia.org/resource/Fairchild_Air_Force_Base",
+            "http://dbpedia.org/resource/Air_Education_and_Training_Command",
+            "http://dbpedia.org/resource/Bell_UH-1_Iroquois"
+        ]
+    ]
+}

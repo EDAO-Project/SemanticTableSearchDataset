@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wembley_Stadium",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Challenge_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Old_Trafford",
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Super_League_Grand_Final"
+        ]
+    ]
+}

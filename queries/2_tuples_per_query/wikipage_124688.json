@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1969_Texas_Longhorns_football_team",
+            "http://dbpedia.org/resource/1969_Arkansas_Razorbacks_football_team",
+            "http://dbpedia.org/resource/Donald_W._Reynolds_Razorback_Stadium",
+            "http://dbpedia.org/resource/1969_Texas_vs._Arkansas_football_game"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Nebraska_Cornhuskers_football_team",
+            "http://dbpedia.org/resource/1971_Oklahoma_Sooners_football_team",
+            "http://dbpedia.org/resource/Gaylord_Family_Oklahoma_Memorial_Stadium",
+            "http://dbpedia.org/resource/1971_Nebraska_vs._Oklahoma_football_game"
+        ]
+    ]
+}

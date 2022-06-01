@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_IIHF_World_U18_Championships",
+            "http://dbpedia.org/resource/Sofia",
+            "http://dbpedia.org/resource/Bulgaria"
+        ]
+    ]
+}

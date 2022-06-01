@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Thomson,_3rd_Baron_Thomson_of_Fleet",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Thomson_Reuters"
+        ]
+    ]
+}

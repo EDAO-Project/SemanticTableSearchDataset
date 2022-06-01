@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Perth",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/HBF_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Adelaide",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Adelaide_Entertainment_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Melbourne_Park_Multi-Purpose_Venue"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sydney_Super_Dome"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Brisbane_Entertainment_Centre"
+        ]
+    ]
+}

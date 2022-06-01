@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australian_Senate",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Edmund_Barton"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Playford_II",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Alfred_Deakin"
+        ]
+    ]
+}

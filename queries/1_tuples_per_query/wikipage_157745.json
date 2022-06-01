@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brandbu",
+            "http://dbpedia.org/resource/Bernt_Evensen",
+            "http://dbpedia.org/resource/Ivar_Ballangrud",
+            "http://dbpedia.org/resource/Charles_Mathiesen"
+        ]
+    ]
+}

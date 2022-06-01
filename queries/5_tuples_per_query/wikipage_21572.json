@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1948_in_sports",
+            "http://dbpedia.org/resource/Sylvi_Saimo",
+            "http://dbpedia.org/resource/Canoeing"
+        ],
+        [
+            "http://dbpedia.org/resource/1949_in_sports",
+            "http://dbpedia.org/resource/Eevi_Huttunen",
+            "http://dbpedia.org/resource/Speed_skating"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_in_sports",
+            "http://dbpedia.org/resource/Sylvi_Saimo",
+            "http://dbpedia.org/resource/Canoeing"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_in_sports",
+            "http://dbpedia.org/resource/Eevi_Huttunen",
+            "http://dbpedia.org/resource/Speed_skating"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_in_sports",
+            "http://dbpedia.org/resource/Sylvi_Saimo",
+            "http://dbpedia.org/resource/Canoeing"
+        ]
+    ]
+}

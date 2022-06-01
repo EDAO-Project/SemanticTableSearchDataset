@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Heat",
+            "http://dbpedia.org/resource/Chris_Douglas-Roberts",
+            "http://dbpedia.org/resource/Andrew_Bogut",
+            "http://dbpedia.org/resource/Keyon_Dooling",
+            "http://dbpedia.org/resource/BMO_Harris_Bradley_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio_Spurs",
+            "http://dbpedia.org/resource/John_Salmons",
+            "http://dbpedia.org/resource/Andrew_Bogut",
+            "http://dbpedia.org/resource/Keyon_Dooling",
+            "http://dbpedia.org/resource/BMO_Harris_Bradley_Center"
+        ]
+    ]
+}

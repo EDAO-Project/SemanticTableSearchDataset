@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seven_Network",
+            "http://dbpedia.org/resource/Nine_Network",
+            "http://dbpedia.org/resource/Network_Ten"
+        ]
+    ]
+}

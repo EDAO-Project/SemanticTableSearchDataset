@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Usain_Bolt",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/David_Rudisha",
+            "http://dbpedia.org/resource/Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/Middle-distance_running",
+            "http://dbpedia.org/resource/Sebastian_Coe",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Hicham_El_Guerrouj",
+            "http://dbpedia.org/resource/Morocco"
+        ],
+        [
+            "http://dbpedia.org/resource/Mile_run",
+            "http://dbpedia.org/resource/Hicham_El_Guerrouj",
+            "http://dbpedia.org/resource/Morocco"
+        ]
+    ]
+}

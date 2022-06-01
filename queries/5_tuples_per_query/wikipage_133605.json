@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1992_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League",
+            "http://dbpedia.org/resource/Ilkhom_Sharipov",
+            "http://dbpedia.org/resource/Rustam_Durmonov"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League",
+            "http://dbpedia.org/resource/Rustam_Durmonov",
+            "http://dbpedia.org/resource/Dilmurod_Nazarov"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League",
+            "http://dbpedia.org/resource/Dilmurod_Nazarov",
+            "http://dbpedia.org/resource/Rustam_Durmonov"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League",
+            "http://dbpedia.org/resource/Shukhrat_Maqsudov",
+            "http://dbpedia.org/resource/Dilmurod_Nazarov"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbekistan_Cup",
+            "http://dbpedia.org/resource/Azamat_Abduraimov",
+            "http://dbpedia.org/resource/Rustam_Durmonov"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boardwalk_Hall",
+            "http://dbpedia.org/resource/Atlantic_City,_New_Jersey",
+            "http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Atlantic_County,_New_Jersey",
+            "http://dbpedia.org/resource/Miss_America"
+        ]
+    ]
+}

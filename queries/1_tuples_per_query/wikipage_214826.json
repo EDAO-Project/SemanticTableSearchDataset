@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Air_Buster",
+            "http://dbpedia.org/resource/Kaneko",
+            "http://dbpedia.org/resource/NEC"
+        ]
+    ]
+}

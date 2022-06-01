@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Riviera_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Fillmore_Detroit"
+        ]
+    ]
+}

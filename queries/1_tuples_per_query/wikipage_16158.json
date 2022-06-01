@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Euljiro_3-ga_Station",
+            "http://dbpedia.org/resource/Seoul_Subway_Line_3",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Jung_District,_Seoul"
+        ]
+    ]
+}

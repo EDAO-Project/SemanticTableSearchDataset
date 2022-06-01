@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_Glen",
+            "http://dbpedia.org/resource/Federalist_Party",
+            "http://dbpedia.org/resource/4th_United_States_Congress"
+        ]
+    ]
+}

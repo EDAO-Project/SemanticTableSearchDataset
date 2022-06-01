@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_in_Fighting_Network_Rings",
+            "http://dbpedia.org/resource/Vilnius_Palace_of_Concerts_and_Sports",
+            "http://dbpedia.org/resource/Vilnius"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_Fighting_Network_Rings",
+            "http://dbpedia.org/resource/Korakuen_Hall",
+            "http://dbpedia.org/resource/Tokyo"
+        ]
+    ]
+}

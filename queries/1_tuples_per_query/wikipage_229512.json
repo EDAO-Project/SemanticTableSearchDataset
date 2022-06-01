@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1925_Rose_Bowl",
+            "http://dbpedia.org/resource/1924_Notre_Dame_Fighting_Irish_football_team",
+            "http://dbpedia.org/resource/1924_Stanford_football_team"
+        ]
+    ]
+}

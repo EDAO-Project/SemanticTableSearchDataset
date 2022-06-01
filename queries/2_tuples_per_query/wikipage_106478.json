@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Colorado",
+            "http://dbpedia.org/resource/John_F._Shafroth",
+            "http://dbpedia.org/resource/Lawrence_C._Phipps"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Georgia",
+            "http://dbpedia.org/resource/Thomas_W._Hardwick",
+            "http://dbpedia.org/resource/William_J._Harris"
+        ]
+    ]
+}

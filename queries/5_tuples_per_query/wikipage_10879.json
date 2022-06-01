@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seiko-Tucson_Senior_Match_Play_Championship",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Gene_Littler"
+        ],
+        [
+            "http://dbpedia.org/resource/Senior_PGA_Championship",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Arnold_Palmer"
+        ],
+        [
+            "http://dbpedia.org/resource/Gulfstream_Aerospace_Invitational",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Don_January"
+        ],
+        [
+            "http://dbpedia.org/resource/Daytona_Beach_Seniors_Golf_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Orville_Moody"
+        ],
+        [
+            "http://dbpedia.org/resource/MONY_Arizona_Classic",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Billy_Casper"
+        ]
+    ]
+}

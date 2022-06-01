@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nismo",
+            "http://dbpedia.org/resource/Nissan_R90C",
+            "http://dbpedia.org/resource/Masahiro_Hasemi",
+            "http://dbpedia.org/resource/Bridgestone"
+        ],
+        [
+            "http://dbpedia.org/resource/Nismo",
+            "http://dbpedia.org/resource/Nissan_R90C",
+            "http://dbpedia.org/resource/Anders_Olofsson",
+            "http://dbpedia.org/resource/Bridgestone"
+        ]
+    ]
+}

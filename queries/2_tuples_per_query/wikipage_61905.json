@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vallabhbhai_Patel",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Jawaharlal_Nehru"
+        ],
+        [
+            "http://dbpedia.org/resource/C._Rajagopalachari",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Jawaharlal_Nehru"
+        ]
+    ]
+}

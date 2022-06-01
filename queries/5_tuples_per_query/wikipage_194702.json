@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_World_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Bettine_Jahn",
+            "http://dbpedia.org/resource/Kerstin_Knabe",
+            "http://dbpedia.org/resource/Ginka_Zagorcheva"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_World_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Ginka_Zagorcheva",
+            "http://dbpedia.org/resource/Gloria_Siebert",
+            "http://dbpedia.org/resource/Cornelia_Oschkenat"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_World_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Ludmila_Engquist",
+            "http://dbpedia.org/resource/Gail_Devers",
+            "http://dbpedia.org/resource/Nataliya_Grygoryeva"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_World_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Gail_Devers",
+            "http://dbpedia.org/resource/Marina_Azyabina",
+            "http://dbpedia.org/resource/Lynda_Tolbert-Goode"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_World_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Gail_Devers",
+            "http://dbpedia.org/resource/Olga_Shishigina",
+            "http://dbpedia.org/resource/Yuliya_Graudyn"
+        ]
+    ]
+}

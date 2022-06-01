@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Itzhak_Mamistvalov",
+            "http://dbpedia.org/resource/Israel_at_the_Paralympics",
+            "http://dbpedia.org/resource/Swimming_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Dmytro_Vynohradets",
+            "http://dbpedia.org/resource/Ukraine_at_the_Paralympics",
+            "http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuji_Hanada",
+            "http://dbpedia.org/resource/Japan_at_the_Paralympics",
+            "http://dbpedia.org/resource/Swimming_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Maksym_Veraksa",
+            "http://dbpedia.org/resource/Ukraine_at_the_Paralympics",
+            "http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Oleksii_Fedyna",
+            "http://dbpedia.org/resource/Ukraine_at_the_Paralympics",
+            "http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Paralympics"
+        ]
+    ]
+}

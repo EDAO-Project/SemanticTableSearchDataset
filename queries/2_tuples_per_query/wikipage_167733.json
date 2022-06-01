@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Iran_crisis_of_1946",
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/South_Asia"
+        ],
+        [
+            "http://dbpedia.org/resource/Greek_Civil_War",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Southern_Europe"
+        ]
+    ]
+}

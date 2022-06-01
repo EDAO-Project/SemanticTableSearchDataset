@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Characters_of_Holby_City",
+            "http://dbpedia.org/resource/Sarah_Preston",
+            "http://dbpedia.org/resource/Nursing_in_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Characters_of_Holby_City",
+            "http://dbpedia.org/resource/Dawn_McDaniel",
+            "http://dbpedia.org/resource/Specialist_registrar"
+        ],
+        [
+            "http://dbpedia.org/resource/Characters_of_Holby_City",
+            "http://dbpedia.org/resource/Lisa_Faulkner",
+            "http://dbpedia.org/resource/Senior_house_officer"
+        ],
+        [
+            "http://dbpedia.org/resource/Characters_of_Holby_City",
+            "http://dbpedia.org/resource/Nicola_Stephenson",
+            "http://dbpedia.org/resource/Nursing_in_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Characters_of_Holby_City",
+            "http://dbpedia.org/resource/Angela_Griffin",
+            "http://dbpedia.org/resource/Nurse_practitioner"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wembley_Stadium",
+            "http://dbpedia.org/resource/England_national_football_team",
+            "http://dbpedia.org/resource/List_of_national_stadiums"
+        ],
+        [
+            "http://dbpedia.org/resource/Bramall_Lane",
+            "http://dbpedia.org/resource/Football_League_One",
+            "http://dbpedia.org/resource/Sheffield_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/DW_Stadium",
+            "http://dbpedia.org/resource/Football_League_Championship",
+            "http://dbpedia.org/resource/Wigan_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Madejski_Stadium",
+            "http://dbpedia.org/resource/Football_League_Championship",
+            "http://dbpedia.org/resource/London_Irish"
+        ],
+        [
+            "http://dbpedia.org/resource/Keepmoat_Stadium",
+            "http://dbpedia.org/resource/Football_League_Championship",
+            "http://dbpedia.org/resource/Doncaster_RLFC"
+        ]
+    ]
+}

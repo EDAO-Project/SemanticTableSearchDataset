@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Steve_Backley",
+            "http://dbpedia.org/resource/London_Borough_of_Bexley",
+            "http://dbpedia.org/resource/Sport_of_athletics"
+        ],
+        [
+            "http://dbpedia.org/resource/Linford_Christie",
+            "http://dbpedia.org/resource/London_Borough_of_Hammersmith_and_Fulham",
+            "http://dbpedia.org/resource/Sport_of_athletics"
+        ]
+    ]
+}

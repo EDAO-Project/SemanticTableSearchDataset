@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Honda_LPGA_Thailand",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Ai_Miyazato"
+        ],
+        [
+            "http://dbpedia.org/resource/Kia_Classic",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Hee-Kyung_Seo"
+        ],
+        [
+            "http://dbpedia.org/resource/ANA_Inspiration",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Yani_Tseng"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Mojo_6",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Anna_Nordqvist"
+        ],
+        [
+            "http://dbpedia.org/resource/Tres_Marias_Championship",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Ai_Miyazato"
+        ]
+    ]
+}

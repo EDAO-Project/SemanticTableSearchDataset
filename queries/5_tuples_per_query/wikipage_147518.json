@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Montenegro",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Ukraine"
+        ],
+        [
+            "http://dbpedia.org/resource/Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Republic_of_Macedonia",
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Slovenia",
+            "http://dbpedia.org/resource/Republic_of_Macedonia"
+        ],
+        [
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Slovakia",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Ukraine"
+        ]
+    ]
+}

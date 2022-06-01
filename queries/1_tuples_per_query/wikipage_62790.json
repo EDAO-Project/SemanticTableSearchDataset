@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mel_Baker",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Newport_RFC",
+            "http://dbpedia.org/resource/Wales"
+        ]
+    ]
+}

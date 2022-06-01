@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leo_Phokas_the_Elder",
+            "http://dbpedia.org/resource/Leo_VI_the_Wise",
+            "http://dbpedia.org/resource/Zoe_Zaoutzaina"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Kourkouas",
+            "http://dbpedia.org/resource/Romanos_I_Lekapenos",
+            "http://dbpedia.org/resource/Malatya"
+        ],
+        [
+            "http://dbpedia.org/resource/Bardas_Phokas_the_Elder",
+            "http://dbpedia.org/resource/Constantine_VII",
+            "http://dbpedia.org/resource/Sayf_al-Dawla"
+        ],
+        [
+            "http://dbpedia.org/resource/Nikephoros_II_Phokas",
+            "http://dbpedia.org/resource/Constantine_VII",
+            "http://dbpedia.org/resource/Hadath"
+        ],
+        [
+            "http://dbpedia.org/resource/Leo_Phokas_the_Younger",
+            "http://dbpedia.org/resource/Romanos_II",
+            "http://dbpedia.org/resource/Sayf_al-Dawla"
+        ]
+    ]
+}

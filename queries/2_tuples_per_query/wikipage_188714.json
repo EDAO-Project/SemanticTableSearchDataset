@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Timo_Hildebrand",
+            "http://dbpedia.org/resource/Worms,_Germany",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Hoogland",
+            "http://dbpedia.org/resource/Marl,_North_Rhine-Westphalia",
+            "http://dbpedia.org/resource/VfB_Stuttgart"
+        ]
+    ]
+}

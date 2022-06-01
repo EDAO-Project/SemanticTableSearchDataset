@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_metropolitan_area",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Florida"
+        ]
+    ]
+}

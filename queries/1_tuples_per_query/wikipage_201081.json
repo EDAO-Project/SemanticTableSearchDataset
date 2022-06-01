@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Agnew",
+            "http://dbpedia.org/resource/The_Invasion_of_Time",
+            "http://dbpedia.org/resource/City_of_Death",
+            "http://dbpedia.org/resource/Doctor_Who"
+        ]
+    ]
+}

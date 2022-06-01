@@ -1,0 +1,35 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1896_Summer_Olympics",
+            "http://dbpedia.org/resource/Panathenaic_Stadium",
+            "http://dbpedia.org/resource/Athens",
+            "http://dbpedia.org/resource/Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/1908_Summer_Olympics",
+            "http://dbpedia.org/resource/White_City_Stadium",
+            "http://dbpedia.org/resource/White_City_Stadium",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/1912_Summer_Olympics",
+            "http://dbpedia.org/resource/Stockholm_Olympic_Stadium",
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/1924_Winter_Olympics",
+            "http://dbpedia.org/resource/Stade_Olympique_de_Chamonix",
+            "http://dbpedia.org/resource/Chamonix",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/1924_Summer_Olympics",
+            "http://dbpedia.org/resource/Stade_Olympique_Yves-du-Manoir",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

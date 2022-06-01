@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_Bains",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party",
+            "http://dbpedia.org/resource/Surrey-Newton"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Barisoff",
+            "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+            "http://dbpedia.org/resource/Penticton-Okanagan_Valley"
+        ],
+        [
+            "http://dbpedia.org/resource/Pat_Bell",
+            "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+            "http://dbpedia.org/resource/Prince_George_North"
+        ],
+        [
+            "http://dbpedia.org/resource/Iain_Black",
+            "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+            "http://dbpedia.org/resource/Port_Moody-Westwood"
+        ],
+        [
+            "http://dbpedia.org/resource/Shirley_Bond",
+            "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+            "http://dbpedia.org/resource/Prince_George-Mount_Robson"
+        ]
+    ]
+}

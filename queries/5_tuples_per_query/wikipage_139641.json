@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Unofficially_Yours",
+            "http://dbpedia.org/resource/Cathy_Garcia-Molina",
+            "http://dbpedia.org/resource/Angel_Locsin",
+            "http://dbpedia.org/resource/Romance_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Moron_5_and_the_Crying_Lady",
+            "http://dbpedia.org/resource/Wenn_V._Deramas",
+            "http://dbpedia.org/resource/John_Lapus",
+            "http://dbpedia.org/resource/Comedy_film"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Mommy_Returns",
+            "http://dbpedia.org/resource/Joel_Lamangan",
+            "http://dbpedia.org/resource/Ruffa_Gutierrez",
+            "http://dbpedia.org/resource/Comedy_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Boy_Pick-Up:_The_Movie",
+            "http://dbpedia.org/resource/Dominic_Zapata",
+            "http://dbpedia.org/resource/Ogie_Alcasid",
+            "http://dbpedia.org/resource/Comedy_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Kimmy_Dora_and_the_Temple_of_Kiyeme",
+            "http://dbpedia.org/resource/Joyce_E._Bernal",
+            "http://dbpedia.org/resource/Eugene_Domingo",
+            "http://dbpedia.org/resource/Comedy_film"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Bronx",
+            "http://dbpedia.org/resource/Williamsbridge,_Bronx",
+            "http://dbpedia.org/resource/Gun_Hill_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bronx",
+            "http://dbpedia.org/resource/Woodlawn,_Bronx",
+            "http://dbpedia.org/resource/East_233rd_Street"
+        ],
+        [
+            "http://dbpedia.org/resource/Westchester_County,_New_York",
+            "http://dbpedia.org/resource/Yonkers,_New_York",
+            "http://dbpedia.org/resource/Bronx_River_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Westchester_County,_New_York",
+            "http://dbpedia.org/resource/Yonkers,_New_York",
+            "http://dbpedia.org/resource/Yonkers_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/Westchester_County,_New_York",
+            "http://dbpedia.org/resource/Yonkers,_New_York",
+            "http://dbpedia.org/resource/Bronx_River_Road"
+        ]
+    ]
+}

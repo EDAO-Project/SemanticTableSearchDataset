@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fred_Akers",
+            "http://dbpedia.org/resource/University_of_Arkansas",
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+        ],
+        [
+            "http://dbpedia.org/resource/Bud_Adams",
+            "http://dbpedia.org/resource/University_of_Kansas",
+            "http://dbpedia.org/resource/Tennessee_Titans"
+        ]
+    ]
+}

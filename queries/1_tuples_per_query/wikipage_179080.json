@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Keswick,_Cumbria",
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/Allerdale"
+        ]
+    ]
+}

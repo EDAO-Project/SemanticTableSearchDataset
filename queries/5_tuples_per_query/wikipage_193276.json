@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aganang_Local_Municipality",
+            "http://dbpedia.org/resource/Limpopo",
+            "http://dbpedia.org/resource/Capricorn_District_Municipality",
+            "http://dbpedia.org/resource/Koloti"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_Luthuli_Local_Municipality",
+            "http://dbpedia.org/resource/Mpumalanga",
+            "http://dbpedia.org/resource/Gert_Sibande_District_Municipality",
+            "http://dbpedia.org/resource/Carolina,_Mpumalanga"
+        ],
+        [
+            "http://dbpedia.org/resource/Amahlathi_Local_Municipality",
+            "http://dbpedia.org/resource/Eastern_Cape",
+            "http://dbpedia.org/resource/Amathole_District_Municipality",
+            "http://dbpedia.org/resource/Stutterheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Ba-Phalaborwa_Local_Municipality",
+            "http://dbpedia.org/resource/Limpopo",
+            "http://dbpedia.org/resource/Mopani_District_Municipality",
+            "http://dbpedia.org/resource/Phalaborwa"
+        ],
+        [
+            "http://dbpedia.org/resource/Baviaans_Local_Municipality",
+            "http://dbpedia.org/resource/Eastern_Cape",
+            "http://dbpedia.org/resource/Sarah_Baartman_District_Municipality",
+            "http://dbpedia.org/resource/Willowmore"
+        ]
+    ]
+}

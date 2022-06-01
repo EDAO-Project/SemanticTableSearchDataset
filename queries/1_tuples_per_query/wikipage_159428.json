@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fleming,_New_York",
+            "http://dbpedia.org/resource/Aurelius,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Route_326"
+        ]
+    ]
+}

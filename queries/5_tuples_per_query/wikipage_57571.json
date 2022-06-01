@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Citizens_Bank_Park",
+            "http://dbpedia.org/resource/1991_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Majestic_Athletic",
+            "http://dbpedia.org/resource/Arizona_Diamondbacks",
+            "http://dbpedia.org/resource/1999_Arizona_Diamondbacks_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Citizens_Bank_Park",
+            "http://dbpedia.org/resource/1991_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Majestic_Athletic",
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/1991_Cincinnati_Reds_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Citizens_Bank_Park",
+            "http://dbpedia.org/resource/1984_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Majestic_Athletic",
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/1984_San_Diego_Padres_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Turner_Field",
+            "http://dbpedia.org/resource/1974_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Majestic_Athletic",
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/1974_Atlanta_Braves_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Minute_Maid_Park",
+            "http://dbpedia.org/resource/1965_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Majestic_Athletic",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/1965_Houston_Astros_season"
+        ]
+    ]
+}

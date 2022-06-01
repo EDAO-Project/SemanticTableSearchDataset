@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California_Limited",
+            "http://dbpedia.org/resource/Atchison,_Topeka_and_Santa_Fe_Railway",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/California_Zephyr",
+            "http://dbpedia.org/resource/Amtrak",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Montauk_Branch",
+            "http://dbpedia.org/resource/Long_Island_Rail_Road",
+            "http://dbpedia.org/resource/New_York_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Capitol_400",
+            "http://dbpedia.org/resource/Chicago_and_North_Western_Transportation_Company",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Capitol_Corridor",
+            "http://dbpedia.org/resource/Amtrak",
+            "http://dbpedia.org/resource/Auburn,_California"
+        ]
+    ]
+}

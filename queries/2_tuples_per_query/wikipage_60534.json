@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Surtees",
+            "http://dbpedia.org/resource/Yeoman_Credit_Racing",
+            "http://dbpedia.org/resource/Cooper_Car_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Masten_Gregory",
+            "http://dbpedia.org/resource/Casner_Motor_Racing_Division",
+            "http://dbpedia.org/resource/Cooper_Car_Company"
+        ]
+    ]
+}

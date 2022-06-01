@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spiro_Agnew",
+            "http://dbpedia.org/resource/Maryland",
+            "http://dbpedia.org/resource/Nolo_contendere"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommy_Burnett",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/Felony"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurence_Canter_and_Martha_Siegel",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/Spamming"
+        ],
+        [
+            "http://dbpedia.org/resource/Marc_Stuart_Dreier",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Insider_trading"
+        ],
+        [
+            "http://dbpedia.org/resource/Ed_Fagan",
+            "http://dbpedia.org/resource/New_Jersey",
+            "http://dbpedia.org/resource/Theft"
+        ]
+    ]
+}

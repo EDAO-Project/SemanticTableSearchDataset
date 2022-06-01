@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CBAF-FM-15",
+            "http://dbpedia.org/resource/Charlottetown",
+            "http://dbpedia.org/resource/Prince_Edward_Island"
+        ]
+    ]
+}

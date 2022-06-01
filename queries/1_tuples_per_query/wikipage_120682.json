@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Medieval_parish_churches_of_York",
+            "http://dbpedia.org/resource/North_Yorkshire",
+            "http://dbpedia.org/resource/Middle_Ages"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Belgrade",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

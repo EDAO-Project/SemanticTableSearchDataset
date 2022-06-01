@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arthur_Beetson",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Sydney_Roosters",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Branighan",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Manly_Warringah_Sea_Eagles",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ]
+    ]
+}

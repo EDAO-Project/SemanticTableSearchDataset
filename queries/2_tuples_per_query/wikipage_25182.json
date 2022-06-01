@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2008_Jelajah_Malaysia",
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Tonton_Susanto",
+            "http://dbpedia.org/resource/LeTua_Cycling_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Tour_of_Qatar",
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Tom_Boonen",
+            "http://dbpedia.org/resource/Etixx-Quick_Step"
+        ]
+    ]
+}

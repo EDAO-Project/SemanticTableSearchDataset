@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saskatoon",
+            "http://dbpedia.org/resource/Saskatchewan",
+            "http://dbpedia.org/resource/SaskTel_Centre"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saturday_Night_Live",
+            "http://dbpedia.org/resource/Leonard_McCoy",
+            "http://dbpedia.org/resource/Will_Ferrell"
+        ]
+    ]
+}

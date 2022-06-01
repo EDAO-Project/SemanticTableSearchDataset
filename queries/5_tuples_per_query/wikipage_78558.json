@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vasil_Levski_National_Stadium",
+            "http://dbpedia.org/resource/Sofia",
+            "http://dbpedia.org/resource/Bulgaria_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Georgi_Asparuhov_Stadium",
+            "http://dbpedia.org/resource/Sofia",
+            "http://dbpedia.org/resource/PFC_Levski_Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/Balgarska_Armia_Stadium",
+            "http://dbpedia.org/resource/Sofia",
+            "http://dbpedia.org/resource/PFC_CSKA_Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/Gradski_Stadium",
+            "http://dbpedia.org/resource/Ruse,_Bulgaria",
+            "http://dbpedia.org/resource/FC_Dunav_Ruse"
+        ],
+        [
+            "http://dbpedia.org/resource/Lazur_Stadium",
+            "http://dbpedia.org/resource/Burgas",
+            "http://dbpedia.org/resource/PSFC_Chernomorets_Burgas"
+        ]
+    ]
+}

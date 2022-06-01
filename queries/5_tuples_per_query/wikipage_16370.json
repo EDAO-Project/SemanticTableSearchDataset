@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Weems_v._United_States",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Cruel_and_unusual_punishment"
+        ],
+        [
+            "http://dbpedia.org/resource/Muskrat_v._United_States",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Advisory_opinion"
+        ],
+        [
+            "http://dbpedia.org/resource/Hoke_v._United_States",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Mann_Act"
+        ],
+        [
+            "http://dbpedia.org/resource/Weeks_v._United_States",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Exclusionary_rule"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_East_&_West_Texas_Railway_Co._v._United_States",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Commerce_Clause"
+        ]
+    ]
+}

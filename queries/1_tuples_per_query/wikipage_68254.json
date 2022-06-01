@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hristo_Stoichkov",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ]
+    ]
+}

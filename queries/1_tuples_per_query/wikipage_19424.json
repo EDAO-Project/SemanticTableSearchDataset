@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Moss_on_the_Stones",
+            "http://dbpedia.org/resource/Georg_Lhotsky"
+        ]
+    ]
+}

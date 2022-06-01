@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oliver_Bronson_House",
+            "http://dbpedia.org/resource/U.S._Route_9",
+            "http://dbpedia.org/resource/Hudson,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Felpel_House",
+            "http://dbpedia.org/resource/Claverack,_New_York",
+            "http://dbpedia.org/resource/Claverack_College"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Son_in_Law",
+            "http://dbpedia.org/resource/Hollywood_Pictures",
+            "http://dbpedia.org/resource/Steve_Rash",
+            "http://dbpedia.org/resource/Comedy_film",
+            "http://dbpedia.org/resource/Live_action"
+        ],
+        [
+            "http://dbpedia.org/resource/In_the_Line_of_Fire",
+            "http://dbpedia.org/resource/Columbia_Pictures",
+            "http://dbpedia.org/resource/Wolfgang_Petersen",
+            "http://dbpedia.org/resource/Crime_fiction",
+            "http://dbpedia.org/resource/Live_action"
+        ],
+        [
+            "http://dbpedia.org/resource/Another_Stakeout",
+            "http://dbpedia.org/resource/Touchstone_Pictures",
+            "http://dbpedia.org/resource/John_Badham",
+            "http://dbpedia.org/resource/Comedy_film",
+            "http://dbpedia.org/resource/Live_action"
+        ],
+        [
+            "http://dbpedia.org/resource/Robin_Hood:_Men_in_Tights",
+            "http://dbpedia.org/resource/20th_Century_Fox",
+            "http://dbpedia.org/resource/Mel_Brooks",
+            "http://dbpedia.org/resource/Comedy_film",
+            "http://dbpedia.org/resource/Live_action"
+        ],
+        [
+            "http://dbpedia.org/resource/So_I_Married_an_Axe_Murderer",
+            "http://dbpedia.org/resource/TriStar_Pictures",
+            "http://dbpedia.org/resource/Thomas_Schlamme",
+            "http://dbpedia.org/resource/Comedy_film",
+            "http://dbpedia.org/resource/Live_action"
+        ]
+    ]
+}

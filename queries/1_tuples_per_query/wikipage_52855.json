@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1941_NFL_draft",
+            "http://dbpedia.org/resource/Red_Hickey",
+            "http://dbpedia.org/resource/Philadelphia_Eagles",
+            "http://dbpedia.org/resource/1945_NFL_Championship_Game"
+        ]
+    ]
+}

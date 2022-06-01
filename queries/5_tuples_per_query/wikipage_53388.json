@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Microsoft",
+            "http://dbpedia.org/resource/Microsoft_Studios",
+            "http://dbpedia.org/resource/Game_show",
+            "http://dbpedia.org/resource/Xbox_Live"
+        ],
+        [
+            "http://dbpedia.org/resource/Age_of_Booty",
+            "http://dbpedia.org/resource/Certain_Affinity",
+            "http://dbpedia.org/resource/Capcom",
+            "http://dbpedia.org/resource/Real-time_strategy"
+        ],
+        [
+            "http://dbpedia.org/resource/Bomberman_Live",
+            "http://dbpedia.org/resource/Backbone_Entertainment",
+            "http://dbpedia.org/resource/Hudson_Soft",
+            "http://dbpedia.org/resource/Puzzle_video_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Doritos_Crash_Course",
+            "http://dbpedia.org/resource/Behaviour_Santiago",
+            "http://dbpedia.org/resource/Microsoft_Studios",
+            "http://dbpedia.org/resource/Platform_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Kinect_Joy_Ride",
+            "http://dbpedia.org/resource/BigPark",
+            "http://dbpedia.org/resource/Microsoft_Studios",
+            "http://dbpedia.org/resource/Racing"
+        ]
+    ]
+}

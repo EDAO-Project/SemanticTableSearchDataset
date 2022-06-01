@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Estonia",
+            "http://dbpedia.org/resource/Estonian_Declaration_of_Independence",
+            "http://dbpedia.org/resource/Russian_Empire",
+            "http://dbpedia.org/resource/Valga,_Estonia"
+        ],
+        [
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Diet_of_Porvoo",
+            "http://dbpedia.org/resource/Russian_Empire",
+            "http://dbpedia.org/resource/Porkkala"
+        ]
+    ]
+}

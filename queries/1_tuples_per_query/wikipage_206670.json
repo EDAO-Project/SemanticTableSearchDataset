@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sberbank_of_Russia",
+            "http://dbpedia.org/resource/Bank",
+            "http://dbpedia.org/resource/Preferred_stock"
+        ]
+    ]
+}

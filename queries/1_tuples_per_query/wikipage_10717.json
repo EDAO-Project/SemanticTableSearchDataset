@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Mission_Bay_Senior_High_School"
+        ]
+    ]
+}

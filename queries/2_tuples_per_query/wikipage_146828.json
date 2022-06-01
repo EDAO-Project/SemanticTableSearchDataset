@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Annemasse",
+            "http://dbpedia.org/resource/Arbusigny",
+            "http://dbpedia.org/resource/Archamps"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthaz-Pont-Notre-Dame",
+            "http://dbpedia.org/resource/Bassy",
+            "http://dbpedia.org/resource/Beaumont,_Haute-Savoie"
+        ]
+    ]
+}

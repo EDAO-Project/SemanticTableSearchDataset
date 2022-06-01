@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Theodor_W._Adorno",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Visp"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Labriola",
+            "http://dbpedia.org/resource/Cassino",
+            "http://dbpedia.org/resource/Rome"
+        ],
+        [
+            "http://dbpedia.org/resource/Walter_Benjamin",
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Portbou"
+        ],
+        [
+            "http://dbpedia.org/resource/Bertolt_Brecht",
+            "http://dbpedia.org/resource/Augsburg",
+            "http://dbpedia.org/resource/East_Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornelius_Castoriadis",
+            "http://dbpedia.org/resource/Constantinople",
+            "http://dbpedia.org/resource/Paris"
+        ]
+    ]
+}

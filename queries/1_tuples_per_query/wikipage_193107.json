@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chad",
+            "http://dbpedia.org/resource/GriGris",
+            "http://dbpedia.org/resource/French_language",
+            "http://dbpedia.org/resource/Mahamat_Saleh_Haroun"
+        ]
+    ]
+}

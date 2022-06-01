@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lakefront_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Boutwell_Memorial_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chapel_Hill,_North_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Carmichael_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfax,_Virginia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/EagleBank_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Amherst,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/William_D._Mullins_Memorial_Center"
+        ]
+    ]
+}

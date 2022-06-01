@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany_County,_New_York",
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/Crossgates_Mall"
+        ]
+    ]
+}

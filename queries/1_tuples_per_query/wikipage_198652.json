@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1979_Norton_Skate",
+            "http://dbpedia.org/resource/Lake_Placid,_New_York",
+            "http://dbpedia.org/resource/Lisa-Marie_Allen",
+            "http://dbpedia.org/resource/Susanna_Driano",
+            "http://dbpedia.org/resource/Sandy_Lenz"
+        ]
+    ]
+}

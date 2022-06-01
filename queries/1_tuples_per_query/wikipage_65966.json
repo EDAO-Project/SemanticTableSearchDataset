@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cheek_to_Cheek",
+            "http://dbpedia.org/resource/Top_Hat",
+            "http://dbpedia.org/resource/1935_in_film",
+            "http://dbpedia.org/resource/Fred_Astaire"
+        ]
+    ]
+}

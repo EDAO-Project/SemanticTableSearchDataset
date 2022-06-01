@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_Canoe_Slalom_World_Cup",
+            "http://dbpedia.org/resource/Jon_Lugbill",
+            "http://dbpedia.org/resource/Lecky_Haller",
+            "http://dbpedia.org/resource/Dana_Chladek"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Canoe_Slalom_World_Cup",
+            "http://dbpedia.org/resource/Jon_Lugbill",
+            "http://dbpedia.org/resource/Pierpaolo_Ferrazzi",
+            "http://dbpedia.org/resource/Myriam_Fox-Jerusalmi"
+        ]
+    ]
+}

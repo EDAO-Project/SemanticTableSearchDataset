@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oxana_Boturchuk",
+            "http://dbpedia.org/resource/Libby_Clegg",
+            "http://dbpedia.org/resource/Eva_Ngui"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanaa_Benhama",
+            "http://dbpedia.org/resource/Ilse_Hayes",
+            "http://dbpedia.org/resource/Alexandra_Dimoglou"
+        ],
+        [
+            "http://dbpedia.org/resource/Lisa_McIntosh",
+            "http://dbpedia.org/resource/Viktoriya_Kravchenko",
+            "http://dbpedia.org/resource/Maria_Seifert"
+        ],
+        [
+            "http://dbpedia.org/resource/Inna_Dyachenko",
+            "http://dbpedia.org/resource/Sonia_Mansour",
+            "http://dbpedia.org/resource/Margarita_Goncharova"
+        ],
+        [
+            "http://dbpedia.org/resource/Perla_Bustamante",
+            "http://dbpedia.org/resource/Annette_Roozen",
+            "http://dbpedia.org/resource/Christine_Wolf"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Blade_in_the_Dark",
+            "http://dbpedia.org/resource/Lamberto_Bava",
+            "http://dbpedia.org/resource/Andrea_Occhipinti"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Devonsville_Terror",
+            "http://dbpedia.org/resource/Ulli_Lommel",
+            "http://dbpedia.org/resource/Suzanna_Love"
+        ]
+    ]
+}

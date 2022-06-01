@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_Coupe_de_la_Ligue_Final",
+            "http://dbpedia.org/resource/FC_Metz",
+            "http://dbpedia.org/resource/Olympique_Lyonnais",
+            "http://dbpedia.org/resource/Parc_des_Princes"
+        ]
+    ]
+}

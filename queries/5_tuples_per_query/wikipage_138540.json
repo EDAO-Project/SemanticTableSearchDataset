@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_in_British_music",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/With_the_Beatles",
+            "http://dbpedia.org/resource/Parlophone"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_in_music",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Beatles_for_Sale",
+            "http://dbpedia.org/resource/Parlophone"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_in_music",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Rubber_Soul",
+            "http://dbpedia.org/resource/Parlophone"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_in_music",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Abbey_Road",
+            "http://dbpedia.org/resource/Apple_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_in_music",
+            "http://dbpedia.org/resource/Elton_John",
+            "http://dbpedia.org/resource/Goodbye_Yellow_Brick_Road",
+            "http://dbpedia.org/resource/DJM_Records"
+        ]
+    ]
+}

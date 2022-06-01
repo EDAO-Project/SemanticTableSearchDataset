@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SPECTRA_helmet",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/French_Army"
+        ]
+    ]
+}

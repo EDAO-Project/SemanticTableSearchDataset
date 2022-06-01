@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Astor_Fur_Warehouse",
+            "http://dbpedia.org/resource/Prairie_du_Chien,_Wisconsin",
+            "http://dbpedia.org/resource/Jean_Joseph_Rolette"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbois_House",
+            "http://dbpedia.org/resource/Prairie_du_Chien,_Wisconsin",
+            "http://dbpedia.org/resource/Federal_architecture"
+        ]
+    ]
+}

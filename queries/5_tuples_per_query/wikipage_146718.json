@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arthenac",
+            "http://dbpedia.org/resource/Bedenac",
+            "http://dbpedia.org/resource/Bois,_Charente-Maritime",
+            "http://dbpedia.org/resource/Boisredon"
+        ],
+        [
+            "http://dbpedia.org/resource/Boresse-et-Martron",
+            "http://dbpedia.org/resource/Boscamnant",
+            "http://dbpedia.org/resource/Bran,_Charente-Maritime",
+            "http://dbpedia.org/resource/Brie-sous-Archiac"
+        ],
+        [
+            "http://dbpedia.org/resource/Champagnac,_Charente-Maritime",
+            "http://dbpedia.org/resource/Champagnolles",
+            "http://dbpedia.org/resource/Chartuzac",
+            "http://dbpedia.org/resource/Chatenet"
+        ],
+        [
+            "http://dbpedia.org/resource/Chaunac",
+            "http://dbpedia.org/resource/Chepniers",
+            "http://dbpedia.org/resource/Chevanceaux",
+            "http://dbpedia.org/resource/Cierzac"
+        ],
+        [
+            "http://dbpedia.org/resource/Corignac",
+            "http://dbpedia.org/resource/Courpignac",
+            "http://dbpedia.org/resource/Coux,_Charente-Maritime",
+            "http://dbpedia.org/resource/Expiremont"
+        ]
+    ]
+}

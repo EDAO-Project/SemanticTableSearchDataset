@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Napoleon",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Saint_Helena"
+        ]
+    ]
+}

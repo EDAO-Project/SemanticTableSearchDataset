@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/St._Jakob-Park",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/FC_Basel"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_de_Suisse",
+            "http://dbpedia.org/resource/Bern",
+            "http://dbpedia.org/resource/BSC_Young_Boys"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Josh_Hamilton",
+            "http://dbpedia.org/resource/Tampa_Bay_Rays",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Athens_Drive_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Beckett",
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Spring_High_School"
+        ]
+    ]
+}

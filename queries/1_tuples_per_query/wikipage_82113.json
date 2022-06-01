@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1936_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Branch_Rickey",
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/National_League"
+        ]
+    ]
+}

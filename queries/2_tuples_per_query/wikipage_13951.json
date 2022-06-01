@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mount_Everest",
+            "http://dbpedia.org/resource/Eurasia",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Aconcagua",
+            "http://dbpedia.org/resource/South_America",
+            "http://dbpedia.org/resource/Argentina"
+        ]
+    ]
+}

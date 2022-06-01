@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_Angola",
+            "http://dbpedia.org/resource/Marcelina_Vahekeni",
+            "http://dbpedia.org/resource/Ondjiva"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Aruba",
+            "http://dbpedia.org/resource/Liza_Helder",
+            "http://dbpedia.org/resource/Oranjestad,_Aruba"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_Australia",
+            "http://dbpedia.org/resource/Renae_Ayris",
+            "http://dbpedia.org/resource/Perth"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Bahamas",
+            "http://dbpedia.org/resource/Celeste_Marshall",
+            "http://dbpedia.org/resource/Nassau,_Bahamas"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Belgium",
+            "http://dbpedia.org/resource/Laura_Beyne",
+            "http://dbpedia.org/resource/Brussels"
+        ]
+    ]
+}

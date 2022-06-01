@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rajendra_Prasad",
+            "http://dbpedia.org/resource/Sarvepalli_Radhakrishnan",
+            "http://dbpedia.org/resource/Indian_presidential_election,_1952"
+        ],
+        [
+            "http://dbpedia.org/resource/V._V._Giri",
+            "http://dbpedia.org/resource/Gopal_Swarup_Pathak",
+            "http://dbpedia.org/resource/Indian_presidential_election,_1969"
+        ]
+    ]
+}

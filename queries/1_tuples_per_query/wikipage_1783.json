@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KPLU-FM",
+            "http://dbpedia.org/resource/Pacific_Lutheran_University",
+            "http://dbpedia.org/resource/Public_broadcasting"
+        ]
+    ]
+}

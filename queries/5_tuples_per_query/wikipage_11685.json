@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zell_am_Ziller",
+            "http://dbpedia.org/resource/Zillertal",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Arie_van_Lent"
+        ],
+        [
+            "http://dbpedia.org/resource/Erbach_im_Odenwald",
+            "http://dbpedia.org/resource/Odenwald",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Cha_Du-ri"
+        ],
+        [
+            "http://dbpedia.org/resource/Commerzbank-Arena",
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen",
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Aleksandar_Vasoski"
+        ],
+        [
+            "http://dbpedia.org/resource/Volksparkstadion",
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Cha_Du-ri"
+        ],
+        [
+            "http://dbpedia.org/resource/MSV-Arena",
+            "http://dbpedia.org/resource/MSV_Duisburg",
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Alexander_Meier"
+        ]
+    ]
+}

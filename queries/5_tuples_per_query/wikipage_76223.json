@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_WNBA_All-Star_Game",
+            "http://dbpedia.org/resource/Lisa_Leslie",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_WNBA_All-Star_Game",
+            "http://dbpedia.org/resource/Tina_Thompson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Houston_Comets"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_WNBA_All-Star_Game",
+            "http://dbpedia.org/resource/Lisa_Leslie",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_WNBA_All-Star_Game",
+            "http://dbpedia.org/resource/Lisa_Leslie",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_WNBA_All-Star_Game",
+            "http://dbpedia.org/resource/Nikki_Teasley",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/African_Lion_Safari",
+            "http://dbpedia.org/resource/Flamborough,_Ontario",
+            "http://dbpedia.org/resource/Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Club_Regent_Casino",
+            "http://dbpedia.org/resource/Winnipeg",
+            "http://dbpedia.org/resource/Manitoba"
+        ]
+    ]
+}

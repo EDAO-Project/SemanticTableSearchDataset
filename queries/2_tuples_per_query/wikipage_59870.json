@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Salim_Iles",
+            "http://dbpedia.org/resource/Eduardo_Lorente",
+            "http://dbpedia.org/resource/Jernej_Godec"
+        ],
+        [
+            "http://dbpedia.org/resource/Salim_Iles",
+            "http://dbpedia.org/resource/Filippo_Magnini",
+            "http://dbpedia.org/resource/Nabil_Kebbab"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jed_Adcock",
+            "http://dbpedia.org/resource/Brisbane_Lions",
+            "http://dbpedia.org/resource/AFL_Rising_Star"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_Corrie",
+            "http://dbpedia.org/resource/Brisbane_Lions",
+            "http://dbpedia.org/resource/AFL_Rising_Star"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Bentick",
+            "http://dbpedia.org/resource/Carlton_Football_Club",
+            "http://dbpedia.org/resource/AFL_Rising_Star"
+        ],
+        [
+            "http://dbpedia.org/resource/Adrian_Deluca",
+            "http://dbpedia.org/resource/Carlton_Football_Club",
+            "http://dbpedia.org/resource/Fabian_Deluca"
+        ],
+        [
+            "http://dbpedia.org/resource/Cory_McGrath",
+            "http://dbpedia.org/resource/Carlton_Football_Club",
+            "http://dbpedia.org/resource/Ashley_McGrath"
+        ]
+    ]
+}

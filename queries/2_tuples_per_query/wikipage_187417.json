@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lauren_Jackson",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Seattle_Storm",
+            "http://dbpedia.org/resource/University_of_Canberra_Capitals"
+        ],
+        [
+            "http://dbpedia.org/resource/Tamika_Catchings",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Indiana_Fever",
+            "http://dbpedia.org/resource/Tennessee_Volunteers"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dongmyo",
+            "http://dbpedia.org/resource/Sungin-dong",
+            "http://dbpedia.org/resource/Jongno_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Dosan_Park",
+            "http://dbpedia.org/resource/Sinsa-dong",
+            "http://dbpedia.org/resource/Gangnam_District"
+        ]
+    ]
+}

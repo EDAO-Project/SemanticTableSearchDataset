@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berat",
+            "http://dbpedia.org/resource/Berat_District",
+            "http://dbpedia.org/resource/Berat_County"
+        ]
+    ]
+}

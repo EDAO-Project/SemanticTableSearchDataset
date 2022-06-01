@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_World_Series",
+            "http://dbpedia.org/resource/Jerry_Coleman",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

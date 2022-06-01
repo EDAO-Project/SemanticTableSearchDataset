@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carolina_Beach_State_Park",
+            "http://dbpedia.org/resource/New_Hanover_County,_North_Carolina",
+            "http://dbpedia.org/resource/Carolina_Beach,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Cliffs_of_the_Neuse_State_Park",
+            "http://dbpedia.org/resource/Wayne_County,_North_Carolina",
+            "http://dbpedia.org/resource/Cliff"
+        ]
+    ]
+}

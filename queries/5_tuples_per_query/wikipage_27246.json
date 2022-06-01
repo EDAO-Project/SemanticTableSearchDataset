@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antigua_and_Barbuda",
+            "http://dbpedia.org/resource/Prime_Minister_of_Antigua_and_Barbuda",
+            "http://dbpedia.org/resource/Baldwin_Spencer"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Prime_Minister_of_Australia",
+            "http://dbpedia.org/resource/Tony_Abbott"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bahamas",
+            "http://dbpedia.org/resource/Prime_Minister_of_the_Bahamas",
+            "http://dbpedia.org/resource/Perry_Christie"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Prime_Minister_of_Bangladesh",
+            "http://dbpedia.org/resource/Sheikh_Hasina"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbados",
+            "http://dbpedia.org/resource/Prime_Minister_of_Barbados",
+            "http://dbpedia.org/resource/Freundel_Stuart"
+        ]
+    ]
+}

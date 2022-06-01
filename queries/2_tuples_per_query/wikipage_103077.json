@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Bigler",
+            "http://dbpedia.org/resource/Dickinson_College",
+            "http://dbpedia.org/resource/High_school_dropouts"
+        ],
+        [
+            "http://dbpedia.org/resource/Leland_Stanford",
+            "http://dbpedia.org/resource/Cazenovia_College",
+            "http://dbpedia.org/resource/Bachelor_of_Laws"
+        ]
+    ]
+}

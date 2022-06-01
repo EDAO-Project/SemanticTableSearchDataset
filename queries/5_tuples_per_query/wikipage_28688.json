@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Jake_Westbrook",
+            "http://dbpedia.org/resource/Joe_Mays",
+            "http://dbpedia.org/resource/Bob_Wickman"
+        ],
+        [
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Bob_Howry",
+            "http://dbpedia.org/resource/J._C._Romero",
+            "http://dbpedia.org/resource/Bob_Wickman"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Kevin_Millwood",
+            "http://dbpedia.org/resource/John_Lackey",
+            "http://dbpedia.org/resource/Bob_Wickman"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/Arthur_Rhodes",
+            "http://dbpedia.org/resource/Jason_Frasor",
+            "http://dbpedia.org/resource/Bob_Wickman"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Paul_Byrd",
+            "http://dbpedia.org/resource/Cliff_Lee",
+            "http://dbpedia.org/resource/Scot_Shields"
+        ]
+    ]
+}

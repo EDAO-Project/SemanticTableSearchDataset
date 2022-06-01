@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/MV_Acavus",
+            "http://dbpedia.org/resource/Royal_Navy",
+            "http://dbpedia.org/resource/MV_Rapana",
+            "http://dbpedia.org/resource/Merchant_aircraft_carrier"
+        ],
+        [
+            "http://dbpedia.org/resource/Soviet_aircraft_carrier_Admiral_Gorshkov",
+            "http://dbpedia.org/resource/Russian_Navy",
+            "http://dbpedia.org/resource/Kiev-class_aircraft_carrier",
+            "http://dbpedia.org/resource/Indian_Navy"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_B._Meyner",
+            "http://dbpedia.org/resource/Lafayette_College",
+            "http://dbpedia.org/resource/New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Waring",
+            "http://dbpedia.org/resource/Pennsylvania_State_University",
+            "http://dbpedia.org/resource/Blender"
+        ]
+    ]
+}

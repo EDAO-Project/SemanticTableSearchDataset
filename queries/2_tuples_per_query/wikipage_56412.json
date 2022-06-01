@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jake_Blackmore",
+            "http://dbpedia.org/resource/England_national_rugby_union_team",
+            "http://dbpedia.org/resource/Cardiff_Arms_Park",
+            "http://dbpedia.org/resource/England_national_rugby_league_team",
+            "http://dbpedia.org/resource/Highfield_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernie_Jenkins",
+            "http://dbpedia.org/resource/England_national_rugby_union_team",
+            "http://dbpedia.org/resource/Cardiff_Arms_Park",
+            "http://dbpedia.org/resource/England_national_rugby_league_team",
+            "http://dbpedia.org/resource/Highfield_Road"
+        ]
+    ]
+}

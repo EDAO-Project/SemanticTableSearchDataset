@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1922_VFL_season",
+            "http://dbpedia.org/resource/Victorian_State_Football_League",
+            "http://dbpedia.org/resource/Collingwood_Football_Club",
+            "http://dbpedia.org/resource/Melbourne_Cricket_Ground"
+        ]
+    ]
+}

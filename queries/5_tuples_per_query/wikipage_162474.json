@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alessandro_Agostini",
+            "http://dbpedia.org/resource/U.S._Pistoiese_1921",
+            "http://dbpedia.org/resource/ACF_Fiorentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Mauro_Briano",
+            "http://dbpedia.org/resource/A.C._Savoia_1908",
+            "http://dbpedia.org/resource/A.S.D._Reggio_Calabria"
+        ],
+        [
+            "http://dbpedia.org/resource/Francesco_Carbone",
+            "http://dbpedia.org/resource/A.C._Chievo_Verona",
+            "http://dbpedia.org/resource/Foggia_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Chimenti",
+            "http://dbpedia.org/resource/U.S._Lecce",
+            "http://dbpedia.org/resource/A.S._Roma"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniele_Conti",
+            "http://dbpedia.org/resource/Cagliari_Calcio",
+            "http://dbpedia.org/resource/A.S._Roma"
+        ]
+    ]
+}

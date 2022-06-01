@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kombank_Arena",
+            "http://dbpedia.org/resource/KK_Partizan",
+            "http://dbpedia.org/resource/Belgrade",
+            "http://dbpedia.org/resource/Serbia"
+        ]
+    ]
+}

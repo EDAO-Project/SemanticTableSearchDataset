@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1872_California-Nevada_State_Boundary_Marker",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Verdi,_Nevada"
+        ],
+        [
+            "http://dbpedia.org/resource/Bowers_Mansion",
+            "http://dbpedia.org/resource/U.S._Route_395",
+            "http://dbpedia.org/resource/Reno,_Nevada"
+        ],
+        [
+            "http://dbpedia.org/resource/Cal-Vada_Lodge_Hotel",
+            "http://dbpedia.org/resource/Nevada_State_Route_28",
+            "http://dbpedia.org/resource/Crystal_Bay,_Nevada"
+        ],
+        [
+            "http://dbpedia.org/resource/Walter_Cliff_Ranch_District",
+            "http://dbpedia.org/resource/U.S._Route_395",
+            "http://dbpedia.org/resource/New_Washoe_City,_Nevada"
+        ],
+        [
+            "http://dbpedia.org/resource/Derby_Dam",
+            "http://dbpedia.org/resource/Interstate_80",
+            "http://dbpedia.org/resource/Sparks,_Nevada"
+        ]
+    ]
+}

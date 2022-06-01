@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arganchy",
+            "http://dbpedia.org/resource/Arromanches-les-Bains",
+            "http://dbpedia.org/resource/Asnelles"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbeville",
+            "http://dbpedia.org/resource/Bayeux",
+            "http://dbpedia.org/resource/Bazenville"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Bazoque,_Calvados",
+            "http://dbpedia.org/resource/Bernesq",
+            "http://dbpedia.org/resource/Blay"
+        ],
+        [
+            "http://dbpedia.org/resource/Cahagnolles",
+            "http://dbpedia.org/resource/La_Cambe",
+            "http://dbpedia.org/resource/Campigny,_Calvados"
+        ],
+        [
+            "http://dbpedia.org/resource/Cricqueville-en-Bessin",
+            "http://dbpedia.org/resource/Crouay",
+            "http://dbpedia.org/resource/Cussy"
+        ]
+    ]
+}

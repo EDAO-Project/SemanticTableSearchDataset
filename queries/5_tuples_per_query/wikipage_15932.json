@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sergeants_3",
+            "http://dbpedia.org/resource/John_Sturges",
+            "http://dbpedia.org/resource/Frank_Sinatra",
+            "http://dbpedia.org/resource/Rat_Pack"
+        ],
+        [
+            "http://dbpedia.org/resource/Cheyenne_Autumn",
+            "http://dbpedia.org/resource/John_Ford",
+            "http://dbpedia.org/resource/Richard_Widmark",
+            "http://dbpedia.org/resource/Revisionist_Western"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Fistful_of_Dollars",
+            "http://dbpedia.org/resource/Sergio_Leone",
+            "http://dbpedia.org/resource/Clint_Eastwood",
+            "http://dbpedia.org/resource/Spaghetti_Western"
+        ],
+        [
+            "http://dbpedia.org/resource/Two_Mafiamen_in_the_Far_West",
+            "http://dbpedia.org/resource/Giorgio_Simonelli",
+            "http://dbpedia.org/resource/Franco_Franchi",
+            "http://dbpedia.org/resource/Spaghetti_Western"
+        ],
+        [
+            "http://dbpedia.org/resource/Blood_for_a_Silver_Dollar",
+            "http://dbpedia.org/resource/Giorgio_Ferroni",
+            "http://dbpedia.org/resource/Giuliano_Gemma",
+            "http://dbpedia.org/resource/Spaghetti_Western"
+        ]
+    ]
+}

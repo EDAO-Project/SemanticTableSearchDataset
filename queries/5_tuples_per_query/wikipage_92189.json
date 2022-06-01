@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sumner,_Missouri",
+            "http://dbpedia.org/resource/Linn_County,_Missouri",
+            "http://dbpedia.org/resource/Tornado_family"
+        ],
+        [
+            "http://dbpedia.org/resource/Coal_Valley,_Illinois",
+            "http://dbpedia.org/resource/Henry_County,_Illinois",
+            "http://dbpedia.org/resource/Orion,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Belvidere,_Illinois",
+            "http://dbpedia.org/resource/Boone_County,_Illinois",
+            "http://dbpedia.org/resource/1967_Oak_Lawn_tornado_outbreak"
+        ],
+        [
+            "http://dbpedia.org/resource/Amboy,_Illinois",
+            "http://dbpedia.org/resource/Lee_County,_Illinois",
+            "http://dbpedia.org/resource/Funnel_cloud"
+        ],
+        [
+            "http://dbpedia.org/resource/Kasbeer,_Illinois",
+            "http://dbpedia.org/resource/Bureau_County,_Illinois",
+            "http://dbpedia.org/resource/Mushroom"
+        ]
+    ]
+}

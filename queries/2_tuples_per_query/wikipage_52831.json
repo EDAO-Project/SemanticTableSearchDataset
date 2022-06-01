@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manny_Mota",
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Montreal_Expos"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Giusti",
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/San_Diego_Padres"
+        ]
+    ]
+}

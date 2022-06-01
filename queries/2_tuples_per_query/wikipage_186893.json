@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dynamo_Moscow_Bandy_Club",
+            "http://dbpedia.org/resource/SKA-Neftyanik",
+            "http://dbpedia.org/resource/SKA-Sverdlovsk"
+        ],
+        [
+            "http://dbpedia.org/resource/Dynamo_Moscow_Bandy_Club",
+            "http://dbpedia.org/resource/SKA-Sverdlovsk",
+            "http://dbpedia.org/resource/SKA-Neftyanik"
+        ]
+    ]
+}

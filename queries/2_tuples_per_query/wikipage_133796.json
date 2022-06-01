@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Goo_Goo_Dolls",
+            "http://dbpedia.org/resource/John_Lennon",
+            "http://dbpedia.org/resource/Hilary_Duff"
+        ],
+        [
+            "http://dbpedia.org/resource/Alicia_Keys",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Vanessa_Hudgens"
+        ]
+    ]
+}

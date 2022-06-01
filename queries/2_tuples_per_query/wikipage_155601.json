@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Diocese_of_Hereford",
+            "http://dbpedia.org/resource/Bishop_of_Ludlow",
+            "http://dbpedia.org/resource/Alistair_Magowan"
+        ],
+        [
+            "http://dbpedia.org/resource/Anglican_Diocese_of_Southwark",
+            "http://dbpedia.org/resource/Archdeacons_in_the_Diocese_of_Southwark",
+            "http://dbpedia.org/resource/Danny_Kajumba"
+        ]
+    ]
+}

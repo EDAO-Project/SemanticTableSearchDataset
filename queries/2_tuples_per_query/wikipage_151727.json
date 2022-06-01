@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nuno_Pinto",
+            "http://dbpedia.org/resource/C.D._Nacional",
+            "http://dbpedia.org/resource/PFC_Levski_Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Torsiglieri",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal",
+            "http://dbpedia.org/resource/FC_Metalist_Kharkiv"
+        ]
+    ]
+}

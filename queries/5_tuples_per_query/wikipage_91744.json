@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alverno_College",
+            "http://dbpedia.org/resource/Milwaukee",
+            "http://dbpedia.org/resource/Northern_Athletics_Collegiate_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Beloit_College",
+            "http://dbpedia.org/resource/Beloit,_Wisconsin",
+            "http://dbpedia.org/resource/Midwest_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Carroll_University",
+            "http://dbpedia.org/resource/Waukesha,_Wisconsin",
+            "http://dbpedia.org/resource/Midwest_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Carthage_College",
+            "http://dbpedia.org/resource/Kenosha,_Wisconsin",
+            "http://dbpedia.org/resource/College_Conference_of_Illinois_and_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/Concordia_University_Wisconsin",
+            "http://dbpedia.org/resource/Mequon,_Wisconsin",
+            "http://dbpedia.org/resource/Northern_Athletics_Collegiate_Conference"
+        ]
+    ]
+}

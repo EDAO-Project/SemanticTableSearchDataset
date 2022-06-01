@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Hyderabad",
+            "http://dbpedia.org/resource/Telugu_language",
+            "http://dbpedia.org/resource/Urdu"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Royal_Festival_Hall",
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1960"
+        ]
+    ]
+}

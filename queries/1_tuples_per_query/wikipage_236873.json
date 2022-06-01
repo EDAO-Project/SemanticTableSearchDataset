@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jordan_Grand_Prix",
+            "http://dbpedia.org/resource/Reynard_Motorsport",
+            "http://dbpedia.org/resource/Mugen_Motorsports",
+            "http://dbpedia.org/resource/Emanuele_Naspetti"
+        ]
+    ]
+}

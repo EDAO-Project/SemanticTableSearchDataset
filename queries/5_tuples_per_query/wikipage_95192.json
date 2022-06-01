@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Fortuna",
+            "http://dbpedia.org/resource/Honda_NSR500",
+            "http://dbpedia.org/resource/Alberto_Puig"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Fortuna",
+            "http://dbpedia.org/resource/Honda_NSR500",
+            "http://dbpedia.org/resource/Carlos_Checa"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Fortuna",
+            "http://dbpedia.org/resource/Honda_NSR250",
+            "http://dbpedia.org/resource/Carlos_Checa"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Fortuna",
+            "http://dbpedia.org/resource/Honda_NSR250",
+            "http://dbpedia.org/resource/Sete_Gibernau"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Fortuna",
+            "http://dbpedia.org/resource/Honda_NSR500",
+            "http://dbpedia.org/resource/Alberto_Puig"
+        ]
+    ]
+}

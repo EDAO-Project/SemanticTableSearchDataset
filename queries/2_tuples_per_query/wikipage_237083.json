@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Controlled-access_highway",
+            "http://dbpedia.org/resource/Tel_Aviv",
+            "http://dbpedia.org/resource/Ben_Gurion_Airport",
+            "http://dbpedia.org/resource/Jordan_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Controlled-access_highway",
+            "http://dbpedia.org/resource/Tel_Aviv",
+            "http://dbpedia.org/resource/Herzliya",
+            "http://dbpedia.org/resource/Haifa"
+        ]
+    ]
+}

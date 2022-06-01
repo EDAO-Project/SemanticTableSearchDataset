@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prescott_Bush",
+            "http://dbpedia.org/resource/Yale_University",
+            "http://dbpedia.org/resource/The_Whiffenpoofs"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Coulton",
+            "http://dbpedia.org/resource/Yale_University",
+            "http://dbpedia.org/resource/The_Whiffenpoofs"
+        ],
+        [
+            "http://dbpedia.org/resource/Davis_Guggenheim",
+            "http://dbpedia.org/resource/Brown_University",
+            "http://dbpedia.org/resource/The_Brown_Derbies"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Gwynne",
+            "http://dbpedia.org/resource/Harvard_University",
+            "http://dbpedia.org/resource/The_Harvard_Krokodiloes"
+        ],
+        [
+            "http://dbpedia.org/resource/Anoop_Desai",
+            "http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill",
+            "http://dbpedia.org/resource/UNC_Clef_Hangers"
+        ]
+    ]
+}

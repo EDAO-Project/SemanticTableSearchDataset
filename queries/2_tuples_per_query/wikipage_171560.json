@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mile_End_tube_station",
+            "http://dbpedia.org/resource/Central_line",
+            "http://dbpedia.org/resource/Leyton_tube_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Stratford_International_station",
+            "http://dbpedia.org/resource/Docklands_Light_Railway",
+            "http://dbpedia.org/resource/Stratford_High_Street_DLR_station"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KBYZ",
+            "http://dbpedia.org/resource/Bismarck,_North_Dakota",
+            "http://dbpedia.org/resource/Cumulus_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/KCFX",
+            "http://dbpedia.org/resource/Kansas_City,_Missouri",
+            "http://dbpedia.org/resource/Cumulus_Media"
+        ]
+    ]
+}

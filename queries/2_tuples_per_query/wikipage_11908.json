@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Glendon_Rusch",
+            "http://dbpedia.org/resource/Mark_Mulder",
+            "http://dbpedia.org/resource/Bob_Howry"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Jason_Marquis",
+            "http://dbpedia.org/resource/Greg_Maddux",
+            "http://dbpedia.org/resource/Jason_Isringhausen"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wilbur_F._Sanders",
+            "http://dbpedia.org/resource/51st_United_States_Congress",
+            "http://dbpedia.org/resource/Thomas_C._Power"
+        ]
+    ]
+}

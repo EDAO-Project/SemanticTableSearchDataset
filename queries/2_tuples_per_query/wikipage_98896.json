@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alpha_Psi_Lambda",
+            "http://dbpedia.org/resource/Ohio_State_University",
+            "http://dbpedia.org/resource/Fraternities_and_sororities_in_North_America"
+        ],
+        [
+            "http://dbpedia.org/resource/Gamma_Alpha_Omega",
+            "http://dbpedia.org/resource/Arizona_State_University",
+            "http://dbpedia.org/resource/Fraternities_and_sororities_in_North_America"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_Italian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Ritten",
+            "http://dbpedia.org/resource/Angelo_Dolfini",
+            "http://dbpedia.org/resource/Karel_Zelenka",
+            "http://dbpedia.org/resource/Paolo_Bacchini"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Italian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Lecco",
+            "http://dbpedia.org/resource/Karel_Zelenka",
+            "http://dbpedia.org/resource/Paolo_Bacchini",
+            "http://dbpedia.org/resource/Fabio_Mascarello"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Italian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Milan",
+            "http://dbpedia.org/resource/Karel_Zelenka",
+            "http://dbpedia.org/resource/Paolo_Bacchini",
+            "http://dbpedia.org/resource/Marco_Fabbri"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Italian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Merano",
+            "http://dbpedia.org/resource/Karel_Zelenka",
+            "http://dbpedia.org/resource/Paolo_Bacchini",
+            "http://dbpedia.org/resource/Marco_Fabbri"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Italian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Trento",
+            "http://dbpedia.org/resource/Karel_Zelenka",
+            "http://dbpedia.org/resource/Marco_Fabbri",
+            "http://dbpedia.org/resource/Paolo_Bacchini"
+        ]
+    ]
+}

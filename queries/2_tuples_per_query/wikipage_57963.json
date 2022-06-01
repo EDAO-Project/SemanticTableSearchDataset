@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mesa_Verde_National_Park",
+            "http://dbpedia.org/resource/Montezuma_County,_Colorado",
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Cliff_dwelling"
+        ],
+        [
+            "http://dbpedia.org/resource/Yellowstone_National_Park",
+            "http://dbpedia.org/resource/Park_County,_Wyoming",
+            "http://dbpedia.org/resource/Wyoming",
+            "http://dbpedia.org/resource/Geothermal_areas_of_Yellowstone"
+        ]
+    ]
+}

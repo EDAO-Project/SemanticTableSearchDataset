@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pat_Ahearne",
+            "http://dbpedia.org/resource/Adelaide_Giants",
+            "http://dbpedia.org/resource/Detroit_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/Kimera_Bartee",
+            "http://dbpedia.org/resource/Perth_Heat",
+            "http://dbpedia.org/resource/Detroit_Tigers"
+        ]
+    ]
+}

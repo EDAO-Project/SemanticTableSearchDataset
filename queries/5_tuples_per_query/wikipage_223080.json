@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paul_Tergat",
+            "http://dbpedia.org/resource/Paul_Koech",
+            "http://dbpedia.org/resource/Assefa_Mezgebu"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Kibowen",
+            "http://dbpedia.org/resource/Daniel_Komen",
+            "http://dbpedia.org/resource/Paul_Malakwen_Kosgei"
+        ],
+        [
+            "http://dbpedia.org/resource/Million_Wolde",
+            "http://dbpedia.org/resource/Richard_Limo",
+            "http://dbpedia.org/resource/Hailu_Mekonnen"
+        ],
+        [
+            "http://dbpedia.org/resource/Yemenashu_Taye",
+            "http://dbpedia.org/resource/Jeruto_Kiptum",
+            "http://dbpedia.org/resource/Werknesh_Kidane"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Ethiopia",
+            "http://dbpedia.org/resource/Morocco"
+        ]
+    ]
+}

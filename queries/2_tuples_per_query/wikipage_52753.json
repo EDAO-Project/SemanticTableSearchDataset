@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albertson_Van_Zo_Post",
+            "http://dbpedia.org/resource/1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Fencing_at_the_1904_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Albertson_Van_Zo_Post",
+            "http://dbpedia.org/resource/1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Fencing_at_the_1904_Summer_Olympics"
+        ]
+    ]
+}

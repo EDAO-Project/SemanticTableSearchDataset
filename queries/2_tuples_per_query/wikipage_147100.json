@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mercury_Seven",
+            "http://dbpedia.org/resource/Gordon_Cooper",
+            "http://dbpedia.org/resource/Gemini_5"
+        ],
+        [
+            "http://dbpedia.org/resource/Mercury_Seven",
+            "http://dbpedia.org/resource/Gus_Grissom",
+            "http://dbpedia.org/resource/Gemini_3"
+        ]
+    ]
+}

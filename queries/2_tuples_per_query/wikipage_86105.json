@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bradford_Bulls",
+            "http://dbpedia.org/resource/Odsal_Stadium",
+            "http://dbpedia.org/resource/Bradford"
+        ],
+        [
+            "http://dbpedia.org/resource/Bradford_Bulls",
+            "http://dbpedia.org/resource/Valley_Parade",
+            "http://dbpedia.org/resource/Bradford"
+        ]
+    ]
+}

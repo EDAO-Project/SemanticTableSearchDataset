@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/George_Eiferman",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Harold_Poole",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

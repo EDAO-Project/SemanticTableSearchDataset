@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Ian_Woosnam"
+        ],
+        [
+            "http://dbpedia.org/resource/Heineken_Classic",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Ian_Woosnam"
+        ],
+        [
+            "http://dbpedia.org/resource/Dimension_Data_Pro-Am",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Mark_McNulty"
+        ],
+        [
+            "http://dbpedia.org/resource/Vodacom_Players_Championship",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Wayne_Westner"
+        ],
+        [
+            "http://dbpedia.org/resource/Catalan_Open",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Paul_Lawrie"
+        ]
+    ]
+}

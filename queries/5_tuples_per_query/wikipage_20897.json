@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Alabama",
+            "http://dbpedia.org/resource/B._B._Comer",
+            "http://dbpedia.org/resource/James_Thomas_Heflin"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Arizona",
+            "http://dbpedia.org/resource/Marcus_A._Smith",
+            "http://dbpedia.org/resource/Ralph_H._Cameron"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Arkansas",
+            "http://dbpedia.org/resource/William_F._Kirby",
+            "http://dbpedia.org/resource/Thaddeus_H._Caraway"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_California",
+            "http://dbpedia.org/resource/James_D._Phelan",
+            "http://dbpedia.org/resource/Samuel_M._Shortridge"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Colorado",
+            "http://dbpedia.org/resource/Charles_S._Thomas",
+            "http://dbpedia.org/resource/Samuel_D._Nicholson"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Yang_Ching-shun",
+            "http://dbpedia.org/resource/Warren_Kiamco"
+        ],
+        [
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Efren_Reyes",
+            "http://dbpedia.org/resource/Warren_Kiamco"
+        ],
+        [
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Efren_Reyes",
+            "http://dbpedia.org/resource/Warren_Kiamco"
+        ],
+        [
+            "http://dbpedia.org/resource/Vietnam",
+            "http://dbpedia.org/resource/Efren_Reyes",
+            "http://dbpedia.org/resource/Chao_Fong-pang"
+        ],
+        [
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Lee_Vann_Corteza",
+            "http://dbpedia.org/resource/Francisco_Bustamante"
+        ]
+    ]
+}

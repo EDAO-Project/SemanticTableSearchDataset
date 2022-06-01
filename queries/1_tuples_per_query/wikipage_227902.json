@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Son_of_the_Bride",
+            "http://dbpedia.org/resource/Spanish_language",
+            "http://dbpedia.org/resource/Juan_J._Campanella"
+        ]
+    ]
+}

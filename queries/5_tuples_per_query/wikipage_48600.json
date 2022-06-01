@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wiesbaden",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Pistoia",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandviken",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

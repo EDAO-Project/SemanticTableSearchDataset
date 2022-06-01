@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Igor_Misko",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/SKA_Saint_Petersburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Mandi_Schwartz",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Acute_myeloid_leukemia"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Rypien",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Mark_Rypien"
+        ],
+        [
+            "http://dbpedia.org/resource/Pavol_Demitra",
+            "http://dbpedia.org/resource/Slovakia",
+            "http://dbpedia.org/resource/2011_Lokomotiv_Yaroslavl_air_disaster"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefan_Liv",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/2011_Lokomotiv_Yaroslavl_air_disaster"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Asam_pedas",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Seafood"
+        ],
+        [
+            "http://dbpedia.org/resource/Birnen,_Bohnen_und_Speck",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Pear"
+        ],
+        [
+            "http://dbpedia.org/resource/Birria",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Pork"
+        ],
+        [
+            "http://dbpedia.org/resource/Blanquette_de_veau",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Veal"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouillabaisse",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Marseille"
+        ]
+    ]
+}

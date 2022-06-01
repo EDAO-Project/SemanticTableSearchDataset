@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newport",
+            "http://dbpedia.org/resource/Thomas_Henry_Wyatt",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Glyntaff",
+            "http://dbpedia.org/resource/Thomas_Henry_Wyatt",
+            "http://dbpedia.org/resource/Romanesque_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Newtown,_Powys",
+            "http://dbpedia.org/resource/Thomas_Mainwaring_Penson",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Merthyr_Tydfil",
+            "http://dbpedia.org/resource/Thomas_Henry_Wyatt",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Llanelli",
+            "http://dbpedia.org/resource/George_Gilbert_Scott",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ]
+    ]
+}

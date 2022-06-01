@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Skerton_Bridge",
+            "http://dbpedia.org/resource/Lancaster,_Lancashire",
+            "http://dbpedia.org/resource/River_Lune"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stefano_Allocchio",
+            "http://dbpedia.org/resource/Roberto_Visentini",
+            "http://dbpedia.org/resource/Johan_van_der_Velde",
+            "http://dbpedia.org/resource/Alberto_Volpi",
+            "http://dbpedia.org/resource/Alfa_Lum_cycling_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Franco_Chioccioli",
+            "http://dbpedia.org/resource/Bernard_Hinault",
+            "http://dbpedia.org/resource/Johan_van_der_Velde",
+            "http://dbpedia.org/resource/Alberto_Volpi",
+            "http://dbpedia.org/resource/Alfa_Lum_cycling_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Ron_Kiefel",
+            "http://dbpedia.org/resource/Bernard_Hinault",
+            "http://dbpedia.org/resource/Johan_van_der_Velde",
+            "http://dbpedia.org/resource/Alberto_Volpi",
+            "http://dbpedia.org/resource/Alfa_Lum_cycling_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Giuseppe_Saronni",
+            "http://dbpedia.org/resource/Bernard_Hinault",
+            "http://dbpedia.org/resource/Johan_van_der_Velde",
+            "http://dbpedia.org/resource/Alberto_Volpi",
+            "http://dbpedia.org/resource/Alfa_Lum_cycling_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Gisiger",
+            "http://dbpedia.org/resource/Bernard_Hinault",
+            "http://dbpedia.org/resource/Johan_van_der_Velde",
+            "http://dbpedia.org/resource/Alberto_Volpi",
+            "http://dbpedia.org/resource/Del_Tongo"
+        ]
+    ]
+}

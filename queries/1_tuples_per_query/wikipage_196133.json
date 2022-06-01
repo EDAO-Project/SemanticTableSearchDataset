@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1933_World_Archery_Championships",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

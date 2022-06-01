@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Just_Fontaine",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Stade_de_Reims"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandro_Mazzola",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Van_Himst",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht"
+        ],
+        [
+            "http://dbpedia.org/resource/Eduard_Markarov",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/FC_Ararat_Yerevan"
+        ],
+        [
+            "http://dbpedia.org/resource/Karl-Heinz_Rummenigge",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ]
+    ]
+}

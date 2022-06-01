@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ava_Railway_Station",
+            "http://dbpedia.org/resource/Hutt_Valley_Line",
+            "http://dbpedia.org/resource/Ava,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Awarua_Street_Railway_Station",
+            "http://dbpedia.org/resource/Johnsonville_Branch",
+            "http://dbpedia.org/resource/Ngaio,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Box_Hill_Railway_Station,_Wellington",
+            "http://dbpedia.org/resource/Johnsonville_Branch",
+            "http://dbpedia.org/resource/Khandallah"
+        ],
+        [
+            "http://dbpedia.org/resource/Carterton_Railway_Station",
+            "http://dbpedia.org/resource/Wairarapa_Connection",
+            "http://dbpedia.org/resource/Carterton,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Crofton_Downs_Railway_Station",
+            "http://dbpedia.org/resource/Johnsonville_Branch",
+            "http://dbpedia.org/resource/Crofton_Downs"
+        ]
+    ]
+}

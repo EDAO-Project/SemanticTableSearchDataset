@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbottabad",
+            "http://dbpedia.org/resource/Abbottabad_District",
+            "http://dbpedia.org/resource/Khyber_Pakhtunkhwa"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahrain,_Pakistan",
+            "http://dbpedia.org/resource/Swat_District",
+            "http://dbpedia.org/resource/Khyber_Pakhtunkhwa"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Munro",
+            "http://dbpedia.org/resource/Dera_Ghazi_Khan",
+            "http://dbpedia.org/resource/Punjab_region"
+        ],
+        [
+            "http://dbpedia.org/resource/Galyat",
+            "http://dbpedia.org/resource/Rawalpindi_District",
+            "http://dbpedia.org/resource/Khyber_Pakhtunkhwa"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaghan_Valley",
+            "http://dbpedia.org/resource/Mansehra_District",
+            "http://dbpedia.org/resource/Khyber_Pakhtunkhwa"
+        ]
+    ]
+}

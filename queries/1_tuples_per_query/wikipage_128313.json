@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colorado_State_University",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles",
+            "http://dbpedia.org/resource/Scottsdale,_Arizona"
+        ]
+    ]
+}

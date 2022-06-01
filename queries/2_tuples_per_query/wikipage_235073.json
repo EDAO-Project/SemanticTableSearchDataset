@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_World_2011",
+            "http://dbpedia.org/resource/Ivian_Sarcos",
+            "http://dbpedia.org/resource/Venezuela"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_World_2010",
+            "http://dbpedia.org/resource/Alexandria_Mills",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

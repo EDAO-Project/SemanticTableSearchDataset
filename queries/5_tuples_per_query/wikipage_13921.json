@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benno",
+            "http://dbpedia.org/resource/Hildesheim",
+            "http://dbpedia.org/resource/Meissen",
+            "http://dbpedia.org/resource/Bishop_of_Dresden-Meissen"
+        ],
+        [
+            "http://dbpedia.org/resource/John_of_Lodi",
+            "http://dbpedia.org/resource/Lodi_Vecchio",
+            "http://dbpedia.org/resource/Gubbio",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Gubbio"
+        ],
+        [
+            "http://dbpedia.org/resource/Anselm_of_Canterbury",
+            "http://dbpedia.org/resource/Aosta",
+            "http://dbpedia.org/resource/Canterbury",
+            "http://dbpedia.org/resource/Archbishop_of_Canterbury"
+        ],
+        [
+            "http://dbpedia.org/resource/Bernard_of_Carinola",
+            "http://dbpedia.org/resource/Capua",
+            "http://dbpedia.org/resource/Carinola",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Cerignola-Ascoli_Satriano"
+        ],
+        [
+            "http://dbpedia.org/resource/Norbert_of_Xanten",
+            "http://dbpedia.org/resource/Xanten",
+            "http://dbpedia.org/resource/Magdeburg",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Magdeburg"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rijo_Shukyu_Football_Club",
+            "http://dbpedia.org/resource/University_of_Tokyo",
+            "http://dbpedia.org/resource/Meiji_Jingu_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Waseda_University",
+            "http://dbpedia.org/resource/Kyoto_University",
+            "http://dbpedia.org/resource/Meiji_Jingu_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Kwansei_Gakuin_University",
+            "http://dbpedia.org/resource/Hosei_University",
+            "http://dbpedia.org/resource/Meiji_Jingu_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Kwansei_Gakuin_University",
+            "http://dbpedia.org/resource/Keio_University",
+            "http://dbpedia.org/resource/Koshien_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Keio_University",
+            "http://dbpedia.org/resource/Kobe_University",
+            "http://dbpedia.org/resource/Meiji_Jingu_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boris_Paichadze_Dinamo_Arena",
+            "http://dbpedia.org/resource/Tbilisi",
+            "http://dbpedia.org/resource/FC_Dinamo_Tbilisi"
+        ],
+        [
+            "http://dbpedia.org/resource/Givi_Kiladze_Stadium",
+            "http://dbpedia.org/resource/Kutaisi",
+            "http://dbpedia.org/resource/FC_Torpedo_Kutaisi"
+        ]
+    ]
+}

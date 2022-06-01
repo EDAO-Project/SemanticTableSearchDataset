@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agaricales",
+            "http://dbpedia.org/resource/Agaricaceae",
+            "http://dbpedia.org/resource/Agaricus"
+        ],
+        [
+            "http://dbpedia.org/resource/Polyporales",
+            "http://dbpedia.org/resource/Albatrellaceae",
+            "http://dbpedia.org/resource/Albatrellus"
+        ],
+        [
+            "http://dbpedia.org/resource/Auriculariales",
+            "http://dbpedia.org/resource/Auriculariaceae",
+            "http://dbpedia.org/resource/Auricularia"
+        ],
+        [
+            "http://dbpedia.org/resource/Russulales",
+            "http://dbpedia.org/resource/Auriscalpiaceae",
+            "http://dbpedia.org/resource/Auriscalpium"
+        ],
+        [
+            "http://dbpedia.org/resource/Thelephorales",
+            "http://dbpedia.org/resource/Bankeraceae",
+            "http://dbpedia.org/resource/Bankera"
+        ]
+    ]
+}

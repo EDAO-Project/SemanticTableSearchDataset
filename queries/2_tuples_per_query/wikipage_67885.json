@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bluefield_College",
+            "http://dbpedia.org/resource/Bluefield,_Virginia",
+            "http://dbpedia.org/resource/Baptist_General_Association_of_Virginia",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgewater_College",
+            "http://dbpedia.org/resource/Bridgewater,_Virginia",
+            "http://dbpedia.org/resource/Church_of_the_Brethren",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"
+        ]
+    ]
+}

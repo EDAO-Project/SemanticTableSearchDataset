@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lichfield_Cathedral",
+            "http://dbpedia.org/resource/Michael_Aspel",
+            "http://dbpedia.org/resource/Samuel_Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/Edinburgh",
+            "http://dbpedia.org/resource/Hilary_Kay",
+            "http://dbpedia.org/resource/Mickey_Mouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Normanby_Hall",
+            "http://dbpedia.org/resource/Eric_Knowles",
+            "http://dbpedia.org/resource/Royal_Worcester"
+        ],
+        [
+            "http://dbpedia.org/resource/Beamish_Museum",
+            "http://dbpedia.org/resource/Paul_Atterbury",
+            "http://dbpedia.org/resource/Virginia_Euwer_Wolff"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochdale_Town_Hall",
+            "http://dbpedia.org/resource/Lars_Tharp",
+            "http://dbpedia.org/resource/Hammerbeam_roof"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Stearns",
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/Colorado_Buffaloes"
+        ],
+        [
+            "http://dbpedia.org/resource/Robin_Yount",
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Woodland_Hills,_Los_Angeles"
+        ]
+    ]
+}

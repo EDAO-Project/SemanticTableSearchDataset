@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_P._Van_Ness",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_James_Madison"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_Rossiter_Betts",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_John_Quincy_Adams"
+        ]
+    ]
+}

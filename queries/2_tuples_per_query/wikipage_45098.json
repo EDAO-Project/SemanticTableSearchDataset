@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alden_Bridge",
+            "http://dbpedia.org/resource/Alden,_Iowa",
+            "http://dbpedia.org/resource/Hardin_County,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Ames_Creek_Bridge",
+            "http://dbpedia.org/resource/DeWitt,_Iowa",
+            "http://dbpedia.org/resource/Clinton_County,_Iowa"
+        ]
+    ]
+}

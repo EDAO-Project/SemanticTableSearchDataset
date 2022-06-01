@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chester_Village_Cemetery",
+            "http://dbpedia.org/resource/New_Hampshire_Route_102",
+            "http://dbpedia.org/resource/Chester,_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Dame_School",
+            "http://dbpedia.org/resource/New_Hampshire_Route_152",
+            "http://dbpedia.org/resource/Nottingham,_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Danville_Town_House",
+            "http://dbpedia.org/resource/New_Hampshire_Route_111",
+            "http://dbpedia.org/resource/Danville,_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Isles_of_Shoals",
+            "http://dbpedia.org/resource/Rye,_New_Hampshire",
+            "http://dbpedia.org/resource/Kittery,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Paul_Jones_House",
+            "http://dbpedia.org/resource/Portsmouth,_New_Hampshire",
+            "http://dbpedia.org/resource/American_Revolutionary_War"
+        ]
+    ]
+}

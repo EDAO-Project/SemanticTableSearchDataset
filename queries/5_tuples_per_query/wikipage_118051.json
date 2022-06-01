@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_McWilliams",
+            "http://dbpedia.org/resource/Free_Trade_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1906"
+        ],
+        [
+            "http://dbpedia.org/resource/William_McWilliams",
+            "http://dbpedia.org/resource/Nationalist_Party_of_Australia",
+            "http://dbpedia.org/resource/Australian_federal_election,_1917"
+        ],
+        [
+            "http://dbpedia.org/resource/Alfred_Seabrook",
+            "http://dbpedia.org/resource/Nationalist_Party_of_Australia",
+            "http://dbpedia.org/resource/Australian_federal_election,_1922"
+        ],
+        [
+            "http://dbpedia.org/resource/William_McWilliams",
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/Australian_federal_election,_1928"
+        ],
+        [
+            "http://dbpedia.org/resource/Archibald_Blacklow",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1931"
+        ]
+    ]
+}

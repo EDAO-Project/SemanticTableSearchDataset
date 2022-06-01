@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jack_Guiney",
+            "http://dbpedia.org/resource/Wexford_GAA",
+            "http://dbpedia.org/resource/Laois_GAA"
+        ]
+    ]
+}

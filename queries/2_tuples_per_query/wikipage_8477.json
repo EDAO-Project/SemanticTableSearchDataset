@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clifton,_New_Jersey",
+            "http://dbpedia.org/resource/Passaic_County,_New_Jersey",
+            "http://dbpedia.org/resource/1923_Municipal_Manager_Law"
+        ],
+        [
+            "http://dbpedia.org/resource/Union_City,_New_Jersey",
+            "http://dbpedia.org/resource/Hudson_County,_New_Jersey",
+            "http://dbpedia.org/resource/Walsh_Act"
+        ]
+    ]
+}

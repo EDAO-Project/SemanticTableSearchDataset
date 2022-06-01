@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Neil_Briggs",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Chuter",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Rob_Hawkins",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Youngs",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Bristow",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ]
+    ]
+}

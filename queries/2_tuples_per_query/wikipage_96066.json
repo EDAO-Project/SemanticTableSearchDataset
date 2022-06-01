@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Winning_percentage",
+            "http://dbpedia.org/resource/Lefty_Grove",
+            "http://dbpedia.org/resource/1925_Major_League_Baseball_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Earned_run_average",
+            "http://dbpedia.org/resource/Rube_Waddell",
+            "http://dbpedia.org/resource/1902_Major_League_Baseball_season"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pole_vault",
+            "http://dbpedia.org/resource/Yelena_Isinbayeva",
+            "http://dbpedia.org/resource/Russia"
+        ]
+    ]
+}

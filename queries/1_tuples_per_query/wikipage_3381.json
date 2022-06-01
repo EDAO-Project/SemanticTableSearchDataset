@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oliver_Mack",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/East_Carolina_University"
+        ]
+    ]
+}

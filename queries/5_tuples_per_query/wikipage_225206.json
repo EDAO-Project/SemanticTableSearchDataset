@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Waldemar_Andzel",
+            "http://dbpedia.org/resource/Law_and_Justice",
+            "http://dbpedia.org/resource/Sosnowiec"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Bednarek",
+            "http://dbpedia.org/resource/Self-Defence_of_the_Republic_of_Poland",
+            "http://dbpedia.org/resource/Koszalin"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrzej_Biernat",
+            "http://dbpedia.org/resource/Civic_Platform",
+            "http://dbpedia.org/resource/Sieradz"
+        ],
+        [
+            "http://dbpedia.org/resource/Alfred_Budner",
+            "http://dbpedia.org/resource/Self-Defence_of_the_Republic_of_Poland",
+            "http://dbpedia.org/resource/Konin"
+        ],
+        [
+            "http://dbpedia.org/resource/Piotr_Cybulski",
+            "http://dbpedia.org/resource/Civic_Platform",
+            "http://dbpedia.org/resource/Law_and_Justice"
+        ]
+    ]
+}

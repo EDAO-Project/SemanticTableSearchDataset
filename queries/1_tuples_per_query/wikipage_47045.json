@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Burgazada",
+            "http://dbpedia.org/resource/Istanbul_Province",
+            "http://dbpedia.org/resource/Sea_of_Marmara"
+        ]
+    ]
+}

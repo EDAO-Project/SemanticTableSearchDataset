@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Forsythe",
+            "http://dbpedia.org/resource/Henry_Cecil",
+            "http://dbpedia.org/resource/Alfred_Hitchcock"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Mason",
+            "http://dbpedia.org/resource/John_Bingham,_7th_Baron_Clanmorris",
+            "http://dbpedia.org/resource/Alf_Kjellin"
+        ],
+        [
+            "http://dbpedia.org/resource/Carol_Lynley",
+            "http://dbpedia.org/resource/Henry_Slesar",
+            "http://dbpedia.org/resource/Norman_Lloyd"
+        ],
+        [
+            "http://dbpedia.org/resource/Dean_Stockwell",
+            "http://dbpedia.org/resource/Robert_Bloch",
+            "http://dbpedia.org/resource/Paul_Henreid"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Basehart",
+            "http://dbpedia.org/resource/Cornell_Woolrich",
+            "http://dbpedia.org/resource/Sydney_Pollack"
+        ]
+    ]
+}

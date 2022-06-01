@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Flagstaff,_Arizona",
+            "http://dbpedia.org/resource/Arizona_Daily_Sun"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Tucson,_Arizona",
+            "http://dbpedia.org/resource/Arizona_Daily_Star"
+        ],
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Hanford,_California",
+            "http://dbpedia.org/resource/Lee_Enterprises"
+        ],
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Lompoc,_California",
+            "http://dbpedia.org/resource/Lompoc_Record"
+        ],
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Napa,_California",
+            "http://dbpedia.org/resource/Napa_Valley_Register"
+        ]
+    ]
+}

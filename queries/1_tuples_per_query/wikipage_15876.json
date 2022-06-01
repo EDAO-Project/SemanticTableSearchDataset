@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Cat_Creeps",
+            "http://dbpedia.org/resource/Rupert_Julian",
+            "http://dbpedia.org/resource/Helen_Twelvetrees"
+        ]
+    ]
+}

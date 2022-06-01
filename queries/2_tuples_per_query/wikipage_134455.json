@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Junpei_Morishita",
+            "http://dbpedia.org/resource/Khashbaataryn_Tsagaanbaatar",
+            "http://dbpedia.org/resource/Mirzohid_Farmonov"
+        ],
+        [
+            "http://dbpedia.org/resource/Wang_Ki-chun",
+            "http://dbpedia.org/resource/Riki_Nakaya",
+            "http://dbpedia.org/resource/Kim_Chol-su"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dongan_Engine_Manufacturing_Company",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Dongan_WJ-5",
+            "http://dbpedia.org/resource/Harbin_SH-5"
+        ]
+    ]
+}

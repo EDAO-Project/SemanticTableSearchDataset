@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/Frederick_County,_Virginia",
+            "http://dbpedia.org/resource/Middletown,_Virginia"
+        ]
+    ]
+}

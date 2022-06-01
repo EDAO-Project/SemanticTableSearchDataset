@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Erik_Dekker",
+            "http://dbpedia.org/resource/Danny_Nelissen",
+            "http://dbpedia.org/resource/Jelle_Nijdam"
+        ],
+        [
+            "http://dbpedia.org/resource/Erik_Breukink",
+            "http://dbpedia.org/resource/Erik_Dekker",
+            "http://dbpedia.org/resource/Servais_Knaven"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_Jonker",
+            "http://dbpedia.org/resource/Servais_Knaven",
+            "http://dbpedia.org/resource/Wilco_Zuijderwijk"
+        ],
+        [
+            "http://dbpedia.org/resource/Erik_Dekker",
+            "http://dbpedia.org/resource/Servais_Knaven",
+            "http://dbpedia.org/resource/Maarten_den_Bakker"
+        ],
+        [
+            "http://dbpedia.org/resource/Maarten_den_Bakker",
+            "http://dbpedia.org/resource/Bart_Voskamp",
+            "http://dbpedia.org/resource/Servais_Knaven"
+        ]
+    ]
+}

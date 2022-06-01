@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aliona_Savchenko",
+            "http://dbpedia.org/resource/Yuko_Kavaguti",
+            "http://dbpedia.org/resource/Vera_Bazarova"
+        ],
+        [
+            "http://dbpedia.org/resource/Pang_Qing",
+            "http://dbpedia.org/resource/Meagan_Duhamel",
+            "http://dbpedia.org/resource/Paige_Lawrence"
+        ],
+        [
+            "http://dbpedia.org/resource/Sui_Wenjing",
+            "http://dbpedia.org/resource/Ksenia_Stolbova",
+            "http://dbpedia.org/resource/Narumi_Takahashi"
+        ],
+        [
+            "http://dbpedia.org/resource/Aliona_Savchenko",
+            "http://dbpedia.org/resource/Tatiana_Volosozhar",
+            "http://dbpedia.org/resource/Pang_Qing"
+        ],
+        [
+            "http://dbpedia.org/resource/Pang_Qing",
+            "http://dbpedia.org/resource/Vera_Bazarova",
+            "http://dbpedia.org/resource/Narumi_Takahashi"
+        ]
+    ]
+}

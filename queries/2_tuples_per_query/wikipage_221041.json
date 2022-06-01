@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cagayan_Valley",
+            "http://dbpedia.org/resource/Juan_Ponce_Enrile",
+            "http://dbpedia.org/resource/Kilusang_Bagong_Lipunan"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_Luzon",
+            "http://dbpedia.org/resource/Blas_Ople",
+            "http://dbpedia.org/resource/Kilusang_Bagong_Lipunan"
+        ]
+    ]
+}

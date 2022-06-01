@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Presidio_County,_Texas",
+            "http://dbpedia.org/resource/Presidio,_Texas",
+            "http://dbpedia.org/resource/Mexican_Federal_Highway_16"
+        ],
+        [
+            "http://dbpedia.org/resource/Brewster_County,_Texas",
+            "http://dbpedia.org/resource/Alpine,_Texas",
+            "http://dbpedia.org/resource/Big_Bend_National_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Brewster_County,_Texas",
+            "http://dbpedia.org/resource/Alpine,_Texas",
+            "http://dbpedia.org/resource/Sul_Ross_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Green_County,_Texas",
+            "http://dbpedia.org/resource/San_Angelo,_Texas",
+            "http://dbpedia.org/resource/Goodfellow_Air_Force_Base"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas_County,_Texas",
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/Downtown_Dallas"
+        ]
+    ]
+}

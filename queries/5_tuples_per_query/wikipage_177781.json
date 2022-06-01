@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thrift_Shop",
+            "http://dbpedia.org/resource/Macklemore",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Little_Talks",
+            "http://dbpedia.org/resource/Of_Monsters_and_Men",
+            "http://dbpedia.org/resource/Iceland"
+        ],
+        [
+            "http://dbpedia.org/resource/Concrete_masonry_unit",
+            "http://dbpedia.org/resource/Alt-J",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Sweet_Nothings",
+            "http://dbpedia.org/resource/Calvin_Harris",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Gold_on_the_Ceiling",
+            "http://dbpedia.org/resource/The_Black_Keys",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

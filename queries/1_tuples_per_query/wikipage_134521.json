@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_American_International_Auto_Show",
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

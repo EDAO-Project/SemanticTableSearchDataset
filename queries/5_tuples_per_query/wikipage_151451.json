@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Hugh_Powell_Crosby",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Hugh_Powell_Crosby",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Washington_Badgerow",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Washington_Badgerow",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Byron_Smith",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ]
+    ]
+}

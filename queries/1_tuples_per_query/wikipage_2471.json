@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Quad_City_Steamwheelers",
+            "http://dbpedia.org/resource/Alabama_Vipers",
+            "http://dbpedia.org/resource/Moline,_Illinois"
+        ]
+    ]
+}

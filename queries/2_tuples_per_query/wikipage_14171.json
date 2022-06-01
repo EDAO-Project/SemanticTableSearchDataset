@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_Cannes_Film_Festival",
+            "http://dbpedia.org/resource/Investigation_of_a_Citizen_Above_Suspicion",
+            "http://dbpedia.org/resource/Elio_Petri",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Cannes_Film_Festival",
+            "http://dbpedia.org/resource/The_Mother_and_the_Whore",
+            "http://dbpedia.org/resource/Jean_Eustache",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

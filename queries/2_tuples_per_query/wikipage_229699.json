@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sam_Wadsworth",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/KNVB_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Bram_Appel",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Eredivisie"
+        ]
+    ]
+}

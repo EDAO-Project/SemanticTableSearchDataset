@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Panama_Claro_Championship",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/Tripp_Isenhour"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_PGA_Championship",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Jim_Rutledge"
+        ],
+        [
+            "http://dbpedia.org/resource/Chitimacha_Louisiana_Open",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Johnson_Wagner"
+        ],
+        [
+            "http://dbpedia.org/resource/Livermore_Valley_Wine_Country_Championship",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Tripp_Isenhour"
+        ],
+        [
+            "http://dbpedia.org/resource/BMW_Charity_Pro-Am",
+            "http://dbpedia.org/resource/South_Carolina",
+            "http://dbpedia.org/resource/Ken_Duke"
+        ]
+    ]
+}

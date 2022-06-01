@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/DirecTV",
+            "http://dbpedia.org/resource/Satellite_television"
+        ],
+        [
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/UNE",
+            "http://dbpedia.org/resource/Cable"
+        ]
+    ]
+}

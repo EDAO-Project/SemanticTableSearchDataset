@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santa_Cruz_del_Islote",
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/Caribbean_Sea"
+        ],
+        [
+            "http://dbpedia.org/resource/Ap_Lei_Chau",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Aberdeen_Channel"
+        ],
+        [
+            "http://dbpedia.org/resource/Migingo_Island",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Lake_Victoria"
+        ],
+        [
+            "http://dbpedia.org/resource/Joal-Fadiouth",
+            "http://dbpedia.org/resource/Senegal",
+            "http://dbpedia.org/resource/Atlantic_Ocean"
+        ],
+        [
+            "http://dbpedia.org/resource/Ebeye_Island",
+            "http://dbpedia.org/resource/Marshall_Islands",
+            "http://dbpedia.org/resource/Pacific_Ocean"
+        ]
+    ]
+}

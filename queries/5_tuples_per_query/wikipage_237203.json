@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lafayette_McLaws",
+            "http://dbpedia.org/resource/Laurence_M._Keitt",
+            "http://dbpedia.org/resource/15th_South_Carolina_Infantry_Regiment"
+        ],
+        [
+            "http://dbpedia.org/resource/Lafayette_McLaws",
+            "http://dbpedia.org/resource/Benjamin_G._Humphreys",
+            "http://dbpedia.org/resource/21st_Mississippi_Infantry_Regiment"
+        ],
+        [
+            "http://dbpedia.org/resource/Lafayette_McLaws",
+            "http://dbpedia.org/resource/William_T._Wofford",
+            "http://dbpedia.org/resource/18th_Georgia_Volunteer_Infantry"
+        ],
+        [
+            "http://dbpedia.org/resource/Lafayette_McLaws",
+            "http://dbpedia.org/resource/Goode_Bryan",
+            "http://dbpedia.org/resource/10th_Georgia_Infantry"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_W._Field",
+            "http://dbpedia.org/resource/Texas_Brigade",
+            "http://dbpedia.org/resource/3rd_Arkansas_Infantry_Regiment"
+        ]
+    ]
+}

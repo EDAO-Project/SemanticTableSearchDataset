@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stamford,_Lincolnshire",
+            "http://dbpedia.org/resource/Ashton,_Cambridgeshire",
+            "http://dbpedia.org/resource/South_Kesteven"
+        ],
+        [
+            "http://dbpedia.org/resource/Bourne,_Lincolnshire",
+            "http://dbpedia.org/resource/Bulby",
+            "http://dbpedia.org/resource/South_Kesteven"
+        ]
+    ]
+}

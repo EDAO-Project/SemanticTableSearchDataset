@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_Asia-Pacific_Rally_Championship_season",
+            "http://dbpedia.org/resource/Possum_Bourne",
+            "http://dbpedia.org/resource/Subaru_Impreza"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Asia-Pacific_Rally_Championship_season",
+            "http://dbpedia.org/resource/Toshi_Arai",
+            "http://dbpedia.org/resource/Subaru_Impreza"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_World_Rally_Championship_season",
+            "http://dbpedia.org/resource/Petter_Solberg",
+            "http://dbpedia.org/resource/Subaru_World_Rally_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Asia-Pacific_Rally_Championship_season",
+            "http://dbpedia.org/resource/Katsuhiko_Taguchi",
+            "http://dbpedia.org/resource/Mitsubishi_Lancer_Evolution"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Asia-Pacific_Rally_Championship_season",
+            "http://dbpedia.org/resource/Toshi_Arai",
+            "http://dbpedia.org/resource/Subaru_Impreza"
+        ]
+    ]
+}

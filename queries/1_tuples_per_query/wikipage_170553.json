@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BearCity_2:_The_Proposal",
+            "http://dbpedia.org/resource/Doug_Langway",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

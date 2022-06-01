@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bowling_Green_State_University",
+            "http://dbpedia.org/resource/Anderson_Arena",
+            "http://dbpedia.org/resource/Bowling_Green,_Ohio",
+            "http://dbpedia.org/resource/Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Vermont",
+            "http://dbpedia.org/resource/Patrick_Gym",
+            "http://dbpedia.org/resource/Burlington,_Vermont",
+            "http://dbpedia.org/resource/Vermont"
+        ]
+    ]
+}

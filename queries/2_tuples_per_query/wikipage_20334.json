@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ruben_Houkes",
+            "http://dbpedia.org/resource/Nestor_Khergiani",
+            "http://dbpedia.org/resource/Ludwig_Paischer"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruben_Houkes",
+            "http://dbpedia.org/resource/Nestor_Khergiani",
+            "http://dbpedia.org/resource/Choi_Minho"
+        ]
+    ]
+}

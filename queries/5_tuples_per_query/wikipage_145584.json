@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_World_Weightlifting_Championships",
+            "http://dbpedia.org/resource/Vasily_Alekseyev",
+            "http://dbpedia.org/resource/Serge_Reding",
+            "http://dbpedia.org/resource/Kalevi_Lahdenranta"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_World_Weightlifting_Championships",
+            "http://dbpedia.org/resource/Vasily_Alekseyev",
+            "http://dbpedia.org/resource/Ken_Patera",
+            "http://dbpedia.org/resource/Ivan_Atanasov"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_World_Weightlifting_Championships",
+            "http://dbpedia.org/resource/Vasily_Alekseyev",
+            "http://dbpedia.org/resource/Rudolf_Mang",
+            "http://dbpedia.org/resource/Gerd_Bonk"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_World_Weightlifting_Championships",
+            "http://dbpedia.org/resource/Vasily_Alekseyev",
+            "http://dbpedia.org/resource/Gerd_Bonk",
+            "http://dbpedia.org/resource/Helmut_Losch"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_World_Weightlifting_Championships",
+            "http://dbpedia.org/resource/Anatoly_Pisarenko",
+            "http://dbpedia.org/resource/Senno_Salzwedel",
+            "http://dbpedia.org/resource/Tadeusz_Rutkowski"
+        ]
+    ]
+}

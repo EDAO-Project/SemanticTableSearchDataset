@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maryland_Route_201",
+            "http://dbpedia.org/resource/District_of_Columbia_Route_295",
+            "http://dbpedia.org/resource/Maryland_Route_212"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_202",
+            "http://dbpedia.org/resource/Maryland_Route_450",
+            "http://dbpedia.org/resource/Maryland_Route_725"
+        ]
+    ]
+}

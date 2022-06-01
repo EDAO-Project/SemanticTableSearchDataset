@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/James_E._Briggs",
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/Colorado_Springs,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_H._Warren",
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/Korean_War"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_S._Moorman",
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/557th_Weather_Wing"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_P._Clark",
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/World_War_II"
+        ],
+        [
+            "http://dbpedia.org/resource/James_R._Allen",
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/Vietnam_War"
+        ]
+    ]
+}

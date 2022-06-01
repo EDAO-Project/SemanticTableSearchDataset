@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KBS_Entertainment_Awards",
+            "http://dbpedia.org/resource/Lee_Soo-geun",
+            "http://dbpedia.org/resource/2_Days_&_1_Night"
+        ],
+        [
+            "http://dbpedia.org/resource/KBS_Entertainment_Awards",
+            "http://dbpedia.org/resource/Lee_Soo-geun",
+            "http://dbpedia.org/resource/2_Days_&_1_Night"
+        ],
+        [
+            "http://dbpedia.org/resource/KBS_Entertainment_Awards",
+            "http://dbpedia.org/resource/Lee_Seung-gi",
+            "http://dbpedia.org/resource/2_Days_&_1_Night"
+        ],
+        [
+            "http://dbpedia.org/resource/KBS_Entertainment_Awards",
+            "http://dbpedia.org/resource/Kim_Tae-won",
+            "http://dbpedia.org/resource/Qualifications_of_Men"
+        ],
+        [
+            "http://dbpedia.org/resource/KBS_Entertainment_Awards",
+            "http://dbpedia.org/resource/Lee_Soo-geun",
+            "http://dbpedia.org/resource/2_Days_&_1_Night"
+        ]
+    ]
+}

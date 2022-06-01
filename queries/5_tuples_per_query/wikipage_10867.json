@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mitsubishi_Electric_Championship_at_Hualalai",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Al_Geiberger"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Caribbean_Golf_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Don_Massengale"
+        ],
+        [
+            "http://dbpedia.org/resource/Encompass_Insurance_Pro-Am_of_Tampa_Bay",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Jim_Colbert"
+        ],
+        [
+            "http://dbpedia.org/resource/FHP_Health_Care_Classic",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Bruce_Crampton"
+        ],
+        [
+            "http://dbpedia.org/resource/AT&T_Championship",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Lee_Trevino"
+        ]
+    ]
+}

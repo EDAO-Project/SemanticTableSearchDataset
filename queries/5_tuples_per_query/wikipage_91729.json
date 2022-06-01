@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appalachian_State_Mountaineers",
+            "http://dbpedia.org/resource/Appalachian_State_University",
+            "http://dbpedia.org/resource/Boone,_North_Carolina",
+            "http://dbpedia.org/resource/Southern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Campbell_Fighting_Camels_and_Lady_Camels",
+            "http://dbpedia.org/resource/Campbell_University",
+            "http://dbpedia.org/resource/Buies_Creek,_North_Carolina",
+            "http://dbpedia.org/resource/Atlantic_Sun_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlotte_49ers",
+            "http://dbpedia.org/resource/University_of_North_Carolina_at_Charlotte",
+            "http://dbpedia.org/resource/Charlotte,_North_Carolina",
+            "http://dbpedia.org/resource/Conference_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Davidson_Wildcats",
+            "http://dbpedia.org/resource/Davidson_College",
+            "http://dbpedia.org/resource/Davidson,_North_Carolina",
+            "http://dbpedia.org/resource/Southern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Duke_Blue_Devils",
+            "http://dbpedia.org/resource/Duke_University",
+            "http://dbpedia.org/resource/Durham,_North_Carolina",
+            "http://dbpedia.org/resource/Atlantic_Coast_Conference"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfred_Deakin",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1901"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_McGrath",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1913"
+        ],
+        [
+            "http://dbpedia.org/resource/Edwin_Kerby",
+            "http://dbpedia.org/resource/Nationalist_Party_of_Australia",
+            "http://dbpedia.org/resource/Australian_federal_election,_1919"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_McGrath",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Ballaarat_by-election,_1920"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_McGrath",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1931"
+        ]
+    ]
+}

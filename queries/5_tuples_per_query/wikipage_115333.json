@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rugby_union",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/Wallaby"
+        ],
+        [
+            "http://dbpedia.org/resource/Rugby_league",
+            "http://dbpedia.org/resource/Australia_national_rugby_league_team",
+            "http://dbpedia.org/resource/Kangaroo"
+        ],
+        [
+            "http://dbpedia.org/resource/Rugby_league",
+            "http://dbpedia.org/resource/Wheelchair_rugby",
+            "http://dbpedia.org/resource/Paralympic_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/Australia_national_under-17_soccer_team",
+            "http://dbpedia.org/resource/Marsupial"
+        ],
+        [
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/Australia_national_under-17_soccer_team",
+            "http://dbpedia.org/resource/Marsupial"
+        ]
+    ]
+}

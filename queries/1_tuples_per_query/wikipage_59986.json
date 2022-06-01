@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1958_Los_Angeles_Dodgers_season",
+            "http://dbpedia.org/resource/Don_Drysdale",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/Seals_Stadium"
+        ]
+    ]
+}

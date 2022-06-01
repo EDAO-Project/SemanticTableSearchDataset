@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BBC_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Gennady_Rozhdestvensky",
+            "http://dbpedia.org/resource/BBC"
+        ]
+    ]
+}

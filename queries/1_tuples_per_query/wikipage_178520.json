@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Circuit_de_Monaco",
+            "http://dbpedia.org/resource/Monte_Carlo",
+            "http://dbpedia.org/resource/Sam_Bird",
+            "http://dbpedia.org/resource/ISR_Racing"
+        ]
+    ]
+}

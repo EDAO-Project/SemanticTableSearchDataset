@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minesweepers_of_the_Royal_New_Zealand_Navy",
+            "http://dbpedia.org/resource/Minesweeper",
+            "http://dbpedia.org/resource/Castle-class_trawler"
+        ],
+        [
+            "http://dbpedia.org/resource/Minesweepers_of_the_Royal_New_Zealand_Navy",
+            "http://dbpedia.org/resource/Minesweeper",
+            "http://dbpedia.org/resource/Castle-class_trawler"
+        ]
+    ]
+}

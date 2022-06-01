@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bessemer,_Alabama",
+            "http://dbpedia.org/resource/WTTO",
+            "http://dbpedia.org/resource/Cunningham_Broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/Fresno,_California",
+            "http://dbpedia.org/resource/KGPE",
+            "http://dbpedia.org/resource/Nexstar_Broadcasting_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Francisco",
+            "http://dbpedia.org/resource/KFTL-CD",
+            "http://dbpedia.org/resource/Independent_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/WTLV",
+            "http://dbpedia.org/resource/Gannett_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Boise,_Idaho",
+            "http://dbpedia.org/resource/KZAK-LD",
+            "http://dbpedia.org/resource/Cocola_Broadcasting"
+        ]
+    ]
+}

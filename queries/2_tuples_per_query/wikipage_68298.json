@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ronaldinho",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Miroslav_Klose",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Trinidad_and_Tobago"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Trinidad_and_Tobago",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Nigeria"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Cuba"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Brazil"
+        ]
+    ]
+}

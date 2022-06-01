@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HSBC_Brazil_Cup",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Catriona_Matthew"
+        ],
+        [
+            "http://dbpedia.org/resource/SBS_Open_at_Turtle_Bay",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Angela_Stanford"
+        ]
+    ]
+}

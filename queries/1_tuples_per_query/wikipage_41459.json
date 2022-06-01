@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adri_van_der_Poel",
+            "http://dbpedia.org/resource/Moreno_Argentin",
+            "http://dbpedia.org/resource/Eric_Van_Lancker"
+        ]
+    ]
+}

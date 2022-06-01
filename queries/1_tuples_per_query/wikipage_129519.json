@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Bobby_Grich",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Woodrow_Wilson_Classical_High_School"
+        ]
+    ]
+}

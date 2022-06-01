@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elks_Building_and_Theater",
+            "http://dbpedia.org/resource/Prescott,_Arizona",
+            "http://dbpedia.org/resource/National_Register_of_Historic_Places_architectural_style_categories"
+        ],
+        [
+            "http://dbpedia.org/resource/Willimantic_Elks_Club",
+            "http://dbpedia.org/resource/Windham,_Connecticut",
+            "http://dbpedia.org/resource/Tudor_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Elks_National_Veterans_Memorial",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Lincoln_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Murphysboro_Elks_Lodge",
+            "http://dbpedia.org/resource/Murphysboro,_Illinois",
+            "http://dbpedia.org/resource/Neoclassical_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Elks-Rogers_Hotel",
+            "http://dbpedia.org/resource/Clear_Lake,_Iowa",
+            "http://dbpedia.org/resource/Victorian_architecture"
+        ]
+    ]
+}

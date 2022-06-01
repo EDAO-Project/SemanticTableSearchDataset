@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Odile_Defraye",
+            "http://dbpedia.org/resource/Jules_Masselis",
+            "http://dbpedia.org/resource/Cyrille_van_Hauwaert"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_Dethier",
+            "http://dbpedia.org/resource/Joseph_Van_Daele",
+            "http://dbpedia.org/resource/Louis_Mottiat"
+        ]
+    ]
+}

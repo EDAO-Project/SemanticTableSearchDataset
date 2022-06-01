@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frontier_City",
+            "http://dbpedia.org/resource/Oklahoma_City",
+            "http://dbpedia.org/resource/PARC_Management"
+        ],
+        [
+            "http://dbpedia.org/resource/Movieland_Wax_Museum",
+            "http://dbpedia.org/resource/Buena_Park,_California",
+            "http://dbpedia.org/resource/Wax_museum"
+        ],
+        [
+            "http://dbpedia.org/resource/Darien_Lake",
+            "http://dbpedia.org/resource/Corfu,_New_York",
+            "http://dbpedia.org/resource/PARC_Management"
+        ],
+        [
+            "http://dbpedia.org/resource/Elitch_Gardens_Theme_Park",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/PARC_Management"
+        ],
+        [
+            "http://dbpedia.org/resource/Kentucky_Kingdom",
+            "http://dbpedia.org/resource/Louisville,_Kentucky",
+            "http://dbpedia.org/resource/Kentucky_State_Fair"
+        ]
+    ]
+}

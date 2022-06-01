@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Zealand_Football_Championship",
+            "http://dbpedia.org/resource/Keryn_Jordan",
+            "http://dbpedia.org/resource/Benjamin_Totori"
+        ],
+        [
+            "http://dbpedia.org/resource/OFC_Champions_League",
+            "http://dbpedia.org/resource/Allan_Pearce",
+            "http://dbpedia.org/resource/Lee_Ki-hyung"
+        ],
+        [
+            "http://dbpedia.org/resource/OFC_Champions_League",
+            "http://dbpedia.org/resource/Keryn_Jordan",
+            "http://dbpedia.org/resource/Benjamin_Totori"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_Football_Championship",
+            "http://dbpedia.org/resource/Matthew_Williams",
+            "http://dbpedia.org/resource/Allan_Pearce"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_Football_Championship",
+            "http://dbpedia.org/resource/Allan_Pearce",
+            "http://dbpedia.org/resource/Keryn_Jordan"
+        ]
+    ]
+}

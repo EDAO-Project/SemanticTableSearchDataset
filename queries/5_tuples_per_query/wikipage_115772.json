@@ -1,0 +1,26 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Warminster_Line"
+        ],
+        [
+            "http://dbpedia.org/resource/Fern_Rock_Transportation_Center",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Philadelphia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cheltenham_Township,_Pennsylvania",
+            "http://dbpedia.org/resource/Montgomery_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Cheltenham_Township,_Pennsylvania",
+            "http://dbpedia.org/resource/Montgomery_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Jenkintown,_Pennsylvania",
+            "http://dbpedia.org/resource/Montgomery_County,_Pennsylvania"
+        ]
+    ]
+}

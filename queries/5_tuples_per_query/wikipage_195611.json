@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sri_Lanka",
+            "http://dbpedia.org/resource/Sirimavo_Bandaranaike",
+            "http://dbpedia.org/resource/Prime_Minister_of_Sri_Lanka"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Kwame_Nkrumah",
+            "http://dbpedia.org/resource/President_of_Ghana"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Jomo_Kenyatta",
+            "http://dbpedia.org/resource/Prime_Minister_of_Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/Malawi",
+            "http://dbpedia.org/resource/Hastings_Banda",
+            "http://dbpedia.org/resource/Prime_Minister_of_Malawi"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Tunku_Abdul_Rahman",
+            "http://dbpedia.org/resource/Prime_Minister_of_Malaysia"
+        ]
+    ]
+}

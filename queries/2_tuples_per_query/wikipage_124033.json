@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Golden_Gophers_football",
+            "http://dbpedia.org/resource/Wisconsin_Badgers_football",
+            "http://dbpedia.org/resource/Big_Ten_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels_football",
+            "http://dbpedia.org/resource/Virginia_Cavaliers_football",
+            "http://dbpedia.org/resource/Atlantic_Coast_Conference"
+        ]
+    ]
+}

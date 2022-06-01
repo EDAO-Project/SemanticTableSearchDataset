@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lauenensee",
+            "http://dbpedia.org/resource/Lauenen",
+            "http://dbpedia.org/resource/Canton_of_Bern"
+        ],
+        [
+            "http://dbpedia.org/resource/Jaun_Pass",
+            "http://dbpedia.org/resource/Boltigen",
+            "http://dbpedia.org/resource/Canton_of_Bern"
+        ],
+        [
+            "http://dbpedia.org/resource/Garichtisee",
+            "http://dbpedia.org/resource/Schwanden,_Glarus",
+            "http://dbpedia.org/resource/Canton_of_Glarus"
+        ],
+        [
+            "http://dbpedia.org/resource/Tuetenseeli",
+            "http://dbpedia.org/resource/Menznau",
+            "http://dbpedia.org/resource/Canton_of_Lucerne"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotsee",
+            "http://dbpedia.org/resource/Ebikon",
+            "http://dbpedia.org/resource/Canton_of_Lucerne"
+        ]
+    ]
+}

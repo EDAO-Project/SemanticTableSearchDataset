@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nanjing",
+            "http://dbpedia.org/resource/East_China",
+            "http://dbpedia.org/resource/Jiangsu",
+            "http://dbpedia.org/resource/Xuanwu_District,_Nanjing"
+        ],
+        [
+            "http://dbpedia.org/resource/Qingdao",
+            "http://dbpedia.org/resource/East_China",
+            "http://dbpedia.org/resource/Shandong",
+            "http://dbpedia.org/resource/Shinan_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Guangzhou",
+            "http://dbpedia.org/resource/South_Central_China",
+            "http://dbpedia.org/resource/Guangdong",
+            "http://dbpedia.org/resource/Yuexiu_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Harbin",
+            "http://dbpedia.org/resource/Northeast_China",
+            "http://dbpedia.org/resource/Heilongjiang",
+            "http://dbpedia.org/resource/Nangang_District,_Harbin"
+        ],
+        [
+            "http://dbpedia.org/resource/Dalian",
+            "http://dbpedia.org/resource/Northeast_China",
+            "http://dbpedia.org/resource/Liaoning",
+            "http://dbpedia.org/resource/Xigang_District"
+        ]
+    ]
+}

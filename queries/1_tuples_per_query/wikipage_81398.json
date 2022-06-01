@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aughrim_County_Ground",
+            "http://dbpedia.org/resource/Wicklow_GAA",
+            "http://dbpedia.org/resource/Carlow_GAA"
+        ]
+    ]
+}

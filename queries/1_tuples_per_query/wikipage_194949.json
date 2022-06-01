@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Premio_Lo_Nuestro_1990",
+            "http://dbpedia.org/resource/La_Incondicional",
+            "http://dbpedia.org/resource/Luis_Miguel"
+        ]
+    ]
+}

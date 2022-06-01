@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1938_Amateur_World_Series",
+            "http://dbpedia.org/resource/Great_Britain",
+            "http://dbpedia.org/resource/United_States_national_baseball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Amateur_World_Series",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/United_States_national_baseball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Amateur_World_Series",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/South_Korea_national_baseball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Amateur_World_Series",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/South_Korea_national_baseball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Amateur_World_Series",
+            "http://dbpedia.org/resource/Havana",
+            "http://dbpedia.org/resource/Chinese_Taipei_national_baseball_team"
+        ]
+    ]
+}

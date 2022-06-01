@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yad_Vashem",
+            "http://dbpedia.org/resource/Jerusalem",
+            "http://dbpedia.org/resource/The_Holocaust"
+        ]
+    ]
+}

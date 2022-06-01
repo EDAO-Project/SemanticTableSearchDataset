@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rungrado_1st_of_May_Stadium",
+            "http://dbpedia.org/resource/Pyongyang",
+            "http://dbpedia.org/resource/North_Korea",
+            "http://dbpedia.org/resource/North_Korea_national_football_team",
+            "http://dbpedia.org/resource/Association_football"
+        ],
+        [
+            "http://dbpedia.org/resource/Salt_Lake_Stadium",
+            "http://dbpedia.org/resource/Kolkata",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/India_national_football_team",
+            "http://dbpedia.org/resource/Association_football"
+        ]
+    ]
+}

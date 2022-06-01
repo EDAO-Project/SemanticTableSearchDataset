@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Intertoto_Cup",
+            "http://dbpedia.org/resource/UEFA_Intertoto_Cup",
+            "http://dbpedia.org/resource/Aarhus_Gymnastikforening"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Intertoto_Cup",
+            "http://dbpedia.org/resource/UEFA_Intertoto_Cup",
+            "http://dbpedia.org/resource/Dynamo_Dresden"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Intertoto_Cup",
+            "http://dbpedia.org/resource/UEFA_Intertoto_Cup",
+            "http://dbpedia.org/resource/FC_Lausanne-Sport"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Intertoto_Cup",
+            "http://dbpedia.org/resource/UEFA_Intertoto_Cup",
+            "http://dbpedia.org/resource/Olympique_de_Marseille"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Intertoto_Cup",
+            "http://dbpedia.org/resource/UEFA_Intertoto_Cup",
+            "http://dbpedia.org/resource/MSV_Duisburg"
+        ]
+    ]
+}

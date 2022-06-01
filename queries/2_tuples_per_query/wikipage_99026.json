@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Honda_Civic",
+            "http://dbpedia.org/resource/Gabriele_Tarquini"
+        ],
+        [
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Honda_Civic",
+            "http://dbpedia.org/resource/Ricardo_Risatti"
+        ]
+    ]
+}

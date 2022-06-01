@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/Miguel_Batista",
+            "http://dbpedia.org/resource/Clay_Hensley",
+            "http://dbpedia.org/resource/Bobby_Parnell"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/R.A._Dickey",
+            "http://dbpedia.org/resource/Brad_Hand",
+            "http://dbpedia.org/resource/Manny_Acosta"
+        ]
+    ]
+}

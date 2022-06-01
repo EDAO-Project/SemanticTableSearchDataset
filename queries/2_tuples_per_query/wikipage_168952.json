@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ollie_Matson",
+            "http://dbpedia.org/resource/Arizona_Cardinals",
+            "http://dbpedia.org/resource/Sport_of_athletics",
+            "http://dbpedia.org/resource/1952_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Hayes",
+            "http://dbpedia.org/resource/Dallas_Cowboys",
+            "http://dbpedia.org/resource/Sport_of_athletics",
+            "http://dbpedia.org/resource/1964_Summer_Olympics"
+        ]
+    ]
+}

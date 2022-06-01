@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Budweiser",
+            "http://dbpedia.org/resource/Budweiser_Clydesdales",
+            "http://dbpedia.org/resource/American_football"
+        ]
+    ]
+}

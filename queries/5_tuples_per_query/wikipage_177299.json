@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joe_Agler",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/1915_Baltimore_Terrapins_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_Bender",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/1915_Baltimore_Terrapins_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Medric_Boucher",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/1914_Baltimore_Terrapins_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Felix_Chouinard",
+            "http://dbpedia.org/resource/Left_fielder",
+            "http://dbpedia.org/resource/1914_Baltimore_Terrapins_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Snipe_Conley",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/1914_Baltimore_Terrapins_season"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avon_and_Somerset_Constabulary",
+            "http://dbpedia.org/resource/Somerset",
+            "http://dbpedia.org/resource/England_and_Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Bedfordshire_Police",
+            "http://dbpedia.org/resource/Borough_of_Bedford",
+            "http://dbpedia.org/resource/England_and_Wales"
+        ]
+    ]
+}

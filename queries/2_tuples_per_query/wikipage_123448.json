@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1896_Summer_Olympics",
+            "http://dbpedia.org/resource/Athens",
+            "http://dbpedia.org/resource/George_I_of_Greece",
+            "http://dbpedia.org/resource/List_of_kings_of_Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/1904_Summer_Olympics",
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/David_R._Francis",
+            "http://dbpedia.org/resource/Louisiana_Purchase_Exposition"
+        ]
+    ]
+}

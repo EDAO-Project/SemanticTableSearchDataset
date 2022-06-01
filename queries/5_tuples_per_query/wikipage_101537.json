@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southwark_Bridge",
+            "http://dbpedia.org/resource/Queen_Street,_London",
+            "http://dbpedia.org/resource/Bankside"
+        ],
+        [
+            "http://dbpedia.org/resource/Vauxhall_Bridge",
+            "http://dbpedia.org/resource/Pimlico",
+            "http://dbpedia.org/resource/Vauxhall"
+        ],
+        [
+            "http://dbpedia.org/resource/Chelsea_Bridge",
+            "http://dbpedia.org/resource/Chelsea,_London",
+            "http://dbpedia.org/resource/Battersea"
+        ],
+        [
+            "http://dbpedia.org/resource/Battersea_Railway_Bridge",
+            "http://dbpedia.org/resource/Imperial_Wharf_railway_station",
+            "http://dbpedia.org/resource/Clapham_Junction_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Wandsworth_Bridge",
+            "http://dbpedia.org/resource/Fulham",
+            "http://dbpedia.org/resource/Wandsworth"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gyeongguksa",
+            "http://dbpedia.org/resource/Jeongneung-dong",
+            "http://dbpedia.org/resource/Jogye_Order"
+        ],
+        [
+            "http://dbpedia.org/resource/Geumseonsa",
+            "http://dbpedia.org/resource/Gugi-dong",
+            "http://dbpedia.org/resource/Jogye_Order"
+        ]
+    ]
+}

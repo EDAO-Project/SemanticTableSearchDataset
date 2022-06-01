@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johan_Gadolin",
+            "http://dbpedia.org/resource/Finns",
+            "http://dbpedia.org/resource/Gadolinium"
+        ]
+    ]
+}

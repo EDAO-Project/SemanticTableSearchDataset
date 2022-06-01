@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Texas_Chainsaw_Massacre:_The_Beginning",
+            "http://dbpedia.org/resource/New_Line_Cinema",
+            "http://dbpedia.org/resource/Andrew_Bryniarski"
+        ],
+        [
+            "http://dbpedia.org/resource/Trailer_Park_Boys:_The_Movie",
+            "http://dbpedia.org/resource/Alliance_Atlantis",
+            "http://dbpedia.org/resource/John_Paul_Tremblay"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamilton_Mountain",
+            "http://dbpedia.org/resource/Ian_Deans",
+            "http://dbpedia.org/resource/New_Democratic_Party"
+        ]
+    ]
+}

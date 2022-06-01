@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1980_IBF_World_Championships",
+            "http://dbpedia.org/resource/Jakarta",
+            "http://dbpedia.org/resource/Indonesia"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_IBF_World_Championships",
+            "http://dbpedia.org/resource/Copenhagen",
+            "http://dbpedia.org/resource/Denmark"
+        ]
+    ]
+}

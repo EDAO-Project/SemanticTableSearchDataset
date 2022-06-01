@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ankenesstranda",
+            "http://dbpedia.org/resource/Narvik",
+            "http://dbpedia.org/resource/Ofoten"
+        ],
+        [
+            "http://dbpedia.org/resource/Beisfjord",
+            "http://dbpedia.org/resource/Narvik",
+            "http://dbpedia.org/resource/Ofoten"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_District_Court_for_the_Northern_District_of_Alabama",
+            "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Eleventh_Circuit",
+            "http://dbpedia.org/resource/Sharon_Lovelace_Blackburn"
+        ]
+    ]
+}

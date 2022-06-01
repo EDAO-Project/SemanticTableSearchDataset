@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2013",
+            "http://dbpedia.org/resource/Naomie_Harris",
+            "http://dbpedia.org/resource/Octavia_Spencer"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2012",
+            "http://dbpedia.org/resource/Octavia_Spencer",
+            "http://dbpedia.org/resource/Kim_Wayans"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2011",
+            "http://dbpedia.org/resource/Phylicia_Rashad",
+            "http://dbpedia.org/resource/Janet_Jackson"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2008",
+            "http://dbpedia.org/resource/Viola_Davis",
+            "http://dbpedia.org/resource/Sophie_Okonedo"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2007",
+            "http://dbpedia.org/resource/Jennifer_Hudson",
+            "http://dbpedia.org/resource/Angela_Bassett"
+        ]
+    ]
+}

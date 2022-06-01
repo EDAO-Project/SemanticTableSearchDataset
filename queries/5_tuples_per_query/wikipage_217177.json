@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pulaski_Township,_Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/U.S._Route_422"
+        ],
+        [
+            "http://dbpedia.org/resource/Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pulaski_Township,_Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Former_state_routes_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pulaski_Township,_Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Route_551"
+        ],
+        [
+            "http://dbpedia.org/resource/Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pulaski_Township,_Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Route_551"
+        ],
+        [
+            "http://dbpedia.org/resource/Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pulaski_Township,_Lawrence_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Interstate_376"
+        ]
+    ]
+}

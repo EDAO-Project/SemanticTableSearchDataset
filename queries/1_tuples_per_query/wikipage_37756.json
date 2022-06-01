@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pedro_Alvarez",
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Vanderbilt_Commodores_baseball"
+        ]
+    ]
+}

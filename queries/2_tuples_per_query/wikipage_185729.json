@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cyrus_Christie",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Coventry"
+        ],
+        [
+            "http://dbpedia.org/resource/Blair_Adams",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/South_Shields"
+        ]
+    ]
+}

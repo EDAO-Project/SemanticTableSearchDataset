@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Deportivo_AELU",
+            "http://dbpedia.org/resource/Lima",
+            "http://dbpedia.org/resource/Estadio_Nacional_de_Lima"
+        ],
+        [
+            "http://dbpedia.org/resource/Alianza_Lima",
+            "http://dbpedia.org/resource/Lima",
+            "http://dbpedia.org/resource/Estadio_Alejandro_Villanueva"
+        ],
+        [
+            "http://dbpedia.org/resource/FBC_Aurora",
+            "http://dbpedia.org/resource/Arequipa",
+            "http://dbpedia.org/resource/Estadio_Melgar"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlos_A._Mannucci",
+            "http://dbpedia.org/resource/Trujillo,_Peru",
+            "http://dbpedia.org/resource/Estadio_Mansiche"
+        ],
+        [
+            "http://dbpedia.org/resource/Cienciano",
+            "http://dbpedia.org/resource/Cusco",
+            "http://dbpedia.org/resource/Estadio_Garcilaso"
+        ]
+    ]
+}

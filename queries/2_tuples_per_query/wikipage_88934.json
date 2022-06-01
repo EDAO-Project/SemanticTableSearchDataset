@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prince_Frederick,_Duke_of_York_and_Albany",
+            "http://dbpedia.org/resource/Princess_Frederica_Charlotte_of_Prussia",
+            "http://dbpedia.org/resource/The_London_Gazette"
+        ],
+        [
+            "http://dbpedia.org/resource/Victoria,_Princess_Royal",
+            "http://dbpedia.org/resource/Frederick_III,_German_Emperor",
+            "http://dbpedia.org/resource/The_London_Gazette"
+        ]
+    ]
+}

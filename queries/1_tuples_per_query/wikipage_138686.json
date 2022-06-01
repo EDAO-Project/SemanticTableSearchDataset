@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_Ackroyd",
+            "http://dbpedia.org/resource/Military_rank",
+            "http://dbpedia.org/resource/Royal_Army_Medical_Corps",
+            "http://dbpedia.org/resource/World_War_I"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1903_Boston_Americans_season",
+            "http://dbpedia.org/resource/World_Series",
+            "http://dbpedia.org/resource/American_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1904_Boston_Americans_season",
+            "http://dbpedia.org/resource/World_Series",
+            "http://dbpedia.org/resource/American_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1912_Boston_Red_Sox_season",
+            "http://dbpedia.org/resource/World_Series",
+            "http://dbpedia.org/resource/American_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1915_Boston_Red_Sox_season",
+            "http://dbpedia.org/resource/World_Series",
+            "http://dbpedia.org/resource/American_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1916_Boston_Red_Sox_season",
+            "http://dbpedia.org/resource/World_Series",
+            "http://dbpedia.org/resource/American_League"
+        ]
+    ]
+}

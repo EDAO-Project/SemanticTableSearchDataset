@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Martha_Roby",
+            "http://dbpedia.org/resource/Presbyterian_Church_in_America",
+            "http://dbpedia.org/resource/Montgomery,_Alabama",
+            "http://dbpedia.org/resource/New_York_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Mo_Brooks",
+            "http://dbpedia.org/resource/Nondenominational_Christianity",
+            "http://dbpedia.org/resource/Alabama_House_of_Representatives",
+            "http://dbpedia.org/resource/Duke_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Spencer_Bachus",
+            "http://dbpedia.org/resource/Southern_Baptist_Convention",
+            "http://dbpedia.org/resource/Alabama_Senate",
+            "http://dbpedia.org/resource/Auburn_University"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Schweikert",
+            "http://dbpedia.org/resource/Catholic_Church",
+            "http://dbpedia.org/resource/Arizona_House_of_Representatives",
+            "http://dbpedia.org/resource/Arizona_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Ed_Pastor",
+            "http://dbpedia.org/resource/Catholic_Church",
+            "http://dbpedia.org/resource/Maricopa_County,_Arizona",
+            "http://dbpedia.org/resource/Arizona_State_University"
+        ]
+    ]
+}

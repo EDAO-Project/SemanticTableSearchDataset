@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Izola",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Aarhus",
+            "http://dbpedia.org/resource/Dorte_Jensen",
+            "http://dbpedia.org/resource/Shirley_Robertson"
+        ]
+    ]
+}

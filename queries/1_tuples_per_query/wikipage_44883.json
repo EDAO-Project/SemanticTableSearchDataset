@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bridgeport_Covered_Bridge",
+            "http://dbpedia.org/resource/French_Corral,_California",
+            "http://dbpedia.org/resource/Nevada_County,_California",
+            "http://dbpedia.org/resource/Covered_bridge"
+        ]
+    ]
+}

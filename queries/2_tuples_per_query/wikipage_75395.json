@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nine_Mile_Canyon",
+            "http://dbpedia.org/resource/Wellington,_Utah",
+            "http://dbpedia.org/resource/Nine_Mile_Canyon"
+        ],
+        [
+            "http://dbpedia.org/resource/Nine_Mile_Canyon",
+            "http://dbpedia.org/resource/Wellington,_Utah",
+            "http://dbpedia.org/resource/Nine_Mile_Canyon"
+        ]
+    ]
+}

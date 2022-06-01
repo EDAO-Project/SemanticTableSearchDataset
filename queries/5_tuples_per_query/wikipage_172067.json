@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Vladimir_Samsonov",
+            "http://dbpedia.org/resource/Wang_Liqin",
+            "http://dbpedia.org/resource/Zoran_Primorac"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Vladimir_Samsonov",
+            "http://dbpedia.org/resource/Wang_Liqin",
+            "http://dbpedia.org/resource/Jean-Michel_Saive"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/Wang_Liqin",
+            "http://dbpedia.org/resource/Liu_Guoliang",
+            "http://dbpedia.org/resource/Jan-Ove_Waldner"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/Wang_Liqin",
+            "http://dbpedia.org/resource/Liu_Guoliang",
+            "http://dbpedia.org/resource/Kong_Linghui"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Liu_Guozheng",
+            "http://dbpedia.org/resource/Kong_Linghui",
+            "http://dbpedia.org/resource/Chiang_Peng-lung"
+        ]
+    ]
+}

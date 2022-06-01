@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Deccan_Chargers",
+            "http://dbpedia.org/resource/Dr._Y.S._Rajasekhara_Reddy_ACA-VDCA_Cricket_Stadium",
+            "http://dbpedia.org/resource/Ravindra_Jadeja"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Challengers_Bangalore",
+            "http://dbpedia.org/resource/M._A._Chidambaram_Stadium",
+            "http://dbpedia.org/resource/Faf_du_Plessis"
+        ]
+    ]
+}

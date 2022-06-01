@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agdenes",
+            "http://dbpedia.org/resource/Lensvik_Church",
+            "http://dbpedia.org/resource/Lensvik"
+        ],
+        [
+            "http://dbpedia.org/resource/Agdenes",
+            "http://dbpedia.org/resource/Ingdalen_Chapel",
+            "http://dbpedia.org/resource/Ingdalen"
+        ],
+        [
+            "http://dbpedia.org/resource/Hemne",
+            "http://dbpedia.org/resource/Heim_Church",
+            "http://dbpedia.org/resource/Heim,_Norway"
+        ],
+        [
+            "http://dbpedia.org/resource/Hitra",
+            "http://dbpedia.org/resource/Fillan_Church",
+            "http://dbpedia.org/resource/Fillan,_Norway"
+        ],
+        [
+            "http://dbpedia.org/resource/Hitra",
+            "http://dbpedia.org/resource/Forsnes_Chapel",
+            "http://dbpedia.org/resource/Forsnes"
+        ]
+    ]
+}

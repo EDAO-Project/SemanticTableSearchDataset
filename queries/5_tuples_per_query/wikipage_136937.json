@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hiram_Fong",
+            "http://dbpedia.org/resource/86th_United_States_Congress",
+            "http://dbpedia.org/resource/86th_United_States_Congress",
+            "http://dbpedia.org/resource/86th_United_States_Congress",
+            "http://dbpedia.org/resource/Oren_E._Long"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiram_Fong",
+            "http://dbpedia.org/resource/87th_United_States_Congress",
+            "http://dbpedia.org/resource/87th_United_States_Congress",
+            "http://dbpedia.org/resource/87th_United_States_Congress",
+            "http://dbpedia.org/resource/Oren_E._Long"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiram_Fong",
+            "http://dbpedia.org/resource/88th_United_States_Congress",
+            "http://dbpedia.org/resource/88th_United_States_Congress",
+            "http://dbpedia.org/resource/88th_United_States_Congress",
+            "http://dbpedia.org/resource/Daniel_Inouye"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiram_Fong",
+            "http://dbpedia.org/resource/89th_United_States_Congress",
+            "http://dbpedia.org/resource/89th_United_States_Congress",
+            "http://dbpedia.org/resource/89th_United_States_Congress",
+            "http://dbpedia.org/resource/Daniel_Inouye"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiram_Fong",
+            "http://dbpedia.org/resource/90th_United_States_Congress",
+            "http://dbpedia.org/resource/90th_United_States_Congress",
+            "http://dbpedia.org/resource/90th_United_States_Congress",
+            "http://dbpedia.org/resource/Daniel_Inouye"
+        ]
+    ]
+}

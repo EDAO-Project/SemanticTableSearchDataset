@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spiro_Agnew",
+            "http://dbpedia.org/resource/Maryland",
+            "http://dbpedia.org/resource/Nolo_contendere"
+        ]
+    ]
+}

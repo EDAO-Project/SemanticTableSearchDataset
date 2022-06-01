@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/West_Germany"
+        ]
+    ]
+}

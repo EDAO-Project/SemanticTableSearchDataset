@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/North_Richland_Hills,_Texas",
+            "http://dbpedia.org/resource/Mesa,_Arizona",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/Las_Vegas_Valley"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Richland_Hills,_Texas",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Mesa,_Arizona",
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/Las_Vegas_Valley"
+        ]
+    ]
+}

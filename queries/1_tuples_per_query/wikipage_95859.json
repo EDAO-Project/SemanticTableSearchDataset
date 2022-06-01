@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Reginald_Keeling",
+            "http://dbpedia.org/resource/New_Zealand_general_election,_1949",
+            "http://dbpedia.org/resource/Grey_Lynn_by-election,_1963"
+        ]
+    ]
+}

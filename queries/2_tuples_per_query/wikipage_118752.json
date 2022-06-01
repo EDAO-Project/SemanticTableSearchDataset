@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_38",
+            "http://dbpedia.org/resource/New_York_State_Route_13",
+            "http://dbpedia.org/resource/New_York_State_Route_5"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_126",
+            "http://dbpedia.org/resource/New_York_State_Route_12",
+            "http://dbpedia.org/resource/New_York_State_Route_3"
+        ]
+    ]
+}

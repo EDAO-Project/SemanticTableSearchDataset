@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Perth",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Perth_Entertainment_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Adelaide",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Adelaide_Entertainment_Centre"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_NFL_season",
+            "http://dbpedia.org/resource/Cincinnati_Bengals",
+            "http://dbpedia.org/resource/Minnesota_Vikings",
+            "http://dbpedia.org/resource/Monday_Night_Football"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrea_Chiurato",
+            "http://dbpedia.org/resource/Rosario_Fina",
+            "http://dbpedia.org/resource/Rossano_Brasi"
+        ],
+        [
+            "http://dbpedia.org/resource/Massimiliano_Lelli",
+            "http://dbpedia.org/resource/Andrea_Chiurato",
+            "http://dbpedia.org/resource/Luca_Scinto"
+        ]
+    ]
+}

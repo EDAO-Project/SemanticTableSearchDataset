@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Phelps",
+            "http://dbpedia.org/resource/United_States_at_the_2008_Summer_Olympics",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Phelps",
+            "http://dbpedia.org/resource/United_States_at_the_2004_Summer_Olympics",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Dityatin",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1980_Summer_Olympics",
+            "http://dbpedia.org/resource/Gymnastics_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Spitz",
+            "http://dbpedia.org/resource/United_States_at_the_1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Biondi",
+            "http://dbpedia.org/resource/United_States_at_the_1988_Summer_Olympics",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics"
+        ]
+    ]
+}

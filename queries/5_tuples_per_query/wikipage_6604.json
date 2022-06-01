@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Arkansas",
+            "http://dbpedia.org/resource/J._William_Fulbright",
+            "http://dbpedia.org/resource/Dale_Bumpers"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Colorado",
+            "http://dbpedia.org/resource/Peter_H._Dominick",
+            "http://dbpedia.org/resource/Gary_Hart"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Iowa",
+            "http://dbpedia.org/resource/Harold_Hughes",
+            "http://dbpedia.org/resource/John_Culver"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Kentucky",
+            "http://dbpedia.org/resource/Marlow_Cook",
+            "http://dbpedia.org/resource/Wendell_H._Ford"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Nevada,_1974",
+            "http://dbpedia.org/resource/Alan_Bible",
+            "http://dbpedia.org/resource/Paul_Laxalt"
+        ]
+    ]
+}

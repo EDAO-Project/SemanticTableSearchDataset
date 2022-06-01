@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adobe_Captivate",
+            "http://dbpedia.org/resource/Adobe_Systems",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ]
+    ]
+}

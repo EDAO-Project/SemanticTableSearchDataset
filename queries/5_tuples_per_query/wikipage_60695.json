@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/Glen_Perkins",
+            "http://dbpedia.org/resource/Gil_Meche",
+            "http://dbpedia.org/resource/Joe_Nathan"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/Mark_Buehrle",
+            "http://dbpedia.org/resource/Bruce_Chen",
+            "http://dbpedia.org/resource/Bobby_Jenks"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/John_Danks",
+            "http://dbpedia.org/resource/Zack_Greinke",
+            "http://dbpedia.org/resource/Scott_Linebrink"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/Luke_Hochevar",
+            "http://dbpedia.org/resource/Gavin_Floyd",
+            "http://dbpedia.org/resource/Joakim_Soria"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/Brian_Bannister",
+            "http://dbpedia.org/resource/Clayton_Richard",
+            "http://dbpedia.org/resource/Joakim_Soria"
+        ]
+    ]
+}

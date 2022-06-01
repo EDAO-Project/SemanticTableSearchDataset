@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arcadia_Plantation",
+            "http://dbpedia.org/resource/U.S._Route_17",
+            "http://dbpedia.org/resource/Georgetown,_South_Carolina"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aleksander_Klumberg",
+            "http://dbpedia.org/resource/Estonia",
+            "http://dbpedia.org/resource/Helsinki"
+        ]
+    ]
+}

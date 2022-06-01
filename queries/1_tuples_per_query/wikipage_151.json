@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marques_Bragg",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Providence_College",
+            "http://dbpedia.org/resource/Basketball_positions"
+        ]
+    ]
+}

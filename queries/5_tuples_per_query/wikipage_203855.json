@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Autodelta",
+            "http://dbpedia.org/resource/Piers_Courage",
+            "http://dbpedia.org/resource/Alfa_Romeo_Tipo_33",
+            "http://dbpedia.org/resource/Alfa_Romeo_in_motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Autodelta",
+            "http://dbpedia.org/resource/Nanni_Galli",
+            "http://dbpedia.org/resource/Alfa_Romeo_Tipo_33",
+            "http://dbpedia.org/resource/Alfa_Romeo_in_motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Wyer",
+            "http://dbpedia.org/resource/Jo_Siffert",
+            "http://dbpedia.org/resource/Porsche_917",
+            "http://dbpedia.org/resource/Porsche"
+        ],
+        [
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Jacky_Ickx",
+            "http://dbpedia.org/resource/Ferrari_512",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Scuderia_Filipinetti",
+            "http://dbpedia.org/resource/Giampiero_Moretti",
+            "http://dbpedia.org/resource/Ferrari_512",
+            "http://dbpedia.org/resource/Ferrari"
+        ]
+    ]
+}

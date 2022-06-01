@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Volcanic_Creek_Cone",
+            "http://dbpedia.org/resource/Cinder_cone",
+            "http://dbpedia.org/resource/Holocene"
+        ],
+        [
+            "http://dbpedia.org/resource/Cracker_Creek_Cone",
+            "http://dbpedia.org/resource/Cinder_cone",
+            "http://dbpedia.org/resource/Quaternary"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruby_Mountain",
+            "http://dbpedia.org/resource/Cinder_cone",
+            "http://dbpedia.org/resource/History"
+        ],
+        [
+            "http://dbpedia.org/resource/Iverson_Creek_Volcano",
+            "http://dbpedia.org/resource/Outcrop",
+            "http://dbpedia.org/resource/Pleistocene"
+        ],
+        [
+            "http://dbpedia.org/resource/Toozaza_Peak",
+            "http://dbpedia.org/resource/Tuya",
+            "http://dbpedia.org/resource/Pleistocene"
+        ]
+    ]
+}

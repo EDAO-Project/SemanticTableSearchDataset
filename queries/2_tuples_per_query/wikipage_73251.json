@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WOCK-CD",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/MundoMax"
+        ],
+        [
+            "http://dbpedia.org/resource/WFXZ-CD",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/MundoMax"
+        ]
+    ]
+}

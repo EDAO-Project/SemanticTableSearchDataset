@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appleseed_Ex_Machina",
+            "http://dbpedia.org/resource/Shinji_Aramaki",
+            "http://dbpedia.org/resource/Digital_Frontier"
+        ],
+        [
+            "http://dbpedia.org/resource/Bee_Movie",
+            "http://dbpedia.org/resource/Simon_J._Smith",
+            "http://dbpedia.org/resource/DreamWorks_Animation"
+        ]
+    ]
+}

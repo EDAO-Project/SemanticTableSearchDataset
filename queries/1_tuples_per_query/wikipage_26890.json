@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Earl_Webb",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/1931_in_baseball"
+        ]
+    ]
+}

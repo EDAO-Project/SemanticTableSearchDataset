@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kinetoscope",
+            "http://dbpedia.org/resource/William_Kennedy_Dickson",
+            "http://dbpedia.org/resource/Monkeyshines"
+        ],
+        [
+            "http://dbpedia.org/resource/Kinetoscope",
+            "http://dbpedia.org/resource/William_Kennedy_Dickson",
+            "http://dbpedia.org/resource/Dickson_Greeting"
+        ],
+        [
+            "http://dbpedia.org/resource/Silent_film",
+            "http://dbpedia.org/resource/William_Kennedy_Dickson",
+            "http://dbpedia.org/resource/Blacksmith_Scene"
+        ],
+        [
+            "http://dbpedia.org/resource/Fox_Film",
+            "http://dbpedia.org/resource/Freeman_Harrison_Owens",
+            "http://dbpedia.org/resource/Sunrise:_A_Song_of_Two_Humans"
+        ],
+        [
+            "http://dbpedia.org/resource/70_mm_Grandeur_film",
+            "http://dbpedia.org/resource/Fox_Film",
+            "http://dbpedia.org/resource/Fox_Movietone_Follies_of_1929"
+        ]
+    ]
+}

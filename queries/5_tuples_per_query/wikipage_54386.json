@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_in_film",
+            "http://dbpedia.org/resource/Melina_Mercouri",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actress",
+            "http://dbpedia.org/resource/Never_on_Sunday",
+            "http://dbpedia.org/resource/Greek_language"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_in_film",
+            "http://dbpedia.org/resource/Sophia_Loren",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actress",
+            "http://dbpedia.org/resource/Two_Women",
+            "http://dbpedia.org/resource/Italian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_in_film",
+            "http://dbpedia.org/resource/Marcello_Mastroianni",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actor",
+            "http://dbpedia.org/resource/Divorce_Italian_Style",
+            "http://dbpedia.org/resource/Italian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_in_film",
+            "http://dbpedia.org/resource/Sophia_Loren",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actress",
+            "http://dbpedia.org/resource/Marriage_Italian_Style",
+            "http://dbpedia.org/resource/Italian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_in_film",
+            "http://dbpedia.org/resource/Robert_De_Niro",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actor",
+            "http://dbpedia.org/resource/The_Godfather_Part_II",
+            "http://dbpedia.org/resource/Italian_language"
+        ]
+    ]
+}

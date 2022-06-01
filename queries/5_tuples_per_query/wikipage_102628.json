@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Rick_Monday",
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Steve_Chilcott",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Antelope_Valley_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Ron_Blomberg",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Druid_Hills_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Mike_Ivie",
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/McNair_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Bill_Almon",
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Brown_Bears"
+        ]
+    ]
+}

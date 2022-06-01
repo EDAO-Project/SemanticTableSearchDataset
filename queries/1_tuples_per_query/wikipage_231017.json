@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1938",
+            "http://dbpedia.org/resource/Olaf_Hoffsbakken",
+            "http://dbpedia.org/resource/John_Westbergh",
+            "http://dbpedia.org/resource/Hans_Vinjarengen"
+        ]
+    ]
+}

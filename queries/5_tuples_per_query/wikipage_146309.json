@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balnot-la-Grange",
+            "http://dbpedia.org/resource/Balnot-sur-Laignes",
+            "http://dbpedia.org/resource/Bar-sur-Seine",
+            "http://dbpedia.org/resource/Barberey-Saint-Sulpice"
+        ],
+        [
+            "http://dbpedia.org/resource/Bercenay-en-Othe",
+            "http://dbpedia.org/resource/Bernon",
+            "http://dbpedia.org/resource/Bertignolles",
+            "http://dbpedia.org/resource/Beurey"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouilly,_Aube",
+            "http://dbpedia.org/resource/Bouranton",
+            "http://dbpedia.org/resource/Bourguignons",
+            "http://dbpedia.org/resource/Bouy-Luxembourg"
+        ],
+        [
+            "http://dbpedia.org/resource/Chamoy",
+            "http://dbpedia.org/resource/Champigny-sur-Aube",
+            "http://dbpedia.org/resource/Channes",
+            "http://dbpedia.org/resource/Chaource"
+        ],
+        [
+            "http://dbpedia.org/resource/Chappes,_Aube",
+            "http://dbpedia.org/resource/Charmont-sous-Barbuise",
+            "http://dbpedia.org/resource/Chaserey",
+            "http://dbpedia.org/resource/Chaudrey"
+        ]
+    ]
+}

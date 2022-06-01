@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benny_Anders",
+            "http://dbpedia.org/resource/Bernice,_Louisiana",
+            "http://dbpedia.org/resource/Bernice,_Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Conroe,_Texas",
+            "http://dbpedia.org/resource/Conroe_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Conroe,_Texas",
+            "http://dbpedia.org/resource/Conroe_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Clyde_Drexler",
+            "http://dbpedia.org/resource/Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Marque,_Texas",
+            "http://dbpedia.org/resource/La_Marque_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Reid_Gettys",
+            "http://dbpedia.org/resource/Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/Larry_Micheaux",
+            "http://dbpedia.org/resource/Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/Hakeem_Olajuwon",
+            "http://dbpedia.org/resource/Lagos"
+        ],
+        [
+            "http://dbpedia.org/resource/Alvin,_Texas",
+            "http://dbpedia.org/resource/Alvin_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/Northbrook_High_School"
+        ]
+    ]
+}

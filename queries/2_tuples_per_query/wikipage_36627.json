@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Alabama_Department_of_Education",
+            "http://dbpedia.org/resource/Alabama_High_School_Graduation_Exam"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Colorado_Department_of_Education",
+            "http://dbpedia.org/resource/Colorado_Student_Assessment_Program"
+        ]
+    ]
+}

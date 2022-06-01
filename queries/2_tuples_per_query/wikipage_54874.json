@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gelora_Bung_Karno_Stadium",
+            "http://dbpedia.org/resource/Jakarta",
+            "http://dbpedia.org/resource/Indonesia_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Palaran_Stadium",
+            "http://dbpedia.org/resource/Samarinda",
+            "http://dbpedia.org/resource/2008_Pekan_Olahraga_Nasional"
+        ]
+    ]
+}

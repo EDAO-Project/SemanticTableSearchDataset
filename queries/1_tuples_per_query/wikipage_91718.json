@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cal_Poly_Mustangs",
+            "http://dbpedia.org/resource/California_Polytechnic_State_University",
+            "http://dbpedia.org/resource/San_Luis_Obispo,_California",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ]
+    ]
+}

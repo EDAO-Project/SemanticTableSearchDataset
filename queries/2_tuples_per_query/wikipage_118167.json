@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acton_Vale_railway_station",
+            "http://dbpedia.org/resource/Acton_Vale,_Quebec",
+            "http://dbpedia.org/resource/Grand_Trunk_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Common_Era",
+            "http://dbpedia.org/resource/Gallichan,_Quebec",
+            "http://dbpedia.org/resource/Abitibiwinni_First_Nation"
+        ]
+    ]
+}

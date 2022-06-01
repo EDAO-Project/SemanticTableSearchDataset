@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antigua_and_Barbuda",
+            "http://dbpedia.org/resource/Majesty",
+            "http://dbpedia.org/resource/House_of_Windsor"
+        ]
+    ]
+}

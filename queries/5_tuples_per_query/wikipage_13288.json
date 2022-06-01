@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Elliott",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Junior_Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Kulwicki",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/AK_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoff_Bodine",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Bud_Moore_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Spencer",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Bobby_Allison"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Labonte",
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Billy_Hagan"
+        ]
+    ]
+}

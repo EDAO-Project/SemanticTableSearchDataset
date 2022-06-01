@@ -1,0 +1,28 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Independent_city",
+            "http://dbpedia.org/resource/Independent_city",
+            "http://dbpedia.org/resource/Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Potomac_River",
+            "http://dbpedia.org/resource/Potomac_River",
+            "http://dbpedia.org/resource/Woodrow_Wilson_Bridge",
+            "http://dbpedia.org/resource/Woodrow_Wilson_Bridge",
+            "http://dbpedia.org/resource/Woodrow_Wilson_Bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Largo,_Maryland",
+            "http://dbpedia.org/resource/Capitol_Heights,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Largo,_Maryland",
+            "http://dbpedia.org/resource/Maryland_Route_202"
+        ],
+        [
+            "http://dbpedia.org/resource/Greenbelt,_Maryland",
+            "http://dbpedia.org/resource/Greenbelt_station"
+        ]
+    ]
+}

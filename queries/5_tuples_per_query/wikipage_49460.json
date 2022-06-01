@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darin_Erstad",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerry_Wood",
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Grand_Prairie,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Ariel_Prieto",
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Palm_Springs,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Todd_Helton",
+            "http://dbpedia.org/resource/Colorado_Rockies",
+            "http://dbpedia.org/resource/University_of_Tennessee"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoff_Jenkins",
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/University_of_Southern_California"
+        ]
+    ]
+}

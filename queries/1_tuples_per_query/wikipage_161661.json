@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eastern_crested_toad",
+            "http://dbpedia.org/resource/Forest",
+            "http://dbpedia.org/resource/Dominican_Republic"
+        ]
+    ]
+}

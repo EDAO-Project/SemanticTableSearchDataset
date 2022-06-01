@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/Auckland_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotorua_International_Stadium",
+            "http://dbpedia.org/resource/Rotorua",
+            "http://dbpedia.org/resource/Bay_of_Plenty_Rugby_Union"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London_Buses_route_34",
+            "http://dbpedia.org/resource/Barnet",
+            "http://dbpedia.org/resource/Walthamstow_Central_station",
+            "http://dbpedia.org/resource/Arriva_London"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Buses_route_125",
+            "http://dbpedia.org/resource/Winchmore_Hill",
+            "http://dbpedia.org/resource/Finchley_Central_tube_station",
+            "http://dbpedia.org/resource/Arriva_London"
+        ]
+    ]
+}

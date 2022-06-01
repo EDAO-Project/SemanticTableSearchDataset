@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mankada_Ravi_Varma",
+            "http://dbpedia.org/resource/Swayamvaram",
+            "http://dbpedia.org/resource/Adoor_Gopalakrishnan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mankada_Ravi_Varma",
+            "http://dbpedia.org/resource/Uttarayanam",
+            "http://dbpedia.org/resource/G._Aravindan"
+        ]
+    ]
+}

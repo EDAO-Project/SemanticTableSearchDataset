@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/West_Point,_New_York",
+            "http://dbpedia.org/resource/Army_Black_Knights",
+            "http://dbpedia.org/resource/Patriot_League"
+        ]
+    ]
+}

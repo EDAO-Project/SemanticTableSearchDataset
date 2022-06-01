@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blandin",
+            "http://dbpedia.org/resource/Bonnefamille",
+            "http://dbpedia.org/resource/Bourgoin-Jallieu"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouvesse-Quirieu",
+            "http://dbpedia.org/resource/Brangues",
+            "http://dbpedia.org/resource/Burcin"
+        ],
+        [
+            "http://dbpedia.org/resource/Chassignieu",
+            "http://dbpedia.org/resource/Chimilin",
+            "http://dbpedia.org/resource/Chozeau"
+        ],
+        [
+            "http://dbpedia.org/resource/Moras",
+            "http://dbpedia.org/resource/Morestel",
+            "http://dbpedia.org/resource/Nivolas-Vermelle"
+        ],
+        [
+            "http://dbpedia.org/resource/Optevoz",
+            "http://dbpedia.org/resource/Oyeu",
+            "http://dbpedia.org/resource/Paladru"
+        ]
+    ]
+}

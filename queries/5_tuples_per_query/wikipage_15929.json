@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Gay_Caballero",
+            "http://dbpedia.org/resource/Otto_Brower",
+            "http://dbpedia.org/resource/Cesar_Romero",
+            "http://dbpedia.org/resource/The_Cisco_Kid"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucky_Cisco_Kid",
+            "http://dbpedia.org/resource/H._Bruce_Humberstone",
+            "http://dbpedia.org/resource/Cesar_Romero",
+            "http://dbpedia.org/resource/The_Cisco_Kid"
+        ],
+        [
+            "http://dbpedia.org/resource/Melody_Ranch",
+            "http://dbpedia.org/resource/Joseph_Santley",
+            "http://dbpedia.org/resource/Gene_Autry",
+            "http://dbpedia.org/resource/Singing_cowboy"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Phantom_Empire",
+            "http://dbpedia.org/resource/Otto_Brower",
+            "http://dbpedia.org/resource/Gene_Autry",
+            "http://dbpedia.org/resource/Weird_West"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Ranger_and_the_Lady",
+            "http://dbpedia.org/resource/Joseph_Kane",
+            "http://dbpedia.org/resource/Roy_Rogers",
+            "http://dbpedia.org/resource/Singing_cowboy"
+        ]
+    ]
+}

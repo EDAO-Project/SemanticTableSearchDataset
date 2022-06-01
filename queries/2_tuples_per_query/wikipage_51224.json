@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4th_Lok_Sabha",
+            "http://dbpedia.org/resource/Anand_Narain_Mulla",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Lok_Sabha",
+            "http://dbpedia.org/resource/Sheila_Kaul",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ]
+    ]
+}

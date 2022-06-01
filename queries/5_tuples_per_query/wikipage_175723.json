@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mongolia",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mongolia",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Mongolia"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Mongolia",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Mongolia",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

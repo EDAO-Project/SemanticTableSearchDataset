@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberavon_RFC",
+            "http://dbpedia.org/resource/Talbot_Athletic_Ground",
+            "http://dbpedia.org/resource/Aberavon"
+        ]
+    ]
+}

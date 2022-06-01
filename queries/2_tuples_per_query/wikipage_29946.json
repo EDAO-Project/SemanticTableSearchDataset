@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cronton",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Knowsley",
+            "http://dbpedia.org/resource/Whiston_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Halewood",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Knowsley",
+            "http://dbpedia.org/resource/Whiston_Rural_District"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dead_Poets_Society",
+            "http://dbpedia.org/resource/Dead_Poets_Society",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Peter_Weir"
+        ],
+        [
+            "http://dbpedia.org/resource/Goodfellas",
+            "http://dbpedia.org/resource/Goodfellas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Martin_Scorsese"
+        ]
+    ]
+}

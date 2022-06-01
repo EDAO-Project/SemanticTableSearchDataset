@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scottish_Borders",
+            "http://dbpedia.org/resource/Berwickshire",
+            "http://dbpedia.org/resource/Duns"
+        ],
+        [
+            "http://dbpedia.org/resource/Scottish_Borders",
+            "http://dbpedia.org/resource/Ettrick_and_Lauderdale",
+            "http://dbpedia.org/resource/Galashiels"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benjamin_Stoddert",
+            "http://dbpedia.org/resource/Maryland",
+            "http://dbpedia.org/resource/John_Adams"
+        ]
+    ]
+}

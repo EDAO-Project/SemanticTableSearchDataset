@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_San_Francisco_Giants_season",
+            "http://dbpedia.org/resource/Jon_Lieber",
+            "http://dbpedia.org/resource/Brad_Hennessey",
+            "http://dbpedia.org/resource/Billy_Wagner"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greek_Civil_War",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Indochina_War",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ]
+    ]
+}

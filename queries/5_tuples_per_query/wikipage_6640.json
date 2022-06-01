@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Alabama,_1986",
+            "http://dbpedia.org/resource/Jeremiah_Denton",
+            "http://dbpedia.org/resource/Richard_Shelby"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Arizona,_1986",
+            "http://dbpedia.org/resource/Barry_Goldwater",
+            "http://dbpedia.org/resource/John_McCain"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Colorado,_1986",
+            "http://dbpedia.org/resource/Gary_Hart",
+            "http://dbpedia.org/resource/Tim_Wirth"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Florida,_1986",
+            "http://dbpedia.org/resource/Paula_Hawkins",
+            "http://dbpedia.org/resource/Bob_Graham"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Georgia,_1986",
+            "http://dbpedia.org/resource/Mack_Mattingly",
+            "http://dbpedia.org/resource/Wyche_Fowler"
+        ]
+    ]
+}

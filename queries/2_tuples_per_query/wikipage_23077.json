@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bonneville_Dam",
+            "http://dbpedia.org/resource/Bonneville,_Oregon",
+            "http://dbpedia.org/resource/Multnomah_County,_Oregon",
+            "http://dbpedia.org/resource/Construction"
+        ],
+        [
+            "http://dbpedia.org/resource/Historic_Columbia_River_Highway",
+            "http://dbpedia.org/resource/Troutdale,_Oregon",
+            "http://dbpedia.org/resource/Multnomah_County,_Oregon",
+            "http://dbpedia.org/resource/Construction"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Connaught_Building",
+            "http://dbpedia.org/resource/Scottish_baronial_architecture",
+            "http://dbpedia.org/resource/Ottawa"
+        ],
+        [
+            "http://dbpedia.org/resource/Canadian_Museum_of_Nature",
+            "http://dbpedia.org/resource/Scottish_baronial_architecture",
+            "http://dbpedia.org/resource/Ottawa"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Li_Na",
+            "http://dbpedia.org/resource/Kaia_Kanepi",
+            "http://dbpedia.org/resource/Kim_Clijsters",
+            "http://dbpedia.org/resource/Venus_Williams"
+        ],
+        [
+            "http://dbpedia.org/resource/Anastasia_Pavlyuchenkova",
+            "http://dbpedia.org/resource/Victoria_Azarenka",
+            "http://dbpedia.org/resource/Flavia_Pennetta",
+            "http://dbpedia.org/resource/Alexandra_Dulgheru"
+        ],
+        [
+            "http://dbpedia.org/resource/Maria_Kirilenko",
+            "http://dbpedia.org/resource/Nadia_Petrova",
+            "http://dbpedia.org/resource/Yanina_Wickmayer",
+            "http://dbpedia.org/resource/Alona_Bondarenko"
+        ],
+        [
+            "http://dbpedia.org/resource/Kurumi_Nara",
+            "http://dbpedia.org/resource/Svetlana_Kuznetsova",
+            "http://dbpedia.org/resource/Arantxa_Parra_Santonja",
+            "http://dbpedia.org/resource/Alberta_Brianti"
+        ],
+        [
+            "http://dbpedia.org/resource/Chang_Kai-chen",
+            "http://dbpedia.org/resource/Roberta_Vinci",
+            "http://dbpedia.org/resource/Zheng_Jie",
+            "http://dbpedia.org/resource/Bojana_Jovanovski"
+        ]
+    ]
+}

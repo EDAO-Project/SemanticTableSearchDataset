@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Adelaide_Thunderbirds",
+            "http://dbpedia.org/resource/Priceline_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Melbourne_Vixens",
+            "http://dbpedia.org/resource/State_Netball_and_Hockey_Centre"
+        ]
+    ]
+}

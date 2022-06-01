@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brooklyn_Nets",
+            "http://dbpedia.org/resource/Paul_Pierce",
+            "http://dbpedia.org/resource/Kevin_Garnett",
+            "http://dbpedia.org/resource/Rajon_Rondo",
+            "http://dbpedia.org/resource/TD_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Rockets",
+            "http://dbpedia.org/resource/Paul_Pierce",
+            "http://dbpedia.org/resource/Kevin_Garnett",
+            "http://dbpedia.org/resource/Rajon_Rondo",
+            "http://dbpedia.org/resource/TD_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Trail_Blazers",
+            "http://dbpedia.org/resource/Paul_Pierce",
+            "http://dbpedia.org/resource/Kevin_Garnett",
+            "http://dbpedia.org/resource/Rajon_Rondo",
+            "http://dbpedia.org/resource/TD_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Clippers",
+            "http://dbpedia.org/resource/Paul_Pierce",
+            "http://dbpedia.org/resource/Brandon_Bass",
+            "http://dbpedia.org/resource/Rajon_Rondo",
+            "http://dbpedia.org/resource/Staples_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Golden_State_Warriors",
+            "http://dbpedia.org/resource/Kevin_Garnett",
+            "http://dbpedia.org/resource/Brandon_Bass",
+            "http://dbpedia.org/resource/Rajon_Rondo",
+            "http://dbpedia.org/resource/Oracle_Arena"
+        ]
+    ]
+}

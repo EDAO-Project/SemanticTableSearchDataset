@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sarajevo",
+            "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia",
+            "http://dbpedia.org/resource/Olympic_Hall_Juan_Antonio_Samaranch"
+        ]
+    ]
+}

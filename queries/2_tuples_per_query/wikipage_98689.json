@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kingdom_of_Albania",
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Albanian_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Principality_of_Albania",
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Ottoman_Empire"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emmanuel_Amunike",
+            "http://dbpedia.org/resource/Nigeria",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Abedi_Pele",
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Olympique_de_Marseille"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Yeboah",
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Eintracht_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Abedi_Pele",
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Olympique_de_Marseille"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Yeboah",
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Eintracht_Frankfurt"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Florian_Cazenave",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicolas_Durand",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Dewaldt_Duvenage",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/South_African_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommaso_Allan",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Scottish_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Camille_Lopez",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ]
+    ]
+}

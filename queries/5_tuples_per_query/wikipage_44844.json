@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billerica_and_Bedford_Railroad",
+            "http://dbpedia.org/resource/Boston_and_Maine_Corporation",
+            "http://dbpedia.org/resource/Boston_and_Lowell_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston,_Barre_and_Gardner_Railroad",
+            "http://dbpedia.org/resource/Boston_and_Maine_Corporation",
+            "http://dbpedia.org/resource/Fitchburg_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Agricultural_Branch_Railroad",
+            "http://dbpedia.org/resource/New_York,_New_Haven_and_Hartford_Railroad",
+            "http://dbpedia.org/resource/Boston,_Clinton,_Fitchburg_and_New_Bedford_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston,_Clinton,_Fitchburg_and_New_Bedford_Railroad",
+            "http://dbpedia.org/resource/New_York,_New_Haven_and_Hartford_Railroad",
+            "http://dbpedia.org/resource/Old_Colony_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_and_Providence_Railroad",
+            "http://dbpedia.org/resource/New_York,_New_Haven_and_Hartford_Railroad",
+            "http://dbpedia.org/resource/Penn_Central_Transportation_Company"
+        ]
+    ]
+}

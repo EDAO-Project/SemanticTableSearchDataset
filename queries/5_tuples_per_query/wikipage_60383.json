@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Helena_Rakoczy",
+            "http://dbpedia.org/resource/Anna_Petersen",
+            "http://dbpedia.org/resource/Gertrude_Kolar"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Ljubljana",
+            "http://dbpedia.org/resource/Ludmilla_Tourischeva",
+            "http://dbpedia.org/resource/Erika_Zuchold",
+            "http://dbpedia.org/resource/Zinaida_Voronina"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Varna",
+            "http://dbpedia.org/resource/Ludmilla_Tourischeva",
+            "http://dbpedia.org/resource/Olga_Korbut",
+            "http://dbpedia.org/resource/Angelika_Hellmann"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Strasbourg",
+            "http://dbpedia.org/resource/Elena_Mukhina",
+            "http://dbpedia.org/resource/Nellie_Kim",
+            "http://dbpedia.org/resource/Natalia_Shaposhnikova"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Fort_Worth,_Texas",
+            "http://dbpedia.org/resource/Nellie_Kim",
+            "http://dbpedia.org/resource/Maxi_Gnauck",
+            "http://dbpedia.org/resource/Melita_Ruhn"
+        ]
+    ]
+}

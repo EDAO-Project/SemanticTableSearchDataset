@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abdallah_al-Ajmi",
+            "http://dbpedia.org/resource/Kuwait",
+            "http://dbpedia.org/resource/Suicide_attack"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_al-Bahlul",
+            "http://dbpedia.org/resource/Yemen",
+            "http://dbpedia.org/resource/Guantanamo_military_commission"
+        ]
+    ]
+}

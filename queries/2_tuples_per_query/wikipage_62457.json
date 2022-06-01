@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_for_the_Winner",
+            "http://dbpedia.org/resource/Corey_Yuen",
+            "http://dbpedia.org/resource/Stephen_Chow"
+        ],
+        [
+            "http://dbpedia.org/resource/Bullet_in_the_Head",
+            "http://dbpedia.org/resource/John_Woo",
+            "http://dbpedia.org/resource/Tony_Leung_Chiu-wai"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pat_Ahearne",
+            "http://dbpedia.org/resource/Adelaide_Giants",
+            "http://dbpedia.org/resource/Detroit_Tigers"
+        ]
+    ]
+}

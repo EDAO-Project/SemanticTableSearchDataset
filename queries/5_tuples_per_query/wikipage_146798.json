@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_Reid",
+            "http://dbpedia.org/resource/98th_United_States_Congress",
+            "http://dbpedia.org/resource/Searchlight,_Nevada",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1982"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_Reid",
+            "http://dbpedia.org/resource/99th_United_States_Congress",
+            "http://dbpedia.org/resource/Searchlight,_Nevada",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1982"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Bilbray",
+            "http://dbpedia.org/resource/100th_United_States_Congress",
+            "http://dbpedia.org/resource/Las_Vegas",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1986"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Bilbray",
+            "http://dbpedia.org/resource/101st_United_States_Congress",
+            "http://dbpedia.org/resource/Las_Vegas",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1986"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Bilbray",
+            "http://dbpedia.org/resource/102nd_United_States_Congress",
+            "http://dbpedia.org/resource/Las_Vegas",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1986"
+        ]
+    ]
+}

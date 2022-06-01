@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clatsop_County,_Oregon",
+            "http://dbpedia.org/resource/Westport,_Oregon",
+            "http://dbpedia.org/resource/Wahkiakum_County_Ferry"
+        ]
+    ]
+}

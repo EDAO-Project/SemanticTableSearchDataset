@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FSV_Frankfurt",
+            "http://dbpedia.org/resource/1._FFC_Frankfurt",
+            "http://dbpedia.org/resource/FCR_2001_Duisburg",
+            "http://dbpedia.org/resource/Birgit_Prinz"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FFC_Frankfurt",
+            "http://dbpedia.org/resource/FCR_2001_Duisburg",
+            "http://dbpedia.org/resource/Sportfreunde_Siegen",
+            "http://dbpedia.org/resource/Inka_Grings"
+        ],
+        [
+            "http://dbpedia.org/resource/FCR_2001_Duisburg",
+            "http://dbpedia.org/resource/1._FFC_Frankfurt",
+            "http://dbpedia.org/resource/Sportfreunde_Siegen",
+            "http://dbpedia.org/resource/Inka_Grings"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FFC_Frankfurt",
+            "http://dbpedia.org/resource/1._FFC_Turbine_Potsdam",
+            "http://dbpedia.org/resource/FCR_2001_Duisburg",
+            "http://dbpedia.org/resource/Birgit_Prinz"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FFC_Frankfurt",
+            "http://dbpedia.org/resource/1._FFC_Turbine_Potsdam",
+            "http://dbpedia.org/resource/FCR_2001_Duisburg",
+            "http://dbpedia.org/resource/Conny_Pohlers"
+        ]
+    ]
+}

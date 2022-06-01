@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Teigan_Van_Roosmalen",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Melbourne"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Javier_Sotomayor",
+            "http://dbpedia.org/resource/Salamanca"
+        ]
+    ]
+}

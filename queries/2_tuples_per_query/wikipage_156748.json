@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1956_NFL_draft",
+            "http://dbpedia.org/resource/Ron_Nery",
+            "http://dbpedia.org/resource/New_York_Giants",
+            "http://dbpedia.org/resource/American_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_NFL_draft",
+            "http://dbpedia.org/resource/Clarence_Scott",
+            "http://dbpedia.org/resource/Cleveland_Browns",
+            "http://dbpedia.org/resource/1973_Pro_Bowl"
+        ]
+    ]
+}

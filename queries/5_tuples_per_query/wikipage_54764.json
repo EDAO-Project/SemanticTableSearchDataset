@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clinchfield_Railroad",
+            "http://dbpedia.org/resource/Atlantic_Coast_Line_Railroad",
+            "http://dbpedia.org/resource/CSX_Transportation"
+        ],
+        [
+            "http://dbpedia.org/resource/Chesapeake,_Ohio_and_Southwestern_Railroad",
+            "http://dbpedia.org/resource/Illinois_Central_Railroad",
+            "http://dbpedia.org/resource/Chicago,_St._Louis_and_New_Orleans_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Clinchfield_Railroad",
+            "http://dbpedia.org/resource/Atlantic_Coast_Line_Railroad",
+            "http://dbpedia.org/resource/Seaboard_System_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Elizabethtown_and_Paducah_Railroad",
+            "http://dbpedia.org/resource/Illinois_Central_Railroad",
+            "http://dbpedia.org/resource/Louisville,_Paducah_and_Southwestern_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Evansville,_Owensboro_and_Nashville_Railroad",
+            "http://dbpedia.org/resource/Louisville_and_Nashville_Railroad",
+            "http://dbpedia.org/resource/Owensboro_and_Nashville_Railroad"
+        ]
+    ]
+}

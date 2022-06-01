@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nikki_Butterfield",
+            "http://dbpedia.org/resource/Caroline_Steffen",
+            "http://dbpedia.org/resource/Samantha_Warriner"
+        ],
+        [
+            "http://dbpedia.org/resource/Leanda_Cave",
+            "http://dbpedia.org/resource/Magali_Tisseyre",
+            "http://dbpedia.org/resource/E.K._Lidbury"
+        ]
+    ]
+}

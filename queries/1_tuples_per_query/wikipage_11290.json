@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colorado_Chautauqua",
+            "http://dbpedia.org/resource/Boulder,_Colorado",
+            "http://dbpedia.org/resource/Boulder_County,_Colorado",
+            "http://dbpedia.org/resource/Chautauqua"
+        ]
+    ]
+}

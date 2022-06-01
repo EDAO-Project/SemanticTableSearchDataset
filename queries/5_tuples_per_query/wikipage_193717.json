@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4th_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Manitoba_general_election,_1879",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Manitoba",
+            "http://dbpedia.org/resource/John_Norquay",
+            "http://dbpedia.org/resource/Thomas_Greenway",
+            "http://dbpedia.org/resource/John_Wright_Sifton"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Manitoba_general_election,_1888",
+            "http://dbpedia.org/resource/Manitoba_Liberal_Party",
+            "http://dbpedia.org/resource/Thomas_Greenway",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Manitoba",
+            "http://dbpedia.org/resource/William_Winram"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Manitoba_general_election,_1892",
+            "http://dbpedia.org/resource/Manitoba_Liberal_Party",
+            "http://dbpedia.org/resource/Thomas_Greenway",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Manitoba",
+            "http://dbpedia.org/resource/Samuel_Jacob_Jackson"
+        ],
+        [
+            "http://dbpedia.org/resource/9th_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Manitoba_general_election,_1896",
+            "http://dbpedia.org/resource/Manitoba_Liberal_Party",
+            "http://dbpedia.org/resource/Thomas_Greenway",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Manitoba",
+            "http://dbpedia.org/resource/Finlay_McNaughton_Young"
+        ],
+        [
+            "http://dbpedia.org/resource/10th_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Manitoba_general_election,_1899",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Manitoba",
+            "http://dbpedia.org/resource/Hugh_John_Macdonald",
+            "http://dbpedia.org/resource/Manitoba_Liberal_Party",
+            "http://dbpedia.org/resource/William_Hespeler"
+        ]
+    ]
+}

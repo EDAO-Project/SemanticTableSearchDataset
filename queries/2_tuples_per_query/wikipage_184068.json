@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fourth_Texas_Legislature",
+            "http://dbpedia.org/resource/George_Washington_Hill",
+            "http://dbpedia.org/resource/Henderson_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Eighth_Texas_Legislature",
+            "http://dbpedia.org/resource/Emory_Rains",
+            "http://dbpedia.org/resource/Upshur_County,_Texas"
+        ]
+    ]
+}

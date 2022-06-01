@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maryland_Route_607",
+            "http://dbpedia.org/resource/Jacobsville,_Maryland",
+            "http://dbpedia.org/resource/Maryland_Route_173"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_611",
+            "http://dbpedia.org/resource/Assateague_State_Park",
+            "http://dbpedia.org/resource/U.S._Route_50_in_Maryland"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bankura_district",
+            "http://dbpedia.org/resource/Bankura",
+            "http://dbpedia.org/resource/Bankura_Sadar_subdivision"
+        ],
+        [
+            "http://dbpedia.org/resource/Bardhaman_district",
+            "http://dbpedia.org/resource/Bardhaman",
+            "http://dbpedia.org/resource/Asansol_subdivision"
+        ],
+        [
+            "http://dbpedia.org/resource/Birbhum_district",
+            "http://dbpedia.org/resource/Suri,_Birbhum",
+            "http://dbpedia.org/resource/Suri_Sadar_subdivision"
+        ],
+        [
+            "http://dbpedia.org/resource/Cooch_Behar_district",
+            "http://dbpedia.org/resource/Cooch_Behar",
+            "http://dbpedia.org/resource/Cooch_Behar_Sadar_subdivision"
+        ],
+        [
+            "http://dbpedia.org/resource/Darjeeling_district",
+            "http://dbpedia.org/resource/Darjeeling",
+            "http://dbpedia.org/resource/Darjeeling_Sadar_subdivision"
+        ]
+    ]
+}

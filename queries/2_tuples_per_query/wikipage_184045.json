@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johannes_Bitter",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/HSV_Hamburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Domagoj_Duvnjak",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HSV_Hamburg"
+        ]
+    ]
+}

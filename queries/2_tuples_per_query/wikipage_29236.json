@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Card",
+            "http://dbpedia.org/resource/Ronald_Neame",
+            "http://dbpedia.org/resource/Alec_Guinness"
+        ],
+        [
+            "http://dbpedia.org/resource/Curtain_Up",
+            "http://dbpedia.org/resource/Ralph_Smart",
+            "http://dbpedia.org/resource/Robert_Morley"
+        ]
+    ]
+}

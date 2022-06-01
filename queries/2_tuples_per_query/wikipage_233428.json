@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Terry_Fullerton",
+            "http://dbpedia.org/resource/Birel",
+            "http://dbpedia.org/resource/Italian_American_Motor_Engineering",
+            "http://dbpedia.org/resource/Nivelles-Baulers"
+        ],
+        [
+            "http://dbpedia.org/resource/Lake_Speed",
+            "http://dbpedia.org/resource/Birel",
+            "http://dbpedia.org/resource/Italian_American_Motor_Engineering",
+            "http://dbpedia.org/resource/Le_Mans"
+        ]
+    ]
+}

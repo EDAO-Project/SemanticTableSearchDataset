@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Length",
+            "http://dbpedia.org/resource/Metre",
+            "http://dbpedia.org/resource/Centimetre"
+        ]
+    ]
+}

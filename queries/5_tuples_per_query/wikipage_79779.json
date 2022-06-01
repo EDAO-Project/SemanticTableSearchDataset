@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newlands_Cricket_Ground",
+            "http://dbpedia.org/resource/2009_Indian_Premier_League",
+            "http://dbpedia.org/resource/Rajasthan_Royals",
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/2009_Indian_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/M._A._Chidambaram_Stadium",
+            "http://dbpedia.org/resource/2010_Indian_Premier_League",
+            "http://dbpedia.org/resource/Kings_XI_Punjab",
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/2010_Indian_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Kensington_Oval",
+            "http://dbpedia.org/resource/2010_Caribbean_Twenty20",
+            "http://dbpedia.org/resource/Barbados_national_cricket_team",
+            "http://dbpedia.org/resource/Combined_Campuses_and_Colleges_cricket_team",
+            "http://dbpedia.org/resource/2010_Caribbean_Twenty20"
+        ],
+        [
+            "http://dbpedia.org/resource/Iqbal_Stadium",
+            "http://dbpedia.org/resource/2011_Faysal_Bank_Super_Eight_T20_Cup",
+            "http://dbpedia.org/resource/Rawalpindi_Rams",
+            "http://dbpedia.org/resource/Karachi_Dolphins",
+            "http://dbpedia.org/resource/2011_Faysal_Bank_Super_Eight_T20_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Edgbaston_Cricket_Ground",
+            "http://dbpedia.org/resource/2011_Friends_Life_t20",
+            "http://dbpedia.org/resource/Leicestershire_County_Cricket_Club",
+            "http://dbpedia.org/resource/Lancashire_County_Cricket_Club",
+            "http://dbpedia.org/resource/2011_Friends_Life_t20"
+        ]
+    ]
+}

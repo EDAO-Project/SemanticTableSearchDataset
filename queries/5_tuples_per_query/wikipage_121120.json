@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/Edwin_Jackson",
+            "http://dbpedia.org/resource/Randy_Wells",
+            "http://dbpedia.org/resource/Sergio_Santos"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Washington_Nationals_season",
+            "http://dbpedia.org/resource/Ryan_Mattheus",
+            "http://dbpedia.org/resource/Kerry_Wood",
+            "http://dbpedia.org/resource/Drew_Storen"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Pittsburgh_Pirates_season",
+            "http://dbpedia.org/resource/Daniel_McCutchen",
+            "http://dbpedia.org/resource/Sean_Marshall",
+            "http://dbpedia.org/resource/Joel_Hanrahan"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Florida_Marlins_season",
+            "http://dbpedia.org/resource/Ryan_Dempster",
+            "http://dbpedia.org/resource/Ricky_Nolasco",
+            "http://dbpedia.org/resource/Sean_Marshall"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Florida_Marlins_season",
+            "http://dbpedia.org/resource/Edward_Mujica",
+            "http://dbpedia.org/resource/Kerry_Wood",
+            "http://dbpedia.org/resource/Juan_Carlos_Oviedo"
+        ]
+    ]
+}

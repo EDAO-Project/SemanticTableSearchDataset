@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boise,_Idaho",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Knitting_Factory"
+        ]
+    ]
+}

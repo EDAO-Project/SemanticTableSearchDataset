@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Royal_Farms_Arena",
+            "http://dbpedia.org/resource/Baltimore",
+            "http://dbpedia.org/resource/Baltimore_Blast"
+        ],
+        [
+            "http://dbpedia.org/resource/Allen_County_War_Memorial_Coliseum",
+            "http://dbpedia.org/resource/Fort_Wayne,_Indiana",
+            "http://dbpedia.org/resource/Fort_Wayne_Komets"
+        ]
+    ]
+}

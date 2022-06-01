@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acadia_Divinity_College",
+            "http://dbpedia.org/resource/Wolfville",
+            "http://dbpedia.org/resource/Harry_Gardner"
+        ],
+        [
+            "http://dbpedia.org/resource/Alliance_Theological_Seminary",
+            "http://dbpedia.org/resource/Nyack,_New_York",
+            "http://dbpedia.org/resource/Michael_G._Scales"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Cincinnati_Reds_season",
+            "http://dbpedia.org/resource/A._J._Burnett",
+            "http://dbpedia.org/resource/Homer_Bailey",
+            "http://dbpedia.org/resource/Joel_Hanrahan"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Cincinnati_Reds_season",
+            "http://dbpedia.org/resource/Johnny_Cueto",
+            "http://dbpedia.org/resource/Brad_Lincoln",
+            "http://dbpedia.org/resource/Aroldis_Chapman"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Leslie_Graham",
+            "http://dbpedia.org/resource/AJS"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Umberto_Masetti",
+            "http://dbpedia.org/resource/Gilera"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Geoff_Duke",
+            "http://dbpedia.org/resource/Norton_Motorcycle_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Umberto_Masetti",
+            "http://dbpedia.org/resource/Gilera"
+        ],
+        [
+            "http://dbpedia.org/resource/1953_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Geoff_Duke",
+            "http://dbpedia.org/resource/Gilera"
+        ]
+    ]
+}

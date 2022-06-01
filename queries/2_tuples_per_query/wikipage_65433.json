@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Planck_time",
+            "http://dbpedia.org/resource/Planck_length",
+            "http://dbpedia.org/resource/Planck_time",
+            "http://dbpedia.org/resource/Planck_time"
+        ],
+        [
+            "http://dbpedia.org/resource/Femtosecond",
+            "http://dbpedia.org/resource/Nanometre",
+            "http://dbpedia.org/resource/Femtosecond"
+        ]
+    ]
+}

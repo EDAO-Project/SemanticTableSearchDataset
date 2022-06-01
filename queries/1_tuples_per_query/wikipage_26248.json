@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Brad_Evans",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

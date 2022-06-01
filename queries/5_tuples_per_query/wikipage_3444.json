@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Genie_Awards",
+            "http://dbpedia.org/resource/Gordon_Pinsent",
+            "http://dbpedia.org/resource/Harvey_Atkin"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Genie_Awards",
+            "http://dbpedia.org/resource/Germain_Houde",
+            "http://dbpedia.org/resource/Gabriel_Arcand"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_Genie_Awards",
+            "http://dbpedia.org/resource/Saul_Rubinek",
+            "http://dbpedia.org/resource/Nicholas_Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Genie_Awards",
+            "http://dbpedia.org/resource/R._H._Thomson",
+            "http://dbpedia.org/resource/Nicholas_Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Genie_Awards",
+            "http://dbpedia.org/resource/Alan_Arkin",
+            "http://dbpedia.org/resource/Richard_Donat"
+        ]
+    ]
+}

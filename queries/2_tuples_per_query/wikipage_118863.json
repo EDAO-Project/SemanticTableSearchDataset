@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gazi_Salahuddin",
+            "http://dbpedia.org/resource/Sultans_of_Sylhet",
+            "http://dbpedia.org/resource/Kings_of_Khulna",
+            "http://dbpedia.org/resource/Mirpur_Model_Thana"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahela_Udawatte",
+            "http://dbpedia.org/resource/Kings_of_Khulna",
+            "http://dbpedia.org/resource/Sultans_of_Sylhet",
+            "http://dbpedia.org/resource/Mirpur_Model_Thana"
+        ]
+    ]
+}

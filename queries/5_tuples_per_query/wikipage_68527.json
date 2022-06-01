@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hosni_Mubarak",
+            "http://dbpedia.org/resource/President_of_Egypt",
+            "http://dbpedia.org/resource/Egypt"
+        ],
+        [
+            "http://dbpedia.org/resource/Suharto",
+            "http://dbpedia.org/resource/President_of_Indonesia",
+            "http://dbpedia.org/resource/Indonesia"
+        ],
+        [
+            "http://dbpedia.org/resource/Ferdinand_Marcos",
+            "http://dbpedia.org/resource/President_of_the_Philippines",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Ibrahim_Babangida",
+            "http://dbpedia.org/resource/President_of_Nigeria",
+            "http://dbpedia.org/resource/Nigeria"
+        ],
+        [
+            "http://dbpedia.org/resource/Zine_El_Abidine_Ben_Ali",
+            "http://dbpedia.org/resource/President_of_Tunisia",
+            "http://dbpedia.org/resource/Tunisia"
+        ]
+    ]
+}

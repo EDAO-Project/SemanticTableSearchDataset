@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Bob_Lemon",
+            "http://dbpedia.org/resource/Gerry_Staley"
+        ]
+    ]
+}

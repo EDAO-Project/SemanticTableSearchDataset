@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andre_Cason",
+            "http://dbpedia.org/resource/Linford_Christie",
+            "http://dbpedia.org/resource/Chidi_Imoh"
+        ],
+        [
+            "http://dbpedia.org/resource/Nikolay_Antonov",
+            "http://dbpedia.org/resource/Linford_Christie",
+            "http://dbpedia.org/resource/Ade_Mafe"
+        ]
+    ]
+}

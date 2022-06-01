@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eastern_Michigan_University",
+            "http://dbpedia.org/resource/Michigan",
+            "http://dbpedia.org/resource/Alvin_and_the_Chipmunks"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_Michigan_University",
+            "http://dbpedia.org/resource/Michigan",
+            "http://dbpedia.org/resource/Butterfly"
+        ]
+    ]
+}

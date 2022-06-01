@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_Helpmann_Awards",
+            "http://dbpedia.org/resource/Lisa_Gasteen",
+            "http://dbpedia.org/resource/Tristan_und_Isolde"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_Helpmann_Awards",
+            "http://dbpedia.org/resource/Elizabeth_Connell",
+            "http://dbpedia.org/resource/Ariadne_auf_Naxos"
+        ],
+        [
+            "http://dbpedia.org/resource/Lisa_Gasteen",
+            "http://dbpedia.org/resource/Der_Ring_des_Nibelungen",
+            "http://dbpedia.org/resource/Brynhildr"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Helpmann_Awards",
+            "http://dbpedia.org/resource/Cheryl_Barker",
+            "http://dbpedia.org/resource/Arabella"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Helpmann_Awards",
+            "http://dbpedia.org/resource/Emma_Matthews",
+            "http://dbpedia.org/resource/The_Tales_of_Hoffmann"
+        ]
+    ]
+}

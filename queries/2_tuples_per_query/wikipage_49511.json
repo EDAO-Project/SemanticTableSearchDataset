@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Utah_Senate_District",
+            "http://dbpedia.org/resource/Fred_J._Fife",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Utah_Senate_District",
+            "http://dbpedia.org/resource/Scott_McCoy",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah"
+        ]
+    ]
+}

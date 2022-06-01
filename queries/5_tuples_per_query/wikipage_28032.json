@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Kings",
+            "http://dbpedia.org/resource/James_R._McLean",
+            "http://dbpedia.org/resource/Prince_Edward_Island_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Kings",
+            "http://dbpedia.org/resource/William_Wilfred_Sullivan",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Prince_Edward_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_Kings",
+            "http://dbpedia.org/resource/James_E._MacDonald",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Prince_Edward_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Kings",
+            "http://dbpedia.org/resource/James_Edwin_Robertson",
+            "http://dbpedia.org/resource/Prince_Edward_Island_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_Prince",
+            "http://dbpedia.org/resource/Nicholas_Conroy",
+            "http://dbpedia.org/resource/Prince_Edward_Island_Liberal_Party"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Karin_Neugebauer",
+            "http://dbpedia.org/resource/Linda_de_Boer",
+            "http://dbpedia.org/resource/Novella_Calligaris"
+        ],
+        [
+            "http://dbpedia.org/resource/Tinatin_Lekveishvili",
+            "http://dbpedia.org/resource/Andrea_Gyarmati",
+            "http://dbpedia.org/resource/Cobie_Buter"
+        ]
+    ]
+}

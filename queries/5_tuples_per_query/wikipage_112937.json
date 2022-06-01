@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Worcester,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Worcester_Palladium"
+        ],
+        [
+            "http://dbpedia.org/resource/Richmond,_Virginia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Altria_Theater"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfax,_Virginia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/EagleBank_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Wolstein_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Fillmore_Detroit"
+        ]
+    ]
+}

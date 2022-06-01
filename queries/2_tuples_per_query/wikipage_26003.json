@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austin_and_Northwestern_Railroad",
+            "http://dbpedia.org/resource/Southern_Pacific_Transportation_Company",
+            "http://dbpedia.org/resource/Houston_and_Texas_Central_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Burlington-Rock_Island_Railroad",
+            "http://dbpedia.org/resource/Chicago,_Burlington_and_Quincy_Railroad",
+            "http://dbpedia.org/resource/Fort_Worth_and_Denver_Railway"
+        ]
+    ]
+}

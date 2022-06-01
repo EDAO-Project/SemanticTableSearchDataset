@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jo_Luck",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bread_for_the_World"
+        ]
+    ]
+}

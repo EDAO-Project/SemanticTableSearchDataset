@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A._D._Buck_Museum_of_Science_and_History",
+            "http://dbpedia.org/resource/Tonkawa,_Oklahoma",
+            "http://dbpedia.org/resource/Northwestern_Oklahoma",
+            "http://dbpedia.org/resource/Northern_Oklahoma_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Cherokee_Heritage_Center",
+            "http://dbpedia.org/resource/Tahlequah,_Oklahoma",
+            "http://dbpedia.org/resource/Green_Country",
+            "http://dbpedia.org/resource/Trail_of_Tears"
+        ]
+    ]
+}

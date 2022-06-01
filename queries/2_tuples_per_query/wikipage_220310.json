@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aapravasi_Ghat",
+            "http://dbpedia.org/resource/Port_Louis_District",
+            "http://dbpedia.org/resource/Indentured_servant"
+        ],
+        [
+            "http://dbpedia.org/resource/Axum",
+            "http://dbpedia.org/resource/Tigray_Region",
+            "http://dbpedia.org/resource/Monolith"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1951_Pan_American_Games",
+            "http://dbpedia.org/resource/Buenos_Aires",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1983_Pan_American_Games",
+            "http://dbpedia.org/resource/Caracas",
+            "http://dbpedia.org/resource/Venezuela"
+        ],
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1987_Pan_American_Games",
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1991_Pan_American_Games",
+            "http://dbpedia.org/resource/Havana",
+            "http://dbpedia.org/resource/Cuba"
+        ],
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1995_Pan_American_Games",
+            "http://dbpedia.org/resource/Mar_del_Plata",
+            "http://dbpedia.org/resource/Argentina"
+        ]
+    ]
+}

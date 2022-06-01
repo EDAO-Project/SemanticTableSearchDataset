@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Milton_Thayer",
+            "http://dbpedia.org/resource/39th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1866"
+        ]
+    ]
+}

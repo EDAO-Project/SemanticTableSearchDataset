@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrein",
+            "http://dbpedia.org/resource/Angous",
+            "http://dbpedia.org/resource/Aramits",
+            "http://dbpedia.org/resource/Araujuzon"
+        ],
+        [
+            "http://dbpedia.org/resource/Araux",
+            "http://dbpedia.org/resource/Aren",
+            "http://dbpedia.org/resource/Arette",
+            "http://dbpedia.org/resource/Arrast-Larrebieu"
+        ],
+        [
+            "http://dbpedia.org/resource/Aubertin",
+            "http://dbpedia.org/resource/Audaux",
+            "http://dbpedia.org/resource/Aussurucq",
+            "http://dbpedia.org/resource/Autevielle-Saint-Martin-Bideren"
+        ],
+        [
+            "http://dbpedia.org/resource/Bedous",
+            "http://dbpedia.org/resource/Berrogain-Laruns",
+            "http://dbpedia.org/resource/Bescat",
+            "http://dbpedia.org/resource/Bidos"
+        ],
+        [
+            "http://dbpedia.org/resource/Camou-Cihigue",
+            "http://dbpedia.org/resource/Cardesse",
+            "http://dbpedia.org/resource/Castet",
+            "http://dbpedia.org/resource/Castetbon"
+        ]
+    ]
+}

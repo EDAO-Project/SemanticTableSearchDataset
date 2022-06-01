@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bentley",
+            "http://dbpedia.org/resource/Volkswagen_Group",
+            "http://dbpedia.org/resource/Bentley_Crewe",
+            "http://dbpedia.org/resource/Bentley_Azure"
+        ]
+    ]
+}

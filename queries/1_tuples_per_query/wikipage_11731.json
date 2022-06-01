@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CSX_milepost_prefixes",
+            "http://dbpedia.org/resource/Alexandria,_Virginia",
+            "http://dbpedia.org/resource/Potomac_Yard"
+        ]
+    ]
+}

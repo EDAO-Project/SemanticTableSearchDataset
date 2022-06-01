@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arvada,_Colorado",
+            "http://dbpedia.org/resource/Kyzylorda",
+            "http://dbpedia.org/resource/Kazakhstan"
+        ]
+    ]
+}

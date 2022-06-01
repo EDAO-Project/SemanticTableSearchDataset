@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bowery_Ballroom"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amalie_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Duluth,_Georgia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Infinite_Energy_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Toyota_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/American_Airlines_Center"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kristin_Otto",
+            "http://dbpedia.org/resource/Jenna_Johnson",
+            "http://dbpedia.org/resource/Conny_van_Bentum"
+        ],
+        [
+            "http://dbpedia.org/resource/Heike_Friedrich",
+            "http://dbpedia.org/resource/Manuela_Stellmach",
+            "http://dbpedia.org/resource/Mary_T._Meagher"
+        ],
+        [
+            "http://dbpedia.org/resource/Heike_Friedrich",
+            "http://dbpedia.org/resource/Astrid_Strauss",
+            "http://dbpedia.org/resource/Sarah_Hardcastle"
+        ],
+        [
+            "http://dbpedia.org/resource/Betsy_Mitchell",
+            "http://dbpedia.org/resource/Kathrin_Zimmermann",
+            "http://dbpedia.org/resource/Natalya_Shibayeva"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornelia_Sirch",
+            "http://dbpedia.org/resource/Betsy_Mitchell",
+            "http://dbpedia.org/resource/Kathrin_Zimmermann"
+        ]
+    ]
+}

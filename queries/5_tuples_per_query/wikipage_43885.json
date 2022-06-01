@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfred_Boyd",
+            "http://dbpedia.org/resource/Manitoba_general_election,_1870",
+            "http://dbpedia.org/resource/Non-partisan_democracy"
+        ],
+        [
+            "http://dbpedia.org/resource/Marc-Amable_Girard",
+            "http://dbpedia.org/resource/1st_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Non-partisan_democracy"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Norquay",
+            "http://dbpedia.org/resource/2nd_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Non-partisan_democracy"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Howard_Harrison",
+            "http://dbpedia.org/resource/6th_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Non-partisan_democracy"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Greenway",
+            "http://dbpedia.org/resource/6th_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Manitoba_Liberal_Party"
+        ]
+    ]
+}

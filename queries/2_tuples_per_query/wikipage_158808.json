@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Irving_Plaza"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Apollo_Theater"
+        ]
+    ]
+}

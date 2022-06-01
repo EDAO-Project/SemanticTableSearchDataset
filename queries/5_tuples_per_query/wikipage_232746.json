@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Ericsson",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Hot_air_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Treadwell",
+            "http://dbpedia.org/resource/Cambridge,_Massachusetts",
+            "http://dbpedia.org/resource/Cannon"
+        ],
+        [
+            "http://dbpedia.org/resource/Alvan_Clark",
+            "http://dbpedia.org/resource/Cambridge,_Massachusetts",
+            "http://dbpedia.org/resource/Refracting_telescope"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Henry_Corliss",
+            "http://dbpedia.org/resource/Providence,_Rhode_Island",
+            "http://dbpedia.org/resource/Steam_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Lewis_Morris_Rutherfurd",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Astrophotography"
+        ]
+    ]
+}

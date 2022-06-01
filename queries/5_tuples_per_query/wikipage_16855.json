@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Elusive_Pimpernel",
+            "http://dbpedia.org/resource/Michael_Powell",
+            "http://dbpedia.org/resource/David_Niven"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Flame_and_the_Arrow",
+            "http://dbpedia.org/resource/Jacques_Tourneur",
+            "http://dbpedia.org/resource/Burt_Lancaster"
+        ],
+        [
+            "http://dbpedia.org/resource/Dear_Caroline",
+            "http://dbpedia.org/resource/Richard_Pottier",
+            "http://dbpedia.org/resource/Martine_Carol"
+        ],
+        [
+            "http://dbpedia.org/resource/Mask_of_the_Avenger",
+            "http://dbpedia.org/resource/Phil_Karlson",
+            "http://dbpedia.org/resource/John_Derek"
+        ],
+        [
+            "http://dbpedia.org/resource/Against_All_Flags",
+            "http://dbpedia.org/resource/George_Sherman",
+            "http://dbpedia.org/resource/Errol_Flynn"
+        ]
+    ]
+}

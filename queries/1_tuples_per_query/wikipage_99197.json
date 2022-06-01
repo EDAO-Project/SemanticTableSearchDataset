@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nigel_Boogaard",
+            "http://dbpedia.org/resource/Central_Coast_Mariners_FC",
+            "http://dbpedia.org/resource/Adelaide_United_FC"
+        ]
+    ]
+}

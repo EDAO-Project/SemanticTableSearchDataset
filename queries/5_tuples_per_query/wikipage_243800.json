@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chichen_Itza",
+            "http://dbpedia.org/resource/Yucatec_Maya_language",
+            "http://dbpedia.org/resource/Itza_people",
+            "http://dbpedia.org/resource/Maya_civilization"
+        ],
+        [
+            "http://dbpedia.org/resource/Hildebrandslied",
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Lyric_poetry",
+            "http://dbpedia.org/resource/Hero"
+        ],
+        [
+            "http://dbpedia.org/resource/Der_Ring_des_Nibelungen",
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Nibelung",
+            "http://dbpedia.org/resource/Richard_Wagner"
+        ],
+        [
+            "http://dbpedia.org/resource/Die_Fledermaus",
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Bat",
+            "http://dbpedia.org/resource/Operetta"
+        ],
+        [
+            "http://dbpedia.org/resource/Gesta_Danorum",
+            "http://dbpedia.org/resource/Latin",
+            "http://dbpedia.org/resource/Danes",
+            "http://dbpedia.org/resource/Saxo_Grammaticus"
+        ]
+    ]
+}

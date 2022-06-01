@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_Finlandia_Trophy",
+            "http://dbpedia.org/resource/Shepherd_Clark",
+            "http://dbpedia.org/resource/Szabolcs_Vidrai",
+            "http://dbpedia.org/resource/Anthony_Liu"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Finlandia_Trophy",
+            "http://dbpedia.org/resource/Alexei_Yagudin",
+            "http://dbpedia.org/resource/Oleg_Tataurov",
+            "http://dbpedia.org/resource/Evgeni_Plushenko"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Finlandia_Trophy",
+            "http://dbpedia.org/resource/Roman_Serov",
+            "http://dbpedia.org/resource/Alexander_Vasilevsky",
+            "http://dbpedia.org/resource/Jeffrey_Langdon"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Finlandia_Trophy",
+            "http://dbpedia.org/resource/Evgeni_Plushenko",
+            "http://dbpedia.org/resource/Li_Yunfei",
+            "http://dbpedia.org/resource/Stanick_Jeannette"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Finlandia_Trophy",
+            "http://dbpedia.org/resource/Ilia_Klimkin",
+            "http://dbpedia.org/resource/Roman_Serov",
+            "http://dbpedia.org/resource/Gheorghe_Chiper"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_6_in_Utah",
+            "http://dbpedia.org/resource/Millard_County,_Utah",
+            "http://dbpedia.org/resource/Delta,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_40_in_Utah",
+            "http://dbpedia.org/resource/Summit_County,_Utah",
+            "http://dbpedia.org/resource/Interstate_80_in_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_50_in_Utah",
+            "http://dbpedia.org/resource/Millard_County,_Utah",
+            "http://dbpedia.org/resource/U.S._Route_6_in_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_89_in_Utah",
+            "http://dbpedia.org/resource/Kane_County,_Utah",
+            "http://dbpedia.org/resource/Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_89A",
+            "http://dbpedia.org/resource/Kane_County,_Utah",
+            "http://dbpedia.org/resource/U.S._Route_89_in_Utah"
+        ]
+    ]
+}

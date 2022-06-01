@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lev_Yashin",
+            "http://dbpedia.org/resource/FC_Dynamo_Moscow",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernst_Ocwirk",
+            "http://dbpedia.org/resource/U.C._Sampdoria",
+            "http://dbpedia.org/resource/Austria"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivan_Petkov_Kolev",
+            "http://dbpedia.org/resource/PFC_CSKA_Sofia",
+            "http://dbpedia.org/resource/Bulgaria"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefan_Bozhkov",
+            "http://dbpedia.org/resource/PFC_CSKA_Sofia",
+            "http://dbpedia.org/resource/Bulgaria"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi",
+            "http://dbpedia.org/resource/SK_Rapid_Wien",
+            "http://dbpedia.org/resource/Austria"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_Muhlenberg",
+            "http://dbpedia.org/resource/Anti-Administration_party",
+            "http://dbpedia.org/resource/3rd_United_States_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Dayton",
+            "http://dbpedia.org/resource/Federalist_Party",
+            "http://dbpedia.org/resource/4th_United_States_Congress"
+        ]
+    ]
+}

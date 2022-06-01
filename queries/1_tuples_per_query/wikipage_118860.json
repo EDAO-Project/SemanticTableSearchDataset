@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/WNBC",
+            "http://dbpedia.org/resource/Time_Warner_Cable",
+            "http://dbpedia.org/resource/NBC",
+            "http://dbpedia.org/resource/Cozi_TV"
+        ]
+    ]
+}

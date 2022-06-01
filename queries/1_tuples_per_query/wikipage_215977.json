@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Herbie_Hewett",
+            "http://dbpedia.org/resource/Lionel_Palairet",
+            "http://dbpedia.org/resource/Walter_Read",
+            "http://dbpedia.org/resource/Stanley_Scott",
+            "http://dbpedia.org/resource/Andrew_Stoddart"
+        ]
+    ]
+}

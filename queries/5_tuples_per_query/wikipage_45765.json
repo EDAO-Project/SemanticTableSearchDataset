@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arnie_Herber",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/1930_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Emlen_Tunnell",
+            "http://dbpedia.org/resource/Defensive_back",
+            "http://dbpedia.org/resource/1959_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Len_Ford",
+            "http://dbpedia.org/resource/Defensive_end",
+            "http://dbpedia.org/resource/1958_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Bart_Starr",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/1956_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Nitschke",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/1958_Green_Bay_Packers_season"
+        ]
+    ]
+}

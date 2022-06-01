@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Tirana",
+            "http://dbpedia.org/resource/Cairo"
+        ],
+        [
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/Algiers",
+            "http://dbpedia.org/resource/Tunis"
+        ],
+        [
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Buenos_Aires",
+            "http://dbpedia.org/resource/Ramallah"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Canberra",
+            "http://dbpedia.org/resource/Ramallah"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Dhaka",
+            "http://dbpedia.org/resource/Cairo"
+        ]
+    ]
+}

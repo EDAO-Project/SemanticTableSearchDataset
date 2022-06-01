@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Geet_Gaata_Chal",
+            "http://dbpedia.org/resource/Ravindra_Jain",
+            "http://dbpedia.org/resource/Jaspal_Singh"
+        ],
+        [
+            "http://dbpedia.org/resource/Geet_Gaata_Chal",
+            "http://dbpedia.org/resource/Ravindra_Jain",
+            "http://dbpedia.org/resource/Jaspal_Singh"
+        ],
+        [
+            "http://dbpedia.org/resource/Sholay",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Manna_Dey"
+        ],
+        [
+            "http://dbpedia.org/resource/Chitchor",
+            "http://dbpedia.org/resource/Ravindra_Jain",
+            "http://dbpedia.org/resource/K._J._Yesudas"
+        ],
+        [
+            "http://dbpedia.org/resource/Mehbooba",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Lata_Mangeshkar"
+        ]
+    ]
+}

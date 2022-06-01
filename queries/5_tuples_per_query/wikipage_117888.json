@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/UFC_Fight_Night:_Machida_vs._Munoz",
+            "http://dbpedia.org/resource/Manchester_Arena",
+            "http://dbpedia.org/resource/Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/UFC_166",
+            "http://dbpedia.org/resource/Toyota_Center",
+            "http://dbpedia.org/resource/Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/UFC_165",
+            "http://dbpedia.org/resource/Air_Canada_Centre",
+            "http://dbpedia.org/resource/Toronto"
+        ],
+        [
+            "http://dbpedia.org/resource/UFC_Fight_Night:_Teixeira_vs._Bader",
+            "http://dbpedia.org/resource/Mineirinho",
+            "http://dbpedia.org/resource/Belo_Horizonte"
+        ],
+        [
+            "http://dbpedia.org/resource/UFC_164",
+            "http://dbpedia.org/resource/BMO_Harris_Bradley_Center",
+            "http://dbpedia.org/resource/Milwaukee"
+        ]
+    ]
+}

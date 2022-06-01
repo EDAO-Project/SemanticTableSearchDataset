@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_in_music",
+            "http://dbpedia.org/resource/John_Farnham",
+            "http://dbpedia.org/resource/Whispering_Jack"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_in_music",
+            "http://dbpedia.org/resource/Crowded_House",
+            "http://dbpedia.org/resource/Temple_of_Low_Men"
+        ]
+    ]
+}

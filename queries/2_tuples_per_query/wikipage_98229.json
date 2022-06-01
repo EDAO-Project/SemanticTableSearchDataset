@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antigua_and_Barbuda",
+            "http://dbpedia.org/resource/Louise_Lake-Tack",
+            "http://dbpedia.org/resource/List_of_Governors-General_of_Antigua_and_Barbuda"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Quentin_Bryce",
+            "http://dbpedia.org/resource/Governor-General_of_Australia"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appointment_in_London",
+            "http://dbpedia.org/resource/Philip_Leacock",
+            "http://dbpedia.org/resource/Dirk_Bogarde"
+        ]
+    ]
+}

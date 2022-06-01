@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Bandit_of_Zhobe",
+            "http://dbpedia.org/resource/John_Gilling",
+            "http://dbpedia.org/resource/Victor_Mature"
+        ],
+        [
+            "http://dbpedia.org/resource/Carry_On_Nurse",
+            "http://dbpedia.org/resource/Gerald_Thomas",
+            "http://dbpedia.org/resource/Kenneth_Williams"
+        ],
+        [
+            "http://dbpedia.org/resource/Carry_On_Teacher",
+            "http://dbpedia.org/resource/Gerald_Thomas",
+            "http://dbpedia.org/resource/Kenneth_Williams"
+        ],
+        [
+            "http://dbpedia.org/resource/Crash_Drive",
+            "http://dbpedia.org/resource/Max_Varnel",
+            "http://dbpedia.org/resource/Dermot_Walsh"
+        ],
+        [
+            "http://dbpedia.org/resource/Danger_List",
+            "http://dbpedia.org/resource/Leslie_Arliss",
+            "http://dbpedia.org/resource/Philip_Friend"
+        ]
+    ]
+}

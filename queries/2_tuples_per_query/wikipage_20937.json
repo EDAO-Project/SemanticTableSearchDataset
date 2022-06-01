@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jongmyo_jerye",
+            "http://dbpedia.org/resource/Jongmyo",
+            "http://dbpedia.org/resource/Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Yangju_byeolsandae_nori",
+            "http://dbpedia.org/resource/Yangju",
+            "http://dbpedia.org/resource/Gyeonggi_Province"
+        ]
+    ]
+}

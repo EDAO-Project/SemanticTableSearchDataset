@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Triassic",
+            "http://dbpedia.org/resource/Petrified_wood",
+            "http://dbpedia.org/resource/Araucarioxylon_arizonicum"
+        ]
+    ]
+}

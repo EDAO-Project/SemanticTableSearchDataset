@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4th_Lambda_Literary_Awards",
+            "http://dbpedia.org/resource/Frank_M._Robinson",
+            "http://dbpedia.org/resource/The_Dark_Beyond_the_Stars",
+            "http://dbpedia.org/resource/Tor_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Lambda_Literary_Awards",
+            "http://dbpedia.org/resource/Maureen_F._McHugh",
+            "http://dbpedia.org/resource/China_Mountain_Zhang",
+            "http://dbpedia.org/resource/Tor_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Lambda_Literary_Awards",
+            "http://dbpedia.org/resource/Anne_Rice",
+            "http://dbpedia.org/resource/The_Tale_of_the_Body_Thief",
+            "http://dbpedia.org/resource/Knopf"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Lambda_Literary_Awards",
+            "http://dbpedia.org/resource/Starhawk",
+            "http://dbpedia.org/resource/The_Fifth_Sacred_Thing",
+            "http://dbpedia.org/resource/Bantam_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Lambda_Literary_Awards",
+            "http://dbpedia.org/resource/Poppy_Z._Brite",
+            "http://dbpedia.org/resource/Drawing_Blood",
+            "http://dbpedia.org/resource/Dell_Publishing"
+        ]
+    ]
+}

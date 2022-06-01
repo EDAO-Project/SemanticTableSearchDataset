@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lake_Van",
+            "http://dbpedia.org/resource/Lake_Van",
+            "http://dbpedia.org/resource/Van_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Lake_Tuz",
+            "http://dbpedia.org/resource/Lake_Tuz",
+            "http://dbpedia.org/resource/Aksaray_Province"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clyde_Doyle",
+            "http://dbpedia.org/resource/Redistricting",
+            "http://dbpedia.org/resource/Los_Angeles_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Hosmer",
+            "http://dbpedia.org/resource/Redistricting",
+            "http://dbpedia.org/resource/Los_Angeles_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Harlan_Hagen",
+            "http://dbpedia.org/resource/Redistricting",
+            "http://dbpedia.org/resource/Kern_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Mathias",
+            "http://dbpedia.org/resource/John_Hans_Krebs",
+            "http://dbpedia.org/resource/Amador_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/William_M._Ketchum",
+            "http://dbpedia.org/resource/Redistricting",
+            "http://dbpedia.org/resource/Inyo_County,_California"
+        ]
+    ]
+}

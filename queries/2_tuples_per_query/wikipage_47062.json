@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jalan_Besar_Stadium",
+            "http://dbpedia.org/resource/Albirex_Niigata_Singapore_FC",
+            "http://dbpedia.org/resource/Norikazu_Murakami"
+        ],
+        [
+            "http://dbpedia.org/resource/Choa_Chu_Kang_Stadium",
+            "http://dbpedia.org/resource/Geylang_International_FC",
+            "http://dbpedia.org/resource/Norikazu_Murakami"
+        ]
+    ]
+}

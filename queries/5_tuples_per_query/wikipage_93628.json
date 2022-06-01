@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al-Azhar_University",
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/List_of_famous_mosques"
+        ],
+        [
+            "http://dbpedia.org/resource/Imam_Husayn_Shrine",
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Karbala",
+            "http://dbpedia.org/resource/List_of_famous_mosques"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Abbas_Mosque",
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Karbala",
+            "http://dbpedia.org/resource/List_of_famous_mosques"
+        ],
+        [
+            "http://dbpedia.org/resource/Imam_Ali_Mosque",
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Najaf",
+            "http://dbpedia.org/resource/Ali"
+        ],
+        [
+            "http://dbpedia.org/resource/Sayed_al-Hashim_Mosque",
+            "http://dbpedia.org/resource/Gaza_Strip",
+            "http://dbpedia.org/resource/Gaza",
+            "http://dbpedia.org/resource/Muhammad"
+        ]
+    ]
+}

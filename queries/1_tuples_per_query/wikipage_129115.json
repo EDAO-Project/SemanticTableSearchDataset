@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Belgium_Ypres_Westhoek_Rally",
+            "http://dbpedia.org/resource/Ypres",
+            "http://dbpedia.org/resource/2006_International_Rally_Challenge_season"
+        ]
+    ]
+}

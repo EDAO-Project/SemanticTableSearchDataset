@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sumo_Power",
+            "http://dbpedia.org/resource/Peter_Dumbreck",
+            "http://dbpedia.org/resource/Nissan"
+        ],
+        [
+            "http://dbpedia.org/resource/Hexis_Racing",
+            "http://dbpedia.org/resource/Clivio_Piccione",
+            "http://dbpedia.org/resource/Aston_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitaphone_Racing",
+            "http://dbpedia.org/resource/Enrique_Bernoldi",
+            "http://dbpedia.org/resource/Maserati"
+        ],
+        [
+            "http://dbpedia.org/resource/Matech_Concepts",
+            "http://dbpedia.org/resource/Neel_Jani",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitaphone_Racing",
+            "http://dbpedia.org/resource/Andrea_Bertolini",
+            "http://dbpedia.org/resource/Maserati"
+        ]
+    ]
+}

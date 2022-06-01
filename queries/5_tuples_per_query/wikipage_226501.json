@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shenandoah_County,_Virginia",
+            "http://dbpedia.org/resource/New_Market_Battlefield_State_Historical_Park",
+            "http://dbpedia.org/resource/Virginia_State_Route_211"
+        ],
+        [
+            "http://dbpedia.org/resource/Goochland_County,_Virginia",
+            "http://dbpedia.org/resource/James_River_Correctional_Center",
+            "http://dbpedia.org/resource/Virginia_State_Route_6"
+        ],
+        [
+            "http://dbpedia.org/resource/Richmond,_Virginia",
+            "http://dbpedia.org/resource/Virginia_Museum_of_Fine_Arts",
+            "http://dbpedia.org/resource/Virginia_State_Route_161"
+        ],
+        [
+            "http://dbpedia.org/resource/Nottoway_County,_Virginia",
+            "http://dbpedia.org/resource/Piedmont_Geriatric_Hospital",
+            "http://dbpedia.org/resource/Piedmont_Sanatorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chesterfield_County,_Virginia",
+            "http://dbpedia.org/resource/Virginia_State_University",
+            "http://dbpedia.org/resource/Virginia_State_Route_36"
+        ]
+    ]
+}

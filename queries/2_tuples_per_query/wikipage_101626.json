@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Open_de_France",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Seve_Ballesteros"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_International",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Bernard_Gallacher"
+        ]
+    ]
+}

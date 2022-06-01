@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_North,_Lord_North",
+            "http://dbpedia.org/resource/George_North,_3rd_Earl_of_Guilford",
+            "http://dbpedia.org/resource/Earl_of_Guilford"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Graham,_3rd_Duke_of_Montrose",
+            "http://dbpedia.org/resource/James_Stopford,_3rd_Earl_of_Courtown",
+            "http://dbpedia.org/resource/Duke_of_Montrose"
+        ]
+    ]
+}

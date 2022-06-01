@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kenyan_parliamentary_by-elections,_1966",
+            "http://dbpedia.org/resource/Daniel_arap_Moi",
+            "http://dbpedia.org/resource/Kenya_African_National_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenyan_general_election,_1969",
+            "http://dbpedia.org/resource/Daniel_arap_Moi",
+            "http://dbpedia.org/resource/Kenya_African_National_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenyan_general_election,_1974",
+            "http://dbpedia.org/resource/Daniel_arap_Moi",
+            "http://dbpedia.org/resource/Kenya_African_National_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenyan_general_election,_1979",
+            "http://dbpedia.org/resource/Daniel_arap_Moi",
+            "http://dbpedia.org/resource/Kenya_African_National_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenyan_general_election,_1983",
+            "http://dbpedia.org/resource/Daniel_arap_Moi",
+            "http://dbpedia.org/resource/Kenya_African_National_Union"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belleydoux",
+            "http://dbpedia.org/resource/Bellignat",
+            "http://dbpedia.org/resource/Billiat"
+        ],
+        [
+            "http://dbpedia.org/resource/Challes-la-Montagne",
+            "http://dbpedia.org/resource/Champdor",
+            "http://dbpedia.org/resource/Champfromier"
+        ]
+    ]
+}

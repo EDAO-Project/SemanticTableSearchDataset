@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dzhamal_Otarsultanov",
+            "http://dbpedia.org/resource/Vladimer_Khinchegashvili",
+            "http://dbpedia.org/resource/Yang_Kyong-il"
+        ],
+        [
+            "http://dbpedia.org/resource/Dzhamal_Otarsultanov",
+            "http://dbpedia.org/resource/Vladimer_Khinchegashvili",
+            "http://dbpedia.org/resource/Shinichi_Yumoto"
+        ],
+        [
+            "http://dbpedia.org/resource/Toghrul_Asgarov",
+            "http://dbpedia.org/resource/Besik_Kudukhov",
+            "http://dbpedia.org/resource/Coleman_Scott"
+        ],
+        [
+            "http://dbpedia.org/resource/Toghrul_Asgarov",
+            "http://dbpedia.org/resource/Besik_Kudukhov",
+            "http://dbpedia.org/resource/Yogeshwar_Dutt"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordan_Burroughs",
+            "http://dbpedia.org/resource/Sadegh_Goudarzi",
+            "http://dbpedia.org/resource/Denis_Tsargush"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alchemical_symbol",
+            "http://dbpedia.org/resource/Sulfur",
+            "http://dbpedia.org/resource/Alchemy"
+        ],
+        [
+            "http://dbpedia.org/resource/2_Pallas",
+            "http://dbpedia.org/resource/Sulfur",
+            "http://dbpedia.org/resource/Alchemy"
+        ]
+    ]
+}

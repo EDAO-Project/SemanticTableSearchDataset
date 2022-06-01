@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ellen_van_Dijk",
+            "http://dbpedia.org/resource/Velocio-SRAM_Pro_Cycling",
+            "http://dbpedia.org/resource/Amsterdam"
+        ],
+        [
+            "http://dbpedia.org/resource/Annemiek_van_Vleuten",
+            "http://dbpedia.org/resource/Rabo-Liv_Women_Cycling_Team",
+            "http://dbpedia.org/resource/Wageningen"
+        ]
+    ]
+}

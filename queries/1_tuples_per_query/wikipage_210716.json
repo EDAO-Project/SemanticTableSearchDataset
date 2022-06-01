@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moscow_Philharmonic_Orchestra",
+            "http://dbpedia.org/resource/Kirill_Kondrashin",
+            "http://dbpedia.org/resource/Melodiya"
+        ]
+    ]
+}

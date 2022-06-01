@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greg_Norman",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Mount_Isa"
+        ],
+        [
+            "http://dbpedia.org/resource/Charl_Schwartzel",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Johannesburg"
+        ]
+    ]
+}

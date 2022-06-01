@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1979_in_sports",
+            "http://dbpedia.org/resource/Ingemar_Stenmark",
+            "http://dbpedia.org/resource/Alpine_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_in_sports",
+            "http://dbpedia.org/resource/Linda_Haglund",
+            "http://dbpedia.org/resource/Track_and_field"
+        ]
+    ]
+}

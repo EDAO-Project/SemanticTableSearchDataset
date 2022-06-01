@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Renato_William_Jones",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/FIBA"
+        ],
+        [
+            "http://dbpedia.org/resource/Clifford_Fagan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/FIBA_Americas"
+        ],
+        [
+            "http://dbpedia.org/resource/Ervin_Kassai",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/FIBA_Europe"
+        ],
+        [
+            "http://dbpedia.org/resource/Ubiratan_Pereira_Maciel",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/FIBA_Americas"
+        ],
+        [
+            "http://dbpedia.org/resource/Yoshimi_Ueda",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/FIBA_Asia"
+        ]
+    ]
+}

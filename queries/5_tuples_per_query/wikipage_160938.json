@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/America_East_Conference",
+            "http://dbpedia.org/resource/Tommy_Brenton",
+            "http://dbpedia.org/resource/Steve_Pikiell",
+            "http://dbpedia.org/resource/SEFCU_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic_10_Conference",
+            "http://dbpedia.org/resource/Khalif_Wyatt",
+            "http://dbpedia.org/resource/Jim_Crews",
+            "http://dbpedia.org/resource/Barclays_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_South_Conference",
+            "http://dbpedia.org/resource/Stan_Okoye",
+            "http://dbpedia.org/resource/Chris_Holtmann",
+            "http://dbpedia.org/resource/HTC_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_Ten_Conference",
+            "http://dbpedia.org/resource/Trey_Burke",
+            "http://dbpedia.org/resource/Bo_Ryan",
+            "http://dbpedia.org/resource/United_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Colonial_Athletic_Association",
+            "http://dbpedia.org/resource/Jerrelle_Benimon",
+            "http://dbpedia.org/resource/Pat_Skerry",
+            "http://dbpedia.org/resource/Richmond_Coliseum"
+        ]
+    ]
+}

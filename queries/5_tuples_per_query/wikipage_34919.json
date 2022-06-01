@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_Instrumentation_Facility",
+            "http://dbpedia.org/resource/Kennedy_Space_Center",
+            "http://dbpedia.org/resource/Merritt_Island,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Crawlerway",
+            "http://dbpedia.org/resource/Kennedy_Space_Center",
+            "http://dbpedia.org/resource/Merritt_Island,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Power_and_Light_Company_Ice_Plant",
+            "http://dbpedia.org/resource/U.S._Route_1_in_Florida",
+            "http://dbpedia.org/resource/Melbourne,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/KSC_Headquarters_Building",
+            "http://dbpedia.org/resource/Kennedy_Space_Center",
+            "http://dbpedia.org/resource/Merritt_Island,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Hotel_Mims",
+            "http://dbpedia.org/resource/Florida_State_Road_46",
+            "http://dbpedia.org/resource/Mims,_Florida"
+        ]
+    ]
+}

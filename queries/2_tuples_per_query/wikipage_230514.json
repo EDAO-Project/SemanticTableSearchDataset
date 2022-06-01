@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Superettan",
+            "http://dbpedia.org/resource/Allsvenskan",
+            "http://dbpedia.org/resource/Ljungskile_SK"
+        ],
+        [
+            "http://dbpedia.org/resource/Superettan",
+            "http://dbpedia.org/resource/Allsvenskan",
+            "http://dbpedia.org/resource/GIF_Sundsvall"
+        ]
+    ]
+}

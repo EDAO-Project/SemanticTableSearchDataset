@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/85th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Sound_Editing",
+            "http://dbpedia.org/resource/Skyfall",
+            "http://dbpedia.org/resource/Per_Hallberg"
+        ],
+        [
+            "http://dbpedia.org/resource/85th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Sound_Editing",
+            "http://dbpedia.org/resource/Django_Unchained",
+            "http://dbpedia.org/resource/Wylie_Stateman"
+        ]
+    ]
+}

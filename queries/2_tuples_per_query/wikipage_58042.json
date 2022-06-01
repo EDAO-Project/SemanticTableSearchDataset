@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Delaware_Route_1",
+            "http://dbpedia.org/resource/Maryland_Route_528",
+            "http://dbpedia.org/resource/Delaware_Route_7"
+        ],
+        [
+            "http://dbpedia.org/resource/Delaware_Route_2",
+            "http://dbpedia.org/resource/Maryland_Route_279",
+            "http://dbpedia.org/resource/Delaware_Route_52"
+        ]
+    ]
+}

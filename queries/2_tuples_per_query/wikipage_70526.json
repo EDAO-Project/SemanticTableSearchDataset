@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1974_Tamil_conference_incident",
+            "http://dbpedia.org/resource/Jaffna",
+            "http://dbpedia.org/resource/Sri_Lanka_Police_Service"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Mannar_massacre",
+            "http://dbpedia.org/resource/Mannar_District",
+            "http://dbpedia.org/resource/Sri_Lanka_Army"
+        ]
+    ]
+}

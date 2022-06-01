@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/University_of_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Greg_Swindell",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+        ],
+        [
+            "http://dbpedia.org/resource/Kent_Mercker",
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/Dublin_Coffman_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Brink",
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/University_of_Southern_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Hemond",
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/University_of_South_Florida"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_Toronto_Blue_Jays_season",
+            "http://dbpedia.org/resource/Bill_Singer",
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Exhibition_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Toronto_Blue_Jays_season",
+            "http://dbpedia.org/resource/Tom_Underwood",
+            "http://dbpedia.org/resource/Kansas_City_Royals",
+            "http://dbpedia.org/resource/Kauffman_Stadium"
+        ]
+    ]
+}

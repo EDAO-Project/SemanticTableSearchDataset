@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aval_Appadithan",
+            "http://dbpedia.org/resource/C._Rudhraiya",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Kamal_Haasan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bairavi",
+            "http://dbpedia.org/resource/M._Bhaskar",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Rajinikanth"
+        ],
+        [
+            "http://dbpedia.org/resource/Chittu_Kuruvi",
+            "http://dbpedia.org/resource/Devaraj_Mohan",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Sivakumar"
+        ],
+        [
+            "http://dbpedia.org/resource/Ilamai_Oonjal_Aadukirathu",
+            "http://dbpedia.org/resource/C._V._Sridhar",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Kamal_Haasan"
+        ],
+        [
+            "http://dbpedia.org/resource/Iraivan_Kodutha_Varam",
+            "http://dbpedia.org/resource/A._Bhimsingh",
+            "http://dbpedia.org/resource/M._S._Viswanathan",
+            "http://dbpedia.org/resource/Rajinikanth"
+        ]
+    ]
+}

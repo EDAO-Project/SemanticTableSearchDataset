@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thruxton_Circuit",
+            "http://dbpedia.org/resource/Alex_Ribeiro",
+            "http://dbpedia.org/resource/March_Engineering",
+            "http://dbpedia.org/resource/March_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Thruxton_Circuit",
+            "http://dbpedia.org/resource/Gunnar_Nilsson",
+            "http://dbpedia.org/resource/March_Engineering",
+            "http://dbpedia.org/resource/March_Engineering"
+        ]
+    ]
+}

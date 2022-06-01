@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_Tour_of_Flanders",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Tom_Boonen",
+            "http://dbpedia.org/resource/Etixx-Quick_Step"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Tour_of_the_Basque_Country",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Danilo_Di_Luca",
+            "http://dbpedia.org/resource/Cannondale_Pro_Cycling_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Amstel_Gold_Race",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Danilo_Di_Luca",
+            "http://dbpedia.org/resource/Cannondale_Pro_Cycling_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Volta_a_Catalunya",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Yaroslav_Popovych",
+            "http://dbpedia.org/resource/U.S._Postal_Service_Pro_Cycling_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Tour_de_France",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Lance_Armstrong",
+            "http://dbpedia.org/resource/U.S._Postal_Service_Pro_Cycling_Team"
+        ]
+    ]
+}

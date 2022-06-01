@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bergen",
+            "http://dbpedia.org/resource/Hordaland",
+            "http://dbpedia.org/resource/Norway"
+        ]
+    ]
+}

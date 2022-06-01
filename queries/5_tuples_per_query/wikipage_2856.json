@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kevin_P._Chilton",
+            "http://dbpedia.org/resource/Astronaut",
+            "http://dbpedia.org/resource/Four-star_rank"
+        ],
+        [
+            "http://dbpedia.org/resource/Sylvia_Lopez",
+            "http://dbpedia.org/resource/News_presenter",
+            "http://dbpedia.org/resource/KCAL-TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Corey_Gaines",
+            "http://dbpedia.org/resource/Head_coach",
+            "http://dbpedia.org/resource/Phoenix_Mercury"
+        ],
+        [
+            "http://dbpedia.org/resource/Shireen_Crutchfield",
+            "http://dbpedia.org/resource/Actor",
+            "http://dbpedia.org/resource/The_Good_Girls"
+        ],
+        [
+            "http://dbpedia.org/resource/Royce_Clayton",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/San_Francisco_Giants"
+        ]
+    ]
+}

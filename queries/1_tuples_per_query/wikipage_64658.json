@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_metropolitan_areas_in_Sweden",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Stockholm"
+        ]
+    ]
+}

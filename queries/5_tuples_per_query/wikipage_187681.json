@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patna",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Rajdhani_Express"
+        ],
+        [
+            "http://dbpedia.org/resource/Howrah",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Rajdhani_Express"
+        ],
+        [
+            "http://dbpedia.org/resource/Howrah",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Rajdhani_Express"
+        ],
+        [
+            "http://dbpedia.org/resource/Dibrugarh",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Rajdhani_Express"
+        ],
+        [
+            "http://dbpedia.org/resource/Varanasi",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Shiv_Ganga_Express"
+        ]
+    ]
+}

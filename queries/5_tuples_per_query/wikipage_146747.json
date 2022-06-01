@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aubiac,_Lot-et-Garonne",
+            "http://dbpedia.org/resource/Bajamont",
+            "http://dbpedia.org/resource/Bazens"
+        ],
+        [
+            "http://dbpedia.org/resource/Beauville,_Lot-et-Garonne",
+            "http://dbpedia.org/resource/Blaymont",
+            "http://dbpedia.org/resource/Bon-Encontre"
+        ],
+        [
+            "http://dbpedia.org/resource/Cassignas",
+            "http://dbpedia.org/resource/Castelculier",
+            "http://dbpedia.org/resource/Castella,_Lot-et-Garonne"
+        ],
+        [
+            "http://dbpedia.org/resource/Caudecoste",
+            "http://dbpedia.org/resource/Cauzac",
+            "http://dbpedia.org/resource/Clermont-Dessous"
+        ],
+        [
+            "http://dbpedia.org/resource/Clermont-Soubiran",
+            "http://dbpedia.org/resource/Colayrac-Saint-Cirq",
+            "http://dbpedia.org/resource/Cours,_Lot-et-Garonne"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oxford",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Oxford_Brookes_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Leicester",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/De_Montfort_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Royal_Court_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Belfast",
+            "http://dbpedia.org/resource/Northern_Ireland",
+            "http://dbpedia.org/resource/Ulster_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Ireland",
+            "http://dbpedia.org/resource/Olympia,_London"
+        ]
+    ]
+}

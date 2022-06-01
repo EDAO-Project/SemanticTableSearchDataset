@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nordic_combined_at_the_1948_Winter_Olympics",
+            "http://dbpedia.org/resource/Heikki_Hasu",
+            "http://dbpedia.org/resource/Martti_Huhtala",
+            "http://dbpedia.org/resource/Sven_Israelsson"
+        ],
+        [
+            "http://dbpedia.org/resource/Nordic_combined_at_the_1960_Winter_Olympics",
+            "http://dbpedia.org/resource/Georg_Thoma",
+            "http://dbpedia.org/resource/Tormod_Knutsen",
+            "http://dbpedia.org/resource/Nikolay_Gusakov"
+        ]
+    ]
+}

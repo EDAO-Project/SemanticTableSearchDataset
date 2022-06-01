@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1976_Trans-Am_season",
+            "http://dbpedia.org/resource/Ludwig_Heimrath",
+            "http://dbpedia.org/resource/Porsche_Carrera"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Trans-Am_season",
+            "http://dbpedia.org/resource/Scott_Pruett",
+            "http://dbpedia.org/resource/Mercury_Capri"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_Trans-Am_season",
+            "http://dbpedia.org/resource/Scott_Pruett",
+            "http://dbpedia.org/resource/Merkur_XR4Ti"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_Trans-Am_season",
+            "http://dbpedia.org/resource/Darin_Brassfield",
+            "http://dbpedia.org/resource/Chevrolet_Corvette"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_Trans-Am_season",
+            "http://dbpedia.org/resource/Ron_Fellows",
+            "http://dbpedia.org/resource/Ford_Mustang"
+        ]
+    ]
+}

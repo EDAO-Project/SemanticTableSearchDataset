@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Les_Rohr",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Billings,_Montana"
+        ]
+    ]
+}

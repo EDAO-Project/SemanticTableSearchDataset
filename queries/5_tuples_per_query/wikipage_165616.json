@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eddy_de_Neve",
+            "http://dbpedia.org/resource/Netherlands_national_football_team",
+            "http://dbpedia.org/resource/Antwerp",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Vivian_Woodward",
+            "http://dbpedia.org/resource/England_national_amateur_football_team",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Harold_Stapley",
+            "http://dbpedia.org/resource/England_national_amateur_football_team",
+            "http://dbpedia.org/resource/White_Hart_Lane",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Edu_Snethlage",
+            "http://dbpedia.org/resource/Netherlands_national_football_team",
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Mannes_Francken",
+            "http://dbpedia.org/resource/Netherlands_national_football_team",
+            "http://dbpedia.org/resource/Haarlem_Stadion",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ]
+    ]
+}

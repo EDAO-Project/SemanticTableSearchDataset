@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apache_Flex",
+            "http://dbpedia.org/resource/Apache_License",
+            "http://dbpedia.org/resource/Adobe_AIR"
+        ],
+        [
+            "http://dbpedia.org/resource/Ext_JS",
+            "http://dbpedia.org/resource/GNU_General_Public_License",
+            "http://dbpedia.org/resource/JavaScript"
+        ],
+        [
+            "http://dbpedia.org/resource/Google_Web_Toolkit",
+            "http://dbpedia.org/resource/Apache_License",
+            "http://dbpedia.org/resource/JavaScript"
+        ],
+        [
+            "http://dbpedia.org/resource/Dojo_Toolkit",
+            "http://dbpedia.org/resource/BSD_licenses",
+            "http://dbpedia.org/resource/JavaScript"
+        ],
+        [
+            "http://dbpedia.org/resource/IPFaces_mobile_framework",
+            "http://dbpedia.org/resource/Open_source",
+            "http://dbpedia.org/resource/BlackBerry"
+        ]
+    ]
+}

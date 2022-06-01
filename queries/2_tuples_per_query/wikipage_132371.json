@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1937_in_baseball",
+            "http://dbpedia.org/resource/Art_Garibaldi",
+            "http://dbpedia.org/resource/Sacramento_Solons",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/1942_in_baseball",
+            "http://dbpedia.org/resource/Ray_Mueller",
+            "http://dbpedia.org/resource/Sacramento_Solons",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ]
+    ]
+}

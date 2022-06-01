@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arnolfini",
+            "http://dbpedia.org/resource/Bristol_Harbour",
+            "http://dbpedia.org/resource/Bristol",
+            "http://dbpedia.org/resource/Arts_centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashton_Court",
+            "http://dbpedia.org/resource/Long_Ashton",
+            "http://dbpedia.org/resource/Somerset",
+            "http://dbpedia.org/resource/Mansion"
+        ]
+    ]
+}

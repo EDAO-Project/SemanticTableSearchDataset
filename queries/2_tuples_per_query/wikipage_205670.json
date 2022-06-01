@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrews_Academy",
+            "http://dbpedia.org/resource/Michigan",
+            "http://dbpedia.org/resource/Berrien_Springs,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Armona_Union_Academy",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Armona,_California"
+        ]
+    ]
+}

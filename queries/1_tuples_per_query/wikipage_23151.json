@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Palau_Sant_Jordi"
+        ]
+    ]
+}

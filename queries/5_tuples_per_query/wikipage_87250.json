@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/USL_Second_Division",
+            "http://dbpedia.org/resource/Virginia_Beach_Mariners",
+            "http://dbpedia.org/resource/USL_First_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/Premier_Development_League",
+            "http://dbpedia.org/resource/Syracuse_Salty_Dogs",
+            "http://dbpedia.org/resource/USL_First_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/Premier_Development_League",
+            "http://dbpedia.org/resource/Greek_American_AA",
+            "http://dbpedia.org/resource/United_States_Adult_Soccer_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Premier_Development_League",
+            "http://dbpedia.org/resource/Long_Island_Rough_Riders",
+            "http://dbpedia.org/resource/USL_Second_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/Premier_Development_League",
+            "http://dbpedia.org/resource/Richmond_Kickers",
+            "http://dbpedia.org/resource/USL_First_Division"
+        ]
+    ]
+}

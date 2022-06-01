@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trevor_Brooking",
+            "http://dbpedia.org/resource/Crossword",
+            "http://dbpedia.org/resource/Golf_club"
+        ],
+        [
+            "http://dbpedia.org/resource/Angela_Rippon",
+            "http://dbpedia.org/resource/Pride_and_Prejudice",
+            "http://dbpedia.org/resource/Watercolor_painting"
+        ]
+    ]
+}

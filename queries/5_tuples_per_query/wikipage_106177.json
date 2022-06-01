@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edward_Glyn",
+            "http://dbpedia.org/resource/University_College,_Oxford",
+            "http://dbpedia.org/resource/Bishop_of_Peterborough"
+        ],
+        [
+            "http://dbpedia.org/resource/Edwyn_Scudamore-Stanhope,_10th_Earl_of_Chesterfield",
+            "http://dbpedia.org/resource/Brasenose_College,_Oxford",
+            "http://dbpedia.org/resource/Barrister"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Cottingham_Edwards-Moss",
+            "http://dbpedia.org/resource/Brasenose_College,_Oxford",
+            "http://dbpedia.org/resource/Member_of_parliament"
+        ],
+        [
+            "http://dbpedia.org/resource/Herbert_Hayton_Castens",
+            "http://dbpedia.org/resource/Brasenose_College,_Oxford",
+            "http://dbpedia.org/resource/Rugby_union"
+        ],
+        [
+            "http://dbpedia.org/resource/Guy_Nickalls",
+            "http://dbpedia.org/resource/Magdalen_College,_Oxford",
+            "http://dbpedia.org/resource/1908_Summer_Olympics"
+        ]
+    ]
+}

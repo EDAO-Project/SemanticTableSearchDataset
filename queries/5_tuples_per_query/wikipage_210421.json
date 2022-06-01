@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_at_Albany,_SUNY",
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/Albany_Great_Danes",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_at_Buffalo",
+            "http://dbpedia.org/resource/Buffalo,_New_York",
+            "http://dbpedia.org/resource/Buffalo_Bulls",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Dayton",
+            "http://dbpedia.org/resource/Dayton,_Ohio",
+            "http://dbpedia.org/resource/Dayton_Flyers",
+            "http://dbpedia.org/resource/Atlantic_10_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Maine",
+            "http://dbpedia.org/resource/Orono,_Maine",
+            "http://dbpedia.org/resource/Maine_Black_Bears",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Massachusetts_Amherst",
+            "http://dbpedia.org/resource/Amherst,_Massachusetts",
+            "http://dbpedia.org/resource/UMass_Minutemen_and_Minutewomen",
+            "http://dbpedia.org/resource/Atlantic_10_Conference"
+        ]
+    ]
+}

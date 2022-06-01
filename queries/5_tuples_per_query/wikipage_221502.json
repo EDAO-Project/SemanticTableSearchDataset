@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Na_Mokulua",
+            "http://dbpedia.org/resource/Hawaiian_Islands",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_islands_of_Hungary",
+            "http://dbpedia.org/resource/Danube",
+            "http://dbpedia.org/resource/Hungary"
+        ],
+        [
+            "http://dbpedia.org/resource/Naissaar",
+            "http://dbpedia.org/resource/Tallinn_Bay",
+            "http://dbpedia.org/resource/Estonia"
+        ],
+        [
+            "http://dbpedia.org/resource/Nakanoshima",
+            "http://dbpedia.org/resource/Tokara_Islands",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Namdrik_Atoll",
+            "http://dbpedia.org/resource/Ralik_Chain",
+            "http://dbpedia.org/resource/Marshall_Islands"
+        ]
+    ]
+}

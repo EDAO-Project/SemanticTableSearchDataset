@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/37th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/The_Rolling_Stones",
+            "http://dbpedia.org/resource/Voodoo_Lounge",
+            "http://dbpedia.org/resource/Pearl_Jam"
+        ],
+        [
+            "http://dbpedia.org/resource/38th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Alanis_Morissette",
+            "http://dbpedia.org/resource/Jagged_Little_Pill",
+            "http://dbpedia.org/resource/Chris_Isaak"
+        ],
+        [
+            "http://dbpedia.org/resource/40th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/John_Fogerty",
+            "http://dbpedia.org/resource/Blue_Moon_Swamp",
+            "http://dbpedia.org/resource/Aerosmith"
+        ],
+        [
+            "http://dbpedia.org/resource/41st_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Sheryl_Crow",
+            "http://dbpedia.org/resource/The_Globe_Sessions",
+            "http://dbpedia.org/resource/Dave_Matthews_Band"
+        ],
+        [
+            "http://dbpedia.org/resource/43rd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Foo_Fighters",
+            "http://dbpedia.org/resource/There_Is_Nothing_Left_to_Lose",
+            "http://dbpedia.org/resource/Bon_Jovi"
+        ]
+    ]
+}

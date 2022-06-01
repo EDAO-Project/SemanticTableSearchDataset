@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Altered_States",
+            "http://dbpedia.org/resource/Ken_Russell",
+            "http://dbpedia.org/resource/William_Hurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Cannibal_Apocalypse",
+            "http://dbpedia.org/resource/Antonio_Margheriti",
+            "http://dbpedia.org/resource/Giovanni_Lombardo_Radice"
+        ]
+    ]
+}

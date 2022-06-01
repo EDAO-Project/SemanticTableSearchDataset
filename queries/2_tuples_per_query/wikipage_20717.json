@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/U.S._Route_231"
+        ],
+        [
+            "http://dbpedia.org/resource/Mississippi",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/U.S._Route_72"
+        ]
+    ]
+}

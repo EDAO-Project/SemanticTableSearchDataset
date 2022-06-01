@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billy_Hughes",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Chris_Watson"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Pearce",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Joseph_Lyons"
+        ]
+    ]
+}

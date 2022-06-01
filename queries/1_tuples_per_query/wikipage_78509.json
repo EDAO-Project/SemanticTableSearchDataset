@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Day_Dam",
+            "http://dbpedia.org/resource/Columbia_River",
+            "http://dbpedia.org/resource/United_States_Army_Corps_of_Engineers"
+        ]
+    ]
+}

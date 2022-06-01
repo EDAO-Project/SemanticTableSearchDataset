@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arab_world",
+            "http://dbpedia.org/resource/Arab_Idol",
+            "http://dbpedia.org/resource/Middle_East_Broadcasting_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Hay_Superstar",
+            "http://dbpedia.org/resource/Shant_TV"
+        ]
+    ]
+}

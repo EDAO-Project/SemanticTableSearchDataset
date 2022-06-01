@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ville_Ritola",
+            "http://dbpedia.org/resource/Paavo_Nurmi",
+            "http://dbpedia.org/resource/Edvin_Wide"
+        ],
+        [
+            "http://dbpedia.org/resource/Paavo_Nurmi",
+            "http://dbpedia.org/resource/Ville_Ritola",
+            "http://dbpedia.org/resource/Edvin_Wide"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Cecil,_6th_Marquess_of_Exeter",
+            "http://dbpedia.org/resource/Frank_Cuhel",
+            "http://dbpedia.org/resource/Morgan_Taylor"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Germany_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Great_Britain_at_the_1928_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Germany_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Canada_at_the_1928_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bembridge_Windmill",
+            "http://dbpedia.org/resource/Bembridge",
+            "http://dbpedia.org/resource/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackgang_Chine",
+            "http://dbpedia.org/resource/Blackgang",
+            "http://dbpedia.org/resource/BBC_Two"
+        ]
+    ]
+}

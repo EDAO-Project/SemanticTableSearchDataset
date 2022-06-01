@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_About_Loving",
+            "http://dbpedia.org/resource/Jean_Aurel",
+            "http://dbpedia.org/resource/Anna_Karina"
+        ]
+    ]
+}

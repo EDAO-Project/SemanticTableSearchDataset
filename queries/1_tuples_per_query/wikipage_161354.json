@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/Geneva",
+            "http://dbpedia.org/resource/Sharif_Ghalib"
+        ]
+    ]
+}

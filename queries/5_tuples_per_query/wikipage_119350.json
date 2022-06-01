@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Foro_Sol"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/American_Airlines_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Arena_Place"
+        ],
+        [
+            "http://dbpedia.org/resource/Lakeland,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lakeland_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Duluth,_Georgia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Infinite_Energy_Arena"
+        ]
+    ]
+}

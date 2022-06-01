@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Five_Day_Lover",
+            "http://dbpedia.org/resource/Philippe_de_Broca",
+            "http://dbpedia.org/resource/Jean_Seberg"
+        ]
+    ]
+}

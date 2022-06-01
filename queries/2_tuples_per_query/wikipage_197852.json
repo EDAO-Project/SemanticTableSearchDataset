@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/West_Tennessee",
+            "http://dbpedia.org/resource/Interstate_155",
+            "http://dbpedia.org/resource/Dyersburg,_Tennessee",
+            "http://dbpedia.org/resource/Dyer_County,_Tennessee"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Tennessee",
+            "http://dbpedia.org/resource/Interstate_40",
+            "http://dbpedia.org/resource/Memphis,_Tennessee",
+            "http://dbpedia.org/resource/Shelby_County,_Tennessee"
+        ]
+    ]
+}

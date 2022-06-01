@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Poland"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Israel",
+            "http://dbpedia.org/resource/Portugal"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aldershot_Military_Museum",
+            "http://dbpedia.org/resource/Aldershot",
+            "http://dbpedia.org/resource/Rushmoor",
+            "http://dbpedia.org/resource/British_Army"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaulieu_Abbey",
+            "http://dbpedia.org/resource/Beaulieu,_Hampshire",
+            "http://dbpedia.org/resource/New_Forest_District",
+            "http://dbpedia.org/resource/Cistercians"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaulieu_Palace_House",
+            "http://dbpedia.org/resource/Beaulieu,_Hampshire",
+            "http://dbpedia.org/resource/New_Forest_District",
+            "http://dbpedia.org/resource/Beaulieu_Abbey"
+        ],
+        [
+            "http://dbpedia.org/resource/Butser_Ancient_Farm",
+            "http://dbpedia.org/resource/Petersfield",
+            "http://dbpedia.org/resource/East_Hampshire",
+            "http://dbpedia.org/resource/Iron_Age"
+        ],
+        [
+            "http://dbpedia.org/resource/Chawton_House",
+            "http://dbpedia.org/resource/Chawton",
+            "http://dbpedia.org/resource/East_Hampshire",
+            "http://dbpedia.org/resource/Jane_Austen"
+        ]
+    ]
+}

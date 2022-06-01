@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/17th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Thomas_Miles_Birkett",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/20th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Harrison_Dunbar",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/21st_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Harrison_Dunbar",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/22nd_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Harrison_Dunbar",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/23rd_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Harrison_Dunbar",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

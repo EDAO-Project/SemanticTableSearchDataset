@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arkansas_Highway_57_Bridge",
+            "http://dbpedia.org/resource/Stephens,_Arkansas",
+            "http://dbpedia.org/resource/Ouachita_County,_Arkansas",
+            "http://dbpedia.org/resource/Truss_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_Bottom_Slough_Bridge",
+            "http://dbpedia.org/resource/Magness,_Arkansas",
+            "http://dbpedia.org/resource/Independence_County,_Arkansas",
+            "http://dbpedia.org/resource/Truss_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Cache_River_Bridge",
+            "http://dbpedia.org/resource/Walnut_Ridge,_Arkansas",
+            "http://dbpedia.org/resource/Lawrence_County,_Arkansas",
+            "http://dbpedia.org/resource/Truss_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Coon_Creek_Bridge",
+            "http://dbpedia.org/resource/Cherokee_City,_Arkansas",
+            "http://dbpedia.org/resource/Benton_County,_Arkansas",
+            "http://dbpedia.org/resource/Truss_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Cotter_Bridge",
+            "http://dbpedia.org/resource/Cotter,_Arkansas",
+            "http://dbpedia.org/resource/Baxter_County,_Arkansas",
+            "http://dbpedia.org/resource/Arch_bridge"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southend-on-Sea",
+            "http://dbpedia.org/resource/Roots_Hall",
+            "http://dbpedia.org/resource/Jon-Paul_Pittman"
+        ],
+        [
+            "http://dbpedia.org/resource/Accrington",
+            "http://dbpedia.org/resource/Adams_Park",
+            "http://dbpedia.org/resource/Scott_Rendell"
+        ]
+    ]
+}

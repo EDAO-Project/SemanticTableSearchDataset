@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hoeryong_Station",
+            "http://dbpedia.org/resource/U_Line",
+            "http://dbpedia.org/resource/Gyeonggi_Province",
+            "http://dbpedia.org/resource/Uijeongbu"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brisbane_Broncos",
+            "http://dbpedia.org/resource/Parramatta_Stadium",
+            "http://dbpedia.org/resource/Chris_Sandow",
+            "http://dbpedia.org/resource/Luke_Burt"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_Warriors",
+            "http://dbpedia.org/resource/Parramatta_Stadium",
+            "http://dbpedia.org/resource/Ken_Sio",
+            "http://dbpedia.org/resource/Chris_Sandow"
+        ]
+    ]
+}

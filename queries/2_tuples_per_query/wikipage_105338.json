@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/60_metres",
+            "http://dbpedia.org/resource/Viktoriya_Zyabkina",
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/2012_Asian_Indoor_Athletics_Championships",
+            "http://dbpedia.org/resource/Hangzhou"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Ruqaya_Al-Ghasra",
+            "http://dbpedia.org/resource/Bahrain",
+            "http://dbpedia.org/resource/2008_Asian_Indoor_Athletics_Championships",
+            "http://dbpedia.org/resource/Doha"
+        ]
+    ]
+}

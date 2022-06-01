@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1958_FIBA_European_Champions_Cup",
+            "http://dbpedia.org/resource/ASK_Riga",
+            "http://dbpedia.org/resource/PBC_Lukoil_Academic"
+        ],
+        [
+            "http://dbpedia.org/resource/ASK_Riga",
+            "http://dbpedia.org/resource/PBC_Lukoil_Academic",
+            "http://dbpedia.org/resource/OKK_Beograd"
+        ]
+    ]
+}

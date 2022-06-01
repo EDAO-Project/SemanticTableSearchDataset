@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Angeles_County,_California",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Cesar_Chavez_Avenue"
+        ]
+    ]
+}

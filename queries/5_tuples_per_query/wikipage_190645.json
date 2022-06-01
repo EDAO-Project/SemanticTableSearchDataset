@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lang_Park",
+            "http://dbpedia.org/resource/Milton,_Queensland",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/Canberra_Stadium",
+            "http://dbpedia.org/resource/Bruce,_Australian_Capital_Territory",
+            "http://dbpedia.org/resource/Canberra_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympic_Park_Stadium",
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Melbourne_Storm"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_International_Sports_Centre",
+            "http://dbpedia.org/resource/Newcastle,_New_South_Wales",
+            "http://dbpedia.org/resource/Newcastle_Knights"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Moore_Park,_New_South_Wales",
+            "http://dbpedia.org/resource/Sydney_Roosters"
+        ]
+    ]
+}

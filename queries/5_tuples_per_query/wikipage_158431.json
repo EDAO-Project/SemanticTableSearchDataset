@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ingmar_Bergman",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Winter_Light"
+        ],
+        [
+            "http://dbpedia.org/resource/Fidel_Castro",
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Baptism"
+        ],
+        [
+            "http://dbpedia.org/resource/Pat_Condell",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Atheism"
+        ],
+        [
+            "http://dbpedia.org/resource/Vladimir_Lenin",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Nathan_Phelps",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Fred_Phelps"
+        ]
+    ]
+}

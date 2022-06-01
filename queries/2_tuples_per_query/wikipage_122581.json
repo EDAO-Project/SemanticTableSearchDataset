@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Old_Church_of_St_Nicholas,_Uphill",
+            "http://dbpedia.org/resource/Somerset",
+            "http://dbpedia.org/resource/Brean_Down"
+        ],
+        [
+            "http://dbpedia.org/resource/Church_of_St_Nonna,_Bradstone",
+            "http://dbpedia.org/resource/Devon",
+            "http://dbpedia.org/resource/Aisle"
+        ]
+    ]
+}

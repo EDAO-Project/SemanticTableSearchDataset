@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eccleshill,_Lancashire",
+            "http://dbpedia.org/resource/Blackburn_with_Darwen",
+            "http://dbpedia.org/resource/Blackburn_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Hoddlesden",
+            "http://dbpedia.org/resource/Blackburn_with_Darwen",
+            "http://dbpedia.org/resource/Darwen"
+        ],
+        [
+            "http://dbpedia.org/resource/Livesey",
+            "http://dbpedia.org/resource/Blackburn_with_Darwen",
+            "http://dbpedia.org/resource/Blackburn_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Turton",
+            "http://dbpedia.org/resource/Blackburn_with_Darwen",
+            "http://dbpedia.org/resource/Turton_Urban_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Pleasington",
+            "http://dbpedia.org/resource/Blackburn_with_Darwen",
+            "http://dbpedia.org/resource/Blackburn_Rural_District"
+        ]
+    ]
+}

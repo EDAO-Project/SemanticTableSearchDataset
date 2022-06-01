@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Madison_Square_Garden",
+            "http://dbpedia.org/resource/The_Mega_Powers"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Rutherford,_New_Jersey",
+            "http://dbpedia.org/resource/Izod_Center",
+            "http://dbpedia.org/resource/Brutus_Beefcake"
+        ]
+    ]
+}

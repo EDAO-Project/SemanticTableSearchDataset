@@ -1,0 +1,13 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chattahoochee_River",
+            "http://dbpedia.org/resource/Chattahoochee_River",
+            "http://dbpedia.org/resource/Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Muscogee_County,_Georgia",
+            "http://dbpedia.org/resource/Columbus,_Georgia"
+        ]
+    ]
+}

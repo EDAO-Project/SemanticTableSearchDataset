@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Matthew_Lappin",
+            "http://dbpedia.org/resource/St_Kilda_Football_Club",
+            "http://dbpedia.org/resource/Carlton_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Tyson_Lane",
+            "http://dbpedia.org/resource/Western_Bulldogs",
+            "http://dbpedia.org/resource/Collingwood_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Licuria",
+            "http://dbpedia.org/resource/Sydney_Swans",
+            "http://dbpedia.org/resource/Collingwood_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingsley_Hunter",
+            "http://dbpedia.org/resource/Fremantle_Football_Club",
+            "http://dbpedia.org/resource/Western_Bulldogs"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Modra",
+            "http://dbpedia.org/resource/Adelaide_Football_Club",
+            "http://dbpedia.org/resource/Fremantle_Football_Club"
+        ]
+    ]
+}

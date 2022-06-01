@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arzon",
+            "http://dbpedia.org/resource/Augan",
+            "http://dbpedia.org/resource/Baden,_Morbihan",
+            "http://dbpedia.org/resource/Beignon"
+        ],
+        [
+            "http://dbpedia.org/resource/Berric",
+            "http://dbpedia.org/resource/Billiers",
+            "http://dbpedia.org/resource/Bohal",
+            "http://dbpedia.org/resource/Brandivy"
+        ],
+        [
+            "http://dbpedia.org/resource/Concoret",
+            "http://dbpedia.org/resource/Cournon",
+            "http://dbpedia.org/resource/Damgan",
+            "http://dbpedia.org/resource/Elven,_Morbihan"
+        ],
+        [
+            "http://dbpedia.org/resource/Guer",
+            "http://dbpedia.org/resource/Guilliers",
+            "http://dbpedia.org/resource/La_Chapelle-Caro",
+            "http://dbpedia.org/resource/La_Chapelle-Gaceline"
+        ],
+        [
+            "http://dbpedia.org/resource/Locmaria-Grand-Champ",
+            "http://dbpedia.org/resource/Locqueltas",
+            "http://dbpedia.org/resource/Loyat",
+            "http://dbpedia.org/resource/Malansac"
+        ]
+    ]
+}

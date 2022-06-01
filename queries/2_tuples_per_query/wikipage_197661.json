@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birch_Lodge",
+            "http://dbpedia.org/resource/Trout_Lake_Township,_Michigan",
+            "http://dbpedia.org/resource/Tuberculosis"
+        ],
+        [
+            "http://dbpedia.org/resource/Chippewa_County_Courthouse",
+            "http://dbpedia.org/resource/Sault_Ste._Marie,_Michigan",
+            "http://dbpedia.org/resource/Second_Empire_architecture"
+        ]
+    ]
+}

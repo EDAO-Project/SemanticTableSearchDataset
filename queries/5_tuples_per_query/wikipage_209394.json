@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Tisdall",
+            "http://dbpedia.org/resource/1932_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1932_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ron_Delany",
+            "http://dbpedia.org/resource/1956_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1956_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Tiedt",
+            "http://dbpedia.org/resource/1956_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1956_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Freddie_Gilroy",
+            "http://dbpedia.org/resource/1956_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1956_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_McCourt",
+            "http://dbpedia.org/resource/1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1964_Summer_Olympics"
+        ]
+    ]
+}

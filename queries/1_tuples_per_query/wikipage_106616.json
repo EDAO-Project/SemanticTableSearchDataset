@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ed_Foreman",
+            "http://dbpedia.org/resource/91st_United_States_Congress",
+            "http://dbpedia.org/resource/Portales,_New_Mexico"
+        ]
+    ]
+}

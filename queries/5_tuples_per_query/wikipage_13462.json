@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Forthbank_Stadium",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Mark_Corcoran"
+        ],
+        [
+            "http://dbpedia.org/resource/Showground",
+            "http://dbpedia.org/resource/Newry",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Stangmore_Park",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Billy_Mehmet"
+        ],
+        [
+            "http://dbpedia.org/resource/Dumbarton_Football_Stadium",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Stewart_Kean"
+        ],
+        [
+            "http://dbpedia.org/resource/Falkirk_Stadium",
+            "http://dbpedia.org/resource/Scottish_Premier_League",
+            "http://dbpedia.org/resource/Billy_Mehmet"
+        ]
+    ]
+}

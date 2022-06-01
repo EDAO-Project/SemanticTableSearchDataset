@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/August_29",
+            "http://dbpedia.org/resource/Pope_Pius_III",
+            "http://dbpedia.org/resource/Pope_Innocent_VIII"
+        ],
+        [
+            "http://dbpedia.org/resource/November_1",
+            "http://dbpedia.org/resource/Raffaele_Riario",
+            "http://dbpedia.org/resource/Pope_Julius_II"
+        ],
+        [
+            "http://dbpedia.org/resource/March_11",
+            "http://dbpedia.org/resource/Pope_Paul_III",
+            "http://dbpedia.org/resource/Pope_Leo_X"
+        ],
+        [
+            "http://dbpedia.org/resource/October_13",
+            "http://dbpedia.org/resource/Innocenzo_Cybo",
+            "http://dbpedia.org/resource/Pope_Paul_III"
+        ],
+        [
+            "http://dbpedia.org/resource/April_7",
+            "http://dbpedia.org/resource/Gian_Giacomo_Teodoro_Trivulzio",
+            "http://dbpedia.org/resource/Pope_Alexander_VII"
+        ]
+    ]
+}

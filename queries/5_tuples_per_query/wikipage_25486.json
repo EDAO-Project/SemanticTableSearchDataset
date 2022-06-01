@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_NFL_season",
+            "http://dbpedia.org/resource/Jeremy_Shockey",
+            "http://dbpedia.org/resource/New_York_Giants",
+            "http://dbpedia.org/resource/Tight_end"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_NFL_season",
+            "http://dbpedia.org/resource/Domanick_Williams",
+            "http://dbpedia.org/resource/Houston_Texans",
+            "http://dbpedia.org/resource/Running_back"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_NFL_season",
+            "http://dbpedia.org/resource/Ben_Roethlisberger",
+            "http://dbpedia.org/resource/Pittsburgh_Steelers",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_NFL_season",
+            "http://dbpedia.org/resource/Cadillac_Williams",
+            "http://dbpedia.org/resource/Tampa_Bay_Buccaneers",
+            "http://dbpedia.org/resource/Running_back"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_NFL_season",
+            "http://dbpedia.org/resource/Vince_Young",
+            "http://dbpedia.org/resource/Tennessee_Titans",
+            "http://dbpedia.org/resource/Quarterback"
+        ]
+    ]
+}

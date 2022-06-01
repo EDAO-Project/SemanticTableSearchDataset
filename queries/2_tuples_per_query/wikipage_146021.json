@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Heilongjiang",
+            "http://dbpedia.org/resource/Jiamusi",
+            "http://dbpedia.org/resource/Tongjiang,_Heilongjiang"
+        ],
+        [
+            "http://dbpedia.org/resource/Heilongjiang",
+            "http://dbpedia.org/resource/Jiamusi",
+            "http://dbpedia.org/resource/Jiaoqu,_Jiamusi"
+        ]
+    ]
+}

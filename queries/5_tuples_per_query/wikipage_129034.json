@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2009_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/Scott_Waites"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2009_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/Terry_Jenkins"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2009_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/Raymond_van_Barneveld"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2010_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/James_Wade"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2010_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/Steve_Beaton"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Georg_Mickler",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Hanover"
+        ],
+        [
+            "http://dbpedia.org/resource/Sven_Lundgren",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Stockholm"
+        ],
+        [
+            "http://dbpedia.org/resource/Otto_Peltzer",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Colombes"
+        ],
+        [
+            "http://dbpedia.org/resource/Rudolf_Harbig",
+            "http://dbpedia.org/resource/Nazi_Germany",
+            "http://dbpedia.org/resource/Dresden"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcel_Hansenne",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Gothenburg"
+        ]
+    ]
+}

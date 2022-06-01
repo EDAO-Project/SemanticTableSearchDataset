@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beagle_Boys",
+            "http://dbpedia.org/resource/DuckTales",
+            "http://dbpedia.org/resource/Donald_Duck_universe"
+        ]
+    ]
+}

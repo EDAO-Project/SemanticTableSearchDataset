@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moline,_Illinois",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/IWireless_Center"
+        ]
+    ]
+}

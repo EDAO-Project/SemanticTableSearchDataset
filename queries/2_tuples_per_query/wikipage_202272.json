@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rover_P6",
+            "http://dbpedia.org/resource/Mercedes-Benz_600",
+            "http://dbpedia.org/resource/Hillman_Imp"
+        ],
+        [
+            "http://dbpedia.org/resource/Renault_16",
+            "http://dbpedia.org/resource/Rolls-Royce_Silver_Shadow",
+            "http://dbpedia.org/resource/Oldsmobile_Toronado"
+        ]
+    ]
+}

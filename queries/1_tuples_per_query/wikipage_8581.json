@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KACC",
+            "http://dbpedia.org/resource/Alvin,_Texas",
+            "http://dbpedia.org/resource/Alvin_Community_College"
+        ]
+    ]
+}

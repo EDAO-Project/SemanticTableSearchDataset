@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kostyantyn_Morozov",
+            "http://dbpedia.org/resource/Luhansk_Oblast",
+            "http://dbpedia.org/resource/Leonid_Kravchuk"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitaliy_Radetsky",
+            "http://dbpedia.org/resource/Cherkasy_Oblast",
+            "http://dbpedia.org/resource/Leonid_Kravchuk"
+        ]
+    ]
+}

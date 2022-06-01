@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_NFL_season",
+            "http://dbpedia.org/resource/Super_Bowl_I",
+            "http://dbpedia.org/resource/Bart_Starr",
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_NFL_season",
+            "http://dbpedia.org/resource/Super_Bowl_II",
+            "http://dbpedia.org/resource/Bart_Starr",
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_NFL_season",
+            "http://dbpedia.org/resource/Super_Bowl_III",
+            "http://dbpedia.org/resource/Joe_Namath",
+            "http://dbpedia.org/resource/New_York_Jets",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_NFL_season",
+            "http://dbpedia.org/resource/Super_Bowl_IV",
+            "http://dbpedia.org/resource/Len_Dawson",
+            "http://dbpedia.org/resource/Kansas_City_Chiefs",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_NFL_season",
+            "http://dbpedia.org/resource/Super_Bowl_V",
+            "http://dbpedia.org/resource/Chuck_Howley",
+            "http://dbpedia.org/resource/Dallas_Cowboys",
+            "http://dbpedia.org/resource/Linebacker"
+        ]
+    ]
+}

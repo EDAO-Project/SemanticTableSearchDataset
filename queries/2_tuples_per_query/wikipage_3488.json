@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abebe_Bikila",
+            "http://dbpedia.org/resource/1960_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1960_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Abebe_Bikila",
+            "http://dbpedia.org/resource/1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1964_Summer_Olympics"
+        ]
+    ]
+}

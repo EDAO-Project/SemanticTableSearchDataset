@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Hartford_County,_Connecticut",
+            "http://dbpedia.org/resource/Glastonbury,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Hartford_County,_Connecticut",
+            "http://dbpedia.org/resource/Glastonbury,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Hartford_County,_Connecticut",
+            "http://dbpedia.org/resource/Glastonbury,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Hartford_County,_Connecticut",
+            "http://dbpedia.org/resource/Manchester,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Hartford_County,_Connecticut",
+            "http://dbpedia.org/resource/Manchester,_Connecticut"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Merlene_Ottey",
+            "http://dbpedia.org/resource/Melanie_Paschke",
+            "http://dbpedia.org/resource/Carlette_Guidry-White"
+        ],
+        [
+            "http://dbpedia.org/resource/Melinda_Gainsford-Taylor",
+            "http://dbpedia.org/resource/Pauline_Davis-Thompson",
+            "http://dbpedia.org/resource/Natalya_Pomoshchnikova-Voronova"
+        ]
+    ]
+}

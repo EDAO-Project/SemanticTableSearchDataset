@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mathieu_Bonello",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Brice_Mach",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Marc-Antoine_Rallier",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Coetzee",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/South_African_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Yannick_Forestier",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ]
+    ]
+}

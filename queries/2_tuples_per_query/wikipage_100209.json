@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Match_Play_Championship",
+            "http://dbpedia.org/resource/World_Golf_Championships",
+            "http://dbpedia.org/resource/Ian_Poulter"
+        ],
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Championship",
+            "http://dbpedia.org/resource/World_Golf_Championships",
+            "http://dbpedia.org/resource/Ernie_Els"
+        ]
+    ]
+}

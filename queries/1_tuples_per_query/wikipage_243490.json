@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aggie_Memorial_Stadium",
+            "http://dbpedia.org/resource/Las_Cruces,_New_Mexico",
+            "http://dbpedia.org/resource/New_Mexico",
+            "http://dbpedia.org/resource/New_Mexico_State_Aggies_football",
+            "http://dbpedia.org/resource/NCAA_Division_I_FBS_independent_schools",
+            "http://dbpedia.org/resource/UTEP_Miners_football"
+        ]
+    ]
+}

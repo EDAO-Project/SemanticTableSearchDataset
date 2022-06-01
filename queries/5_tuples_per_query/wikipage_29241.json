@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Assignment_Redhead",
+            "http://dbpedia.org/resource/Maclean_Rogers",
+            "http://dbpedia.org/resource/Richard_Denning"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Baby_and_the_Battleship",
+            "http://dbpedia.org/resource/Jay_Lewis",
+            "http://dbpedia.org/resource/John_Mills"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bespoke_Overcoat",
+            "http://dbpedia.org/resource/Jack_Clayton",
+            "http://dbpedia.org/resource/Alfie_Bass"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Black_Tent",
+            "http://dbpedia.org/resource/Brian_Desmond_Hurst",
+            "http://dbpedia.org/resource/Donald_Sinden"
+        ],
+        [
+            "http://dbpedia.org/resource/Charley_Moon",
+            "http://dbpedia.org/resource/Guy_Hamilton",
+            "http://dbpedia.org/resource/Max_Bygraves"
+        ]
+    ]
+}

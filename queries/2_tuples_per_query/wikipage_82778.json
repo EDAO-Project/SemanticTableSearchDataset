@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/JW_Marriott_Marquis_Dubai",
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryugyong_Hotel",
+            "http://dbpedia.org/resource/Pyongyang",
+            "http://dbpedia.org/resource/North_Korea"
+        ]
+    ]
+}

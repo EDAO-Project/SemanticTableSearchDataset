@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bloody_Mama",
+            "http://dbpedia.org/resource/Roger_Corman",
+            "http://dbpedia.org/resource/Shelley_Winters"
+        ],
+        [
+            "http://dbpedia.org/resource/Le_Cercle_Rouge",
+            "http://dbpedia.org/resource/Jean-Pierre_Melville",
+            "http://dbpedia.org/resource/Alain_Delon"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Horse",
+            "http://dbpedia.org/resource/Pierre_Granier-Deferre",
+            "http://dbpedia.org/resource/Jean_Gabin"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Honeymoon_Killers",
+            "http://dbpedia.org/resource/Leonard_Kastle",
+            "http://dbpedia.org/resource/Shirley_Stoler"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Anderson_Tapes",
+            "http://dbpedia.org/resource/Sidney_Lumet",
+            "http://dbpedia.org/resource/Sean_Connery"
+        ]
+    ]
+}

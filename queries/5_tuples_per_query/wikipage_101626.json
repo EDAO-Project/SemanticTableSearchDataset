@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Open_de_France",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Seve_Ballesteros"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_International",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Bernard_Gallacher"
+        ],
+        [
+            "http://dbpedia.org/resource/Car_Care_Plan_International",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Brian_Waites"
+        ],
+        [
+            "http://dbpedia.org/resource/BMW_PGA_Championship",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Tony_Jacklin"
+        ],
+        [
+            "http://dbpedia.org/resource/Jersey_Open",
+            "http://dbpedia.org/resource/Jersey",
+            "http://dbpedia.org/resource/Bernard_Gallacher"
+        ]
+    ]
+}

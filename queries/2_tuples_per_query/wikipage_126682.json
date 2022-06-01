@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Samppa_Lajunen",
+            "http://dbpedia.org/resource/Finland_at_the_2002_Winter_Olympics",
+            "http://dbpedia.org/resource/Nordic_combined_at_the_2002_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Kati_Wilhelm",
+            "http://dbpedia.org/resource/Germany_at_the_2002_Winter_Olympics",
+            "http://dbpedia.org/resource/Biathlon_at_the_2002_Winter_Olympics"
+        ]
+    ]
+}

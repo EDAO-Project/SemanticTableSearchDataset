@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Adams",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/United_States_presidential_election,_1792",
+            "http://dbpedia.org/resource/Federalist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Adams",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/United_States_presidential_election,_1796",
+            "http://dbpedia.org/resource/Federalist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Adams",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/United_States_presidential_election,_1800",
+            "http://dbpedia.org/resource/Federalist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Quincy_Adams",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/United_States_presidential_election,_1820",
+            "http://dbpedia.org/resource/Democratic-Republican_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Quincy_Adams",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/United_States_presidential_election,_1824",
+            "http://dbpedia.org/resource/Democratic-Republican_Party"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elizabeth_Arden_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Nancy_Lopez"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarasota_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Donna_White"
+        ],
+        [
+            "http://dbpedia.org/resource/J_Golf_Phoenix_LPGA_International",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Anne_Marie_Palli"
+        ],
+        [
+            "http://dbpedia.org/resource/ANA_Inspiration",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Amy_Alcott"
+        ],
+        [
+            "http://dbpedia.org/resource/Crestar-Farm_Fresh_Classic",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/Lenore_Muraoka"
+        ]
+    ]
+}

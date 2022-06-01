@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Bronx_High_School_of_Science",
+            "http://dbpedia.org/resource/Leon_Cooper",
+            "http://dbpedia.org/resource/Brown_University"
+        ]
+    ]
+}

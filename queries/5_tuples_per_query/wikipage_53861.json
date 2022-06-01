@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ms._Pac-Man",
+            "http://dbpedia.org/resource/Action_game",
+            "http://dbpedia.org/resource/Arcade_game",
+            "http://dbpedia.org/resource/Namco"
+        ],
+        [
+            "http://dbpedia.org/resource/Frogger",
+            "http://dbpedia.org/resource/Action_game",
+            "http://dbpedia.org/resource/Arcade_game",
+            "http://dbpedia.org/resource/Konami"
+        ],
+        [
+            "http://dbpedia.org/resource/Marsport",
+            "http://dbpedia.org/resource/Action-adventure_game",
+            "http://dbpedia.org/resource/Amstrad_CPC",
+            "http://dbpedia.org/resource/Gargoyle_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Zoids",
+            "http://dbpedia.org/resource/Action_game",
+            "http://dbpedia.org/resource/ZX_Spectrum",
+            "http://dbpedia.org/resource/Electric_Dreams_Software"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Mario_Bros._3",
+            "http://dbpedia.org/resource/Platform_game",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_Analysis_&_Development"
+        ]
+    ]
+}

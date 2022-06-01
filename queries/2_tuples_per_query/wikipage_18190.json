@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/After_Dark,_My_Sweet",
+            "http://dbpedia.org/resource/James_Foley",
+            "http://dbpedia.org/resource/Jason_Patric"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Ambulance",
+            "http://dbpedia.org/resource/Larry_Cohen",
+            "http://dbpedia.org/resource/Eric_Roberts"
+        ]
+    ]
+}

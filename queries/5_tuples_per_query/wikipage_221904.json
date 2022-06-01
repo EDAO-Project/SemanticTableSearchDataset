@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alan_Warriner-Little",
+            "http://dbpedia.org/resource/Roland_Scholten",
+            "http://dbpedia.org/resource/Dublin"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Part",
+            "http://dbpedia.org/resource/Paddy_Power",
+            "http://dbpedia.org/resource/Dublin"
+        ],
+        [
+            "http://dbpedia.org/resource/Colin_Lloyd",
+            "http://dbpedia.org/resource/Sky_Betting_and_Gaming",
+            "http://dbpedia.org/resource/Dublin"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Jenkins",
+            "http://dbpedia.org/resource/Sky_Betting_and_Gaming",
+            "http://dbpedia.org/resource/Dublin"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Wade",
+            "http://dbpedia.org/resource/Sky_Betting_and_Gaming",
+            "http://dbpedia.org/resource/Dublin"
+        ]
+    ]
+}

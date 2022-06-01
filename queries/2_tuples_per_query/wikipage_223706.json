@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cal_Poly_Pomona_Broncos",
+            "http://dbpedia.org/resource/Tuskegee_University",
+            "http://dbpedia.org/resource/Springfield,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Union_University",
+            "http://dbpedia.org/resource/Cal_Poly_Pomona_Broncos",
+            "http://dbpedia.org/resource/Springfield,_Massachusetts"
+        ]
+    ]
+}

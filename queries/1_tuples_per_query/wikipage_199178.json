@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cosmin_Contra",
+            "http://dbpedia.org/resource/Marius_Niculae",
+            "http://dbpedia.org/resource/Cristian_Chivu",
+            "http://dbpedia.org/resource/Gheorghe_Popescu",
+            "http://dbpedia.org/resource/Adrian_Mihalcea"
+        ]
+    ]
+}

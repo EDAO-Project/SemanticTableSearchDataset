@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wilson_Kipsang_Kiprotich",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Berlin_Marathon"
+        ]
+    ]
+}

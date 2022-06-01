@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abu_Dhabi",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Abu_Dhabi_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Ain",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Al_Ain_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Dammam",
+            "http://dbpedia.org/resource/Saudi_Arabia",
+            "http://dbpedia.org/resource/King_Fahd_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Dera_Ghazi_Khan",
+            "http://dbpedia.org/resource/Pakistan",
+            "http://dbpedia.org/resource/Dera_Ghazi_Khan_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Doha",
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Doha_International_Airport"
+        ]
+    ]
+}

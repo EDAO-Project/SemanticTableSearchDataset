@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paolo_Maldini",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Andriy_Shevchenko",
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ]
+    ]
+}

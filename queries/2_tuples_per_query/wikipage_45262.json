@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tehran_Province",
+            "http://dbpedia.org/resource/Tehran",
+            "http://dbpedia.org/resource/Eslamshahr",
+            "http://dbpedia.org/resource/Golestan,_Iran",
+            "http://dbpedia.org/resource/Qods,_Iran"
+        ],
+        [
+            "http://dbpedia.org/resource/Alborz_Province",
+            "http://dbpedia.org/resource/Karaj",
+            "http://dbpedia.org/resource/Nazarabad",
+            "http://dbpedia.org/resource/Savojbolagh_County",
+            "http://dbpedia.org/resource/Taleqan"
+        ]
+    ]
+}

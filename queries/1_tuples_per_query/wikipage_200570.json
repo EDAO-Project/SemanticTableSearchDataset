@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_C._Redfield",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Woodrow_Wilson"
+        ]
+    ]
+}

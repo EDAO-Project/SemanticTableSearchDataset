@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anne_Gust",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Jerry_Brown"
+        ],
+        [
+            "http://dbpedia.org/resource/Helen_Thorpe",
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/John_Hickenlooper"
+        ]
+    ]
+}

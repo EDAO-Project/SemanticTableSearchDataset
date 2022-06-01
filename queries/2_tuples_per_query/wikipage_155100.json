@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fortunatus",
+            "http://dbpedia.org/resource/Pantomime",
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/Harlequinade"
+        ],
+        [
+            "http://dbpedia.org/resource/Babes_in_the_Wood",
+            "http://dbpedia.org/resource/Pantomime",
+            "http://dbpedia.org/resource/Theatre_Royal,_Drury_Lane",
+            "http://dbpedia.org/resource/Augustus_Harris"
+        ]
+    ]
+}

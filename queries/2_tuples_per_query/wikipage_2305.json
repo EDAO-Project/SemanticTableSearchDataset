@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_in_film",
+            "http://dbpedia.org/resource/Knife_in_the_Water",
+            "http://dbpedia.org/resource/Roman_Polanski"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_in_film",
+            "http://dbpedia.org/resource/Everything_for_Sale",
+            "http://dbpedia.org/resource/Andrzej_Wajda"
+        ]
+    ]
+}

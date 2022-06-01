@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southern_Pacific_Transportation_Company",
+            "http://dbpedia.org/resource/Rio_Grande_Industries",
+            "http://dbpedia.org/resource/Union_Pacific_Railroad"
+        ]
+    ]
+}

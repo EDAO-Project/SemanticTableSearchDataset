@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berat",
+            "http://dbpedia.org/resource/Berat_District",
+            "http://dbpedia.org/resource/Berat_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Cukalat",
+            "http://dbpedia.org/resource/Berat_District",
+            "http://dbpedia.org/resource/Berat_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Kutalli",
+            "http://dbpedia.org/resource/Berat_District",
+            "http://dbpedia.org/resource/Berat_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Lumas",
+            "http://dbpedia.org/resource/Berat_District",
+            "http://dbpedia.org/resource/Berat_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Otllak",
+            "http://dbpedia.org/resource/Berat_District",
+            "http://dbpedia.org/resource/Berat_County"
+        ]
+    ]
+}

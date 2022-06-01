@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Autodelta",
+            "http://dbpedia.org/resource/Piers_Courage",
+            "http://dbpedia.org/resource/Alfa_Romeo_Tipo_33",
+            "http://dbpedia.org/resource/Alfa_Romeo_in_motorsport"
+        ]
+    ]
+}

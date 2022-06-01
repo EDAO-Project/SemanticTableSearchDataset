@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Line_1,_Beijing_Subway",
+            "http://dbpedia.org/resource/Pingguoyuan_Station",
+            "http://dbpedia.org/resource/Sihui_East_Station",
+            "http://dbpedia.org/resource/Line_2,_Beijing_Subway"
+        ],
+        [
+            "http://dbpedia.org/resource/Line_2,_Beijing_Subway",
+            "http://dbpedia.org/resource/Xizhimen_Station",
+            "http://dbpedia.org/resource/Beijing_Railway_Station",
+            "http://dbpedia.org/resource/Line_1,_Beijing_Subway"
+        ]
+    ]
+}

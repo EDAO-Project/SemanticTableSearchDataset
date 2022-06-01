@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/S.T.U.N._Runner",
+            "http://dbpedia.org/resource/Atari_Games",
+            "http://dbpedia.org/resource/Racing_video_game"
+        ]
+    ]
+}

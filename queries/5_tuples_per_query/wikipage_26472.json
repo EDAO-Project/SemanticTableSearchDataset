@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/44th_United_States_Congress",
+            "http://dbpedia.org/resource/William_A._Phillips",
+            "http://dbpedia.org/resource/Salina,_Kansas",
+            "http://dbpedia.org/resource/Redistricting"
+        ],
+        [
+            "http://dbpedia.org/resource/45th_United_States_Congress",
+            "http://dbpedia.org/resource/William_A._Phillips",
+            "http://dbpedia.org/resource/Salina,_Kansas",
+            "http://dbpedia.org/resource/Redistricting"
+        ],
+        [
+            "http://dbpedia.org/resource/46th_United_States_Congress",
+            "http://dbpedia.org/resource/John_Alexander_Anderson",
+            "http://dbpedia.org/resource/Manhattan,_Kansas",
+            "http://dbpedia.org/resource/Redistricting"
+        ],
+        [
+            "http://dbpedia.org/resource/47th_United_States_Congress",
+            "http://dbpedia.org/resource/John_Alexander_Anderson",
+            "http://dbpedia.org/resource/Manhattan,_Kansas",
+            "http://dbpedia.org/resource/Redistricting"
+        ],
+        [
+            "http://dbpedia.org/resource/48th_United_States_Congress",
+            "http://dbpedia.org/resource/John_Alexander_Anderson",
+            "http://dbpedia.org/resource/Manhattan,_Kansas",
+            "http://dbpedia.org/resource/Redistricting"
+        ]
+    ]
+}

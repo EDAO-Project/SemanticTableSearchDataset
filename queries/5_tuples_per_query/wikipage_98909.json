@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frances_P._Bolton",
+            "http://dbpedia.org/resource/Cuyahoga_County,_Ohio",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives"
+        ],
+        [
+            "http://dbpedia.org/resource/Gertrude_Walton_Donahey",
+            "http://dbpedia.org/resource/Franklin_County,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Treasurer"
+        ],
+        [
+            "http://dbpedia.org/resource/Jane_Edna_Hunter",
+            "http://dbpedia.org/resource/Cuyahoga_County,_Ohio",
+            "http://dbpedia.org/resource/African_American"
+        ],
+        [
+            "http://dbpedia.org/resource/Margaret_Field",
+            "http://dbpedia.org/resource/Cuyahoga_County,_Ohio",
+            "http://dbpedia.org/resource/Ohio_House_of_Representatives"
+        ],
+        [
+            "http://dbpedia.org/resource/Ella_P._Stewart",
+            "http://dbpedia.org/resource/Lucas_County,_Ohio",
+            "http://dbpedia.org/resource/African_American"
+        ]
+    ]
+}

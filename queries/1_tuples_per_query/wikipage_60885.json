@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tampa_Bay_Rays",
+            "http://dbpedia.org/resource/Bronson_Arroyo",
+            "http://dbpedia.org/resource/Doug_Waechter",
+            "http://dbpedia.org/resource/Mike_Timlin"
+        ]
+    ]
+}

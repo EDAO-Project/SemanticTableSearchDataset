@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fujitsu",
+            "http://dbpedia.org/resource/Pukekohe_Park_Raceway",
+            "http://dbpedia.org/resource/Pukekohe",
+            "http://dbpedia.org/resource/Tim_Edgell"
+        ]
+    ]
+}

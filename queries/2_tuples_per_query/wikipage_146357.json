@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aunay-sous-Auneau",
+            "http://dbpedia.org/resource/Auneau",
+            "http://dbpedia.org/resource/Baignolet",
+            "http://dbpedia.org/resource/Bailleau-Armenonville"
+        ],
+        [
+            "http://dbpedia.org/resource/Cernay,_Eure-et-Loir",
+            "http://dbpedia.org/resource/Challet",
+            "http://dbpedia.org/resource/Champhol",
+            "http://dbpedia.org/resource/Champseru"
+        ]
+    ]
+}

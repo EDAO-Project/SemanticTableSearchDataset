@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cathy_Ferguson",
+            "http://dbpedia.org/resource/Swimming_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaye_Hall",
+            "http://dbpedia.org/resource/Swimming_at_the_1968_Summer_Olympics",
+            "http://dbpedia.org/resource/Mexico_City"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lindy_Remigino",
+            "http://dbpedia.org/resource/Herb_McKenley",
+            "http://dbpedia.org/resource/McDonald_Bailey"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Stanfield",
+            "http://dbpedia.org/resource/Thane_Baker",
+            "http://dbpedia.org/resource/James_Gathers"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Rhoden",
+            "http://dbpedia.org/resource/Herb_McKenley",
+            "http://dbpedia.org/resource/Ollie_Matson"
+        ],
+        [
+            "http://dbpedia.org/resource/Mal_Whitfield",
+            "http://dbpedia.org/resource/Arthur_Wint",
+            "http://dbpedia.org/resource/Heinz_Ulzheimer"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_at_the_1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1952_Summer_Olympics"
+        ]
+    ]
+}

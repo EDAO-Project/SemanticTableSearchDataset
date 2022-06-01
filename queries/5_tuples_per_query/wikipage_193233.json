@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/Allison_Janney",
+            "http://dbpedia.org/resource/The_West_Wing",
+            "http://dbpedia.org/resource/C._J._Cregg",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/Stockard_Channing",
+            "http://dbpedia.org/resource/The_West_Wing",
+            "http://dbpedia.org/resource/Abbey_Bartlet",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/Nancy_Marchand",
+            "http://dbpedia.org/resource/The_Sopranos",
+            "http://dbpedia.org/resource/Livia_Soprano",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/Allison_Janney",
+            "http://dbpedia.org/resource/The_West_Wing",
+            "http://dbpedia.org/resource/C._J._Cregg",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/Stockard_Channing",
+            "http://dbpedia.org/resource/The_West_Wing",
+            "http://dbpedia.org/resource/Abbey_Bartlet",
+            "http://dbpedia.org/resource/NBC"
+        ]
+    ]
+}

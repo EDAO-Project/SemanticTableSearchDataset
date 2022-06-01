@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Indosiar",
+            "http://dbpedia.org/resource/Salim_Group",
+            "http://dbpedia.org/resource/Live_television"
+        ],
+        [
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/MNCTV",
+            "http://dbpedia.org/resource/Media_Nusantara_Citra",
+            "http://dbpedia.org/resource/Rerun"
+        ]
+    ]
+}

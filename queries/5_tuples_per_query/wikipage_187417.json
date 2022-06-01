@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lauren_Jackson",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Seattle_Storm",
+            "http://dbpedia.org/resource/University_of_Canberra_Capitals"
+        ],
+        [
+            "http://dbpedia.org/resource/Tamika_Catchings",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Indiana_Fever",
+            "http://dbpedia.org/resource/Tennessee_Volunteers"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackie_Stiles",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Portland_Fire",
+            "http://dbpedia.org/resource/Missouri_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruth_Riley",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Miami_Sol",
+            "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish"
+        ],
+        [
+            "http://dbpedia.org/resource/Deanna_Nolan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Detroit_Shock",
+            "http://dbpedia.org/resource/Georgia_Bulldogs_and_Lady_Bulldogs"
+        ]
+    ]
+}

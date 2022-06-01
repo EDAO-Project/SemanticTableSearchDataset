@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Army_Training_and_Doctrine_Command",
+            "http://dbpedia.org/resource/Robert_W._Cone",
+            "http://dbpedia.org/resource/Fort_Eustis"
+        ]
+    ]
+}

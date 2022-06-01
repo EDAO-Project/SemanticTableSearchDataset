@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clayton_Fritchey",
+            "http://dbpedia.org/resource/George_Marshall",
+            "http://dbpedia.org/resource/Harry_S._Truman"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_H._Berding",
+            "http://dbpedia.org/resource/Robert_A._Lovett",
+            "http://dbpedia.org/resource/Harry_S._Truman"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_A._Seaton",
+            "http://dbpedia.org/resource/Charles_Erwin_Wilson",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Tripp_Ross",
+            "http://dbpedia.org/resource/Charles_Erwin_Wilson",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Phil_G._Goulding",
+            "http://dbpedia.org/resource/Robert_McNamara",
+            "http://dbpedia.org/resource/Lyndon_B._Johnson"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Naarden",
+            "http://dbpedia.org/resource/Muiderberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Flevoland",
+            "http://dbpedia.org/resource/Almere",
+            "http://dbpedia.org/resource/Almere_Poort"
+        ]
+    ]
+}

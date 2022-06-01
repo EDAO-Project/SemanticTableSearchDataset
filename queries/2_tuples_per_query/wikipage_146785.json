@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bazet",
+            "http://dbpedia.org/resource/Bazillac",
+            "http://dbpedia.org/resource/Bazordan",
+            "http://dbpedia.org/resource/Bernac-Debat"
+        ],
+        [
+            "http://dbpedia.org/resource/Dours",
+            "http://dbpedia.org/resource/Escaunets",
+            "http://dbpedia.org/resource/Escondeaux",
+            "http://dbpedia.org/resource/Estampures"
+        ]
+    ]
+}

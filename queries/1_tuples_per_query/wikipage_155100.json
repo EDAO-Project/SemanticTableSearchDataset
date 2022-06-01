@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fortunatus",
+            "http://dbpedia.org/resource/Pantomime",
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/Harlequinade"
+        ]
+    ]
+}

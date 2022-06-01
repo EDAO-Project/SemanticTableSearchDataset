@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baltimore_and_Potomac_Railroad",
+            "http://dbpedia.org/resource/Pennsylvania_Railroad",
+            "http://dbpedia.org/resource/Philadelphia,_Wilmington_and_Baltimore_Railroad"
+        ]
+    ]
+}

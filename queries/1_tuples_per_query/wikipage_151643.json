@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_NFL_draft",
+            "http://dbpedia.org/resource/Bill_Mathis",
+            "http://dbpedia.org/resource/San_Francisco_49ers",
+            "http://dbpedia.org/resource/Super_Bowl_III"
+        ]
+    ]
+}

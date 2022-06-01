@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Gianmaria_Bruni"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Andreas_Zuber"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Pastor_Maldonado"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Ricardo_Risatti"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Kohei_Hirate"
+        ]
+    ]
+}

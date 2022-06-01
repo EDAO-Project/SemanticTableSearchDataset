@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Spectre_Knight",
+            "http://dbpedia.org/resource/James_Albery",
+            "http://dbpedia.org/resource/Alfred_Cellier",
+            "http://dbpedia.org/resource/The_Sorcerer"
+        ]
+    ]
+}

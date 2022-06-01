@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Igor_Mitreski",
+            "http://dbpedia.org/resource/Beerschot_AC",
+            "http://dbpedia.org/resource/FC_Energie_Cottbus"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Destorme",
+            "http://dbpedia.org/resource/F.C._Verbroedering_Dender_Eendracht_Hekelgem",
+            "http://dbpedia.org/resource/KV_Mechelen"
+        ],
+        [
+            "http://dbpedia.org/resource/Ibrahima_Gueye",
+            "http://dbpedia.org/resource/Red_Star_Belgrade",
+            "http://dbpedia.org/resource/K.S.C._Lokeren_Oost-Vlaanderen"
+        ],
+        [
+            "http://dbpedia.org/resource/Steffen_Ernemann",
+            "http://dbpedia.org/resource/Silkeborg_IF",
+            "http://dbpedia.org/resource/S.V._Zulte_Waregem"
+        ],
+        [
+            "http://dbpedia.org/resource/Brecht_Capon",
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/K.V._Kortrijk"
+        ]
+    ]
+}

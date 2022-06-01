@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indianapolis_Colts",
+            "http://dbpedia.org/resource/WBAL-TV",
+            "http://dbpedia.org/resource/1970_Baltimore_Colts_season"
+        ]
+    ]
+}

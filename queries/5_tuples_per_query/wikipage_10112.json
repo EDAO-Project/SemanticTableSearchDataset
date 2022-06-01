@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Argentia",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT"
+        ],
+        [
+            "http://dbpedia.org/resource/Bay_Bulls,_Newfoundland_and_Labrador",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonavista,_Newfoundland_and_Labrador",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT"
+        ],
+        [
+            "http://dbpedia.org/resource/Cape_Broyle",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT"
+        ],
+        [
+            "http://dbpedia.org/resource/Clarenville",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT",
+            "http://dbpedia.org/resource/CJON-DT"
+        ]
+    ]
+}

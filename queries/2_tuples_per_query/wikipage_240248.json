@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Energy",
+            "http://dbpedia.org/resource/Starvation",
+            "http://dbpedia.org/resource/Obesity"
+        ],
+        [
+            "http://dbpedia.org/resource/Fat",
+            "http://dbpedia.org/resource/Rabbit_starvation",
+            "http://dbpedia.org/resource/Cardiovascular_disease"
+        ]
+    ]
+}

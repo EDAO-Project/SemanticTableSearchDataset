@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Laura,_Illinois",
+            "http://dbpedia.org/resource/Peoria_County,_Illinois",
+            "http://dbpedia.org/resource/Gustnado"
+        ]
+    ]
+}

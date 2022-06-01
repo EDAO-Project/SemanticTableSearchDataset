@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joe_Agler",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/1914_Buffalo_Buffeds_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Nick_Allen",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/1914_Buffalo_Buffeds_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Hugh_Bedient",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/1915_Buffalo_Blues_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Walter_Blair",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/1914_Buffalo_Buffeds_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Luther_Bonin",
+            "http://dbpedia.org/resource/Right_fielder",
+            "http://dbpedia.org/resource/1914_Buffalo_Buffeds_season"
+        ]
+    ]
+}

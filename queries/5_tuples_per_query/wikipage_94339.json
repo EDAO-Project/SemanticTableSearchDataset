@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shunpei_Yamazaki",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Thin-film_transistor"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Edison",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Electricity_generation"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_Weder",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Floristry"
+        ],
+        [
+            "http://dbpedia.org/resource/Melvin_De_Groote",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Emulsion"
+        ],
+        [
+            "http://dbpedia.org/resource/Carleton_Ellis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Margarine"
+        ]
+    ]
+}

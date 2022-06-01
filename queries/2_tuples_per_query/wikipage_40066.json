@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Barr",
+            "http://dbpedia.org/resource/University_of_Southern_California",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives"
+        ],
+        [
+            "http://dbpedia.org/resource/William_K._Brewster",
+            "http://dbpedia.org/resource/Southwestern_Oklahoma_State_University",
+            "http://dbpedia.org/resource/Oklahoma"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ruppert_Jones",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Kansas_City_Royals",
+            "http://dbpedia.org/resource/Seattle_Mariners"
+        ]
+    ]
+}

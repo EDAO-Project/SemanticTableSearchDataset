@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Holland",
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Maasvlakte",
+            "http://dbpedia.org/resource/Maasvlakte",
+            "http://dbpedia.org/resource/Maasvlakte",
+            "http://dbpedia.org/resource/Maasvlakte",
+            "http://dbpedia.org/resource/Maasvlakte"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Holland",
+            "http://dbpedia.org/resource/Westvoorne",
+            "http://dbpedia.org/resource/Oostvoorne"
+        ]
+    ]
+}

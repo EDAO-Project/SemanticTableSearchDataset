@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Alberta",
+            "http://dbpedia.org/resource/Alberta_Golden_Bears",
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/Alberta"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandon_University",
+            "http://dbpedia.org/resource/Brandon_Bobcats",
+            "http://dbpedia.org/resource/Brandon,_Manitoba",
+            "http://dbpedia.org/resource/Manitoba"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_British_Columbia",
+            "http://dbpedia.org/resource/UBC_Thunderbirds",
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/British_Columbia"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_British_Columbia_Okanagan",
+            "http://dbpedia.org/resource/UBC_Okanagan_Heat",
+            "http://dbpedia.org/resource/Kelowna",
+            "http://dbpedia.org/resource/British_Columbia"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Calgary",
+            "http://dbpedia.org/resource/Calgary_Dinos",
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Alberta"
+        ]
+    ]
+}

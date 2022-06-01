@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_World_Karate_Championships",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_World_Karate_Championships",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

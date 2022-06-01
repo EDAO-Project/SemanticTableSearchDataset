@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harvest_Moon_DS",
+            "http://dbpedia.org/resource/Marvelous_Entertainment",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Harvest_Moon_DS",
+            "http://dbpedia.org/resource/Marvelous_Entertainment",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/SBK:_Snowboard_Kids",
+            "http://dbpedia.org/resource/Racjin",
+            "http://dbpedia.org/resource/Europe"
+        ],
+        [
+            "http://dbpedia.org/resource/Harvest_Moon_DS:_Island_of_Happiness",
+            "http://dbpedia.org/resource/Marvelous_Entertainment",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Luminous_Arc",
+            "http://dbpedia.org/resource/Imageepoch",
+            "http://dbpedia.org/resource/Japan"
+        ]
+    ]
+}

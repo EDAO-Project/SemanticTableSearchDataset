@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aegirosaurus",
+            "http://dbpedia.org/resource/2000_in_paleontology",
+            "http://dbpedia.org/resource/Late_Jurassic",
+            "http://dbpedia.org/resource/Europe",
+            "http://dbpedia.org/resource/Solnhofen_limestone"
+        ],
+        [
+            "http://dbpedia.org/resource/Caypullisaurus",
+            "http://dbpedia.org/resource/1997_in_paleontology",
+            "http://dbpedia.org/resource/Late_Jurassic",
+            "http://dbpedia.org/resource/South_America",
+            "http://dbpedia.org/resource/Ophthalmosauridae"
+        ]
+    ]
+}

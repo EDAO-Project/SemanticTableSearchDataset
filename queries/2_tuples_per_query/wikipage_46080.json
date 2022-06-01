@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Iain_Balshaw",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Bath_Rugby"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Lewsey",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Wasps_RFC"
+        ]
+    ]
+}

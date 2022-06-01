@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/VfB_Stuttgart",
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern",
+            "http://dbpedia.org/resource/Klaus_Allofs"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/VfB_Stuttgart",
+            "http://dbpedia.org/resource/Karl-Heinz_Rummenigge"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/VfB_Stuttgart",
+            "http://dbpedia.org/resource/Karl-Heinz_Rummenigge"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/SV_Werder_Bremen",
+            "http://dbpedia.org/resource/KFC_Uerdingen_05",
+            "http://dbpedia.org/resource/Stefan_Kuntz"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern",
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/SV_Werder_Bremen",
+            "http://dbpedia.org/resource/Roland_Wohlfarth"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_in_sports",
+            "http://dbpedia.org/resource/Mike_E._Smith",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_in_sports",
+            "http://dbpedia.org/resource/Chris_McCarron",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_in_sports",
+            "http://dbpedia.org/resource/Jerry_D._Bailey",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_in_sports",
+            "http://dbpedia.org/resource/Jerry_D._Bailey",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_in_sports",
+            "http://dbpedia.org/resource/Gary_L._Stevens",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

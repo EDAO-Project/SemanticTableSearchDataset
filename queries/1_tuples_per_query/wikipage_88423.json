@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michele_Allasia",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Corpo_Aeronautico_Militare"
+        ]
+    ]
+}

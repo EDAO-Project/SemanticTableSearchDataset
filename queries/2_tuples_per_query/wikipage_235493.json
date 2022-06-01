@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_Agganis",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Pulmonary_embolism"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Bechler",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Ephedra"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kurokuma_Falls",
+            "http://dbpedia.org/resource/Aomori_Prefecture",
+            "http://dbpedia.org/resource/Ajigasawa,_Aomori"
+        ],
+        [
+            "http://dbpedia.org/resource/Matsumi_Falls",
+            "http://dbpedia.org/resource/Aomori_Prefecture",
+            "http://dbpedia.org/resource/Towada,_Aomori"
+        ]
+    ]
+}

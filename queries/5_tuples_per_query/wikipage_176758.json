@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Honda_LPGA_Thailand",
+            "http://dbpedia.org/resource/Yani_Tseng",
+            "http://dbpedia.org/resource/Ai_Miyazato",
+            "http://dbpedia.org/resource/Jiyai_Shin"
+        ],
+        [
+            "http://dbpedia.org/resource/JTBC_Founders_Cup",
+            "http://dbpedia.org/resource/Ryu_So-yeon",
+            "http://dbpedia.org/resource/Park_Hee-young",
+            "http://dbpedia.org/resource/Caroline_Hedwall"
+        ],
+        [
+            "http://dbpedia.org/resource/Kia_Classic",
+            "http://dbpedia.org/resource/Yoo_Sun-young",
+            "http://dbpedia.org/resource/Pak_Se-ri",
+            "http://dbpedia.org/resource/Jodi_Ewart_Shadoff"
+        ],
+        [
+            "http://dbpedia.org/resource/ANA_Inspiration",
+            "http://dbpedia.org/resource/In-Kyung_Kim",
+            "http://dbpedia.org/resource/Amy_Yang",
+            "http://dbpedia.org/resource/Hee-Kyung_Seo"
+        ],
+        [
+            "http://dbpedia.org/resource/Airbus_LPGA_Classic",
+            "http://dbpedia.org/resource/Lexi_Thompson",
+            "http://dbpedia.org/resource/Karine_Icher",
+            "http://dbpedia.org/resource/Karrie_Webb"
+        ]
+    ]
+}

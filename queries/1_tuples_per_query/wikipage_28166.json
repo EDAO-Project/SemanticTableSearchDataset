@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bishop_of_London",
+            "http://dbpedia.org/resource/Archdeacon_of_London",
+            "http://dbpedia.org/resource/City_of_London"
+        ]
+    ]
+}

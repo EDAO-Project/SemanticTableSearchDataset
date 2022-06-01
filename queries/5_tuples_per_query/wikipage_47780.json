@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Angeles_County,_California",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Los_Angeles"
+        ],
+        [
+            "http://dbpedia.org/resource/Cook_County,_Illinois",
+            "http://dbpedia.org/resource/Illinois",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Harris_County,_Texas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/Maricopa_County,_Arizona",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Phoenix,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Diego_County,_California",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/San_Diego"
+        ]
+    ]
+}

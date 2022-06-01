@@ -1,0 +1,13 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/German_submarine_U-173",
+            "http://dbpedia.org/resource/German_submarine_U-174",
+            "http://dbpedia.org/resource/German_submarine_U-175",
+            "http://dbpedia.org/resource/German_submarine_U-176",
+            "http://dbpedia.org/resource/German_submarine_U-177",
+            "http://dbpedia.org/resource/German_submarine_U-178",
+            "http://dbpedia.org/resource/German_submarine_U-179"
+        ]
+    ]
+}

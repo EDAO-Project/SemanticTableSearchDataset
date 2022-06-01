@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_Reid",
+            "http://dbpedia.org/resource/1980_United_States_Census",
+            "http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate"
+        ],
+        [
+            "http://dbpedia.org/resource/Mary_Landrieu",
+            "http://dbpedia.org/resource/1990_United_States_Census",
+            "http://dbpedia.org/resource/United_States_Senate_Committee_on_Small_Business_and_Entrepreneurship"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Sessions",
+            "http://dbpedia.org/resource/1990_United_States_Census",
+            "http://dbpedia.org/resource/United_States_Senate_Committee_on_the_Budget"
+        ],
+        [
+            "http://dbpedia.org/resource/Susan_Collins",
+            "http://dbpedia.org/resource/1990_United_States_Census",
+            "http://dbpedia.org/resource/United_States_Senate_Special_Committee_on_Aging"
+        ],
+        [
+            "http://dbpedia.org/resource/Saxby_Chambliss",
+            "http://dbpedia.org/resource/2000_United_States_Census",
+            "http://dbpedia.org/resource/United_States_Senate_Select_Committee_on_Intelligence"
+        ]
+    ]
+}

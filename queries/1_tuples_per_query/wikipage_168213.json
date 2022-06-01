@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bacoor_Bay",
+            "http://dbpedia.org/resource/Cavite",
+            "http://dbpedia.org/resource/Bacoor"
+        ]
+    ]
+}

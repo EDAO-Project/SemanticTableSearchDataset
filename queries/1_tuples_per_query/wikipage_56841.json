@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ottawa_Transportation_Commission",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

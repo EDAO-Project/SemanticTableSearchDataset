@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_league_team",
+            "http://dbpedia.org/resource/Stade_Ernest-Wallon",
+            "http://dbpedia.org/resource/Toulouse",
+            "http://dbpedia.org/resource/2009_Rugby_League_Four_Nations"
+        ],
+        [
+            "http://dbpedia.org/resource/England_national_rugby_league_team",
+            "http://dbpedia.org/resource/Keepmoat_Stadium",
+            "http://dbpedia.org/resource/Doncaster",
+            "http://dbpedia.org/resource/2009_Rugby_League_Four_Nations"
+        ]
+    ]
+}

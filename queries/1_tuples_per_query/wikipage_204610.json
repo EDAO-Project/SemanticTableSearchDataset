@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_Japanese_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/1991_Japanese_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/1992_Japanese_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/1993_Australian_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/1994_Australian_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/1995_Australian_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/1996_Malaysian_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/1997_Malaysian_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/1998_Japanese_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/1999_Malaysian_motorcycle_Grand_Prix"
+        ]
+    ]
+}

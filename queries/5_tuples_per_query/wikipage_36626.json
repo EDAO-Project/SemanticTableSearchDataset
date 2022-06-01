@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_college_football_season",
+            "http://dbpedia.org/resource/1960_Minnesota_Golden_Gophers_football_team",
+            "http://dbpedia.org/resource/Big_Ten_Conference",
+            "http://dbpedia.org/resource/Murray_Warmath"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_college_football_season",
+            "http://dbpedia.org/resource/1961_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/Southeastern_Conference",
+            "http://dbpedia.org/resource/Bear_Bryant"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_college_football_season",
+            "http://dbpedia.org/resource/1963_Texas_Longhorns_football_team",
+            "http://dbpedia.org/resource/Southwestern_Athletic_Conference",
+            "http://dbpedia.org/resource/Darrell_Royal"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_college_football_season",
+            "http://dbpedia.org/resource/1965_Michigan_State_Spartans_football_team",
+            "http://dbpedia.org/resource/Big_Ten_Conference",
+            "http://dbpedia.org/resource/Duffy_Daugherty"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_college_football_season",
+            "http://dbpedia.org/resource/1966_Michigan_State_Spartans_football_team",
+            "http://dbpedia.org/resource/Big_Ten_Conference",
+            "http://dbpedia.org/resource/Duffy_Daugherty"
+        ]
+    ]
+}

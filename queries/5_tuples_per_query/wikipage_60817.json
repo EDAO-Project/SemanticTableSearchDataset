@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Horace_Armitage",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Istanbul_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Adil_Giray",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Istanbul_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Nihat_Bekdik",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Istanbul_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Jules_Limbeck",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Istanbul_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Howe",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Turkish_Cup"
+        ]
+    ]
+}

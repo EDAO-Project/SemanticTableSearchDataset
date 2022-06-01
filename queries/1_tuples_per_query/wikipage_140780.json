@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Penn_State_Abington",
+            "http://dbpedia.org/resource/Abington_Township,_Montgomery_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Penn_State_Abington",
+            "http://dbpedia.org/resource/North_Eastern_Athletic_Conference"
+        ]
+    ]
+}

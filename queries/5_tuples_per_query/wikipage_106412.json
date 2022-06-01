@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/60_metres",
+            "http://dbpedia.org/resource/Ronald_Pognon",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Tobias_Unger",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/Yuriy_Borzakovskiy",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Middle-distance_running",
+            "http://dbpedia.org/resource/Mehdi_Baala",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Daniel_Kipchirchir_Komen",
+            "http://dbpedia.org/resource/Kenya"
+        ]
+    ]
+}

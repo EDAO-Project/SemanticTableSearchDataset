@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election,_1792",
+            "http://dbpedia.org/resource/George_Washington",
+            "http://dbpedia.org/resource/John_Adams"
+        ]
+    ]
+}

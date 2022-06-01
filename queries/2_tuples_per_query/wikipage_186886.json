@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tommie_Smith",
+            "http://dbpedia.org/resource/Peter_Norman",
+            "http://dbpedia.org/resource/John_Carlos"
+        ],
+        [
+            "http://dbpedia.org/resource/Ralph_Doubell",
+            "http://dbpedia.org/resource/Wilson_Kiprugut",
+            "http://dbpedia.org/resource/Thomas_Farrell"
+        ]
+    ]
+}

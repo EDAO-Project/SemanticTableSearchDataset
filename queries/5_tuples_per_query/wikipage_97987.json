@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Enthiran",
+            "http://dbpedia.org/resource/S._Shankar",
+            "http://dbpedia.org/resource/Rajinikanth",
+            "http://dbpedia.org/resource/Science_fiction_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Anjaana_Anjaani",
+            "http://dbpedia.org/resource/Siddharth_Anand",
+            "http://dbpedia.org/resource/Ranbir_Kapoor",
+            "http://dbpedia.org/resource/Romance_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Do_Dooni_Chaar",
+            "http://dbpedia.org/resource/Habib_Faisal",
+            "http://dbpedia.org/resource/Rishi_Kapoor",
+            "http://dbpedia.org/resource/Comedy_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Kajraare",
+            "http://dbpedia.org/resource/Pooja_Bhatt",
+            "http://dbpedia.org/resource/Himesh_Reshammiya",
+            "http://dbpedia.org/resource/Romance_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Hisss",
+            "http://dbpedia.org/resource/Jennifer_Lynch",
+            "http://dbpedia.org/resource/Mallika_Sherawat",
+            "http://dbpedia.org/resource/Horror_film"
+        ]
+    ]
+}

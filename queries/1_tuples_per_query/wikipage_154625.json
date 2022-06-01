@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Usain_Bolt",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/2009_World_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Berlin"
+        ]
+    ]
+}

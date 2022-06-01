@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Romania",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Czech_Republic",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Slovakia"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Denmark"
+        ]
+    ]
+}

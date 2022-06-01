@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Branko_Zebec",
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/1954_FIFA_World_Cup"
+        ]
+    ]
+}

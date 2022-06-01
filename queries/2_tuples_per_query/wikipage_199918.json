@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Louisville",
+            "http://dbpedia.org/resource/Denny_Crum",
+            "http://dbpedia.org/resource/Duke_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill",
+            "http://dbpedia.org/resource/Dean_Smith",
+            "http://dbpedia.org/resource/University_of_Louisville"
+        ]
+    ]
+}

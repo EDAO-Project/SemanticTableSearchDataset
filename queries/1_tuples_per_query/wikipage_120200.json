@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/Irina_Falconi",
+            "http://dbpedia.org/resource/Allie_Will",
+            "http://dbpedia.org/resource/Julia_Glushko",
+            "http://dbpedia.org/resource/Amanda_Fink"
+        ]
+    ]
+}

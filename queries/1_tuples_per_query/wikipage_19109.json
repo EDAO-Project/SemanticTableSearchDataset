@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alex_Kidd",
+            "http://dbpedia.org/resource/Master_System",
+            "http://dbpedia.org/resource/Sega_Wow",
+            "http://dbpedia.org/resource/Platform_game"
+        ]
+    ]
+}

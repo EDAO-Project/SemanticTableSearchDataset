@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armitt_Library",
+            "http://dbpedia.org/resource/Ambleside",
+            "http://dbpedia.org/resource/Beatrix_Potter"
+        ]
+    ]
+}

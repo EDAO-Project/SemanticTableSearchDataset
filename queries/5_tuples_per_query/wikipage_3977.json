@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Myron_Donovan_Crocker",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Sherrill_Halbert",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Jamison_MacBride",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_John_F._Kennedy"
+        ],
+        [
+            "http://dbpedia.org/resource/Philip_Charles_Wilkins",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Richard_Nixon"
+        ],
+        [
+            "http://dbpedia.org/resource/Milton_Lewis_Schwartz",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Jimmy_Carter"
+        ]
+    ]
+}

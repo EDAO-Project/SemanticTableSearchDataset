@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/Atlas_II",
+            "http://dbpedia.org/resource/Molniya_orbit",
+            "http://dbpedia.org/resource/Satellite_Data_System",
+            "http://dbpedia.org/resource/Communications_satellite"
+        ]
+    ]
+}

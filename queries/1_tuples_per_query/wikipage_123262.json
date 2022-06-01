@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Tour_Down_Under",
+            "http://dbpedia.org/resource/Cameron_Meyer",
+            "http://dbpedia.org/resource/Team_LottoNL-Jumbo",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

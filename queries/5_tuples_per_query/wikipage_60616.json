@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_American_Football_League_draft",
+            "http://dbpedia.org/resource/Mike_Dennis",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Ole_Miss_Rebels_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_NFL_draft",
+            "http://dbpedia.org/resource/Haven_Moses",
+            "http://dbpedia.org/resource/Wide_receiver",
+            "http://dbpedia.org/resource/San_Diego_State_Aztecs_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_NFL_draft",
+            "http://dbpedia.org/resource/O._J._Simpson",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/USC_Trojans_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_NFL_draft",
+            "http://dbpedia.org/resource/Walt_Patulski",
+            "http://dbpedia.org/resource/Defensive_end",
+            "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_NFL_draft",
+            "http://dbpedia.org/resource/Reuben_Gant",
+            "http://dbpedia.org/resource/Tight_end",
+            "http://dbpedia.org/resource/Oklahoma_State_Cowboys_football"
+        ]
+    ]
+}

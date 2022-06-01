@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/USC_Trojans",
+            "http://dbpedia.org/resource/Yale_Bulldogs",
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina",
+            "http://dbpedia.org/resource/North_Carolina_State_University"
+        ]
+    ]
+}

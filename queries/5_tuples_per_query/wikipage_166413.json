@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/California_State_Superintendent_of_Public_Instruction",
+            "http://dbpedia.org/resource/Tom_Torlakson"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Florida_Department_of_Education",
+            "http://dbpedia.org/resource/Florida_Board_of_Education"
+        ],
+        [
+            "http://dbpedia.org/resource/Indiana",
+            "http://dbpedia.org/resource/Indiana_Superintendent_of_Public_Instruction",
+            "http://dbpedia.org/resource/Glenda_Ritz"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Jersey",
+            "http://dbpedia.org/resource/New_Jersey_Department_of_Education",
+            "http://dbpedia.org/resource/Christopher_Cerf"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Dakota",
+            "http://dbpedia.org/resource/North_Dakota_Superintendent_of_Public_Instruction",
+            "http://dbpedia.org/resource/Wayne_Sanstead"
+        ]
+    ]
+}

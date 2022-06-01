@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1969_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Randy_Elliott",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Adolfo_Camarillo_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Mike_Ivie",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Decatur,_Georgia"
+        ]
+    ]
+}

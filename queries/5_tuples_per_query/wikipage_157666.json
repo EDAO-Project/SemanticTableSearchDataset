@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/O2_Academy_Birmingham"
+        ],
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/O2_Academy_Birmingham"
+        ],
+        [
+            "http://dbpedia.org/resource/Doncaster",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/The_Dome_Leisure_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/O2_Apollo_Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Liverpool_Guild_of_Students"
+        ]
+    ]
+}

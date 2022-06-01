@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Negro_Casas",
+            "http://dbpedia.org/resource/Morelos",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Hijo_del_Santo",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Hijo_del_Santo",
+            "http://dbpedia.org/resource/Tijuana",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Psicosis",
+            "http://dbpedia.org/resource/Aguascalientes,_Aguascalientes",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Rey_Mysterio",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

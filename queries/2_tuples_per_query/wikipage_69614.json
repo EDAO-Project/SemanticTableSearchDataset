@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andriy_Shevchenko",
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Deco",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/FC_Porto"
+        ]
+    ]
+}

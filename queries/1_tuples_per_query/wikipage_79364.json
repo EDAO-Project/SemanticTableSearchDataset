@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Woodrow_Wilson",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/David_Lloyd_George"
+        ]
+    ]
+}

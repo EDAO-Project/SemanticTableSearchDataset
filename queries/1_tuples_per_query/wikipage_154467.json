@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roselands,_New_South_Wales",
+            "http://dbpedia.org/resource/Kogarah,_New_South_Wales",
+            "http://dbpedia.org/resource/Earlwood,_New_South_Wales"
+        ]
+    ]
+}

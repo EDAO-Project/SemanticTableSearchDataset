@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama_Jazz_Hall_of_Fame",
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/Jazz"
+        ],
+        [
+            "http://dbpedia.org/resource/Alabama_Rural_Heritage_Center",
+            "http://dbpedia.org/resource/Thomaston,_Alabama",
+            "http://dbpedia.org/resource/Auburn_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Alabama_State_Capitol",
+            "http://dbpedia.org/resource/Montgomery,_Alabama",
+            "http://dbpedia.org/resource/National_Historic_Landmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Belle_Mont",
+            "http://dbpedia.org/resource/Tuscumbia,_Alabama",
+            "http://dbpedia.org/resource/Thomas_Jefferson"
+        ],
+        [
+            "http://dbpedia.org/resource/Bessemer_Hall_of_History",
+            "http://dbpedia.org/resource/Bessemer,_Alabama",
+            "http://dbpedia.org/resource/Train_station"
+        ]
+    ]
+}

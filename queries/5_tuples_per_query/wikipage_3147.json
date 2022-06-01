@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_in_sports",
+            "http://dbpedia.org/resource/1992_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/National_Football_League",
+            "http://dbpedia.org/resource/American_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_in_sports",
+            "http://dbpedia.org/resource/1993_Toronto_Blue_Jays_season",
+            "http://dbpedia.org/resource/Major_League_Baseball",
+            "http://dbpedia.org/resource/Baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_in_sports",
+            "http://dbpedia.org/resource/1996_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Major_League_Baseball",
+            "http://dbpedia.org/resource/Baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_in_sports",
+            "http://dbpedia.org/resource/1997_Denver_Broncos_season",
+            "http://dbpedia.org/resource/National_Football_League",
+            "http://dbpedia.org/resource/American_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_sports",
+            "http://dbpedia.org/resource/1998_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Major_League_Baseball",
+            "http://dbpedia.org/resource/Baseball"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/After_Death",
+            "http://dbpedia.org/resource/Claudio_Fragasso",
+            "http://dbpedia.org/resource/Jeff_Stryker"
+        ],
+        [
+            "http://dbpedia.org/resource/Chuck_Russell",
+            "http://dbpedia.org/resource/Kevin_Dillon",
+            "http://dbpedia.org/resource/List_of_film_remakes"
+        ]
+    ]
+}

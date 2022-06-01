@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Yale_University",
+            "http://dbpedia.org/resource/Yale_School_of_Architecture"
+        ]
+    ]
+}

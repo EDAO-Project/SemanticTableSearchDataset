@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cardiff",
+            "http://dbpedia.org/resource/Wales",
+            "http://dbpedia.org/resource/Motorpoint_Arena_Cardiff"
+        ]
+    ]
+}

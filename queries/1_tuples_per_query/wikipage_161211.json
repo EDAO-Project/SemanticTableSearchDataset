@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Great_Lakes_Bowl",
+            "http://dbpedia.org/resource/1947_Kentucky_Wildcats_football_team",
+            "http://dbpedia.org/resource/Villanova_Wildcats_football",
+            "http://dbpedia.org/resource/Cleveland_Stadium",
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/Bear_Bryant"
+        ]
+    ]
+}

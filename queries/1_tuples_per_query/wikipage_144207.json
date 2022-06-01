@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_U.S._Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/Carol_Heiss",
+            "http://dbpedia.org/resource/Barbara_Roles",
+            "http://dbpedia.org/resource/Laurence_Owen",
+            "http://dbpedia.org/resource/Stephanie_Westerfeld"
+        ]
+    ]
+}

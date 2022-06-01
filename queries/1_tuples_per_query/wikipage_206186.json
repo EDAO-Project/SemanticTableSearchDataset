@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angus",
+            "http://dbpedia.org/resource/Scottish_National_Party",
+            "http://dbpedia.org/resource/No_overall_control",
+            "http://dbpedia.org/resource/Angus_Council_election,_2007"
+        ]
+    ]
+}

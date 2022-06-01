@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alda_of_Alania",
+            "http://dbpedia.org/resource/Alania",
+            "http://dbpedia.org/resource/George_I_of_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Helena_Argyre",
+            "http://dbpedia.org/resource/Basil_Argyros",
+            "http://dbpedia.org/resource/Bagrat_IV_of_Georgia"
+        ]
+    ]
+}

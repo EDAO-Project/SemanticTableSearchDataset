@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aubergenville",
+            "http://dbpedia.org/resource/Auffreville-Brasseuil",
+            "http://dbpedia.org/resource/Aulnay-sur-Mauldre"
+        ],
+        [
+            "http://dbpedia.org/resource/Bazainville",
+            "http://dbpedia.org/resource/Bazemont",
+            "http://dbpedia.org/resource/Bennecourt"
+        ]
+    ]
+}

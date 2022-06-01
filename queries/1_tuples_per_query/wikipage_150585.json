@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bodnant_Garden",
+            "http://dbpedia.org/resource/Conwy_County_Borough",
+            "http://dbpedia.org/resource/Gwynedd"
+        ]
+    ]
+}

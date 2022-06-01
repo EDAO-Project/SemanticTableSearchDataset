@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phanerozoic",
+            "http://dbpedia.org/resource/Cenozoic",
+            "http://dbpedia.org/resource/Quaternary"
+        ]
+    ]
+}

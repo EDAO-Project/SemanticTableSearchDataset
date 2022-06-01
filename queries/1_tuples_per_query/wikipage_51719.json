@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Petaling,_Selangor",
+            "http://dbpedia.org/resource/Shah_Alam",
+            "http://dbpedia.org/resource/Selangor"
+        ]
+    ]
+}

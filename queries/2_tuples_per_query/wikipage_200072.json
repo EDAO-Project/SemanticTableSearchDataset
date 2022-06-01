@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Kentucky",
+            "http://dbpedia.org/resource/Adolph_Rupp",
+            "http://dbpedia.org/resource/Pennsylvania_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Salle_University",
+            "http://dbpedia.org/resource/Ken_Loeffler",
+            "http://dbpedia.org/resource/University_of_San_Francisco"
+        ]
+    ]
+}

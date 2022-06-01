@@ -1,0 +1,31 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Milton,_Washington",
+            "http://dbpedia.org/resource/List_of_former_state_routes_in_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/King_County,_Washington",
+            "http://dbpedia.org/resource/Saltwater_State_Park",
+            "http://dbpedia.org/resource/Washington_State_Route_509"
+        ],
+        [
+            "http://dbpedia.org/resource/King_County,_Washington",
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/South_Park,_Seattle"
+        ],
+        [
+            "http://dbpedia.org/resource/King_County,_Washington",
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/South_Park,_Seattle"
+        ],
+        [
+            "http://dbpedia.org/resource/King_County,_Washington",
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/First_Avenue_South_Bridge",
+            "http://dbpedia.org/resource/First_Avenue_South_Bridge",
+            "http://dbpedia.org/resource/First_Avenue_South_Bridge"
+        ]
+    ]
+}

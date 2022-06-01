@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Haddon_Heights,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Episcopal_Academy"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Narberth,_Pennsylvania",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lower_Merion_High_School"
+        ]
+    ]
+}

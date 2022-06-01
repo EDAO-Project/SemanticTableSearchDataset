@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_League_XIII",
+            "http://dbpedia.org/resource/2008_Super_League_season_results",
+            "http://dbpedia.org/resource/Hull_Kingston_Rovers",
+            "http://dbpedia.org/resource/Craven_Park,_Hull"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_XIII",
+            "http://dbpedia.org/resource/2008_Super_League_season_results",
+            "http://dbpedia.org/resource/Warrington_Wolves",
+            "http://dbpedia.org/resource/Knowsley_Road"
+        ]
+    ]
+}

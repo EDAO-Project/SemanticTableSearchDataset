@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Michael_Schumacher",
+            "http://dbpedia.org/resource/2001_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/2001_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Champ_Car",
+            "http://dbpedia.org/resource/Gil_de_Ferran",
+            "http://dbpedia.org/resource/2001_CART_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Indy_Lights",
+            "http://dbpedia.org/resource/Townsend_Bell",
+            "http://dbpedia.org/resource/2001_Indy_Lights_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic_Championship",
+            "http://dbpedia.org/resource/Hoover_Orsi",
+            "http://dbpedia.org/resource/2001_Atlantic_Championship_season"
+        ]
+    ]
+}

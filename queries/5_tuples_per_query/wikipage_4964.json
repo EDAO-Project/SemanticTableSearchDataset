@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Sidorkiewicz",
+            "http://dbpedia.org/resource/Poland",
+            "http://dbpedia.org/resource/Hartford_Whalers"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Laforest",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Shaw",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/New_Jersey_Devils"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominic_Lavoie",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/St._Louis_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Van_Kessel",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ]
+    ]
+}

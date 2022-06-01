@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1947_NFL_draft",
+            "http://dbpedia.org/resource/Tom_Nichols",
+            "http://dbpedia.org/resource/Washington_Redskins"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_NFL_draft",
+            "http://dbpedia.org/resource/Lou_Wacker",
+            "http://dbpedia.org/resource/Detroit_Lions"
+        ]
+    ]
+}

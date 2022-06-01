@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peugeot_Sport",
+            "http://dbpedia.org/resource/Peugeot",
+            "http://dbpedia.org/resource/Peugeot_205",
+            "http://dbpedia.org/resource/Michelin",
+            "http://dbpedia.org/resource/Timo_Salonen"
+        ],
+        [
+            "http://dbpedia.org/resource/Peugeot_Sport",
+            "http://dbpedia.org/resource/Peugeot",
+            "http://dbpedia.org/resource/Peugeot_205",
+            "http://dbpedia.org/resource/Michelin",
+            "http://dbpedia.org/resource/Juha_Kankkunen"
+        ]
+    ]
+}

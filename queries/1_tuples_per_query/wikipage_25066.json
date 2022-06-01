@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/Persian_Jews",
+            "http://dbpedia.org/resource/History_of_the_Jews_in_Afghanistan",
+            "http://dbpedia.org/resource/List_of_Asian_Jews"
+        ]
+    ]
+}

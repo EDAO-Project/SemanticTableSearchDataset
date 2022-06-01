@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rabah_Madjer",
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/FC_Porto",
+            "http://dbpedia.org/resource/C.F._Os_Belenenses"
+        ],
+        [
+            "http://dbpedia.org/resource/Paulinho_Cascavel",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal",
+            "http://dbpedia.org/resource/C.D._Nacional"
+        ]
+    ]
+}

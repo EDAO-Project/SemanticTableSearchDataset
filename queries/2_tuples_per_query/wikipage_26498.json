@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2_Young",
+            "http://dbpedia.org/resource/Derek_Yee",
+            "http://dbpedia.org/resource/Jaycee_Chan"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Chinese_Tall_Story",
+            "http://dbpedia.org/resource/Jeffrey_Lau",
+            "http://dbpedia.org/resource/Nicholas_Tse"
+        ]
+    ]
+}

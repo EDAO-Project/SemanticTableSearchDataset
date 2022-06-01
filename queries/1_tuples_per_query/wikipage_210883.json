@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mahmoud_Abbas",
+            "http://dbpedia.org/resource/Palestinian_territories",
+            "http://dbpedia.org/resource/President_of_the_State_of_Palestine"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DAMS",
+            "http://dbpedia.org/resource/Lola_Cars",
+            "http://dbpedia.org/resource/Mugen_Motorsports",
+            "http://dbpedia.org/resource/Allan_McNish"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Ayles",
+            "http://dbpedia.org/resource/Ralt",
+            "http://dbpedia.org/resource/Cosworth",
+            "http://dbpedia.org/resource/Michael_Bartels"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Ayles",
+            "http://dbpedia.org/resource/Ralt",
+            "http://dbpedia.org/resource/Cosworth",
+            "http://dbpedia.org/resource/Massimo_Monti"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Ayles",
+            "http://dbpedia.org/resource/Ralt",
+            "http://dbpedia.org/resource/Cosworth",
+            "http://dbpedia.org/resource/Thierry_Delubac"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Racing",
+            "http://dbpedia.org/resource/Reynard_Motorsport",
+            "http://dbpedia.org/resource/Cosworth",
+            "http://dbpedia.org/resource/Giovanni_Bonanno"
+        ]
+    ]
+}

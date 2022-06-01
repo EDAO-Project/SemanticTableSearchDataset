@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2008_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/James_%22Cha%22_Fitzpatrick",
+            "http://dbpedia.org/resource/Ballyhale_Shamrocks_GAA",
+            "http://dbpedia.org/resource/All-Ireland_Hurling_Final",
+            "http://dbpedia.org/resource/Leinster_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/Henry_Shefflin",
+            "http://dbpedia.org/resource/Ballyhale_Shamrocks_GAA",
+            "http://dbpedia.org/resource/All-Ireland_Hurling_Final",
+            "http://dbpedia.org/resource/Leinster_Senior_Hurling_Championship"
+        ]
+    ]
+}

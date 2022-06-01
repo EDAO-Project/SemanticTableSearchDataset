@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Philipp_Schmitt",
+            "http://dbpedia.org/resource/War_crime",
+            "http://dbpedia.org/resource/Execution_by_firing_squad"
+        ]
+    ]
+}

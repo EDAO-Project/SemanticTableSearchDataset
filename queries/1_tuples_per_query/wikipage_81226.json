@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Olimpiyskiy_National_Sports_Complex",
+            "http://dbpedia.org/resource/Kiev",
+            "http://dbpedia.org/resource/Ukraine_national_football_team"
+        ]
+    ]
+}

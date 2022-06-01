@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ray_McCallum",
+            "http://dbpedia.org/resource/Crisler_Center",
+            "http://dbpedia.org/resource/Ann_Arbor,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Ron_Harper",
+            "http://dbpedia.org/resource/Savage_Arena",
+            "http://dbpedia.org/resource/Toledo,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Majerle",
+            "http://dbpedia.org/resource/Savage_Arena",
+            "http://dbpedia.org/resource/Toledo,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Grant_Long",
+            "http://dbpedia.org/resource/Savage_Arena",
+            "http://dbpedia.org/resource/Toledo,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcus_Kennedy",
+            "http://dbpedia.org/resource/Cobo_Center",
+            "http://dbpedia.org/resource/Detroit"
+        ]
+    ]
+}

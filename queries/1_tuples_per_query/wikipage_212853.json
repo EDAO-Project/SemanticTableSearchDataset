@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Alberta",
+            "http://dbpedia.org/resource/Alberta_Golden_Bears",
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/Alberta"
+        ]
+    ]
+}

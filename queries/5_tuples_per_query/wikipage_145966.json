@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Graham_Koonce",
+            "http://dbpedia.org/resource/Sacramento_River_Cats",
+            "http://dbpedia.org/resource/Oakland_Athletics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Howard",
+            "http://dbpedia.org/resource/Reading_Fightin_Phils",
+            "http://dbpedia.org/resource/Philadelphia_Phillies"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandon_Wood",
+            "http://dbpedia.org/resource/Rancho_Cucamonga_Quakes",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Witt",
+            "http://dbpedia.org/resource/Durham_Bulls",
+            "http://dbpedia.org/resource/Tampa_Bay_Rays"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Brazell",
+            "http://dbpedia.org/resource/Wichita_Wranglers",
+            "http://dbpedia.org/resource/Kansas_City_Royals"
+        ]
+    ]
+}

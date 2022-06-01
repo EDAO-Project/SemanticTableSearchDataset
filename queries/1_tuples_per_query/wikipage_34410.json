@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mainstreeter",
+            "http://dbpedia.org/resource/Northern_Pacific_Railway",
+            "http://dbpedia.org/resource/Chicago"
+        ]
+    ]
+}

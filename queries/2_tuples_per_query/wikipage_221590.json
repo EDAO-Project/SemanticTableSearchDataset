@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lake_Athabasca",
+            "http://dbpedia.org/resource/Slave_River",
+            "http://dbpedia.org/resource/Arctic_Ocean",
+            "http://dbpedia.org/resource/Saskatchewan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chestermere_Lake",
+            "http://dbpedia.org/resource/Bow_River",
+            "http://dbpedia.org/resource/Hudson_Bay",
+            "http://dbpedia.org/resource/Reservoir"
+        ]
+    ]
+}

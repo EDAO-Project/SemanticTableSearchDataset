@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Dawley",
+            "http://dbpedia.org/resource/Memphis_Chicks",
+            "http://dbpedia.org/resource/Tim_McCarver_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Dawley",
+            "http://dbpedia.org/resource/Jacksonville_Suns",
+            "http://dbpedia.org/resource/Wolfson_Park"
+        ]
+    ]
+}

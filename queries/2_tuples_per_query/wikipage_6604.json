@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Arkansas",
+            "http://dbpedia.org/resource/J._William_Fulbright",
+            "http://dbpedia.org/resource/Dale_Bumpers"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Colorado",
+            "http://dbpedia.org/resource/Peter_H._Dominick",
+            "http://dbpedia.org/resource/Gary_Hart"
+        ]
+    ]
+}

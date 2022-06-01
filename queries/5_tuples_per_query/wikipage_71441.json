@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Lyne",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1901"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Patten",
+            "http://dbpedia.org/resource/Commonwealth_Liberal_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1913"
+        ],
+        [
+            "http://dbpedia.org/resource/Franc_Falkiner",
+            "http://dbpedia.org/resource/Nationalist_Party_of_Australia",
+            "http://dbpedia.org/resource/Australian_federal_election,_1917"
+        ],
+        [
+            "http://dbpedia.org/resource/Parker_Moloney",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1919"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Fuller",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1943"
+        ]
+    ]
+}

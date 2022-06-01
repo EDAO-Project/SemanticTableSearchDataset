@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_Dinnel",
+            "http://dbpedia.org/resource/Pepperdine_Waves",
+            "http://dbpedia.org/resource/Small_forward"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Adelman",
+            "http://dbpedia.org/resource/Loyola_Marymount_Lions",
+            "http://dbpedia.org/resource/Shooting_guard"
+        ]
+    ]
+}

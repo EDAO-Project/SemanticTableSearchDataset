@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Agua_Prieta"
+        ],
+        [
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Caborca"
+        ],
+        [
+            "http://dbpedia.org/resource/Azteca_Trece",
+            "http://dbpedia.org/resource/Azteca_Trece",
+            "http://dbpedia.org/resource/Cananea"
+        ],
+        [
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Cananea"
+        ],
+        [
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Los_Mochis"
+        ]
+    ]
+}

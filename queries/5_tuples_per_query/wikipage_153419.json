@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avenue_of_honour",
+            "http://dbpedia.org/resource/Ballarat",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cinquantenaire",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Porte_du_Peyrou",
+            "http://dbpedia.org/resource/Montpellier",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Arc_de_Triomphe",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Arc_de_Triomphe_du_Carrousel",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

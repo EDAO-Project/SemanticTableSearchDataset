@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Gexa_Energy_Pavilion"
+        ]
+    ]
+}

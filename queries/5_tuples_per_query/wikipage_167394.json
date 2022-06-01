@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aurora_Boulevard",
+            "http://dbpedia.org/resource/Quezon_City",
+            "http://dbpedia.org/resource/Aurora_Quezon",
+            "http://dbpedia.org/resource/First_Spouse_of_the_Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Chino_Roces_Avenue",
+            "http://dbpedia.org/resource/Makati",
+            "http://dbpedia.org/resource/Chino_Roces",
+            "http://dbpedia.org/resource/The_Manila_Times"
+        ],
+        [
+            "http://dbpedia.org/resource/Gilmore_Avenue,_Quezon_City",
+            "http://dbpedia.org/resource/Quezon_City",
+            "http://dbpedia.org/resource/Eugene_Allen_Gilmore",
+            "http://dbpedia.org/resource/Governor-General_of_the_Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Harrison_Avenue",
+            "http://dbpedia.org/resource/Pasay",
+            "http://dbpedia.org/resource/Francis_Burton_Harrison",
+            "http://dbpedia.org/resource/Governor-General_of_the_Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Macapagal_Boulevard",
+            "http://dbpedia.org/resource/Pasay",
+            "http://dbpedia.org/resource/Diosdado_Macapagal",
+            "http://dbpedia.org/resource/President_of_the_Philippines"
+        ]
+    ]
+}

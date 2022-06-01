@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indian_Harbour_Beach,_Florida",
+            "http://dbpedia.org/resource/Melinda_Czink",
+            "http://dbpedia.org/resource/Alison_Riske",
+            "http://dbpedia.org/resource/Laura_Robson",
+            "http://dbpedia.org/resource/Alexa_Glatch"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Harbour_Beach,_Florida",
+            "http://dbpedia.org/resource/Alyona_Sotnikova",
+            "http://dbpedia.org/resource/Christina_Fusano",
+            "http://dbpedia.org/resource/Laura_Robson",
+            "http://dbpedia.org/resource/Alexa_Glatch"
+        ],
+        [
+            "http://dbpedia.org/resource/Bukhara",
+            "http://dbpedia.org/resource/Nikola_Hofmanova",
+            "http://dbpedia.org/resource/Marta_Sirotkina",
+            "http://dbpedia.org/resource/Kateryna_Kozlova",
+            "http://dbpedia.org/resource/Nina_Bratchikova"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Strabag_Prague_Open",
+            "http://dbpedia.org/resource/Darya_Kustova",
+            "http://dbpedia.org/resource/Olga_Savchuk",
+            "http://dbpedia.org/resource/Yvonne_Meusburger",
+            "http://dbpedia.org/resource/Mandy_Minella"
+        ],
+        [
+            "http://dbpedia.org/resource/Carson,_California",
+            "http://dbpedia.org/resource/Camila_Giorgi",
+            "http://dbpedia.org/resource/Alexa_Glatch",
+            "http://dbpedia.org/resource/Ashley_Weinhold",
+            "http://dbpedia.org/resource/Jessica_Pegula"
+        ]
+    ]
+}

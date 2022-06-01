@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ed_Andrews",
+            "http://dbpedia.org/resource/Left_fielder",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlie_Bastian",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Games_played"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Canavan",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Games_played"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Clingman",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Games_played"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Dwyer",
+            "http://dbpedia.org/resource/Starting_pitcher",
+            "http://dbpedia.org/resource/Games_pitched"
+        ]
+    ]
+}

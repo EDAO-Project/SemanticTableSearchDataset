@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/27th_Street_Historic_District",
+            "http://dbpedia.org/resource/South_Los_Angeles",
+            "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+        ],
+        [
+            "http://dbpedia.org/resource/Angels_Flight",
+            "http://dbpedia.org/resource/Downtown_Los_Angeles",
+            "http://dbpedia.org/resource/Funicular"
+        ]
+    ]
+}

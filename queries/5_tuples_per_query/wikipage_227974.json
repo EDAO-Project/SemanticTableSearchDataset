@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Me_You_Them",
+            "http://dbpedia.org/resource/Portuguese_language",
+            "http://dbpedia.org/resource/Andrucha_Waddington"
+        ],
+        [
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/A_Place_Nearby",
+            "http://dbpedia.org/resource/Danish_language",
+            "http://dbpedia.org/resource/Kaspar_Rostrup"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/No_Place_to_Go",
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Oskar_Roehler"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/In_the_Mood_for_Love",
+            "http://dbpedia.org/resource/Yue_Chinese",
+            "http://dbpedia.org/resource/Wong_Kar-wai"
+        ],
+        [
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hey_Ram",
+            "http://dbpedia.org/resource/Tamil_language",
+            "http://dbpedia.org/resource/Kamal_Haasan"
+        ]
+    ]
+}

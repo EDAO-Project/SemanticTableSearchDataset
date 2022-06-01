@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mercury_Rising",
+            "http://dbpedia.org/resource/Universal_Studios",
+            "http://dbpedia.org/resource/Harold_Becker",
+            "http://dbpedia.org/resource/Action_film",
+            "http://dbpedia.org/resource/Live_action"
+        ]
+    ]
+}

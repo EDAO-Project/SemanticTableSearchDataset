@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Achy_Breaky_Song",
+            "http://dbpedia.org/resource/Alapalooza",
+            "http://dbpedia.org/resource/Achy_Breaky_Heart"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Alternative_Polka",
+            "http://dbpedia.org/resource/Bad_Hair_Day",
+            "http://dbpedia.org/resource/Polka"
+        ]
+    ]
+}

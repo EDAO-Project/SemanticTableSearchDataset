@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canoeing_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Germany_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Romania_at_the_1964_Summer_Olympics"
+        ]
+    ]
+}

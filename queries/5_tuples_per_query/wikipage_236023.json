@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_Congress_of_the_Philippines",
+            "http://dbpedia.org/resource/Tomas_Cabili",
+            "http://dbpedia.org/resource/Quintin_Paredes",
+            "http://dbpedia.org/resource/Carlos_P._Garcia"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Congress_of_the_Philippines",
+            "http://dbpedia.org/resource/Tomas_Cabili",
+            "http://dbpedia.org/resource/Eulogio_Rodriguez",
+            "http://dbpedia.org/resource/Carlos_P._Garcia"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Congress_of_the_Philippines",
+            "http://dbpedia.org/resource/Tomas_Cabili",
+            "http://dbpedia.org/resource/Jose_Zulueta",
+            "http://dbpedia.org/resource/Carlos_P._Garcia"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Congress_of_the_Philippines",
+            "http://dbpedia.org/resource/Tomas_Cabili",
+            "http://dbpedia.org/resource/Eulogio_Rodriguez",
+            "http://dbpedia.org/resource/Carlos_P._Garcia"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Congress_of_the_Philippines",
+            "http://dbpedia.org/resource/Arturo_Tolentino",
+            "http://dbpedia.org/resource/Ferdinand_Marcos",
+            "http://dbpedia.org/resource/Estanislao_Fernandez"
+        ]
+    ]
+}

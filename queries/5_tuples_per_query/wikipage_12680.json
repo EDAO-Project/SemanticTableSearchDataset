@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Jason_Richardson",
+            "http://dbpedia.org/resource/Gerald_Wallace",
+            "http://dbpedia.org/resource/Raymond_Felton",
+            "http://dbpedia.org/resource/Time_Warner_Cable_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn_Nets",
+            "http://dbpedia.org/resource/Jason_Richardson",
+            "http://dbpedia.org/resource/Emeka_Okafor",
+            "http://dbpedia.org/resource/Raymond_Felton",
+            "http://dbpedia.org/resource/Izod_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Bucks",
+            "http://dbpedia.org/resource/Gerald_Wallace",
+            "http://dbpedia.org/resource/Nazr_Mohammed",
+            "http://dbpedia.org/resource/Raymond_Felton",
+            "http://dbpedia.org/resource/Time_Warner_Cable_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn_Nets",
+            "http://dbpedia.org/resource/Jason_Richardson",
+            "http://dbpedia.org/resource/Gerald_Wallace",
+            "http://dbpedia.org/resource/Raymond_Felton",
+            "http://dbpedia.org/resource/Time_Warner_Cable_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Celtics",
+            "http://dbpedia.org/resource/Jason_Richardson",
+            "http://dbpedia.org/resource/Nazr_Mohammed",
+            "http://dbpedia.org/resource/Raymond_Felton",
+            "http://dbpedia.org/resource/TD_Garden"
+        ]
+    ]
+}

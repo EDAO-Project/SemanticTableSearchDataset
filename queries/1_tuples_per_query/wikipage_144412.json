@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1991_AFL_season",
+            "http://dbpedia.org/resource/Peter_Sumich",
+            "http://dbpedia.org/resource/Brett_Heady",
+            "http://dbpedia.org/resource/Peter_Matera"
+        ]
+    ]
+}

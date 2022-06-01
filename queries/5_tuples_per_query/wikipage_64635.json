@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chinatrust_Brothers",
+            "http://dbpedia.org/resource/Chinatrust_Whales",
+            "http://dbpedia.org/resource/Xinzhuang_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Chinatrust_Brothers",
+            "http://dbpedia.org/resource/Chinatrust_Whales",
+            "http://dbpedia.org/resource/Xinzhuang_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Chinatrust_Brothers",
+            "http://dbpedia.org/resource/EDA_Rhinos",
+            "http://dbpedia.org/resource/Douliu"
+        ],
+        [
+            "http://dbpedia.org/resource/Uni-President_7-Eleven_Lions",
+            "http://dbpedia.org/resource/Dmedia_T-REX",
+            "http://dbpedia.org/resource/Hsinchu"
+        ],
+        [
+            "http://dbpedia.org/resource/Chinatrust_Brothers",
+            "http://dbpedia.org/resource/EDA_Rhinos",
+            "http://dbpedia.org/resource/Taichung"
+        ]
+    ]
+}

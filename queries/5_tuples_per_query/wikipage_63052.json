@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Ella_Fitzgerald",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ella_Fitzgerald_Sings_the_Irving_Berlin_Songbook",
+            "http://dbpedia.org/resource/Doris_Day"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Ella_Fitzgerald",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mack_the_Knife",
+            "http://dbpedia.org/resource/Doris_Day"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Ella_Fitzgerald",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ella_in_Berlin:_Mack_the_Knife",
+            "http://dbpedia.org/resource/Rosemary_Clooney"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Judy_Garland",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Judy_at_Carnegie_Hall",
+            "http://dbpedia.org/resource/Ella_Fitzgerald"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Ella_Fitzgerald",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ella_Swings_Brightly_with_Nelson",
+            "http://dbpedia.org/resource/Diahann_Carroll"
+        ]
+    ]
+}

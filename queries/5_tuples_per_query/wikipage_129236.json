@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Zealand_PGA_Championship",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Gavin_Coles"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Tee_Arkansas_Classic",
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Daniel_Chopra"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Smith_Classic",
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Franklin_Langham"
+        ],
+        [
+            "http://dbpedia.org/resource/BMW_Charity_Pro-Am",
+            "http://dbpedia.org/resource/South_Carolina",
+            "http://dbpedia.org/resource/Ryuji_Imada"
+        ],
+        [
+            "http://dbpedia.org/resource/Chattanooga_Classic",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/Justin_Bolli"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/College_of_Engineering,_Adoor",
+            "http://dbpedia.org/resource/Pathanamthitta",
+            "http://dbpedia.org/resource/Institute_of_Human_Resources_Development"
+        ]
+    ]
+}

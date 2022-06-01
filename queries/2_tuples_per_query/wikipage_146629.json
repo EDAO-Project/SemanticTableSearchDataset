@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amondans",
+            "http://dbpedia.org/resource/Arc-et-Senans",
+            "http://dbpedia.org/resource/Arguel,_Doubs",
+            "http://dbpedia.org/resource/Athose"
+        ],
+        [
+            "http://dbpedia.org/resource/Audeux",
+            "http://dbpedia.org/resource/Autechaux",
+            "http://dbpedia.org/resource/Auxon-Dessous",
+            "http://dbpedia.org/resource/Auxon-Dessus"
+        ]
+    ]
+}

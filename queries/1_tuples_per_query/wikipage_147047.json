@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gran_Premio_della_Costa_Etruschi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Elia_Viviani",
+            "http://dbpedia.org/resource/Cannondale_Pro_Cycling_Team"
+        ]
+    ]
+}

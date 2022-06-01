@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saint_Paul_University",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Pontifical_Catholic_University_of_Argentina",
+            "http://dbpedia.org/resource/Buenos_Aires",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Dharmaram_Vidya_Kshetram",
+            "http://dbpedia.org/resource/Bangalore",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Santo_Tomas",
+            "http://dbpedia.org/resource/Manila",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Katholieke_Universiteit_Leuven",
+            "http://dbpedia.org/resource/Leuven",
+            "http://dbpedia.org/resource/Belgium"
+        ]
+    ]
+}

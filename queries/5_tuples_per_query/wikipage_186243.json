@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Piz_Bernina",
+            "http://dbpedia.org/resource/Bernina_Range",
+            "http://dbpedia.org/resource/Maloja_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Piz_Roseg",
+            "http://dbpedia.org/resource/Bernina_Range",
+            "http://dbpedia.org/resource/Maloja_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Piz_Morteratsch",
+            "http://dbpedia.org/resource/Bernina_Range",
+            "http://dbpedia.org/resource/Maloja_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Piz_Cambrena",
+            "http://dbpedia.org/resource/Bernina_Range",
+            "http://dbpedia.org/resource/Bernina_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Piz_Tschierva",
+            "http://dbpedia.org/resource/Bernina_Range",
+            "http://dbpedia.org/resource/Maloja_District"
+        ]
+    ]
+}

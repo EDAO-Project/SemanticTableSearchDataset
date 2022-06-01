@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2004_in_tennis",
+            "http://dbpedia.org/resource/Lleyton_Hewitt",
+            "http://dbpedia.org/resource/Lindsay_Davenport"
+        ]
+    ]
+}

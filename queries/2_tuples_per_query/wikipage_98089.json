@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indo-Pakistani_Sign_Language",
+            "http://dbpedia.org/resource/Nepali_Sign_Language",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Chinese_Sign_Language",
+            "http://dbpedia.org/resource/Language_isolate",
+            "http://dbpedia.org/resource/China"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ekaterini_Thanou",
+            "http://dbpedia.org/resource/Anzhela_Kravchenko",
+            "http://dbpedia.org/resource/Katia_Benth"
+        ],
+        [
+            "http://dbpedia.org/resource/Allison_Curbishley",
+            "http://dbpedia.org/resource/Olga_Kotlyarova",
+            "http://dbpedia.org/resource/Idalmis_Bonne"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shadow_Dancer",
+            "http://dbpedia.org/resource/1989_in_video_gaming",
+            "http://dbpedia.org/resource/Arcade_game"
+        ]
+    ]
+}

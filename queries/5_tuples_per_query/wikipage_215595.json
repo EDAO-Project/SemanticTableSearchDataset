@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agricultural_Exhibition_Center_Station",
+            "http://dbpedia.org/resource/Line_10,_Beijing_Subway",
+            "http://dbpedia.org/resource/Chaoyang_District,_Beijing"
+        ],
+        [
+            "http://dbpedia.org/resource/Andelibeijie_Station",
+            "http://dbpedia.org/resource/Line_8,_Beijing_Subway",
+            "http://dbpedia.org/resource/Dongcheng_District,_Beijing"
+        ],
+        [
+            "http://dbpedia.org/resource/Andingmen_Station",
+            "http://dbpedia.org/resource/Line_2,_Beijing_Subway",
+            "http://dbpedia.org/resource/Dongcheng_District,_Beijing"
+        ],
+        [
+            "http://dbpedia.org/resource/Anheqiao_North_Station",
+            "http://dbpedia.org/resource/Line_4,_Beijing_Subway",
+            "http://dbpedia.org/resource/Haidian_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Anhuaqiao_Station",
+            "http://dbpedia.org/resource/Line_8,_Beijing_Subway",
+            "http://dbpedia.org/resource/Chaoyang_District,_Beijing"
+        ]
+    ]
+}

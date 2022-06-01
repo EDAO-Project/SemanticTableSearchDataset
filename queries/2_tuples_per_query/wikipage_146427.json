@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Achiet-le-Grand",
+            "http://dbpedia.org/resource/Achiet-le-Petit",
+            "http://dbpedia.org/resource/Acq",
+            "http://dbpedia.org/resource/Adinfer"
+        ],
+        [
+            "http://dbpedia.org/resource/Amplier",
+            "http://dbpedia.org/resource/Anvin",
+            "http://dbpedia.org/resource/Anzin-Saint-Aubin",
+            "http://dbpedia.org/resource/Arleux-en-Gohelle"
+        ]
+    ]
+}

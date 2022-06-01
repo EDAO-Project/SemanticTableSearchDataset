@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Honda_LPGA_Thailand",
+            "http://dbpedia.org/resource/Yani_Tseng",
+            "http://dbpedia.org/resource/Michelle_Wie",
+            "http://dbpedia.org/resource/Karrie_Webb"
+        ],
+        [
+            "http://dbpedia.org/resource/JTBC_Founders_Cup",
+            "http://dbpedia.org/resource/Paula_Creamer",
+            "http://dbpedia.org/resource/Brittany_Lincicome",
+            "http://dbpedia.org/resource/Cristie_Kerr"
+        ]
+    ]
+}

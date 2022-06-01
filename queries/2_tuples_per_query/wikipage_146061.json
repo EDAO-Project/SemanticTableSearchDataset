@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Deji_Aliu",
+            "http://dbpedia.org/resource/Nigeria",
+            "http://dbpedia.org/resource/Athletics_at_the_2003_All-Africa_Games",
+            "http://dbpedia.org/resource/Abuja"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Francis_Obikwelu",
+            "http://dbpedia.org/resource/Nigeria",
+            "http://dbpedia.org/resource/Athletics_at_the_1999_All-Africa_Games",
+            "http://dbpedia.org/resource/Johannesburg"
+        ]
+    ]
+}

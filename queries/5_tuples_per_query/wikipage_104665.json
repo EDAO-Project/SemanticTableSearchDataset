@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allegheny_Aqueduct",
+            "http://dbpedia.org/resource/Robeson_Township,_Berks_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Berks_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Schuylkill_Canal"
+        ],
+        [
+            "http://dbpedia.org/resource/Alliance_Furnace",
+            "http://dbpedia.org/resource/Perry_Township,_Fayette_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Fayette_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Blast_furnace"
+        ],
+        [
+            "http://dbpedia.org/resource/Barree_Forge_and_Furnace",
+            "http://dbpedia.org/resource/Porter_Township,_Huntingdon_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Huntingdon_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Blast_furnace"
+        ],
+        [
+            "http://dbpedia.org/resource/Boswell_Historic_District",
+            "http://dbpedia.org/resource/Boswell,_Pennsylvania",
+            "http://dbpedia.org/resource/Somerset_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Company_town"
+        ],
+        [
+            "http://dbpedia.org/resource/Bradys_Bend_Iron_Company_Furnaces",
+            "http://dbpedia.org/resource/Bradys_Bend_Township,_Armstrong_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Armstrong_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Blast_furnace"
+        ]
+    ]
+}

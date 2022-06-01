@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Murder_of_Ofir_Rahum",
+            "http://dbpedia.org/resource/Ramallah",
+            "http://dbpedia.org/resource/Tanzim"
+        ]
+    ]
+}

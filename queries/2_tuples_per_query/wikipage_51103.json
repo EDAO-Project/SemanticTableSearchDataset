@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balalaika",
+            "http://dbpedia.org/resource/Music_of_Russia",
+            "http://dbpedia.org/resource/Lute"
+        ],
+        [
+            "http://dbpedia.org/resource/Bandura",
+            "http://dbpedia.org/resource/Music_of_Ukraine",
+            "http://dbpedia.org/resource/Lute"
+        ]
+    ]
+}

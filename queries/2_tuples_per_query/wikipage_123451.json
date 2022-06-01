@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Code_Name:_The_Cleaner",
+            "http://dbpedia.org/resource/New_Line_Cinema",
+            "http://dbpedia.org/resource/Cedric_the_Entertainer"
+        ],
+        [
+            "http://dbpedia.org/resource/Freedom_Writers",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Hilary_Swank"
+        ]
+    ]
+}

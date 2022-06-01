@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alnwick_Castle",
+            "http://dbpedia.org/resource/Michael_Aspel",
+            "http://dbpedia.org/resource/Samuel_Pepys"
+        ]
+    ]
+}

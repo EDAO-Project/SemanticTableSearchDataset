@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kaalai",
+            "http://dbpedia.org/resource/Tarun_Gopi",
+            "http://dbpedia.org/resource/Silambarasan",
+            "http://dbpedia.org/resource/G._V._Prakash_Kumar"
+        ],
+        [
+            "http://dbpedia.org/resource/Indiralohathil_Na_Azhagappan",
+            "http://dbpedia.org/resource/Thambi_Ramaiah",
+            "http://dbpedia.org/resource/Vadivelu",
+            "http://dbpedia.org/resource/Sabesh-Murali"
+        ]
+    ]
+}

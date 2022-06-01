@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aleksander_Klumberg",
+            "http://dbpedia.org/resource/Estonia",
+            "http://dbpedia.org/resource/Helsinki"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans-Heinrich_Sievert",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Hamburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Mathias",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tulare,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Mathias",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Helsinki"
+        ],
+        [
+            "http://dbpedia.org/resource/Rafer_Johnson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kingsburg,_California"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avrilly,_Eure",
+            "http://dbpedia.org/resource/Bacquepuis",
+            "http://dbpedia.org/resource/Beaubray",
+            "http://dbpedia.org/resource/Bernienville"
+        ],
+        [
+            "http://dbpedia.org/resource/Breteuil,_Eure",
+            "http://dbpedia.org/resource/Breuilpont",
+            "http://dbpedia.org/resource/Breux-sur-Avre",
+            "http://dbpedia.org/resource/Brosville"
+        ]
+    ]
+}

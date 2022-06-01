@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Handball_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Germany_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Austria_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Switzerland_at_the_1936_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Handball_at_the_1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Yugoslavia_at_the_1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Czechoslovakia_at_the_1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Romania_at_the_1972_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Handball_at_the_1976_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1976_Summer_Olympics",
+            "http://dbpedia.org/resource/Romania_at_the_1976_Summer_Olympics",
+            "http://dbpedia.org/resource/Poland_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Handball_at_the_1980_Summer_Olympics",
+            "http://dbpedia.org/resource/East_Germany_at_the_1980_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1980_Summer_Olympics",
+            "http://dbpedia.org/resource/Romania_at_the_1980_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Handball_at_the_1984_Summer_Olympics",
+            "http://dbpedia.org/resource/Yugoslavia_at_the_1984_Summer_Olympics",
+            "http://dbpedia.org/resource/West_Germany_at_the_1984_Summer_Olympics",
+            "http://dbpedia.org/resource/Romania_at_the_1984_Summer_Olympics"
+        ]
+    ]
+}

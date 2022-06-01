@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Netherlands_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Italy_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Great_Britain_at_the_1928_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Germany_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Czechoslovakia_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1936_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Czechoslovakia_at_the_1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1948_Summer_Olympics",
+            "http://dbpedia.org/resource/United_States_at_the_1948_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Czechoslovakia_at_the_1952_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Gymnastics_at_the_1956_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1956_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1956_Summer_Olympics",
+            "http://dbpedia.org/resource/Romania_at_the_1956_Summer_Olympics"
+        ]
+    ]
+}

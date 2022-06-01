@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Bob_Rule",
+            "http://dbpedia.org/resource/KeyArena"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Knicks",
+            "http://dbpedia.org/resource/Lenny_Wilkens",
+            "http://dbpedia.org/resource/KeyArena"
+        ]
+    ]
+}

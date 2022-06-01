@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Armenian_Revolutionary_Federation",
+            "http://dbpedia.org/resource/Mikayel_Varandian"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Social_Democratic_Party_of_Austria",
+            "http://dbpedia.org/resource/Otto_Bauer"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Belgian_Labour_Party",
+            "http://dbpedia.org/resource/Emile_Vandervelde"
+        ],
+        [
+            "http://dbpedia.org/resource/Czechoslovakia",
+            "http://dbpedia.org/resource/German_Social_Democratic_Workers_Party_in_the_Czechoslovak_Republic",
+            "http://dbpedia.org/resource/Ludwig_Czech"
+        ],
+        [
+            "http://dbpedia.org/resource/Czechoslovakia",
+            "http://dbpedia.org/resource/Polish_Socialist_Workers_Party",
+            "http://dbpedia.org/resource/Emanuel_Chobot"
+        ]
+    ]
+}

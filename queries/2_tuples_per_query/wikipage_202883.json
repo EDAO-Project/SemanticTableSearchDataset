@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bellanca_Airfield",
+            "http://dbpedia.org/resource/Delaware_Route_273",
+            "http://dbpedia.org/resource/New_Castle,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_Mills_Historic_District",
+            "http://dbpedia.org/resource/Delaware_Route_82",
+            "http://dbpedia.org/resource/Yorklyn,_Delaware"
+        ]
+    ]
+}

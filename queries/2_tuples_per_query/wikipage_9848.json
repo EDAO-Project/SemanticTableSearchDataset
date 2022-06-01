@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Obadele_Thompson",
+            "http://dbpedia.org/resource/Seun_Ogunkoya",
+            "http://dbpedia.org/resource/Dwain_Chambers"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankie_Fredericks",
+            "http://dbpedia.org/resource/Gentry_Bradley",
+            "http://dbpedia.org/resource/Troy_Douglas"
+        ]
+    ]
+}

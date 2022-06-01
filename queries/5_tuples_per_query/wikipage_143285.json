@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Astro-Zombies",
+            "http://dbpedia.org/resource/Ted_V._Mikels",
+            "http://dbpedia.org/resource/John_Carradine"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Blood_Beast_Terror",
+            "http://dbpedia.org/resource/Vernon_Sewell",
+            "http://dbpedia.org/resource/Peter_Cushing"
+        ],
+        [
+            "http://dbpedia.org/resource/Curse_of_the_Crimson_Altar",
+            "http://dbpedia.org/resource/Vernon_Sewell",
+            "http://dbpedia.org/resource/Boris_Karloff"
+        ],
+        [
+            "http://dbpedia.org/resource/Dracula_Has_Risen_from_the_Grave",
+            "http://dbpedia.org/resource/Freddie_Francis",
+            "http://dbpedia.org/resource/Christopher_Lee"
+        ],
+        [
+            "http://dbpedia.org/resource/Malenka",
+            "http://dbpedia.org/resource/Amando_de_Ossorio",
+            "http://dbpedia.org/resource/Anita_Ekberg"
+        ]
+    ]
+}

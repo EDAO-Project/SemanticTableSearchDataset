@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/RKO_281",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/The_Corner",
+            "http://dbpedia.org/resource/HBO"
+        ]
+    ]
+}

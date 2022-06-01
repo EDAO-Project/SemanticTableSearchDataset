@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Millennium_Stadium",
+            "http://dbpedia.org/resource/Cardiff",
+            "http://dbpedia.org/resource/Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Phoenix_Stadium",
+            "http://dbpedia.org/resource/Glendale,_Arizona",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Mercedes-Benz_Superdome",
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/NRG_Stadium",
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Georgia_Dome",
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

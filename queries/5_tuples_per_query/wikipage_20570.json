@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Arizona,_1952",
+            "http://dbpedia.org/resource/Ernest_McFarland",
+            "http://dbpedia.org/resource/Barry_Goldwater"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Connecticut",
+            "http://dbpedia.org/resource/William_A._Purtell",
+            "http://dbpedia.org/resource/Prescott_Bush"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Kentucky",
+            "http://dbpedia.org/resource/Thomas_R._Underwood",
+            "http://dbpedia.org/resource/John_Sherman_Cooper"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Maine",
+            "http://dbpedia.org/resource/Owen_Brewster",
+            "http://dbpedia.org/resource/Frederick_G._Payne"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Michigan",
+            "http://dbpedia.org/resource/Blair_Moody",
+            "http://dbpedia.org/resource/Charles_E._Potter"
+        ]
+    ]
+}

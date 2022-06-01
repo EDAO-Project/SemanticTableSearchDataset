@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belleville_Bulls",
+            "http://dbpedia.org/resource/Belleville,_Ontario",
+            "http://dbpedia.org/resource/Yardmen_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingston_Frontenacs",
+            "http://dbpedia.org/resource/Kingston,_Ontario",
+            "http://dbpedia.org/resource/Rogers_K-Rock_Centre"
+        ]
+    ]
+}

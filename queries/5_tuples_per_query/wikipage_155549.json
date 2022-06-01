@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carbondale,_Illinois",
+            "http://dbpedia.org/resource/Harrisburg,_Illinois",
+            "http://dbpedia.org/resource/WSIL-TV",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Carbondale,_Illinois",
+            "http://dbpedia.org/resource/Paducah,_Kentucky",
+            "http://dbpedia.org/resource/WPSD-TV",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Carbondale,_Illinois",
+            "http://dbpedia.org/resource/Cape_Girardeau,_Missouri",
+            "http://dbpedia.org/resource/KFVS-TV",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Carbondale,_Illinois",
+            "http://dbpedia.org/resource/Cape_Girardeau,_Missouri",
+            "http://dbpedia.org/resource/KBSI",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Carbondale,_Illinois",
+            "http://dbpedia.org/resource/Paducah,_Kentucky",
+            "http://dbpedia.org/resource/WDKA",
+            "http://dbpedia.org/resource/MyNetworkTV"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Drosera_aberrans",
+            "http://dbpedia.org/resource/Allen_Lowrie",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Drosera_adelae",
+            "http://dbpedia.org/resource/Ferdinand_von_Mueller",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Drosera_allantostigma",
+            "http://dbpedia.org/resource/Neville_Graeme_Marchant",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Drosera_andersoniana",
+            "http://dbpedia.org/resource/William_Vincent_Fitzgerald",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Drosera_bicolor",
+            "http://dbpedia.org/resource/Allen_Lowrie",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

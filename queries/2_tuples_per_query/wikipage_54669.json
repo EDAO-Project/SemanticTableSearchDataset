@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/883JiaFM",
+            "http://dbpedia.org/resource/SAFRA_Radio",
+            "http://dbpedia.org/resource/Adult_contemporary_music"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_World_Service",
+            "http://dbpedia.org/resource/BBC_Radio",
+            "http://dbpedia.org/resource/Talk_radio"
+        ]
+    ]
+}

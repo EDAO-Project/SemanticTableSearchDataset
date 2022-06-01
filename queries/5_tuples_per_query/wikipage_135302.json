@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billie_Jean",
+            "http://dbpedia.org/resource/Michael_Jackson",
+            "http://dbpedia.org/resource/NME"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Tortura",
+            "http://dbpedia.org/resource/Shakira",
+            "http://dbpedia.org/resource/NME"
+        ],
+        [
+            "http://dbpedia.org/resource/Yesterday",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/NME"
+        ],
+        [
+            "http://dbpedia.org/resource/Imagine",
+            "http://dbpedia.org/resource/John_Lennon",
+            "http://dbpedia.org/resource/NME"
+        ],
+        [
+            "http://dbpedia.org/resource/Sultans_of_Swing",
+            "http://dbpedia.org/resource/Dire_Straits",
+            "http://dbpedia.org/resource/NME"
+        ]
+    ]
+}

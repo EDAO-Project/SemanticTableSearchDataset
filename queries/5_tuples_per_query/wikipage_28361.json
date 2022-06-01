@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Lyne",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Edmund_Barton"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Forrest",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Edmund_Barton"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Forrest",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Alfred_Deakin"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Batchelor",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Chris_Watson"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Bamford",
+            "http://dbpedia.org/resource/National_Labor_Party",
+            "http://dbpedia.org/resource/Billy_Hughes"
+        ]
+    ]
+}

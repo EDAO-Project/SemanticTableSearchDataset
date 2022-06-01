@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alaminos,_Pangasinan",
+            "http://dbpedia.org/resource/Pangasinan",
+            "http://dbpedia.org/resource/Governor-General_of_the_Philippines"
+        ]
+    ]
+}

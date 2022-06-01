@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thexder",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Game_Arts"
+        ],
+        [
+            "http://dbpedia.org/resource/Deep_Dungeon",
+            "http://dbpedia.org/resource/Family_Computer_Disk_System",
+            "http://dbpedia.org/resource/HummingBirdSoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Deep_Dungeon",
+            "http://dbpedia.org/resource/Family_Computer_Disk_System",
+            "http://dbpedia.org/resource/HummingBirdSoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Kalin_no_Tsurugi",
+            "http://dbpedia.org/resource/Family_Computer_Disk_System",
+            "http://dbpedia.org/resource/Xtalsoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Nakayama_Miho_no_Tokimeki_High_School",
+            "http://dbpedia.org/resource/Family_Computer_Disk_System",
+            "http://dbpedia.org/resource/Nintendo"
+        ]
+    ]
+}

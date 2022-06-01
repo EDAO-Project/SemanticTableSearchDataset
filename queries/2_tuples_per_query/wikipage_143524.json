@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1555_Dejan",
+            "http://dbpedia.org/resource/Royal_Observatory_of_Belgium",
+            "http://dbpedia.org/resource/Fernand_Rigaux"
+        ],
+        [
+            "http://dbpedia.org/resource/1566_Icarus",
+            "http://dbpedia.org/resource/Palomar_Observatory",
+            "http://dbpedia.org/resource/Walter_Baade"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Reading_School",
+            "http://dbpedia.org/resource/Reading,_Berkshire",
+            "http://dbpedia.org/resource/Diapering"
+        ],
+        [
+            "http://dbpedia.org/resource/Cambridge_Union_Society",
+            "http://dbpedia.org/resource/Cambridge",
+            "http://dbpedia.org/resource/Gable"
+        ],
+        [
+            "http://dbpedia.org/resource/Jesus_College,_Cambridge",
+            "http://dbpedia.org/resource/Cambridge",
+            "http://dbpedia.org/resource/Tudor_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Gonville_and_Caius_College,_Cambridge",
+            "http://dbpedia.org/resource/Cambridge",
+            "http://dbpedia.org/resource/Ashlar"
+        ],
+        [
+            "http://dbpedia.org/resource/Victoria_University_of_Manchester",
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Sandstone"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Perry_Christie",
+            "http://dbpedia.org/resource/Progressive_Liberal_Party",
+            "http://dbpedia.org/resource/Black"
+        ]
+    ]
+}

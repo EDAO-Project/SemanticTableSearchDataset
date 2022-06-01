@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Province_of_Bergamo",
+            "http://dbpedia.org/resource/Province_of_Biella",
+            "http://dbpedia.org/resource/Province_of_Belluno",
+            "http://dbpedia.org/resource/Province_of_Benevento",
+            "http://dbpedia.org/resource/Province_of_Bologna"
+        ],
+        [
+            "http://dbpedia.org/resource/Province_of_Brindisi",
+            "http://dbpedia.org/resource/Province_of_Brescia",
+            "http://dbpedia.org/resource/Province_of_Barletta-Andria-Trani",
+            "http://dbpedia.org/resource/South_Tyrol",
+            "http://dbpedia.org/resource/Province_of_Cagliari"
+        ],
+        [
+            "http://dbpedia.org/resource/Province_of_Campobasso",
+            "http://dbpedia.org/resource/Province_of_Caserta",
+            "http://dbpedia.org/resource/Province_of_Chieti",
+            "http://dbpedia.org/resource/Province_of_Caltanissetta",
+            "http://dbpedia.org/resource/Province_of_Cuneo"
+        ],
+        [
+            "http://dbpedia.org/resource/Province_of_Como",
+            "http://dbpedia.org/resource/Province_of_Cremona",
+            "http://dbpedia.org/resource/Province_of_Cosenza",
+            "http://dbpedia.org/resource/Province_of_Catania",
+            "http://dbpedia.org/resource/Province_of_Catanzaro"
+        ],
+        [
+            "http://dbpedia.org/resource/Province_of_Fermo",
+            "http://dbpedia.org/resource/Province_of_Frosinone",
+            "http://dbpedia.org/resource/Province_of_Genoa",
+            "http://dbpedia.org/resource/Province_of_Gorizia",
+            "http://dbpedia.org/resource/Province_of_Grosseto"
+        ]
+    ]
+}

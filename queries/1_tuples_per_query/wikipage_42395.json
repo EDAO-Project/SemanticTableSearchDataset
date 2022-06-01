@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlantic_City,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Resorts_Casino_Hotel"
+        ]
+    ]
+}

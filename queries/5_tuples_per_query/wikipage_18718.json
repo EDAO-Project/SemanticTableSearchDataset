@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Monroe_County,_Michigan",
+            "http://dbpedia.org/resource/Whiteford_Township,_Michigan",
+            "http://dbpedia.org/resource/Ottawa_Lake,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Monroe_County,_Michigan",
+            "http://dbpedia.org/resource/Summerfield_Township,_Monroe_County,_Michigan",
+            "http://dbpedia.org/resource/Petersburg,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Monroe_County,_Michigan",
+            "http://dbpedia.org/resource/Milan_Township,_Michigan",
+            "http://dbpedia.org/resource/Azalia,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Washtenaw_County,_Michigan",
+            "http://dbpedia.org/resource/York_Charter_Township,_Michigan",
+            "http://dbpedia.org/resource/Augusta_Charter_Township,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Washtenaw_County,_Michigan",
+            "http://dbpedia.org/resource/Northfield_Township,_Michigan",
+            "http://dbpedia.org/resource/Whitmore_Lake,_Michigan"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/Stadium_Australia",
+            "http://dbpedia.org/resource/Mitchell_Pearce",
+            "http://dbpedia.org/resource/Todd_Carney"
+        ],
+        [
+            "http://dbpedia.org/resource/Wests_Tigers",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Phil_Graham",
+            "http://dbpedia.org/resource/Todd_Carney"
+        ]
+    ]
+}

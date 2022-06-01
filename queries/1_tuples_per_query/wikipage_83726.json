@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Rugby_Championship",
+            "http://dbpedia.org/resource/Newlands_Stadium",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team"
+        ]
+    ]
+}

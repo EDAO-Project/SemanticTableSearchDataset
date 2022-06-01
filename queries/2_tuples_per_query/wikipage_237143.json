@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_in_sports",
+            "http://dbpedia.org/resource/Ralf_Souquet",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_in_sports",
+            "http://dbpedia.org/resource/Daryl_Peach",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ]
+    ]
+}

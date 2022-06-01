@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edmonton_Gardens",
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Rogers_Place"
+        ],
+        [
+            "http://dbpedia.org/resource/SaskTel_Centre",
+            "http://dbpedia.org/resource/Tim_Hortons_Brier",
+            "http://dbpedia.org/resource/Sandman_Centre"
+        ]
+    ]
+}

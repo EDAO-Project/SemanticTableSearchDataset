@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Jill_Hennessy",
+            "http://dbpedia.org/resource/Jennifer_Beals"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Judy_Davis",
+            "http://dbpedia.org/resource/Laura_Linney"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Vanessa_L._Williams",
+            "http://dbpedia.org/resource/Kathy_Bates"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Meryl_Streep",
+            "http://dbpedia.org/resource/Felicity_Huffman"
+        ],
+        [
+            "http://dbpedia.org/resource/9th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Dianne_Wiest",
+            "http://dbpedia.org/resource/Clea_DuVall"
+        ]
+    ]
+}

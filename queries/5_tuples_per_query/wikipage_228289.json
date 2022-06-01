@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A.S._Roma",
+            "http://dbpedia.org/resource/Pietro_Pastore",
+            "http://dbpedia.org/resource/Campo_Testaccio",
+            "http://dbpedia.org/resource/Serie_A"
+        ],
+        [
+            "http://dbpedia.org/resource/A.S._Roma",
+            "http://dbpedia.org/resource/Alfredo_Foni",
+            "http://dbpedia.org/resource/Campo_Testaccio",
+            "http://dbpedia.org/resource/Serie_A"
+        ],
+        [
+            "http://dbpedia.org/resource/S.S._Lazio",
+            "http://dbpedia.org/resource/Fernando_Eusebio",
+            "http://dbpedia.org/resource/Stadio_Nazionale_PNF",
+            "http://dbpedia.org/resource/Exhibition_game"
+        ],
+        [
+            "http://dbpedia.org/resource/S.S._Lazio",
+            "http://dbpedia.org/resource/Raffaele_Costantino",
+            "http://dbpedia.org/resource/Stadio_Nazionale_PNF",
+            "http://dbpedia.org/resource/Serie_A"
+        ],
+        [
+            "http://dbpedia.org/resource/A.S._Roma",
+            "http://dbpedia.org/resource/Cesare_Augusto_Fasanelli",
+            "http://dbpedia.org/resource/Campo_Testaccio",
+            "http://dbpedia.org/resource/Serie_A"
+        ]
+    ]
+}

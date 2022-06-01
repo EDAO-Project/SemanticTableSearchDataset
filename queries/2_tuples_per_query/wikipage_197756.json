@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paine_Wingate",
+            "http://dbpedia.org/resource/Anti-Administration_party",
+            "http://dbpedia.org/resource/1st_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1788_and_1789"
+        ],
+        [
+            "http://dbpedia.org/resource/Paine_Wingate",
+            "http://dbpedia.org/resource/Anti-Administration_party",
+            "http://dbpedia.org/resource/2nd_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1788_and_1789"
+        ]
+    ]
+}

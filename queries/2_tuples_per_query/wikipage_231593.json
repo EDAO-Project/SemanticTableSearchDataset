@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dr_Crokes_GAA",
+            "http://dbpedia.org/resource/Kerry_GAA",
+            "http://dbpedia.org/resource/Castlehaven_GAA",
+            "http://dbpedia.org/resource/Cork_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr_Crokes_GAA",
+            "http://dbpedia.org/resource/Kerry_GAA",
+            "http://dbpedia.org/resource/UCC_GAA",
+            "http://dbpedia.org/resource/Cork_GAA"
+        ]
+    ]
+}

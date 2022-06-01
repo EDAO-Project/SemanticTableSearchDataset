@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1884_Louisville_Eclipse_season",
+            "http://dbpedia.org/resource/Guy_Hecker",
+            "http://dbpedia.org/resource/Toledo_Blue_Stockings",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1885_Louisville_Colonels_season",
+            "http://dbpedia.org/resource/Guy_Hecker",
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1887_Louisville_Colonels_season",
+            "http://dbpedia.org/resource/Toad_Ramsey",
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1890_Louisville_Colonels_season",
+            "http://dbpedia.org/resource/Scott_Stratton",
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1891_Louisville_Colonels_season",
+            "http://dbpedia.org/resource/Ed_Daily",
+            "http://dbpedia.org/resource/Columbus_Solons",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ]
+    ]
+}

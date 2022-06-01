@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wadmalaw_Island",
+            "http://dbpedia.org/resource/South_Carolina",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

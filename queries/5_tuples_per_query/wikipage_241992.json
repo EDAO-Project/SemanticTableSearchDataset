@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Susanthika_Jayasinghe",
+            "http://dbpedia.org/resource/Qin_Wangping",
+            "http://dbpedia.org/resource/Lyubov_Perepelova"
+        ],
+        [
+            "http://dbpedia.org/resource/Susanthika_Jayasinghe",
+            "http://dbpedia.org/resource/Lyubov_Perepelova",
+            "http://dbpedia.org/resource/Yan_Jiankui"
+        ],
+        [
+            "http://dbpedia.org/resource/Miho_Sato",
+            "http://dbpedia.org/resource/Tatyana_Borisova",
+            "http://dbpedia.org/resource/Zamira_Amirova"
+        ],
+        [
+            "http://dbpedia.org/resource/Yvonne_Kanazawa",
+            "http://dbpedia.org/resource/Sriyani_Kulawansa",
+            "http://dbpedia.org/resource/Trecia_Roberts"
+        ],
+        [
+            "http://dbpedia.org/resource/Natalya_Torshina-Alimzhanova",
+            "http://dbpedia.org/resource/Song_Yinglan",
+            "http://dbpedia.org/resource/Makiko_Yoshida"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Judea",
+            "http://dbpedia.org/resource/Pontius_Pilate",
+            "http://dbpedia.org/resource/Jews"
+        ]
+    ]
+}

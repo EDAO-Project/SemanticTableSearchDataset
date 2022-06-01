@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Panama_Claro_Championship",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/Vance_Veazey"
+        ],
+        [
+            "http://dbpedia.org/resource/Chitimacha_Louisiana_Open",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Ryan_Hietala"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boone_Lake",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Daniel_Boone"
+        ],
+        [
+            "http://dbpedia.org/resource/Cordell_Hull_Lake",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cordell_Hull"
+        ]
+    ]
+}

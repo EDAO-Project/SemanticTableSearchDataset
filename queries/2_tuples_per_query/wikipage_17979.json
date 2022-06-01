@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Rostislav_Klesla",
+            "http://dbpedia.org/resource/Czech_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Petteri_Nummelin",
+            "http://dbpedia.org/resource/Finland"
+        ]
+    ]
+}

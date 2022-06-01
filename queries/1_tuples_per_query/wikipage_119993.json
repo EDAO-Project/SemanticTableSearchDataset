@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Lougheed_Centre",
+            "http://dbpedia.org/resource/Calgary_Health_Region",
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Alberta"
+        ]
+    ]
+}

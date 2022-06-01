@@ -1,0 +1,33 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Donington_Park",
+            "http://dbpedia.org/resource/Raymond_Roche",
+            "http://dbpedia.org/resource/Fabrizio_Pirovano"
+        ],
+        [
+            "http://dbpedia.org/resource/Donington_Park",
+            "http://dbpedia.org/resource/Raymond_Roche",
+            "http://dbpedia.org/resource/Raymond_Roche",
+            "http://dbpedia.org/resource/Giancarlo_Falappa"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungaroring",
+            "http://dbpedia.org/resource/Fred_Merkel",
+            "http://dbpedia.org/resource/Raymond_Roche",
+            "http://dbpedia.org/resource/Fred_Merkel"
+        ],
+        [
+            "http://dbpedia.org/resource/Canadian_Tire_Motorsport_Park",
+            "http://dbpedia.org/resource/Fred_Merkel",
+            "http://dbpedia.org/resource/Raymond_Roche",
+            "http://dbpedia.org/resource/Fred_Merkel"
+        ],
+        [
+            "http://dbpedia.org/resource/Canadian_Tire_Motorsport_Park",
+            "http://dbpedia.org/resource/Fred_Merkel",
+            "http://dbpedia.org/resource/Fred_Merkel",
+            "http://dbpedia.org/resource/Giancarlo_Falappa"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jolly_Club",
+            "http://dbpedia.org/resource/Lancia",
+            "http://dbpedia.org/resource/Lancia_Delta_Group_A",
+            "http://dbpedia.org/resource/Michelin",
+            "http://dbpedia.org/resource/Carlos_Sainz"
+        ]
+    ]
+}

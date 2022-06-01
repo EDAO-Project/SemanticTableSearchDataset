@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Upper_Darby_High_School",
+            "http://dbpedia.org/resource/Interboro_High_School",
+            "http://dbpedia.org/resource/Penncrest_High_School"
+        ]
+    ]
+}

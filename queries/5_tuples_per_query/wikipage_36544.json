@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clark_Keating",
+            "http://dbpedia.org/resource/Australian_rules_football",
+            "http://dbpedia.org/resource/Brisbane_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Broc_McCauley",
+            "http://dbpedia.org/resource/Australian_rules_football",
+            "http://dbpedia.org/resource/Brisbane_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Trent_Durrington",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Boston_Red_Sox"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Graham",
+            "http://dbpedia.org/resource/Rugby_league",
+            "http://dbpedia.org/resource/Gold_Coast_Titans"
+        ],
+        [
+            "http://dbpedia.org/resource/Mat_Rogers",
+            "http://dbpedia.org/resource/Rugby_league",
+            "http://dbpedia.org/resource/Gold_Coast_Titans"
+        ]
+    ]
+}

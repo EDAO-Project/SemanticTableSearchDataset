@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Jean-Olivier_Zirignon",
+            "http://dbpedia.org/resource/Ivory_Coast",
+            "http://dbpedia.org/resource/1997_Jeux_de_la_Francophonie"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Daniel_Sangouma",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/1989_Jeux_de_la_Francophonie"
+        ]
+    ]
+}

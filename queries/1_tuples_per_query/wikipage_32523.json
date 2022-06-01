@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arkansas_Arts_Center",
+            "http://dbpedia.org/resource/Little_Rock,_Arkansas",
+            "http://dbpedia.org/resource/Central_Arkansas",
+            "http://dbpedia.org/resource/Art_museum"
+        ]
+    ]
+}

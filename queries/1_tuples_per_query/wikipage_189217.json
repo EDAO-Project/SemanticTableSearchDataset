@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1948_Mestaruussarja",
+            "http://dbpedia.org/resource/Vaasan_Palloseura",
+            "http://dbpedia.org/resource/Turun_Palloseura",
+            "http://dbpedia.org/resource/Helsingin_Palloseura"
+        ]
+    ]
+}

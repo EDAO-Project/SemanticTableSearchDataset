@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_Student",
+            "http://dbpedia.org/resource/Silverstone_Circuit",
+            "http://dbpedia.org/resource/DUT12",
+            "http://dbpedia.org/resource/Hoosier_Racing_Tire"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_Student",
+            "http://dbpedia.org/resource/Silverstone_Circuit",
+            "http://dbpedia.org/resource/Hoosier_Racing_Tire",
+            "http://dbpedia.org/resource/Yamaha_WR450F"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_Student",
+            "http://dbpedia.org/resource/Silverstone_Circuit",
+            "http://dbpedia.org/resource/Hoosier_Racing_Tire",
+            "http://dbpedia.org/resource/Yamaha_WR450F"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_Student",
+            "http://dbpedia.org/resource/Silverstone_Circuit",
+            "http://dbpedia.org/resource/Hoosier_Racing_Tire",
+            "http://dbpedia.org/resource/Yamaha_WR450F"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_SAE",
+            "http://dbpedia.org/resource/Michigan_International_Speedway",
+            "http://dbpedia.org/resource/Hoosier_Racing_Tire",
+            "http://dbpedia.org/resource/Yamaha_WR450F"
+        ]
+    ]
+}

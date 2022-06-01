@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arusha",
+            "http://dbpedia.org/resource/Tanzania",
+            "http://dbpedia.org/resource/Kilimanjaro_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Athens",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Athens_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Antananarivo",
+            "http://dbpedia.org/resource/Madagascar",
+            "http://dbpedia.org/resource/Ivato_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Bujumbura",
+            "http://dbpedia.org/resource/Burundi",
+            "http://dbpedia.org/resource/Bujumbura_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Bukoba",
+            "http://dbpedia.org/resource/Tanzania",
+            "http://dbpedia.org/resource/Bukoba_Airport"
+        ]
+    ]
+}

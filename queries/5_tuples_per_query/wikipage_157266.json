@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gaekwad_dynasty",
+            "http://dbpedia.org/resource/Baroda_State",
+            "http://dbpedia.org/resource/Maratha",
+            "http://dbpedia.org/resource/Gujarat"
+        ],
+        [
+            "http://dbpedia.org/resource/Scindia",
+            "http://dbpedia.org/resource/Gwalior_State",
+            "http://dbpedia.org/resource/Maratha",
+            "http://dbpedia.org/resource/Madhya_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Maharana",
+            "http://dbpedia.org/resource/Udaipur",
+            "http://dbpedia.org/resource/Rajput",
+            "http://dbpedia.org/resource/Rajasthan"
+        ],
+        [
+            "http://dbpedia.org/resource/Maharao",
+            "http://dbpedia.org/resource/Kota,_Rajasthan",
+            "http://dbpedia.org/resource/Rajput",
+            "http://dbpedia.org/resource/Rajasthan"
+        ],
+        [
+            "http://dbpedia.org/resource/Maharaol",
+            "http://dbpedia.org/resource/Sirohi",
+            "http://dbpedia.org/resource/Rajput",
+            "http://dbpedia.org/resource/Rajasthan"
+        ]
+    ]
+}

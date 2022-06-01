@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sir_John_Pakington,_3rd_Baronet",
+            "http://dbpedia.org/resource/Tory",
+            "http://dbpedia.org/resource/James_Pytts"
+        ],
+        [
+            "http://dbpedia.org/resource/Sir_John_Pakington,_4th_Baronet",
+            "http://dbpedia.org/resource/Tory",
+            "http://dbpedia.org/resource/Sir_Thomas_Lyttelton,_4th_Baronet"
+        ],
+        [
+            "http://dbpedia.org/resource/British_general_election,_1727",
+            "http://dbpedia.org/resource/Sir_Herbert_Pakington,_5th_Baronet",
+            "http://dbpedia.org/resource/Sir_Thomas_Lyttelton,_4th_Baronet"
+        ],
+        [
+            "http://dbpedia.org/resource/British_general_election,_1734",
+            "http://dbpedia.org/resource/Sir_Herbert_Pakington,_5th_Baronet",
+            "http://dbpedia.org/resource/Sir_Edmund_Lechmere,_3rd_Baronet"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Ward,_1st_Earl_of_Dudley",
+            "http://dbpedia.org/resource/Tory",
+            "http://dbpedia.org/resource/William_Lygon,_1st_Earl_Beauchamp"
+        ]
+    ]
+}

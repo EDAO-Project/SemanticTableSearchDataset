@@ -1,0 +1,13 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_UEFA_Intertoto_Cup",
+            "http://dbpedia.org/resource/UEFA_Intertoto_Cup",
+            "http://dbpedia.org/resource/2000_UEFA_Intertoto_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Champions_League",
+            "http://dbpedia.org/resource/F91_Dudelange"
+        ]
+    ]
+}

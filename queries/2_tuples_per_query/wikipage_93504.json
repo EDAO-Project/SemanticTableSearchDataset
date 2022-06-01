@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lillehammer",
+            "http://dbpedia.org/resource/Simon_Ammann",
+            "http://dbpedia.org/resource/Harri_Olli",
+            "http://dbpedia.org/resource/Emmanuel_Chedal"
+        ],
+        [
+            "http://dbpedia.org/resource/Engelberg",
+            "http://dbpedia.org/resource/Simon_Ammann",
+            "http://dbpedia.org/resource/Gregor_Schlierenzauer",
+            "http://dbpedia.org/resource/Thomas_Morgenstern"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbess",
+            "http://dbpedia.org/resource/Latin",
+            "http://dbpedia.org/resource/Abbey"
+        ]
+    ]
+}

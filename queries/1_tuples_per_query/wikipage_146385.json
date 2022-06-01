@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bures-les-Monts",
+            "http://dbpedia.org/resource/Cahagnes",
+            "http://dbpedia.org/resource/Campagnolles"
+        ]
+    ]
+}

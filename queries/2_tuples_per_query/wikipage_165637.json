@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Whiter_Shade_of_Pale",
+            "http://dbpedia.org/resource/Gary_Brooker",
+            "http://dbpedia.org/resource/The_Everly_Brothers_Sing"
+        ],
+        [
+            "http://dbpedia.org/resource/Baby_What_You_Want_Me_to_Do",
+            "http://dbpedia.org/resource/Jimmy_Reed",
+            "http://dbpedia.org/resource/A_Date_with_the_Everly_Brothers"
+        ]
+    ]
+}

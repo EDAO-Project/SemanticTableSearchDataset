@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beauchamp_Place",
+            "http://dbpedia.org/resource/Royal_Borough_of_Kensington_and_Chelsea",
+            "http://dbpedia.org/resource/Edward_Seymour,_1st_Earl_of_Hertford",
+            "http://dbpedia.org/resource/Seymour_family"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkeley_Square",
+            "http://dbpedia.org/resource/City_of_Westminster",
+            "http://dbpedia.org/resource/Berkeley_family",
+            "http://dbpedia.org/resource/Devonshire_House"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouverie_Street",
+            "http://dbpedia.org/resource/City_of_London",
+            "http://dbpedia.org/resource/Earl_of_Radnor",
+            "http://dbpedia.org/resource/Pleydell-Bouverie"
+        ],
+        [
+            "http://dbpedia.org/resource/Cadogan_Place",
+            "http://dbpedia.org/resource/Royal_Borough_of_Kensington_and_Chelsea",
+            "http://dbpedia.org/resource/Earl_Cadogan",
+            "http://dbpedia.org/resource/Charles_Cadogan,_2nd_Baron_Cadogan"
+        ],
+        [
+            "http://dbpedia.org/resource/Cavendish_Square",
+            "http://dbpedia.org/resource/City_of_Westminster",
+            "http://dbpedia.org/resource/Henrietta_Harley,_Countess_of_Oxford_and_Countess_Mortimer",
+            "http://dbpedia.org/resource/Robert_Harley,_1st_Earl_of_Oxford_and_Earl_Mortimer"
+        ]
+    ]
+}

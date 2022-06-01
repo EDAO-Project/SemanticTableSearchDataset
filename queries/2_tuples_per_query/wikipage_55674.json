@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Roache",
+            "http://dbpedia.org/resource/Ken_Barlow",
+            "http://dbpedia.org/resource/Coronation_Street"
+        ],
+        [
+            "http://dbpedia.org/resource/Eileen_Derbyshire",
+            "http://dbpedia.org/resource/Emily_Bishop",
+            "http://dbpedia.org/resource/Coronation_Street"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Petre_Mais",
+            "http://dbpedia.org/resource/Greek_language",
+            "http://dbpedia.org/resource/Writing_material"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberto_Semprini",
+            "http://dbpedia.org/resource/Arthur_Eddington",
+            "http://dbpedia.org/resource/Telescope"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonia_Ridge",
+            "http://dbpedia.org/resource/The_Canterbury_Tales",
+            "http://dbpedia.org/resource/Glasses"
+        ],
+        [
+            "http://dbpedia.org/resource/Herbert_Lom",
+            "http://dbpedia.org/resource/Edward_Lear",
+            "http://dbpedia.org/resource/Modelling_clay"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Bryant",
+            "http://dbpedia.org/resource/Life_of_Samuel_Johnson",
+            "http://dbpedia.org/resource/Painting"
+        ]
+    ]
+}

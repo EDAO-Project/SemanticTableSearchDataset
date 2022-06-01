@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hong_Kong_First_Division_League",
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ]
+    ]
+}

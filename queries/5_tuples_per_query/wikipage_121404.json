@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jess_Norman_Post_166_American_Legion_Hut",
+            "http://dbpedia.org/resource/Augusta,_Arkansas",
+            "http://dbpedia.org/resource/Civil_Works_Administration"
+        ],
+        [
+            "http://dbpedia.org/resource/Bunch-Walton_Post_No._22_American_Legion_Hut",
+            "http://dbpedia.org/resource/Clarksville,_Arkansas",
+            "http://dbpedia.org/resource/Civil_Works_Administration"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Legion_Hut-Des_Arc",
+            "http://dbpedia.org/resource/Des_Arc,_Arkansas",
+            "http://dbpedia.org/resource/WPA_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Hall_Morgan_Post_83,_American_Legion_Hut",
+            "http://dbpedia.org/resource/Des_Arc,_Arkansas",
+            "http://dbpedia.org/resource/Works_Progress_Administration"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Legion_Post_No._127_Building",
+            "http://dbpedia.org/resource/Eudora,_Arkansas",
+            "http://dbpedia.org/resource/Works_Progress_Administration"
+        ]
+    ]
+}

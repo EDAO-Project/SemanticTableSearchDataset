@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_Canadian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/Shae-Lynn_Bourne",
+            "http://dbpedia.org/resource/Chantal_Lefebvre",
+            "http://dbpedia.org/resource/Megan_Wing"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Canadian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Hamilton,_Ontario",
+            "http://dbpedia.org/resource/Shae-Lynn_Bourne",
+            "http://dbpedia.org/resource/Chantal_Lefebvre",
+            "http://dbpedia.org/resource/Megan_Wing"
+        ]
+    ]
+}

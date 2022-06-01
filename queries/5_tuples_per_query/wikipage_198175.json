@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joey_Cheek",
+            "http://dbpedia.org/resource/Dmitry_Dorofeyev",
+            "http://dbpedia.org/resource/Lee_Kang-seok"
+        ],
+        [
+            "http://dbpedia.org/resource/Shani_Davis",
+            "http://dbpedia.org/resource/Joey_Cheek",
+            "http://dbpedia.org/resource/Erben_Wennemars"
+        ],
+        [
+            "http://dbpedia.org/resource/Enrico_Fabris",
+            "http://dbpedia.org/resource/Shani_Davis",
+            "http://dbpedia.org/resource/Chad_Hedrick"
+        ],
+        [
+            "http://dbpedia.org/resource/Chad_Hedrick",
+            "http://dbpedia.org/resource/Sven_Kramer",
+            "http://dbpedia.org/resource/Enrico_Fabris"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_de_Jong",
+            "http://dbpedia.org/resource/Chad_Hedrick",
+            "http://dbpedia.org/resource/Carl_Verheijen"
+        ]
+    ]
+}

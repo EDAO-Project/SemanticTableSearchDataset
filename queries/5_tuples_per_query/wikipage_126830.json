@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_I_Want_for_Christmas_Is_You",
+            "http://dbpedia.org/resource/Mariah_Carey",
+            "http://dbpedia.org/resource/Walter_Afanasieff"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Join_Hands",
+            "http://dbpedia.org/resource/Slade",
+            "http://dbpedia.org/resource/UK_Singles_Chart"
+        ],
+        [
+            "http://dbpedia.org/resource/Another_Rock_and_Roll_Christmas",
+            "http://dbpedia.org/resource/Gary_Glitter",
+            "http://dbpedia.org/resource/UK_Singles_Chart"
+        ],
+        [
+            "http://dbpedia.org/resource/Christmas_Alphabet",
+            "http://dbpedia.org/resource/Dickie_Valentine",
+            "http://dbpedia.org/resource/UK_Singles_Chart"
+        ],
+        [
+            "http://dbpedia.org/resource/Christmas_Wrapping",
+            "http://dbpedia.org/resource/The_Waitresses",
+            "http://dbpedia.org/resource/UK_Singles_Chart"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Xiamen_International_Marathon",
+            "http://dbpedia.org/resource/Marathon",
+            "http://dbpedia.org/resource/Xiamen",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubai_Marathon",
+            "http://dbpedia.org/resource/Marathon",
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ]
+    ]
+}

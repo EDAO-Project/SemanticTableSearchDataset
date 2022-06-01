@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Myron_Donovan_Crocker",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Sherrill_Halbert",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Dwight_D._Eisenhower"
+        ]
+    ]
+}

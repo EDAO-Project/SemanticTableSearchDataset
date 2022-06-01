@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_NFL_draft",
+            "http://dbpedia.org/resource/David_Carr",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/Fresno_State_Bulldogs_football"
+        ]
+    ]
+}

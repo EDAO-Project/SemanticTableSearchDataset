@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boipatong",
+            "http://dbpedia.org/resource/Emfuleni_Local_Municipality",
+            "http://dbpedia.org/resource/Sedibeng_District_Municipality"
+        ],
+        [
+            "http://dbpedia.org/resource/Bophelong",
+            "http://dbpedia.org/resource/Emfuleni_Local_Municipality",
+            "http://dbpedia.org/resource/Sedibeng_District_Municipality"
+        ]
+    ]
+}

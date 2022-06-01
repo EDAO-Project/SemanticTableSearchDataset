@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hefei",
+            "http://dbpedia.org/resource/Anhui",
+            "http://dbpedia.org/resource/Prefecture-level_city"
+        ],
+        [
+            "http://dbpedia.org/resource/Anqing",
+            "http://dbpedia.org/resource/Anhui",
+            "http://dbpedia.org/resource/Prefecture-level_city"
+        ]
+    ]
+}

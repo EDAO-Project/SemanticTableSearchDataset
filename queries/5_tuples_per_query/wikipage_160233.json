@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_1948_Winter_Olympics",
+            "http://dbpedia.org/resource/Gretchen_Fraser",
+            "http://dbpedia.org/resource/Antoinette_Meyer",
+            "http://dbpedia.org/resource/Erika_Mahringer"
+        ],
+        [
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_1952_Winter_Olympics",
+            "http://dbpedia.org/resource/Andrea_Mead_Lawrence",
+            "http://dbpedia.org/resource/Ossi_Reichert",
+            "http://dbpedia.org/resource/Annemarie_Buchner"
+        ],
+        [
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_1960_Winter_Olympics",
+            "http://dbpedia.org/resource/Anne_Heggtveit",
+            "http://dbpedia.org/resource/Betsy_Snite",
+            "http://dbpedia.org/resource/Barbara_Henneberger"
+        ],
+        [
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_1964_Winter_Olympics",
+            "http://dbpedia.org/resource/Christine_Goitschel",
+            "http://dbpedia.org/resource/Marielle_Goitschel",
+            "http://dbpedia.org/resource/Jean_Saubert"
+        ],
+        [
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_1968_Winter_Olympics",
+            "http://dbpedia.org/resource/Marielle_Goitschel",
+            "http://dbpedia.org/resource/Nancy_Greene",
+            "http://dbpedia.org/resource/Annie_Famose"
+        ]
+    ]
+}

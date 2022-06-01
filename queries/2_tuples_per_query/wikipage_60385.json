@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Dortmund",
+            "http://dbpedia.org/resource/Natalia_Kuchinskaya",
+            "http://dbpedia.org/resource/Keiko_Tanaka-Ikeda",
+            "http://dbpedia.org/resource/Taniko_Nakamura-Mitsukuri"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Varna",
+            "http://dbpedia.org/resource/Annelore_Zinke",
+            "http://dbpedia.org/resource/Olga_Korbut",
+            "http://dbpedia.org/resource/Ludmilla_Tourischeva"
+        ]
+    ]
+}

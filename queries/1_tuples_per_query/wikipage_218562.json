@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_Amos",
+            "http://dbpedia.org/resource/Microbiologist",
+            "http://dbpedia.org/resource/Harvard_Medical_School"
+        ]
+    ]
+}

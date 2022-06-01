@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_in_television",
+            "http://dbpedia.org/resource/Angela_Lansbury",
+            "http://dbpedia.org/resource/Murder,_She_Wrote",
+            "http://dbpedia.org/resource/Jessica_Fletcher",
+            "http://dbpedia.org/resource/CBS"
+        ]
+    ]
+}

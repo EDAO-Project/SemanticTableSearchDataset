@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/LaMarcus_Aldridge",
+            "http://dbpedia.org/resource/Marcus_Camby",
+            "http://dbpedia.org/resource/Andre_Miller",
+            "http://dbpedia.org/resource/United_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Bucks",
+            "http://dbpedia.org/resource/Wesley_Matthews",
+            "http://dbpedia.org/resource/Marcus_Camby",
+            "http://dbpedia.org/resource/Andre_Miller",
+            "http://dbpedia.org/resource/BMO_Harris_Bradley_Center"
+        ]
+    ]
+}

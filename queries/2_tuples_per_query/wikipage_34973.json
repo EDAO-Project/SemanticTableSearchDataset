@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Gatwick_Airport",
+            "http://dbpedia.org/resource/British_Airways"
+        ],
+        [
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Brussels_Airport",
+            "http://dbpedia.org/resource/Brussels_Airlines"
+        ]
+    ]
+}

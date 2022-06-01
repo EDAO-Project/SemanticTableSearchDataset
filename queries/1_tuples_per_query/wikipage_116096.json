@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_Kissinger",
+            "http://dbpedia.org/resource/John_W._Gardner",
+            "http://dbpedia.org/resource/Cesar_Chavez",
+            "http://dbpedia.org/resource/Joseph_Yablonski"
+        ]
+    ]
+}

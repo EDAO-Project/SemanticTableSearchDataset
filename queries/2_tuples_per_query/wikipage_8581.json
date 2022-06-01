@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KACC",
+            "http://dbpedia.org/resource/Alvin,_Texas",
+            "http://dbpedia.org/resource/Alvin_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/WWPW",
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/Contemporary_hit_radio"
+        ]
+    ]
+}

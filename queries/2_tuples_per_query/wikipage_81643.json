@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baton_Rouge,_Louisiana",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Pete_Maravich_Assembly_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Mobile,_Alabama",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mobile_Civic_Center"
+        ]
+    ]
+}

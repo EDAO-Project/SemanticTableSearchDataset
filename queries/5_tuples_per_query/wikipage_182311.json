@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dalby,_Queensland",
+            "http://dbpedia.org/resource/Evie_Dominikovic",
+            "http://dbpedia.org/resource/Anousjka_van_Exel"
+        ],
+        [
+            "http://dbpedia.org/resource/Port_Pirie",
+            "http://dbpedia.org/resource/Sunitha_Rao",
+            "http://dbpedia.org/resource/Daniella_Jeflea"
+        ],
+        [
+            "http://dbpedia.org/resource/Bendigo",
+            "http://dbpedia.org/resource/Trudi_Musgrave",
+            "http://dbpedia.org/resource/Cindy_Watson"
+        ],
+        [
+            "http://dbpedia.org/resource/Wuxi",
+            "http://dbpedia.org/resource/Sophie_Ferguson",
+            "http://dbpedia.org/resource/Jeon_Mi-ra"
+        ],
+        [
+            "http://dbpedia.org/resource/Mackay,_Queensland",
+            "http://dbpedia.org/resource/Daniella_Jeflea",
+            "http://dbpedia.org/resource/Monique_Adamczak"
+        ]
+    ]
+}

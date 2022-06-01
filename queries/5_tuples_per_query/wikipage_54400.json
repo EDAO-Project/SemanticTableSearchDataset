@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/PFC_CSKA_Moscow",
+            "http://dbpedia.org/resource/Pavel_Sadyrin",
+            "http://dbpedia.org/resource/1991_Soviet_Top_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Spartak_Moscow",
+            "http://dbpedia.org/resource/Oleg_Romantsev",
+            "http://dbpedia.org/resource/1991_Soviet_Top_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Torpedo_Moscow",
+            "http://dbpedia.org/resource/Yevgeni_Skomorokhov",
+            "http://dbpedia.org/resource/1991_Soviet_Top_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dynamo_Moscow",
+            "http://dbpedia.org/resource/Valery_Gazzaev",
+            "http://dbpedia.org/resource/1991_Soviet_Top_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Lokomotiv_Moscow",
+            "http://dbpedia.org/resource/Yuri_Semin",
+            "http://dbpedia.org/resource/1991_Soviet_Top_League"
+        ]
+    ]
+}

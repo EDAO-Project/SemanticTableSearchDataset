@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cloverleaf_interchange",
+            "http://dbpedia.org/resource/Quezon_City",
+            "http://dbpedia.org/resource/Caloocan"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aerial_Lift_Bridge",
+            "http://dbpedia.org/resource/Duluth,_Minnesota",
+            "http://dbpedia.org/resource/St._Louis_County,_Minnesota"
+        ],
+        [
+            "http://dbpedia.org/resource/Anoka-Champlin_Mississippi_River_Bridge",
+            "http://dbpedia.org/resource/Anoka,_Minnesota",
+            "http://dbpedia.org/resource/Anoka_County,_Minnesota"
+        ]
+    ]
+}

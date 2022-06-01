@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fort_Worth_Classic",
+            "http://dbpedia.org/resource/College_football",
+            "http://dbpedia.org/resource/Panther_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Pro_Bowl",
+            "http://dbpedia.org/resource/American_football",
+            "http://dbpedia.org/resource/Texas_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas_Grand_Prix",
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Fair_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/NBA_All-Star_Game",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/Reunion_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Major_League_Baseball_All-Star_Game",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Globe_Life_Park_in_Arlington"
+        ]
+    ]
+}

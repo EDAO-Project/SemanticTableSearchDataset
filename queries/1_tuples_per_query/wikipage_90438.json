@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/London_River",
+            "http://dbpedia.org/resource/French_language",
+            "http://dbpedia.org/resource/Rachid_Bouchareb"
+        ]
+    ]
+}

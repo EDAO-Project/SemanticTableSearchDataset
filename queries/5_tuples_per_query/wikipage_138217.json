@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1973",
+            "http://dbpedia.org/resource/Ilanit",
+            "http://dbpedia.org/resource/Ey_Sham"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1974",
+            "http://dbpedia.org/resource/Kaveret",
+            "http://dbpedia.org/resource/Natati_La_Khayay"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1976",
+            "http://dbpedia.org/resource/Chocolate,_Menta,_Mastik",
+            "http://dbpedia.org/resource/Emor_Shalom"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1977",
+            "http://dbpedia.org/resource/Ilanit",
+            "http://dbpedia.org/resource/Ahava_Hi_Shir_Lishnayim"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1978",
+            "http://dbpedia.org/resource/Izhar_Cohen",
+            "http://dbpedia.org/resource/A-Ba-Ni-Bi"
+        ]
+    ]
+}

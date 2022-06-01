@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bobby_Clarke",
+            "http://dbpedia.org/resource/Philadelphia_Flyers",
+            "http://dbpedia.org/resource/Diabetes_mellitus_type_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Henri_Richard",
+            "http://dbpedia.org/resource/Montreal_Canadiens",
+            "http://dbpedia.org/resource/Stanley_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Butch_Goring",
+            "http://dbpedia.org/resource/Los_Angeles_Kings",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Doug_Jarvis",
+            "http://dbpedia.org/resource/Hartford_Whalers",
+            "http://dbpedia.org/resource/Garry_Unger"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_McLennan",
+            "http://dbpedia.org/resource/St._Louis_Blues",
+            "http://dbpedia.org/resource/Meningitis"
+        ]
+    ]
+}

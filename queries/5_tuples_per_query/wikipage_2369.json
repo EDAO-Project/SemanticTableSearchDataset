@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leonid_Kolesnikov",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/Chet_Jastremski",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Chet_Jastremski",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Chet_Jastremski",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Chet_Jastremski",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Osaka"
+        ]
+    ]
+}

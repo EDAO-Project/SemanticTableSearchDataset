@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2013",
+            "http://dbpedia.org/resource/Denzel_Washington",
+            "http://dbpedia.org/resource/Chris_Rock"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2012",
+            "http://dbpedia.org/resource/John_Boyega",
+            "http://dbpedia.org/resource/Laz_Alonso"
+        ]
+    ]
+}

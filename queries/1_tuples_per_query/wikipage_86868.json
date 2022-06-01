@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_Euler",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Tamara_Mikhaylovna_Smirnova"
+        ]
+    ]
+}

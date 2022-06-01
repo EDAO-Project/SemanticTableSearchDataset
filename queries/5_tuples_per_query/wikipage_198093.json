@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Crichton",
+            "http://dbpedia.org/resource/Westworld",
+            "http://dbpedia.org/resource/Metro-Goldwyn-Mayer"
+        ],
+        [
+            "http://dbpedia.org/resource/Christopher_Isherwood",
+            "http://dbpedia.org/resource/Frankenstein:_The_True_Story",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Mel_Brooks",
+            "http://dbpedia.org/resource/Young_Frankenstein",
+            "http://dbpedia.org/resource/United_Artists"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Mayersberg",
+            "http://dbpedia.org/resource/The_Man_Who_Fell_to_Earth",
+            "http://dbpedia.org/resource/Columbia_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/M._Night_Shyamalan",
+            "http://dbpedia.org/resource/The_Sixth_Sense",
+            "http://dbpedia.org/resource/Hollywood_Pictures"
+        ]
+    ]
+}

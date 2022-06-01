@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belmont_University",
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/Belmont_Bruins",
+            "http://dbpedia.org/resource/Ohio_Valley_Conference"
+        ]
+    ]
+}

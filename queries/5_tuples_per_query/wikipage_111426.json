@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_NASCAR_Strictly_Stock_Series",
+            "http://dbpedia.org/resource/Red_Byron",
+            "http://dbpedia.org/resource/Oldsmobile"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_NASCAR_Grand_National_Series",
+            "http://dbpedia.org/resource/Bill_Rexford",
+            "http://dbpedia.org/resource/Oldsmobile"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_NASCAR_Grand_National_Series",
+            "http://dbpedia.org/resource/Herb_Thomas",
+            "http://dbpedia.org/resource/Oldsmobile"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_NASCAR_Grand_National_Series",
+            "http://dbpedia.org/resource/Tim_Flock",
+            "http://dbpedia.org/resource/Fabulous_Hudson_Hornet"
+        ],
+        [
+            "http://dbpedia.org/resource/1953_NASCAR_Grand_National_Series",
+            "http://dbpedia.org/resource/Herb_Thomas",
+            "http://dbpedia.org/resource/Fabulous_Hudson_Hornet"
+        ]
+    ]
+}

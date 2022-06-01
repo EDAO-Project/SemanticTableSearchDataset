@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonathan_Viera",
+            "http://dbpedia.org/resource/UD_Las_Palmas",
+            "http://dbpedia.org/resource/Valencia_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/Chory_Castro",
+            "http://dbpedia.org/resource/RCD_Mallorca",
+            "http://dbpedia.org/resource/Real_Sociedad"
+        ]
+    ]
+}

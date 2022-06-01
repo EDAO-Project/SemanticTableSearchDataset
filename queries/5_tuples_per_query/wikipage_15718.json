@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Murder_of_Raja_Ahmed",
+            "http://dbpedia.org/resource/Constable",
+            "http://dbpedia.org/resource/Greater_Manchester_Police"
+        ],
+        [
+            "http://dbpedia.org/resource/Constable",
+            "http://dbpedia.org/resource/Metropolitan_Police_Service",
+            "http://dbpedia.org/resource/Harrods_bombings"
+        ],
+        [
+            "http://dbpedia.org/resource/Death_of_Jack_Avery",
+            "http://dbpedia.org/resource/War_Reserve_Constable",
+            "http://dbpedia.org/resource/Metropolitan_Police_Service"
+        ],
+        [
+            "http://dbpedia.org/resource/Distinguished_Conduct_Medal",
+            "http://dbpedia.org/resource/Sergeant",
+            "http://dbpedia.org/resource/Sussex_Police"
+        ],
+        [
+            "http://dbpedia.org/resource/Linwood_bank_robbery",
+            "http://dbpedia.org/resource/Constable",
+            "http://dbpedia.org/resource/City_of_Glasgow_Police"
+        ]
+    ]
+}

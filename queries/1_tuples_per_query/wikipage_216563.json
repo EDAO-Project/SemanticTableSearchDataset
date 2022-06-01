@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tchaikovsky_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Maxim_Shostakovich",
+            "http://dbpedia.org/resource/Melodiya"
+        ]
+    ]
+}

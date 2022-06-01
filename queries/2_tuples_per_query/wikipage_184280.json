@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/MTV_Movie_Awards",
+            "http://dbpedia.org/resource/MTV_Movie_Award_for_Best_Performance",
+            "http://dbpedia.org/resource/The_Twilight_Saga:_New_Moon"
+        ],
+        [
+            "http://dbpedia.org/resource/MTV_Movie_Awards",
+            "http://dbpedia.org/resource/2010_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/The_Twilight_Saga:_New_Moon"
+        ]
+    ]
+}

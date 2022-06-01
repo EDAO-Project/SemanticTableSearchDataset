@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1955_in_baseball",
+            "http://dbpedia.org/resource/Alvin_Dark",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/Shortstop"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_in_baseball",
+            "http://dbpedia.org/resource/Pee_Wee_Reese",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Shortstop"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_in_baseball",
+            "http://dbpedia.org/resource/Stan_Musial",
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_in_baseball",
+            "http://dbpedia.org/resource/Gil_McDougald",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Second_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_in_baseball",
+            "http://dbpedia.org/resource/Gil_Hodges",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/First_baseman"
+        ]
+    ]
+}

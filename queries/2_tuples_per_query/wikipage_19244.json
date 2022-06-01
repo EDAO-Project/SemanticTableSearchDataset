@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gary_Player",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/1961_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Stadler",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1982_Masters_Tournament"
+        ]
+    ]
+}

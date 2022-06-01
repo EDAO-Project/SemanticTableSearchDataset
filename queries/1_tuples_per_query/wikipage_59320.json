@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1901_Boston_Americans_season",
+            "http://dbpedia.org/resource/Win_Kellum",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Oriole_Park"
+        ]
+    ]
+}

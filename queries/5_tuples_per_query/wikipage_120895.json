@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Railroad_Development_Corporation",
+            "http://dbpedia.org/resource/5_ft_6_in_gauge_railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Pacific_National",
+            "http://dbpedia.org/resource/Rail_gauge_in_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Railways_of_the_Federation_of_Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Rail_transport_in_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Canadian_Pacific_Railway",
+            "http://dbpedia.org/resource/List_of_Canadian_railways"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/China_Railway_High-speed",
+            "http://dbpedia.org/resource/Rail_transport_in_China"
+        ]
+    ]
+}

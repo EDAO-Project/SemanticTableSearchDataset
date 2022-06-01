@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Valentin_Demyanenko",
+            "http://dbpedia.org/resource/Alfonso_Benavides",
+            "http://dbpedia.org/resource/Jevgenij_Shuklin"
+        ],
+        [
+            "http://dbpedia.org/resource/Sebastian_Brendel",
+            "http://dbpedia.org/resource/Mathieu_Goubel",
+            "http://dbpedia.org/resource/Aliaksandr_Zhukouski"
+        ]
+    ]
+}

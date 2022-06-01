@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/President_of_Algeria",
+            "http://dbpedia.org/resource/Abdelaziz_Bouteflika",
+            "http://dbpedia.org/resource/Mourad_Medelci"
+        ],
+        [
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/President_of_Egypt",
+            "http://dbpedia.org/resource/Adly_Mansour",
+            "http://dbpedia.org/resource/Nabil_Fahmi"
+        ]
+    ]
+}

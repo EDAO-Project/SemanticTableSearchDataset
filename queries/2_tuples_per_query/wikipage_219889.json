@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_Rams",
+            "http://dbpedia.org/resource/1997_ARL_season",
+            "http://dbpedia.org/resource/1998_NRL_season",
+            "http://dbpedia.org/resource/Australian_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Balmain_Tigers",
+            "http://dbpedia.org/resource/1908_NSWRFL_season",
+            "http://dbpedia.org/resource/1999_NRL_season",
+            "http://dbpedia.org/resource/Western_Suburbs_Magpies"
+        ]
+    ]
+}

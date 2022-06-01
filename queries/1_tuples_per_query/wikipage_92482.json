@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Enerio_del_Rosario",
+            "http://dbpedia.org/resource/Dennys_Reyes",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Harringay_Arena",
+            "http://dbpedia.org/resource/Wrestling_at_the_1948_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_Summer_Olympics",
+            "http://dbpedia.org/resource/Royal_Exhibition_Building",
+            "http://dbpedia.org/resource/Modern_pentathlon_at_the_1956_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1960_Summer_Olympics",
+            "http://dbpedia.org/resource/PalaLottomatica",
+            "http://dbpedia.org/resource/Boxing_at_the_1960_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1960_Summer_Olympics",
+            "http://dbpedia.org/resource/Palazzetto_dello_Sport",
+            "http://dbpedia.org/resource/Weightlifting_at_the_1960_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Yoyogi_National_Gymnasium",
+            "http://dbpedia.org/resource/Diving_at_the_1964_Summer_Olympics"
+        ]
+    ]
+}

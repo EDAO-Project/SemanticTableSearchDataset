@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wang_Xiaofu",
+            "http://dbpedia.org/resource/Peter_Leek",
+            "http://dbpedia.org/resource/Konstantin_Lisenkov"
+        ],
+        [
+            "http://dbpedia.org/resource/Enhamed_Enhamed",
+            "http://dbpedia.org/resource/Junichi_Kawai",
+            "http://dbpedia.org/resource/Alexander_Chekurov"
+        ],
+        [
+            "http://dbpedia.org/resource/Maksym_Veraksa",
+            "http://dbpedia.org/resource/Alexander_Nevolin-Svetov",
+            "http://dbpedia.org/resource/Serhiy_Klippert"
+        ],
+        [
+            "http://dbpedia.org/resource/Oleksii_Fedyna",
+            "http://dbpedia.org/resource/Charalampos_Taiganidis",
+            "http://dbpedia.org/resource/Andrey_Strokin"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Dias",
+            "http://dbpedia.org/resource/Dmytro_Kryzhanovskyy",
+            "http://dbpedia.org/resource/Roy_Perkins"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Vietnam"
+        ]
+    ]
+}

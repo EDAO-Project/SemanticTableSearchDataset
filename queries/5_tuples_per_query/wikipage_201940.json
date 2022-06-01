@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/P._J._Duke",
+            "http://dbpedia.org/resource/University_College_Dublin",
+            "http://dbpedia.org/resource/Cavan_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Paudie_Sheehy",
+            "http://dbpedia.org/resource/University_College_Cork",
+            "http://dbpedia.org/resource/Kerry_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Enda_Colleran",
+            "http://dbpedia.org/resource/NUI_Galway",
+            "http://dbpedia.org/resource/Galway_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Moss_Keane",
+            "http://dbpedia.org/resource/University_College_Cork",
+            "http://dbpedia.org/resource/Kerry_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerry_McEntee",
+            "http://dbpedia.org/resource/University_College_Dublin",
+            "http://dbpedia.org/resource/County_Meath"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Juninho_Petrolina",
+            "http://dbpedia.org/resource/S.C._Beira-Mar"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Derlei",
+            "http://dbpedia.org/resource/FC_Porto"
+        ],
+        [
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Pedro_Barbosa",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Benni_McCarthy",
+            "http://dbpedia.org/resource/FC_Porto"
+        ],
+        [
+            "http://dbpedia.org/resource/Cameroon",
+            "http://dbpedia.org/resource/Roudolphe_Douala",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ]
+    ]
+}

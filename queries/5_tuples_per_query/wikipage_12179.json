@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/1950_Formula_One_season",
+            "http://dbpedia.org/resource/1951_British_Grand_Prix",
+            "http://dbpedia.org/resource/2013_Spanish_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/1966_Formula_One_season",
+            "http://dbpedia.org/resource/1968_Belgian_Grand_Prix",
+            "http://dbpedia.org/resource/2012_Brazilian_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Williams_Grand_Prix_Engineering",
+            "http://dbpedia.org/resource/1975_Formula_One_season",
+            "http://dbpedia.org/resource/1979_British_Grand_Prix",
+            "http://dbpedia.org/resource/2012_Spanish_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Team_Lotus",
+            "http://dbpedia.org/resource/1958_Formula_One_season",
+            "http://dbpedia.org/resource/1960_Monaco_Grand_Prix",
+            "http://dbpedia.org/resource/1987_Detroit_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Red_Bull_Racing",
+            "http://dbpedia.org/resource/2005_Formula_One_season",
+            "http://dbpedia.org/resource/2009_Chinese_Grand_Prix",
+            "http://dbpedia.org/resource/2013_Japanese_Grand_Prix"
+        ]
+    ]
+}

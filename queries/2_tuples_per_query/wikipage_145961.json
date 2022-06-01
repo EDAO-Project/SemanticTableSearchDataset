@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carlos_Correa",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Puerto_Rico_Baseball_Academy_and_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Byron_Buxton",
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Appling_County_High_School"
+        ]
+    ]
+}

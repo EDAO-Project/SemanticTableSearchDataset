@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chen-Ning_Yang",
+            "http://dbpedia.org/resource/Hefei",
+            "http://dbpedia.org/resource/Institute_for_Advanced_Study"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_C._C._Ting",
+            "http://dbpedia.org/resource/Ann_Arbor,_Michigan",
+            "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuan_T._Lee",
+            "http://dbpedia.org/resource/Hsinchu",
+            "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        ],
+        [
+            "http://dbpedia.org/resource/Steven_Chu",
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/Stanford_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_C._Tsui",
+            "http://dbpedia.org/resource/Pingdingshan",
+            "http://dbpedia.org/resource/Princeton_University"
+        ]
+    ]
+}

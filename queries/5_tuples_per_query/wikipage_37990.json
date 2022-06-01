@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Haneda_Airport",
+            "http://dbpedia.org/resource/New_Chitose_Airport",
+            "http://dbpedia.org/resource/Japan_Airlines"
+        ],
+        [
+            "http://dbpedia.org/resource/Gimpo_International_Airport",
+            "http://dbpedia.org/resource/Jeju_International_Airport",
+            "http://dbpedia.org/resource/Air_Busan"
+        ],
+        [
+            "http://dbpedia.org/resource/Haneda_Airport",
+            "http://dbpedia.org/resource/Fukuoka_Airport",
+            "http://dbpedia.org/resource/All_Nippon_Airways"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Airport",
+            "http://dbpedia.org/resource/Melbourne_Airport",
+            "http://dbpedia.org/resource/Jetstar_Airways"
+        ],
+        [
+            "http://dbpedia.org/resource/Beijing_Capital_International_Airport",
+            "http://dbpedia.org/resource/Shanghai_Hongqiao_International_Airport",
+            "http://dbpedia.org/resource/Air_China"
+        ]
+    ]
+}

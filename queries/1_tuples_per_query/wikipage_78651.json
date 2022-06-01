@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nagoya_Dome",
+            "http://dbpedia.org/resource/Chunichi_Dragons",
+            "http://dbpedia.org/resource/Daisuke_Matsuzaka"
+        ]
+    ]
+}

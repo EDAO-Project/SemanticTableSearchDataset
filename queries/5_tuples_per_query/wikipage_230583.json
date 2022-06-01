@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Forest_Lake_Shopping_Centre",
+            "http://dbpedia.org/resource/Goodna_railway_station",
+            "http://dbpedia.org/resource/Ellen_Grove,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Goodna_railway_station",
+            "http://dbpedia.org/resource/Riverlink_Shopping_Centre",
+            "http://dbpedia.org/resource/Redbank_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Riverlink_Shopping_Centre",
+            "http://dbpedia.org/resource/Bundamba,_Queensland",
+            "http://dbpedia.org/resource/Ipswich_railway_station,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Riverlink_Shopping_Centre",
+            "http://dbpedia.org/resource/Bundamba,_Queensland",
+            "http://dbpedia.org/resource/Ipswich_railway_station,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Riverlink_Shopping_Centre",
+            "http://dbpedia.org/resource/Leichhardt,_Queensland",
+            "http://dbpedia.org/resource/Ipswich_railway_station,_Queensland"
+        ]
+    ]
+}

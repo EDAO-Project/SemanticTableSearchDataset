@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patchway_railway_station",
+            "http://dbpedia.org/resource/Great_Western_Railway",
+            "http://dbpedia.org/resource/Ashley_Hill_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Patchway_railway_station",
+            "http://dbpedia.org/resource/Great_Western_Railway",
+            "http://dbpedia.org/resource/Horfield_railway_station"
+        ]
+    ]
+}

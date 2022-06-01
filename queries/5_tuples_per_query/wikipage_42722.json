@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BookLink",
+            "http://dbpedia.org/resource/Web_browser",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/NaviSoft",
+            "http://dbpedia.org/resource/Web_server",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Medior",
+            "http://dbpedia.org/resource/User_interface_design",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Wide_area_information_server",
+            "http://dbpedia.org/resource/Search_engine_technology",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnson-Grace",
+            "http://dbpedia.org/resource/Data_compression",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

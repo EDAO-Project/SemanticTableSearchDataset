@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Weems_v._United_States",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Cruel_and_unusual_punishment"
+        ],
+        [
+            "http://dbpedia.org/resource/Muskrat_v._United_States",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Advisory_opinion"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kevin_Buzzard",
+            "http://dbpedia.org/resource/University_of_Cambridge",
+            "http://dbpedia.org/resource/Imperial_College_London"
+        ]
+    ]
+}

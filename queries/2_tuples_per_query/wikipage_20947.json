@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kay_Bailey_Hutchison_Convention_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Memphis,_Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mid-South_Coliseum"
+        ]
+    ]
+}

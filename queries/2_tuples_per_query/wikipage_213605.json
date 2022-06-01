@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hunter_Gomez",
+            "http://dbpedia.org/resource/Pinocchio",
+            "http://dbpedia.org/resource/North_by_North_Quahog"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexandra_Breckenridge",
+            "http://dbpedia.org/resource/Cybill_Shepherd",
+            "http://dbpedia.org/resource/The_Fat_Guy_Strangler"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mariusz_Pudzianowski",
+            "http://dbpedia.org/resource/Poland",
+            "http://dbpedia.org/resource/World_Strongman_Cup_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Skog",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Giants_Live"
+        ]
+    ]
+}

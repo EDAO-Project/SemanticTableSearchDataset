@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Borderlands_2",
+            "http://dbpedia.org/resource/Gearbox_Software",
+            "http://dbpedia.org/resource/2K_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Duke_Nukem_Forever",
+            "http://dbpedia.org/resource/Gearbox_Software",
+            "http://dbpedia.org/resource/2K_Games"
+        ]
+    ]
+}

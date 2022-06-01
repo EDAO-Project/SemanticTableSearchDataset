@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Starting_pitcher",
+            "http://dbpedia.org/resource/Mark_Appel",
+            "http://dbpedia.org/resource/Stanford_Cardinal_baseball"
+        ]
+    ]
+}

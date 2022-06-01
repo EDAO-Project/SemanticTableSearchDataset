@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_Asian_Club_Championship",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/G.D._Lam_Pak",
+            "http://dbpedia.org/resource/Hwang_Yeon-seok"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Asian_Club_Championship",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Pahang_FA",
+            "http://dbpedia.org/resource/Shin_Tae-yong"
+        ]
+    ]
+}

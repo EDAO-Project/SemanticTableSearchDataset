@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_Ackroyd",
+            "http://dbpedia.org/resource/Royal_Army_Medical_Corps",
+            "http://dbpedia.org/resource/Ypres"
+        ]
+    ]
+}

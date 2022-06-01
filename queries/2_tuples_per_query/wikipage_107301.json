@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stade_olympique_de_la_Pontaise",
+            "http://dbpedia.org/resource/Switzerland_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Lars_Bastrup"
+        ],
+        [
+            "http://dbpedia.org/resource/Tammela_Stadion",
+            "http://dbpedia.org/resource/Finland_national_football_team",
+            "http://dbpedia.org/resource/Nordic_Football_Championship",
+            "http://dbpedia.org/resource/John_Lauridsen"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1974_in_literature",
+            "http://dbpedia.org/resource/Suzy_McKee_Charnas",
+            "http://dbpedia.org/resource/The_Holdfast_Chronicles"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_in_literature",
+            "http://dbpedia.org/resource/C._J._Cherryh",
+            "http://dbpedia.org/resource/Gate_of_Ivrel"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_in_literature",
+            "http://dbpedia.org/resource/David_Brin",
+            "http://dbpedia.org/resource/Sundiver"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_in_literature",
+            "http://dbpedia.org/resource/R._A._MacAvoy",
+            "http://dbpedia.org/resource/Tea_with_the_Black_Dragon"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_in_literature",
+            "http://dbpedia.org/resource/Sheri_S._Tepper",
+            "http://dbpedia.org/resource/The_True_Game"
+        ]
+    ]
+}

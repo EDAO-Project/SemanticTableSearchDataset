@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Unity_Chapel",
+            "http://dbpedia.org/resource/Spring_Green,_Wisconsin",
+            "http://dbpedia.org/resource/Wisconsin",
+            "http://dbpedia.org/resource/Joseph_Lyman_Silsbee"
+        ]
+    ]
+}

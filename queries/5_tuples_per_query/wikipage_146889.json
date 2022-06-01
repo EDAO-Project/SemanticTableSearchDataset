@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arques,_Aude",
+            "http://dbpedia.org/resource/Artigues,_Aude",
+            "http://dbpedia.org/resource/Aunat",
+            "http://dbpedia.org/resource/Axat"
+        ],
+        [
+            "http://dbpedia.org/resource/Cailla",
+            "http://dbpedia.org/resource/Cambieure",
+            "http://dbpedia.org/resource/Campagna-de-Sault",
+            "http://dbpedia.org/resource/Campagne-sur-Aude"
+        ],
+        [
+            "http://dbpedia.org/resource/Caudeval",
+            "http://dbpedia.org/resource/Caunette-sur-Lauquet",
+            "http://dbpedia.org/resource/Chalabre",
+            "http://dbpedia.org/resource/Clermont-sur-Lauquet"
+        ],
+        [
+            "http://dbpedia.org/resource/Couiza",
+            "http://dbpedia.org/resource/Counozouls",
+            "http://dbpedia.org/resource/Cournanel",
+            "http://dbpedia.org/resource/Courtauly"
+        ],
+        [
+            "http://dbpedia.org/resource/Gardie,_Aude",
+            "http://dbpedia.org/resource/Gincla",
+            "http://dbpedia.org/resource/Ginoles",
+            "http://dbpedia.org/resource/Gramazie"
+        ]
+    ]
+}

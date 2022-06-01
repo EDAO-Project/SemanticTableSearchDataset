@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Weber",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ]
+    ]
+}

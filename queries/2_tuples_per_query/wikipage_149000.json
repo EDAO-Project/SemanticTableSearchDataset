@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils",
+            "http://dbpedia.org/resource/Catholic_University_Cardinals",
+            "http://dbpedia.org/resource/1940_Sun_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Case_Western_Reserve_University",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils",
+            "http://dbpedia.org/resource/1941_Sun_Bowl"
+        ]
+    ]
+}

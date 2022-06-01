@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Fork_Dam",
+            "http://dbpedia.org/resource/Johnstown,_Pennsylvania",
+            "http://dbpedia.org/resource/Act_of_God"
+        ]
+    ]
+}

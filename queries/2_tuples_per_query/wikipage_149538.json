@@ -1,0 +1,13 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kenny_van_Weeghel",
+            "http://dbpedia.org/resource/Athletics_at_the_2004_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Robin_Ammerlaan",
+            "http://dbpedia.org/resource/Wheelchair_tennis_at_the_2004_Summer_Paralympics"
+        ]
+    ]
+}

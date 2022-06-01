@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1964_Tasman_Series",
+            "http://dbpedia.org/resource/Bruce_McLaren",
+            "http://dbpedia.org/resource/Cooper_Car_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Tasman_Series",
+            "http://dbpedia.org/resource/Jim_Clark",
+            "http://dbpedia.org/resource/Lotus_32"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Tasman_Series",
+            "http://dbpedia.org/resource/Jackie_Stewart",
+            "http://dbpedia.org/resource/BRM_P261"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Tasman_Series",
+            "http://dbpedia.org/resource/Jim_Clark",
+            "http://dbpedia.org/resource/Lotus_33"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Tasman_Series",
+            "http://dbpedia.org/resource/Jim_Clark",
+            "http://dbpedia.org/resource/Lotus_49"
+        ]
+    ]
+}

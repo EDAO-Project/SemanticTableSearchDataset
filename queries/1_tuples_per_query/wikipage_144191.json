@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Winston-Salem,_North_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lawrence_Joel_Veterans_Memorial_Coliseum"
+        ]
+    ]
+}

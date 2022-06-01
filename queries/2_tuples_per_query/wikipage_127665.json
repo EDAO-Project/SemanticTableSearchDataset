@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jean_Mbida",
+            "http://dbpedia.org/resource/Vicenza_Calcio",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicola_Silvestri",
+            "http://dbpedia.org/resource/Piacenza_Calcio_1919",
+            "http://dbpedia.org/resource/A.C._Lumezzane"
+        ]
+    ]
+}

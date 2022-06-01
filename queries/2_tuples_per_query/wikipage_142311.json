@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Symmons_Plains_Raceway",
+            "http://dbpedia.org/resource/Tasmania",
+            "http://dbpedia.org/resource/Honda_Prelude"
+        ],
+        [
+            "http://dbpedia.org/resource/Symmons_Plains_Raceway",
+            "http://dbpedia.org/resource/Tasmania",
+            "http://dbpedia.org/resource/Honda_Prelude"
+        ]
+    ]
+}

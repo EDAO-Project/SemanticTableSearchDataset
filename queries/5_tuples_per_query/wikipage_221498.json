@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jabat_Island",
+            "http://dbpedia.org/resource/Ralik_Chain",
+            "http://dbpedia.org/resource/Marshall_Islands"
+        ],
+        [
+            "http://dbpedia.org/resource/Jabat_Island",
+            "http://dbpedia.org/resource/Ralik_Chain",
+            "http://dbpedia.org/resource/Marshall_Islands"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackson_Island",
+            "http://dbpedia.org/resource/Franz_Josef_Land",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamestown,_Virginia",
+            "http://dbpedia.org/resource/James_River",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Java",
+            "http://dbpedia.org/resource/Sunda_Arc",
+            "http://dbpedia.org/resource/Indonesia"
+        ]
+    ]
+}

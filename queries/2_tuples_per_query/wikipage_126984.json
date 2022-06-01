@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battle_of_Beaver_Dams",
+            "http://dbpedia.org/resource/Thorold",
+            "http://dbpedia.org/resource/War_of_1812"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Chippawa",
+            "http://dbpedia.org/resource/Chippawa,_Ontario",
+            "http://dbpedia.org/resource/War_of_1812"
+        ]
+    ]
+}

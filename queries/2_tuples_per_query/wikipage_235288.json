@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_Shell_Championship_Series",
+            "http://dbpedia.org/resource/Craig_Lowndes",
+            "http://dbpedia.org/resource/Holden_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Shell_Championship_Series",
+            "http://dbpedia.org/resource/Mark_Skaife",
+            "http://dbpedia.org/resource/Holden_Racing_Team"
+        ]
+    ]
+}

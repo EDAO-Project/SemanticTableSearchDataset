@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Tampa_Bay_Mutiny",
+            "http://dbpedia.org/resource/Tim_Hankinson"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/San_Jose_Earthquakes",
+            "http://dbpedia.org/resource/Tom_Neale"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Sporting_Kansas_City",
+            "http://dbpedia.org/resource/Bob_Gansler"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/New_England_Revolution",
+            "http://dbpedia.org/resource/Steve_Nicol"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Columbus_Crew_SC",
+            "http://dbpedia.org/resource/Greg_Andrulis"
+        ]
+    ]
+}

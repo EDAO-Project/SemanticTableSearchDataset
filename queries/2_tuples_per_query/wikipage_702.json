@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wigan_Warriors",
+            "http://dbpedia.org/resource/Leigh_Centurions",
+            "http://dbpedia.org/resource/Hunslet_Hawks",
+            "http://dbpedia.org/resource/Halifax_RLFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Oldham_Roughyeds",
+            "http://dbpedia.org/resource/Broughton_Rangers",
+            "http://dbpedia.org/resource/Hunslet_Hawks",
+            "http://dbpedia.org/resource/Halifax_RLFC"
+        ]
+    ]
+}

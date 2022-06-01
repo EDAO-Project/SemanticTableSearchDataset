@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nolito",
+            "http://dbpedia.org/resource/FC_Barcelona_B",
+            "http://dbpedia.org/resource/S.L._Benfica"
+        ]
+    ]
+}

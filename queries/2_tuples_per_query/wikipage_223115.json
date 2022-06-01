@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Short_Parliament",
+            "http://dbpedia.org/resource/Sir_Edward_Seymour,_3rd_Baronet",
+            "http://dbpedia.org/resource/Cavalier"
+        ],
+        [
+            "http://dbpedia.org/resource/Long_Parliament",
+            "http://dbpedia.org/resource/Sir_Edward_Seymour,_3rd_Baronet",
+            "http://dbpedia.org/resource/Cavalier"
+        ]
+    ]
+}

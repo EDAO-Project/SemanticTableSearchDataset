@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Renato_William_Jones",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/FIBA"
+        ]
+    ]
+}

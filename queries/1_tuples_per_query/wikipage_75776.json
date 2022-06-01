@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Coldham,_Cambridgeshire",
+            "http://dbpedia.org/resource/Cambridgeshire",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Scottish_Power"
+        ]
+    ]
+}

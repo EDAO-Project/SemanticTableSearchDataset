@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/My_Mother_Likes_Women",
+            "http://dbpedia.org/resource/Daniela_Fejerman",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Best_Day_of_My_Life",
+            "http://dbpedia.org/resource/Cristina_Comencini",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Business_of_Fancydancing",
+            "http://dbpedia.org/resource/Sherman_Alexie",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Far_from_Heaven",
+            "http://dbpedia.org/resource/Todd_Haynes",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Issues_101",
+            "http://dbpedia.org/resource/John_Lincoln",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

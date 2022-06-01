@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buchanan_County,_Missouri",
+            "http://dbpedia.org/resource/St._Joseph,_Missouri",
+            "http://dbpedia.org/resource/Interstate_29_in_Missouri"
+        ],
+        [
+            "http://dbpedia.org/resource/DeKalb_County,_Missouri",
+            "http://dbpedia.org/resource/Maysville,_Missouri",
+            "http://dbpedia.org/resource/Missouri_Route_33"
+        ]
+    ]
+}

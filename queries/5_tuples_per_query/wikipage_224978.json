@@ -1,0 +1,35 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trbovlje_Power_Station",
+            "http://dbpedia.org/resource/Chimney",
+            "http://dbpedia.org/resource/Slovenia",
+            "http://dbpedia.org/resource/Trbovlje",
+            "http://dbpedia.org/resource/Chimney"
+        ],
+        [
+            "http://dbpedia.org/resource/Plomin_Power_Station",
+            "http://dbpedia.org/resource/Chimney",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Plomin"
+        ],
+        [
+            "http://dbpedia.org/resource/Ugljevik_Power_Plant",
+            "http://dbpedia.org/resource/Chimney",
+            "http://dbpedia.org/resource/Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Ugljevik"
+        ],
+        [
+            "http://dbpedia.org/resource/Pljevlja_Power_Station",
+            "http://dbpedia.org/resource/Chimney",
+            "http://dbpedia.org/resource/Montenegro",
+            "http://dbpedia.org/resource/Pljevlja"
+        ],
+        [
+            "http://dbpedia.org/resource/TE_Rijeka",
+            "http://dbpedia.org/resource/Chimney",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Kostrena"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aleksander_Klumberg",
+            "http://dbpedia.org/resource/Estonia",
+            "http://dbpedia.org/resource/Helsinki"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans-Heinrich_Sievert",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Hamburg"
+        ]
+    ]
+}

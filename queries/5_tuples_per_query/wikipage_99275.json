@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/EuroBasket",
+            "http://dbpedia.org/resource/Faidon_Matthaiou",
+            "http://dbpedia.org/resource/Kostas_Politis"
+        ],
+        [
+            "http://dbpedia.org/resource/EuroBasket",
+            "http://dbpedia.org/resource/Faidon_Matthaiou",
+            "http://dbpedia.org/resource/Giorgos_Kolokithas"
+        ],
+        [
+            "http://dbpedia.org/resource/EuroBasket",
+            "http://dbpedia.org/resource/Faidon_Matthaiou",
+            "http://dbpedia.org/resource/Giorgos_Kolokithas"
+        ],
+        [
+            "http://dbpedia.org/resource/EuroBasket",
+            "http://dbpedia.org/resource/Giannis_Ioannidis",
+            "http://dbpedia.org/resource/Nikos_Galis"
+        ],
+        [
+            "http://dbpedia.org/resource/EuroBasket",
+            "http://dbpedia.org/resource/Kostas_Politis",
+            "http://dbpedia.org/resource/Nikos_Galis"
+        ]
+    ]
+}

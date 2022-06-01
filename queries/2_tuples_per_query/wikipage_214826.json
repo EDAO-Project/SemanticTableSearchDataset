@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Air_Buster",
+            "http://dbpedia.org/resource/Kaneko",
+            "http://dbpedia.org/resource/NEC"
+        ],
+        [
+            "http://dbpedia.org/resource/Air_Zonk",
+            "http://dbpedia.org/resource/Kaga_Create",
+            "http://dbpedia.org/resource/NEC"
+        ]
+    ]
+}

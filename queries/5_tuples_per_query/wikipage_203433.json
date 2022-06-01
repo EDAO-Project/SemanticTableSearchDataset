@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Tokyo_Stock_Exchange"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Toyota",
+            "http://dbpedia.org/resource/Tokyo_Stock_Exchange"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Daimler_AG",
+            "http://dbpedia.org/resource/Frankfurt_Stock_Exchange"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/HSBC",
+            "http://dbpedia.org/resource/London_Stock_Exchange"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/The_Royal_Bank_of_Scotland_Group",
+            "http://dbpedia.org/resource/London_Stock_Exchange"
+        ]
+    ]
+}

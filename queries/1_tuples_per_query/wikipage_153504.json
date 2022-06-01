@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Black_Kettle_National_Grassland",
+            "http://dbpedia.org/resource/Oklahoma",
+            "http://dbpedia.org/resource/Cibola_National_Forest",
+            "http://dbpedia.org/resource/Washita_River"
+        ]
+    ]
+}

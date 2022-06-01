@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Likou_Station",
+            "http://dbpedia.org/resource/Xiangcheng_District,_Suzhou",
+            "http://dbpedia.org/resource/Line_2,_Suzhou_Rail_Transit"
+        ],
+        [
+            "http://dbpedia.org/resource/Binhe_Lu_Station",
+            "http://dbpedia.org/resource/Suzhou_New_District",
+            "http://dbpedia.org/resource/Line_1,_Suzhou_Rail_Transit"
+        ],
+        [
+            "http://dbpedia.org/resource/Youlian_Station",
+            "http://dbpedia.org/resource/Wuzhong_District",
+            "http://dbpedia.org/resource/Line_2,_Suzhou_Rail_Transit"
+        ],
+        [
+            "http://dbpedia.org/resource/Donghuan_Lu_Station",
+            "http://dbpedia.org/resource/Gusu_District",
+            "http://dbpedia.org/resource/Line_1,_Suzhou_Rail_Transit"
+        ],
+        [
+            "http://dbpedia.org/resource/Pinglonglu_East_Station",
+            "http://dbpedia.org/resource/Xiangcheng_District,_Suzhou",
+            "http://dbpedia.org/resource/Line_2,_Suzhou_Rail_Transit"
+        ]
+    ]
+}

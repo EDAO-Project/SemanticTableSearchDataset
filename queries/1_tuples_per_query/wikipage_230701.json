@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_European_Super_Cup",
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Camp_Nou"
+        ]
+    ]
+}

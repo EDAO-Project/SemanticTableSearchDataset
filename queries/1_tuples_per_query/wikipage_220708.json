@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Haaf_Gruney",
+            "http://dbpedia.org/resource/Shetland",
+            "http://dbpedia.org/resource/Scotland"
+        ]
+    ]
+}

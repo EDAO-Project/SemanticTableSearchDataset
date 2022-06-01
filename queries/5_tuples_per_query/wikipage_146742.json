@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arsague",
+            "http://dbpedia.org/resource/Audon",
+            "http://dbpedia.org/resource/Azur,_Landes",
+            "http://dbpedia.org/resource/Baigts"
+        ],
+        [
+            "http://dbpedia.org/resource/Bassercles",
+            "http://dbpedia.org/resource/Bastennes",
+            "http://dbpedia.org/resource/Bergouey",
+            "http://dbpedia.org/resource/Beylongue"
+        ],
+        [
+            "http://dbpedia.org/resource/Beyries",
+            "http://dbpedia.org/resource/Biarrotte",
+            "http://dbpedia.org/resource/Biaudos",
+            "http://dbpedia.org/resource/Bonnegarde"
+        ],
+        [
+            "http://dbpedia.org/resource/Castaignos-Souslens",
+            "http://dbpedia.org/resource/Castel-Sarrazin",
+            "http://dbpedia.org/resource/Castelnau-Chalosse",
+            "http://dbpedia.org/resource/Castets"
+        ],
+        [
+            "http://dbpedia.org/resource/Cauneille",
+            "http://dbpedia.org/resource/Caupenne",
+            "http://dbpedia.org/resource/Clermont,_Landes",
+            "http://dbpedia.org/resource/Dax,_Landes"
+        ]
+    ]
+}

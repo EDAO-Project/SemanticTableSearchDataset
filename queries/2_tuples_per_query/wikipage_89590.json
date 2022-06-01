@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gaia_Online",
+            "http://dbpedia.org/resource/Anime",
+            "http://dbpedia.org/resource/PhpBB"
+        ],
+        [
+            "http://dbpedia.org/resource/Bodybuilding.com",
+            "http://dbpedia.org/resource/Bodybuilding",
+            "http://dbpedia.org/resource/VBulletin"
+        ]
+    ]
+}

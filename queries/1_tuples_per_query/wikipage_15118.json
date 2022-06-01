@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akita,_Akita",
+            "http://dbpedia.org/resource/Akita_Prefecture",
+            "http://dbpedia.org/resource/Honshu",
+            "http://dbpedia.org/resource/Core_cities_of_Japan"
+        ]
+    ]
+}

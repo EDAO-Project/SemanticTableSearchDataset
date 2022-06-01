@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alpine_goat",
+            "http://dbpedia.org/resource/French_Alps",
+            "http://dbpedia.org/resource/Milk"
+        ],
+        [
+            "http://dbpedia.org/resource/Altai_Mountain_goat",
+            "http://dbpedia.org/resource/Altai_Republic",
+            "http://dbpedia.org/resource/Animal_fiber"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Lamancha_goat",
+            "http://dbpedia.org/resource/Oregon",
+            "http://dbpedia.org/resource/Milk"
+        ],
+        [
+            "http://dbpedia.org/resource/Anglo-Nubian_goat",
+            "http://dbpedia.org/resource/Great_Britain",
+            "http://dbpedia.org/resource/Milk"
+        ],
+        [
+            "http://dbpedia.org/resource/Angora_goat",
+            "http://dbpedia.org/resource/Central_Anatolia_Region",
+            "http://dbpedia.org/resource/Animal_fiber"
+        ]
+    ]
+}

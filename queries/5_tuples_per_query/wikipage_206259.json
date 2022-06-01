@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dmitrovsky_District,_Moscow_Oblast",
+            "http://dbpedia.org/resource/Dmitrov",
+            "http://dbpedia.org/resource/Yakhroma"
+        ],
+        [
+            "http://dbpedia.org/resource/Istrinsky_District",
+            "http://dbpedia.org/resource/Istra,_Istrinsky_District,_Moscow_Oblast",
+            "http://dbpedia.org/resource/Dedovsk"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashirsky_District,_Moscow_Oblast",
+            "http://dbpedia.org/resource/Kashira",
+            "http://dbpedia.org/resource/Ozherelye"
+        ],
+        [
+            "http://dbpedia.org/resource/Klinsky_District",
+            "http://dbpedia.org/resource/Klin,_Klinsky_District,_Moscow_Oblast",
+            "http://dbpedia.org/resource/Vysokovsk"
+        ],
+        [
+            "http://dbpedia.org/resource/Leninsky_District,_Moscow_Oblast",
+            "http://dbpedia.org/resource/Vidnoye,_Moscow_Oblast",
+            "http://dbpedia.org/resource/Gorki_Leninskiye"
+        ]
+    ]
+}

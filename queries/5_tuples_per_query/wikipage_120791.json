@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia_at_the_2010_Commonwealth_Games",
+            "http://dbpedia.org/resource/Sharelle_McMahon",
+            "http://dbpedia.org/resource/Netball_at_the_2010_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Antigua_and_Barbuda_at_the_2010_Commonwealth_Games",
+            "http://dbpedia.org/resource/James_Grayman",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh_at_the_2010_Commonwealth_Games",
+            "http://dbpedia.org/resource/Asif_Hossain_Khan",
+            "http://dbpedia.org/resource/Shooting_at_the_2010_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Belize_at_the_2010_Commonwealth_Games",
+            "http://dbpedia.org/resource/Kaina_Martinez",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Bermuda_at_the_2010_Commonwealth_Games",
+            "http://dbpedia.org/resource/Kiera_Aitken",
+            "http://dbpedia.org/resource/Aquatics_at_the_2010_Commonwealth_Games"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_in_film",
+            "http://dbpedia.org/resource/The_Silent_Wife",
+            "http://dbpedia.org/resource/Li_Hsing"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_in_film",
+            "http://dbpedia.org/resource/Execution_in_Autumn",
+            "http://dbpedia.org/resource/Li_Hsing"
+        ]
+    ]
+}

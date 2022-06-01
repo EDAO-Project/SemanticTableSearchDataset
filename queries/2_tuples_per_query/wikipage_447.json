@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Junichi_Kawai",
+            "http://dbpedia.org/resource/Grzegorz_Polkowski",
+            "http://dbpedia.org/resource/Viktor_Smyrnov"
+        ],
+        [
+            "http://dbpedia.org/resource/Clodoaldo_Silva",
+            "http://dbpedia.org/resource/Yuji_Hanada",
+            "http://dbpedia.org/resource/Richard_Oribe"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/South_Korean_won",
+            "http://dbpedia.org/resource/Renminbi"
+        ]
+    ]
+}

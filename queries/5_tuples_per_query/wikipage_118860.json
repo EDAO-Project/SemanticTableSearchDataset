@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/WNBC",
+            "http://dbpedia.org/resource/Time_Warner_Cable",
+            "http://dbpedia.org/resource/NBC",
+            "http://dbpedia.org/resource/Cozi_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/KPRC-TV",
+            "http://dbpedia.org/resource/Comcast",
+            "http://dbpedia.org/resource/Graham_Media_Group",
+            "http://dbpedia.org/resource/This_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/WFLA-TV",
+            "http://dbpedia.org/resource/Bright_House_Networks",
+            "http://dbpedia.org/resource/Media_General",
+            "http://dbpedia.org/resource/Retro_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/KING-TV",
+            "http://dbpedia.org/resource/Comcast",
+            "http://dbpedia.org/resource/Belo",
+            "http://dbpedia.org/resource/Universal_Sports"
+        ],
+        [
+            "http://dbpedia.org/resource/Orlando,_Florida",
+            "http://dbpedia.org/resource/WESH",
+            "http://dbpedia.org/resource/Bright_House_Networks",
+            "http://dbpedia.org/resource/Hearst_Television",
+            "http://dbpedia.org/resource/Me-TV"
+        ]
+    ]
+}

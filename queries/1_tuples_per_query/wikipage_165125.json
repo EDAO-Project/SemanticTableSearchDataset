@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Julian_Palmieri",
+            "http://dbpedia.org/resource/FC_Istres",
+            "http://dbpedia.org/resource/SC_Bastia"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1929_Pittsburgh_Panthers_football_team",
+            "http://dbpedia.org/resource/1930_Rose_Bowl",
+            "http://dbpedia.org/resource/USC_Trojans_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1936_Pittsburgh_Panthers_football_team",
+            "http://dbpedia.org/resource/1937_Rose_Bowl",
+            "http://dbpedia.org/resource/Washington_Huskies_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Pittsburgh_Panthers_football_team",
+            "http://dbpedia.org/resource/Fiesta_Bowl",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Pittsburgh_Panthers_football_team",
+            "http://dbpedia.org/resource/Sun_Bowl",
+            "http://dbpedia.org/resource/Kansas_Jayhawks_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Pittsburgh_Panthers_football_team",
+            "http://dbpedia.org/resource/1977_Sugar_Bowl",
+            "http://dbpedia.org/resource/Georgia_Bulldogs_football"
+        ]
+    ]
+}

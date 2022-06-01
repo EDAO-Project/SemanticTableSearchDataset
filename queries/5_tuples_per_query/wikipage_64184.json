@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Millennium_Stadium",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2012_end-of-year_rugby_union_internationals"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2012_Wales_rugby_union_tour_of_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Docklands_Stadium",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2012_Wales_rugby_union_tour_of_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Lang_Park",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2012_Wales_rugby_union_tour_of_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2011_Rugby_World_Cup"
+        ]
+    ]
+}

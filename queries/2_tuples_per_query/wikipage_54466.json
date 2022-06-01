@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/O._R._Tambo_International_Airport",
+            "http://dbpedia.org/resource/Johannesburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Cairo_International_Airport",
+            "http://dbpedia.org/resource/Cairo"
+        ]
+    ]
+}

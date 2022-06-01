@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_White_Baldwin",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Abraham_Lincoln"
+        ],
+        [
+            "http://dbpedia.org/resource/Edgar_Winters_Hillyer",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Ulysses_S._Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Myron_Sabin",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Chester_A._Arthur"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Porter_Hawley",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Benjamin_Harrison"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Silsby_Farrington",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Theodore_Roosevelt"
+        ]
+    ]
+}

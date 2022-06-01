@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zell_am_Ziller",
+            "http://dbpedia.org/resource/WSG_Wattens",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Alexander_Meier"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_am_Zoo",
+            "http://dbpedia.org/resource/Wuppertaler_SV",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Ioannis_Amanatidis"
+        ]
+    ]
+}

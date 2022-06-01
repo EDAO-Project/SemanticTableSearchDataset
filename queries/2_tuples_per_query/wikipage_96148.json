@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lindy_Remigino",
+            "http://dbpedia.org/resource/Herb_McKenley",
+            "http://dbpedia.org/resource/McDonald_Bailey"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Stanfield",
+            "http://dbpedia.org/resource/Thane_Baker",
+            "http://dbpedia.org/resource/James_Gathers"
+        ]
+    ]
+}

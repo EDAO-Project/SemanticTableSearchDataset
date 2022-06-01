@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barrackville_Covered_Bridge",
+            "http://dbpedia.org/resource/Barrackville,_West_Virginia",
+            "http://dbpedia.org/resource/Burr_Truss"
+        ],
+        [
+            "http://dbpedia.org/resource/Carrollton_Covered_Bridge",
+            "http://dbpedia.org/resource/Carrollton,_West_Virginia",
+            "http://dbpedia.org/resource/Burr_Truss"
+        ],
+        [
+            "http://dbpedia.org/resource/Center_Point_Covered_Bridge",
+            "http://dbpedia.org/resource/Center_Point,_West_Virginia",
+            "http://dbpedia.org/resource/Truss_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Dents_Run_Covered_Bridge",
+            "http://dbpedia.org/resource/Laurel_Point,_West_Virginia",
+            "http://dbpedia.org/resource/King_post"
+        ],
+        [
+            "http://dbpedia.org/resource/Fish_Creek_Covered_Bridge",
+            "http://dbpedia.org/resource/Hundred,_West_Virginia",
+            "http://dbpedia.org/resource/King_post"
+        ]
+    ]
+}

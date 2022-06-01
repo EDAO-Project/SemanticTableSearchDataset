@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southsea",
+            "http://dbpedia.org/resource/Francis_Goodwin",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ]
+    ]
+}

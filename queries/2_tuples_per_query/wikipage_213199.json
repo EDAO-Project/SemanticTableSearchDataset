@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johor",
+            "http://dbpedia.org/resource/List_of_Menteris_Besar_of_Johor",
+            "http://dbpedia.org/resource/Mohamed_Khaled_Nordin",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/Kedah",
+            "http://dbpedia.org/resource/List_of_Menteris_Besar_of_Kedah",
+            "http://dbpedia.org/resource/Mukhriz_Mahathir",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ]
+    ]
+}

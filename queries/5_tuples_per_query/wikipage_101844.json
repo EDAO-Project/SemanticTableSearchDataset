@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_League_I",
+            "http://dbpedia.org/resource/Shaun_McRae",
+            "http://dbpedia.org/resource/Chris_Joynt"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_II",
+            "http://dbpedia.org/resource/Shaun_McRae",
+            "http://dbpedia.org/resource/Chris_Joynt"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_III",
+            "http://dbpedia.org/resource/Shaun_McRae",
+            "http://dbpedia.org/resource/Chris_Joynt"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_IV",
+            "http://dbpedia.org/resource/Ellery_Hanley",
+            "http://dbpedia.org/resource/Chris_Joynt"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_V",
+            "http://dbpedia.org/resource/Ellery_Hanley",
+            "http://dbpedia.org/resource/Chris_Joynt"
+        ]
+    ]
+}

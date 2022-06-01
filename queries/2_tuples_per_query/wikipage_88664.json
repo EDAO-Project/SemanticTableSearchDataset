@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Borgio_Verezzi_Caves",
+            "http://dbpedia.org/resource/Borgio_Verezzi",
+            "http://dbpedia.org/resource/Liguria"
+        ],
+        [
+            "http://dbpedia.org/resource/Castelcivita_Caves",
+            "http://dbpedia.org/resource/Castelcivita",
+            "http://dbpedia.org/resource/Campania"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sydney_Bears",
+            "http://dbpedia.org/resource/Adelaide_Adrenaline",
+            "http://dbpedia.org/resource/Adelaide"
+        ]
+    ]
+}

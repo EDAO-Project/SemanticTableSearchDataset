@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2008_Tampa_Bay_Rays_season",
+            "http://dbpedia.org/resource/Matt_Garza",
+            "http://dbpedia.org/resource/Brian_Burres",
+            "http://dbpedia.org/resource/Troy_Percival"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Los_Angeles_Angels_of_Anaheim_season",
+            "http://dbpedia.org/resource/Jeremy_Guthrie",
+            "http://dbpedia.org/resource/Jered_Weaver",
+            "http://dbpedia.org/resource/George_Sherrill"
+        ]
+    ]
+}

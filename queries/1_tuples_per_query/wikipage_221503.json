@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oahu",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

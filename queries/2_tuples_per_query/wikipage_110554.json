@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bromont,_Quebec",
+            "http://dbpedia.org/resource/Concours_de_Saut_International",
+            "http://dbpedia.org/resource/Yann_Candele"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgehampton,_New_York",
+            "http://dbpedia.org/resource/Concours_de_Saut_International",
+            "http://dbpedia.org/resource/McLain_Ward"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aerobiz_Supersonic",
+            "http://dbpedia.org/resource/Koei",
+            "http://dbpedia.org/resource/Aerobiz"
+        ],
+        [
+            "http://dbpedia.org/resource/Railroad_Tycoon_II",
+            "http://dbpedia.org/resource/PopTop_Software",
+            "http://dbpedia.org/resource/Railroad_Tycoon"
+        ]
+    ]
+}

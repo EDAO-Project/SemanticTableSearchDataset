@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/32nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Bruce_Hornsby",
+            "http://dbpedia.org/resource/The_Valley_Road",
+            "http://dbpedia.org/resource/Johnson_Mountain_Boys"
+        ]
+    ]
+}

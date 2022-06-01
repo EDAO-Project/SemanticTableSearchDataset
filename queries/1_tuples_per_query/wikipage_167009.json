@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Haninge_Municipality",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Finland"
+        ]
+    ]
+}

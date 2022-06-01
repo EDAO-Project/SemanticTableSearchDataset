@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Timberwolves",
+            "http://dbpedia.org/resource/Damian_Lillard",
+            "http://dbpedia.org/resource/JJ_Hickson",
+            "http://dbpedia.org/resource/Eric_Maynor",
+            "http://dbpedia.org/resource/Moda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Memphis_Grizzlies",
+            "http://dbpedia.org/resource/Damian_Lillard",
+            "http://dbpedia.org/resource/JJ_Hickson",
+            "http://dbpedia.org/resource/LaMarcus_Aldridge",
+            "http://dbpedia.org/resource/FedExForum"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Orleans_Pelicans",
+            "http://dbpedia.org/resource/Wesley_Matthews",
+            "http://dbpedia.org/resource/JJ_Hickson",
+            "http://dbpedia.org/resource/Damian_Lillard",
+            "http://dbpedia.org/resource/Smoothie_King_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Memphis_Grizzlies",
+            "http://dbpedia.org/resource/LaMarcus_Aldridge",
+            "http://dbpedia.org/resource/Nicolas_Batum",
+            "http://dbpedia.org/resource/Damian_Lillard",
+            "http://dbpedia.org/resource/Moda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_Pistons",
+            "http://dbpedia.org/resource/LaMarcus_Aldridge",
+            "http://dbpedia.org/resource/JJ_Hickson",
+            "http://dbpedia.org/resource/Damian_Lillard",
+            "http://dbpedia.org/resource/Moda_Center"
+        ]
+    ]
+}

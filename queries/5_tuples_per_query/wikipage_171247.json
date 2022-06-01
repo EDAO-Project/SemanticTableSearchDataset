@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_Dutch_National_Track_Championships",
+            "http://dbpedia.org/resource/Alkmaar",
+            "http://dbpedia.org/resource/Sportpaleis_Alkmaar"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Dutch_National_Track_Championships",
+            "http://dbpedia.org/resource/Alkmaar",
+            "http://dbpedia.org/resource/Sportpaleis_Alkmaar"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Dutch_National_Track_Championships",
+            "http://dbpedia.org/resource/Apeldoorn",
+            "http://dbpedia.org/resource/Omnisport_Apeldoorn"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Dutch_National_Track_Championships",
+            "http://dbpedia.org/resource/Alkmaar",
+            "http://dbpedia.org/resource/Sportpaleis_Alkmaar"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Dutch_National_Track_Championships",
+            "http://dbpedia.org/resource/Apeldoorn",
+            "http://dbpedia.org/resource/Omnisport_Apeldoorn"
+        ]
+    ]
+}

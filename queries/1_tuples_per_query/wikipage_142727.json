@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bellevue_House",
+            "http://dbpedia.org/resource/Kingston,_Ontario",
+            "http://dbpedia.org/resource/Italianate_architecture"
+        ]
+    ]
+}

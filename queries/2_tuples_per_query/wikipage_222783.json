@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberdeen_IronBirds",
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Aberdeen,_Maryland",
+            "http://dbpedia.org/resource/Leidos_Field_at_Ripken_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn_Cyclones",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/MCU_Park"
+        ]
+    ]
+}

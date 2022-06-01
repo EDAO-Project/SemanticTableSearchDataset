@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bouilly,_Marne",
+            "http://dbpedia.org/resource/Bouleuse",
+            "http://dbpedia.org/resource/Boult-sur-Suippe",
+            "http://dbpedia.org/resource/Bourgogne,_Marne"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouvancourt",
+            "http://dbpedia.org/resource/Branscourt",
+            "http://dbpedia.org/resource/Breuil,_Marne",
+            "http://dbpedia.org/resource/Brimont"
+        ]
+    ]
+}

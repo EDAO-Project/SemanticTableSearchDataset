@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1962_in_film",
+            "http://dbpedia.org/resource/The_Old_Young_People",
+            "http://dbpedia.org/resource/Rodolfo_Kuhn"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_in_film",
+            "http://dbpedia.org/resource/Nazareno_Cruz_and_the_Wolf",
+            "http://dbpedia.org/resource/Leonardo_Favio"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_in_film",
+            "http://dbpedia.org/resource/Last_Days_of_the_Victim",
+            "http://dbpedia.org/resource/Adolfo_Aristarain"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_in_film",
+            "http://dbpedia.org/resource/The_Official_Story",
+            "http://dbpedia.org/resource/Luis_Puenzo"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_in_film",
+            "http://dbpedia.org/resource/Tangos,_the_Exile_of_Gardel",
+            "http://dbpedia.org/resource/Fernando_Solanas"
+        ]
+    ]
+}

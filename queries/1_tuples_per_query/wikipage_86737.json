@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sony_Xperia_S",
+            "http://dbpedia.org/resource/Qualcomm_Snapdragon",
+            "http://dbpedia.org/resource/Graphics_display_resolution",
+            "http://dbpedia.org/resource/Bluetooth",
+            "http://dbpedia.org/resource/GSM"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KWTU",
+            "http://dbpedia.org/resource/Classical_music",
+            "http://dbpedia.org/resource/University_of_Tulsa"
+        ]
+    ]
+}

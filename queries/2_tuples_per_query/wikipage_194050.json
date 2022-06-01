@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_ICF_Canoe_Slalom_World_Championships",
+            "http://dbpedia.org/resource/Heidi_Pillwein",
+            "http://dbpedia.org/resource/Fritzi_Schwingl",
+            "http://dbpedia.org/resource/Gerti_Pertlwieser"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_ICF_Canoe_Slalom_World_Championships",
+            "http://dbpedia.org/resource/Gerti_Pertlwieser",
+            "http://dbpedia.org/resource/Fritzi_Schwingl",
+            "http://dbpedia.org/resource/Anni_Reifinger"
+        ]
+    ]
+}

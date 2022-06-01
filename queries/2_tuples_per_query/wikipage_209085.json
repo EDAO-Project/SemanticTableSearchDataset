@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kansas_City,_Missouri",
+            "http://dbpedia.org/resource/Jackson_County,_Missouri",
+            "http://dbpedia.org/resource/Kansas_City,_Missouri"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/Independent_city",
+            "http://dbpedia.org/resource/St._Louis"
+        ]
+    ]
+}

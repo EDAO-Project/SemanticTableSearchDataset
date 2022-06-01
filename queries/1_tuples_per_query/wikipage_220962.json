@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_World_Junior_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Sapporo",
+            "http://dbpedia.org/resource/Karin_Hendschke",
+            "http://dbpedia.org/resource/Simone_Koch",
+            "http://dbpedia.org/resource/Midori_Ito"
+        ]
+    ]
+}

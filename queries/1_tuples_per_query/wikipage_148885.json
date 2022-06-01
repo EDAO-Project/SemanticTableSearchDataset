@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_Winter_Olympics",
+            "http://dbpedia.org/resource/Andreas_Linger",
+            "http://dbpedia.org/resource/Luge"
+        ]
+    ]
+}

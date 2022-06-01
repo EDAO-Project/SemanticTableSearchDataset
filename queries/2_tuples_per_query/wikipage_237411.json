@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agra_division",
+            "http://dbpedia.org/resource/Agra",
+            "http://dbpedia.org/resource/Agra_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Aligarh_division",
+            "http://dbpedia.org/resource/Aligarh,_Uttar_Pradesh",
+            "http://dbpedia.org/resource/Aligarh_district"
+        ]
+    ]
+}

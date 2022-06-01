@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Ballymena",
+            "http://dbpedia.org/resource/Belfast",
+            "http://dbpedia.org/resource/Ulster",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Armagh",
+            "http://dbpedia.org/resource/Armagh",
+            "http://dbpedia.org/resource/Craigavon",
+            "http://dbpedia.org/resource/Ulster",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Donegal",
+            "http://dbpedia.org/resource/Lifford",
+            "http://dbpedia.org/resource/Letterkenny",
+            "http://dbpedia.org/resource/Ulster",
+            "http://dbpedia.org/resource/Border_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Down",
+            "http://dbpedia.org/resource/Downpatrick",
+            "http://dbpedia.org/resource/Belfast",
+            "http://dbpedia.org/resource/Ulster",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Kildare",
+            "http://dbpedia.org/resource/Naas",
+            "http://dbpedia.org/resource/Newbridge,_County_Kildare",
+            "http://dbpedia.org/resource/Leinster",
+            "http://dbpedia.org/resource/Mid-East_Region,_Ireland"
+        ]
+    ]
+}

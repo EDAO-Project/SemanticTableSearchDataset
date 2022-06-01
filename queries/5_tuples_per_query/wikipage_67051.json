@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jules_Bender",
+            "http://dbpedia.org/resource/Long_Island_University",
+            "http://dbpedia.org/resource/Basketball_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Kramer",
+            "http://dbpedia.org/resource/Long_Island_University",
+            "http://dbpedia.org/resource/Small_forward"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Auerbach",
+            "http://dbpedia.org/resource/New_York_University",
+            "http://dbpedia.org/resource/Small_forward"
+        ],
+        [
+            "http://dbpedia.org/resource/Sid_Tanenbaum",
+            "http://dbpedia.org/resource/New_York_University",
+            "http://dbpedia.org/resource/Shooting_guard"
+        ],
+        [
+            "http://dbpedia.org/resource/Sid_Tanenbaum",
+            "http://dbpedia.org/resource/New_York_University",
+            "http://dbpedia.org/resource/Shooting_guard"
+        ]
+    ]
+}

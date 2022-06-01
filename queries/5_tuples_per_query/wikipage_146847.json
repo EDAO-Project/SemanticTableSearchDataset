@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brezons",
+            "http://dbpedia.org/resource/Celles,_Cantal",
+            "http://dbpedia.org/resource/Celoux",
+            "http://dbpedia.org/resource/Chaliers"
+        ],
+        [
+            "http://dbpedia.org/resource/Chalinargues",
+            "http://dbpedia.org/resource/Chanterelle,_Cantal",
+            "http://dbpedia.org/resource/Charmensac",
+            "http://dbpedia.org/resource/Chastel-sur-Murat"
+        ],
+        [
+            "http://dbpedia.org/resource/Chaudes-Aigues",
+            "http://dbpedia.org/resource/Chavagnac,_Cantal",
+            "http://dbpedia.org/resource/Chazelles,_Cantal",
+            "http://dbpedia.org/resource/Cheylade"
+        ],
+        [
+            "http://dbpedia.org/resource/Lastic,_Cantal",
+            "http://dbpedia.org/resource/Laurie,_Cantal",
+            "http://dbpedia.org/resource/Lavastrie",
+            "http://dbpedia.org/resource/Laveissenet"
+        ],
+        [
+            "http://dbpedia.org/resource/Lugarde",
+            "http://dbpedia.org/resource/Malbo",
+            "http://dbpedia.org/resource/Marcenat,_Cantal",
+            "http://dbpedia.org/resource/Marchastel,_Cantal"
+        ]
+    ]
+}

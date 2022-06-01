@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antrim,_County_Antrim",
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Courthouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Armagh",
+            "http://dbpedia.org/resource/County_Armagh",
+            "http://dbpedia.org/resource/Learning"
+        ]
+    ]
+}

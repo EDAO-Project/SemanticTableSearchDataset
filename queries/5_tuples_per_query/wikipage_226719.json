@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Burj_Khalifa",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Dubai"
+        ],
+        [
+            "http://dbpedia.org/resource/Pentominium",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Dubai"
+        ],
+        [
+            "http://dbpedia.org/resource/Abraj_Al_Bait",
+            "http://dbpedia.org/resource/Saudi_Arabia",
+            "http://dbpedia.org/resource/Mecca"
+        ],
+        [
+            "http://dbpedia.org/resource/Doha_Convention_Center_Tower",
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Doha"
+        ],
+        [
+            "http://dbpedia.org/resource/Milad_Tower",
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Tehran"
+        ]
+    ]
+}

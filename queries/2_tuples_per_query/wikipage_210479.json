@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_in_poetry",
+            "http://dbpedia.org/resource/Michael_Dickman",
+            "http://dbpedia.org/resource/Laure-Anne_Bosselaar"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_in_poetry",
+            "http://dbpedia.org/resource/Jennifer_K._Sweeney",
+            "http://dbpedia.org/resource/Robin_Becker"
+        ]
+    ]
+}

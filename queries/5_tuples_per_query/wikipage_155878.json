@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anhui",
+            "http://dbpedia.org/resource/Zhang_Baoshun",
+            "http://dbpedia.org/resource/Wang_Xuejun"
+        ],
+        [
+            "http://dbpedia.org/resource/Beijing",
+            "http://dbpedia.org/resource/Guo_Jinlong",
+            "http://dbpedia.org/resource/Wang_Anshun"
+        ],
+        [
+            "http://dbpedia.org/resource/Chongqing",
+            "http://dbpedia.org/resource/Sun_Zhengcai",
+            "http://dbpedia.org/resource/Huang_Qifan"
+        ],
+        [
+            "http://dbpedia.org/resource/Fujian",
+            "http://dbpedia.org/resource/You_Quan",
+            "http://dbpedia.org/resource/Su_Shulin"
+        ],
+        [
+            "http://dbpedia.org/resource/Gansu",
+            "http://dbpedia.org/resource/Wang_Sanyun",
+            "http://dbpedia.org/resource/Liu_Weiping"
+        ]
+    ]
+}

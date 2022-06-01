@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Farragut",
+            "http://dbpedia.org/resource/European_Squadron",
+            "http://dbpedia.org/resource/Midshipman",
+            "http://dbpedia.org/resource/David_Dixon_Porter"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Friday_Fletcher",
+            "http://dbpedia.org/resource/United_States_Fleet_Forces_Command",
+            "http://dbpedia.org/resource/United_States_Naval_Academy",
+            "http://dbpedia.org/resource/Medal_of_Honor"
+        ]
+    ]
+}

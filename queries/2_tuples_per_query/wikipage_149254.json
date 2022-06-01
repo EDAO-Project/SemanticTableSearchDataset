@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ESPN_College_Football",
+            "http://dbpedia.org/resource/Dave_Pasch",
+            "http://dbpedia.org/resource/Brian_Griese",
+            "http://dbpedia.org/resource/Jenn_Brown"
+        ],
+        [
+            "http://dbpedia.org/resource/ESPN_College_Football",
+            "http://dbpedia.org/resource/Rece_Davis",
+            "http://dbpedia.org/resource/Jesse_Palmer",
+            "http://dbpedia.org/resource/Jenn_Brown"
+        ]
+    ]
+}

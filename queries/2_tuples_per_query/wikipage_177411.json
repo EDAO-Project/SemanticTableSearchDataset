@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Tour_Down_Under",
+            "http://dbpedia.org/resource/Tom-Jelte_Slagter",
+            "http://dbpedia.org/resource/Team_LottoNL-Jumbo",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_E3_Harelbeke",
+            "http://dbpedia.org/resource/Peter_Sagan",
+            "http://dbpedia.org/resource/Team_Sky",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

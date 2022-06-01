@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gonzales_v._Oregon",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Attorney_general"
+        ]
+    ]
+}

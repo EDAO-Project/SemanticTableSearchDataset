@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cambodia",
+            "http://dbpedia.org/resource/Banteay_Chhmar",
+            "http://dbpedia.org/resource/Thma_Puok_District"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Shaxi,_Yunnan",
+            "http://dbpedia.org/resource/Jianchuan_County"
+        ]
+    ]
+}

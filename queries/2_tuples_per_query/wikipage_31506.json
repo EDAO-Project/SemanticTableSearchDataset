@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlantic_and_Great_Western_Railroad",
+            "http://dbpedia.org/resource/Erie_Railroad",
+            "http://dbpedia.org/resource/Nypano_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Bachman_Valley_Railroad",
+            "http://dbpedia.org/resource/Western_Maryland_Railway",
+            "http://dbpedia.org/resource/Baltimore_and_Harrisburg_Railway"
+        ]
+    ]
+}

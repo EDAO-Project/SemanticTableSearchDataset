@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Africa_Cup_of_Nations_qualification",
+            "http://dbpedia.org/resource/2008_Africa_Cup_of_Nations",
+            "http://dbpedia.org/resource/Council_of_Southern_Africa_Football_Associations"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Africa_Cup_of_Nations_qualification",
+            "http://dbpedia.org/resource/1998_African_Cup_of_Nations",
+            "http://dbpedia.org/resource/West_African_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Africa_Cup_of_Nations_qualification",
+            "http://dbpedia.org/resource/1992_African_Cup_of_Nations",
+            "http://dbpedia.org/resource/West_African_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Africa_Cup_of_Nations_qualification",
+            "http://dbpedia.org/resource/1963_African_Cup_of_Nations",
+            "http://dbpedia.org/resource/West_African_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Africa_Cup_of_Nations_qualification",
+            "http://dbpedia.org/resource/1976_African_Cup_of_Nations",
+            "http://dbpedia.org/resource/West_African_Football_Union"
+        ]
+    ]
+}

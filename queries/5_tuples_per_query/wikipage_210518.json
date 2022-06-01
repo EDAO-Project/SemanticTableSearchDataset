@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NBC_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Arturo_Toscanini",
+            "http://dbpedia.org/resource/RCA_Red_Seal_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Orchestra",
+            "http://dbpedia.org/resource/Eugene_Ormandy",
+            "http://dbpedia.org/resource/Sony_Classical_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Rudolf_Kempe",
+            "http://dbpedia.org/resource/BBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Philharmonic_Orchestra",
+            "http://dbpedia.org/resource/Vladimir_Ashkenazy",
+            "http://dbpedia.org/resource/Decca_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Leonard_Bernstein",
+            "http://dbpedia.org/resource/Deutsche_Grammophon"
+        ]
+    ]
+}

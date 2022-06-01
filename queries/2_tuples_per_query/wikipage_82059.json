@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WTA_Swiss_Open",
+            "http://dbpedia.org/resource/Lucerne",
+            "http://dbpedia.org/resource/Nicole_Bradtke"
+        ],
+        [
+            "http://dbpedia.org/resource/Danone_Hardcourt_Championships",
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Florencia_Labat"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fernando_Buesa_Arena",
+            "http://dbpedia.org/resource/Vitoria-Gasteiz",
+            "http://dbpedia.org/resource/Saski_Baskonia"
+        ],
+        [
+            "http://dbpedia.org/resource/Halle_Georges_Carpentier",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/JSF_Nanterre"
+        ],
+        [
+            "http://dbpedia.org/resource/Mediolanum_Forum",
+            "http://dbpedia.org/resource/Assago",
+            "http://dbpedia.org/resource/Olimpia_Milano"
+        ],
+        [
+            "http://dbpedia.org/resource/Megasport_Arena",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/PBC_CSKA_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/Palace_of_Sports,_Kiev",
+            "http://dbpedia.org/resource/Kiev",
+            "http://dbpedia.org/resource/BC_Budivelnyk"
+        ]
+    ]
+}

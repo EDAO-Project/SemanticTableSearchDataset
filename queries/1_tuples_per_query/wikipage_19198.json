@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Memoirs_of_Prison",
+            "http://dbpedia.org/resource/Nelson_Pereira_dos_Santos"
+        ]
+    ]
+}

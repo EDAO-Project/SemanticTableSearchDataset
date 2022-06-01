@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_Maine_Community_College",
+            "http://dbpedia.org/resource/Auburn,_Maine",
+            "http://dbpedia.org/resource/Public_university"
+        ]
+    ]
+}

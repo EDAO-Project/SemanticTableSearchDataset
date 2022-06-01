@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bardstown_Historic_District",
+            "http://dbpedia.org/resource/U.S._Route_31E",
+            "http://dbpedia.org/resource/Bardstown,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Confederate_Monument_of_Bardstown",
+            "http://dbpedia.org/resource/U.S._Route_31E",
+            "http://dbpedia.org/resource/Bardstown,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankfort_and_Cincinnati_Model_55_Rail_Car",
+            "http://dbpedia.org/resource/U.S._Route_31E",
+            "http://dbpedia.org/resource/New_Haven,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Louisville_and_Nashville_Combine_Car_Number_665",
+            "http://dbpedia.org/resource/U.S._Route_31E",
+            "http://dbpedia.org/resource/New_Haven,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Mt._Broderick_Pullman_Car",
+            "http://dbpedia.org/resource/U.S._Route_31E",
+            "http://dbpedia.org/resource/New_Haven,_Kentucky"
+        ]
+    ]
+}

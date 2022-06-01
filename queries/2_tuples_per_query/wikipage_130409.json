@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elizabeth_Arden_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Donna_Caponi"
+        ],
+        [
+            "http://dbpedia.org/resource/Naples_Lely_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Sandra_Haynie"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ruben_Houkes",
+            "http://dbpedia.org/resource/Nestor_Khergiani",
+            "http://dbpedia.org/resource/Ludwig_Paischer"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruben_Houkes",
+            "http://dbpedia.org/resource/Nestor_Khergiani",
+            "http://dbpedia.org/resource/Choi_Minho"
+        ],
+        [
+            "http://dbpedia.org/resource/Wang_Ki-chun",
+            "http://dbpedia.org/resource/Elnur_Mammadli",
+            "http://dbpedia.org/resource/Yusuke_Kanamaru"
+        ],
+        [
+            "http://dbpedia.org/resource/Wang_Ki-chun",
+            "http://dbpedia.org/resource/Elnur_Mammadli",
+            "http://dbpedia.org/resource/Rasul_Boqiev"
+        ],
+        [
+            "http://dbpedia.org/resource/Tiago_Camilo",
+            "http://dbpedia.org/resource/Anthony_Rodriguez",
+            "http://dbpedia.org/resource/Guillaume_Elmont"
+        ]
+    ]
+}

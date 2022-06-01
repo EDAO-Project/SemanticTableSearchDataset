@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jack_Hobbs",
+            "http://dbpedia.org/resource/Oxford_University_Cricket_Club",
+            "http://dbpedia.org/resource/The_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Hobbs",
+            "http://dbpedia.org/resource/Hampshire_County_Cricket_Club",
+            "http://dbpedia.org/resource/The_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Darren_Bicknell",
+            "http://dbpedia.org/resource/Kent_County_Cricket_Club",
+            "http://dbpedia.org/resource/St_Lawrence_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobby_Abel",
+            "http://dbpedia.org/resource/Yorkshire_County_Cricket_Club",
+            "http://dbpedia.org/resource/The_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Ramprakash",
+            "http://dbpedia.org/resource/Middlesex_County_Cricket_Club",
+            "http://dbpedia.org/resource/The_Oval"
+        ]
+    ]
+}

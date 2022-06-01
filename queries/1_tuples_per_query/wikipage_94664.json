@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta_Motor_Speedway",
+            "http://dbpedia.org/resource/Oval_track_racing",
+            "http://dbpedia.org/resource/Hampton,_Georgia",
+            "http://dbpedia.org/resource/1993_IMSA_GT_Championship_season"
+        ]
+    ]
+}

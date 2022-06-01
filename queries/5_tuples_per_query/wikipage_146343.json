@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert,_Somme",
+            "http://dbpedia.org/resource/Allaines",
+            "http://dbpedia.org/resource/Assevillers"
+        ],
+        [
+            "http://dbpedia.org/resource/Athies,_Somme",
+            "http://dbpedia.org/resource/Auchonvillers",
+            "http://dbpedia.org/resource/Authuille"
+        ],
+        [
+            "http://dbpedia.org/resource/Aveluy",
+            "http://dbpedia.org/resource/Barleux",
+            "http://dbpedia.org/resource/Bazentin"
+        ],
+        [
+            "http://dbpedia.org/resource/Bernes",
+            "http://dbpedia.org/resource/Berny-en-Santerre",
+            "http://dbpedia.org/resource/Biaches"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouchavesnes-Bergen",
+            "http://dbpedia.org/resource/Bouvincourt-en-Vermandois",
+            "http://dbpedia.org/resource/Bouzincourt"
+        ]
+    ]
+}

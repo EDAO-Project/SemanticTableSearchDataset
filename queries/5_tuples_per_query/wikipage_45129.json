@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_NBA_draft",
+            "http://dbpedia.org/resource/JaJuan_Johnson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Purdue_University"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_NBA_draft",
+            "http://dbpedia.org/resource/Jordan_Williams",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Maryland,_College_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_NBA_draft",
+            "http://dbpedia.org/resource/Derrick_Favors",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Georgia_Institute_of_Technology"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_NBA_draft",
+            "http://dbpedia.org/resource/Damion_James",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_NBA_draft",
+            "http://dbpedia.org/resource/Terrence_Williams",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Louisville"
+        ]
+    ]
+}

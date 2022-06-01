@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thierry_Lacrampe",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Morgan_Parra",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ]
+    ]
+}

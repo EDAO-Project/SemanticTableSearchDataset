@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Hayes_Pope",
+            "http://dbpedia.org/resource/New_Mexico",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_William_Howard_Taft"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pete_Laforest",
+            "http://dbpedia.org/resource/Pinch_hitter",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Nap_Lajoie",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

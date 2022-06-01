@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1952_in_literature",
+            "http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact",
+            "http://dbpedia.org/resource/John_W._Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_in_literature",
+            "http://dbpedia.org/resource/Galaxy_Science_Fiction",
+            "http://dbpedia.org/resource/H._L._Gold"
+        ],
+        [
+            "http://dbpedia.org/resource/1954_in_literature",
+            "http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact",
+            "http://dbpedia.org/resource/John_W._Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/1955_in_literature",
+            "http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact",
+            "http://dbpedia.org/resource/John_W._Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_in_literature",
+            "http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact",
+            "http://dbpedia.org/resource/John_W._Campbell"
+        ]
+    ]
+}

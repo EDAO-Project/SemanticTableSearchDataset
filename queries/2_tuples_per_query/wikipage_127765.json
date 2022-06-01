@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beqabu",
+            "http://dbpedia.org/resource/N._Chandra",
+            "http://dbpedia.org/resource/Sanjay_Kapoor"
+        ],
+        [
+            "http://dbpedia.org/resource/Auzaar",
+            "http://dbpedia.org/resource/Sohail_Khan",
+            "http://dbpedia.org/resource/Salman_Khan"
+        ]
+    ]
+}

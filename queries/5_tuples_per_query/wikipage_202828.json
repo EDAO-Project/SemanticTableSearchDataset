@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1975_Tour_de_France",
+            "http://dbpedia.org/resource/Rik_Van_Linden",
+            "http://dbpedia.org/resource/Lucien_Van_Impe",
+            "http://dbpedia.org/resource/Francesco_Moser"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Tour_de_France",
+            "http://dbpedia.org/resource/Jacques_Esclassan",
+            "http://dbpedia.org/resource/Lucien_Van_Impe",
+            "http://dbpedia.org/resource/Dietrich_Thurau"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Tour_de_France",
+            "http://dbpedia.org/resource/Freddy_Maertens",
+            "http://dbpedia.org/resource/Lucien_Van_Impe",
+            "http://dbpedia.org/resource/Peter_Winnen"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Tour_de_France",
+            "http://dbpedia.org/resource/Frank_Hoste",
+            "http://dbpedia.org/resource/Robert_Millar",
+            "http://dbpedia.org/resource/Greg_LeMond"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Tour_de_France",
+            "http://dbpedia.org/resource/Eric_Vanderaerden",
+            "http://dbpedia.org/resource/Bernard_Hinault",
+            "http://dbpedia.org/resource/Andrew_Hampsten"
+        ]
+    ]
+}

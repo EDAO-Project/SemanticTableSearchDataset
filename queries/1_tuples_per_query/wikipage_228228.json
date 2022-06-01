@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Archery",
+            "http://dbpedia.org/resource/World_Archery_Federation",
+            "http://dbpedia.org/resource/Archery_at_the_Summer_Paralympics"
+        ]
+    ]
+}

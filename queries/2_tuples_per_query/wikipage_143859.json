@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_Bruce-Lyle",
+            "http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines",
+            "http://dbpedia.org/resource/Ghana"
+        ],
+        [
+            "http://dbpedia.org/resource/Francis_Belle",
+            "http://dbpedia.org/resource/Saint_Lucia",
+            "http://dbpedia.org/resource/Barbados"
+        ]
+    ]
+}

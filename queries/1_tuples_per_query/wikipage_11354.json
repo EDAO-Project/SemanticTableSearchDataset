@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_2",
+            "http://dbpedia.org/resource/Allsvenskan",
+            "http://dbpedia.org/resource/Sandvikens_IF"
+        ]
+    ]
+}

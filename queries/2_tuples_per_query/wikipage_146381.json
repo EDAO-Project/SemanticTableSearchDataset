@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beaune-la-Rolande",
+            "http://dbpedia.org/resource/Boiscommun",
+            "http://dbpedia.org/resource/Boisseaux",
+            "http://dbpedia.org/resource/Bondaroy"
+        ],
+        [
+            "http://dbpedia.org/resource/Coudray,_Loiret",
+            "http://dbpedia.org/resource/Courcelles,_Loiret",
+            "http://dbpedia.org/resource/Courcy-aux-Loges",
+            "http://dbpedia.org/resource/Crottes-en-Pithiverais"
+        ]
+    ]
+}

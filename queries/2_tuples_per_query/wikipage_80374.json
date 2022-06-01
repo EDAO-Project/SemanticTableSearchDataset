@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WLW",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/Watt"
+        ],
+        [
+            "http://dbpedia.org/resource/WATH",
+            "http://dbpedia.org/resource/Athens,_Ohio",
+            "http://dbpedia.org/resource/Watt"
+        ]
+    ]
+}

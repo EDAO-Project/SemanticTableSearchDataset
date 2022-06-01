@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bella_Abzug",
+            "http://dbpedia.org/resource/Manhattan",
+            "http://dbpedia.org/resource/United_States_Senate"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bella_Abzug",
+            "http://dbpedia.org/resource/Manhattan",
+            "http://dbpedia.org/resource/United_States_Senate"
+        ],
+        [
+            "http://dbpedia.org/resource/Parmenio_Adams",
+            "http://dbpedia.org/resource/Democratic-Republican_Party",
+            "http://dbpedia.org/resource/Batavia,_New_York"
+        ]
+    ]
+}

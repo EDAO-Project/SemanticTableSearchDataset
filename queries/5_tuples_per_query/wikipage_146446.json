@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avillers-Sainte-Croix",
+            "http://dbpedia.org/resource/Avioth",
+            "http://dbpedia.org/resource/Avocourt",
+            "http://dbpedia.org/resource/Azannes-et-Soumazannes"
+        ],
+        [
+            "http://dbpedia.org/resource/Beauclair",
+            "http://dbpedia.org/resource/Beaufort-en-Argonne",
+            "http://dbpedia.org/resource/Beaumont-en-Verdunois",
+            "http://dbpedia.org/resource/Belleray"
+        ],
+        [
+            "http://dbpedia.org/resource/Belleville-sur-Meuse",
+            "http://dbpedia.org/resource/Belrupt-en-Verdunois",
+            "http://dbpedia.org/resource/Bezonvaux",
+            "http://dbpedia.org/resource/Billy-sous-Mangiennes"
+        ],
+        [
+            "http://dbpedia.org/resource/Boureuilles",
+            "http://dbpedia.org/resource/Brabant-en-Argonne",
+            "http://dbpedia.org/resource/Brabant-sur-Meuse",
+            "http://dbpedia.org/resource/Brandeville"
+        ],
+        [
+            "http://dbpedia.org/resource/Braquis",
+            "http://dbpedia.org/resource/Bras-sur-Meuse",
+            "http://dbpedia.org/resource/Breux,_Meuse",
+            "http://dbpedia.org/resource/Brieulles-sur-Meuse"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Steve_Sung",
+            "http://dbpedia.org/resource/Peter_Vilandos",
+            "http://dbpedia.org/resource/2009_World_Series_of_Poker_results"
+        ]
+    ]
+}

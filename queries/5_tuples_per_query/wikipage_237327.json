@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_Tipton",
+            "http://dbpedia.org/resource/39th_United_States_Congress",
+            "http://dbpedia.org/resource/John_Milton_Thayer"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Tipton",
+            "http://dbpedia.org/resource/40th_United_States_Congress",
+            "http://dbpedia.org/resource/John_Milton_Thayer"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Tipton",
+            "http://dbpedia.org/resource/41st_United_States_Congress",
+            "http://dbpedia.org/resource/John_Milton_Thayer"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Tipton",
+            "http://dbpedia.org/resource/42nd_United_States_Congress",
+            "http://dbpedia.org/resource/Phineas_Hitchcock"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Tipton",
+            "http://dbpedia.org/resource/43rd_United_States_Congress",
+            "http://dbpedia.org/resource/Phineas_Hitchcock"
+        ]
+    ]
+}

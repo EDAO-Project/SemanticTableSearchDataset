@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bobby_Ryan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Anaheim_Ducks",
+            "http://dbpedia.org/resource/Owen_Sound_Attack"
+        ]
+    ]
+}

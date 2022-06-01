@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kent_Bazemore",
+            "http://dbpedia.org/resource/Old_Dominion_University",
+            "http://dbpedia.org/resource/Golden_State_Warriors"
+        ]
+    ]
+}

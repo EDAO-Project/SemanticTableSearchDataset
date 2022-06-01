@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamilton,_Ontario",
+            "http://dbpedia.org/resource/Tara_Lipinski",
+            "http://dbpedia.org/resource/Michelle_Kwan",
+            "http://dbpedia.org/resource/Irina_Slutskaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Tara_Lipinski",
+            "http://dbpedia.org/resource/Tanja_Szewczenko",
+            "http://dbpedia.org/resource/Maria_Butyrskaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Petersburg",
+            "http://dbpedia.org/resource/Tatiana_Malinina",
+            "http://dbpedia.org/resource/Maria_Butyrskaya",
+            "http://dbpedia.org/resource/Irina_Slutskaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyon",
+            "http://dbpedia.org/resource/Irina_Slutskaya",
+            "http://dbpedia.org/resource/Michelle_Kwan",
+            "http://dbpedia.org/resource/Maria_Butyrskaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Irina_Slutskaya",
+            "http://dbpedia.org/resource/Michelle_Kwan",
+            "http://dbpedia.org/resource/Sarah_Hughes"
+        ]
+    ]
+}

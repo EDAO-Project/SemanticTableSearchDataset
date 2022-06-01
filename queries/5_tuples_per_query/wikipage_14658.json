@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Pat_Hentgen",
+            "http://dbpedia.org/resource/LaTroy_Hawkins",
+            "http://dbpedia.org/resource/Randy_Myers"
+        ],
+        [
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Roger_Clemens",
+            "http://dbpedia.org/resource/Brad_Radke",
+            "http://dbpedia.org/resource/Randy_Myers"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Jimmy_Haynes",
+            "http://dbpedia.org/resource/Woody_Williams",
+            "http://dbpedia.org/resource/Mike_Fetters"
+        ],
+        [
+            "http://dbpedia.org/resource/Seattle_Mariners",
+            "http://dbpedia.org/resource/Chris_Carpenter",
+            "http://dbpedia.org/resource/Jeff_Fassero",
+            "http://dbpedia.org/resource/Paul_Quantrill"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Bill_Risley",
+            "http://dbpedia.org/resource/Shigetoshi_Hasegawa",
+            "http://dbpedia.org/resource/Dan_Plesac"
+        ]
+    ]
+}

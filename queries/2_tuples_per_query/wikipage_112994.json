@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Tabor",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/So_Taguchi",
+            "http://dbpedia.org/resource/Left_fielder",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Church_of_All_Hallows,_Allerton",
+            "http://dbpedia.org/resource/Allerton,_Liverpool",
+            "http://dbpedia.org/resource/Sandstone"
+        ]
+    ]
+}

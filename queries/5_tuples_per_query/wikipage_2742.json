@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ice_Age:_Dawn_of_the_Dinosaurs",
+            "http://dbpedia.org/resource/20th_Century_Fox",
+            "http://dbpedia.org/resource/Carlos_Saldanha"
+        ],
+        [
+            "http://dbpedia.org/resource/Humpday",
+            "http://dbpedia.org/resource/Magnolia_Pictures",
+            "http://dbpedia.org/resource/Lynn_Shelton"
+        ],
+        [
+            "http://dbpedia.org/resource/500_Days_of_Summer",
+            "http://dbpedia.org/resource/Fox_Searchlight_Pictures",
+            "http://dbpedia.org/resource/Marc_Webb"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Ugly_Truth",
+            "http://dbpedia.org/resource/Columbia_Pictures",
+            "http://dbpedia.org/resource/Robert_Luketic"
+        ],
+        [
+            "http://dbpedia.org/resource/Funny_People",
+            "http://dbpedia.org/resource/Universal_Studios",
+            "http://dbpedia.org/resource/Judd_Apatow"
+        ]
+    ]
+}

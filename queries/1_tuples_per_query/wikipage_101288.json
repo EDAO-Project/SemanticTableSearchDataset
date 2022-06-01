@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Associated_Television",
+            "http://dbpedia.org/resource/Victoria_Palace_Theatre",
+            "http://dbpedia.org/resource/Jack_Hylton",
+            "http://dbpedia.org/resource/Max_Bygraves",
+            "http://dbpedia.org/resource/Elizabeth_II"
+        ]
+    ]
+}

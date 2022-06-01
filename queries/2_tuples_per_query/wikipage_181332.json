@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/84th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actress",
+            "http://dbpedia.org/resource/Viola_Davis"
+        ],
+        [
+            "http://dbpedia.org/resource/84th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actress",
+            "http://dbpedia.org/resource/Octavia_Spencer"
+        ]
+    ]
+}

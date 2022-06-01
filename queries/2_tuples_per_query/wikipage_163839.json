@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Elliott",
+            "http://dbpedia.org/resource/Melling_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Rusty_Wallace",
+            "http://dbpedia.org/resource/Raymond_Beadle",
+            "http://dbpedia.org/resource/Pontiac"
+        ]
+    ]
+}

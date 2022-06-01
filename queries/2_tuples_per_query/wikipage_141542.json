@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Biggest_Loser",
+            "http://dbpedia.org/resource/Blitz_Games",
+            "http://dbpedia.org/resource/THQ"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Biggest_Loser",
+            "http://dbpedia.org/resource/Blitz_Games",
+            "http://dbpedia.org/resource/THQ"
+        ]
+    ]
+}

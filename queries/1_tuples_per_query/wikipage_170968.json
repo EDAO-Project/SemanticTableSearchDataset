@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Band_Hero",
+            "http://dbpedia.org/resource/Neversoft",
+            "http://dbpedia.org/resource/North_America"
+        ]
+    ]
+}

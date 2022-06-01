@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_Washington",
+            "http://dbpedia.org/resource/Mount_Vernon",
+            "http://dbpedia.org/resource/Alexandria,_Virginia"
+        ]
+    ]
+}

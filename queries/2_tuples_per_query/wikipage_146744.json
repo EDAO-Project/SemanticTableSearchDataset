@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arx,_Landes",
+            "http://dbpedia.org/resource/Aubagnan",
+            "http://dbpedia.org/resource/Audignon",
+            "http://dbpedia.org/resource/Aureilhan,_Landes"
+        ],
+        [
+            "http://dbpedia.org/resource/Aurice",
+            "http://dbpedia.org/resource/Bahus-Soubiran",
+            "http://dbpedia.org/resource/Banos,_Landes",
+            "http://dbpedia.org/resource/Bas-Mauco"
+        ]
+    ]
+}

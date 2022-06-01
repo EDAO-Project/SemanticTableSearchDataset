@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giovanni_van_Bronckhorst",
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/Feyenoord"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hazen_Argue",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Lester_B._Pearson"
+        ],
+        [
+            "http://dbpedia.org/resource/Walter_Aseltine",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Canada",
+            "http://dbpedia.org/resource/R._B._Bennett"
+        ]
+    ]
+}

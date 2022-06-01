@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arnold,_Nottinghamshire",
+            "http://dbpedia.org/resource/Stapleford,_Nottinghamshire",
+            "http://dbpedia.org/resource/Bilborough"
+        ]
+    ]
+}

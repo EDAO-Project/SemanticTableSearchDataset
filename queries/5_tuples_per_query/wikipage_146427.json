@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Achiet-le-Grand",
+            "http://dbpedia.org/resource/Achiet-le-Petit",
+            "http://dbpedia.org/resource/Acq",
+            "http://dbpedia.org/resource/Adinfer"
+        ],
+        [
+            "http://dbpedia.org/resource/Amplier",
+            "http://dbpedia.org/resource/Anvin",
+            "http://dbpedia.org/resource/Anzin-Saint-Aubin",
+            "http://dbpedia.org/resource/Arleux-en-Gohelle"
+        ],
+        [
+            "http://dbpedia.org/resource/Arras",
+            "http://dbpedia.org/resource/Athies,_Pas-de-Calais",
+            "http://dbpedia.org/resource/Aubigny-en-Artois",
+            "http://dbpedia.org/resource/Aubrometz"
+        ],
+        [
+            "http://dbpedia.org/resource/Bancourt",
+            "http://dbpedia.org/resource/Bapaume",
+            "http://dbpedia.org/resource/Baralle",
+            "http://dbpedia.org/resource/Barastre"
+        ],
+        [
+            "http://dbpedia.org/resource/Barly,_Pas-de-Calais",
+            "http://dbpedia.org/resource/Basseux",
+            "http://dbpedia.org/resource/Bavincourt",
+            "http://dbpedia.org/resource/Beaudricourt"
+        ]
+    ]
+}

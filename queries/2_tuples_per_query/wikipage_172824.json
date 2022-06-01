@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bandar_Seri_Begawan",
+            "http://dbpedia.org/resource/Brunei",
+            "http://dbpedia.org/resource/Jerudong_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Central_Dynamo_Stadium"
+        ]
+    ]
+}

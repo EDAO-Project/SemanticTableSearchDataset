@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_Pan_American_Games",
+            "http://dbpedia.org/resource/Buenos_Aires",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Estadio_Monumental_Antonio_Vespucio_Liberti"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_Pan_American_Games",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Soldier_Field"
+        ]
+    ]
+}

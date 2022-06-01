@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aaja_Nachle",
+            "http://dbpedia.org/resource/Anil_Mehta",
+            "http://dbpedia.org/resource/Madhuri_Dixit",
+            "http://dbpedia.org/resource/Musical_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Apne",
+            "http://dbpedia.org/resource/Anil_Sharma",
+            "http://dbpedia.org/resource/Dharmendra",
+            "http://dbpedia.org/resource/Family"
+        ]
+    ]
+}

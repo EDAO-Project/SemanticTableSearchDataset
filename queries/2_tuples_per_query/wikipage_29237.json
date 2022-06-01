@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appointment_in_London",
+            "http://dbpedia.org/resource/Philip_Leacock",
+            "http://dbpedia.org/resource/Dirk_Bogarde"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_13",
+            "http://dbpedia.org/resource/Ken_Hughes",
+            "http://dbpedia.org/resource/Peter_Reynolds"
+        ]
+    ]
+}

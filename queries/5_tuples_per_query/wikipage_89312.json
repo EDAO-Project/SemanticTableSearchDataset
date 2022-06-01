@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barbara_Krause",
+            "http://dbpedia.org/resource/Lene_Jenssen",
+            "http://dbpedia.org/resource/Larisa_Tsaryova"
+        ],
+        [
+            "http://dbpedia.org/resource/Cynthia_Woodhead",
+            "http://dbpedia.org/resource/Barbara_Krause",
+            "http://dbpedia.org/resource/Larisa_Tsaryova"
+        ],
+        [
+            "http://dbpedia.org/resource/Tracey_Wickham",
+            "http://dbpedia.org/resource/Cynthia_Woodhead",
+            "http://dbpedia.org/resource/Kim_Linehan"
+        ],
+        [
+            "http://dbpedia.org/resource/Tracey_Wickham",
+            "http://dbpedia.org/resource/Cynthia_Woodhead",
+            "http://dbpedia.org/resource/Kim_Linehan"
+        ],
+        [
+            "http://dbpedia.org/resource/Linda_Jezek",
+            "http://dbpedia.org/resource/Birgit_Treiber",
+            "http://dbpedia.org/resource/Cheryl_Gibson"
+        ]
+    ]
+}

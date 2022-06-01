@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1882_Cincinnati_Red_Stockings_season",
+            "http://dbpedia.org/resource/Will_White",
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Bank_Street_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/1883_Cincinnati_Red_Stockings_season",
+            "http://dbpedia.org/resource/Will_White",
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Bank_Street_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/1885_Cincinnati_Red_Stockings_season",
+            "http://dbpedia.org/resource/Gus_Shallix",
+            "http://dbpedia.org/resource/Louisville_Colonels",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1902_Cincinnati_Reds_season",
+            "http://dbpedia.org/resource/Len_Swormstedt",
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Palace_of_the_Fans"
+        ],
+        [
+            "http://dbpedia.org/resource/1904_Cincinnati_Reds_season",
+            "http://dbpedia.org/resource/Jack_Sutthoff",
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Palace_of_the_Fans"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_Quiet_on_the_Western_Front",
+            "http://dbpedia.org/resource/Erich_Maria_Remarque",
+            "http://dbpedia.org/resource/Nazi_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Psycho",
+            "http://dbpedia.org/resource/Bret_Easton_Ellis",
+            "http://dbpedia.org/resource/Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Animal_Farm",
+            "http://dbpedia.org/resource/George_Orwell",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Areopagitica",
+            "http://dbpedia.org/resource/John_Milton",
+            "http://dbpedia.org/resource/Kingdom_of_England"
+        ],
+        [
+            "http://dbpedia.org/resource/Borstal_Boy",
+            "http://dbpedia.org/resource/Brendan_Behan",
+            "http://dbpedia.org/resource/Catholic_Church"
+        ]
+    ]
+}

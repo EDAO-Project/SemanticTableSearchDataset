@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Finnish_language",
+            "http://dbpedia.org/resource/Marion_Rung",
+            "http://dbpedia.org/resource/Tipi-tii"
+        ],
+        [
+            "http://dbpedia.org/resource/French_language",
+            "http://dbpedia.org/resource/Fud_Leclerc",
+            "http://dbpedia.org/resource/Ton_nom"
+        ]
+    ]
+}

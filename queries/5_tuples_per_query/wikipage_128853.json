@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2_Pallas",
+            "http://dbpedia.org/resource/Bremen",
+            "http://dbpedia.org/resource/Heinrich_Wilhelm_Matthias_Olbers"
+        ],
+        [
+            "http://dbpedia.org/resource/3_Juno",
+            "http://dbpedia.org/resource/Lilienthal,_Lower_Saxony",
+            "http://dbpedia.org/resource/Karl_Ludwig_Harding"
+        ],
+        [
+            "http://dbpedia.org/resource/4_Vesta",
+            "http://dbpedia.org/resource/Bremen",
+            "http://dbpedia.org/resource/Heinrich_Wilhelm_Matthias_Olbers"
+        ],
+        [
+            "http://dbpedia.org/resource/5_Astraea",
+            "http://dbpedia.org/resource/Drezdenko",
+            "http://dbpedia.org/resource/Karl_Ludwig_Hencke"
+        ],
+        [
+            "http://dbpedia.org/resource/10_Hygiea",
+            "http://dbpedia.org/resource/Astronomical_Observatory_of_Capodimonte",
+            "http://dbpedia.org/resource/Annibale_de_Gasparis"
+        ]
+    ]
+}

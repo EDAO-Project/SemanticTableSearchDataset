@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ian_Thorpe",
+            "http://dbpedia.org/resource/Michael_Klim",
+            "http://dbpedia.org/resource/Ryk_Neethling"
+        ]
+    ]
+}

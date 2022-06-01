@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_tallest_buildings_in_Hong_Kong",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/International_Commerce_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_tallest_buildings_in_China",
+            "http://dbpedia.org/resource/Shanghai",
+            "http://dbpedia.org/resource/Shanghai_World_Financial_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_tallest_buildings_in_Thailand",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Baiyoke_Tower_II"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_tallest_buildings_in_Canada",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/First_Canadian_Place"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_tallest_buildings_in_Malaysia",
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Petronas_Towers"
+        ]
+    ]
+}

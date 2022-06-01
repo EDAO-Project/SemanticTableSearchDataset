@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ernst-Happel-Stadion",
+            "http://dbpedia.org/resource/Austria_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Nicklas_Bendtner"
+        ]
+    ]
+}

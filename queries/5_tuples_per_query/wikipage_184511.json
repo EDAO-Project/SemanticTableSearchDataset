@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_Sydney_International",
+            "http://dbpedia.org/resource/Venus_Williams",
+            "http://dbpedia.org/resource/Amanda_Coetzer"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Australian_Open",
+            "http://dbpedia.org/resource/Venus_Williams",
+            "http://dbpedia.org/resource/Christina_Singer"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Australian_Open",
+            "http://dbpedia.org/resource/Venus_Williams",
+            "http://dbpedia.org/resource/Mariaan_de_Swardt"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Australian_Open",
+            "http://dbpedia.org/resource/Venus_Williams",
+            "http://dbpedia.org/resource/Lindsay_Davenport"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Faber_Grand_Prix",
+            "http://dbpedia.org/resource/Venus_Williams",
+            "http://dbpedia.org/resource/Elena_Pampoulova"
+        ]
+    ]
+}

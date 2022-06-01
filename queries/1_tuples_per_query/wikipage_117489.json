@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nicolas_Roche",
+            "http://dbpedia.org/resource/AG2R_La_Mondiale",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ]
+    ]
+}

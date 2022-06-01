@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/63rd_British_Academy_Film_Awards",
+            "http://dbpedia.org/resource/Kathryn_Bigelow",
+            "http://dbpedia.org/resource/The_Hurt_Locker"
+        ],
+        [
+            "http://dbpedia.org/resource/63rd_British_Academy_Film_Awards",
+            "http://dbpedia.org/resource/Neill_Blomkamp",
+            "http://dbpedia.org/resource/District_9"
+        ]
+    ]
+}

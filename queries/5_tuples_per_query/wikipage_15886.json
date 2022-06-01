@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gaelic_football,_hurling_and_camogie_positions",
+            "http://dbpedia.org/resource/Tony_Reddin",
+            "http://dbpedia.org/resource/Tipperary_GAA",
+            "http://dbpedia.org/resource/Mullagh_GAA",
+            "http://dbpedia.org/resource/All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Gaelic_football,_hurling_and_camogie_positions",
+            "http://dbpedia.org/resource/Bobby_Rackard",
+            "http://dbpedia.org/resource/Wexford_GAA",
+            "http://dbpedia.org/resource/Rathnure_GAA",
+            "http://dbpedia.org/resource/All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Gaelic_football,_hurling_and_camogie_positions",
+            "http://dbpedia.org/resource/Jimmy_Finn",
+            "http://dbpedia.org/resource/Tipperary_GAA",
+            "http://dbpedia.org/resource/Borris-Ileigh_GAA",
+            "http://dbpedia.org/resource/All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Gaelic_football,_hurling_and_camogie_positions",
+            "http://dbpedia.org/resource/Paddy_Phelan",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/Tullaroan_GAA",
+            "http://dbpedia.org/resource/All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Gaelic_football,_hurling_and_camogie_positions",
+            "http://dbpedia.org/resource/Lory_Meagher",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/Tullaroan_GAA",
+            "http://dbpedia.org/resource/All-Ireland_Senior_Hurling_Championship"
+        ]
+    ]
+}

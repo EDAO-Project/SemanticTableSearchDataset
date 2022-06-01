@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Teenage_Fanclub",
+            "http://dbpedia.org/resource/Bandwagonesque",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/Liz_Phair",
+            "http://dbpedia.org/resource/Exile_in_Guyville",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Moby",
+            "http://dbpedia.org/resource/Everything_Is_Wrong",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Beck",
+            "http://dbpedia.org/resource/Odelay",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornershop",
+            "http://dbpedia.org/resource/When_I_Was_Born_for_the_7th_Time",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

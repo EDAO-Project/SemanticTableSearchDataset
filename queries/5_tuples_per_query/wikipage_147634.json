@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rob_Alflen",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Wim_Anderiesen",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucas_Andersen",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Vurnon_Anita",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Arnesen",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

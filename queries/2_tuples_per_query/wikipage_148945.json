@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_Summer_Olympics",
+            "http://dbpedia.org/resource/Reiner_Klimke",
+            "http://dbpedia.org/resource/Dressage"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_Winter_Olympics",
+            "http://dbpedia.org/resource/Peter_Angerer",
+            "http://dbpedia.org/resource/Biathlon"
+        ]
+    ]
+}

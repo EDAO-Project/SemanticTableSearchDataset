@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alnwick_Castle",
+            "http://dbpedia.org/resource/Alnwick",
+            "http://dbpedia.org/resource/Fusiliers_Museum_of_Northumberland"
+        ],
+        [
+            "http://dbpedia.org/resource/Aydon_Castle",
+            "http://dbpedia.org/resource/Aydon",
+            "http://dbpedia.org/resource/English_Heritage"
+        ],
+        [
+            "http://dbpedia.org/resource/Bamburgh_Castle",
+            "http://dbpedia.org/resource/Bamburgh",
+            "http://dbpedia.org/resource/William_Armstrong,_1st_Baron_Armstrong"
+        ],
+        [
+            "http://dbpedia.org/resource/Belsay_Castle",
+            "http://dbpedia.org/resource/Belsay",
+            "http://dbpedia.org/resource/English_Heritage"
+        ],
+        [
+            "http://dbpedia.org/resource/Belsay_Hall",
+            "http://dbpedia.org/resource/Belsay",
+            "http://dbpedia.org/resource/English_Heritage"
+        ]
+    ]
+}

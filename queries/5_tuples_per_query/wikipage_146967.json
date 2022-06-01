@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Pageant"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Pageant"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Pageant"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Riviera_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Vic_Theatre"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Francis_Shackelford",
+            "http://dbpedia.org/resource/Harry_S._Truman",
+            "http://dbpedia.org/resource/Frank_Pace"
+        ]
+    ]
+}

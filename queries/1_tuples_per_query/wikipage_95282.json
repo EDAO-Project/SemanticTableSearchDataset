@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KCME",
+            "http://dbpedia.org/resource/Classical_music",
+            "http://dbpedia.org/resource/Manitou_Springs,_Colorado",
+            "http://dbpedia.org/resource/HD_Radio"
+        ]
+    ]
+}

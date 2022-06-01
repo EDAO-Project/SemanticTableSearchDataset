@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Douglas_Adams",
+            "http://dbpedia.org/resource/Conservation_movement",
+            "http://dbpedia.org/resource/Great_Ape_Project"
+        ]
+    ]
+}

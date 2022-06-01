@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paul_Van_Himst",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Mario_Corso",
+            "http://dbpedia.org/resource/Inter_Milan",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

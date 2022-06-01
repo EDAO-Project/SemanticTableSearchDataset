@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1948_in_film",
+            "http://dbpedia.org/resource/Monsieur_Vincent",
+            "http://dbpedia.org/resource/Maurice_Cloche"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_in_film",
+            "http://dbpedia.org/resource/Mon_Oncle",
+            "http://dbpedia.org/resource/Jacques_Tati"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_in_film",
+            "http://dbpedia.org/resource/Black_Orpheus",
+            "http://dbpedia.org/resource/Marcel_Camus"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_in_film",
+            "http://dbpedia.org/resource/Last_Year_at_Marienbad",
+            "http://dbpedia.org/resource/Alain_Resnais"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_in_film",
+            "http://dbpedia.org/resource/Sundays_and_Cybele",
+            "http://dbpedia.org/resource/Serge_Bourguignon"
+        ]
+    ]
+}

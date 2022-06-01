@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amalie_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Palm_Beach,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Perfect_Vodka_Amphitheatre"
+        ]
+    ]
+}

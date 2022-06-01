@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Airdrie,_Alberta",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Scottish_Gaelic",
+            "http://dbpedia.org/resource/Airdrie,_North_Lanarkshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Barrie",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/English_language",
+            "http://dbpedia.org/resource/Robert_Barrie"
+        ]
+    ]
+}

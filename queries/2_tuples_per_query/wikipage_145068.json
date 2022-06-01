@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_Markham",
+            "http://dbpedia.org/resource/California_Republican_Party",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections_in_California,_1884",
+            "http://dbpedia.org/resource/Alpine_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Vandever",
+            "http://dbpedia.org/resource/California_Republican_Party",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections_in_California,_1886",
+            "http://dbpedia.org/resource/Alpine_County,_California"
+        ]
+    ]
+}

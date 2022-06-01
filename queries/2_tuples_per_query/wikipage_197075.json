@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/PFC_Lokomotiv_Sofia",
+            "http://dbpedia.org/resource/PFC_Botev_Plovdiv",
+            "http://dbpedia.org/resource/1995_Bulgarian_Cup_Final",
+            "http://dbpedia.org/resource/Vasil_Levski_National_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Slavia_Sofia",
+            "http://dbpedia.org/resource/PFC_Levski_Sofia",
+            "http://dbpedia.org/resource/1996_Bulgarian_Cup_Final",
+            "http://dbpedia.org/resource/Vasil_Levski_National_Stadium"
+        ]
+    ]
+}

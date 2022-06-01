@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Digimon:_The_Movie",
+            "http://dbpedia.org/resource/20th_Century_Fox",
+            "http://dbpedia.org/resource/Mamoru_Hosoda",
+            "http://dbpedia.org/resource/Science_fiction_film",
+            "http://dbpedia.org/resource/Animation"
+        ],
+        [
+            "http://dbpedia.org/resource/Bamboozled",
+            "http://dbpedia.org/resource/New_Line_Cinema",
+            "http://dbpedia.org/resource/Spike_Lee",
+            "http://dbpedia.org/resource/Comedy_film",
+            "http://dbpedia.org/resource/Live_action"
+        ],
+        [
+            "http://dbpedia.org/resource/Meet_the_Parents",
+            "http://dbpedia.org/resource/Universal_Studios",
+            "http://dbpedia.org/resource/Jay_Roach",
+            "http://dbpedia.org/resource/Comedy_film",
+            "http://dbpedia.org/resource/Live_action"
+        ],
+        [
+            "http://dbpedia.org/resource/Drunken_Master_II",
+            "http://dbpedia.org/resource/Miramax",
+            "http://dbpedia.org/resource/Lau_Kar-leung",
+            "http://dbpedia.org/resource/Martial_arts_film",
+            "http://dbpedia.org/resource/Live_action"
+        ],
+        [
+            "http://dbpedia.org/resource/Book_of_Shadows:_Blair_Witch_2",
+            "http://dbpedia.org/resource/Artisan_Entertainment",
+            "http://dbpedia.org/resource/Joe_Berlinger",
+            "http://dbpedia.org/resource/Horror_film",
+            "http://dbpedia.org/resource/Live_action"
+        ]
+    ]
+}

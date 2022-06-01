@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Helena_Rakoczy",
+            "http://dbpedia.org/resource/Anna_Petersen",
+            "http://dbpedia.org/resource/Gertrude_Kolar"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ventura_County,_California",
+            "http://dbpedia.org/resource/Mira_Monte,_California",
+            "http://dbpedia.org/resource/California_State_Route_150"
+        ],
+        [
+            "http://dbpedia.org/resource/Kern_County,_California",
+            "http://dbpedia.org/resource/Taft,_California",
+            "http://dbpedia.org/resource/U.S._Route_399"
+        ],
+        [
+            "http://dbpedia.org/resource/Kern_County,_California",
+            "http://dbpedia.org/resource/Blackwells_Corner,_California",
+            "http://dbpedia.org/resource/U.S._Route_466"
+        ],
+        [
+            "http://dbpedia.org/resource/Fresno_County,_California",
+            "http://dbpedia.org/resource/Coalinga,_California",
+            "http://dbpedia.org/resource/California_State_Route_198"
+        ],
+        [
+            "http://dbpedia.org/resource/Fresno_County,_California",
+            "http://dbpedia.org/resource/Firebaugh,_California",
+            "http://dbpedia.org/resource/Interstate_5_in_California"
+        ]
+    ]
+}

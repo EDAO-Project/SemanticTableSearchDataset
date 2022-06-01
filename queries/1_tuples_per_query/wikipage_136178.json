@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/MLS_Cup_2000",
+            "http://dbpedia.org/resource/Bob_Gansler",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sporting_Kansas_City"
+        ]
+    ]
+}

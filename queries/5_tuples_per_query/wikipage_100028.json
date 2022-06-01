@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Merlene_Ottey",
+            "http://dbpedia.org/resource/Melanie_Paschke",
+            "http://dbpedia.org/resource/Carlette_Guidry-White"
+        ],
+        [
+            "http://dbpedia.org/resource/Melinda_Gainsford-Taylor",
+            "http://dbpedia.org/resource/Pauline_Davis-Thompson",
+            "http://dbpedia.org/resource/Natalya_Pomoshchnikova-Voronova"
+        ],
+        [
+            "http://dbpedia.org/resource/Irina_Privalova",
+            "http://dbpedia.org/resource/Sandie_Richards",
+            "http://dbpedia.org/resource/Daniela_Georgieva"
+        ],
+        [
+            "http://dbpedia.org/resource/Maria_Mutola",
+            "http://dbpedia.org/resource/Yelena_Afanasyeva",
+            "http://dbpedia.org/resource/Letitia_Vriesde"
+        ],
+        [
+            "http://dbpedia.org/resource/Gabriela_Szabo",
+            "http://dbpedia.org/resource/Lynn_Jennings",
+            "http://dbpedia.org/resource/Joan_Nesbit"
+        ]
+    ]
+}

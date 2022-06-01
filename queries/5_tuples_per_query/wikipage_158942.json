@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atherstone_Priory",
+            "http://dbpedia.org/resource/Atherstone",
+            "http://dbpedia.org/resource/Order_of_Saint_Augustine",
+            "http://dbpedia.org/resource/Chancel"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaulieu_Abbey",
+            "http://dbpedia.org/resource/Beaulieu,_Hampshire",
+            "http://dbpedia.org/resource/Cistercians",
+            "http://dbpedia.org/resource/Refectory"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackmore_Priory",
+            "http://dbpedia.org/resource/Blackmore",
+            "http://dbpedia.org/resource/Augustinians",
+            "http://dbpedia.org/resource/Nave"
+        ],
+        [
+            "http://dbpedia.org/resource/Blanchland_Abbey",
+            "http://dbpedia.org/resource/Blanchland",
+            "http://dbpedia.org/resource/Premonstratensians",
+            "http://dbpedia.org/resource/Nave"
+        ],
+        [
+            "http://dbpedia.org/resource/Blyth_Priory",
+            "http://dbpedia.org/resource/Blyth,_Nottinghamshire",
+            "http://dbpedia.org/resource/Order_of_Saint_Benedict",
+            "http://dbpedia.org/resource/Nave"
+        ]
+    ]
+}

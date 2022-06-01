@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zalman_Shazar",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/First_government_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Remez",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Second_government_of_Israel"
+        ]
+    ]
+}

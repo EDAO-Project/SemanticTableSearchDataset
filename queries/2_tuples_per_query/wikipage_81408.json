@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/River_Avon,_Hampshire",
+            "http://dbpedia.org/resource/Ashford_railway_works",
+            "http://dbpedia.org/resource/Eastleigh_Works"
+        ],
+        [
+            "http://dbpedia.org/resource/River_Adur",
+            "http://dbpedia.org/resource/Armstrong_Whitworth",
+            "http://dbpedia.org/resource/Eastleigh_Works"
+        ]
+    ]
+}

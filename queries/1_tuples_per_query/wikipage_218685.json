@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nadezhda_Gracheva",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Bolshoi_Ballet",
+            "http://dbpedia.org/resource/Moscow_State_Academy_of_Choreography"
+        ]
+    ]
+}

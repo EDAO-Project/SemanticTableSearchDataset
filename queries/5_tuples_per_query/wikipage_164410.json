@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonas_Gustavsson",
+            "http://dbpedia.org/resource/Detroit_Red_Wings",
+            "http://dbpedia.org/resource/Winnipeg_Jets"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Lundin",
+            "http://dbpedia.org/resource/Ottawa_Senators",
+            "http://dbpedia.org/resource/Minnesota_Wild"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Corvo",
+            "http://dbpedia.org/resource/Carolina_Hurricanes",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Zatkoff",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Zenon_Konopka",
+            "http://dbpedia.org/resource/Minnesota_Wild",
+            "http://dbpedia.org/resource/Ottawa_Senators"
+        ]
+    ]
+}

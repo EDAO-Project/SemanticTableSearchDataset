@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baden_Masters",
+            "http://dbpedia.org/resource/Baden",
+            "http://dbpedia.org/resource/Brad_Gushue",
+            "http://dbpedia.org/resource/Andy_Kapp"
+        ],
+        [
+            "http://dbpedia.org/resource/AMJ_Campbell_Shorty_Jenkins_Classic",
+            "http://dbpedia.org/resource/Brockville",
+            "http://dbpedia.org/resource/Glenn_Howard",
+            "http://dbpedia.org/resource/Brad_Gushue"
+        ],
+        [
+            "http://dbpedia.org/resource/Prestige_Hotels_&_Resorts_Curling_Classic",
+            "http://dbpedia.org/resource/Vernon,_British_Columbia",
+            "http://dbpedia.org/resource/Bob_Ursel",
+            "http://dbpedia.org/resource/Sean_Geall"
+        ],
+        [
+            "http://dbpedia.org/resource/Swiss_Cup_Basel",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/David_Murdoch",
+            "http://dbpedia.org/resource/Stefan_Karnusian"
+        ],
+        [
+            "http://dbpedia.org/resource/Westcoast_Curling_Classic",
+            "http://dbpedia.org/resource/New_Westminster",
+            "http://dbpedia.org/resource/Kevin_Koe",
+            "http://dbpedia.org/resource/Bob_Ursel"
+        ]
+    ]
+}

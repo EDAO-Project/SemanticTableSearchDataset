@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Topeka,_Kansas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Landon_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Omaha,_Nebraska",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Omaha_Civic_Auditorium"
+        ]
+    ]
+}

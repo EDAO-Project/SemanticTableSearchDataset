@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1939_Orange_Bowl",
+            "http://dbpedia.org/resource/Oklahoma_Sooners_football",
+            "http://dbpedia.org/resource/1938_Tennessee_Volunteers_football_team",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Thomas_E._Stidham"
+        ]
+    ]
+}

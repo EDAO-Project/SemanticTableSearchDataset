@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_in_music",
+            "http://dbpedia.org/resource/Margaret_Urlich",
+            "http://dbpedia.org/resource/Chameleon_Dreams"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_in_music",
+            "http://dbpedia.org/resource/Max_Sharam",
+            "http://dbpedia.org/resource/A_Million_Year_Girl"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_in_music",
+            "http://dbpedia.org/resource/Natalie_Imbruglia",
+            "http://dbpedia.org/resource/Left_of_the_Middle"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_music",
+            "http://dbpedia.org/resource/Suze_DeMarchi",
+            "http://dbpedia.org/resource/Telelove"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_music",
+            "http://dbpedia.org/resource/Vanessa_Amorosi",
+            "http://dbpedia.org/resource/Absolutely_Everybody"
+        ]
+    ]
+}

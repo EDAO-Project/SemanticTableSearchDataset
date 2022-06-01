@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colorado_Rockies",
+            "http://dbpedia.org/resource/Antonio_Bastardo",
+            "http://dbpedia.org/resource/Manny_Delcarmen",
+            "http://dbpedia.org/resource/Brad_Lidge"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Cole_Hamels",
+            "http://dbpedia.org/resource/Chris_Capuano",
+            "http://dbpedia.org/resource/Ryan_Madson"
+        ]
+    ]
+}

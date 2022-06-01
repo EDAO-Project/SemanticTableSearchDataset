@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Isaac_Tichenor",
+            "http://dbpedia.org/resource/Federalist_Party",
+            "http://dbpedia.org/resource/5th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1796_and_1797"
+        ]
+    ]
+}

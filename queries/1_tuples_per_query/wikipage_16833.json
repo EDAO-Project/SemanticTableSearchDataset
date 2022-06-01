@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lake_Eyre",
+            "http://dbpedia.org/resource/Australian_Broadcasting_Corporation",
+            "http://dbpedia.org/resource/Eurocopter_AS355"
+        ]
+    ]
+}

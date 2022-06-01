@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elaine_Schreiber",
+            "http://dbpedia.org/resource/Athletics_at_the_1964_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1964_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Roy_Fowler",
+            "http://dbpedia.org/resource/Swimming_at_the_1964_Summer_Paralympics",
+            "http://dbpedia.org/resource/Swimming_at_the_1964_Summer_Paralympics"
+        ]
+    ]
+}

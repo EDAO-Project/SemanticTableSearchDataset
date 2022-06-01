@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leaving_Las_Vegas",
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actor"
+        ],
+        [
+            "http://dbpedia.org/resource/Leaving_Las_Vegas",
+            "http://dbpedia.org/resource/Boston_Society_of_Film_Critics",
+            "http://dbpedia.org/resource/Boston_Society_of_Film_Critics_Award_for_Best_Actor"
+        ]
+    ]
+}

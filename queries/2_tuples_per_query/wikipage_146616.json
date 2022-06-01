@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Biblisheim",
+            "http://dbpedia.org/resource/Buhl,_Bas-Rhin",
+            "http://dbpedia.org/resource/Cleebourg"
+        ],
+        [
+            "http://dbpedia.org/resource/Drachenbronn-Birlenbach",
+            "http://dbpedia.org/resource/Durrenbach",
+            "http://dbpedia.org/resource/Eberbach-Seltz"
+        ]
+    ]
+}

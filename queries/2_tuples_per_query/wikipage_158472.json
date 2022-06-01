@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Art_Institute_of_Dallas",
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/Dallas_County,_Texas",
+            "http://dbpedia.org/resource/The_Art_Institutes"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_The_Art_Institutes_locations",
+            "http://dbpedia.org/resource/Fort_Worth,_Texas",
+            "http://dbpedia.org/resource/Tarrant_County,_Texas",
+            "http://dbpedia.org/resource/The_Art_Institutes"
+        ]
+    ]
+}

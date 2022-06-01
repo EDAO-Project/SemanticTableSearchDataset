@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antisanti",
+            "http://dbpedia.org/resource/Asco,_Haute-Corse",
+            "http://dbpedia.org/resource/Bisinchi",
+            "http://dbpedia.org/resource/Bustanico"
+        ],
+        [
+            "http://dbpedia.org/resource/Calacuccia",
+            "http://dbpedia.org/resource/Cambia,_Haute-Corse",
+            "http://dbpedia.org/resource/Campana,_Haute-Corse",
+            "http://dbpedia.org/resource/Campi,_Haute-Corse"
+        ],
+        [
+            "http://dbpedia.org/resource/Canale-di-Verde",
+            "http://dbpedia.org/resource/Carcheto-Brustico",
+            "http://dbpedia.org/resource/Carpineto",
+            "http://dbpedia.org/resource/Carticasi"
+        ],
+        [
+            "http://dbpedia.org/resource/Casamaccioli",
+            "http://dbpedia.org/resource/Casanova,_Haute-Corse",
+            "http://dbpedia.org/resource/Casevecchie",
+            "http://dbpedia.org/resource/Castellare-di-Mercurio"
+        ],
+        [
+            "http://dbpedia.org/resource/Castello-di-Rostino",
+            "http://dbpedia.org/resource/Castifao",
+            "http://dbpedia.org/resource/Castiglione,_Haute-Corse",
+            "http://dbpedia.org/resource/Castineta"
+        ]
+    ]
+}

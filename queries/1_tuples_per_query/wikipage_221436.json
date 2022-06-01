@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baffin_Island",
+            "http://dbpedia.org/resource/Nunavut",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_of_Adelaide",
+            "http://dbpedia.org/resource/Edwin_Yates",
+            "http://dbpedia.org/resource/Fred_Stacey"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Calare",
+            "http://dbpedia.org/resource/George_Gibbons",
+            "http://dbpedia.org/resource/Harold_Thorby"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Dalley",
+            "http://dbpedia.org/resource/Ted_Theodore",
+            "http://dbpedia.org/resource/Sol_Rosevear"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Denison",
+            "http://dbpedia.org/resource/Charles_Culley",
+            "http://dbpedia.org/resource/Arthur_Hutchin"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_East_Sydney",
+            "http://dbpedia.org/resource/Eddie_Ward",
+            "http://dbpedia.org/resource/John_Clasby"
+        ]
+    ]
+}

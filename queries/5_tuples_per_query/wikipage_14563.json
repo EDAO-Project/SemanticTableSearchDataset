@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/Afghan_afghani",
+            "http://dbpedia.org/resource/Da_Afghanistan_Bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahrain",
+            "http://dbpedia.org/resource/Bahraini_dinar",
+            "http://dbpedia.org/resource/Central_Bank_of_Bahrain"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Bangladeshi_taka",
+            "http://dbpedia.org/resource/Bangladesh_Bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhutan",
+            "http://dbpedia.org/resource/Bhutanese_ngultrum",
+            "http://dbpedia.org/resource/Royal_Monetary_Authority_of_Bhutan"
+        ],
+        [
+            "http://dbpedia.org/resource/Brunei",
+            "http://dbpedia.org/resource/Brunei_dollar",
+            "http://dbpedia.org/resource/Brunei_Currency_and_Monetary_Board"
+        ]
+    ]
+}

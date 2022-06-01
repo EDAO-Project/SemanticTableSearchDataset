@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Millers_Dale_railway_station",
+            "http://dbpedia.org/resource/Midland_Railway",
+            "http://dbpedia.org/resource/Buxton_railway_station"
+        ]
+    ]
+}

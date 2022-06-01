@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KDKA-FM",
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/Pennsylvania"
+        ]
+    ]
+}

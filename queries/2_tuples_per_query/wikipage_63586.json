@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Griffin-Floyd_Hall",
+            "http://dbpedia.org/resource/William_Augustus_Edwards",
+            "http://dbpedia.org/resource/University_of_Florida_College_of_Liberal_Arts_and_Sciences"
+        ],
+        [
+            "http://dbpedia.org/resource/Ustler_Hall",
+            "http://dbpedia.org/resource/William_Augustus_Edwards",
+            "http://dbpedia.org/resource/University_of_Florida_College_of_Liberal_Arts_and_Sciences"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1939_college_football_season",
+            "http://dbpedia.org/resource/Nile_Kinnick",
+            "http://dbpedia.org/resource/University_of_Iowa",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/1943_college_football_season",
+            "http://dbpedia.org/resource/Angelo_Bertelli",
+            "http://dbpedia.org/resource/University_of_Notre_Dame",
+            "http://dbpedia.org/resource/Quarterback"
+        ]
+    ]
+}

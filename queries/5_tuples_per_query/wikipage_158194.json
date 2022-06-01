@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kielder_Water",
+            "http://dbpedia.org/resource/Northumbrian_Water",
+            "http://dbpedia.org/resource/Northumberland"
+        ],
+        [
+            "http://dbpedia.org/resource/Rutland_Water",
+            "http://dbpedia.org/resource/Anglian_Water",
+            "http://dbpedia.org/resource/Rutland"
+        ],
+        [
+            "http://dbpedia.org/resource/Haweswater_Reservoir",
+            "http://dbpedia.org/resource/United_Utilities",
+            "http://dbpedia.org/resource/Cumbria"
+        ],
+        [
+            "http://dbpedia.org/resource/Llyn_Celyn",
+            "http://dbpedia.org/resource/Welsh_Water",
+            "http://dbpedia.org/resource/Gwynedd"
+        ],
+        [
+            "http://dbpedia.org/resource/Llyn_Brianne",
+            "http://dbpedia.org/resource/Welsh_Water",
+            "http://dbpedia.org/resource/Powys"
+        ]
+    ]
+}

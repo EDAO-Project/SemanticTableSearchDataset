@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Casa_Maria",
+            "http://dbpedia.org/resource/U.S._Route_250",
+            "http://dbpedia.org/resource/Greenwood,_Albemarle_County,_Virginia"
+        ]
+    ]
+}

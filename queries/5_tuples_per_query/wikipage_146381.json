@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beaune-la-Rolande",
+            "http://dbpedia.org/resource/Boiscommun",
+            "http://dbpedia.org/resource/Boisseaux",
+            "http://dbpedia.org/resource/Bondaroy"
+        ],
+        [
+            "http://dbpedia.org/resource/Coudray,_Loiret",
+            "http://dbpedia.org/resource/Courcelles,_Loiret",
+            "http://dbpedia.org/resource/Courcy-aux-Loges",
+            "http://dbpedia.org/resource/Crottes-en-Pithiverais"
+        ],
+        [
+            "http://dbpedia.org/resource/Engenville",
+            "http://dbpedia.org/resource/Erceville",
+            "http://dbpedia.org/resource/Escrennes",
+            "http://dbpedia.org/resource/Estouy"
+        ],
+        [
+            "http://dbpedia.org/resource/Gaubertin",
+            "http://dbpedia.org/resource/Givraines",
+            "http://dbpedia.org/resource/Grangermont",
+            "http://dbpedia.org/resource/Greneville-en-Beauce"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Neuville-sur-Essonne",
+            "http://dbpedia.org/resource/Laas,_Loiret",
+            "http://dbpedia.org/resource/Labrosse,_Loiret",
+            "http://dbpedia.org/resource/Lorcy"
+        ]
+    ]
+}

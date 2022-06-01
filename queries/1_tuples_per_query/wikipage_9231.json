@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/McLaren_MP4/14",
+            "http://dbpedia.org/resource/Mercedes_AMG_High_Performance_Powertrains",
+            "http://dbpedia.org/resource/Bridgestone",
+            "http://dbpedia.org/resource/David_Coulthard"
+        ]
+    ]
+}

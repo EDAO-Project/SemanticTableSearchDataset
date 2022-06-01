@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bauzy",
+            "http://dbpedia.org/resource/Beauvilliers,_Loir-et-Cher",
+            "http://dbpedia.org/resource/Binas",
+            "http://dbpedia.org/resource/Blois"
+        ],
+        [
+            "http://dbpedia.org/resource/Chambord,_Loir-et-Cher",
+            "http://dbpedia.org/resource/Champigny-en-Beauce",
+            "http://dbpedia.org/resource/Chaumont-sur-Loire",
+            "http://dbpedia.org/resource/Cheverny"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Skog",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Giants_Live"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Felix",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/GNC_Grip_Gauntlet"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikhail_Koklyaev",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/International_Federation_of_Strength_Athletes"
+        ],
+        [
+            "http://dbpedia.org/resource/Travis_Ortmayer",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Arnold_Strongman_Classic"
+        ],
+        [
+            "http://dbpedia.org/resource/Derek_Poundstone",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Arnold_Strongman_Classic"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Showbox"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Francisco",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Fillmore"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Hollywood,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Albuquerque,_New_Mexico",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sunshine_Building"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Pageant"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Texas_Rangers_season",
+            "http://dbpedia.org/resource/Bobby_Cassevah",
+            "http://dbpedia.org/resource/Yu_Darvish",
+            "http://dbpedia.org/resource/Ernesto_Frieri",
+            "http://dbpedia.org/resource/Angel_Stadium_of_Anaheim"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Seattle_Mariners_season",
+            "http://dbpedia.org/resource/Jason_Vargas",
+            "http://dbpedia.org/resource/Ervin_Santana",
+            "http://dbpedia.org/resource/Tom_Wilhelmsen",
+            "http://dbpedia.org/resource/Angel_Stadium_of_Anaheim"
+        ]
+    ]
+}

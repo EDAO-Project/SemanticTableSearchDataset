@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/66th_United_States_Congress",
+            "http://dbpedia.org/resource/Peter_G._Gerry",
+            "http://dbpedia.org/resource/Oscar_Underwood",
+            "http://dbpedia.org/resource/Henry_Cabot_Lodge",
+            "http://dbpedia.org/resource/Charles_Curtis"
+        ],
+        [
+            "http://dbpedia.org/resource/67th_United_States_Congress",
+            "http://dbpedia.org/resource/Peter_G._Gerry",
+            "http://dbpedia.org/resource/Oscar_Underwood",
+            "http://dbpedia.org/resource/Henry_Cabot_Lodge",
+            "http://dbpedia.org/resource/Charles_Curtis"
+        ],
+        [
+            "http://dbpedia.org/resource/68th_United_States_Congress",
+            "http://dbpedia.org/resource/Peter_G._Gerry",
+            "http://dbpedia.org/resource/Joseph_Taylor_Robinson",
+            "http://dbpedia.org/resource/Henry_Cabot_Lodge",
+            "http://dbpedia.org/resource/Charles_Curtis"
+        ],
+        [
+            "http://dbpedia.org/resource/68th_United_States_Congress",
+            "http://dbpedia.org/resource/Peter_G._Gerry",
+            "http://dbpedia.org/resource/Joseph_Taylor_Robinson",
+            "http://dbpedia.org/resource/Charles_Curtis",
+            "http://dbpedia.org/resource/Wesley_Livsey_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/69th_United_States_Congress",
+            "http://dbpedia.org/resource/Peter_G._Gerry",
+            "http://dbpedia.org/resource/Joseph_Taylor_Robinson",
+            "http://dbpedia.org/resource/Charles_Curtis",
+            "http://dbpedia.org/resource/Wesley_Livsey_Jones"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nedumudi_Venu",
+            "http://dbpedia.org/resource/Chamaram",
+            "http://dbpedia.org/resource/Bharathan"
+        ],
+        [
+            "http://dbpedia.org/resource/Thilakan",
+            "http://dbpedia.org/resource/Yavanika",
+            "http://dbpedia.org/resource/K._G._George"
+        ],
+        [
+            "http://dbpedia.org/resource/Thilakan",
+            "http://dbpedia.org/resource/Yathra",
+            "http://dbpedia.org/resource/Balu_Mahendra"
+        ],
+        [
+            "http://dbpedia.org/resource/Thilakan",
+            "http://dbpedia.org/resource/Thaniyavarthanam",
+            "http://dbpedia.org/resource/Sibi_Malayil"
+        ],
+        [
+            "http://dbpedia.org/resource/Thilakan",
+            "http://dbpedia.org/resource/Mukthi",
+            "http://dbpedia.org/resource/I._V._Sasi"
+        ]
+    ]
+}

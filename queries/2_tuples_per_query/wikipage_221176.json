@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sweet_Catomine",
+            "http://dbpedia.org/resource/Julio_Canani",
+            "http://dbpedia.org/resource/Martin_J._Wygod"
+        ],
+        [
+            "http://dbpedia.org/resource/Storm_Flag_Flying",
+            "http://dbpedia.org/resource/Claude_R._McGaughey_III",
+            "http://dbpedia.org/resource/Ogden_Mills_Phipps"
+        ]
+    ]
+}

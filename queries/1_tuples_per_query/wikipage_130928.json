@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HealthSouth_Inaugural",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Nancy_Lopez"
+        ]
+    ]
+}

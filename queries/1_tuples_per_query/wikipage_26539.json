@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Weng_Wenhao",
+            "http://dbpedia.org/resource/Kuomintang",
+            "http://dbpedia.org/resource/Chiang_Kai-shek"
+        ]
+    ]
+}

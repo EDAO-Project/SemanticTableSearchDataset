@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Jordan",
+            "http://dbpedia.org/resource/Cleveland_Cavaliers",
+            "http://dbpedia.org/resource/Coliseum_at_Richfield"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Isaac_Kontostephanos",
+            "http://dbpedia.org/resource/Alexios_I_Komnenos",
+            "http://dbpedia.org/resource/Bohemond_I_of_Antioch"
+        ],
+        [
+            "http://dbpedia.org/resource/Eumathios_Philokales",
+            "http://dbpedia.org/resource/Alexios_I_Komnenos",
+            "http://dbpedia.org/resource/Cyprus"
+        ]
+    ]
+}

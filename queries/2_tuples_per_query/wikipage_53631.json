@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nissan_Stadium",
+            "http://dbpedia.org/resource/Yokohama",
+            "http://dbpedia.org/resource/Yokohama_F._Marinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Saitama_Stadium_2002",
+            "http://dbpedia.org/resource/Saitama,_Saitama",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds"
+        ]
+    ]
+}

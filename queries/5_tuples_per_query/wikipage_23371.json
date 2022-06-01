@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bandelier_CCC_Historic_District",
+            "http://dbpedia.org/resource/Bandelier_National_Monument",
+            "http://dbpedia.org/resource/Los_Alamos_County,_New_Mexico",
+            "http://dbpedia.org/resource/Civilian_Conservation_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackwater_Draw",
+            "http://dbpedia.org/resource/Clovis,_New_Mexico",
+            "http://dbpedia.org/resource/Roosevelt_County,_New_Mexico",
+            "http://dbpedia.org/resource/Type_site"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernest_L._Blumenschein_House",
+            "http://dbpedia.org/resource/Taos,_New_Mexico",
+            "http://dbpedia.org/resource/Taos_County,_New_Mexico",
+            "http://dbpedia.org/resource/Ernest_L._Blumenschein"
+        ],
+        [
+            "http://dbpedia.org/resource/Kit_Carson_House",
+            "http://dbpedia.org/resource/Taos,_New_Mexico",
+            "http://dbpedia.org/resource/Taos_County,_New_Mexico",
+            "http://dbpedia.org/resource/Kit_Carson"
+        ],
+        [
+            "http://dbpedia.org/resource/Folsom_Site",
+            "http://dbpedia.org/resource/Folsom,_New_Mexico",
+            "http://dbpedia.org/resource/Colfax_County,_New_Mexico",
+            "http://dbpedia.org/resource/Archaeological_site"
+        ]
+    ]
+}

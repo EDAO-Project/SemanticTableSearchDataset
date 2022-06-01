@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albasini_Dam",
+            "http://dbpedia.org/resource/Louis_Trichardt",
+            "http://dbpedia.org/resource/Limpopo",
+            "http://dbpedia.org/resource/Levubu_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Berg_River_Dam",
+            "http://dbpedia.org/resource/Franschhoek",
+            "http://dbpedia.org/resource/Western_Cape",
+            "http://dbpedia.org/resource/Berg_River"
+        ]
+    ]
+}

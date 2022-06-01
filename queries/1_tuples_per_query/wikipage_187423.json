@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ruth_Riley",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Detroit_Shock",
+            "http://dbpedia.org/resource/Miami_Sol"
+        ]
+    ]
+}

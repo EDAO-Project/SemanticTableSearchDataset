@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/James_Abegglen",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Pacific_Ocean_theater_of_World_War_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Valdas_Adamkus",
+            "http://dbpedia.org/resource/Lithuania",
+            "http://dbpedia.org/resource/Kaunas"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Alter",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Mussoorie"
+        ],
+        [
+            "http://dbpedia.org/resource/Moshe_Arens",
+            "http://dbpedia.org/resource/Israel",
+            "http://dbpedia.org/resource/Lithuania"
+        ],
+        [
+            "http://dbpedia.org/resource/Ted_Arison",
+            "http://dbpedia.org/resource/Israel",
+            "http://dbpedia.org/resource/Mandatory_Palestine"
+        ]
+    ]
+}

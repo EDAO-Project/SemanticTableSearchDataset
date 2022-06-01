@@ -1,0 +1,13 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_Little_League_World_Series",
+            "http://dbpedia.org/resource/Tucson,_Arizona",
+            "http://dbpedia.org/resource/Los_Gatos,_California",
+            "http://dbpedia.org/resource/Oceanside,_California",
+            "http://dbpedia.org/resource/Las_Vegas_Valley",
+            "http://dbpedia.org/resource/Albuquerque,_New_Mexico",
+            "http://dbpedia.org/resource/Taylorsville,_Utah"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Archibald-Adams_House",
+            "http://dbpedia.org/resource/Maine_State_Route_193",
+            "http://dbpedia.org/resource/Cherryfield,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/Henrietta_Brewer_House",
+            "http://dbpedia.org/resource/U.S._Route_1",
+            "http://dbpedia.org/resource/Robbinston,_Maine"
+        ]
+    ]
+}

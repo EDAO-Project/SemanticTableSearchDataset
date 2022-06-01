@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/2005_British_and_Irish_Lions_tour_to_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Wellington_Regional_Stadium",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/2005_British_and_Irish_Lions_tour_to_New_Zealand"
+        ]
+    ]
+}

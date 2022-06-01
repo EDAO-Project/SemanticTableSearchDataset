@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ken_Dryden",
+            "http://dbpedia.org/resource/Ken_Dryden",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/Larry_Robinson",
+            "http://dbpedia.org/resource/Larry_Robinson",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Burrows",
+            "http://dbpedia.org/resource/Dave_Burrows",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins"
+        ],
+        [
+            "http://dbpedia.org/resource/Jerry_Korab",
+            "http://dbpedia.org/resource/Jerry_Korab",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ],
+        [
+            "http://dbpedia.org/resource/Guy_Lapointe",
+            "http://dbpedia.org/resource/Guy_Lapointe",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ]
+    ]
+}

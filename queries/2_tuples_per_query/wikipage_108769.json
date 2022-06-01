@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afrotropic_ecozone",
+            "http://dbpedia.org/resource/Tropical_and_subtropical_moist_broadleaf_forests",
+            "http://dbpedia.org/resource/Albertine_Rift_montane_forests",
+            "http://dbpedia.org/resource/Burundi"
+        ],
+        [
+            "http://dbpedia.org/resource/Afrotropic_ecozone",
+            "http://dbpedia.org/resource/Tropical_and_subtropical_moist_broadleaf_forests",
+            "http://dbpedia.org/resource/Albertine_Rift_montane_forests",
+            "http://dbpedia.org/resource/Democratic_Republic_of_the_Congo"
+        ]
+    ]
+}

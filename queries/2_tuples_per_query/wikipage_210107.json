@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roger_Mills_County,_Oklahoma",
+            "http://dbpedia.org/resource/Sweetwater,_Oklahoma",
+            "http://dbpedia.org/resource/Oklahoma_State_Highway_30"
+        ],
+        [
+            "http://dbpedia.org/resource/Beckham_County,_Oklahoma",
+            "http://dbpedia.org/resource/Sayre,_Oklahoma",
+            "http://dbpedia.org/resource/Business_routes_of_Interstate_40"
+        ]
+    ]
+}

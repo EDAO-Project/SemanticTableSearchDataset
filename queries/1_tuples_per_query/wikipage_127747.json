@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_Supercoppa_Italiana",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/U.C._Sampdoria",
+            "http://dbpedia.org/resource/Frank_Rijkaard",
+            "http://dbpedia.org/resource/San_Siro"
+        ]
+    ]
+}

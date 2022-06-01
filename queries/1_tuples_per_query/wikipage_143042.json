@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adairs_Covered_Bridge",
+            "http://dbpedia.org/resource/Kistler,_Pennsylvania",
+            "http://dbpedia.org/resource/Perry_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Covered_bridge"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2008_Summer_Olympics",
+            "http://dbpedia.org/resource/Marek_Twardowski",
+            "http://dbpedia.org/resource/Canoe_sprint"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Winter_Olympics",
+            "http://dbpedia.org/resource/Paulina_Ligocka",
+            "http://dbpedia.org/resource/Snowboarding"
+        ]
+    ]
+}

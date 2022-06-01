@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Catalan_language",
+            "http://dbpedia.org/resource/Josep_Carner",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Chinese_language",
+            "http://dbpedia.org/resource/Yuen_Ren_Chao",
+            "http://dbpedia.org/resource/Shanghai"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornish_language",
+            "http://dbpedia.org/resource/Nicholas_Williams",
+            "http://dbpedia.org/resource/Westport,_County_Mayo"
+        ],
+        [
+            "http://dbpedia.org/resource/Estonian_language",
+            "http://dbpedia.org/resource/Jaan_Kross",
+            "http://dbpedia.org/resource/Tallinn"
+        ],
+        [
+            "http://dbpedia.org/resource/Finnish_language",
+            "http://dbpedia.org/resource/Anni_Swan",
+            "http://dbpedia.org/resource/Porvoo"
+        ]
+    ]
+}

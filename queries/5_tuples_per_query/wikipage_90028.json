@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/3HO",
+            "http://dbpedia.org/resource/Harbhajan_Singh_Khalsa",
+            "http://dbpedia.org/resource/Sikhism"
+        ],
+        [
+            "http://dbpedia.org/resource/African_Theological_Archministry",
+            "http://dbpedia.org/resource/Adefunmi",
+            "http://dbpedia.org/resource/West_African_Vodun"
+        ],
+        [
+            "http://dbpedia.org/resource/Agasha_Temple_of_Wisdom",
+            "http://dbpedia.org/resource/Richard_Zenor",
+            "http://dbpedia.org/resource/Spiritualism"
+        ],
+        [
+            "http://dbpedia.org/resource/Agni_Yoga",
+            "http://dbpedia.org/resource/Nicholas_Roerich",
+            "http://dbpedia.org/resource/Theosophy"
+        ],
+        [
+            "http://dbpedia.org/resource/Ananda_Marga",
+            "http://dbpedia.org/resource/Prabhat_Ranjan_Sarkar",
+            "http://dbpedia.org/resource/Hinduism"
+        ]
+    ]
+}

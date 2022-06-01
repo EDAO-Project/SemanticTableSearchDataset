@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_W._Delahay",
+            "http://dbpedia.org/resource/Kansas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Abraham_Lincoln"
+        ],
+        [
+            "http://dbpedia.org/resource/Cassius_Gaius_Foster",
+            "http://dbpedia.org/resource/Kansas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Ulysses_S._Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Cather_Hook",
+            "http://dbpedia.org/resource/Kansas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_William_McKinley"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Calvin_Pollock",
+            "http://dbpedia.org/resource/Kansas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Theodore_Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Thomas_McDermott",
+            "http://dbpedia.org/resource/Kansas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Calvin_Coolidge"
+        ]
+    ]
+}

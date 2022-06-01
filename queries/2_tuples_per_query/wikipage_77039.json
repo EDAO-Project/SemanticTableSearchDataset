@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kita-in",
+            "http://dbpedia.org/resource/Kawagoe,_Saitama",
+            "http://dbpedia.org/resource/Saitama_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Nago-dera",
+            "http://dbpedia.org/resource/Tateyama,_Chiba",
+            "http://dbpedia.org/resource/Chiba_Prefecture"
+        ]
+    ]
+}

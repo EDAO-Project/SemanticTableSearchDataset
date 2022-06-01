@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All-Pro_Football_2K8",
+            "http://dbpedia.org/resource/2007_in_video_gaming",
+            "http://dbpedia.org/resource/PlayStation_3",
+            "http://dbpedia.org/resource/Visual_Concepts",
+            "http://dbpedia.org/resource/2K_Sports"
+        ],
+        [
+            "http://dbpedia.org/resource/Arena_Football:_Road_to_Glory",
+            "http://dbpedia.org/resource/2007_in_video_gaming",
+            "http://dbpedia.org/resource/PlayStation_2",
+            "http://dbpedia.org/resource/EA_Tiburon",
+            "http://dbpedia.org/resource/EA_Sports"
+        ],
+        [
+            "http://dbpedia.org/resource/NFL_2K",
+            "http://dbpedia.org/resource/1999_in_video_gaming",
+            "http://dbpedia.org/resource/Dreamcast",
+            "http://dbpedia.org/resource/Visual_Concepts",
+            "http://dbpedia.org/resource/Sega"
+        ],
+        [
+            "http://dbpedia.org/resource/NFL_2K",
+            "http://dbpedia.org/resource/2000_in_video_gaming",
+            "http://dbpedia.org/resource/Dreamcast",
+            "http://dbpedia.org/resource/Visual_Concepts",
+            "http://dbpedia.org/resource/Sega"
+        ],
+        [
+            "http://dbpedia.org/resource/NFL_2K",
+            "http://dbpedia.org/resource/2001_in_video_gaming",
+            "http://dbpedia.org/resource/PlayStation_2",
+            "http://dbpedia.org/resource/Visual_Concepts",
+            "http://dbpedia.org/resource/Sega"
+        ]
+    ]
+}

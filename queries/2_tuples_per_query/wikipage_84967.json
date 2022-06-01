@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Heat",
+            "http://dbpedia.org/resource/Brandon_Roy",
+            "http://dbpedia.org/resource/Greg_Oden",
+            "http://dbpedia.org/resource/Andre_Miller",
+            "http://dbpedia.org/resource/Moda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Rockets",
+            "http://dbpedia.org/resource/Brandon_Roy",
+            "http://dbpedia.org/resource/Joel_Przybilla",
+            "http://dbpedia.org/resource/Andre_Miller",
+            "http://dbpedia.org/resource/Moda_Center"
+        ]
+    ]
+}

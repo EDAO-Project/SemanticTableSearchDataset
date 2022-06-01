@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_Albanian_Superliga",
+            "http://dbpedia.org/resource/FK_Dinamo_Tirana",
+            "http://dbpedia.org/resource/FK_Partizani_Tirana",
+            "http://dbpedia.org/resource/Refik_Resmja"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Sagan",
+            "http://dbpedia.org/resource/Mark_Cavendish",
+            "http://dbpedia.org/resource/Alejandro_Valverde"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Cavendish",
+            "http://dbpedia.org/resource/Michele_Scarponi",
+            "http://dbpedia.org/resource/Bauke_Mollema"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Petacchi",
+            "http://dbpedia.org/resource/Cadel_Evans",
+            "http://dbpedia.org/resource/Mark_Cavendish"
+        ],
+        [
+            "http://dbpedia.org/resource/Robbie_McEwen",
+            "http://dbpedia.org/resource/Paolo_Bettini",
+            "http://dbpedia.org/resource/Thor_Hushovd"
+        ],
+        [
+            "http://dbpedia.org/resource/Thor_Hushovd",
+            "http://dbpedia.org/resource/Paolo_Bettini",
+            "http://dbpedia.org/resource/Alessandro_Petacchi"
+        ]
+    ]
+}

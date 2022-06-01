@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leroy_Anderson",
+            "http://dbpedia.org/resource/Indiana_State_University",
+            "http://dbpedia.org/resource/Hollywood_Walk_of_Fame"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaron_Copland",
+            "http://dbpedia.org/resource/University_of_Arizona",
+            "http://dbpedia.org/resource/Presidential_Medal_of_Freedom"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Crumb",
+            "http://dbpedia.org/resource/University_of_Colorado_Boulder",
+            "http://dbpedia.org/resource/Pulitzer_Prize_for_Music"
+        ],
+        [
+            "http://dbpedia.org/resource/Norman_Dello_Joio",
+            "http://dbpedia.org/resource/Jacksonville_State_University",
+            "http://dbpedia.org/resource/Emmy_Award"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlisle_Floyd",
+            "http://dbpedia.org/resource/Florida_State_University",
+            "http://dbpedia.org/resource/National_Medal_of_Arts"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denver-Aurora,_CO_Combined_Statistical_Area",
+            "http://dbpedia.org/resource/Denver-Aurora-Lakewood,_CO_Metropolitan_Statistical_Area",
+            "http://dbpedia.org/resource/Denver"
+        ]
+    ]
+}

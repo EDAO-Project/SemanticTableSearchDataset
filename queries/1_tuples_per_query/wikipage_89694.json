@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charlotte_metropolitan_area",
+            "http://dbpedia.org/resource/Charlotte,_North_Carolina",
+            "http://dbpedia.org/resource/North_Carolina"
+        ]
+    ]
+}

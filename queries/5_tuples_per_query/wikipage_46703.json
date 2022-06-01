@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Sharon_Cuneta_Show",
+            "http://dbpedia.org/resource/Intercontinental_Broadcasting_Corporation",
+            "http://dbpedia.org/resource/Sharon_Cuneta"
+        ],
+        [
+            "http://dbpedia.org/resource/Ober_Da_Bakod",
+            "http://dbpedia.org/resource/GMA_Network",
+            "http://dbpedia.org/resource/Leo_Martinez"
+        ],
+        [
+            "http://dbpedia.org/resource/Kate_en_Boogie",
+            "http://dbpedia.org/resource/GMA_Network",
+            "http://dbpedia.org/resource/Dennis_Padilla"
+        ],
+        [
+            "http://dbpedia.org/resource/Ms._D",
+            "http://dbpedia.org/resource/GMA_Network",
+            "http://dbpedia.org/resource/Dina_Bonnevie"
+        ],
+        [
+            "http://dbpedia.org/resource/Villa_Quintana",
+            "http://dbpedia.org/resource/GMA_Network",
+            "http://dbpedia.org/resource/Donna_Cruz"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Artzenheim",
+            "http://dbpedia.org/resource/Balgau",
+            "http://dbpedia.org/resource/Baltzenheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Biesheim",
+            "http://dbpedia.org/resource/Bischwihr",
+            "http://dbpedia.org/resource/Breitenbach-Haut-Rhin"
+        ]
+    ]
+}

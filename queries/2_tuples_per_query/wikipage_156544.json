@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Louis_Whelan",
+            "http://dbpedia.org/resource/Luigi_Raimondi",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Fairbanks"
+        ],
+        [
+            "http://dbpedia.org/resource/Dennis_Walter_Hickey",
+            "http://dbpedia.org/resource/Luigi_Raimondi",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Rochester"
+        ]
+    ]
+}

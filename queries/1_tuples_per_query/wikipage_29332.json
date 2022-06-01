@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/Cumming,_Georgia",
+            "http://dbpedia.org/resource/South_Forsyth_High_School"
+        ]
+    ]
+}

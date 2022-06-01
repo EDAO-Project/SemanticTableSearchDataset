@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hjalmar_Andersen",
+            "http://dbpedia.org/resource/Norway_at_the_1952_Winter_Olympics",
+            "http://dbpedia.org/resource/Speed_skating_at_the_1952_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Annemarie_Buchner",
+            "http://dbpedia.org/resource/Germany_at_the_1952_Winter_Olympics",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_1952_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Mead_Lawrence",
+            "http://dbpedia.org/resource/United_States_at_the_1952_Winter_Olympics",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_1952_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorenz_Nieberl",
+            "http://dbpedia.org/resource/Germany_at_the_1952_Winter_Olympics",
+            "http://dbpedia.org/resource/Bobsleigh_at_the_1952_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Andreas_Ostler",
+            "http://dbpedia.org/resource/Germany_at_the_1952_Winter_Olympics",
+            "http://dbpedia.org/resource/Bobsleigh_at_the_1952_Winter_Olympics"
+        ]
+    ]
+}

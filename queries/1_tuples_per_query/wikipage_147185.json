@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Anthony_Swarzak",
+            "http://dbpedia.org/resource/Luke_Hochevar",
+            "http://dbpedia.org/resource/Glen_Perkins"
+        ]
+    ]
+}

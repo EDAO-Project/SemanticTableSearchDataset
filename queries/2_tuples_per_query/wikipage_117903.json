@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Storrer",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1903"
+        ],
+        [
+            "http://dbpedia.org/resource/Allan_Guy",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1929"
+        ]
+    ]
+}

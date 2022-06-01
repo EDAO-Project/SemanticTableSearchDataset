@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formby_Golf_Club",
+            "http://dbpedia.org/resource/Matteo_Manassero",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Sam_Hutsby"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Lytham_&_St_Annes_Golf_Club",
+            "http://dbpedia.org/resource/Drew_Weaver",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tim_Stewart"
+        ],
+        [
+            "http://dbpedia.org/resource/Nairn_Golf_Club",
+            "http://dbpedia.org/resource/Lee_S._James",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Gordon_Sherry"
+        ],
+        [
+            "http://dbpedia.org/resource/Hillside_Golf_Club",
+            "http://dbpedia.org/resource/Jay_Sigel",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Scott_Hoch"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_County_Down_Golf_Club",
+            "http://dbpedia.org/resource/Michael_Bonallack",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Bill_Hyndman"
+        ]
+    ]
+}

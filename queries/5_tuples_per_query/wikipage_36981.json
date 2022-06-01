@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_Sybase_Open",
+            "http://dbpedia.org/resource/Andre_Agassi",
+            "http://dbpedia.org/resource/Michael_Chang",
+            "http://dbpedia.org/resource/MaliVai_Washington",
+            "http://dbpedia.org/resource/Brian_MacPhie"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Kroger_St._Jude_International",
+            "http://dbpedia.org/resource/Todd_Martin",
+            "http://dbpedia.org/resource/Paul_Haarhuis",
+            "http://dbpedia.org/resource/Pete_Sampras",
+            "http://dbpedia.org/resource/Thomas_Enqvist"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Kroger_St._Jude_International",
+            "http://dbpedia.org/resource/Jared_Palmer",
+            "http://dbpedia.org/resource/Tommy_Ho",
+            "http://dbpedia.org/resource/Pete_Sampras",
+            "http://dbpedia.org/resource/Thomas_Enqvist"
+        ],
+        [
+            "http://dbpedia.org/resource/Milan",
+            "http://dbpedia.org/resource/Yevgeny_Kafelnikov",
+            "http://dbpedia.org/resource/Boris_Becker",
+            "http://dbpedia.org/resource/Petr_Korda",
+            "http://dbpedia.org/resource/Guy_Forget"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Thomas_Enqvist",
+            "http://dbpedia.org/resource/Michael_Chang",
+            "http://dbpedia.org/resource/Paul_Haarhuis",
+            "http://dbpedia.org/resource/Brett_Steven"
+        ]
+    ]
+}

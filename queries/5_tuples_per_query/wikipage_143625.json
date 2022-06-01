@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/John_Thorrington"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Michael_Nanchoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Barry_Robson"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Dane_Richards"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Tiago_Ulisses"
+        ]
+    ]
+}

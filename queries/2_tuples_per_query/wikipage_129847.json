@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Army",
+            "http://dbpedia.org/resource/Louis_A._Johnson",
+            "http://dbpedia.org/resource/Harry_S._Truman"
+        ],
+        [
+            "http://dbpedia.org/resource/H._Struve_Hensel",
+            "http://dbpedia.org/resource/Charles_Erwin_Wilson",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ]
+    ]
+}

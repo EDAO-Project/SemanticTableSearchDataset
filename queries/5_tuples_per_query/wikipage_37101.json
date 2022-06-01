@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patricio_Almendra",
+            "http://dbpedia.org/resource/Chile",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Che_Bunce",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeremy_Christie",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Raf_de_Gregorio",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Elrick",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

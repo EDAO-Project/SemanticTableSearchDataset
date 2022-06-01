@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Karl-Eduard_von_Schnitzler",
+            "http://dbpedia.org/resource/BBC",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/East_Germany"
+        ]
+    ]
+}

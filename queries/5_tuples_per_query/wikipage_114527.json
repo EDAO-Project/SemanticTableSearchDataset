@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Flint,_Michigan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Dort_Federal_Credit_Union_Event_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Lansing,_Michigan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lansing_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cobo_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Kalamazoo,_Michigan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Wings_Event_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Market_Square_Arena"
+        ]
+    ]
+}

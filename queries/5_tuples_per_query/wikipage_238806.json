@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nathaniel_Chipman",
+            "http://dbpedia.org/resource/Vermont",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_George_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_Hitchcock",
+            "http://dbpedia.org/resource/Vermont",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_George_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Elijah_Paine",
+            "http://dbpedia.org/resource/Vermont",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_John_Adams"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_Prentiss",
+            "http://dbpedia.org/resource/Vermont",
+            "http://dbpedia.org/resource/John_Tyler"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Allen_Smalley",
+            "http://dbpedia.org/resource/Vermont",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Franklin_Pierce"
+        ]
+    ]
+}

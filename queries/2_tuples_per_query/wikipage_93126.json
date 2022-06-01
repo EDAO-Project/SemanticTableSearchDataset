@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_All-Ireland_Senior_Football_Championship_Final",
+            "http://dbpedia.org/resource/Stephen_Cluxton",
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/Parnells_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_All-Ireland_Senior_Football_Championship_Final",
+            "http://dbpedia.org/resource/Bryan_Cullen",
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/Skerries_Harps_GAA"
+        ]
+    ]
+}

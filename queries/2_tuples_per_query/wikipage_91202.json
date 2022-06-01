@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Capernwray_Chapel",
+            "http://dbpedia.org/resource/Over_Kellet",
+            "http://dbpedia.org/resource/Capernwray_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Lancaster_Priory",
+            "http://dbpedia.org/resource/Lancaster,_Lancashire",
+            "http://dbpedia.org/resource/Priory"
+        ]
+    ]
+}

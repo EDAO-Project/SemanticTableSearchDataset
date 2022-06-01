@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gertrude_Ederle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Indianapolis"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethel_McGary",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Detroit"
+        ]
+    ]
+}

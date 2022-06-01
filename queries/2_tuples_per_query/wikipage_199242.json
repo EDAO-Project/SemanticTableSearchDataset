@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Yale_University",
+            "http://dbpedia.org/resource/Yale_School_of_Architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Florida_International_University",
+            "http://dbpedia.org/resource/Florida_International_University_School_of_Architecture"
+        ]
+    ]
+}

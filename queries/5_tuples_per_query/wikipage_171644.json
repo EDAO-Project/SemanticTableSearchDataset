@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1888_North_Carolina_Tar_Heels_football_team",
+            "http://dbpedia.org/resource/Hector_Cowan",
+            "http://dbpedia.org/resource/NCAA_Division_I_FBS_independent_schools"
+        ],
+        [
+            "http://dbpedia.org/resource/1895_North_Carolina_Tar_Heels_football_team",
+            "http://dbpedia.org/resource/Thomas_Trenchard",
+            "http://dbpedia.org/resource/Southern_Intercollegiate_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_North_Carolina_Tar_Heels_football_team",
+            "http://dbpedia.org/resource/Mack_Brown",
+            "http://dbpedia.org/resource/1994_Sun_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_North_Carolina_Tar_Heels_football_team",
+            "http://dbpedia.org/resource/Mack_Brown",
+            "http://dbpedia.org/resource/Arkansas_Razorbacks_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_North_Carolina_Tar_Heels_football_team",
+            "http://dbpedia.org/resource/Mack_Brown",
+            "http://dbpedia.org/resource/1998_Gator_Bowl"
+        ]
+    ]
+}

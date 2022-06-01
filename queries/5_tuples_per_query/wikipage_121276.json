@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Swallow",
+            "http://dbpedia.org/resource/East_Fremantle_Football_Club",
+            "http://dbpedia.org/resource/West_Australian_Football_League",
+            "http://dbpedia.org/resource/Gold_Coast_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Harley_Bennell",
+            "http://dbpedia.org/resource/Peel_Thunder_Football_Club",
+            "http://dbpedia.org/resource/West_Australian_Football_League",
+            "http://dbpedia.org/resource/Gold_Coast_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_Day",
+            "http://dbpedia.org/resource/Sturt_Football_Club",
+            "http://dbpedia.org/resource/South_Australian_National_Football_League",
+            "http://dbpedia.org/resource/Gold_Coast_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Gaff",
+            "http://dbpedia.org/resource/Oakleigh_Chargers",
+            "http://dbpedia.org/resource/TAC_Cup",
+            "http://dbpedia.org/resource/West_Coast_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/Jared_Polec",
+            "http://dbpedia.org/resource/Woodville-West_Torrens_Football_Club",
+            "http://dbpedia.org/resource/South_Australian_National_Football_League",
+            "http://dbpedia.org/resource/Brisbane_Lions"
+        ]
+    ]
+}

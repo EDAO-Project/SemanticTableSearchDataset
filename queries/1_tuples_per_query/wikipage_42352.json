@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rosy_boa",
+            "http://dbpedia.org/resource/Panther_chameleon",
+            "http://dbpedia.org/resource/Chuckwalla",
+            "http://dbpedia.org/resource/Cuban_crocodile"
+        ]
+    ]
+}

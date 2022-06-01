@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1978_Formula_One_season",
+            "http://dbpedia.org/resource/Keke_Rosberg",
+            "http://dbpedia.org/resource/Theodore_Racing",
+            "http://dbpedia.org/resource/1978_BRDC_International_Trophy"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Formula_One_season",
+            "http://dbpedia.org/resource/James_Hunt",
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/1976_BRDC_International_Trophy"
+        ]
+    ]
+}

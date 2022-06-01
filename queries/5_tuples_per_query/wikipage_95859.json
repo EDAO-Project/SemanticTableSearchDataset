@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Reginald_Keeling",
+            "http://dbpedia.org/resource/New_Zealand_general_election,_1949",
+            "http://dbpedia.org/resource/Grey_Lynn_by-election,_1963"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Kitts",
+            "http://dbpedia.org/resource/New_Zealand_general_election,_1954",
+            "http://dbpedia.org/resource/Mayor_of_Wellington"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Tizard",
+            "http://dbpedia.org/resource/New_Zealand_general_election,_1957",
+            "http://dbpedia.org/resource/Otahuhu_by-election,_1963"
+        ],
+        [
+            "http://dbpedia.org/resource/Matiu_Rata",
+            "http://dbpedia.org/resource/Northern_Maori_by-election,_1963",
+            "http://dbpedia.org/resource/Northern_Maori_by-election,_1980"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Prebble",
+            "http://dbpedia.org/resource/New_Zealand_general_election,_1975",
+            "http://dbpedia.org/resource/ACT_New_Zealand"
+        ]
+    ]
+}

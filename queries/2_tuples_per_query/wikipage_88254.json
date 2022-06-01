@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Britta_Steffen",
+            "http://dbpedia.org/resource/List_of_World_Championships_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Therese_Alshammar",
+            "http://dbpedia.org/resource/List_of_Swedish_records_in_swimming"
+        ]
+    ]
+}

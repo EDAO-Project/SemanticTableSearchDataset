@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Fabulous_Moolah",
+            "http://dbpedia.org/resource/Baltimore",
+            "http://dbpedia.org/resource/House_show",
+            "http://dbpedia.org/resource/Judy_Grable"
+        ],
+        [
+            "http://dbpedia.org/resource/Debrah_Miceli",
+            "http://dbpedia.org/resource/Poughkeepsie,_New_York",
+            "http://dbpedia.org/resource/List_of_former_WWE_programming",
+            "http://dbpedia.org/resource/Heidi_Lee_Morgan"
+        ],
+        [
+            "http://dbpedia.org/resource/Debra_Marshall",
+            "http://dbpedia.org/resource/Orlando,_Florida",
+            "http://dbpedia.org/resource/WWE_Raw",
+            "http://dbpedia.org/resource/Professional_wrestling_match_types"
+        ],
+        [
+            "http://dbpedia.org/resource/Harvey_Wippleman",
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/WWE_Raw",
+            "http://dbpedia.org/resource/Professional_wrestling_match_types"
+        ],
+        [
+            "http://dbpedia.org/resource/Trish_Stratus",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/WWE_Raw",
+            "http://dbpedia.org/resource/Mark_LoMonaco"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kents_Bank_railway_station",
+            "http://dbpedia.org/resource/Kents_Bank",
+            "http://dbpedia.org/resource/Furness_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Sedgwick_House,_Cumbria",
+            "http://dbpedia.org/resource/Sedgwick,_Cumbria",
+            "http://dbpedia.org/resource/English_Gothic_architecture"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Julia_Gillard",
+            "http://dbpedia.org/resource/Deputy_Prime_Minister_of_Australia",
+            "http://dbpedia.org/resource/Kevin_Rudd"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeannette_McHugh",
+            "http://dbpedia.org/resource/Treasurer_of_Australia",
+            "http://dbpedia.org/resource/Paul_Keating"
+        ],
+        [
+            "http://dbpedia.org/resource/Amanda_Vanstone",
+            "http://dbpedia.org/resource/Minister_for_Immigration_and_Border_Protection",
+            "http://dbpedia.org/resource/John_Howard"
+        ],
+        [
+            "http://dbpedia.org/resource/Margaret_Reynolds",
+            "http://dbpedia.org/resource/Minister_for_Local_Government,_Territories_and_Roads",
+            "http://dbpedia.org/resource/Bob_Hawke"
+        ],
+        [
+            "http://dbpedia.org/resource/Wendy_Fatin",
+            "http://dbpedia.org/resource/Minister_for_Local_Government,_Territories_and_Roads",
+            "http://dbpedia.org/resource/Bob_Hawke"
+        ]
+    ]
+}

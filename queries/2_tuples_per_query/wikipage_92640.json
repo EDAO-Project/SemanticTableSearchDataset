@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Hideki_Okajima",
+            "http://dbpedia.org/resource/Chan_Ho_Park",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Alfredo_Aceves",
+            "http://dbpedia.org/resource/Hideki_Okajima",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pisa",
+            "http://dbpedia.org/resource/Adolfo_Leoni",
+            "http://dbpedia.org/resource/Pierino_Favalli"
+        ],
+        [
+            "http://dbpedia.org/resource/Grosseto",
+            "http://dbpedia.org/resource/Adolfo_Leoni",
+            "http://dbpedia.org/resource/Pierino_Favalli"
+        ]
+    ]
+}

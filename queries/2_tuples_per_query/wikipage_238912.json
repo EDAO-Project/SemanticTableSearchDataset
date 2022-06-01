@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Serge_Koussevitzky",
+            "http://dbpedia.org/resource/RCA_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/NBC_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Arturo_Toscanini",
+            "http://dbpedia.org/resource/RCA_Records"
+        ]
+    ]
+}

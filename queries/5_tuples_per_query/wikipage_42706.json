@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Copenhagen",
+            "http://dbpedia.org/resource/Gentofte_Municipality"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Rhodes,_New_South_Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Kowloon",
+            "http://dbpedia.org/resource/Causeway_Bay"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Klagenfurt"
+        ]
+    ]
+}

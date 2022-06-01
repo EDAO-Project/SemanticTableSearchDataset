@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Talking_Stick_Resort_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Woodlands,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cynthia_Woods_Mitchell_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Alamodome"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Gexa_Energy_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mercedes-Benz_Superdome"
+        ]
+    ]
+}

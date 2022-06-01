@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/18_Wheels_of_Steel",
+            "http://dbpedia.org/resource/SCS_Software",
+            "http://dbpedia.org/resource/Cosmi_Corporation",
+            "http://dbpedia.org/resource/Vehicle_simulation_game",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ],
+        [
+            "http://dbpedia.org/resource/Aces_of_the_Pacific",
+            "http://dbpedia.org/resource/Dynamix",
+            "http://dbpedia.org/resource/Sierra_Entertainment",
+            "http://dbpedia.org/resource/Combat_flight_simulator",
+            "http://dbpedia.org/resource/MS-DOS"
+        ],
+        [
+            "http://dbpedia.org/resource/Amnesia:_A_Machine_for_Pigs",
+            "http://dbpedia.org/resource/The_Chinese_Room",
+            "http://dbpedia.org/resource/Frictional_Games",
+            "http://dbpedia.org/resource/Survival_horror",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ],
+        [
+            "http://dbpedia.org/resource/ARMA_2",
+            "http://dbpedia.org/resource/Bohemia_Interactive",
+            "http://dbpedia.org/resource/505_Games",
+            "http://dbpedia.org/resource/Tactical_shooter",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ],
+        [
+            "http://dbpedia.org/resource/Battlefield_1942",
+            "http://dbpedia.org/resource/EA_DICE",
+            "http://dbpedia.org/resource/Electronic_Arts",
+            "http://dbpedia.org/resource/First-person_shooter",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ]
+    ]
+}

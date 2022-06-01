@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Big_Jet_Plane",
+            "http://dbpedia.org/resource/Angus_&_Julia_Stone",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Dance_the_Way_I_Feel",
+            "http://dbpedia.org/resource/Ou_Est_le_Swimming_Pool",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Undercover_Martyn",
+            "http://dbpedia.org/resource/Two_Door_Cinema_Club",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/You_Got_the_Love",
+            "http://dbpedia.org/resource/Florence_and_the_Machine",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Radar_Detector",
+            "http://dbpedia.org/resource/Darwin_Deez",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

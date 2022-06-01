@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greece_at_the_2012_Summer_Olympics",
+            "http://dbpedia.org/resource/Alexandros_Nikolaidis",
+            "http://dbpedia.org/resource/Taekwondo_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Afghanistan_at_the_2012_Summer_Olympics",
+            "http://dbpedia.org/resource/Nesar_Ahmad_Bahave",
+            "http://dbpedia.org/resource/Taekwondo_at_the_2012_Summer_Olympics"
+        ]
+    ]
+}

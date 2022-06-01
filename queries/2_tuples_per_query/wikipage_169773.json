@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Hayes",
+            "http://dbpedia.org/resource/Enrique_Figuerola",
+            "http://dbpedia.org/resource/Harry_Jerome"
+        ],
+        [
+            "http://dbpedia.org/resource/Betty_Cuthbert",
+            "http://dbpedia.org/resource/Ann_Packer",
+            "http://dbpedia.org/resource/Judy_Amoore"
+        ]
+    ]
+}

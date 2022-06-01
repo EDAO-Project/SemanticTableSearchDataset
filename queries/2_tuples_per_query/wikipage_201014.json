@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aketi",
+            "http://dbpedia.org/resource/Bas-Uele_District",
+            "http://dbpedia.org/resource/Aketi_Territory"
+        ],
+        [
+            "http://dbpedia.org/resource/Aru,_Democratic_Republic_of_the_Congo",
+            "http://dbpedia.org/resource/Ituri_Interim_Administration",
+            "http://dbpedia.org/resource/Aru_Territory"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Helsingborgs_IF",
+            "http://dbpedia.org/resource/GAIS",
+            "http://dbpedia.org/resource/Sven_Jonasson"
+        ],
+        [
+            "http://dbpedia.org/resource/IF_Elfsborg",
+            "http://dbpedia.org/resource/AIK_Fotboll",
+            "http://dbpedia.org/resource/Sven_Jonasson"
+        ],
+        [
+            "http://dbpedia.org/resource/AIK_Fotboll",
+            "http://dbpedia.org/resource/IK_Sleipner",
+            "http://dbpedia.org/resource/Olle_Zetherlund"
+        ],
+        [
+            "http://dbpedia.org/resource/IF_Elfsborg",
+            "http://dbpedia.org/resource/AIK_Fotboll",
+            "http://dbpedia.org/resource/Erik_Persson"
+        ],
+        [
+            "http://dbpedia.org/resource/GAIS",
+            "http://dbpedia.org/resource/Helsingborgs_IF",
+            "http://dbpedia.org/resource/Karl-Alfred_Jacobsson"
+        ]
+    ]
+}

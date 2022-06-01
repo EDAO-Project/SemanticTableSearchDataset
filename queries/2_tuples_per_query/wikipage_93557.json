@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Melbourne_Cricket_Ground",
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Australia_national_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Struth",
+            "http://dbpedia.org/resource/Ibrox_Stadium",
+            "http://dbpedia.org/resource/Glasgow",
+            "http://dbpedia.org/resource/Scotland"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Primorje-Gorski_Kotar_County",
+            "http://dbpedia.org/resource/Matulji",
+            "http://dbpedia.org/resource/Opatija"
+        ],
+        [
+            "http://dbpedia.org/resource/Primorje-Gorski_Kotar_County",
+            "http://dbpedia.org/resource/Rijeka",
+            "http://dbpedia.org/resource/Port_of_Rijeka"
+        ],
+        [
+            "http://dbpedia.org/resource/Primorje-Gorski_Kotar_County",
+            "http://dbpedia.org/resource/Rijeka",
+            "http://dbpedia.org/resource/Karlovac"
+        ],
+        [
+            "http://dbpedia.org/resource/Primorje-Gorski_Kotar_County",
+            "http://dbpedia.org/resource/Rijeka",
+            "http://dbpedia.org/resource/Orehovica_interchange"
+        ],
+        [
+            "http://dbpedia.org/resource/Primorje-Gorski_Kotar_County",
+            "http://dbpedia.org/resource/Novi_Vinodolski",
+            "http://dbpedia.org/resource/Bribir,_Primorje-Gorski_Kotar_County"
+        ]
+    ]
+}

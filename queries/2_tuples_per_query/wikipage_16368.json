@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DeLima_v._Bidwell",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/Insular_Cases",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Puerto_Rico"
+        ]
+    ]
+}

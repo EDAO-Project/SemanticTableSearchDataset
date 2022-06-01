@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frankfurt_Airport",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Hesse"
+        ]
+    ]
+}

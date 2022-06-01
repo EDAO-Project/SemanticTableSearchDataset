@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mahiyangana_Raja_Maha_Vihara",
+            "http://dbpedia.org/resource/Stupa",
+            "http://dbpedia.org/resource/Mahiyangana"
+        ],
+        [
+            "http://dbpedia.org/resource/Dighavapi",
+            "http://dbpedia.org/resource/Saddha_Tissa_of_Anuradhapura",
+            "http://dbpedia.org/resource/Ampara_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Muthiyangana_Raja_Maha_Vihara",
+            "http://dbpedia.org/resource/Devanampiya_Tissa_of_Anuradhapura",
+            "http://dbpedia.org/resource/Badulla"
+        ],
+        [
+            "http://dbpedia.org/resource/Tissamaharama_Raja_Maha_Vihara",
+            "http://dbpedia.org/resource/Kavan_Tissa,_Prince_of_Ruhuna",
+            "http://dbpedia.org/resource/Tissamaharama"
+        ],
+        [
+            "http://dbpedia.org/resource/Jaya_Sri_Maha_Bodhi",
+            "http://dbpedia.org/resource/Bodhi_Tree",
+            "http://dbpedia.org/resource/Anuradhapura"
+        ]
+    ]
+}

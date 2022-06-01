@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/James_Henderson",
+            "http://dbpedia.org/resource/Invicta_Ground",
+            "http://dbpedia.org/resource/FA_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Turnbull",
+            "http://dbpedia.org/resource/Arsenal_Stadium",
+            "http://dbpedia.org/resource/Football_League_First_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Turnbull",
+            "http://dbpedia.org/resource/Ewood_Park",
+            "http://dbpedia.org/resource/Football_League_First_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Turnbull",
+            "http://dbpedia.org/resource/Arsenal_Stadium",
+            "http://dbpedia.org/resource/Football_League_First_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Brain",
+            "http://dbpedia.org/resource/Arsenal_Stadium",
+            "http://dbpedia.org/resource/Football_League_First_Division"
+        ]
+    ]
+}

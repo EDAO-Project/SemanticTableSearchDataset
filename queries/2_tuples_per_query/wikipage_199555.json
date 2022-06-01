@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aruba",
+            "http://dbpedia.org/resource/Dutch_language",
+            "http://dbpedia.org/resource/Oranjestad,_Aruba",
+            "http://dbpedia.org/resource/Aruban_florin",
+            "http://dbpedia.org/resource/Constituent_country"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonaire",
+            "http://dbpedia.org/resource/Dutch_language",
+            "http://dbpedia.org/resource/Kralendijk",
+            "http://dbpedia.org/resource/United_States_dollar",
+            "http://dbpedia.org/resource/Caribbean_Netherlands"
+        ]
+    ]
+}

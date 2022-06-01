@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berkeley,_Illinois",
+            "http://dbpedia.org/resource/Oak_Brook,_Illinois",
+            "http://dbpedia.org/resource/Commercial_bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Vancouver,_Washington",
+            "http://dbpedia.org/resource/Umpqua_Holdings_Corporation",
+            "http://dbpedia.org/resource/Commercial_bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Redlands,_California",
+            "http://dbpedia.org/resource/Westlake_Village,_California",
+            "http://dbpedia.org/resource/Commercial_bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Crofton,_Maryland",
+            "http://dbpedia.org/resource/Tappahannock,_Virginia",
+            "http://dbpedia.org/resource/Savings_and_loan_association"
+        ],
+        [
+            "http://dbpedia.org/resource/Ocala,_Florida",
+            "http://dbpedia.org/resource/Winter_Haven,_Florida",
+            "http://dbpedia.org/resource/Commercial_bank"
+        ]
+    ]
+}

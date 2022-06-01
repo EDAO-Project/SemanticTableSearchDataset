@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anfisa_Reztsova",
+            "http://dbpedia.org/resource/Anne_Briand",
+            "http://dbpedia.org/resource/Petra_Behle"
+        ],
+        [
+            "http://dbpedia.org/resource/Anne_Briand",
+            "http://dbpedia.org/resource/Svetlana_Paramygina",
+            "http://dbpedia.org/resource/Uschi_Disl"
+        ],
+        [
+            "http://dbpedia.org/resource/Emmanuelle_Claret",
+            "http://dbpedia.org/resource/Uschi_Disl",
+            "http://dbpedia.org/resource/Petra_Behle"
+        ],
+        [
+            "http://dbpedia.org/resource/Magdalena_Forsberg",
+            "http://dbpedia.org/resource/Uschi_Disl",
+            "http://dbpedia.org/resource/Simone_Greiner-Petter-Memm"
+        ],
+        [
+            "http://dbpedia.org/resource/Magdalena_Forsberg",
+            "http://dbpedia.org/resource/Uschi_Disl",
+            "http://dbpedia.org/resource/Martina_Zellner"
+        ]
+    ]
+}

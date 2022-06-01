@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1985_Island_Games",
+            "http://dbpedia.org/resource/Isle_of_Man",
+            "http://dbpedia.org/resource/Crown_dependencies"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California_Maritime_Academy",
+            "http://dbpedia.org/resource/Vallejo,_California",
+            "http://dbpedia.org/resource/Solano_County,_California",
+            "http://dbpedia.org/resource/California_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/California_Polytechnic_State_University",
+            "http://dbpedia.org/resource/San_Luis_Obispo,_California",
+            "http://dbpedia.org/resource/San_Luis_Obispo_County,_California",
+            "http://dbpedia.org/resource/California_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Polytechnic_University,_Pomona",
+            "http://dbpedia.org/resource/Pomona,_California",
+            "http://dbpedia.org/resource/Los_Angeles_County,_California",
+            "http://dbpedia.org/resource/California_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_University,_Bakersfield",
+            "http://dbpedia.org/resource/Bakersfield,_California",
+            "http://dbpedia.org/resource/Kern_County,_California",
+            "http://dbpedia.org/resource/California_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_University,_Channel_Islands",
+            "http://dbpedia.org/resource/Camarillo,_California",
+            "http://dbpedia.org/resource/Ventura_County,_California",
+            "http://dbpedia.org/resource/California_State_University"
+        ]
+    ]
+}

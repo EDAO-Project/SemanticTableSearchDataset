@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Ryba",
+            "http://dbpedia.org/resource/Rochester_Red_Wings",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/Red_Barrett",
+            "http://dbpedia.org/resource/Syracuse_Chiefs",
+            "http://dbpedia.org/resource/Cincinnati_Reds"
+        ]
+    ]
+}

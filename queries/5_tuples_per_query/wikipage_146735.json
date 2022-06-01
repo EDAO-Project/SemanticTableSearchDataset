@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blaye",
+            "http://dbpedia.org/resource/Bourg,_Gironde",
+            "http://dbpedia.org/resource/Braud-et-Saint-Louis"
+        ],
+        [
+            "http://dbpedia.org/resource/Cavignac",
+            "http://dbpedia.org/resource/Civrac-de-Blaye",
+            "http://dbpedia.org/resource/Comps,_Gironde"
+        ],
+        [
+            "http://dbpedia.org/resource/Eyrans",
+            "http://dbpedia.org/resource/Fours,_Gironde",
+            "http://dbpedia.org/resource/Gauriac"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcenais",
+            "http://dbpedia.org/resource/Marcillac",
+            "http://dbpedia.org/resource/Marsas,_Gironde"
+        ],
+        [
+            "http://dbpedia.org/resource/Mazion",
+            "http://dbpedia.org/resource/Mombrier",
+            "http://dbpedia.org/resource/Plassac,_Gironde"
+        ]
+    ]
+}

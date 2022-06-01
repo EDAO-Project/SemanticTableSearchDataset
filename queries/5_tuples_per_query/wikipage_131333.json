@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HealthSouth_Inaugural",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Kelly_Robbins"
+        ],
+        [
+            "http://dbpedia.org/resource/Subaru_Memorial_of_Naples",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Meg_Mallon"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Office_Depot",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Karrie_Webb"
+        ],
+        [
+            "http://dbpedia.org/resource/Hawaiian_Ladies_Open",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Alison_Nicholas"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Ladies_Masters",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Karrie_Webb"
+        ]
+    ]
+}

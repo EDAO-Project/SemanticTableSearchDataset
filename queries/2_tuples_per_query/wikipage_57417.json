@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Caracas",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

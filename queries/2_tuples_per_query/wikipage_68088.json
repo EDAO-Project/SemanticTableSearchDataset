@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Blackbuck",
+            "http://dbpedia.org/resource/Blackbuck"
+        ],
+        [
+            "http://dbpedia.org/resource/Arunachal_Pradesh",
+            "http://dbpedia.org/resource/Gayal",
+            "http://dbpedia.org/resource/Gayal"
+        ]
+    ]
+}

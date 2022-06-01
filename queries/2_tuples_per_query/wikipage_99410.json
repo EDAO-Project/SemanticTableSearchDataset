@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Visakhapatnam",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Visakhapatnam_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Vijayawada",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Krishna_district"
+        ]
+    ]
+}

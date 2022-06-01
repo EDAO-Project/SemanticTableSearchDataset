@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gray-headed_lemur",
+            "http://dbpedia.org/resource/Alfred_Grandidier",
+            "http://dbpedia.org/resource/Endangered_species"
+        ],
+        [
+            "http://dbpedia.org/resource/Crowned_lemur",
+            "http://dbpedia.org/resource/John_Edward_Gray",
+            "http://dbpedia.org/resource/Vulnerable_species"
+        ],
+        [
+            "http://dbpedia.org/resource/Blue-eyed_black_lemur",
+            "http://dbpedia.org/resource/John_Edward_Gray",
+            "http://dbpedia.org/resource/Endangered_species"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_lemur",
+            "http://dbpedia.org/resource/Carl_Linnaeus",
+            "http://dbpedia.org/resource/Vulnerable_species"
+        ],
+        [
+            "http://dbpedia.org/resource/Mongoose_lemur",
+            "http://dbpedia.org/resource/Carl_Linnaeus",
+            "http://dbpedia.org/resource/Vulnerable_species"
+        ]
+    ]
+}

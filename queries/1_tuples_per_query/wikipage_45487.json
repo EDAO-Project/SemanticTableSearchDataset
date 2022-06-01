@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_World_Series",
+            "http://dbpedia.org/resource/Bobby_Richardson",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

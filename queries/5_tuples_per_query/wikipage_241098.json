@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Brearley",
+            "http://dbpedia.org/resource/Wicket-keeper",
+            "http://dbpedia.org/resource/Middlesex_County_Cricket_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Botham",
+            "http://dbpedia.org/resource/Fast_bowling",
+            "http://dbpedia.org/resource/Somerset_County_Cricket_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoffrey_Boycott",
+            "http://dbpedia.org/resource/Fast_bowling",
+            "http://dbpedia.org/resource/Yorkshire_County_Cricket_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Phil_Edmonds",
+            "http://dbpedia.org/resource/Left-arm_orthodox_spin",
+            "http://dbpedia.org/resource/Middlesex_County_Cricket_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Graham_Gooch",
+            "http://dbpedia.org/resource/Fast_bowling",
+            "http://dbpedia.org/resource/Essex_County_Cricket_Club"
+        ]
+    ]
+}

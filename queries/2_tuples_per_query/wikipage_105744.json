@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Tabernacle"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Tabernacle"
+        ]
+    ]
+}

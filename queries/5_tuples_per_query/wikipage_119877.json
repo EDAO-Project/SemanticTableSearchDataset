@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Neil_Jordan",
+            "http://dbpedia.org/resource/In_Search_of_Lost_Time",
+            "http://dbpedia.org/resource/Typewriter"
+        ],
+        [
+            "http://dbpedia.org/resource/Baron_Melchett",
+            "http://dbpedia.org/resource/Field_guide",
+            "http://dbpedia.org/resource/Snorkeling"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Callow",
+            "http://dbpedia.org/resource/Dictionary",
+            "http://dbpedia.org/resource/Nasal_hair"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Holroyd",
+            "http://dbpedia.org/resource/Hugh_Kingsmill",
+            "http://dbpedia.org/resource/Waterbed"
+        ],
+        [
+            "http://dbpedia.org/resource/Sheila_Hancock",
+            "http://dbpedia.org/resource/Marcel_Proust",
+            "http://dbpedia.org/resource/Piano"
+        ]
+    ]
+}

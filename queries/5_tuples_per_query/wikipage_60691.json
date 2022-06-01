@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alvirne_High_School",
+            "http://dbpedia.org/resource/Hudson,_New_Hampshire",
+            "http://dbpedia.org/resource/Hillsborough_County,_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Academy_for_Science_and_Design",
+            "http://dbpedia.org/resource/Merrimack,_New_Hampshire",
+            "http://dbpedia.org/resource/Hillsborough_County,_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_Brady_High_School",
+            "http://dbpedia.org/resource/Concord,_New_Hampshire",
+            "http://dbpedia.org/resource/Merrimack_County,_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_Guertin_High_School",
+            "http://dbpedia.org/resource/Nashua,_New_Hampshire",
+            "http://dbpedia.org/resource/Hillsborough_County,_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Bow_High_School",
+            "http://dbpedia.org/resource/Bow,_New_Hampshire",
+            "http://dbpedia.org/resource/Merrimack_County,_New_Hampshire"
+        ]
+    ]
+}

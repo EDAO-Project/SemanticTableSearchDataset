@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bellanca_Airfield",
+            "http://dbpedia.org/resource/Delaware_Route_273",
+            "http://dbpedia.org/resource/New_Castle,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_Mills_Historic_District",
+            "http://dbpedia.org/resource/Delaware_Route_82",
+            "http://dbpedia.org/resource/Yorklyn,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/Hagley_Museum_and_Library",
+            "http://dbpedia.org/resource/Delaware_Route_141",
+            "http://dbpedia.org/resource/Wilmington,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/Christiana_Historic_District",
+            "http://dbpedia.org/resource/Delaware_Route_7",
+            "http://dbpedia.org/resource/Christiana,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/Clyde_Farm_Site",
+            "http://dbpedia.org/resource/Stanton,_Delaware",
+            "http://dbpedia.org/resource/Paleo-Indians"
+        ]
+    ]
+}

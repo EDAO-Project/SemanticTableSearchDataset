@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nathan_Ablett",
+            "http://dbpedia.org/resource/Geelong_Football_Club",
+            "http://dbpedia.org/resource/2005_AFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Bate",
+            "http://dbpedia.org/resource/Melbourne_Football_Club",
+            "http://dbpedia.org/resource/2006_AFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Claye_Beams",
+            "http://dbpedia.org/resource/Brisbane_Lions",
+            "http://dbpedia.org/resource/2011_AFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Beaumont",
+            "http://dbpedia.org/resource/Carlton_Football_Club",
+            "http://dbpedia.org/resource/1995_AFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Greg_Bentley",
+            "http://dbpedia.org/resource/Port_Adelaide_Football_Club",
+            "http://dbpedia.org/resource/2006_AFL_season"
+        ]
+    ]
+}

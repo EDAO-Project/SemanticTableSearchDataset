@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrei_Aramnau",
+            "http://dbpedia.org/resource/2008_Summer_Olympics",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2008_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Aksana_Miankova",
+            "http://dbpedia.org/resource/2008_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2008_Summer_Olympics"
+        ]
+    ]
+}

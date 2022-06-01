@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Crazy_in_Love",
+            "http://dbpedia.org/resource/Jay_Z",
+            "http://dbpedia.org/resource/Jake_Nava"
+        ],
+        [
+            "http://dbpedia.org/resource/Luther_Vandross",
+            "http://dbpedia.org/resource/Diane_Martel",
+            "http://dbpedia.org/resource/Mathew_Knowles"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dennis_Endras",
+            "http://dbpedia.org/resource/Immenstadt",
+            "http://dbpedia.org/resource/Augsburger_Panther"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Bakos",
+            "http://dbpedia.org/resource/Augsburg",
+            "http://dbpedia.org/resource/ERC_Ingolstadt"
+        ]
+    ]
+}

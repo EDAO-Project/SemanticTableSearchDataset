@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/11th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Aretha_Franklin",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chain_of_Fools",
+            "http://dbpedia.org/resource/Barbara_Acklin"
+        ],
+        [
+            "http://dbpedia.org/resource/15th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Aretha_Franklin",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/To_Be_Young,_Gifted_and_Black",
+            "http://dbpedia.org/resource/Merry_Clayton"
+        ],
+        [
+            "http://dbpedia.org/resource/23rd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Stephanie_Mills",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Never_Knew_Love_Like_This_Before",
+            "http://dbpedia.org/resource/Roberta_Flack"
+        ],
+        [
+            "http://dbpedia.org/resource/27th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Chaka_Khan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/I_Feel_for_You",
+            "http://dbpedia.org/resource/Patti_Austin"
+        ],
+        [
+            "http://dbpedia.org/resource/28th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Aretha_Franklin",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Freeway_of_Love",
+            "http://dbpedia.org/resource/Whitney_Houston"
+        ]
+    ]
+}

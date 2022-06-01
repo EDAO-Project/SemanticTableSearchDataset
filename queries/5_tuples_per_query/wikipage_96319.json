@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_League_of_Ireland",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Tony_McDonnell"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_League_of_Ireland",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Glen_Fitzpatrick"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_League_of_Ireland",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Graham_Gartland"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_League_of_Ireland",
+            "http://dbpedia.org/resource/Northern_Ireland",
+            "http://dbpedia.org/resource/Paddy_McCourt"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_League_of_Ireland",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Joe_Gamble"
+        ]
+    ]
+}

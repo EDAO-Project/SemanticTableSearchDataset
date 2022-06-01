@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Donald_Garland",
+            "http://dbpedia.org/resource/Flying_officer",
+            "http://dbpedia.org/resource/No._12_Squadron_RAF",
+            "http://dbpedia.org/resource/World_War_II"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1954_ICF_Canoe_Sprint_World_Championships",
+            "http://dbpedia.org/resource/Gert_Fredriksson",
+            "http://dbpedia.org/resource/Louis_Gantois",
+            "http://dbpedia.org/resource/Ferenc_Hatlaczky"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_ICF_Canoe_Sprint_World_Championships",
+            "http://dbpedia.org/resource/Fritz_Briel",
+            "http://dbpedia.org/resource/Ferenc_Hatlaczky",
+            "http://dbpedia.org/resource/Gert_Fredriksson"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_ICF_Canoe_Sprint_World_Championships",
+            "http://dbpedia.org/resource/Ferenc_Csipes",
+            "http://dbpedia.org/resource/Heiko_Zinke",
+            "http://dbpedia.org/resource/Kalle_Sundqvist"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_ICF_Canoe_Sprint_World_Championships",
+            "http://dbpedia.org/resource/Jeremy_West",
+            "http://dbpedia.org/resource/Ferenc_Csipes",
+            "http://dbpedia.org/resource/Harry_Nolte"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_ICF_Canoe_Sprint_World_Championships",
+            "http://dbpedia.org/resource/Greg_Barton",
+            "http://dbpedia.org/resource/Ferenc_Csipes",
+            "http://dbpedia.org/resource/Morten_Ivarsen"
+        ]
+    ]
+}

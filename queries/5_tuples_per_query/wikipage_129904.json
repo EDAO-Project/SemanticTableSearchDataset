@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/7th_Dragon",
+            "http://dbpedia.org/resource/Nintendo_DS",
+            "http://dbpedia.org/resource/Role-playing_video_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Atomic_Battle_Dragons",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Jousting"
+        ],
+        [
+            "http://dbpedia.org/resource/Breath_of_Fire",
+            "http://dbpedia.org/resource/Game_Boy_Advance",
+            "http://dbpedia.org/resource/Role-playing_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Crimson_Dragon",
+            "http://dbpedia.org/resource/Xbox_Live_Arcade",
+            "http://dbpedia.org/resource/Kinect"
+        ],
+        [
+            "http://dbpedia.org/resource/Dragon_Age:_Origins",
+            "http://dbpedia.org/resource/PlayStation_3",
+            "http://dbpedia.org/resource/Role-playing_video_game"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dave_Bautista",
+            "http://dbpedia.org/resource/SAP_Center_at_San_Jose",
+            "http://dbpedia.org/resource/San_Jose,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Seth_Green",
+            "http://dbpedia.org/resource/Amway_Arena",
+            "http://dbpedia.org/resource/Orlando,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/ZZ_Top",
+            "http://dbpedia.org/resource/PNC_Arena",
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeremy_Piven",
+            "http://dbpedia.org/resource/Mohegan_Sun_Arena",
+            "http://dbpedia.org/resource/Uncasville,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Sgt._Slaughter",
+            "http://dbpedia.org/resource/Scotiabank_Saddledome",
+            "http://dbpedia.org/resource/Calgary"
+        ]
+    ]
+}

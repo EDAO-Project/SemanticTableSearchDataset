@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kenenisa_Bekele",
+            "http://dbpedia.org/resource/John_Yuda_Msuri",
+            "http://dbpedia.org/resource/Wilberforce_Talel"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenenisa_Bekele",
+            "http://dbpedia.org/resource/Luke_Kipkosgei",
+            "http://dbpedia.org/resource/Hailu_Mekonnen"
+        ]
+    ]
+}

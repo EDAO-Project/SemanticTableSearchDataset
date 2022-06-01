@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sacramento_Kings",
+            "http://dbpedia.org/resource/Paul_Westphal",
+            "http://dbpedia.org/resource/Omaha_Civic_Auditorium"
+        ]
+    ]
+}

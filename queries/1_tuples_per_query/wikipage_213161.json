@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ahir",
+            "http://dbpedia.org/resource/Gujarat",
+            "http://dbpedia.org/resource/Hindu"
+        ]
+    ]
+}

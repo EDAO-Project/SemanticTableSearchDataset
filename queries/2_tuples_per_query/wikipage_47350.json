@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alphen,_Gelderland",
+            "http://dbpedia.org/resource/Tot_Voordeel_en_Genoegen",
+            "http://dbpedia.org/resource/Post_mill"
+        ],
+        [
+            "http://dbpedia.org/resource/Arnhem",
+            "http://dbpedia.org/resource/Smock_mill",
+            "http://dbpedia.org/resource/Noordlaren"
+        ]
+    ]
+}

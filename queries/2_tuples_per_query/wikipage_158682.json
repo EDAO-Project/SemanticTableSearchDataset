@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Holden_Torana",
+            "http://dbpedia.org/resource/Lakeside_International_Raceway",
+            "http://dbpedia.org/resource/Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Mazda_Grand_Familia",
+            "http://dbpedia.org/resource/Sydney_Motorsport_Park",
+            "http://dbpedia.org/resource/New_South_Wales"
+        ]
+    ]
+}

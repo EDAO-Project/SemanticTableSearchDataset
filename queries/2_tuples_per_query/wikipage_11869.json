@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_California",
+            "http://dbpedia.org/resource/William_F._Knowland",
+            "http://dbpedia.org/resource/Clair_Engle"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Connecticut,_1958",
+            "http://dbpedia.org/resource/William_A._Purtell",
+            "http://dbpedia.org/resource/Thomas_J._Dodd"
+        ]
+    ]
+}

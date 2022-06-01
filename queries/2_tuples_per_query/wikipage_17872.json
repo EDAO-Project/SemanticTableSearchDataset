@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/The_Legend_of_Bagger_Vance",
+            "http://dbpedia.org/resource/Rachel_Portman"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/24_Hour_Party_People",
+            "http://dbpedia.org/resource/Liz_Gallacher"
+        ]
+    ]
+}

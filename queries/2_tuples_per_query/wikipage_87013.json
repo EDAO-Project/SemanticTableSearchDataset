@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Football_Association",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Sheffield_&_Hallamshire_County_Football_Association",
+            "http://dbpedia.org/resource/Sheffield",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

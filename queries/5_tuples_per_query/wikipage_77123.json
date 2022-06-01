@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Tyson_Gay",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Usain_Bolt",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/David_Rudisha",
+            "http://dbpedia.org/resource/Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/Mile_run",
+            "http://dbpedia.org/resource/Hicham_El_Guerrouj",
+            "http://dbpedia.org/resource/Morocco"
+        ],
+        [
+            "http://dbpedia.org/resource/3000_metres",
+            "http://dbpedia.org/resource/Haile_Gebrselassie",
+            "http://dbpedia.org/resource/Ethiopia"
+        ]
+    ]
+}

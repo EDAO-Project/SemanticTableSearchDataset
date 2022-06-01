@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alva_Consolidated_Schools",
+            "http://dbpedia.org/resource/Alva,_Florida",
+            "http://dbpedia.org/resource/Lee_County_Multiple_Property_Submission"
+        ],
+        [
+            "http://dbpedia.org/resource/Boca_Grande_Community_Center",
+            "http://dbpedia.org/resource/Boca_Grande,_Florida",
+            "http://dbpedia.org/resource/Lee_County_Multiple_Property_Submission"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonita_Springs_School",
+            "http://dbpedia.org/resource/Bonita_Springs,_Florida",
+            "http://dbpedia.org/resource/Lee_County_Multiple_Property_Submission"
+        ],
+        [
+            "http://dbpedia.org/resource/Casa_Rio",
+            "http://dbpedia.org/resource/Fort_Myers,_Florida",
+            "http://dbpedia.org/resource/Lee_County_Multiple_Property_Submission"
+        ],
+        [
+            "http://dbpedia.org/resource/Edison_Park_Elementary_School",
+            "http://dbpedia.org/resource/Fort_Myers,_Florida",
+            "http://dbpedia.org/resource/Lee_County_Multiple_Property_Submission"
+        ]
+    ]
+}

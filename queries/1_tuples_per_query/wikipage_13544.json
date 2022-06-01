@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rogers_Centre",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Canadian_Soccer_Association"
+        ]
+    ]
+}

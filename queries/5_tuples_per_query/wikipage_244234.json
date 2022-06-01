@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_of_Cook",
+            "http://dbpedia.org/resource/Don_Dobie",
+            "http://dbpedia.org/resource/Ray_Thorburn"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Darling_Downs",
+            "http://dbpedia.org/resource/Reginald_Swartz",
+            "http://dbpedia.org/resource/Tom_McVeigh"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Evans",
+            "http://dbpedia.org/resource/Malcolm_Mackay",
+            "http://dbpedia.org/resource/Allan_Mulder"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Holt",
+            "http://dbpedia.org/resource/Len_Reid",
+            "http://dbpedia.org/resource/Max_Oldmeadow"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Hume",
+            "http://dbpedia.org/resource/John_Pettitt",
+            "http://dbpedia.org/resource/Frank_Olley"
+        ]
+    ]
+}

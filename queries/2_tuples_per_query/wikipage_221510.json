@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vahanga",
+            "http://dbpedia.org/resource/Acteon_Group",
+            "http://dbpedia.org/resource/Overseas_collectivity"
+        ],
+        [
+            "http://dbpedia.org/resource/Vahitahi",
+            "http://dbpedia.org/resource/Tuamotus",
+            "http://dbpedia.org/resource/Overseas_collectivity"
+        ]
+    ]
+}

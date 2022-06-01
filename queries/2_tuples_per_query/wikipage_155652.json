@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carlos_Manuel_Santiago",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Atlanta_Black_Crackers"
+        ],
+        [
+            "http://dbpedia.org/resource/Louis_Santop",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Philadelphia_Giants"
+        ]
+    ]
+}

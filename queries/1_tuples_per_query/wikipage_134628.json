@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/M1_motorway",
+            "http://dbpedia.org/resource/Leeds",
+            "http://dbpedia.org/resource/London"
+        ]
+    ]
+}

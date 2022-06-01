@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Finisterre_Range",
+            "http://dbpedia.org/resource/Papua_New_Guinea",
+            "http://dbpedia.org/resource/New_Guinea"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Suckling",
+            "http://dbpedia.org/resource/Papua_New_Guinea",
+            "http://dbpedia.org/resource/New_Guinea"
+        ]
+    ]
+}

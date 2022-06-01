@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Assiniboia-Gravelbourg",
+            "http://dbpedia.org/resource/Ralph_Goodale",
+            "http://dbpedia.org/resource/Saskatchewan_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bengough-Milestone",
+            "http://dbpedia.org/resource/Robert_Hugh_Pickering",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelsey-Tisdale",
+            "http://dbpedia.org/resource/Neal_Herbert_Hardy",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelvington-Wadena",
+            "http://dbpedia.org/resource/Sherwin_Holger_Petersen",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan"
+        ],
+        [
+            "http://dbpedia.org/resource/Last_Mountain-Touchwood",
+            "http://dbpedia.org/resource/Arnold_Tusa",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan"
+        ]
+    ]
+}

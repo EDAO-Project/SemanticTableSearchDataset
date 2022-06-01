@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Illinois",
+            "http://dbpedia.org/resource/Sandwich,_Illinois",
+            "http://dbpedia.org/resource/WKBM",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Indiana",
+            "http://dbpedia.org/resource/Gary,_Indiana",
+            "http://dbpedia.org/resource/WWCA",
+            "http://dbpedia.org/resource/Chicago"
+        ]
+    ]
+}

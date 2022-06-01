@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Columbia_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Igor_Stravinsky",
+            "http://dbpedia.org/resource/Columbia_Masterworks_Records"
+        ]
+    ]
+}

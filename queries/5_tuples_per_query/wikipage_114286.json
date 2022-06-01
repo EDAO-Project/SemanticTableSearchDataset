@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Heat",
+            "http://dbpedia.org/resource/Ricky_Pierce",
+            "http://dbpedia.org/resource/Benoit_Benjamin",
+            "http://dbpedia.org/resource/Nate_McMillan",
+            "http://dbpedia.org/resource/KeyArena"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_76ers",
+            "http://dbpedia.org/resource/Derrick_McKey",
+            "http://dbpedia.org/resource/Michael_Cage",
+            "http://dbpedia.org/resource/Gary_Payton",
+            "http://dbpedia.org/resource/KeyArena"
+        ],
+        [
+            "http://dbpedia.org/resource/Denver_Nuggets",
+            "http://dbpedia.org/resource/Ricky_Pierce",
+            "http://dbpedia.org/resource/Shawn_Kemp",
+            "http://dbpedia.org/resource/Gary_Payton",
+            "http://dbpedia.org/resource/McNichols_Sports_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Orlando_Magic",
+            "http://dbpedia.org/resource/Benoit_Benjamin",
+            "http://dbpedia.org/resource/Shawn_Kemp",
+            "http://dbpedia.org/resource/Gary_Payton",
+            "http://dbpedia.org/resource/KeyArena"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Orleans_Pelicans",
+            "http://dbpedia.org/resource/Ricky_Pierce",
+            "http://dbpedia.org/resource/Shawn_Kemp",
+            "http://dbpedia.org/resource/Bart_Kofoed",
+            "http://dbpedia.org/resource/KeyArena"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Matsushima",
+            "http://dbpedia.org/resource/Three_Views_of_Japan",
+            "http://dbpedia.org/resource/Shiogama,_Miyagi"
+        ]
+    ]
+}

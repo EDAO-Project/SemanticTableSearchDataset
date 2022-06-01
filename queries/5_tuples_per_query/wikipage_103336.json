@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_I_Do_Is_Think_of_You",
+            "http://dbpedia.org/resource/Moving_Violation",
+            "http://dbpedia.org/resource/Eddie_Holland"
+        ],
+        [
+            "http://dbpedia.org/resource/Dancing_Machine",
+            "http://dbpedia.org/resource/G.I.T.:_Get_It_Together",
+            "http://dbpedia.org/resource/Hal_Davis"
+        ],
+        [
+            "http://dbpedia.org/resource/Frosty_the_Snowman",
+            "http://dbpedia.org/resource/Jackson_5_Christmas_Album",
+            "http://dbpedia.org/resource/Walter_E._Rollins"
+        ],
+        [
+            "http://dbpedia.org/resource/Have_Yourself_a_Merry_Little_Christmas",
+            "http://dbpedia.org/resource/Jackson_5_Christmas_Album",
+            "http://dbpedia.org/resource/Hugh_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Hum_Along_and_Dance",
+            "http://dbpedia.org/resource/G.I.T.:_Get_It_Together",
+            "http://dbpedia.org/resource/Barrett_Strong"
+        ]
+    ]
+}

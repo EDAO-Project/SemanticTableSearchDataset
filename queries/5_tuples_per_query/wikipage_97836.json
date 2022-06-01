@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Millennium_Stadium",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/2013_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Croke_Park",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/2010_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Millennium_Stadium",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/2009_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Millennium_Stadium",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/2007_Six_Nations_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Lansdowne_Road",
+            "http://dbpedia.org/resource/Ireland_national_rugby_union_team",
+            "http://dbpedia.org/resource/2006_Six_Nations_Championship"
+        ]
+    ]
+}

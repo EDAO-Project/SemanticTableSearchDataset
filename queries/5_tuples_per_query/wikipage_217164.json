@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/American_League",
+            "http://dbpedia.org/resource/Angel_Stadium_of_Anaheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/National_League",
+            "http://dbpedia.org/resource/Dodger_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/National_League",
+            "http://dbpedia.org/resource/Petco_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Clippers",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/National_Basketball_Association",
+            "http://dbpedia.org/resource/Staples_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Lakers",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/National_Basketball_Association",
+            "http://dbpedia.org/resource/Staples_Center"
+        ]
+    ]
+}

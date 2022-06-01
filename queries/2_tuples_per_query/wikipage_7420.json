@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Changde",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/East_Asia",
+            "http://dbpedia.org/resource/Changde_Taohuayuan_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Changsha",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/East_Asia",
+            "http://dbpedia.org/resource/Changsha_Huanghua_International_Airport"
+        ]
+    ]
+}

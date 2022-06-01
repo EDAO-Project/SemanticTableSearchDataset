@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1982_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Tyrell_Biggs",
+            "http://dbpedia.org/resource/Francesco_Damiani",
+            "http://dbpedia.org/resource/Peter_Hussing"
+        ]
+    ]
+}

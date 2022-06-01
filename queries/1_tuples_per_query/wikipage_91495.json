@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_in_baseball",
+            "http://dbpedia.org/resource/Nobuo_Oshima",
+            "http://dbpedia.org/resource/Yokohama_DeNA_BayStars",
+            "http://dbpedia.org/resource/Pitcher"
+        ]
+    ]
+}

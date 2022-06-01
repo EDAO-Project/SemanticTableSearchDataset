@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_Daytona_500",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Team_Penske"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Daytona_500",
+            "http://dbpedia.org/resource/Dodge",
+            "http://dbpedia.org/resource/Team_Penske"
+        ]
+    ]
+}

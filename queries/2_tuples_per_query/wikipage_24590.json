@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Formula_One_season",
+            "http://dbpedia.org/resource/2012_Indian_Grand_Prix",
+            "http://dbpedia.org/resource/Buddh_International_Circuit"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Formula_One_season",
+            "http://dbpedia.org/resource/2011_Indian_Grand_Prix",
+            "http://dbpedia.org/resource/Buddh_International_Circuit"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Archway_tube_station",
+            "http://dbpedia.org/resource/Archway,_London",
+            "http://dbpedia.org/resource/Portland_stone"
+        ],
+        [
+            "http://dbpedia.org/resource/Bond_Street_tube_station",
+            "http://dbpedia.org/resource/West_End_of_London",
+            "http://dbpedia.org/resource/Portland_stone"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Manor_tube_station",
+            "http://dbpedia.org/resource/Boston_Manor",
+            "http://dbpedia.org/resource/Stanley_Heaps"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol_Central_Library",
+            "http://dbpedia.org/resource/Bristol",
+            "http://dbpedia.org/resource/Classical_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Embassy_of_Zimbabwe,_London",
+            "http://dbpedia.org/resource/Strand,_London",
+            "http://dbpedia.org/resource/Jacob_Epstein"
+        ]
+    ]
+}

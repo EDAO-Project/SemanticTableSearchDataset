@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fabio_Baldato",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Tenax"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorenzo_Bernucci",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/HTC-Highroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Marzio_Bruseghin",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Lampre-Merida"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabian_Cancellara",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Tinkoff-Saxo"
+        ],
+        [
+            "http://dbpedia.org/resource/Francesco_Chicchi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Etixx-Quick_Step"
+        ]
+    ]
+}

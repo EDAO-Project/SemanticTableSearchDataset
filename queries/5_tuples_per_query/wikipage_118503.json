@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1978_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/CAF_Champions_League",
+            "http://dbpedia.org/resource/AS_Vita_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/CAF_Champions_League",
+            "http://dbpedia.org/resource/Al_Ahly_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/CAF_Champions_League",
+            "http://dbpedia.org/resource/AS_Vita_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/CAF_Champions_League",
+            "http://dbpedia.org/resource/ASC_Diaraf"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/CAF_Champions_League",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Bissau"
+        ]
+    ]
+}

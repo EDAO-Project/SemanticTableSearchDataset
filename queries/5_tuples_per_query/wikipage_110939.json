@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1947_NFL_draft",
+            "http://dbpedia.org/resource/Bob_Fenimore",
+            "http://dbpedia.org/resource/Chicago_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/1947_NFL_draft",
+            "http://dbpedia.org/resource/Neill_Armstrong",
+            "http://dbpedia.org/resource/Philadelphia_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/1948_NFL_draft",
+            "http://dbpedia.org/resource/Jim_Spavital",
+            "http://dbpedia.org/resource/History_of_the_Arizona_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/1948_NFL_draft",
+            "http://dbpedia.org/resource/Jim_Parmer",
+            "http://dbpedia.org/resource/Philadelphia_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/1949_NFL_draft",
+            "http://dbpedia.org/resource/Billy_Grimes",
+            "http://dbpedia.org/resource/Chicago_Bears"
+        ]
+    ]
+}

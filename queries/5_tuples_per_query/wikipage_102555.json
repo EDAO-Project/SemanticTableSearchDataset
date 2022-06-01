@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ACE_Group_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Fred_Couples"
+        ],
+        [
+            "http://dbpedia.org/resource/Allianz_Championship",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Bernhard_Langer"
+        ],
+        [
+            "http://dbpedia.org/resource/Cap_Cana_Championship",
+            "http://dbpedia.org/resource/Dominican_Republic",
+            "http://dbpedia.org/resource/Fred_Couples"
+        ],
+        [
+            "http://dbpedia.org/resource/Encompass_Insurance_Pro-Am_of_Tampa_Bay",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Bernhard_Langer"
+        ],
+        [
+            "http://dbpedia.org/resource/Mississippi_Gulf_Resort_Classic",
+            "http://dbpedia.org/resource/Mississippi",
+            "http://dbpedia.org/resource/David_Eger"
+        ]
+    ]
+}

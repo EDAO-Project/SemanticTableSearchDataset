@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/No._192_Squadron_RAF",
+            "http://dbpedia.org/resource/De_Havilland_Mosquito",
+            "http://dbpedia.org/resource/RAF_Foulsham"
+        ],
+        [
+            "http://dbpedia.org/resource/No._141_Squadron_RAF",
+            "http://dbpedia.org/resource/Bristol_Beaufighter",
+            "http://dbpedia.org/resource/RAF_West_Raynham"
+        ],
+        [
+            "http://dbpedia.org/resource/No._239_Squadron_RAF",
+            "http://dbpedia.org/resource/De_Havilland_Mosquito",
+            "http://dbpedia.org/resource/RAF_West_Raynham"
+        ],
+        [
+            "http://dbpedia.org/resource/No._515_Squadron_RAF",
+            "http://dbpedia.org/resource/De_Havilland_Mosquito",
+            "http://dbpedia.org/resource/RAF_Little_Snoring"
+        ],
+        [
+            "http://dbpedia.org/resource/No._169_Squadron_RAF",
+            "http://dbpedia.org/resource/De_Havilland_Mosquito",
+            "http://dbpedia.org/resource/RAF_Little_Snoring"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/James_Franck",
+            "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+            "http://dbpedia.org/resource/Electron"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Hunt_Morgan",
+            "http://dbpedia.org/resource/Nobel_Prize_in_Physiology_or_Medicine",
+            "http://dbpedia.org/resource/Chromosome"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Willey",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/West_Indies_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Viv_Richards",
+            "http://dbpedia.org/resource/West_Indies_cricket_team",
+            "http://dbpedia.org/resource/England_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoffrey_Boycott",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/West_Indies_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Richie_Richardson",
+            "http://dbpedia.org/resource/West_Indies_cricket_team",
+            "http://dbpedia.org/resource/Australia_national_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Viv_Richards",
+            "http://dbpedia.org/resource/West_Indies_cricket_team",
+            "http://dbpedia.org/resource/Australia_national_cricket_team"
+        ]
+    ]
+}

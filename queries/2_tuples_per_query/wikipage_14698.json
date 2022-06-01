@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Detroit_Tigers",
+            "http://dbpedia.org/resource/Jerry_Garvin",
+            "http://dbpedia.org/resource/Jim_Slaton",
+            "http://dbpedia.org/resource/Mike_Willis"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_Tigers",
+            "http://dbpedia.org/resource/Jack_Billingham",
+            "http://dbpedia.org/resource/Tom_Underwood",
+            "http://dbpedia.org/resource/Steve_Foucault"
+        ]
+    ]
+}

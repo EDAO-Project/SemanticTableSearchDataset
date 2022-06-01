@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Badakhshan_Province",
+            "http://dbpedia.org/resource/Shah_Waliullah_Adeeb",
+            "http://dbpedia.org/resource/List_of_governors_of_Badakhshan"
+        ],
+        [
+            "http://dbpedia.org/resource/Balkh_Province",
+            "http://dbpedia.org/resource/Atta_Muhammad_Nur",
+            "http://dbpedia.org/resource/List_of_governors_of_Balkh"
+        ]
+    ]
+}

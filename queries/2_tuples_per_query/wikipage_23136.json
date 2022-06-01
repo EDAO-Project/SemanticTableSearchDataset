@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Martina_Navratilova",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tennis"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackie_Joyner-Kersee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Track_and_field"
+        ]
+    ]
+}

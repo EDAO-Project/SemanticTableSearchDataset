@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_World_Series",
+            "http://dbpedia.org/resource/Jerry_Coleman",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_World_Series",
+            "http://dbpedia.org/resource/Phil_Rizzuto",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_World_Series",
+            "http://dbpedia.org/resource/Johnny_Mize",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/1953_World_Series",
+            "http://dbpedia.org/resource/Billy_Martin",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_World_Series",
+            "http://dbpedia.org/resource/Elston_Howard",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

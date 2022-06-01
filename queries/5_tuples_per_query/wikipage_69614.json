@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andriy_Shevchenko",
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Deco",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/FC_Porto"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronaldinho",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Ricardo_Carvalho",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/FC_Porto"
+        ],
+        [
+            "http://dbpedia.org/resource/Angelos_Charisteas",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ]
+    ]
+}

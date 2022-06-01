@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/22nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Paul_McCartney",
+            "http://dbpedia.org/resource/Rockestra_Theme",
+            "http://dbpedia.org/resource/Dixie_Dregs"
+        ],
+        [
+            "http://dbpedia.org/resource/24th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/The_Police",
+            "http://dbpedia.org/resource/Behind_My_Camel",
+            "http://dbpedia.org/resource/Dixie_Dregs"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Art_of_Noise",
+            "http://dbpedia.org/resource/In_Visible_Silence",
+            "http://dbpedia.org/resource/Eric_Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/30th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Frank_Zappa",
+            "http://dbpedia.org/resource/Jazz_from_Hell",
+            "http://dbpedia.org/resource/Herbie_Hancock"
+        ],
+        [
+            "http://dbpedia.org/resource/31st_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Carlos_Santana",
+            "http://dbpedia.org/resource/Blues_for_Salvador",
+            "http://dbpedia.org/resource/Jeff_Healey"
+        ]
+    ]
+}

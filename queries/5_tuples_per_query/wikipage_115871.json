@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/49th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/My_Humps",
+            "http://dbpedia.org/resource/Grammy_Award_for_Best_Pop_Performance_by_a_Duo_or_Group_with_Vocals"
+        ],
+        [
+            "http://dbpedia.org/resource/52nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/The_E.N.D",
+            "http://dbpedia.org/resource/Grammy_Award_for_Album_of_the_Year"
+        ],
+        [
+            "http://dbpedia.org/resource/52nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/The_E.N.D",
+            "http://dbpedia.org/resource/Grammy_Award_for_Best_Pop_Vocal_Album"
+        ],
+        [
+            "http://dbpedia.org/resource/52nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/I_Gotta_Feeling",
+            "http://dbpedia.org/resource/Grammy_Award_for_Record_of_the_Year"
+        ],
+        [
+            "http://dbpedia.org/resource/52nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/I_Gotta_Feeling",
+            "http://dbpedia.org/resource/Grammy_Award_for_Best_Pop_Performance_by_a_Duo_or_Group_with_Vocals"
+        ]
+    ]
+}

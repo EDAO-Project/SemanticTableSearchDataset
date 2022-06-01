@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Muhammad_Ali",
+            "http://dbpedia.org/resource/Professional_boxing",
+            "http://dbpedia.org/resource/WrestleMania_I",
+            "http://dbpedia.org/resource/Professional_wrestling_match_types"
+        ],
+        [
+            "http://dbpedia.org/resource/Dick_Butkus",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/WrestleMania_2",
+            "http://dbpedia.org/resource/Professional_wrestling_match_types"
+        ],
+        [
+            "http://dbpedia.org/resource/Darryl_Dawkins",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/WrestleMania_2",
+            "http://dbpedia.org/resource/Mr._T"
+        ],
+        [
+            "http://dbpedia.org/resource/Eric_Esch",
+            "http://dbpedia.org/resource/Professional_boxing",
+            "http://dbpedia.org/resource/WrestleMania_XV",
+            "http://dbpedia.org/resource/WWF_Brawl_for_All"
+        ],
+        [
+            "http://dbpedia.org/resource/Russ_Francis",
+            "http://dbpedia.org/resource/Tight_end",
+            "http://dbpedia.org/resource/WrestleMania_2",
+            "http://dbpedia.org/resource/Professional_wrestling_battle_royal"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saves_the_Day",
+            "http://dbpedia.org/resource/Princeton,_New_Jersey",
+            "http://dbpedia.org/resource/Pop_punk"
+        ],
+        [
+            "http://dbpedia.org/resource/Scaterd_Few",
+            "http://dbpedia.org/resource/Burbank,_California",
+            "http://dbpedia.org/resource/Christian_punk"
+        ]
+    ]
+}

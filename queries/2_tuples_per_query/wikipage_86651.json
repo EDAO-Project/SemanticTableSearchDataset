@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Furyk",
+            "http://dbpedia.org/resource/Jim_Furyk",
+            "http://dbpedia.org/resource/Rickie_Fowler",
+            "http://dbpedia.org/resource/Stuart_Appleby"
+        ],
+        [
+            "http://dbpedia.org/resource/Tiger_Woods",
+            "http://dbpedia.org/resource/Tiger_Woods",
+            "http://dbpedia.org/resource/Brandt_Snedeker",
+            "http://dbpedia.org/resource/Steve_Stricker"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/A_Scream_from_Silence",
+            "http://dbpedia.org/resource/Anne_Claire_Poirier"
+        ]
+    ]
+}

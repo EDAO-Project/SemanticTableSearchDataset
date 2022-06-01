@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fiji",
+            "http://dbpedia.org/resource/New_Caledonia_national_football_team",
+            "http://dbpedia.org/resource/2000_Melanesia_Cup",
+            "http://dbpedia.org/resource/Batram_Suri"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/New_Zealand_national_football_team",
+            "http://dbpedia.org/resource/2002_FIFA_World_Cup_qualification",
+            "http://dbpedia.org/resource/Batram_Suri"
+        ],
+        [
+            "http://dbpedia.org/resource/Solomon_Islands",
+            "http://dbpedia.org/resource/New_Caledonia_national_football_team",
+            "http://dbpedia.org/resource/2004_OFC_Nations_Cup",
+            "http://dbpedia.org/resource/Gideon_Omokirio"
+        ],
+        [
+            "http://dbpedia.org/resource/Solomon_Islands",
+            "http://dbpedia.org/resource/Tahiti_national_football_team",
+            "http://dbpedia.org/resource/2004_OFC_Nations_Cup",
+            "http://dbpedia.org/resource/Batram_Suri"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Australia_national_soccer_team",
+            "http://dbpedia.org/resource/2004_OFC_Nations_Cup",
+            "http://dbpedia.org/resource/Commins_Menapi"
+        ]
+    ]
+}

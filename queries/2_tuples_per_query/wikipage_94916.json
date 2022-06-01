@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Muscle_Shoals,_Alabama",
+            "http://dbpedia.org/resource/Northwest_Alabama_Regional_Airport",
+            "http://dbpedia.org/resource/Silver_Airways",
+            "http://dbpedia.org/resource/Saab_340"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Page,_Arizona",
+            "http://dbpedia.org/resource/Page_Municipal_Airport",
+            "http://dbpedia.org/resource/Great_Lakes_Airlines",
+            "http://dbpedia.org/resource/Beechcraft_1900"
+        ]
+    ]
+}

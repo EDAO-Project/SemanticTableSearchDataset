@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/Yusuf_Saad_Kamel",
+            "http://dbpedia.org/resource/Bahrain",
+            "http://dbpedia.org/resource/Herculis",
+            "http://dbpedia.org/resource/Fontvieille,_Monaco"
+        ],
+        [
+            "http://dbpedia.org/resource/Middle-distance_running",
+            "http://dbpedia.org/resource/Yusuf_Saad_Kamel",
+            "http://dbpedia.org/resource/Bahrain",
+            "http://dbpedia.org/resource/Stockholm_Bauhaus_Athletics",
+            "http://dbpedia.org/resource/Stockholm"
+        ]
+    ]
+}

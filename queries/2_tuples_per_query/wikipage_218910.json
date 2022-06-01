@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Somjit_Jongjohor",
+            "http://dbpedia.org/resource/Andry_Laffita",
+            "http://dbpedia.org/resource/Georgy_Balakshin"
+        ],
+        [
+            "http://dbpedia.org/resource/Somjit_Jongjohor",
+            "http://dbpedia.org/resource/Andry_Laffita",
+            "http://dbpedia.org/resource/Vincenzo_Picardi"
+        ]
+    ]
+}

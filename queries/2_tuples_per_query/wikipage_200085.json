@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_College",
+            "http://dbpedia.org/resource/Bob_Cousy",
+            "http://dbpedia.org/resource/St._Bonaventure_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Davidson_College",
+            "http://dbpedia.org/resource/Lefty_Driesell",
+            "http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill"
+        ]
+    ]
+}

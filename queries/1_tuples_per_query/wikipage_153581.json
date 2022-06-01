@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Folkestone",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Leas_Cliff_Hall"
+        ]
+    ]
+}

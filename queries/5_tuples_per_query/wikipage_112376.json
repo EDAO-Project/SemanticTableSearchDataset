@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Ernie_Els"
+        ],
+        [
+            "http://dbpedia.org/resource/Dimension_Data_Pro-Am",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Nick_Price"
+        ],
+        [
+            "http://dbpedia.org/resource/South_African_PGA_Championship",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Nick_Price"
+        ],
+        [
+            "http://dbpedia.org/resource/Moroccan_Open",
+            "http://dbpedia.org/resource/Morocco",
+            "http://dbpedia.org/resource/Clinton_Whitelaw"
+        ],
+        [
+            "http://dbpedia.org/resource/Portuguese_Open",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Michael_Jonzon"
+        ]
+    ]
+}

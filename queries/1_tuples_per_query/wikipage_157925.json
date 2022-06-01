@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Poland",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Mikhail_Gorbachev"
+        ]
+    ]
+}

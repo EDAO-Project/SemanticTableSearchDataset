@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_European_Karate_Championships",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_European_Karate_Championships",
+            "http://dbpedia.org/resource/Santa_Cruz_de_Tenerife",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seoul_Subway_Line_1",
+            "http://dbpedia.org/resource/Soyosan_Station",
+            "http://dbpedia.org/resource/Incheon_Station",
+            "http://dbpedia.org/resource/Korail"
+        ]
+    ]
+}

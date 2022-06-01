@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oliver_Bronson_House",
+            "http://dbpedia.org/resource/U.S._Route_9",
+            "http://dbpedia.org/resource/Hudson,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Felpel_House",
+            "http://dbpedia.org/resource/Claverack,_New_York",
+            "http://dbpedia.org/resource/Claverack_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Kinderhook_Village_District",
+            "http://dbpedia.org/resource/U.S._Route_9",
+            "http://dbpedia.org/resource/Martin_Van_Buren"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornelius_S._Muller_House",
+            "http://dbpedia.org/resource/Claverack,_New_York",
+            "http://dbpedia.org/resource/Court-martial"
+        ],
+        [
+            "http://dbpedia.org/resource/Harriet_Phillips_Bungalow",
+            "http://dbpedia.org/resource/Claverack,_New_York",
+            "http://dbpedia.org/resource/Sears_Catalog_Home"
+        ]
+    ]
+}

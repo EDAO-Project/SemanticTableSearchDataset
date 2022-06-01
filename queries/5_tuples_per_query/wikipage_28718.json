@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yang_Chuan-kwang",
+            "http://dbpedia.org/resource/1960_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1960_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Chang_Cheng-hsien",
+            "http://dbpedia.org/resource/1992_Summer_Olympics",
+            "http://dbpedia.org/resource/Baseball_at_the_1992_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Chi_Shu-ju",
+            "http://dbpedia.org/resource/2000_Summer_Olympics",
+            "http://dbpedia.org/resource/Taekwondo_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Huang_Chih-hsiung",
+            "http://dbpedia.org/resource/2000_Summer_Olympics",
+            "http://dbpedia.org/resource/Taekwondo_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuo_Yi-hang",
+            "http://dbpedia.org/resource/2000_Summer_Olympics",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2000_Summer_Olympics"
+        ]
+    ]
+}

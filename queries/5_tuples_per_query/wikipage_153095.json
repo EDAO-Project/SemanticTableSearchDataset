@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Strachan",
+            "http://dbpedia.org/resource/Cowichan-Newcastle",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Lois_Haggen",
+            "http://dbpedia.org/resource/Grand_Forks-Greenwood",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Randolph_Harding",
+            "http://dbpedia.org/resource/Kaslo-Slocan",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Stupich",
+            "http://dbpedia.org/resource/Nanaimo_and_the_Islands",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Wesley_Drewett_Black",
+            "http://dbpedia.org/resource/Nelson-Creston",
+            "http://dbpedia.org/resource/British_Columbia_Social_Credit_Party"
+        ]
+    ]
+}

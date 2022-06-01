@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lars_Conrad",
+            "http://dbpedia.org/resource/Nicolae_Butacu",
+            "http://dbpedia.org/resource/Nicolae_Ivan"
+        ],
+        [
+            "http://dbpedia.org/resource/Lars_Conrad",
+            "http://dbpedia.org/resource/Andrew_Clayton",
+            "http://dbpedia.org/resource/Konstantin_Dubrovin"
+        ],
+        [
+            "http://dbpedia.org/resource/Emiliano_Brembilla",
+            "http://dbpedia.org/resource/Stefan_Pohl",
+            "http://dbpedia.org/resource/Dimitrios_Manganas"
+        ],
+        [
+            "http://dbpedia.org/resource/Mariusz_Siembida",
+            "http://dbpedia.org/resource/Tomislav_Karlo",
+            "http://dbpedia.org/resource/Stev_Theloke"
+        ],
+        [
+            "http://dbpedia.org/resource/Mariusz_Siembida",
+            "http://dbpedia.org/resource/Stev_Theloke",
+            "http://dbpedia.org/resource/Emanuele_Merisi"
+        ]
+    ]
+}

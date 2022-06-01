@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santiago",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Chinese_Taipei",
+            "http://dbpedia.org/resource/South_Korea"
+        ]
+    ]
+}

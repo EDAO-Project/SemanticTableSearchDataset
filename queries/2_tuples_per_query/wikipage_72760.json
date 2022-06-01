@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1887_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Ed_Daily",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/Polo_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/1888_in_baseball",
+            "http://dbpedia.org/resource/Kid_Gleason",
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/South_End_Grounds"
+        ]
+    ]
+}

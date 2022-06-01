@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/23rd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Phil_Ramone",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Quincy_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/28th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Phil_Collins",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/David_Foster"
+        ]
+    ]
+}

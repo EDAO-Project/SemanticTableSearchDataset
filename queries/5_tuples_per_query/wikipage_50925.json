@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chiburekki",
+            "http://dbpedia.org/resource/Central_Asia",
+            "http://dbpedia.org/resource/Turnover"
+        ],
+        [
+            "http://dbpedia.org/resource/Jin_deui",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Rice_flour"
+        ],
+        [
+            "http://dbpedia.org/resource/Chakli",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Vigna_mungo"
+        ],
+        [
+            "http://dbpedia.org/resource/Jalebi",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi"
+        ],
+        [
+            "http://dbpedia.org/resource/Namak_para",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Indian_subcontinent"
+        ]
+    ]
+}

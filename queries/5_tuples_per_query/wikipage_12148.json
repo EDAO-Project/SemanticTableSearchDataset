@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brant_North",
+            "http://dbpedia.org/resource/William_Bruce_Wood",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Brant_South",
+            "http://dbpedia.org/resource/Arthur_Sturgis_Hardy",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_North",
+            "http://dbpedia.org/resource/Daniel_McNaughton",
+            "http://dbpedia.org/resource/Protestant_Protective_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_South",
+            "http://dbpedia.org/resource/Reuben_Eldridge_Truax",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Dufferin_County",
+            "http://dbpedia.org/resource/William_Dynes",
+            "http://dbpedia.org/resource/Patrons_of_Industry"
+        ]
+    ]
+}

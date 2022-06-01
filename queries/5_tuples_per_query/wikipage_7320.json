@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edward_G._Acheson_House",
+            "http://dbpedia.org/resource/Monongahela,_Pennsylvania",
+            "http://dbpedia.org/resource/Washington_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Edward_Goodrich_Acheson"
+        ],
+        [
+            "http://dbpedia.org/resource/Allegheny_County_Courthouse",
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/Allegheny_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Henry_Hobson_Richardson"
+        ],
+        [
+            "http://dbpedia.org/resource/Allegheny_Portage_Railroad",
+            "http://dbpedia.org/resource/Johnstown,_Pennsylvania",
+            "http://dbpedia.org/resource/Blair_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Allegheny_Mountains"
+        ],
+        [
+            "http://dbpedia.org/resource/Beth_Sholom_Synagogue",
+            "http://dbpedia.org/resource/Elkins_Park,_Pennsylvania",
+            "http://dbpedia.org/resource/Montgomery_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/Bost_Building",
+            "http://dbpedia.org/resource/Homestead,_Pennsylvania",
+            "http://dbpedia.org/resource/Allegheny_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Amalgamated_Association_of_Iron_and_Steel_Workers"
+        ]
+    ]
+}

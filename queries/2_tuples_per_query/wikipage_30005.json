@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ad-lib_Night",
+            "http://dbpedia.org/resource/Lee_Yoon-ki",
+            "http://dbpedia.org/resource/Han_Hyo-joo"
+        ],
+        [
+            "http://dbpedia.org/resource/Cruel_Winter_Blues",
+            "http://dbpedia.org/resource/Lee_Jeong-beom",
+            "http://dbpedia.org/resource/Sol_Kyung-gu"
+        ]
+    ]
+}

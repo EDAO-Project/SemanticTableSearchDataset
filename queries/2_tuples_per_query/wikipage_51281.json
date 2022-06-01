@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/UBC_Thunderbirds",
+            "http://dbpedia.org/resource/CBU_Capers",
+            "http://dbpedia.org/resource/PEPS"
+        ],
+        [
+            "http://dbpedia.org/resource/York_Lions",
+            "http://dbpedia.org/resource/UBC_Thunderbirds",
+            "http://dbpedia.org/resource/Varsity_Stadium"
+        ]
+    ]
+}

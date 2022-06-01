@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Putney_Pier",
+            "http://dbpedia.org/resource/Putney_Bridge_tube_station",
+            "http://dbpedia.org/resource/Fulham"
+        ]
+    ]
+}

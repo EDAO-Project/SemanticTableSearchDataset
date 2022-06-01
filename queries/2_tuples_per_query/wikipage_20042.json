@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/September_11_attacks",
+            "http://dbpedia.org/resource/Islamism",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/World_Trade_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Yazidi_communities_bombings",
+            "http://dbpedia.org/resource/Islamism",
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Qahtaniyah,_Iraq"
+        ]
+    ]
+}

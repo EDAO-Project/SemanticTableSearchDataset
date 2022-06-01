@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_Philharmonic",
+            "http://dbpedia.org/resource/Leonard_Bernstein",
+            "http://dbpedia.org/resource/Sony_Classical_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Orchestra",
+            "http://dbpedia.org/resource/Eugene_Ormandy",
+            "http://dbpedia.org/resource/RCA_Red_Seal_Records"
+        ]
+    ]
+}

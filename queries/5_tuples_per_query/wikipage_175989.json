@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sicily",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Palermo"
+        ],
+        [
+            "http://dbpedia.org/resource/Sardinia",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Cagliari"
+        ],
+        [
+            "http://dbpedia.org/resource/Corsica",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Ajaccio"
+        ],
+        [
+            "http://dbpedia.org/resource/Crete",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Heraklion"
+        ],
+        [
+            "http://dbpedia.org/resource/Majorca",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Palma,_Majorca"
+        ]
+    ]
+}

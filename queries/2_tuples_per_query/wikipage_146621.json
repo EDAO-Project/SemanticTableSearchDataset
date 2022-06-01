@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ballersdorf",
+            "http://dbpedia.org/resource/Balschwiller",
+            "http://dbpedia.org/resource/Bellemagny",
+            "http://dbpedia.org/resource/Bendorf,_Haut-Rhin"
+        ],
+        [
+            "http://dbpedia.org/resource/Berentzwiller",
+            "http://dbpedia.org/resource/Bettendorf,_Haut-Rhin",
+            "http://dbpedia.org/resource/Bettlach,_Haut-Rhin",
+            "http://dbpedia.org/resource/Biederthal"
+        ]
+    ]
+}

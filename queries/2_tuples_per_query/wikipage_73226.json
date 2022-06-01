@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ventura_County,_California",
+            "http://dbpedia.org/resource/Mira_Monte,_California",
+            "http://dbpedia.org/resource/California_State_Route_150"
+        ],
+        [
+            "http://dbpedia.org/resource/Kern_County,_California",
+            "http://dbpedia.org/resource/Taft,_California",
+            "http://dbpedia.org/resource/U.S._Route_399"
+        ]
+    ]
+}

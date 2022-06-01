@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bellwoods",
+            "http://dbpedia.org/resource/Arthur_Roebuck",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bracondale",
+            "http://dbpedia.org/resource/Lionel_Conacher",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ]
+    ]
+}

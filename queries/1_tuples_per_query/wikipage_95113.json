@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agaricales",
+            "http://dbpedia.org/resource/Agaricaceae",
+            "http://dbpedia.org/resource/Agaricus"
+        ]
+    ]
+}

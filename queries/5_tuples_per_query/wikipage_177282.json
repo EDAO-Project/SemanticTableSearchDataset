@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charlie_Bartson",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/1890_Chicago_Pirates_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlie_Bastian",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/1890_Chicago_Pirates_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Boyle",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/1890_Chicago_Pirates_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Comiskey",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/1890_Chicago_Pirates_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Dell_Darling",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/1890_Chicago_Pirates_season"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Lodger:_A_Story_of_the_London_Fog",
+            "http://dbpedia.org/resource/Alfred_Hitchcock",
+            "http://dbpedia.org/resource/Ivor_Novello"
+        ]
+    ]
+}

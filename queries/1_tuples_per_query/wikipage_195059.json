@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angers",
+            "http://dbpedia.org/resource/Angers_tramway",
+            "http://dbpedia.org/resource/Tram"
+        ]
+    ]
+}

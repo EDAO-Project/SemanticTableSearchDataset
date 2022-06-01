@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Return_of_the_Jedi",
+            "http://dbpedia.org/resource/Lucasfilm",
+            "http://dbpedia.org/resource/Mark_Hamill",
+            "http://dbpedia.org/resource/Richard_Marquand"
+        ],
+        [
+            "http://dbpedia.org/resource/Terms_of_Endearment",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Shirley_MacLaine",
+            "http://dbpedia.org/resource/James_L._Brooks"
+        ],
+        [
+            "http://dbpedia.org/resource/Flashdance",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Jennifer_Beals",
+            "http://dbpedia.org/resource/Adrian_Lyne"
+        ],
+        [
+            "http://dbpedia.org/resource/Trading_Places",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Dan_Aykroyd",
+            "http://dbpedia.org/resource/John_Landis"
+        ],
+        [
+            "http://dbpedia.org/resource/WarGames",
+            "http://dbpedia.org/resource/United_Artists",
+            "http://dbpedia.org/resource/Matthew_Broderick",
+            "http://dbpedia.org/resource/John_Badham"
+        ]
+    ]
+}

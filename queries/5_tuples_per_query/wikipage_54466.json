@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/O._R._Tambo_International_Airport",
+            "http://dbpedia.org/resource/Johannesburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Cairo_International_Airport",
+            "http://dbpedia.org/resource/Cairo"
+        ],
+        [
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Gran_Canaria_Airport",
+            "http://dbpedia.org/resource/Las_Palmas"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Cape_Town_International_Airport",
+            "http://dbpedia.org/resource/Cape_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Sharm_el-Sheikh_International_Airport",
+            "http://dbpedia.org/resource/Sharm_el-Sheikh"
+        ]
+    ]
+}

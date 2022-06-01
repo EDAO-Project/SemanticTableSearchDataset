@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Prince_and_Me",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Julia_Stiles"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnson_Family_Vacation",
+            "http://dbpedia.org/resource/Fox_Searchlight_Pictures",
+            "http://dbpedia.org/resource/Cedric_the_Entertainer"
+        ]
+    ]
+}

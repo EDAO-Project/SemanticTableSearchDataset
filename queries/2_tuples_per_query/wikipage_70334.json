@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anderson_Lodge",
+            "http://dbpedia.org/resource/Shoshone_National_Forest",
+            "http://dbpedia.org/resource/Meeteetse,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_14",
+            "http://dbpedia.org/resource/Cody,_Wyoming",
+            "http://dbpedia.org/resource/Fumarole"
+        ]
+    ]
+}

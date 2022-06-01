@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kerri_Walsh_Jennings",
+            "http://dbpedia.org/resource/Adriana_Behar",
+            "http://dbpedia.org/resource/Juliana_Silva"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerri_Walsh_Jennings",
+            "http://dbpedia.org/resource/Holly_McPeak",
+            "http://dbpedia.org/resource/Adriana_Behar"
+        ],
+        [
+            "http://dbpedia.org/resource/Holly_McPeak",
+            "http://dbpedia.org/resource/Jenny_Johnson_Jordan",
+            "http://dbpedia.org/resource/Adriana_Behar"
+        ],
+        [
+            "http://dbpedia.org/resource/Adriana_Behar",
+            "http://dbpedia.org/resource/Natalie_Cook",
+            "http://dbpedia.org/resource/Nicole_Schnyder-Benoit"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerri_Walsh_Jennings",
+            "http://dbpedia.org/resource/Adriana_Behar",
+            "http://dbpedia.org/resource/Holly_McPeak"
+        ]
+    ]
+}

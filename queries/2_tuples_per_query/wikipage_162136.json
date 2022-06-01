@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lloydminster",
+            "http://dbpedia.org/resource/CKSA-DT",
+            "http://dbpedia.org/resource/CBC_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Lloydminster",
+            "http://dbpedia.org/resource/CITL-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ]
+    ]
+}

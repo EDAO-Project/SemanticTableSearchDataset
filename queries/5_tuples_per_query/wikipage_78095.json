@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fort_Worth,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Caravan_of_Dreams"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Worth,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Caravan_of_Dreams"
+        ],
+        [
+            "http://dbpedia.org/resource/Union_Township,_Union_County,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kean_University"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Carnegie_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Hartford,_Connecticut",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Agora_Theatre_and_Ballroom"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abdallah_al-Ajmi",
+            "http://dbpedia.org/resource/Kuwait",
+            "http://dbpedia.org/resource/Suicide_attack"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_al-Bahlul",
+            "http://dbpedia.org/resource/Yemen",
+            "http://dbpedia.org/resource/Guantanamo_military_commission"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamil_el_Banna",
+            "http://dbpedia.org/resource/Jordan",
+            "http://dbpedia.org/resource/The_Gambia"
+        ],
+        [
+            "http://dbpedia.org/resource/Juma_al-Dossary",
+            "http://dbpedia.org/resource/Bahrain",
+            "http://dbpedia.org/resource/Hunger_strike"
+        ],
+        [
+            "http://dbpedia.org/resource/Saudi_detainees_at_Guantanamo_Bay",
+            "http://dbpedia.org/resource/Saudi_Arabia",
+            "http://dbpedia.org/resource/Chechnya"
+        ]
+    ]
+}

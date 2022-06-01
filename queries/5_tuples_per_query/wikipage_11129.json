@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edward_Gal",
+            "http://dbpedia.org/resource/Laura_Tomlinson",
+            "http://dbpedia.org/resource/Steffen_Peters"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Gal",
+            "http://dbpedia.org/resource/Laura_Tomlinson",
+            "http://dbpedia.org/resource/Steffen_Peters"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

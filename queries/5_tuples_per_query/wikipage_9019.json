@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santa_Susanna",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Carlo_Maderno"
+        ],
+        [
+            "http://dbpedia.org/resource/Wallenstein_Palace",
+            "http://dbpedia.org/resource/Prague",
+            "http://dbpedia.org/resource/Giovanni_de_Galliano_Pieroni"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Carlo_alle_Quattro_Fontane",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Francesco_Borromini"
+        ],
+        [
+            "http://dbpedia.org/resource/Church_of_San_Lorenzo,_Turin",
+            "http://dbpedia.org/resource/Turin",
+            "http://dbpedia.org/resource/Guarino_Guarini"
+        ],
+        [
+            "http://dbpedia.org/resource/Les_Invalides",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/Jules_Hardouin-Mansart"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Galatsi_Olympic_Hall",
+            "http://dbpedia.org/resource/2004_Summer_Olympics",
+            "http://dbpedia.org/resource/Gymnastics_at_the_2004_Summer_Olympics"
+        ]
+    ]
+}

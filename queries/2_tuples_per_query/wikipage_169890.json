@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Propylaea",
+            "http://dbpedia.org/resource/Athens",
+            "http://dbpedia.org/resource/Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/Francis_of_Assisi",
+            "http://dbpedia.org/resource/Assisi",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

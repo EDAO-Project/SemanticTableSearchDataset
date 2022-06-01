@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guttenberg,_New_Jersey",
+            "http://dbpedia.org/resource/New_York_metropolitan_area",
+            "http://dbpedia.org/resource/New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Union_City,_New_Jersey",
+            "http://dbpedia.org/resource/New_York_metropolitan_area",
+            "http://dbpedia.org/resource/New_Jersey"
+        ]
+    ]
+}

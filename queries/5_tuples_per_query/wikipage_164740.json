@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jarvis_Pass",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/Kakwa_Provincial_Park_and_Protected_Area"
+        ],
+        [
+            "http://dbpedia.org/resource/Kakwa_Pass",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/Kakwa_Provincial_Park_and_Protected_Area"
+        ],
+        [
+            "http://dbpedia.org/resource/Carcajou_Pass",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Jasper_National_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Yellowhead_Pass",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Jasper_National_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Tonquin_Pass",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Jasper_National_Park"
+        ]
+    ]
+}

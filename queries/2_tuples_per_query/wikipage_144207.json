@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_U.S._Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/Carol_Heiss",
+            "http://dbpedia.org/resource/Barbara_Roles",
+            "http://dbpedia.org/resource/Laurence_Owen",
+            "http://dbpedia.org/resource/Stephanie_Westerfeld"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_U.S._Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Long_Beach,_California",
+            "http://dbpedia.org/resource/Janet_Lynn",
+            "http://dbpedia.org/resource/Julie_Lynn_Holmes",
+            "http://dbpedia.org/resource/Suna_Murray",
+            "http://dbpedia.org/resource/Dorothy_Hamill"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DWJM",
+            "http://dbpedia.org/resource/Alternative_rock",
+            "http://dbpedia.org/resource/Metro_Manila"
+        ],
+        [
+            "http://dbpedia.org/resource/DWAV",
+            "http://dbpedia.org/resource/Rhythmic_contemporary",
+            "http://dbpedia.org/resource/Metro_Manila"
+        ],
+        [
+            "http://dbpedia.org/resource/DWTM",
+            "http://dbpedia.org/resource/Contemporary_hit_radio",
+            "http://dbpedia.org/resource/Metro_Manila"
+        ],
+        [
+            "http://dbpedia.org/resource/DZMB",
+            "http://dbpedia.org/resource/Adult_contemporary_music",
+            "http://dbpedia.org/resource/Metro_Manila"
+        ],
+        [
+            "http://dbpedia.org/resource/DWKY",
+            "http://dbpedia.org/resource/Rhythmic_contemporary",
+            "http://dbpedia.org/resource/Metro_Manila"
+        ]
+    ]
+}

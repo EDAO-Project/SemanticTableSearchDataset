@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anastasija_Sevastova",
+            "http://dbpedia.org/resource/Svetlana_Kuznetsova",
+            "http://dbpedia.org/resource/Maria_Sharapova",
+            "http://dbpedia.org/resource/Victoria_Azarenka"
+        ],
+        [
+            "http://dbpedia.org/resource/Vania_King",
+            "http://dbpedia.org/resource/Alberta_Brianti",
+            "http://dbpedia.org/resource/Yanina_Wickmayer",
+            "http://dbpedia.org/resource/Marion_Bartoli"
+        ]
+    ]
+}

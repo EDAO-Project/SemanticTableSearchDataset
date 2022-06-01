@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamamatsu_Arena",
+            "http://dbpedia.org/resource/Hamamatsu",
+            "http://dbpedia.org/resource/Japan"
+        ]
+    ]
+}

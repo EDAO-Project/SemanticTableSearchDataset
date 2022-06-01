@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stuart_Burrows",
+            "http://dbpedia.org/resource/Oscar_Wilde",
+            "http://dbpedia.org/resource/Soap"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Noakes",
+            "http://dbpedia.org/resource/The_Corn_Is_Green",
+            "http://dbpedia.org/resource/Victoria_and_Albert_Museum"
+        ]
+    ]
+}

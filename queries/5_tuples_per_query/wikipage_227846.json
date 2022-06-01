@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_in_baseball",
+            "http://dbpedia.org/resource/Robin_Ventura",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Oklahoma_State_Cowboys_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_in_baseball",
+            "http://dbpedia.org/resource/Scott_Bryant",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Texas_Longhorns_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_in_baseball",
+            "http://dbpedia.org/resource/Frank_Rodriguez",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Howard_College"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_in_baseball",
+            "http://dbpedia.org/resource/Brooks_Kieschnick",
+            "http://dbpedia.org/resource/Utility_player",
+            "http://dbpedia.org/resource/Texas_Longhorns_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_in_baseball",
+            "http://dbpedia.org/resource/Brooks_Kieschnick",
+            "http://dbpedia.org/resource/Utility_player",
+            "http://dbpedia.org/resource/Texas_Longhorns_baseball"
+        ]
+    ]
+}

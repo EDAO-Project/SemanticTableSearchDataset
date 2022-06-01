@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gold_Coast_Titans",
+            "http://dbpedia.org/resource/Robina_Stadium",
+            "http://dbpedia.org/resource/Manu_Vatuvei",
+            "http://dbpedia.org/resource/Brett_Seymour"
+        ],
+        [
+            "http://dbpedia.org/resource/Manly_Warringah_Sea_Eagles",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium",
+            "http://dbpedia.org/resource/Jerome_Ropati",
+            "http://dbpedia.org/resource/James_Maloney"
+        ],
+        [
+            "http://dbpedia.org/resource/Canterbury-Bankstown_Bulldogs",
+            "http://dbpedia.org/resource/Stadium_Australia",
+            "http://dbpedia.org/resource/Brent_Tate",
+            "http://dbpedia.org/resource/James_Maloney"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium",
+            "http://dbpedia.org/resource/Jerome_Ropati",
+            "http://dbpedia.org/resource/Brett_Seymour"
+        ],
+        [
+            "http://dbpedia.org/resource/Wests_Tigers",
+            "http://dbpedia.org/resource/Campbelltown_Stadium",
+            "http://dbpedia.org/resource/Joel_Moon",
+            "http://dbpedia.org/resource/Brett_Seymour"
+        ]
+    ]
+}

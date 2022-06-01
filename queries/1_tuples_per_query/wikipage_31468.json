@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1923_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Piet_Moeskops",
+            "http://dbpedia.org/resource/Gabriel_Poulain",
+            "http://dbpedia.org/resource/Ernst_Kaufmann"
+        ]
+    ]
+}

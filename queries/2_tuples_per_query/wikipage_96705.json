@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Koji_Ito",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Athletics_at_the_1998_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Koji_Ito",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Athletics_at_the_1998_Asian_Games"
+        ]
+    ]
+}

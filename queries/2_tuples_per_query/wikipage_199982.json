@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Walter_Brewster_House",
+            "http://dbpedia.org/resource/Brewster,_New_York",
+            "http://dbpedia.org/resource/Greek_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Cold_Spring_Cemetery_Gatehouse",
+            "http://dbpedia.org/resource/Nelsonville,_New_York",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ]
+    ]
+}

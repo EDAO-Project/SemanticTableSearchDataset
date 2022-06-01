@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Melzer",
+            "http://dbpedia.org/resource/San_Antonio_Spurs",
+            "http://dbpedia.org/resource/New_Zealand_Breakers"
+        ],
+        [
+            "http://dbpedia.org/resource/Keith_Bogans",
+            "http://dbpedia.org/resource/Orlando_Magic",
+            "http://dbpedia.org/resource/Houston_Rockets"
+        ]
+    ]
+}

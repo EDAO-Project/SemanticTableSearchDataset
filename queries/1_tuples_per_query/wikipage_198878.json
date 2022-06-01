@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boise_State_University",
+            "http://dbpedia.org/resource/Boise_State_Broncos",
+            "http://dbpedia.org/resource/Boise,_Idaho",
+            "http://dbpedia.org/resource/Mountain_West_Conference"
+        ]
+    ]
+}

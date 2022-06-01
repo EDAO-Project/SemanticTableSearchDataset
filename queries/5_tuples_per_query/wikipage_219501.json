@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_259",
+            "http://dbpedia.org/resource/Nacogdoches_County,_Texas",
+            "http://dbpedia.org/resource/Oklahoma"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_271",
+            "http://dbpedia.org/resource/Smith_County,_Texas",
+            "http://dbpedia.org/resource/Oklahoma"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_175",
+            "http://dbpedia.org/resource/Dallas_County,_Texas",
+            "http://dbpedia.org/resource/Dallas"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_277",
+            "http://dbpedia.org/resource/Dimmit_County,_Texas",
+            "http://dbpedia.org/resource/Oklahoma"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_377_in_Texas",
+            "http://dbpedia.org/resource/Val_Verde_County,_Texas",
+            "http://dbpedia.org/resource/Denton,_Texas"
+        ]
+    ]
+}

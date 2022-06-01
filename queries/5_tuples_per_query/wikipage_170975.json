@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/27th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Louis_Hodgson",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Margaret_Birch",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/30th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Margaret_Birch",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/31st_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Margaret_Birch",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/32nd_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Margaret_Birch",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

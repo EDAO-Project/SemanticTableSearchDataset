@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Yuri_Gagarin",
+            "http://dbpedia.org/resource/Vostok_1"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Alan_Shepard",
+            "http://dbpedia.org/resource/Mercury-Redstone_3"
+        ]
+    ]
+}

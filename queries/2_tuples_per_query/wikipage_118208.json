@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blodpalt",
+            "http://dbpedia.org/resource/Blodpalt",
+            "http://dbpedia.org/resource/Dumpling"
+        ],
+        [
+            "http://dbpedia.org/resource/Falukorv",
+            "http://dbpedia.org/resource/Falukorv",
+            "http://dbpedia.org/resource/Falun"
+        ]
+    ]
+}

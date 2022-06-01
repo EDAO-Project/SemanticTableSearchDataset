@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1926",
+            "http://dbpedia.org/resource/Matti_Raivio",
+            "http://dbpedia.org/resource/Tauno_Lappalainen",
+            "http://dbpedia.org/resource/Olav_Kjelbotn"
+        ],
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1929",
+            "http://dbpedia.org/resource/Anselm_Knuuttila",
+            "http://dbpedia.org/resource/Veli_Saarinen",
+            "http://dbpedia.org/resource/Olle_Hansson"
+        ],
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1931",
+            "http://dbpedia.org/resource/Ole_Stenen",
+            "http://dbpedia.org/resource/Martin_P._Vangsli",
+            "http://dbpedia.org/resource/Karl_Lindberg"
+        ],
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1934",
+            "http://dbpedia.org/resource/Elis_Wiklund",
+            "http://dbpedia.org/resource/Nils-Joel_Englund",
+            "http://dbpedia.org/resource/Olli_Remes"
+        ],
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1935",
+            "http://dbpedia.org/resource/Nils-Joel_Englund",
+            "http://dbpedia.org/resource/Klaes_Karppinen",
+            "http://dbpedia.org/resource/Trygve_Brodahl"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1985_Formula_One_season",
+            "http://dbpedia.org/resource/Niki_Lauda",
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/1985_Dutch_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Formula_One_season",
+            "http://dbpedia.org/resource/Alain_Prost",
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/1984_Dutch_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Formula_One_season",
+            "http://dbpedia.org/resource/Didier_Pironi",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/1982_Dutch_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Formula_One_season",
+            "http://dbpedia.org/resource/Alain_Prost",
+            "http://dbpedia.org/resource/Renault_in_Formula_One",
+            "http://dbpedia.org/resource/1981_Dutch_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Formula_One_season",
+            "http://dbpedia.org/resource/Nelson_Piquet",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/1980_Dutch_Grand_Prix"
+        ]
+    ]
+}

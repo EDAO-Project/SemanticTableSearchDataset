@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brands_Hatch",
+            "http://dbpedia.org/resource/Kent",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Masaryk_Circuit",
+            "http://dbpedia.org/resource/Brno",
+            "http://dbpedia.org/resource/Czech_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Chengdu_Goldenport_Circuit",
+            "http://dbpedia.org/resource/Chengdu",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubai_Autodrome",
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Durban_street_circuit",
+            "http://dbpedia.org/resource/Durban",
+            "http://dbpedia.org/resource/South_Africa"
+        ]
+    ]
+}

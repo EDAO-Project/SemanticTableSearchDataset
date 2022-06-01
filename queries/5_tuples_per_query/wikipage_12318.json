@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brose_Baskets",
+            "http://dbpedia.org/resource/Bamberg",
+            "http://dbpedia.org/resource/Brose_Arena",
+            "http://dbpedia.org/resource/Basketball_Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/PBC_CSKA_Moscow",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/CSKA_Universal_Sports_Hall",
+            "http://dbpedia.org/resource/Russian_Basketball_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/BC_Lietuvos_rytas",
+            "http://dbpedia.org/resource/Vilnius",
+            "http://dbpedia.org/resource/Siemens_Arena",
+            "http://dbpedia.org/resource/Eurocup_Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Pallacanestro_Virtus_Roma",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/PalaLottomatica",
+            "http://dbpedia.org/resource/Lega_Basket_Serie_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Mens_Sana_1871_Basket",
+            "http://dbpedia.org/resource/Siena",
+            "http://dbpedia.org/resource/Palasport_Mens_Sana",
+            "http://dbpedia.org/resource/Lega_Basket_Serie_A"
+        ]
+    ]
+}

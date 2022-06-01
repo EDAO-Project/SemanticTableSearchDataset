@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edward,_King_of_Portugal",
+            "http://dbpedia.org/resource/Peter,_Duke_of_Coimbra",
+            "http://dbpedia.org/resource/John_I_of_Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Afonso_V_of_Portugal",
+            "http://dbpedia.org/resource/Ferdinand,_Duke_of_Viseu",
+            "http://dbpedia.org/resource/Edward,_King_of_Portugal"
+        ]
+    ]
+}

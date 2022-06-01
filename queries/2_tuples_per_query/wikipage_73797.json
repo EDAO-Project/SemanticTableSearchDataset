@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kennebec_River",
+            "http://dbpedia.org/resource/Augusta,_Maine",
+            "http://dbpedia.org/resource/Franklin_County,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/Brown_Memorial_Library",
+            "http://dbpedia.org/resource/Clinton,_Maine",
+            "http://dbpedia.org/resource/John_Calvin_Stevens"
+        ]
+    ]
+}

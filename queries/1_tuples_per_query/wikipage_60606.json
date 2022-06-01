@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Red_Bull_Ring",
+            "http://dbpedia.org/resource/Spielberg,_Styria",
+            "http://dbpedia.org/resource/Austrian_motorcycle_Grand_Prix"
+        ]
+    ]
+}

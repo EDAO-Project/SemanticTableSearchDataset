@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Valletta",
+            "http://dbpedia.org/resource/Marsa,_Malta",
+            "http://dbpedia.org/resource/Senglea",
+            "http://dbpedia.org/resource/Fgura"
+        ],
+        [
+            "http://dbpedia.org/resource/Valletta",
+            "http://dbpedia.org/resource/Marsa,_Malta",
+            "http://dbpedia.org/resource/Malta_International_Airport",
+            "http://dbpedia.org/resource/Gudja"
+        ],
+        [
+            "http://dbpedia.org/resource/Valletta",
+            "http://dbpedia.org/resource/Marsa,_Malta",
+            "http://dbpedia.org/resource/Qrendi",
+            "http://dbpedia.org/resource/Luqa"
+        ],
+        [
+            "http://dbpedia.org/resource/Valletta",
+            "http://dbpedia.org/resource/Msida",
+            "http://dbpedia.org/resource/Attard",
+            "http://dbpedia.org/resource/Paceville"
+        ],
+        [
+            "http://dbpedia.org/resource/Valletta",
+            "http://dbpedia.org/resource/Msida",
+            "http://dbpedia.org/resource/Birkirkara",
+            "http://dbpedia.org/resource/Mater_Dei_Hospital"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blandin",
+            "http://dbpedia.org/resource/Bonnefamille",
+            "http://dbpedia.org/resource/Bourgoin-Jallieu"
+        ]
+    ]
+}

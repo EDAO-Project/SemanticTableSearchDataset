@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_Baptist_College",
+            "http://dbpedia.org/resource/Conway,_Arkansas",
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Midlands_Collegiate_Athletic_Conference"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bures-les-Monts",
+            "http://dbpedia.org/resource/Cahagnes",
+            "http://dbpedia.org/resource/Campagnolles"
+        ],
+        [
+            "http://dbpedia.org/resource/Campeaux,_Calvados",
+            "http://dbpedia.org/resource/Carville,_Calvados",
+            "http://dbpedia.org/resource/Champ-du-Boult"
+        ]
+    ]
+}

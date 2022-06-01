@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Korea_national_football_team",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Football_at_the_1958_Asian_Games"
+        ]
+    ]
+}

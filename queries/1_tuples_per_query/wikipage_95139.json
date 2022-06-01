@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mol,_Belgium",
+            "http://dbpedia.org/resource/Klaas_Vantornout",
+            "http://dbpedia.org/resource/Sven_Nys",
+            "http://dbpedia.org/resource/Kevin_Pauwels"
+        ]
+    ]
+}

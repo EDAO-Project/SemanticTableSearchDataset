@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Borussia_Dortmund",
+            "http://dbpedia.org/resource/Westfalenstadion",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/Camp_Nou",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

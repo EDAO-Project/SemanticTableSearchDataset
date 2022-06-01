@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jerry_Rice",
+            "http://dbpedia.org/resource/Wide_receiver",
+            "http://dbpedia.org/resource/San_Francisco_49ers"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Athens_Regional_Medical_Center",
+            "http://dbpedia.org/resource/Athens,_Georgia",
+            "http://dbpedia.org/resource/Clarke_County,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Medical_Center",
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/Fulton_County,_Georgia"
+        ]
+    ]
+}

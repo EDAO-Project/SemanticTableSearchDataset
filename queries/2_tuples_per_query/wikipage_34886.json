@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dane_Coles",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Wellington_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Hore",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Taranaki_Rugby_Football_Union"
+        ]
+    ]
+}

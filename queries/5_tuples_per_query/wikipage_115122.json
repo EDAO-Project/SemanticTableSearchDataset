@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Martin_Brodeur",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/New_Jersey_Devils"
+        ],
+        [
+            "http://dbpedia.org/resource/Roberto_Luongo",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Florida_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Marty_Turco",
+            "http://dbpedia.org/resource/Sault_Ste._Marie,_Ontario",
+            "http://dbpedia.org/resource/Dallas_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Rob_Blake",
+            "http://dbpedia.org/resource/Simcoe,_Ontario",
+            "http://dbpedia.org/resource/Colorado_Avalanche"
+        ],
+        [
+            "http://dbpedia.org/resource/Jay_Bouwmeester",
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/Florida_Panthers"
+        ]
+    ]
+}

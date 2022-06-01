@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/M1_motorway",
+            "http://dbpedia.org/resource/Leeds",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/M4_motorway",
+            "http://dbpedia.org/resource/Chiswick",
+            "http://dbpedia.org/resource/Pont_Abraham_services"
+        ],
+        [
+            "http://dbpedia.org/resource/M5_motorway",
+            "http://dbpedia.org/resource/West_Bromwich",
+            "http://dbpedia.org/resource/Exeter"
+        ],
+        [
+            "http://dbpedia.org/resource/M6_motorway",
+            "http://dbpedia.org/resource/Gretna,_Dumfries_and_Galloway",
+            "http://dbpedia.org/resource/Catthorpe"
+        ],
+        [
+            "http://dbpedia.org/resource/M6_Toll",
+            "http://dbpedia.org/resource/Cheslyn_Hay",
+            "http://dbpedia.org/resource/Coleshill,_Warwickshire"
+        ]
+    ]
+}

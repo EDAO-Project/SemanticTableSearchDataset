@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algonquian_peoples",
+            "http://dbpedia.org/resource/Algic_languages",
+            "http://dbpedia.org/resource/North_America"
+        ],
+        [
+            "http://dbpedia.org/resource/Apache",
+            "http://dbpedia.org/resource/Na-Dene_languages",
+            "http://dbpedia.org/resource/Southwestern_United_States"
+        ]
+    ]
+}

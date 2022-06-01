@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Orleans_Pelicans",
+            "http://dbpedia.org/resource/Randy_Foye",
+            "http://dbpedia.org/resource/Derrick_Favors",
+            "http://dbpedia.org/resource/Jamaal_Tinsley",
+            "http://dbpedia.org/resource/Smoothie_King_Center"
+        ]
+    ]
+}

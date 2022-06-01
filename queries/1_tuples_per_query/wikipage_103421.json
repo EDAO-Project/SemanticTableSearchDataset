@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tony_Butterfield",
+            "http://dbpedia.org/resource/Penrith_Panthers",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ]
+    ]
+}

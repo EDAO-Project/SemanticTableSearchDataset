@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Semyon_Varlamov",
+            "http://dbpedia.org/resource/Samara,_Russia",
+            "http://dbpedia.org/resource/Washington_Capitals"
+        ],
+        [
+            "http://dbpedia.org/resource/Vasily_Koshechkin",
+            "http://dbpedia.org/resource/Oskemen",
+            "http://dbpedia.org/resource/Metallurg_Magnitogorsk"
+        ],
+        [
+            "http://dbpedia.org/resource/Ilya_Nikulin",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Ak_Bars_Kazan"
+        ],
+        [
+            "http://dbpedia.org/resource/Dmitri_Kalinin",
+            "http://dbpedia.org/resource/Chelyabinsk",
+            "http://dbpedia.org/resource/Salavat_Yulaev_Ufa"
+        ],
+        [
+            "http://dbpedia.org/resource/Konstantin_Korneyev",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/HC_CSKA_Moscow"
+        ]
+    ]
+}

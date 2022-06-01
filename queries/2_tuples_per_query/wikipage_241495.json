@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Azumi_2:_Death_or_Love",
+            "http://dbpedia.org/resource/Azumi",
+            "http://dbpedia.org/resource/2005_in_film",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Live_action"
+        ],
+        [
+            "http://dbpedia.org/resource/Guyver:_Out_of_Control",
+            "http://dbpedia.org/resource/Bio_Booster_Armor_Guyver",
+            "http://dbpedia.org/resource/1986_in_film",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Animation"
+        ]
+    ]
+}

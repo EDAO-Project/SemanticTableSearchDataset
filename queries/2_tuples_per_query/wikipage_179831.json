@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Burnie_Dockers_Football_Club",
+            "http://dbpedia.org/resource/Burnie,_Tasmania",
+            "http://dbpedia.org/resource/West_Park_Oval",
+            "http://dbpedia.org/resource/West_Park_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Clarence_Football_Club",
+            "http://dbpedia.org/resource/Bellerive,_Tasmania",
+            "http://dbpedia.org/resource/Bellerive_Oval",
+            "http://dbpedia.org/resource/Bellerive_Oval"
+        ]
+    ]
+}

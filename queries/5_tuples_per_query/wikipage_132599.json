@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Racha_Thewa",
+            "http://dbpedia.org/resource/Bang_Phli_District",
+            "http://dbpedia.org/resource/Samut_Prakan_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Rai_Oi",
+            "http://dbpedia.org/resource/Phichai_District",
+            "http://dbpedia.org/resource/Uttaradit"
+        ],
+        [
+            "http://dbpedia.org/resource/Rim_Khong",
+            "http://dbpedia.org/resource/Chiang_Khong_District",
+            "http://dbpedia.org/resource/Chiang_Rai_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Rim_Kok",
+            "http://dbpedia.org/resource/Mueang_Chiang_Rai_District",
+            "http://dbpedia.org/resource/Chiang_Rai_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Rim_Nuea",
+            "http://dbpedia.org/resource/Mae_Rim_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ]
+    ]
+}

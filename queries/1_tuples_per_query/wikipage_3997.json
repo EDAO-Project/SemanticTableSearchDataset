@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Farragut",
+            "http://dbpedia.org/resource/European_Squadron",
+            "http://dbpedia.org/resource/Midshipman",
+            "http://dbpedia.org/resource/David_Dixon_Porter"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1876_Chicago_White_Stockings_season",
+            "http://dbpedia.org/resource/Albert_Spalding",
+            "http://dbpedia.org/resource/Louisville_Grays",
+            "http://dbpedia.org/resource/Louisville_Baseball_Park"
+        ]
+    ]
+}

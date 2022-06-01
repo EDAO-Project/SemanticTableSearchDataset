@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moore,_Oklahoma",
+            "http://dbpedia.org/resource/Cleveland_County,_Oklahoma",
+            "http://dbpedia.org/resource/1999_Oklahoma_tornado_outbreak"
+        ],
+        [
+            "http://dbpedia.org/resource/Tuscaloosa,_Alabama",
+            "http://dbpedia.org/resource/Tuscaloosa_County,_Alabama",
+            "http://dbpedia.org/resource/December_2000_Tuscaloosa_tornado"
+        ]
+    ]
+}

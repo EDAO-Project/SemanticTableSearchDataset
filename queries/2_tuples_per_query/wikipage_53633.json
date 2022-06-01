@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seoul_Olympic_Stadium",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Seoul_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Seoul_World_Cup_Stadium",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/South_Korea_national_football_team"
+        ]
+    ]
+}

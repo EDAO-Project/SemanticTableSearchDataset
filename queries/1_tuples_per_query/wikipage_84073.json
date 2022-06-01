@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Winston_Abraham",
+            "http://dbpedia.org/resource/Fremantle_Football_Club",
+            "http://dbpedia.org/resource/1995_AFL_season"
+        ]
+    ]
+}

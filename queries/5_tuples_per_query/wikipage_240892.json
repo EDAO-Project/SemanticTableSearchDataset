@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rosemary_Casals",
+            "http://dbpedia.org/resource/Tracy_Austin",
+            "http://dbpedia.org/resource/Chris_Evert",
+            "http://dbpedia.org/resource/Billie_Jean_King"
+        ],
+        [
+            "http://dbpedia.org/resource/Rosemary_Casals",
+            "http://dbpedia.org/resource/Tracy_Austin",
+            "http://dbpedia.org/resource/Kathy_Jordan",
+            "http://dbpedia.org/resource/Chris_Evert"
+        ],
+        [
+            "http://dbpedia.org/resource/Rosemary_Casals",
+            "http://dbpedia.org/resource/Kathy_Jordan",
+            "http://dbpedia.org/resource/Andrea_Jaeger",
+            "http://dbpedia.org/resource/Chris_Evert"
+        ],
+        [
+            "http://dbpedia.org/resource/Martina_Navratilova",
+            "http://dbpedia.org/resource/Pam_Shriver",
+            "http://dbpedia.org/resource/Chris_Evert",
+            "http://dbpedia.org/resource/Zina_Garrison"
+        ],
+        [
+            "http://dbpedia.org/resource/Lori_McNeil",
+            "http://dbpedia.org/resource/Pam_Shriver",
+            "http://dbpedia.org/resource/Zina_Garrison",
+            "http://dbpedia.org/resource/Debbie_Graham"
+        ]
+    ]
+}

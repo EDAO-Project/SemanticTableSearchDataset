@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Kimeli_Some",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Feyse_Tadese",
+            "http://dbpedia.org/resource/Ethiopia"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanley_Biwott",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Tirfi_Tsegaye",
+            "http://dbpedia.org/resource/Ethiopia"
+        ]
+    ]
+}

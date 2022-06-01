@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elizabeth,_Indiana",
+            "http://dbpedia.org/resource/Harrison_County,_Indiana",
+            "http://dbpedia.org/resource/Ohio_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Smiths_Grove,_Kentucky",
+            "http://dbpedia.org/resource/Warren_County,_Kentucky",
+            "http://dbpedia.org/resource/Interstate_65"
+        ],
+        [
+            "http://dbpedia.org/resource/Hurricane_Mills,_Tennessee",
+            "http://dbpedia.org/resource/Humphreys_County,_Tennessee",
+            "http://dbpedia.org/resource/Loretta_Lynn"
+        ],
+        [
+            "http://dbpedia.org/resource/Springfield,_Tennessee",
+            "http://dbpedia.org/resource/Robertson_County,_Tennessee",
+            "http://dbpedia.org/resource/Tennessee_Valley_Authority"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairview,_Tennessee",
+            "http://dbpedia.org/resource/Williamson_County,_Tennessee",
+            "http://dbpedia.org/resource/Tennessee_State_Route_840"
+        ]
+    ]
+}

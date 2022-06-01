@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Assateague_State_Park",
+            "http://dbpedia.org/resource/Worcester_County,_Maryland",
+            "http://dbpedia.org/resource/Barrier_island"
+        ],
+        [
+            "http://dbpedia.org/resource/Calvert_Cliffs_State_Park",
+            "http://dbpedia.org/resource/Calvert_County,_Maryland",
+            "http://dbpedia.org/resource/Chesapeake_Bay"
+        ]
+    ]
+}

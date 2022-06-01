@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/Romania"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Satoru_Kashiwase",
+            "http://dbpedia.org/resource/Shimizu_S-Pulse",
+            "http://dbpedia.org/resource/New_York_Cosmos"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Klute",
+            "http://dbpedia.org/resource/Atlanta_Silverbacks",
+            "http://dbpedia.org/resource/Colorado_Rapids"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Bloom",
+            "http://dbpedia.org/resource/Atlanta_Silverbacks",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Calum_Mallace",
+            "http://dbpedia.org/resource/Montreal_Impact",
+            "http://dbpedia.org/resource/Minnesota_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Floyd_Franks",
+            "http://dbpedia.org/resource/Carolina_RailHawks",
+            "http://dbpedia.org/resource/Minnesota_United_FC"
+        ]
+    ]
+}

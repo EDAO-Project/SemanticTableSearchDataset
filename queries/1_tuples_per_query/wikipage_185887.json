@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rob_Ramage",
+            "http://dbpedia.org/resource/Defenceman",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Birmingham_Bulls"
+        ]
+    ]
+}

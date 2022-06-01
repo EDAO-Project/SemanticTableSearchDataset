@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pierre_Jaminet",
+            "http://dbpedia.org/resource/Pierre_Cloarec",
+            "http://dbpedia.org/resource/Sauveur_Ducazeaux"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Double_Hour",
+            "http://dbpedia.org/resource/The_Double_Hour",
+            "http://dbpedia.org/resource/Giuseppe_Capotondi"
+        ],
+        [
+            "http://dbpedia.org/resource/The_White_Space",
+            "http://dbpedia.org/resource/Francesca_Comencini"
+        ],
+        [
+            "http://dbpedia.org/resource/White_Material",
+            "http://dbpedia.org/resource/Claire_Denis"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Single_Man",
+            "http://dbpedia.org/resource/Tom_Ford"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bad_Lieutenant:_Port_of_Call_New_Orleans",
+            "http://dbpedia.org/resource/Werner_Herzog"
+        ]
+    ]
+}

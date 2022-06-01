@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1976_NFL_draft",
+            "http://dbpedia.org/resource/Gary_Barbaro",
+            "http://dbpedia.org/resource/Defensive_back",
+            "http://dbpedia.org/resource/Kansas_City_Chiefs"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_NFL_draft",
+            "http://dbpedia.org/resource/Dwight_Walker",
+            "http://dbpedia.org/resource/Wide_receiver",
+            "http://dbpedia.org/resource/Cleveland_Browns"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_NFL_draft",
+            "http://dbpedia.org/resource/Johnny_Meads",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/History_of_the_Houston_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_NFL_draft",
+            "http://dbpedia.org/resource/Lionel_Vital",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Washington_Redskins"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_NFL_draft",
+            "http://dbpedia.org/resource/Oscar_Smith",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Detroit_Lions"
+        ]
+    ]
+}

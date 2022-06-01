@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/United_States_Ambassador_to_Afghanistan",
+            "http://dbpedia.org/resource/James_B._Cunningham"
+        ],
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/United_States_Ambassador_to_Albania",
+            "http://dbpedia.org/resource/Alexander_Arvizu"
+        ]
+    ]
+}

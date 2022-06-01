@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hurricane_Katrina",
+            "http://dbpedia.org/resource/2005_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/The_Bahamas"
+        ],
+        [
+            "http://dbpedia.org/resource/Hurricane_Sandy",
+            "http://dbpedia.org/resource/2012_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/Caribbean"
+        ],
+        [
+            "http://dbpedia.org/resource/Hurricane_Ike",
+            "http://dbpedia.org/resource/2008_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/Greater_Antilles"
+        ],
+        [
+            "http://dbpedia.org/resource/Hurricane_Wilma",
+            "http://dbpedia.org/resource/2005_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/Greater_Antilles"
+        ],
+        [
+            "http://dbpedia.org/resource/Hurricane_Ivan",
+            "http://dbpedia.org/resource/2004_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/Venezuela"
+        ]
+    ]
+}

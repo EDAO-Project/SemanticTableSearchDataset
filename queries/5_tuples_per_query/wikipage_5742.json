@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algoma",
+            "http://dbpedia.org/resource/Robert_Adam_Lyon",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Brant_South",
+            "http://dbpedia.org/resource/Arthur_Sturgis_Hardy",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_South",
+            "http://dbpedia.org/resource/Rupert_Mearse_Wells",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Elgin_East",
+            "http://dbpedia.org/resource/Thomas_McIntyre_Nairn",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Elgin_West",
+            "http://dbpedia.org/resource/John_Cascaden",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ]
+    ]
+}

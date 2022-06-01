@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alien_3",
+            "http://dbpedia.org/resource/David_Fincher",
+            "http://dbpedia.org/resource/Sigourney_Weaver"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Randel",
+            "http://dbpedia.org/resource/Stephen_Macht",
+            "http://dbpedia.org/resource/Direct-to-video"
+        ],
+        [
+            "http://dbpedia.org/resource/Basket_Case_3:_The_Progeny",
+            "http://dbpedia.org/resource/Frank_Henenlotter",
+            "http://dbpedia.org/resource/Annie_Ross"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Giggles",
+            "http://dbpedia.org/resource/Manny_Coto",
+            "http://dbpedia.org/resource/Larry_Drake"
+        ],
+        [
+            "http://dbpedia.org/resource/Grave_Secrets:_The_Legacy_of_Hilltop_Drive",
+            "http://dbpedia.org/resource/Patty_Duke",
+            "http://dbpedia.org/resource/Television_film"
+        ]
+    ]
+}

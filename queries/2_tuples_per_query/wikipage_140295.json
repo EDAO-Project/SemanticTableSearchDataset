@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Erik_Dekker",
+            "http://dbpedia.org/resource/Danny_Nelissen",
+            "http://dbpedia.org/resource/Jelle_Nijdam"
+        ],
+        [
+            "http://dbpedia.org/resource/Erik_Breukink",
+            "http://dbpedia.org/resource/Erik_Dekker",
+            "http://dbpedia.org/resource/Servais_Knaven"
+        ]
+    ]
+}

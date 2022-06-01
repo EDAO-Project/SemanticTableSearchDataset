@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Geoff_Duke",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Norton_Motorcycle_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Lockett",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Norton_Motorcycle_Company"
+        ]
+    ]
+}

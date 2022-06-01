@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Floyd_Bannister",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball"
+        ]
+    ]
+}

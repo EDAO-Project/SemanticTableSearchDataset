@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_J._Bentley",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/List_of_Governors_of_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Sean_Parnell",
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/List_of_Governors_of_Alaska"
+        ]
+    ]
+}

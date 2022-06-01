@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_national_rugby_union_team",
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Lansdowne_Road",
+            "http://dbpedia.org/resource/1999_Rugby_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy_national_rugby_union_team",
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Lansdowne_Road",
+            "http://dbpedia.org/resource/2000_Six_Nations_Championship"
+        ]
+    ]
+}

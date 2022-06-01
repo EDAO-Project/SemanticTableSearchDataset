@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jed_Adcock",
+            "http://dbpedia.org/resource/Brisbane_Lions",
+            "http://dbpedia.org/resource/AFL_Rising_Star"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_Corrie",
+            "http://dbpedia.org/resource/Brisbane_Lions",
+            "http://dbpedia.org/resource/AFL_Rising_Star"
+        ]
+    ]
+}

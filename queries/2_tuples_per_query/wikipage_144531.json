@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Adventures_of_Sherlock_Holmes",
+            "http://dbpedia.org/resource/The_Boscombe_Valley_Mystery",
+            "http://dbpedia.org/resource/Herefordshire"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Adventures_of_Sherlock_Holmes",
+            "http://dbpedia.org/resource/The_Adventure_of_the_Speckled_Band",
+            "http://dbpedia.org/resource/Leatherhead"
+        ]
+    ]
+}

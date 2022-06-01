@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Cardinals",
+            "http://dbpedia.org/resource/Bruce_Arians",
+            "http://dbpedia.org/resource/Super_Bowl_XL"
+        ],
+        [
+            "http://dbpedia.org/resource/Baltimore_Ravens",
+            "http://dbpedia.org/resource/John_Harbaugh",
+            "http://dbpedia.org/resource/Super_Bowl_XLVII"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1974_in_sports",
+            "http://dbpedia.org/resource/1974_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Havana"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_in_sports",
+            "http://dbpedia.org/resource/1978_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Belgrade"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_in_sports",
+            "http://dbpedia.org/resource/1982_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_in_sports",
+            "http://dbpedia.org/resource/1986_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Reno,_Nevada"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_in_sports",
+            "http://dbpedia.org/resource/1989_World_Amateur_Boxing_Championships",
+            "http://dbpedia.org/resource/Moscow"
+        ]
+    ]
+}

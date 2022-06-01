@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Ratliff",
+            "http://dbpedia.org/resource/Texas_Senate,_District_1",
+            "http://dbpedia.org/resource/Mount_Pleasant,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Florence_Shapiro",
+            "http://dbpedia.org/resource/Texas_Senate,_District_2",
+            "http://dbpedia.org/resource/Plano,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Haley",
+            "http://dbpedia.org/resource/Texas_Senate,_District_3",
+            "http://dbpedia.org/resource/Center,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Henderson",
+            "http://dbpedia.org/resource/Texas_Senate,_District_7",
+            "http://dbpedia.org/resource/Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/Jerry_E._Patterson",
+            "http://dbpedia.org/resource/Texas_Senate,_District_11",
+            "http://dbpedia.org/resource/Houston"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bible",
+            "http://dbpedia.org/resource/Johannes_Gutenberg",
+            "http://dbpedia.org/resource/Mainz",
+            "http://dbpedia.org/resource/Vulgate"
+        ],
+        [
+            "http://dbpedia.org/resource/Cicero",
+            "http://dbpedia.org/resource/Johann_Fust",
+            "http://dbpedia.org/resource/Mainz",
+            "http://dbpedia.org/resource/Ulrich_Zell"
+        ]
+    ]
+}

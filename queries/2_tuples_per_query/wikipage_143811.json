@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philip_Aaberg",
+            "http://dbpedia.org/resource/Havre,_Montana",
+            "http://dbpedia.org/resource/Pianist"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Albini",
+            "http://dbpedia.org/resource/Missoula,_Montana",
+            "http://dbpedia.org/resource/Audio_engineer"
+        ]
+    ]
+}

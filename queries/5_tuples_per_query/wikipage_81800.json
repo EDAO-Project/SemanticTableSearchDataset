@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Libby_Trickett",
+            "http://dbpedia.org/resource/Marleen_Veldhuis",
+            "http://dbpedia.org/resource/Zhu_Yingwen"
+        ],
+        [
+            "http://dbpedia.org/resource/Laure_Manaudou",
+            "http://dbpedia.org/resource/Ai_Shibata",
+            "http://dbpedia.org/resource/Caitlin_McClatchey"
+        ],
+        [
+            "http://dbpedia.org/resource/Kate_Ziegler",
+            "http://dbpedia.org/resource/Brittany_Reimer",
+            "http://dbpedia.org/resource/Ai_Shibata"
+        ],
+        [
+            "http://dbpedia.org/resource/Kate_Ziegler",
+            "http://dbpedia.org/resource/Flavia_Rigamonti",
+            "http://dbpedia.org/resource/Brittany_Reimer"
+        ],
+        [
+            "http://dbpedia.org/resource/Giaan_Rooney",
+            "http://dbpedia.org/resource/Gao_Chang",
+            "http://dbpedia.org/resource/Antje_Buschschulte"
+        ]
+    ]
+}

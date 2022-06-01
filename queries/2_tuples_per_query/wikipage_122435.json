@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Luo_Xiaojuan",
+            "http://dbpedia.org/resource/Nozomi_Nakano",
+            "http://dbpedia.org/resource/Xu_Anqi"
+        ],
+        [
+            "http://dbpedia.org/resource/Luo_Xiaojuan",
+            "http://dbpedia.org/resource/Nozomi_Nakano",
+            "http://dbpedia.org/resource/Yeung_Chui_Ling"
+        ]
+    ]
+}

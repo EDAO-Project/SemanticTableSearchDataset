@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_in_film",
+            "http://dbpedia.org/resource/John_Lasseter",
+            "http://dbpedia.org/resource/Toy_Story_2"
+        ]
+    ]
+}

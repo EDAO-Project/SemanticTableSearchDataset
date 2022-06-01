@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bourbach-le-Bas",
+            "http://dbpedia.org/resource/Bourbach-le-Haut",
+            "http://dbpedia.org/resource/Burnhaupt-le-Bas",
+            "http://dbpedia.org/resource/Burnhaupt-le-Haut"
+        ],
+        [
+            "http://dbpedia.org/resource/Cernay,_Haut-Rhin",
+            "http://dbpedia.org/resource/Dolleren",
+            "http://dbpedia.org/resource/Fellering",
+            "http://dbpedia.org/resource/Geishouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Goldbach-Altenbach",
+            "http://dbpedia.org/resource/Guewenheim",
+            "http://dbpedia.org/resource/Husseren-Wesserling",
+            "http://dbpedia.org/resource/Kirchberg,_Haut-Rhin"
+        ],
+        [
+            "http://dbpedia.org/resource/Kruth",
+            "http://dbpedia.org/resource/Lauw",
+            "http://dbpedia.org/resource/Leimbach,_Haut-Rhin",
+            "http://dbpedia.org/resource/Malmerspach"
+        ],
+        [
+            "http://dbpedia.org/resource/Masevaux",
+            "http://dbpedia.org/resource/Michelbach,_Haut-Rhin",
+            "http://dbpedia.org/resource/Mitzach",
+            "http://dbpedia.org/resource/Mollau"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mustapha_Moussa",
+            "http://dbpedia.org/resource/1984_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1984_Summer_Olympics"
+        ]
+    ]
+}

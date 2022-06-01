@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indira_Gandhi_International_Airport",
+            "http://dbpedia.org/resource/Delhi",
+            "http://dbpedia.org/resource/Capital_region"
+        ],
+        [
+            "http://dbpedia.org/resource/Chhatrapati_Shivaji_International_Airport",
+            "http://dbpedia.org/resource/Mumbai",
+            "http://dbpedia.org/resource/Maharashtra"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai_International_Airport",
+            "http://dbpedia.org/resource/Chennai",
+            "http://dbpedia.org/resource/Tamil_Nadu"
+        ],
+        [
+            "http://dbpedia.org/resource/Kempegowda_International_Airport",
+            "http://dbpedia.org/resource/Bangalore",
+            "http://dbpedia.org/resource/Karnataka"
+        ],
+        [
+            "http://dbpedia.org/resource/Netaji_Subhas_Chandra_Bose_International_Airport",
+            "http://dbpedia.org/resource/Kolkata",
+            "http://dbpedia.org/resource/West_Bengal"
+        ]
+    ]
+}

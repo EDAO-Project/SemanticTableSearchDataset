@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gyula_Halasy",
+            "http://dbpedia.org/resource/1924_Summer_Olympics",
+            "http://dbpedia.org/resource/Shooting_at_the_1924_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Antal_Kocsis",
+            "http://dbpedia.org/resource/1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1928_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Lajos_Keresztes",
+            "http://dbpedia.org/resource/1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Wrestling_at_the_1928_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Imre_Harangi",
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1936_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Endre_Kabos",
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Fencing_at_the_1936_Summer_Olympics"
+        ]
+    ]
+}

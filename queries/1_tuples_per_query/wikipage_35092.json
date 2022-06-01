@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tom_Raftery",
+            "http://dbpedia.org/resource/Administrative_Panel",
+            "http://dbpedia.org/resource/Fine_Gael"
+        ]
+    ]
+}

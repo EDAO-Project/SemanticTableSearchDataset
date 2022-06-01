@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/MV_Acavus",
+            "http://dbpedia.org/resource/Royal_Navy",
+            "http://dbpedia.org/resource/MV_Rapana",
+            "http://dbpedia.org/resource/Merchant_aircraft_carrier"
+        ]
+    ]
+}

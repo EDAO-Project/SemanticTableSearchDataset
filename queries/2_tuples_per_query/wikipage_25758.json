@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ashvini",
+            "http://dbpedia.org/resource/Beta_Arietis",
+            "http://dbpedia.org/resource/Ashvins"
+        ],
+        [
+            "http://dbpedia.org/resource/Bharani",
+            "http://dbpedia.org/resource/35_Arietis",
+            "http://dbpedia.org/resource/Yama"
+        ]
+    ]
+}

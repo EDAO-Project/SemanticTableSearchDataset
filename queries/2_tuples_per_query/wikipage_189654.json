@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Northern_Trust_Open",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Phil_Rodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/Farmers_Insurance_Open",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Tommy_Jacobs"
+        ]
+    ]
+}

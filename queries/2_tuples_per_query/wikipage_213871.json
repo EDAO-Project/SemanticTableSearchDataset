@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Ford_Escort_RS_Cosworth",
+            "http://dbpedia.org/resource/1997_World_Rally_Championship_season",
+            "http://dbpedia.org/resource/1998_World_Rally_Championship_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Ford_Focus_RS_WRC",
+            "http://dbpedia.org/resource/1999_World_Rally_Championship_season",
+            "http://dbpedia.org/resource/2010_World_Rally_Championship_season"
+        ]
+    ]
+}

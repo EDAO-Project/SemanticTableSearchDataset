@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Curtis_Malloch",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_New_Brunswick",
+            "http://dbpedia.org/resource/Charlotte-Campobello"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Doucet",
+            "http://dbpedia.org/resource/New_Brunswick_Liberal_Association",
+            "http://dbpedia.org/resource/Fundy-The_Isles-Saint_John_West"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_Arseneault",
+            "http://dbpedia.org/resource/New_Brunswick_Liberal_Association",
+            "http://dbpedia.org/resource/Dalhousie-Restigouche_East"
+        ],
+        [
+            "http://dbpedia.org/resource/Pam_Lynch",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_New_Brunswick",
+            "http://dbpedia.org/resource/Fredericton-Fort_Nashwaak"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Leonard",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_New_Brunswick",
+            "http://dbpedia.org/resource/Fredericton-Lincoln"
+        ]
+    ]
+}

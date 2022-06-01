@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/W._E._B._Du_Bois",
+            "http://dbpedia.org/resource/University_of_Michigan",
+            "http://dbpedia.org/resource/Niagara_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Lester_Granger",
+            "http://dbpedia.org/resource/Dartmouth_College",
+            "http://dbpedia.org/resource/National_Urban_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Dick_Gregory",
+            "http://dbpedia.org/resource/Southern_Illinois_University",
+            "http://dbpedia.org/resource/United_States_presidential_election,_1968"
+        ],
+        [
+            "http://dbpedia.org/resource/T._J._Jemison",
+            "http://dbpedia.org/resource/Alabama_State_University",
+            "http://dbpedia.org/resource/Southern_Christian_Leadership_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_S._Johnson",
+            "http://dbpedia.org/resource/University_of_Chicago",
+            "http://dbpedia.org/resource/Fisk_University"
+        ]
+    ]
+}

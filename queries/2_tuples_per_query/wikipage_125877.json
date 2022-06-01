@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Synthetic_radioisotope",
+            "http://dbpedia.org/resource/Hour",
+            "http://dbpedia.org/resource/Electron_capture",
+            "http://dbpedia.org/resource/Isotopes_of_hafnium"
+        ],
+        [
+            "http://dbpedia.org/resource/Synthetic_radioisotope",
+            "http://dbpedia.org/resource/Hour",
+            "http://dbpedia.org/resource/Electron_capture",
+            "http://dbpedia.org/resource/Isotopes_of_hafnium"
+        ]
+    ]
+}

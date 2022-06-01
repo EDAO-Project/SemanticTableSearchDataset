@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1959_Penn_State_Nittany_Lions_football_team",
+            "http://dbpedia.org/resource/1959_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/1959_Liberty_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_Oregon_State_Beavers_football_team",
+            "http://dbpedia.org/resource/Villanova_Wildcats",
+            "http://dbpedia.org/resource/1962_Liberty_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Mississippi_State_Bulldogs_and_Lady_Bulldogs",
+            "http://dbpedia.org/resource/NC_State_Wolfpack",
+            "http://dbpedia.org/resource/1963_Liberty_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Utah_Utes_football_under_Ray_Nagel",
+            "http://dbpedia.org/resource/West_Virginia_Mountaineers",
+            "http://dbpedia.org/resource/1964_Liberty_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Ole_Miss_Rebels",
+            "http://dbpedia.org/resource/1965_Auburn_Tigers_football_team",
+            "http://dbpedia.org/resource/1965_Liberty_Bowl"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indianapolis_Motor_Speedway",
+            "http://dbpedia.org/resource/Speedway,_Indiana",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/IndyCar_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Daytona_International_Speedway",
+            "http://dbpedia.org/resource/Daytona_Beach,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sprint_Cup_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlotte_Motor_Speedway",
+            "http://dbpedia.org/resource/Concord,_North_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sprint_Cup_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol_Motor_Speedway",
+            "http://dbpedia.org/resource/Bristol,_Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sprint_Cup_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Texas_Motor_Speedway",
+            "http://dbpedia.org/resource/Fort_Worth,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sprint_Cup_Series"
+        ]
+    ]
+}

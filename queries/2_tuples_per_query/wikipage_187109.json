@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_Arab_Athletics_Championships",
+            "http://dbpedia.org/resource/Damascus",
+            "http://dbpedia.org/resource/Iraq"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Arab_Athletics_Championships",
+            "http://dbpedia.org/resource/Baghdad",
+            "http://dbpedia.org/resource/Iraq"
+        ]
+    ]
+}

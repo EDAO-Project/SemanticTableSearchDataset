@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/8-Carboxamidocyclazocine",
+            "http://dbpedia.org/resource/Alazocine",
+            "http://dbpedia.org/resource/Bremazocine",
+            "http://dbpedia.org/resource/Dezocine",
+            "http://dbpedia.org/resource/Ketazocine"
+        ],
+        [
+            "http://dbpedia.org/resource/Difenoxin",
+            "http://dbpedia.org/resource/Diphenoxylate",
+            "http://dbpedia.org/resource/Etoxeridine",
+            "http://dbpedia.org/resource/Furethidine",
+            "http://dbpedia.org/resource/Hydroxypethidine"
+        ],
+        [
+            "http://dbpedia.org/resource/Morpheridine",
+            "http://dbpedia.org/resource/Oxpheneridine",
+            "http://dbpedia.org/resource/Pethidine",
+            "http://dbpedia.org/resource/Pheneridine",
+            "http://dbpedia.org/resource/Phenoperidine"
+        ],
+        [
+            "http://dbpedia.org/resource/Piminodine",
+            "http://dbpedia.org/resource/Properidine",
+            "http://dbpedia.org/resource/Sameridine",
+            "http://dbpedia.org/resource/Allylprodine",
+            "http://dbpedia.org/resource/Meprodine"
+        ],
+        [
+            "http://dbpedia.org/resource/Desmethylprodine",
+            "http://dbpedia.org/resource/PEPAP",
+            "http://dbpedia.org/resource/Prodine",
+            "http://dbpedia.org/resource/Prosidol",
+            "http://dbpedia.org/resource/Trimeperidine"
+        ]
+    ]
+}

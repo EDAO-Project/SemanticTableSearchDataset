@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California_State_University_Northridge_Botanic_Garden",
+            "http://dbpedia.org/resource/California_State_University,_Northridge",
+            "http://dbpedia.org/resource/Northridge,_Los_Angeles"
+        ]
+    ]
+}

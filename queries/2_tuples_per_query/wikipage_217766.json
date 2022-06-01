@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1923_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/1923_New_York_Yankees_season",
+            "http://dbpedia.org/resource/1923_World_Series",
+            "http://dbpedia.org/resource/Babe_Ruth"
+        ],
+        [
+            "http://dbpedia.org/resource/1927_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/1927_New_York_Yankees_season",
+            "http://dbpedia.org/resource/1927_World_Series",
+            "http://dbpedia.org/resource/Lou_Gehrig"
+        ]
+    ]
+}

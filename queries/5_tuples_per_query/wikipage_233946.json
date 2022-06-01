@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Virginia_Wade",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Billie_Jean_King"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Margaret_Court",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Nancy_Richey"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Margaret_Court",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Rosemary_Casals"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Billie_Jean_King",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Kerry_Reid"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Billie_Jean_King",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Evonne_Goolagong_Cawley"
+        ]
+    ]
+}

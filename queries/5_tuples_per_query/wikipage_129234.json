@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/75th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actress"
+        ],
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/75th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Production_Design"
+        ],
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/75th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Costume_Design"
+        ],
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/75th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Makeup_and_Hairstyling"
+        ],
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/75th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Original_Score"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barns-Brinton_House",
+            "http://dbpedia.org/resource/U.S._Route_1",
+            "http://dbpedia.org/resource/Pennsbury_Township,_Chester_County,_Pennsylvania"
+        ]
+    ]
+}

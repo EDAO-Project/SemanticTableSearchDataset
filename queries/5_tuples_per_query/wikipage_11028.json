@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_WNBA_Championship",
+            "http://dbpedia.org/resource/Houston_Comets",
+            "http://dbpedia.org/resource/New_York_Liberty",
+            "http://dbpedia.org/resource/Cynthia_Cooper-Dyke"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_WNBA_Championship",
+            "http://dbpedia.org/resource/Houston_Comets",
+            "http://dbpedia.org/resource/New_York_Liberty",
+            "http://dbpedia.org/resource/Cynthia_Cooper-Dyke"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_WNBA_Championship",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks",
+            "http://dbpedia.org/resource/Charlotte_Sting",
+            "http://dbpedia.org/resource/Lisa_Leslie"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_WNBA_Finals",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks",
+            "http://dbpedia.org/resource/New_York_Liberty",
+            "http://dbpedia.org/resource/Lisa_Leslie"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_WNBA_Finals",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks",
+            "http://dbpedia.org/resource/Detroit_Shock",
+            "http://dbpedia.org/resource/Ruth_Riley"
+        ]
+    ]
+}

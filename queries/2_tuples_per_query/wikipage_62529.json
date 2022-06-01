@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1971_Kansas_City_Royals_season",
+            "http://dbpedia.org/resource/Dick_Drago",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Angel_Stadium_of_Anaheim"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Kansas_City_Royals_season",
+            "http://dbpedia.org/resource/Steve_Busby",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Angel_Stadium_of_Anaheim"
+        ]
+    ]
+}

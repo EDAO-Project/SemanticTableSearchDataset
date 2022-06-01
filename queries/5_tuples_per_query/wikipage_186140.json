@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_Powlett,_4th_Duke_of_Bolton",
+            "http://dbpedia.org/resource/Charles_Powlett,_5th_Duke_of_Bolton",
+            "http://dbpedia.org/resource/Marquess_of_Winchester"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Bromley,_2nd_Baron_Montfort",
+            "http://dbpedia.org/resource/Charles_Cadogan,_1st_Earl_Cadogan",
+            "http://dbpedia.org/resource/Baron_Montfort"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Keppel,_3rd_Earl_of_Albemarle",
+            "http://dbpedia.org/resource/Augustus_Keppel,_1st_Viscount_Keppel",
+            "http://dbpedia.org/resource/Earl_of_Albemarle"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Villiers,_1st_Earl_of_Clarendon",
+            "http://dbpedia.org/resource/George_Villiers,_4th_Earl_of_Jersey",
+            "http://dbpedia.org/resource/Earl_of_Clarendon"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Grenville",
+            "http://dbpedia.org/resource/William_Pitt,_1st_Earl_of_Chatham",
+            "http://dbpedia.org/resource/Lord_of_the_Treasury"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Airlie_Gardens",
+            "http://dbpedia.org/resource/Wilmington,_North_Carolina",
+            "http://dbpedia.org/resource/New_Hanover_County,_North_Carolina",
+            "http://dbpedia.org/resource/Eastern_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Alligator_River_National_Wildlife_Refuge",
+            "http://dbpedia.org/resource/Manteo,_North_Carolina",
+            "http://dbpedia.org/resource/Dare_County,_North_Carolina",
+            "http://dbpedia.org/resource/Eastern_North_Carolina"
+        ]
+    ]
+}

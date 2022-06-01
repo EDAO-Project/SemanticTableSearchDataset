@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Coventry_Bears",
+            "http://dbpedia.org/resource/Butts_Park_Arena",
+            "http://dbpedia.org/resource/Coventry"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_Thunder",
+            "http://dbpedia.org/resource/Gateshead_International_Stadium",
+            "http://dbpedia.org/resource/Gateshead"
+        ],
+        [
+            "http://dbpedia.org/resource/Gloucestershire_All_Golds",
+            "http://dbpedia.org/resource/Prince_of_Wales_Stadium",
+            "http://dbpedia.org/resource/Cheltenham"
+        ],
+        [
+            "http://dbpedia.org/resource/Hemel_Stags",
+            "http://dbpedia.org/resource/Pennine_Way_stadium",
+            "http://dbpedia.org/resource/Hemel_Hempstead"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Skolars",
+            "http://dbpedia.org/resource/White_Hart_Lane_Community_Sports_Centre",
+            "http://dbpedia.org/resource/London_Borough_of_Haringey"
+        ]
+    ]
+}

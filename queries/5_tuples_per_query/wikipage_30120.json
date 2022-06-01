@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Barclaycard_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/The_O2_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyon",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Halle_Tony_Garnier"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Festhalle_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Hovet"
+        ]
+    ]
+}

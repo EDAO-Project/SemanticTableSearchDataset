@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/P._J._Alexander",
+            "http://dbpedia.org/resource/Syracuse_Orange_football",
+            "http://dbpedia.org/resource/Virginia_Destroyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Willie_Andrews",
+            "http://dbpedia.org/resource/Baylor_Bears_football",
+            "http://dbpedia.org/resource/Virginia_Destroyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Martin_Bibla",
+            "http://dbpedia.org/resource/Miami_Hurricanes_football",
+            "http://dbpedia.org/resource/Las_Vegas_Locomotives"
+        ],
+        [
+            "http://dbpedia.org/resource/Wendell_Bryant",
+            "http://dbpedia.org/resource/Wisconsin_Badgers_football",
+            "http://dbpedia.org/resource/Las_Vegas_Locomotives"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Fladell",
+            "http://dbpedia.org/resource/Rutgers_Scarlet_Knights_football",
+            "http://dbpedia.org/resource/Hartford_Colonials"
+        ]
+    ]
+}

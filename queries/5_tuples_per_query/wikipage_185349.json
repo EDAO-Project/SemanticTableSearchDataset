@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Lviv",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Poland"
+        ],
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Austria"
+        ],
+        [
+            "http://dbpedia.org/resource/Budapest",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

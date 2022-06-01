@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bright_House_Networks_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Meaghan_Francella"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_Tampa_Duramed_FUTURES_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Ashley_Prange"
+        ]
+    ]
+}

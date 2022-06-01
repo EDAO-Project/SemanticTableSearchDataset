@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Steve_Sidwell"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Pajtim_Kasami"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Emmanuel_Frimpong"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Giorgos_Karagounis"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Kieran_Richardson"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auquainville",
+            "http://dbpedia.org/resource/Auvillars",
+            "http://dbpedia.org/resource/Barneville-la-Bertran",
+            "http://dbpedia.org/resource/Basseneville"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clifton,_New_Jersey",
+            "http://dbpedia.org/resource/List_of_county_routes_in_Passaic_County,_New_Jersey",
+            "http://dbpedia.org/resource/Roundabout"
+        ],
+        [
+            "http://dbpedia.org/resource/Brielle_Circle",
+            "http://dbpedia.org/resource/Wall_Township,_New_Jersey",
+            "http://dbpedia.org/resource/New_Jersey_Route_34"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackwood,_New_Jersey",
+            "http://dbpedia.org/resource/List_of_county_routes_in_Camden_County,_New_Jersey",
+            "http://dbpedia.org/resource/Camden_County_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Collingswood_Circle",
+            "http://dbpedia.org/resource/Collingswood,_New_Jersey",
+            "http://dbpedia.org/resource/U.S._Route_30_in_New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_traffic_circles_in_New_Jersey",
+            "http://dbpedia.org/resource/Wall_Township,_New_Jersey",
+            "http://dbpedia.org/resource/New_Jersey_Route_33"
+        ]
+    ]
+}

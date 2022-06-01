@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wyckoff_House",
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/New_York_City"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Bowne_House",
+            "http://dbpedia.org/resource/Flushing,_Queens",
+            "http://dbpedia.org/resource/Queens"
+        ],
+        [
+            "http://dbpedia.org/resource/Bronck_House",
+            "http://dbpedia.org/resource/Coxsackie,_New_York",
+            "http://dbpedia.org/resource/Upstate_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Philipse_Manor_Hall_State_Historic_Site",
+            "http://dbpedia.org/resource/Yonkers,_New_York",
+            "http://dbpedia.org/resource/Westchester_County,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Crailo",
+            "http://dbpedia.org/resource/Rensselaer,_New_York",
+            "http://dbpedia.org/resource/Hendrick_van_Rensselaer"
+        ]
+    ]
+}

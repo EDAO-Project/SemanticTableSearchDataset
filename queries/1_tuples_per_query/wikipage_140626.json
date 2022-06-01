@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henderson,_Nevada",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/Basic_High_School"
+        ]
+    ]
+}

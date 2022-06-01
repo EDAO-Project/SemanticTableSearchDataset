@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brookline,_Massachusetts",
+            "http://dbpedia.org/resource/Tony_Roche",
+            "http://dbpedia.org/resource/Rod_Laver"
+        ]
+    ]
+}

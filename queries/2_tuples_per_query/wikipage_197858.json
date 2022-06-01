@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ludger_Beerbaum",
+            "http://dbpedia.org/resource/Germany_at_the_2004_Summer_Olympics",
+            "http://dbpedia.org/resource/Equestrian_at_the_2004_Summer_Olympics",
+            "http://dbpedia.org/resource/Betamethasone"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuriy_Bilonoh",
+            "http://dbpedia.org/resource/Ukraine_at_the_2004_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2004_Summer_Olympics",
+            "http://dbpedia.org/resource/Oxandrolone"
+        ]
+    ]
+}

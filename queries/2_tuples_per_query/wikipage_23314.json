@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Qatar_Open",
+            "http://dbpedia.org/resource/Richard_Gasquet",
+            "http://dbpedia.org/resource/Nikolay_Davydenko"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Qatar_Open",
+            "http://dbpedia.org/resource/Roger_Federer",
+            "http://dbpedia.org/resource/Nikolay_Davydenko"
+        ]
+    ]
+}

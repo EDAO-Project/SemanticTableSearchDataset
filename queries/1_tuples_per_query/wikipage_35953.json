@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1903_Boston_Americans_season",
+            "http://dbpedia.org/resource/World_Series",
+            "http://dbpedia.org/resource/American_League"
+        ]
+    ]
+}

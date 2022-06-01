@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bruneau_Dunes_State_Park",
+            "http://dbpedia.org/resource/Owyhee_County,_Idaho",
+            "http://dbpedia.org/resource/Dune"
+        ],
+        [
+            "http://dbpedia.org/resource/City_of_Rocks_National_Reserve",
+            "http://dbpedia.org/resource/Cassia_County,_Idaho",
+            "http://dbpedia.org/resource/Rock_climbing"
+        ]
+    ]
+}

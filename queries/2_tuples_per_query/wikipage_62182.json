@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amos_Block",
+            "http://dbpedia.org/resource/Downtown_Syracuse",
+            "http://dbpedia.org/resource/Romanesque_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Babcock-Shattuck_House",
+            "http://dbpedia.org/resource/Westcott,_Syracuse",
+            "http://dbpedia.org/resource/Queen_Anne_style_architecture_in_the_United_States"
+        ]
+    ]
+}

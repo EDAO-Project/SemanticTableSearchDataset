@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Asaf_Ali",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Interim_Government_of_India"
+        ]
+    ]
+}

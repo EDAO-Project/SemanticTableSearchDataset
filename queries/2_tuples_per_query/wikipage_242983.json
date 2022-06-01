@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Alaska_Fairbanks",
+            "http://dbpedia.org/resource/Fairbanks,_Alaska",
+            "http://dbpedia.org/resource/Alaska_Nanooks",
+            "http://dbpedia.org/resource/Great_Northwest_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Alaska_Anchorage",
+            "http://dbpedia.org/resource/Anchorage,_Alaska",
+            "http://dbpedia.org/resource/Alaska_Anchorage_Seawolves",
+            "http://dbpedia.org/resource/Great_Northwest_Athletic_Conference"
+        ]
+    ]
+}

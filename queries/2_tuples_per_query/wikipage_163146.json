@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Dunford",
+            "http://dbpedia.org/resource/Swimming_at_the_2009_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Rome"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Dunford",
+            "http://dbpedia.org/resource/Swimming_at_the_2009_Summer_Universiade",
+            "http://dbpedia.org/resource/Belgrade"
+        ]
+    ]
+}

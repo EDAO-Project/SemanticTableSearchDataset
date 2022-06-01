@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lists_of_accidents_and_incidents_involving_military_aircraft",
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/Northrop_F-89_Scorpion",
+            "http://dbpedia.org/resource/Flypast"
+        ]
+    ]
+}

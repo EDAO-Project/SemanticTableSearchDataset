@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angel_food_cake",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Potassium_bitartrate"
+        ],
+        [
+            "http://dbpedia.org/resource/Banana_bread",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Banana"
+        ],
+        [
+            "http://dbpedia.org/resource/Bara_brith",
+            "http://dbpedia.org/resource/Wales",
+            "http://dbpedia.org/resource/Raisin"
+        ],
+        [
+            "http://dbpedia.org/resource/Battenberg_cake",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Marzipan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bibingka",
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Rice_flour"
+        ]
+    ]
+}

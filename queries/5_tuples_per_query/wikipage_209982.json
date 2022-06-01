@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1958_in_literature",
+            "http://dbpedia.org/resource/Fanac",
+            "http://dbpedia.org/resource/Terry_Carr"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_in_literature",
+            "http://dbpedia.org/resource/Yandro",
+            "http://dbpedia.org/resource/Robert_Coulson"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_in_literature",
+            "http://dbpedia.org/resource/Fanac",
+            "http://dbpedia.org/resource/Terry_Carr"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_in_literature",
+            "http://dbpedia.org/resource/Yandro",
+            "http://dbpedia.org/resource/Robert_Coulson"
+        ],
+        [
+            "http://dbpedia.org/resource/1960_in_literature",
+            "http://dbpedia.org/resource/Fanac",
+            "http://dbpedia.org/resource/Terry_Carr"
+        ]
+    ]
+}

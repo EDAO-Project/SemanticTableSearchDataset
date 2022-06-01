@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Na_Mokulua",
+            "http://dbpedia.org/resource/Hawaiian_Islands",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

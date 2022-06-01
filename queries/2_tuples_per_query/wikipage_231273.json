@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Beverly,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_1A"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Beverly,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_128"
+        ]
+    ]
+}

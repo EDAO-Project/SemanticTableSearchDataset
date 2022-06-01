@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edmund_Barton",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Division_of_Hunter",
+            "http://dbpedia.org/resource/Protectionist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Watson",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Division_of_Bland",
+            "http://dbpedia.org/resource/Australian_Labor_Party"
+        ]
+    ]
+}

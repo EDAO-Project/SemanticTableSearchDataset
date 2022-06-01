@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lex_Schoenmaker",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Feyenoord"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruud_Geels",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/AFC_Ajax"
+        ]
+    ]
+}

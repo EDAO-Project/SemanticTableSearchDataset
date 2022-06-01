@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Janel_McCarville",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Charlotte_Sting",
+            "http://dbpedia.org/resource/University_of_Minnesota"
+        ],
+        [
+            "http://dbpedia.org/resource/Tan_White",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Indiana_Fever",
+            "http://dbpedia.org/resource/Mississippi_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandora_Irvin",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Phoenix_Mercury",
+            "http://dbpedia.org/resource/Texas_Christian_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Kendra_Wecker",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/San_Antonio_Stars",
+            "http://dbpedia.org/resource/Kansas_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Sancho_Lyttle",
+            "http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines",
+            "http://dbpedia.org/resource/Houston_Comets",
+            "http://dbpedia.org/resource/University_of_Houston"
+        ]
+    ]
+}

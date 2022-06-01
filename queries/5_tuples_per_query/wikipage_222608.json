@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/House_of_Zogu",
+            "http://dbpedia.org/resource/Prince_Leka_of_Albania"
+        ],
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/House_of_Savoy",
+            "http://dbpedia.org/resource/Vittorio_Emanuele,_Prince_of_Naples"
+        ],
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/House_of_Bourbon",
+            "http://dbpedia.org/resource/Infante_Carlos,_Duke_of_Calabria"
+        ],
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/House_of_Bourbon",
+            "http://dbpedia.org/resource/Prince_Carlo,_Duke_of_Castro"
+        ],
+        [
+            "http://dbpedia.org/resource/Duchy_of_Anhalt",
+            "http://dbpedia.org/resource/House_of_Ascania",
+            "http://dbpedia.org/resource/Eduard,_Prince_of_Anhalt"
+        ]
+    ]
+}

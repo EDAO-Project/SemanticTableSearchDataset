@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dragon_Quest_V:_Hand_of_the_Heavenly_Bride",
+            "http://dbpedia.org/resource/Chunsoft",
+            "http://dbpedia.org/resource/Enix",
+            "http://dbpedia.org/resource/Dragon_Quest"
+        ],
+        [
+            "http://dbpedia.org/resource/Fire_Emblem_Gaiden",
+            "http://dbpedia.org/resource/Intelligent_Systems",
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Fire_Emblem"
+        ]
+    ]
+}

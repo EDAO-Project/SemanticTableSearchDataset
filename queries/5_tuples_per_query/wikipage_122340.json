@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Li_Zhesi",
+            "http://dbpedia.org/resource/List_of_Asian_Games_records_in_swimming",
+            "http://dbpedia.org/resource/Tang_Yi",
+            "http://dbpedia.org/resource/Yayoi_Matsumoto"
+        ],
+        [
+            "http://dbpedia.org/resource/Tang_Yi",
+            "http://dbpedia.org/resource/List_of_Asian_Games_records_in_swimming",
+            "http://dbpedia.org/resource/Li_Zhesi",
+            "http://dbpedia.org/resource/Haruka_Ueda"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhu_Qianwei",
+            "http://dbpedia.org/resource/List_of_Asian_Games_records_in_swimming",
+            "http://dbpedia.org/resource/Tang_Yi",
+            "http://dbpedia.org/resource/Hanae_Ito"
+        ],
+        [
+            "http://dbpedia.org/resource/Li_Xuanxu",
+            "http://dbpedia.org/resource/List_of_Asian_Games_records_in_swimming",
+            "http://dbpedia.org/resource/Shao_Yiwen",
+            "http://dbpedia.org/resource/Maiko_Fujino"
+        ],
+        [
+            "http://dbpedia.org/resource/Gao_Chang",
+            "http://dbpedia.org/resource/List_of_Asian_Games_records_in_swimming",
+            "http://dbpedia.org/resource/Aya_Terakawa",
+            "http://dbpedia.org/resource/Xu_Tianlongzi"
+        ]
+    ]
+}

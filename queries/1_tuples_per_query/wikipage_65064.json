@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Doug_Walters",
+            "http://dbpedia.org/resource/New_Zealand_national_cricket_team",
+            "http://dbpedia.org/resource/Lancaster_Park"
+        ]
+    ]
+}

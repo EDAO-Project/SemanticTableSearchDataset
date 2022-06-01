@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Madeira_Islands_Open",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Mats_Lanner"
+        ],
+        [
+            "http://dbpedia.org/resource/Moroccan_Open",
+            "http://dbpedia.org/resource/Morocco",
+            "http://dbpedia.org/resource/Anders_Forsbrand"
+        ]
+    ]
+}

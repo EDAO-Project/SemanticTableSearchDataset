@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_in_literature",
+            "http://dbpedia.org/resource/Garth_Nix",
+            "http://dbpedia.org/resource/Sabriel",
+            "http://dbpedia.org/resource/HarperCollins"
+        ]
+    ]
+}

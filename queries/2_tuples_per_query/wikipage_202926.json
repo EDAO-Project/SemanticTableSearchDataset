@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/32nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Andrew_Lloyd_Webber",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/32nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Liza_Minnelli",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

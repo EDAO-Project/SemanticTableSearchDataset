@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miguel_Indurain",
+            "http://dbpedia.org/resource/Tony_Rominger",
+            "http://dbpedia.org/resource/Claudio_Chiappucci"
+        ],
+        [
+            "http://dbpedia.org/resource/Miguel_Indurain",
+            "http://dbpedia.org/resource/Maurizio_Fondriest",
+            "http://dbpedia.org/resource/Tony_Rominger"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Rominger",
+            "http://dbpedia.org/resource/Miguel_Indurain",
+            "http://dbpedia.org/resource/Evgeni_Berzin"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurent_Jalabert",
+            "http://dbpedia.org/resource/Miguel_Indurain",
+            "http://dbpedia.org/resource/Abraham_Olano"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Ullrich",
+            "http://dbpedia.org/resource/Laurent_Jalabert",
+            "http://dbpedia.org/resource/Marco_Pantani"
+        ]
+    ]
+}

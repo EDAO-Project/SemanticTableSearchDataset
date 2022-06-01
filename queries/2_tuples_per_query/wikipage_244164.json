@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/LPGA_Takefuji_Classic",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/Cristie_Kerr"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingsmill_Championship",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/Pak_Se-ri"
+        ]
+    ]
+}

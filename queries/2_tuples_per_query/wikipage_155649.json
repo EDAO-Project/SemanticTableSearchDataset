@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Otha_Bailey",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Birmingham_Black_Barons"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Bankhead",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Memphis_Red_Sox"
+        ]
+    ]
+}

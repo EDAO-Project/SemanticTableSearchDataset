@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cape_Florida_Light",
+            "http://dbpedia.org/resource/Bill_Baggs_Cape_Florida_State_Park",
+            "http://dbpedia.org/resource/Seminole"
+        ],
+        [
+            "http://dbpedia.org/resource/Carysfort_Reef_Light",
+            "http://dbpedia.org/resource/Key_Largo",
+            "http://dbpedia.org/resource/Screw-pile_lighthouse"
+        ]
+    ]
+}

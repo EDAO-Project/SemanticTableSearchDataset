@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Collemiers",
+            "http://dbpedia.org/resource/Compigny",
+            "http://dbpedia.org/resource/Cornant",
+            "http://dbpedia.org/resource/Coulours"
+        ],
+        [
+            "http://dbpedia.org/resource/Courgenay,_Yonne",
+            "http://dbpedia.org/resource/Courlon-sur-Yonne",
+            "http://dbpedia.org/resource/Courtoin",
+            "http://dbpedia.org/resource/Courtois-sur-Yonne"
+        ]
+    ]
+}

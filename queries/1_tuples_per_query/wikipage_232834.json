@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Old_Dominion_University",
+            "http://dbpedia.org/resource/Old_Dominion_University_Fieldhouse",
+            "http://dbpedia.org/resource/Norfolk",
+            "http://dbpedia.org/resource/Virginia"
+        ]
+    ]
+}

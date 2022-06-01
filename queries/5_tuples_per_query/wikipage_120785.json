@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_IIHF_Asian_Oceanic_Junior_U18_Championship",
+            "http://dbpedia.org/resource/Kushiro,_Hokkaido",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_IIHF_Asian_Oceanic_Junior_U18_Championship",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_IIHF_Asian_Oceanic_Junior_U18_Championship",
+            "http://dbpedia.org/resource/Adelaide",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_IIHF_Asian_Oceanic_Junior_U18_Championship",
+            "http://dbpedia.org/resource/Jilin_City",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_IIHF_Asian_Oceanic_Junior_U18_Championship",
+            "http://dbpedia.org/resource/Bendigo",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Basilica_Cistern",
+            "http://dbpedia.org/resource/Constantinople",
+            "http://dbpedia.org/resource/Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/Cistern_of_Philoxenos",
+            "http://dbpedia.org/resource/Constantinople",
+            "http://dbpedia.org/resource/Turkey"
+        ]
+    ]
+}

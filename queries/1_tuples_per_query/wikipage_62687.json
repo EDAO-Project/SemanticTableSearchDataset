@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tulsa,_Oklahoma",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tulsa_Performing_Arts_Center"
+        ]
+    ]
+}

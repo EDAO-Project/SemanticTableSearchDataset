@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Viola,_Kansas",
+            "http://dbpedia.org/resource/Sedgwick_County,_Kansas",
+            "http://dbpedia.org/resource/Wichita_Dwight_D._Eisenhower_National_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Medford,_Oklahoma",
+            "http://dbpedia.org/resource/Grant_County,_Oklahoma",
+            "http://dbpedia.org/resource/Interstate_35"
+        ],
+        [
+            "http://dbpedia.org/resource/Braman,_Oklahoma",
+            "http://dbpedia.org/resource/Kay_County,_Oklahoma",
+            "http://dbpedia.org/resource/Interstate_35"
+        ],
+        [
+            "http://dbpedia.org/resource/Union_City,_Oklahoma",
+            "http://dbpedia.org/resource/Canadian_County,_Oklahoma",
+            "http://dbpedia.org/resource/KWTV-DT"
+        ],
+        [
+            "http://dbpedia.org/resource/Hastings,_Oklahoma",
+            "http://dbpedia.org/resource/Jefferson_County,_Oklahoma",
+            "http://dbpedia.org/resource/Waurika_Lake"
+        ]
+    ]
+}

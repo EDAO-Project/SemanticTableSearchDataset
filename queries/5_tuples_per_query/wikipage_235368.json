@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mick_Foley",
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/WWE_Raw",
+            "http://dbpedia.org/resource/Chairman"
+        ],
+        [
+            "http://dbpedia.org/resource/Road_Dogg",
+            "http://dbpedia.org/resource/Spokane,_Washington",
+            "http://dbpedia.org/resource/WWE_Raw",
+            "http://dbpedia.org/resource/Broadcast_delay"
+        ],
+        [
+            "http://dbpedia.org/resource/Hardcore_Holly",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/WrestleMania_XV",
+            "http://dbpedia.org/resource/Al_Snow"
+        ],
+        [
+            "http://dbpedia.org/resource/Davey_Boy_Smith",
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/WWE_SmackDown",
+            "http://dbpedia.org/resource/Broadcast_delay"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Snow",
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/WWE_SmackDown",
+            "http://dbpedia.org/resource/Davey_Boy_Smith"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_European_Winter_Throwing_Challenge",
+            "http://dbpedia.org/resource/Nice",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

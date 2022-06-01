@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_roads_in_Zone_4_of_the_Great_Britain_numbering_scheme",
+            "http://dbpedia.org/resource/Central_London",
+            "http://dbpedia.org/resource/The_Angel,_Islington",
+            "http://dbpedia.org/resource/Shaftesbury_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/A_roads_in_Zone_4_of_the_Great_Britain_numbering_scheme",
+            "http://dbpedia.org/resource/Harlesden",
+            "http://dbpedia.org/resource/Childs_Hill",
+            "http://dbpedia.org/resource/Willesden"
+        ]
+    ]
+}

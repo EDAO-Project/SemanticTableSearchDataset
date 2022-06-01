@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Matt_Schaub",
+            "http://dbpedia.org/resource/LeSean_McCoy",
+            "http://dbpedia.org/resource/Jahvid_Best"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Vick",
+            "http://dbpedia.org/resource/Adrian_Peterson",
+            "http://dbpedia.org/resource/Tony_Moeaki"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyle_Orton",
+            "http://dbpedia.org/resource/LaDainian_Tomlinson",
+            "http://dbpedia.org/resource/Sam_Bradford"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaun_Hill",
+            "http://dbpedia.org/resource/Matt_Forte",
+            "http://dbpedia.org/resource/Max_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Ryan",
+            "http://dbpedia.org/resource/Darren_McFadden",
+            "http://dbpedia.org/resource/Dez_Bryant"
+        ]
+    ]
+}

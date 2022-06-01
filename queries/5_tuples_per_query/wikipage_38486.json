@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dartmouth,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Massachusetts_Dartmouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Lowell,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Massachusetts_Lowell"
+        ],
+        [
+            "http://dbpedia.org/resource/Springfield,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/MassMutual_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Burlington,_Vermont",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Patrick_Gym"
+        ],
+        [
+            "http://dbpedia.org/resource/Durham,_New_Hampshire",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lundholm_Gym"
+        ]
+    ]
+}

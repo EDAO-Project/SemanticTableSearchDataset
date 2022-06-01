@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Laura,_Illinois",
+            "http://dbpedia.org/resource/Peoria_County,_Illinois",
+            "http://dbpedia.org/resource/Gustnado"
+        ],
+        [
+            "http://dbpedia.org/resource/Towner,_Colorado",
+            "http://dbpedia.org/resource/Kiowa_County,_Colorado",
+            "http://dbpedia.org/resource/Landspout"
+        ]
+    ]
+}

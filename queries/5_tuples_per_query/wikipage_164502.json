@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Spencer_Haywood",
+            "http://dbpedia.org/resource/Chicago_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Rockets",
+            "http://dbpedia.org/resource/Spencer_Haywood",
+            "http://dbpedia.org/resource/San_Antonio"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland_Cavaliers",
+            "http://dbpedia.org/resource/Lenny_Wilkens",
+            "http://dbpedia.org/resource/Cleveland_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Celtics",
+            "http://dbpedia.org/resource/Spencer_Haywood",
+            "http://dbpedia.org/resource/Boston_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Rockets",
+            "http://dbpedia.org/resource/Spencer_Haywood",
+            "http://dbpedia.org/resource/Portland,_Oregon"
+        ]
+    ]
+}

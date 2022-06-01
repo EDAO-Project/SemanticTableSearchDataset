@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Rich_Brooks",
+            "http://dbpedia.org/resource/University_of_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Gary_Barnett",
+            "http://dbpedia.org/resource/Northwestern_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Bobby_Bowden",
+            "http://dbpedia.org/resource/Florida_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Mike_Price",
+            "http://dbpedia.org/resource/Washington_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Phillip_Fulmer",
+            "http://dbpedia.org/resource/University_of_Tennessee"
+        ]
+    ]
+}

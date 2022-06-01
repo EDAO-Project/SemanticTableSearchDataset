@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Wembley_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/National_Exhibition_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Ireland",
+            "http://dbpedia.org/resource/3Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Glasgow",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Scottish_Exhibition_and_Conference_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/North_East,_Pennsylvania",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lake_Erie_Speedway"
+        ]
+    ]
+}

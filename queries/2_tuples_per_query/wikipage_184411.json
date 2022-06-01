@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_NRL_season",
+            "http://dbpedia.org/resource/Andrew_Johns",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Newcastle_Knights"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_NRL_season",
+            "http://dbpedia.org/resource/Andrew_Johns",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Newcastle_Knights"
+        ]
+    ]
+}

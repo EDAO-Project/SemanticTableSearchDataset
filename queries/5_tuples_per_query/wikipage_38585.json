@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_in_film",
+            "http://dbpedia.org/resource/Lethal_Weapon",
+            "http://dbpedia.org/resource/Richard_Donner"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_in_film",
+            "http://dbpedia.org/resource/Die_Hard",
+            "http://dbpedia.org/resource/John_McTiernan"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_in_film",
+            "http://dbpedia.org/resource/Action_Jackson",
+            "http://dbpedia.org/resource/Craig_R._Baxley"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_in_film",
+            "http://dbpedia.org/resource/Lethal_Weapon_2",
+            "http://dbpedia.org/resource/Richard_Donner"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_in_film",
+            "http://dbpedia.org/resource/Die_Hard_2",
+            "http://dbpedia.org/resource/Renny_Harlin"
+        ]
+    ]
+}

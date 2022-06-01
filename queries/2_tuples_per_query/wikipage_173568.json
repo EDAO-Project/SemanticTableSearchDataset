@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Warren_E._Burger",
+            "http://dbpedia.org/resource/Yale_Law_School",
+            "http://dbpedia.org/resource/Ken_Starr"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_J._Schiltz",
+            "http://dbpedia.org/resource/Harvard_Law_School",
+            "http://dbpedia.org/resource/Antonin_Scalia"
+        ]
+    ]
+}

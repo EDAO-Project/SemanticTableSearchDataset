@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Atlanta_Braves_season",
+            "http://dbpedia.org/resource/Tim_Hudson",
+            "http://dbpedia.org/resource/Chien-Ming_Wang",
+            "http://dbpedia.org/resource/Craig_Kimbrel"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Gigolo",
+            "http://dbpedia.org/resource/Paul_Schrader",
+            "http://dbpedia.org/resource/Richard_Gere"
+        ],
+        [
+            "http://dbpedia.org/resource/Three_Men_to_Kill",
+            "http://dbpedia.org/resource/Jacques_Deray",
+            "http://dbpedia.org/resource/Alain_Delon"
+        ],
+        [
+            "http://dbpedia.org/resource/Choice_of_Arms",
+            "http://dbpedia.org/resource/Alain_Corneau",
+            "http://dbpedia.org/resource/Yves_Montand"
+        ],
+        [
+            "http://dbpedia.org/resource/Coup_de_Torchon",
+            "http://dbpedia.org/resource/Bertrand_Tavernier",
+            "http://dbpedia.org/resource/Philippe_Noiret"
+        ],
+        [
+            "http://dbpedia.org/resource/Made_in_Britain",
+            "http://dbpedia.org/resource/Alan_Clarke",
+            "http://dbpedia.org/resource/Tim_Roth"
+        ]
+    ]
+}

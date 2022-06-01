@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/29th_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Russell_Paulley",
+            "http://dbpedia.org/resource/New_Democratic_Party_of_Manitoba"
+        ],
+        [
+            "http://dbpedia.org/resource/30th_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Russell_Paulley",
+            "http://dbpedia.org/resource/New_Democratic_Party_of_Manitoba"
+        ],
+        [
+            "http://dbpedia.org/resource/31st_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Wilson_Parasiuk",
+            "http://dbpedia.org/resource/New_Democratic_Party_of_Manitoba"
+        ],
+        [
+            "http://dbpedia.org/resource/32nd_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Wilson_Parasiuk",
+            "http://dbpedia.org/resource/New_Democratic_Party_of_Manitoba"
+        ],
+        [
+            "http://dbpedia.org/resource/33rd_Manitoba_Legislature",
+            "http://dbpedia.org/resource/Wilson_Parasiuk",
+            "http://dbpedia.org/resource/New_Democratic_Party_of_Manitoba"
+        ]
+    ]
+}

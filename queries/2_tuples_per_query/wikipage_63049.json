@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_NBA_draft",
+            "http://dbpedia.org/resource/Sergey_Karasev",
+            "http://dbpedia.org/resource/Russia_national_basketball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_NBA_draft",
+            "http://dbpedia.org/resource/Allen_Crabbe",
+            "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        ]
+    ]
+}

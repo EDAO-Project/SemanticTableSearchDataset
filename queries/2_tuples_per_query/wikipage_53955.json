@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Monarchy_of_Thailand",
+            "http://dbpedia.org/resource/Bhumibol_Adulyadej",
+            "http://dbpedia.org/resource/Thailand"
+        ],
+        [
+            "http://dbpedia.org/resource/Monarchy_of_Australia",
+            "http://dbpedia.org/resource/Elizabeth_II",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

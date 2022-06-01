@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Quartet",
+            "http://dbpedia.org/resource/Flute_quartet",
+            "http://dbpedia.org/resource/Friedrich_Kuhlau"
+        ]
+    ]
+}

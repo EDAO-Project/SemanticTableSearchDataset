@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aalst,_Belgium",
+            "http://dbpedia.org/resource/Arrondissement_of_Aalst",
+            "http://dbpedia.org/resource/East_Flanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Aalter",
+            "http://dbpedia.org/resource/Arrondissement_of_Ghent",
+            "http://dbpedia.org/resource/East_Flanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Aarschot",
+            "http://dbpedia.org/resource/Leuven_administrative_Arrondissement",
+            "http://dbpedia.org/resource/Flemish_Brabant"
+        ],
+        [
+            "http://dbpedia.org/resource/Affligem",
+            "http://dbpedia.org/resource/Halle-Vilvoorde_administrative_Arrondissement",
+            "http://dbpedia.org/resource/Flemish_Brabant"
+        ],
+        [
+            "http://dbpedia.org/resource/Alveringem",
+            "http://dbpedia.org/resource/Arrondissement_of_Veurne",
+            "http://dbpedia.org/resource/West_Flanders"
+        ]
+    ]
+}

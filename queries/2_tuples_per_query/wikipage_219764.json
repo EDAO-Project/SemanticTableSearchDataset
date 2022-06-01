@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alderney",
+            "http://dbpedia.org/resource/Guernsey",
+            "http://dbpedia.org/resource/English_Channel"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Samoa",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Polynesia"
+        ]
+    ]
+}

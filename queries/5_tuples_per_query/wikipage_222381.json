@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sheldon_Adelson",
+            "http://dbpedia.org/resource/Businessperson",
+            "http://dbpedia.org/resource/Las_Vegas_Sands"
+        ],
+        [
+            "http://dbpedia.org/resource/Andre_Agassi",
+            "http://dbpedia.org/resource/Tennis",
+            "http://dbpedia.org/resource/Philanthropy"
+        ],
+        [
+            "http://dbpedia.org/resource/Greg_Anthony",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/University_of_Nevada,_Las_Vegas"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Branch",
+            "http://dbpedia.org/resource/Commercial_pilot_license",
+            "http://dbpedia.org/resource/Louisiana_State_Legislature"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Bryan",
+            "http://dbpedia.org/resource/Professional_wrestling",
+            "http://dbpedia.org/resource/WWE_Raw"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

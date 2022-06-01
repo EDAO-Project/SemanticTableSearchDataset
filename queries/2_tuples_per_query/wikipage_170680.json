@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Changchun",
+            "http://dbpedia.org/resource/Jilin",
+            "http://dbpedia.org/resource/Northeast_China"
+        ],
+        [
+            "http://dbpedia.org/resource/Chengdu",
+            "http://dbpedia.org/resource/Sichuan",
+            "http://dbpedia.org/resource/Southwest_China"
+        ]
+    ]
+}

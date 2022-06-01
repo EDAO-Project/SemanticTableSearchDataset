@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/27th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Vernon_Singer",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/28th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Vernon_Singer",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Vernon_Singer",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/30th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Odoardo_Di_Santo",
+            "http://dbpedia.org/resource/Ontario_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/31st_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Odoardo_Di_Santo",
+            "http://dbpedia.org/resource/Ontario_New_Democratic_Party"
+        ]
+    ]
+}

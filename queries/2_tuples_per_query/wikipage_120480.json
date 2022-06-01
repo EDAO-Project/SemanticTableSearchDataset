@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Galusha_A._Grow",
+            "http://dbpedia.org/resource/List_of_United_States_Representatives_from_Pennsylvania",
+            "http://dbpedia.org/resource/34th_United_States_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Ogden_R._Reid",
+            "http://dbpedia.org/resource/List_of_United_States_Representatives_from_New_York",
+            "http://dbpedia.org/resource/92nd_United_States_Congress"
+        ]
+    ]
+}

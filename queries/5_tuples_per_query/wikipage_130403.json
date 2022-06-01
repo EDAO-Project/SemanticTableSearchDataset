@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Montreal_Forum"
+        ],
+        [
+            "http://dbpedia.org/resource/Landover,_Maryland",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Capital_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Landover,_Maryland",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Capital_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Richfield,_Ohio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Coliseum_at_Richfield"
+        ],
+        [
+            "http://dbpedia.org/resource/Richfield,_Ohio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Coliseum_at_Richfield"
+        ]
+    ]
+}

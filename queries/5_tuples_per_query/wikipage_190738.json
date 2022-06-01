@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Douglas_Aziz",
+            "http://dbpedia.org/resource/Al_Shorta_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Ammo_Baba",
+            "http://dbpedia.org/resource/Talaba_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Jamal_Salih",
+            "http://dbpedia.org/resource/Talaba_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Wathiq_Naji",
+            "http://dbpedia.org/resource/Salahaddin_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Yahya_Alwan",
+            "http://dbpedia.org/resource/Talaba_SC"
+        ]
+    ]
+}

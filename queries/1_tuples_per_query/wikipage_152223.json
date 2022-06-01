@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Saiful_Hoque"
+        ]
+    ]
+}

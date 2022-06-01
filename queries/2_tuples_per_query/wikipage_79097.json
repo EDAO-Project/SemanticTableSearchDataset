@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rancho_San_Pedro",
+            "http://dbpedia.org/resource/Pedro_Fages",
+            "http://dbpedia.org/resource/Manuel_Dominguez",
+            "http://dbpedia.org/resource/San_Pedro,_Los_Angeles",
+            "http://dbpedia.org/resource/Los_Angeles_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Rancho_Los_Nietos",
+            "http://dbpedia.org/resource/Pedro_Fages",
+            "http://dbpedia.org/resource/Manuel_Nieto",
+            "http://dbpedia.org/resource/Long_Beach,_California",
+            "http://dbpedia.org/resource/Los_Angeles_County,_California"
+        ]
+    ]
+}

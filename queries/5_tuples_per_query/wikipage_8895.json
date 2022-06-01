@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antonio_Candreva",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/Ternana_Calcio",
+            "http://dbpedia.org/resource/Udinese_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberto_Gerbo",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/F.C.D._Lottogiaveno",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Matri",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Cagliari_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabio_Bazzani",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/U.C._Sampdoria",
+            "http://dbpedia.org/resource/Brescia_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Federico_Groppioni",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/F.C._Rieti",
+            "http://dbpedia.org/resource/F.C._Bari_1908"
+        ]
+    ]
+}

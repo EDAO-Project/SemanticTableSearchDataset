@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abidjan",
+            "http://dbpedia.org/resource/Ivory_Coast",
+            "http://dbpedia.org/resource/Port_Bouet_Airport"
+        ]
+    ]
+}

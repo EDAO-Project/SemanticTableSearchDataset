@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Towering_Inferno",
+            "http://dbpedia.org/resource/20th_Century_Fox",
+            "http://dbpedia.org/resource/Steve_McQueen"
+        ],
+        [
+            "http://dbpedia.org/resource/Young_Frankenstein",
+            "http://dbpedia.org/resource/20th_Century_Fox",
+            "http://dbpedia.org/resource/Gene_Wilder"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Godfather_Part_II",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Al_Pacino"
+        ],
+        [
+            "http://dbpedia.org/resource/Airport_1975",
+            "http://dbpedia.org/resource/Universal_Studios",
+            "http://dbpedia.org/resource/Charlton_Heston"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Life_and_Times_of_Grizzly_Adams",
+            "http://dbpedia.org/resource/Sunn_Classic_Pictures",
+            "http://dbpedia.org/resource/Dan_Haggerty"
+        ]
+    ]
+}

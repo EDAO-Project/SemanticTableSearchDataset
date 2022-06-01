@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sydney_FC_W-League",
+            "http://dbpedia.org/resource/Michelle_Heyman",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Adelaide_United_FC_W-League",
+            "http://dbpedia.org/resource/Trudy_Camilleri",
+            "http://dbpedia.org/resource/Central_Coast_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane_Roar_FC_W-League",
+            "http://dbpedia.org/resource/Renee_Rollason",
+            "http://dbpedia.org/resource/Ballymore_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_Jets_FC_W-League",
+            "http://dbpedia.org/resource/Lydia_Vandenbergh",
+            "http://dbpedia.org/resource/Wanderers_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Canberra_United_FC",
+            "http://dbpedia.org/resource/Kendall_Fletcher",
+            "http://dbpedia.org/resource/Canberra_Stadium"
+        ]
+    ]
+}

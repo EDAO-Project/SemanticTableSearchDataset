@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A._J._Foyt_Enterprises",
+            "http://dbpedia.org/resource/ABC_Supply",
+            "http://dbpedia.org/resource/Takuma_Sato",
+            "http://dbpedia.org/resource/A._J._Foyt",
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Dallara"
+        ]
+    ]
+}

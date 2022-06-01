@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1901_Boston_Americans_season",
+            "http://dbpedia.org/resource/Win_Kellum",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Oriole_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1902_Boston_Americans_season",
+            "http://dbpedia.org/resource/Bill_Dinneen",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Huntington_Avenue_Grounds"
+        ]
+    ]
+}

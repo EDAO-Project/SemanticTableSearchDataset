@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Socialist_Party_of_Albania",
+            "http://dbpedia.org/resource/Socialist_International"
+        ],
+        [
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Bulgarian_Socialist_Party",
+            "http://dbpedia.org/resource/Socialist_International"
+        ],
+        [
+            "http://dbpedia.org/resource/Chile",
+            "http://dbpedia.org/resource/Socialist_Party_of_Chile",
+            "http://dbpedia.org/resource/Socialist_International"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Hungarian_Socialist_Party",
+            "http://dbpedia.org/resource/Socialist_International"
+        ],
+        [
+            "http://dbpedia.org/resource/Republic_of_Macedonia",
+            "http://dbpedia.org/resource/Socialist_Party_of_Macedonia",
+            "http://dbpedia.org/resource/Party_of_European_Socialists"
+        ]
+    ]
+}

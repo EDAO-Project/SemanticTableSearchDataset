@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beaver_Dam_State_Park",
+            "http://dbpedia.org/resource/Lincoln_County,_Nevada",
+            "http://dbpedia.org/resource/Beaver_Dam_Wash"
+        ]
+    ]
+}

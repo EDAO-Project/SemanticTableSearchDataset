@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armen_Nazaryan",
+            "http://dbpedia.org/resource/1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Wrestling_at_the_1996_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Armen_Mkrtchyan",
+            "http://dbpedia.org/resource/1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Wrestling_at_the_1996_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tunisian_Open",
+            "http://dbpedia.org/resource/Tunisia",
+            "http://dbpedia.org/resource/Sam_Torrance"
+        ],
+        [
+            "http://dbpedia.org/resource/Car_Care_Plan_International",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Nick_Faldo"
+        ]
+    ]
+}

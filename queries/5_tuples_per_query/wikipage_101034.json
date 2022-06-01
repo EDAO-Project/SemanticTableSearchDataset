@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/10th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Days_of_Being_Wild",
+            "http://dbpedia.org/resource/Wong_Kar-wai"
+        ],
+        [
+            "http://dbpedia.org/resource/10th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Song_of_the_Exile",
+            "http://dbpedia.org/resource/Ann_Hui"
+        ],
+        [
+            "http://dbpedia.org/resource/14th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Chungking_Express",
+            "http://dbpedia.org/resource/Wong_Kar-wai"
+        ],
+        [
+            "http://dbpedia.org/resource/14th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Ashes_of_Time",
+            "http://dbpedia.org/resource/Wong_Kar-wai"
+        ],
+        [
+            "http://dbpedia.org/resource/15th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Summer_Snow",
+            "http://dbpedia.org/resource/Ann_Hui"
+        ]
+    ]
+}

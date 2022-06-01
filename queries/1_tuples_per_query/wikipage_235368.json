@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mick_Foley",
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/WWE_Raw",
+            "http://dbpedia.org/resource/Chairman"
+        ]
+    ]
+}

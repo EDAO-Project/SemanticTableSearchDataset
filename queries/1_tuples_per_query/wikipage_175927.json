@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Royal_Farms_Arena",
+            "http://dbpedia.org/resource/Baltimore",
+            "http://dbpedia.org/resource/Baltimore_Blast"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Barnaul",
+            "http://dbpedia.org/resource/Barnaul_Airport"
+        ]
+    ]
+}

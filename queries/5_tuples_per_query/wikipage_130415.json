@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elizabeth_Arden_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Amy_Alcott"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarasota_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Sally_Little"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympia_Gold_Classic",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Nancy_Lopez"
+        ],
+        [
+            "http://dbpedia.org/resource/Honda_Civic_Classic",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/JoAnne_Carner"
+        ],
+        [
+            "http://dbpedia.org/resource/J&B_Scotch_Pro-Am",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/Nancy_Lopez"
+        ]
+    ]
+}

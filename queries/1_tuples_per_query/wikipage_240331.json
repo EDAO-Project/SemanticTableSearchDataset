@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fred_Apostoli",
+            "http://dbpedia.org/resource/Boxing",
+            "http://dbpedia.org/resource/Golden_Gate_National_Recreation_Area"
+        ]
+    ]
+}

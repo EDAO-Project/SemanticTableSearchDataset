@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1971_NFL_season",
+            "http://dbpedia.org/resource/Alan_Page",
+            "http://dbpedia.org/resource/Minnesota_Vikings"
+        ]
+    ]
+}

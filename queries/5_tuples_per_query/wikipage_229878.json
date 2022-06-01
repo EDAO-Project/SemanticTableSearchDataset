@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1978_Formula_One_season",
+            "http://dbpedia.org/resource/Keke_Rosberg",
+            "http://dbpedia.org/resource/Theodore_Racing",
+            "http://dbpedia.org/resource/1978_BRDC_International_Trophy"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Formula_One_season",
+            "http://dbpedia.org/resource/James_Hunt",
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/1976_BRDC_International_Trophy"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Formula_One_season",
+            "http://dbpedia.org/resource/Niki_Lauda",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/1975_BRDC_International_Trophy"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Formula_One_season",
+            "http://dbpedia.org/resource/James_Hunt",
+            "http://dbpedia.org/resource/Hesketh_Racing",
+            "http://dbpedia.org/resource/1974_BRDC_International_Trophy"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Formula_One_season",
+            "http://dbpedia.org/resource/Jackie_Stewart",
+            "http://dbpedia.org/resource/Tyrrell_Racing",
+            "http://dbpedia.org/resource/1973_BRDC_International_Trophy"
+        ]
+    ]
+}

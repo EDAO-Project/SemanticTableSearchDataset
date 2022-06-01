@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cave_of_Altamira",
+            "http://dbpedia.org/resource/Santillana_del_Mar",
+            "http://dbpedia.org/resource/Cantabria",
+            "http://dbpedia.org/resource/Cave_painting"
+        ],
+        [
+            "http://dbpedia.org/resource/Asturian_architecture",
+            "http://dbpedia.org/resource/Oviedo",
+            "http://dbpedia.org/resource/Asturias",
+            "http://dbpedia.org/resource/Kingdom_of_Asturias"
+        ],
+        [
+            "http://dbpedia.org/resource/Alhambra",
+            "http://dbpedia.org/resource/Granada",
+            "http://dbpedia.org/resource/Andalusia",
+            "http://dbpedia.org/resource/Moors"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Escorial",
+            "http://dbpedia.org/resource/San_Lorenzo_de_El_Escorial",
+            "http://dbpedia.org/resource/Community_of_Madrid",
+            "http://dbpedia.org/resource/Spanish_royal_sites"
+        ],
+        [
+            "http://dbpedia.org/resource/Garajonay_National_Park",
+            "http://dbpedia.org/resource/La_Gomera",
+            "http://dbpedia.org/resource/Canary_Islands",
+            "http://dbpedia.org/resource/Laurel_forest"
+        ]
+    ]
+}

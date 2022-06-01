@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adria_International_Raceway",
+            "http://dbpedia.org/resource/Adria",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/2010_Superleague_Formula_season"
+        ],
+        [
+            "http://dbpedia.org/resource/TT_Circuit_Assen",
+            "http://dbpedia.org/resource/Assen",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/2010_Superleague_Formula_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Beijing_International_Street_Circuit",
+            "http://dbpedia.org/resource/Beijing",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/2010_Superleague_Formula_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Brands_Hatch",
+            "http://dbpedia.org/resource/Kent",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/2010_Superleague_Formula_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Donington_Park",
+            "http://dbpedia.org/resource/North_West_Leicestershire",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/2008_Superleague_Formula_season"
+        ]
+    ]
+}

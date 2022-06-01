@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arkansas_County_Courthouse-Northern_District",
+            "http://dbpedia.org/resource/Arkansas_County,_Arkansas",
+            "http://dbpedia.org/resource/Stuttgart,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas_County_Courthouse-Southern_District",
+            "http://dbpedia.org/resource/Arkansas_County,_Arkansas",
+            "http://dbpedia.org/resource/De_Witt,_Arkansas"
+        ]
+    ]
+}

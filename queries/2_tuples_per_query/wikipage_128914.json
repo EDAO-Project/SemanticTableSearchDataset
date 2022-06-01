@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/803_Picka",
+            "http://dbpedia.org/resource/Vienna_Observatory",
+            "http://dbpedia.org/resource/Johann_Palisa"
+        ],
+        [
+            "http://dbpedia.org/resource/812_Adele",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Sergey_Belyavsky"
+        ]
+    ]
+}

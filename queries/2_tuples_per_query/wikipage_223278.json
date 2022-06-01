@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WEEX",
+            "http://dbpedia.org/resource/Connoisseur_Media",
+            "http://dbpedia.org/resource/Sports_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/WFNN",
+            "http://dbpedia.org/resource/Connoisseur_Media",
+            "http://dbpedia.org/resource/Sports_radio"
+        ]
+    ]
+}

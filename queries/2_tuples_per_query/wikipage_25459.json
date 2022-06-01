@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roasso_Kumamoto",
+            "http://dbpedia.org/resource/Japan_Football_League",
+            "http://dbpedia.org/resource/Kumamoto"
+        ],
+        [
+            "http://dbpedia.org/resource/Tochigi_SC",
+            "http://dbpedia.org/resource/Japan_Football_League",
+            "http://dbpedia.org/resource/Utsunomiya"
+        ]
+    ]
+}

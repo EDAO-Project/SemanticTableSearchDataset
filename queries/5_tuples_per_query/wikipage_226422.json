@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Augustus_Wood",
+            "http://dbpedia.org/resource/120th_Rajputana_Infantry",
+            "http://dbpedia.org/resource/Anglo-Persian_War",
+            "http://dbpedia.org/resource/Bushehr"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Hinckley",
+            "http://dbpedia.org/resource/Naval_brigade",
+            "http://dbpedia.org/resource/Taiping_Rebellion",
+            "http://dbpedia.org/resource/Fenghua"
+        ],
+        [
+            "http://dbpedia.org/resource/Campbell_Mellis_Douglas",
+            "http://dbpedia.org/resource/South_Wales_Borderers",
+            "http://dbpedia.org/resource/Andaman_Islands_Expedition",
+            "http://dbpedia.org/resource/Little_Andaman"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_McGaw",
+            "http://dbpedia.org/resource/42nd_Regiment_of_Foot",
+            "http://dbpedia.org/resource/Anglo-Ashanti_wars",
+            "http://dbpedia.org/resource/Battle_of_Amoaful"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Sever_Bell",
+            "http://dbpedia.org/resource/Royal_Engineers",
+            "http://dbpedia.org/resource/Anglo-Ashanti_wars",
+            "http://dbpedia.org/resource/Battle_of_Ordashu"
+        ]
+    ]
+}

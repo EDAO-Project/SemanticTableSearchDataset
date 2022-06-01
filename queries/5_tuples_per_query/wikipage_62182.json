@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amos_Block",
+            "http://dbpedia.org/resource/Downtown_Syracuse",
+            "http://dbpedia.org/resource/Romanesque_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Babcock-Shattuck_House",
+            "http://dbpedia.org/resource/Westcott,_Syracuse",
+            "http://dbpedia.org/resource/Queen_Anne_style_architecture_in_the_United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkeley_Park_Subdivision_Historic_District",
+            "http://dbpedia.org/resource/University_Neighborhood,_Syracuse,_New_York",
+            "http://dbpedia.org/resource/Ward_Wellington_Ward"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_N._Burhans_House",
+            "http://dbpedia.org/resource/Meadowbrook,_Syracuse",
+            "http://dbpedia.org/resource/Ward_Wellington_Ward"
+        ],
+        [
+            "http://dbpedia.org/resource/Gere_Bank_Building",
+            "http://dbpedia.org/resource/Downtown_Syracuse",
+            "http://dbpedia.org/resource/Hanover_Square,_Syracuse"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Norfolk_County,_Massachusetts",
+            "http://dbpedia.org/resource/Stoughton,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_27"
+        ]
+    ]
+}

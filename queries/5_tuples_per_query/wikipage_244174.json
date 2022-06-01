@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Old_Dominion_University",
+            "http://dbpedia.org/resource/Old_Dominion_University_Fieldhouse",
+            "http://dbpedia.org/resource/Norfolk",
+            "http://dbpedia.org/resource/Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Carolina_State_University",
+            "http://dbpedia.org/resource/Reynolds_Coliseum",
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina",
+            "http://dbpedia.org/resource/North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/Harry_A._Gampel_Pavilion",
+            "http://dbpedia.org/resource/Storrs,_Connecticut",
+            "http://dbpedia.org/resource/Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Arizona",
+            "http://dbpedia.org/resource/McKale_Center",
+            "http://dbpedia.org/resource/Tucson,_Arizona",
+            "http://dbpedia.org/resource/Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_North_Carolina",
+            "http://dbpedia.org/resource/Carmichael_Arena",
+            "http://dbpedia.org/resource/Chapel_Hill,_North_Carolina",
+            "http://dbpedia.org/resource/North_Carolina"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Constance_Wilson-Samuel",
+            "http://dbpedia.org/resource/Theresa_Weld",
+            "http://dbpedia.org/resource/Maribel_Vinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Constance_Wilson-Samuel",
+            "http://dbpedia.org/resource/Frances_Claudet",
+            "http://dbpedia.org/resource/Beatrix_Loughran"
+        ],
+        [
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Maribel_Vinson",
+            "http://dbpedia.org/resource/Constance_Wilson-Samuel",
+            "http://dbpedia.org/resource/Louise_Bertram"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Veronica_Clarke",
+            "http://dbpedia.org/resource/Maribel_Vinson",
+            "http://dbpedia.org/resource/Grace_Madden"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Suzanne_Morrow",
+            "http://dbpedia.org/resource/Yvonne_Sherman",
+            "http://dbpedia.org/resource/Karol_Kennedy"
+        ]
+    ]
+}

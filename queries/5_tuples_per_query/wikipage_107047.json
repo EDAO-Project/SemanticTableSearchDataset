@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Percy_McDonnell",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/England_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/A._G._Steel",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/Australia_national_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Bonnor",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/England_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobby_Abel",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/Australia_national_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Giffen",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/England_cricket_team"
+        ]
+    ]
+}

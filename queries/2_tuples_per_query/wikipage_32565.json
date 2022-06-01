@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Dwan_Office_Building",
+            "http://dbpedia.org/resource/Two_Harbors,_Minnesota",
+            "http://dbpedia.org/resource/Iron_Range",
+            "http://dbpedia.org/resource/3M"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_A._Lindbergh_State_Park",
+            "http://dbpedia.org/resource/Little_Falls,_Minnesota",
+            "http://dbpedia.org/resource/Central_Minnesota",
+            "http://dbpedia.org/resource/Charles_Lindbergh"
+        ]
+    ]
+}

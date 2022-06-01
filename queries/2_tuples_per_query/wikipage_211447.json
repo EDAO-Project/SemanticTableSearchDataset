@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colusa_County,_California",
+            "http://dbpedia.org/resource/Snow_Mountain_East",
+            "http://dbpedia.org/resource/North_American_Vertical_Datum_of_1988"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Dorado_County,_California",
+            "http://dbpedia.org/resource/Freel_Peak",
+            "http://dbpedia.org/resource/North_American_Vertical_Datum_of_1988"
+        ]
+    ]
+}

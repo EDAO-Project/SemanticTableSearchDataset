@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hannes_Kolehmainen",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Stockholm"
+        ]
+    ]
+}

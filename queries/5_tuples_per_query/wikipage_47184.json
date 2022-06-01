@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Singapore_Flyer",
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Marina_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_of_Nanchang",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Nanchang"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Eye",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/South_Bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Suzhou_Ferris_Wheel",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Suzhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne_Star",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Docklands,_Victoria"
+        ]
+    ]
+}

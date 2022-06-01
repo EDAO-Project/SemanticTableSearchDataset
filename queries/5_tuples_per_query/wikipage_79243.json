@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lakefront_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lakefront_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Shreveport,_Louisiana",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Hirsch_Memorial_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Little_Rock,_Arkansas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Barton_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_City,_Missouri",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kemper_Arena"
+        ]
+    ]
+}

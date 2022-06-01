@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1202_Marina",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Grigory_Neujmin"
+        ],
+        [
+            "http://dbpedia.org/resource/1215_Boyer",
+            "http://dbpedia.org/resource/Algiers_Observatory",
+            "http://dbpedia.org/resource/Alfred_Schmitt"
+        ],
+        [
+            "http://dbpedia.org/resource/1225_Ariane",
+            "http://dbpedia.org/resource/Union_Observatory",
+            "http://dbpedia.org/resource/Hendrik_van_Gent"
+        ],
+        [
+            "http://dbpedia.org/resource/1240_Centenaria",
+            "http://dbpedia.org/resource/Hamburg_Observatory",
+            "http://dbpedia.org/resource/Richard_Schorr"
+        ],
+        [
+            "http://dbpedia.org/resource/1241_Dysona",
+            "http://dbpedia.org/resource/Union_Observatory",
+            "http://dbpedia.org/resource/Harry_Edwin_Wood"
+        ]
+    ]
+}

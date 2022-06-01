@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leo_Berman",
+            "http://dbpedia.org/resource/Tyler,_Texas",
+            "http://dbpedia.org/resource/Smith_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommy_Merritt",
+            "http://dbpedia.org/resource/Longview,_Texas",
+            "http://dbpedia.org/resource/Smith_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Wayne_Christian",
+            "http://dbpedia.org/resource/Center,_Texas",
+            "http://dbpedia.org/resource/Shelby_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Pitts",
+            "http://dbpedia.org/resource/Waxahachie,_Texas",
+            "http://dbpedia.org/resource/Ellis_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Eiland",
+            "http://dbpedia.org/resource/Galveston_County,_Texas",
+            "http://dbpedia.org/resource/Chambers_County,_Texas"
+        ]
+    ]
+}

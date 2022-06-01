@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colombo_Municipal_Council",
+            "http://dbpedia.org/resource/Colombo_District",
+            "http://dbpedia.org/resource/Western_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/No_overall_control"
+        ]
+    ]
+}

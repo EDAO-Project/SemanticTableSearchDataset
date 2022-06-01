@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bosset",
+            "http://dbpedia.org/resource/Bouillac,_Dordogne",
+            "http://dbpedia.org/resource/Bouniagues",
+            "http://dbpedia.org/resource/Bourniquel"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1953_in_music",
+            "http://dbpedia.org/resource/David_Whitfield",
+            "http://dbpedia.org/resource/Answer_Me"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_in_music",
+            "http://dbpedia.org/resource/Guy_Mitchell",
+            "http://dbpedia.org/resource/Singing_the_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_in_music",
+            "http://dbpedia.org/resource/Adam_Faith",
+            "http://dbpedia.org/resource/Poor_Me"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_in_music",
+            "http://dbpedia.org/resource/Frankie_Vaughan",
+            "http://dbpedia.org/resource/Tower_of_Strength"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_in_music",
+            "http://dbpedia.org/resource/Cliff_Richard",
+            "http://dbpedia.org/resource/The_Next_Time"
+        ]
+    ]
+}

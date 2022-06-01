@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amanita_arocheae",
+            "http://dbpedia.org/resource/Amatoxin",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/Amanita_bisporigera",
+            "http://dbpedia.org/resource/Amatoxin",
+            "http://dbpedia.org/resource/Agaricus_silvicola"
+        ],
+        [
+            "http://dbpedia.org/resource/Amanita_exitialis",
+            "http://dbpedia.org/resource/Amatoxin",
+            "http://dbpedia.org/resource/Guangdong"
+        ],
+        [
+            "http://dbpedia.org/resource/Amanita_ocreata",
+            "http://dbpedia.org/resource/Amatoxin",
+            "http://dbpedia.org/resource/Pacific_Northwest"
+        ],
+        [
+            "http://dbpedia.org/resource/Amanita_phalloides",
+            "http://dbpedia.org/resource/Amatoxin",
+            "http://dbpedia.org/resource/Volvariella_volvacea"
+        ]
+    ]
+}

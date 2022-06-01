@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dmitri_Bulykin",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/ADO_Den_Haag"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_Van_Loo",
+            "http://dbpedia.org/resource/K.S.V._Roeselare",
+            "http://dbpedia.org/resource/KV_Mechelen"
+        ]
+    ]
+}

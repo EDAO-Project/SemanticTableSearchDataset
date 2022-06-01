@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zenon_Caravella",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Sydney_Olympic_FC",
+            "http://dbpedia.org/resource/Almere_City_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeremy_Christie",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Waitakere_United",
+            "http://dbpedia.org/resource/Perth_Glory_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Noah_Hickey",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Waitakere_United",
+            "http://dbpedia.org/resource/Gisborne_City_AFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Casey",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Wollongong_Wolves_FC",
+            "http://dbpedia.org/resource/Sydney_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Fitzsimmons",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Brisbane_Strikers_FC",
+            "http://dbpedia.org/resource/Brisbane_Roar_FC"
+        ]
+    ]
+}

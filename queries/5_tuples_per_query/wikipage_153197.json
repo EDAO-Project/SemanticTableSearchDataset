@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tel_Aviv",
+            "http://dbpedia.org/resource/Israel",
+            "http://dbpedia.org/resource/Yarkon_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/St._Jakobshalle"
+        ],
+        [
+            "http://dbpedia.org/resource/Turin",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/PalaRuffini"
+        ],
+        [
+            "http://dbpedia.org/resource/Dortmund",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Westfalenhallen"
+        ],
+        [
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Treptow_Arena"
+        ]
+    ]
+}

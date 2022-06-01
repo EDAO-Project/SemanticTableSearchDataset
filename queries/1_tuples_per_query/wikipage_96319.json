@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_League_of_Ireland",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Tony_McDonnell"
+        ]
+    ]
+}

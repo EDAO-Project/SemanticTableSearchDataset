@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nigel_Harman",
+            "http://dbpedia.org/resource/Dennis_Rickman",
+            "http://dbpedia.org/resource/EastEnders"
+        ],
+        [
+            "http://dbpedia.org/resource/June_Brown",
+            "http://dbpedia.org/resource/Dot_Cotton",
+            "http://dbpedia.org/resource/EastEnders"
+        ],
+        [
+            "http://dbpedia.org/resource/Sam_Aston",
+            "http://dbpedia.org/resource/Chesney_Brown",
+            "http://dbpedia.org/resource/Coronation_Street"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Hordley",
+            "http://dbpedia.org/resource/Cain_Dingle",
+            "http://dbpedia.org/resource/Emmerdale"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlie_Brooks",
+            "http://dbpedia.org/resource/Janine_Butcher",
+            "http://dbpedia.org/resource/EastEnders"
+        ]
+    ]
+}

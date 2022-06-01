@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_B._Meyner",
+            "http://dbpedia.org/resource/Lafayette_College",
+            "http://dbpedia.org/resource/New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Waring",
+            "http://dbpedia.org/resource/Pennsylvania_State_University",
+            "http://dbpedia.org/resource/Blender"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Robert_Ringrose",
+            "http://dbpedia.org/resource/Syracuse_University",
+            "http://dbpedia.org/resource/New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyman_Bradford_Smith",
+            "http://dbpedia.org/resource/Cornell_University",
+            "http://dbpedia.org/resource/New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Carney",
+            "http://dbpedia.org/resource/Temple_University",
+            "http://dbpedia.org/resource/CoreStates_Financial_Corporation"
+        ]
+    ]
+}

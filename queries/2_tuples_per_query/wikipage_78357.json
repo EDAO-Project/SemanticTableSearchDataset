@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ketuvim",
+            "http://dbpedia.org/resource/Sapiential_Books",
+            "http://dbpedia.org/resource/Sapiential_Books",
+            "http://dbpedia.org/resource/Sapiential_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/Twelve_Minor_Prophets",
+            "http://dbpedia.org/resource/Book_of_Hosea",
+            "http://dbpedia.org/resource/Book_of_Hosea",
+            "http://dbpedia.org/resource/Book_of_Hosea"
+        ]
+    ]
+}

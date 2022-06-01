@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midnight_Lute",
+            "http://dbpedia.org/resource/Bob_Baffert",
+            "http://dbpedia.org/resource/Michael_E._Pegram"
+        ],
+        [
+            "http://dbpedia.org/resource/Orientate",
+            "http://dbpedia.org/resource/D._Wayne_Lukas",
+            "http://dbpedia.org/resource/Robert_B._Lewis"
+        ]
+    ]
+}

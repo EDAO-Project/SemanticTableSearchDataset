@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Limerick",
+            "http://dbpedia.org/resource/County_Limerick",
+            "http://dbpedia.org/resource/County_Clare"
+        ]
+    ]
+}

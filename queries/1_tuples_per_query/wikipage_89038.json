@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brassicales",
+            "http://dbpedia.org/resource/Capparaceae",
+            "http://dbpedia.org/resource/Capparis_decidua"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_of_Aquitaine",
+            "http://dbpedia.org/resource/William_III,_Duke_of_Aquitaine",
+            "http://dbpedia.org/resource/Hugh_Capet"
+        ],
+        [
+            "http://dbpedia.org/resource/Rozala_of_Italy",
+            "http://dbpedia.org/resource/Berengar_II_of_Italy",
+            "http://dbpedia.org/resource/Robert_II_of_France"
+        ]
+    ]
+}

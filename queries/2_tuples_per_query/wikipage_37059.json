@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sun_Life_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Alamodome"
+        ]
+    ]
+}

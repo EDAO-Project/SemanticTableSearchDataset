@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_Saskatchewan_Legislature",
+            "http://dbpedia.org/resource/Saskatchewan_general_election,_1908",
+            "http://dbpedia.org/resource/Saskatchewan_Liberal_Party",
+            "http://dbpedia.org/resource/Thomas_Walter_Scott",
+            "http://dbpedia.org/resource/Provincial_Rights_Party",
+            "http://dbpedia.org/resource/William_Charles_Sutherland"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_Saskatchewan_Legislature",
+            "http://dbpedia.org/resource/Saskatchewan_general_election,_1912",
+            "http://dbpedia.org/resource/Saskatchewan_Liberal_Party",
+            "http://dbpedia.org/resource/Thomas_Walter_Scott",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan",
+            "http://dbpedia.org/resource/John_Albert_Sheppard"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Saskatchewan_Legislature",
+            "http://dbpedia.org/resource/Saskatchewan_general_election,_1917",
+            "http://dbpedia.org/resource/Saskatchewan_Liberal_Party",
+            "http://dbpedia.org/resource/William_Melville_Martin",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan",
+            "http://dbpedia.org/resource/Robert_Menzies_Mitchell"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Saskatchewan_Legislature",
+            "http://dbpedia.org/resource/Saskatchewan_general_election,_1921",
+            "http://dbpedia.org/resource/Saskatchewan_Liberal_Party",
+            "http://dbpedia.org/resource/William_Melville_Martin",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan",
+            "http://dbpedia.org/resource/George_Adam_Scott"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Saskatchewan_Legislature",
+            "http://dbpedia.org/resource/Saskatchewan_general_election,_1925",
+            "http://dbpedia.org/resource/Saskatchewan_Liberal_Party",
+            "http://dbpedia.org/resource/Charles_Avery_Dunning",
+            "http://dbpedia.org/resource/Progressive_Party_of_Saskatchewan",
+            "http://dbpedia.org/resource/Walter_George_Robinson"
+        ]
+    ]
+}

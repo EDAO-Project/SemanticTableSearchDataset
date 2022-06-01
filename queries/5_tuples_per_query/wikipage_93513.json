@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shire_of_Atherton",
+            "http://dbpedia.org/resource/Atherton,_Queensland",
+            "http://dbpedia.org/resource/Far_North_Queensland",
+            "http://dbpedia.org/resource/Tablelands_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Shire_of_Bauhinia",
+            "http://dbpedia.org/resource/Springsure,_Queensland",
+            "http://dbpedia.org/resource/Central_Queensland",
+            "http://dbpedia.org/resource/Central_Highlands_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaudesert_Shire",
+            "http://dbpedia.org/resource/Beaudesert,_Queensland",
+            "http://dbpedia.org/resource/South_East_Queensland",
+            "http://dbpedia.org/resource/Scenic_Rim_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Shire_of_Belyando",
+            "http://dbpedia.org/resource/Clermont,_Queensland",
+            "http://dbpedia.org/resource/Central_Queensland",
+            "http://dbpedia.org/resource/Isaac_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Shire_of_Bendemere",
+            "http://dbpedia.org/resource/Yuleba",
+            "http://dbpedia.org/resource/Darling_Downs",
+            "http://dbpedia.org/resource/Maranoa_Region"
+        ]
+    ]
+}

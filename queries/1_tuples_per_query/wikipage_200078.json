@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/UMass_Minutemen_basketball",
+            "http://dbpedia.org/resource/Matt_Zunic",
+            "http://dbpedia.org/resource/New_York_University"
+        ]
+    ]
+}

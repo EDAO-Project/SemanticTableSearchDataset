@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tony_Stewart",
+            "http://dbpedia.org/resource/The_Home_Depot",
+            "http://dbpedia.org/resource/Joe_Gibbs_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Harvick",
+            "http://dbpedia.org/resource/GM_Certified_Service",
+            "http://dbpedia.org/resource/Richard_Childress_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ]
+    ]
+}

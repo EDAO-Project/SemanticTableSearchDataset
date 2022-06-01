@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bibsys",
+            "http://dbpedia.org/resource/Trondheim",
+            "http://dbpedia.org/resource/Norway"
+        ],
+        [
+            "http://dbpedia.org/resource/Istituto_Centrale_per_il_Catalogo_Unico",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/German_National_Library",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Library_and_Archives_Canada",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Bibliotheca_Alexandrina",
+            "http://dbpedia.org/resource/Alexandria",
+            "http://dbpedia.org/resource/Egypt"
+        ]
+    ]
+}

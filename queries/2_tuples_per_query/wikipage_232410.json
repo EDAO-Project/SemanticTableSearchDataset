@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Oxford,_Massachusetts",
+            "http://dbpedia.org/resource/New_England_Interstate_Route_12"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Oxford,_Massachusetts",
+            "http://dbpedia.org/resource/U.S._Route_20_in_Massachusetts"
+        ]
+    ]
+}

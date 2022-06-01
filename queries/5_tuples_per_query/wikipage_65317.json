@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Abbey_Road",
+            "http://dbpedia.org/resource/Apple_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Led_Zeppelin",
+            "http://dbpedia.org/resource/Led_Zeppelin_II",
+            "http://dbpedia.org/resource/Atlantic_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Let_It_Be",
+            "http://dbpedia.org/resource/Apple_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Moody_Blues",
+            "http://dbpedia.org/resource/A_Question_of_Balance",
+            "http://dbpedia.org/resource/Threshold_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Pink_Floyd",
+            "http://dbpedia.org/resource/Atom_Heart_Mother",
+            "http://dbpedia.org/resource/Harvest_Records"
+        ]
+    ]
+}

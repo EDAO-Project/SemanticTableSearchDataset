@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brent_Hayden",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Brent_Hayden",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Thorpe",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Thorpe",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/Kieren_Perkins",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Victoria,_British_Columbia"
+        ]
+    ]
+}

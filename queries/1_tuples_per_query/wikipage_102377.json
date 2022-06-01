@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/England_national_rugby_league_team",
+            "http://dbpedia.org/resource/Millennium_Stadium",
+            "http://dbpedia.org/resource/Cardiff"
+        ]
+    ]
+}

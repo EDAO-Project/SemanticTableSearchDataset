@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WNBA_Finals_Most_Valuable_Player_Award",
+            "http://dbpedia.org/resource/Cappie_Pondexter",
+            "http://dbpedia.org/resource/Phoenix_Mercury"
+        ]
+    ]
+}

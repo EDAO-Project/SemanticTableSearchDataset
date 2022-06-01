@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philadelphia_Orchestra",
+            "http://dbpedia.org/resource/Eugene_Ormandy",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Erich_Leinsdorf",
+            "http://dbpedia.org/resource/RCA"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Philharmonic_Orchestra",
+            "http://dbpedia.org/resource/Walter_Weller",
+            "http://dbpedia.org/resource/Decca_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Orchestre_National_de_France",
+            "http://dbpedia.org/resource/Mstislav_Rostropovich",
+            "http://dbpedia.org/resource/Erato_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Berlin_Philharmonic",
+            "http://dbpedia.org/resource/Seiji_Ozawa",
+            "http://dbpedia.org/resource/Deutsche_Grammophon"
+        ]
+    ]
+}

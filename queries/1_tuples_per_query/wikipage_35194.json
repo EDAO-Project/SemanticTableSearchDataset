@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patrick_Fitzsimons",
+            "http://dbpedia.org/resource/Administrative_Panel",
+            "http://dbpedia.org/resource/Independent_politician"
+        ]
+    ]
+}

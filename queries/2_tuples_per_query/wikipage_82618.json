@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Chad_Reed",
+            "http://dbpedia.org/resource/AMA_Motocross_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Ho-Pin_Tung",
+            "http://dbpedia.org/resource/A1_Grand_Prix"
+        ]
+    ]
+}

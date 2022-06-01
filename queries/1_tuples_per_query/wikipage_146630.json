@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allondans",
+            "http://dbpedia.org/resource/Anteuil",
+            "http://dbpedia.org/resource/Appenans",
+            "http://dbpedia.org/resource/Arbouans"
+        ]
+    ]
+}

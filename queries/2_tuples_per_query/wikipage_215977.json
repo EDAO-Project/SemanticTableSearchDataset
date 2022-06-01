@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Herbie_Hewett",
+            "http://dbpedia.org/resource/Lionel_Palairet",
+            "http://dbpedia.org/resource/Walter_Read",
+            "http://dbpedia.org/resource/Stanley_Scott",
+            "http://dbpedia.org/resource/Andrew_Stoddart"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Giffen",
+            "http://dbpedia.org/resource/Alec_Hearne",
+            "http://dbpedia.org/resource/Stanley_Jackson",
+            "http://dbpedia.org/resource/Harry_Trott",
+            "http://dbpedia.org/resource/Ted_Wainwright"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1303_Luthera",
+            "http://dbpedia.org/resource/Hamburg_Observatory",
+            "http://dbpedia.org/resource/Friedrich_Karl_Arnold_Schwassmann"
+        ]
+    ]
+}

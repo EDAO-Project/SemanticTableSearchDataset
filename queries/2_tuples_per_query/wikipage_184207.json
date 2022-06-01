@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leeds",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Leeds_City_Varieties"
+        ],
+        [
+            "http://dbpedia.org/resource/Leeds",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Leeds_City_Varieties"
+        ]
+    ]
+}

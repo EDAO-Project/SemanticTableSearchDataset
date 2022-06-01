@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_World_Wrestling_Championships",
+            "http://dbpedia.org/resource/Prodan_Gardzhev",
+            "http://dbpedia.org/resource/Anatoly_Albul",
+            "http://dbpedia.org/resource/Mansour_Mehdizadeh"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_World_Wrestling_Championships",
+            "http://dbpedia.org/resource/Levan_Tediashvili",
+            "http://dbpedia.org/resource/Horst_Stottmeister",
+            "http://dbpedia.org/resource/Vasile_Iorga"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Julia_Gillard",
+            "http://dbpedia.org/resource/Prime_Minister_of_Australia"
+        ]
+    ]
+}

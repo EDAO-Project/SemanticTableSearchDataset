@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Scaddan",
+            "http://dbpedia.org/resource/Electoral_district_of_Ivanhoe",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Scaddan_Ministry",
+            "http://dbpedia.org/resource/Western_Australian_state_election,_1914"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Lefroy",
+            "http://dbpedia.org/resource/Electoral_district_of_Moore",
+            "http://dbpedia.org/resource/Nationalist_Party_of_Australia",
+            "http://dbpedia.org/resource/Lefroy_Ministry",
+            "http://dbpedia.org/resource/Western_Australian_state_election,_1917"
+        ]
+    ]
+}

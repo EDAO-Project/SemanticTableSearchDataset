@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santa_Clara_County,_California",
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/California_County_Routes_in_zone_G"
+        ]
+    ]
+}

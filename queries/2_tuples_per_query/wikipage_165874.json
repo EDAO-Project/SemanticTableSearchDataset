@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balingoan,_Misamis_Oriental",
+            "http://dbpedia.org/resource/Mindanao",
+            "http://dbpedia.org/resource/Celebes_Sea"
+        ],
+        [
+            "http://dbpedia.org/resource/Banate,_Iloilo",
+            "http://dbpedia.org/resource/Panay",
+            "http://dbpedia.org/resource/Guimaras_Strait"
+        ]
+    ]
+}

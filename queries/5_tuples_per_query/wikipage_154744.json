@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mitsubishi_Electric_Championship_at_Hualalai",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Dan_Forsman"
+        ],
+        [
+            "http://dbpedia.org/resource/Allianz_Championship",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Corey_Pavin"
+        ],
+        [
+            "http://dbpedia.org/resource/ACE_Group_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Kenny_Perry"
+        ],
+        [
+            "http://dbpedia.org/resource/Mississippi_Gulf_Resort_Classic",
+            "http://dbpedia.org/resource/Mississippi",
+            "http://dbpedia.org/resource/Fred_Couples"
+        ],
+        [
+            "http://dbpedia.org/resource/Insperity_Invitational",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Fred_Funk"
+        ]
+    ]
+}

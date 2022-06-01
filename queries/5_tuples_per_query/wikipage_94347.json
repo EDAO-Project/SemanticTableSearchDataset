@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_WNBA_season",
+            "http://dbpedia.org/resource/Cynthia_Cooper-Dyke",
+            "http://dbpedia.org/resource/Houston_Comets"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_WNBA_season",
+            "http://dbpedia.org/resource/Cynthia_Cooper-Dyke",
+            "http://dbpedia.org/resource/Houston_Comets"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_WNBA_season",
+            "http://dbpedia.org/resource/Cynthia_Cooper-Dyke",
+            "http://dbpedia.org/resource/Houston_Comets"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_WNBA_season",
+            "http://dbpedia.org/resource/Katie_Smith",
+            "http://dbpedia.org/resource/Minnesota_Lynx"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_WNBA_season",
+            "http://dbpedia.org/resource/Katie_Smith",
+            "http://dbpedia.org/resource/Minnesota_Lynx"
+        ]
+    ]
+}

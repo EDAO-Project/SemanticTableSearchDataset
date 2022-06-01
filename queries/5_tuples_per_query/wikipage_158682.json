@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Holden_Torana",
+            "http://dbpedia.org/resource/Lakeside_International_Raceway",
+            "http://dbpedia.org/resource/Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Mazda_Grand_Familia",
+            "http://dbpedia.org/resource/Sydney_Motorsport_Park",
+            "http://dbpedia.org/resource/New_South_Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Holden_Torana",
+            "http://dbpedia.org/resource/Mallala_Motor_Sport_Park",
+            "http://dbpedia.org/resource/South_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Holden_Torana",
+            "http://dbpedia.org/resource/Symmons_Plains_Raceway",
+            "http://dbpedia.org/resource/Tasmania"
+        ],
+        [
+            "http://dbpedia.org/resource/Mazda_RX-7",
+            "http://dbpedia.org/resource/Queensland_Raceway",
+            "http://dbpedia.org/resource/Queensland"
+        ]
+    ]
+}

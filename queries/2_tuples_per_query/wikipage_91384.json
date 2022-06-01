@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bruce_East",
+            "http://dbpedia.org/resource/Reuben_Eldridge_Truax",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_North",
+            "http://dbpedia.org/resource/Alexander_McNeill",
+            "http://dbpedia.org/resource/Liberal-Conservative_Party"
+        ]
+    ]
+}

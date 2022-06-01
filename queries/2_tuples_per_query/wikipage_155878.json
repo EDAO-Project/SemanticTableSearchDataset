@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anhui",
+            "http://dbpedia.org/resource/Zhang_Baoshun",
+            "http://dbpedia.org/resource/Wang_Xuejun"
+        ],
+        [
+            "http://dbpedia.org/resource/Beijing",
+            "http://dbpedia.org/resource/Guo_Jinlong",
+            "http://dbpedia.org/resource/Wang_Anshun"
+        ]
+    ]
+}

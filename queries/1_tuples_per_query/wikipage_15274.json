@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fiji",
+            "http://dbpedia.org/resource/New_Caledonia_national_football_team",
+            "http://dbpedia.org/resource/2000_Melanesia_Cup",
+            "http://dbpedia.org/resource/Batram_Suri"
+        ]
+    ]
+}

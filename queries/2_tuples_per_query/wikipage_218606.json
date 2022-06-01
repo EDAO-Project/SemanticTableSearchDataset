@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adaptaur",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Cattle"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Braford",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Brahman"
+        ]
+    ]
+}

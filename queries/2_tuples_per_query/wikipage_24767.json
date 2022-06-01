@@ -1,0 +1,22 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_Major_League_Baseball_All-Star_Game",
+            "http://dbpedia.org/resource/National_League",
+            "http://dbpedia.org/resource/Cleveland_Stadium",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Willie_Mays",
+            "http://dbpedia.org/resource/Larry_Jackson",
+            "http://dbpedia.org/resource/Jim_Bunning"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Major_League_Baseball_All-Star_Game",
+            "http://dbpedia.org/resource/National_League",
+            "http://dbpedia.org/resource/Shea_Stadium",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Johnny_Callison",
+            "http://dbpedia.org/resource/Juan_Marichal",
+            "http://dbpedia.org/resource/Dick_Radatz"
+        ]
+    ]
+}

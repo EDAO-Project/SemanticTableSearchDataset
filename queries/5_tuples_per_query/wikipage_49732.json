@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amboy,_Lansing_and_Traverse_Bay_Railroad",
+            "http://dbpedia.org/resource/New_York_Central_Railroad",
+            "http://dbpedia.org/resource/Michigan_Central_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Bay_City_and_East_Saginaw_Railroad",
+            "http://dbpedia.org/resource/Pere_Marquette_Railway",
+            "http://dbpedia.org/resource/Flint_and_Pere_Marquette_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada_Southern_Railway",
+            "http://dbpedia.org/resource/New_York_Central_Railroad",
+            "http://dbpedia.org/resource/Michigan_Central_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Cass_River_Railroad",
+            "http://dbpedia.org/resource/Pere_Marquette_Railway",
+            "http://dbpedia.org/resource/Flint_and_Pere_Marquette_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago,_Kalamazoo_and_Saginaw_Railway",
+            "http://dbpedia.org/resource/New_York_Central_Railroad",
+            "http://dbpedia.org/resource/Conrail"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arrowhead_Towne_Center",
+            "http://dbpedia.org/resource/Glendale,_Arizona",
+            "http://dbpedia.org/resource/Phoenix,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Capitola_Mall",
+            "http://dbpedia.org/resource/Capitola,_California",
+            "http://dbpedia.org/resource/Santa_Cruz,_California"
+        ]
+    ]
+}

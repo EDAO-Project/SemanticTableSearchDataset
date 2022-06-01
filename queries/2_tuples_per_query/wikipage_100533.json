@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benjamin_Peary_Pal",
+            "http://dbpedia.org/resource/Punjab,_India",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Brahm_Prakash",
+            "http://dbpedia.org/resource/Punjab,_India",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

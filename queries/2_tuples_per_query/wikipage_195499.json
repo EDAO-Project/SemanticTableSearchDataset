@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1896_Summer_Olympics",
+            "http://dbpedia.org/resource/United_States_at_the_1896_Summer_Olympics",
+            "http://dbpedia.org/resource/Ellery_Harding_Clark",
+            "http://dbpedia.org/resource/Robert_Garrett",
+            "http://dbpedia.org/resource/James_Brendan_Connolly"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1900_Summer_Olympics",
+            "http://dbpedia.org/resource/United_States_at_the_1900_Summer_Olympics",
+            "http://dbpedia.org/resource/Myer_Prinstein",
+            "http://dbpedia.org/resource/James_Brendan_Connolly",
+            "http://dbpedia.org/resource/Lewis_Sheldon"
+        ]
+    ]
+}

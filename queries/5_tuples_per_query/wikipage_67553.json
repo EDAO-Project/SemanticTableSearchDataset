@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tom_McCollum",
+            "http://dbpedia.org/resource/Sanborn,_New_York",
+            "http://dbpedia.org/resource/Guelph_Storm",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Unice",
+            "http://dbpedia.org/resource/Holland,_Ohio",
+            "http://dbpedia.org/resource/Kitchener_Rangers",
+            "http://dbpedia.org/resource/Chicago_Blackhawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathon_Blum",
+            "http://dbpedia.org/resource/Rancho_Santa_Margarita,_California",
+            "http://dbpedia.org/resource/Vancouver_Giants",
+            "http://dbpedia.org/resource/Nashville_Predators"
+        ],
+        [
+            "http://dbpedia.org/resource/Blake_Kessel",
+            "http://dbpedia.org/resource/Madison,_Wisconsin",
+            "http://dbpedia.org/resource/New_Hampshire_Wildcats",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_McDonagh",
+            "http://dbpedia.org/resource/Arden_Hills,_Minnesota",
+            "http://dbpedia.org/resource/Wisconsin_Badgers",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ]
+    ]
+}

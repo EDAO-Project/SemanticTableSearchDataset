@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bacon_and_cabbage",
+            "http://dbpedia.org/resource/Ireland",
+            "http://dbpedia.org/resource/Cabbage"
+        ],
+        [
+            "http://dbpedia.org/resource/Bacon_Explosion",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Italian_sausage"
+        ],
+        [
+            "http://dbpedia.org/resource/Bacon_ice_cream",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Custard"
+        ],
+        [
+            "http://dbpedia.org/resource/Bacone",
+            "http://dbpedia.org/resource/San_Francisco",
+            "http://dbpedia.org/resource/Hash_browns"
+        ],
+        [
+            "http://dbpedia.org/resource/BLT",
+            "http://dbpedia.org/resource/Great_Britain",
+            "http://dbpedia.org/resource/Victorian_era"
+        ]
+    ]
+}

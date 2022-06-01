@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Poppa_of_Bayeux",
+            "http://dbpedia.org/resource/Berengar_II_of_Neustria",
+            "http://dbpedia.org/resource/Rollo"
+        ],
+        [
+            "http://dbpedia.org/resource/Gisela_of_France",
+            "http://dbpedia.org/resource/Charles_the_Simple",
+            "http://dbpedia.org/resource/Rollo"
+        ]
+    ]
+}

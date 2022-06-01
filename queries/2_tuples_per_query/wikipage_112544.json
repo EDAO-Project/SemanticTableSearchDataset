@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/James_II_of_Aragon",
+            "http://dbpedia.org/resource/Pope_Boniface_VIII",
+            "http://dbpedia.org/resource/List_of_Aragonese_monarchs"
+        ],
+        [
+            "http://dbpedia.org/resource/Ridolfo_II_da_Varano_di_Camerino",
+            "http://dbpedia.org/resource/Pope_Gregory_XI",
+            "http://dbpedia.org/resource/Avignon_Papacy"
+        ]
+    ]
+}

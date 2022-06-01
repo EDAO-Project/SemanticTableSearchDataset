@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Any_Which_Way_You_Can",
+            "http://dbpedia.org/resource/Buddy_Van_Horn",
+            "http://dbpedia.org/resource/Clint_Eastwood"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Big_Brawl",
+            "http://dbpedia.org/resource/Robert_Clouse",
+            "http://dbpedia.org/resource/Jackie_Chan"
+        ],
+        [
+            "http://dbpedia.org/resource/Clan_of_the_White_Lotus",
+            "http://dbpedia.org/resource/Lo_Lieh",
+            "http://dbpedia.org/resource/Gordon_Liu"
+        ],
+        [
+            "http://dbpedia.org/resource/Delitto_a_Porta_Romana",
+            "http://dbpedia.org/resource/Bruno_Corbucci",
+            "http://dbpedia.org/resource/Tomas_Milian"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Exterminator",
+            "http://dbpedia.org/resource/James_Glickenhaus",
+            "http://dbpedia.org/resource/Christopher_George"
+        ]
+    ]
+}

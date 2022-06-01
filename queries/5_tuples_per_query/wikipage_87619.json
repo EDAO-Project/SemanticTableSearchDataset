@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WPOP",
+            "http://dbpedia.org/resource/Hartford,_Connecticut",
+            "http://dbpedia.org/resource/Sports_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Big_JAB",
+            "http://dbpedia.org/resource/Gray,_Maine",
+            "http://dbpedia.org/resource/Sports_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Big_JAB",
+            "http://dbpedia.org/resource/Westbrook,_Maine",
+            "http://dbpedia.org/resource/Sports_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/WEEI",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Sports_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/WRKO",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Talk_radio"
+        ]
+    ]
+}

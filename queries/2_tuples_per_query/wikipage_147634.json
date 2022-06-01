@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rob_Alflen",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Wim_Anderiesen",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

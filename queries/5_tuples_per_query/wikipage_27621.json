@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stanislav_Tereba",
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/AC_Sparta_Prague"
+        ],
+        [
+            "http://dbpedia.org/resource/Yasushi_Nagao",
+            "http://dbpedia.org/resource/Assassination",
+            "http://dbpedia.org/resource/Otoya_Yamaguchi"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanley_Forman",
+            "http://dbpedia.org/resource/Fire_Escape_Collapse",
+            "http://dbpedia.org/resource/Boston"
+        ],
+        [
+            "http://dbpedia.org/resource/Leslie_Hammond",
+            "http://dbpedia.org/resource/Apartheid",
+            "http://dbpedia.org/resource/South_Africa"
+        ],
+        [
+            "http://dbpedia.org/resource/Pablo_Bartholomew",
+            "http://dbpedia.org/resource/Bhopal_disaster",
+            "http://dbpedia.org/resource/Union_Carbide"
+        ]
+    ]
+}

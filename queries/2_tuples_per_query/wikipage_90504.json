@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Robson_da_Silva",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/1988_Ibero-American_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Mexico_City"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Alonso_Edward",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/2009_World_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Berlin"
+        ]
+    ]
+}

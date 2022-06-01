@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yilan_City",
+            "http://dbpedia.org/resource/County-controlled_city",
+            "http://dbpedia.org/resource/Yilan_County,_Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Taoyuan,_Taiwan",
+            "http://dbpedia.org/resource/County-controlled_city",
+            "http://dbpedia.org/resource/Taoyuan_County,_Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhongli_District",
+            "http://dbpedia.org/resource/County-controlled_city",
+            "http://dbpedia.org/resource/Taoyuan_County,_Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Pingzhen_District",
+            "http://dbpedia.org/resource/County-controlled_city",
+            "http://dbpedia.org/resource/Taoyuan_County,_Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bade_District",
+            "http://dbpedia.org/resource/County-controlled_city",
+            "http://dbpedia.org/resource/Taoyuan_County,_Taiwan"
+        ]
+    ]
+}

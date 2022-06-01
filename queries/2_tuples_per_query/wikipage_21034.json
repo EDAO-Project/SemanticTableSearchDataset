@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lausanne",
+            "http://dbpedia.org/resource/Julia_Soldatova",
+            "http://dbpedia.org/resource/Amber_Corwin",
+            "http://dbpedia.org/resource/Elena_Pingacheva"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/Viktoria_Volchkova",
+            "http://dbpedia.org/resource/Sarah_Hughes",
+            "http://dbpedia.org/resource/Daria_Timoshenko"
+        ]
+    ]
+}

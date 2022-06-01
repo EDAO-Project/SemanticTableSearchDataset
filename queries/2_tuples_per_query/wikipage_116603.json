@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/No._53_Squadron_RAF",
+            "http://dbpedia.org/resource/Consolidated_B-24_Liberator",
+            "http://dbpedia.org/resource/RAF_St_Eval"
+        ],
+        [
+            "http://dbpedia.org/resource/No._58_Squadron_RAF",
+            "http://dbpedia.org/resource/Handley_Page_Halifax",
+            "http://dbpedia.org/resource/St_Davids"
+        ]
+    ]
+}

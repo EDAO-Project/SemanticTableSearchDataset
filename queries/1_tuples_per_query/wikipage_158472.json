@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Art_Institute_of_Dallas",
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/Dallas_County,_Texas",
+            "http://dbpedia.org/resource/The_Art_Institutes"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/37th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/The_Rolling_Stones",
+            "http://dbpedia.org/resource/Voodoo_Lounge",
+            "http://dbpedia.org/resource/Pearl_Jam"
+        ],
+        [
+            "http://dbpedia.org/resource/38th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Alanis_Morissette",
+            "http://dbpedia.org/resource/Jagged_Little_Pill",
+            "http://dbpedia.org/resource/Chris_Isaak"
+        ]
+    ]
+}

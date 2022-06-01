@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angivillers",
+            "http://dbpedia.org/resource/Angy",
+            "http://dbpedia.org/resource/Ansacq",
+            "http://dbpedia.org/resource/Ansauvillers"
+        ],
+        [
+            "http://dbpedia.org/resource/Bailleval",
+            "http://dbpedia.org/resource/Bazicourt",
+            "http://dbpedia.org/resource/Beauvoir,_Oise",
+            "http://dbpedia.org/resource/Blincourt"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonneuil-les-Eaux",
+            "http://dbpedia.org/resource/Bonvillers",
+            "http://dbpedia.org/resource/Brenouille",
+            "http://dbpedia.org/resource/Breteuil,_Oise"
+        ],
+        [
+            "http://dbpedia.org/resource/Breuil-le-Sec",
+            "http://dbpedia.org/resource/Breuil-le-Vert",
+            "http://dbpedia.org/resource/Broyes,_Oise",
+            "http://dbpedia.org/resource/Brunvillers-la-Motte"
+        ],
+        [
+            "http://dbpedia.org/resource/Campremy",
+            "http://dbpedia.org/resource/Catenoy",
+            "http://dbpedia.org/resource/Catillon-Fumechon",
+            "http://dbpedia.org/resource/Cauffry"
+        ]
+    ]
+}

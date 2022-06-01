@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shizuoka_Stadium",
+            "http://dbpedia.org/resource/Finland_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Tatsuhiko_Kubo"
+        ],
+        [
+            "http://dbpedia.org/resource/Nissan_Stadium",
+            "http://dbpedia.org/resource/India_national_football_team",
+            "http://dbpedia.org/resource/2007_AFC_Asian_Cup_qualification",
+            "http://dbpedia.org/resource/Shinji_Ono"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1958_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Masao_Takemoto",
+            "http://dbpedia.org/resource/Takashi_Ono",
+            "http://dbpedia.org/resource/Yuri_Titov"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Dortmund",
+            "http://dbpedia.org/resource/Akinori_Nakayama",
+            "http://dbpedia.org/resource/Yukio_Endo",
+            "http://dbpedia.org/resource/Franco_Menichelli"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Budapest",
+            "http://dbpedia.org/resource/Tong_Fei",
+            "http://dbpedia.org/resource/Dmitry_Bilozerchev",
+            "http://dbpedia.org/resource/Li_Ning"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Tong_Fei",
+            "http://dbpedia.org/resource/Yuri_Korolev",
+            "http://dbpedia.org/resource/Li_Ning"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Lou_Yun",
+            "http://dbpedia.org/resource/Vladimir_Artemov",
+            "http://dbpedia.org/resource/Lubomir_Geraskov"
+        ]
+    ]
+}

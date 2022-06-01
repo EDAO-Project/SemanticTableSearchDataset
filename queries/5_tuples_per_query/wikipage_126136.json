@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tony_Iveson",
+            "http://dbpedia.org/resource/W._Somerset_Maugham",
+            "http://dbpedia.org/resource/Vine"
+        ],
+        [
+            "http://dbpedia.org/resource/Gyles_Brandreth",
+            "http://dbpedia.org/resource/Anton_Chekhov",
+            "http://dbpedia.org/resource/Michelangelo"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Salmond",
+            "http://dbpedia.org/resource/Robert_Burns",
+            "http://dbpedia.org/resource/Sand_wedge"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_Snow",
+            "http://dbpedia.org/resource/Team_of_Rivals",
+            "http://dbpedia.org/resource/Watercolor_painting"
+        ],
+        [
+            "http://dbpedia.org/resource/Howard_Jacobson",
+            "http://dbpedia.org/resource/Oxford_Book_of_English_Verse",
+            "http://dbpedia.org/resource/Trouser_press"
+        ]
+    ]
+}

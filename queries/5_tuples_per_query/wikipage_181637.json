@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_Tulane_Green_Wave_football_team",
+            "http://dbpedia.org/resource/2002_Hawaii_Warriors_football_team",
+            "http://dbpedia.org/resource/ESPN",
+            "http://dbpedia.org/resource/2002_Hawaii_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Hawaii_Warriors_football_team",
+            "http://dbpedia.org/resource/2003_Houston_Cougars_football_team",
+            "http://dbpedia.org/resource/ESPN",
+            "http://dbpedia.org/resource/2003_Hawaii_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Hawaii_Warriors_football_team",
+            "http://dbpedia.org/resource/University_of_Alabama_at_Birmingham",
+            "http://dbpedia.org/resource/ESPN",
+            "http://dbpedia.org/resource/2004_Hawaii_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Nevada_Wolf_Pack_football_team",
+            "http://dbpedia.org/resource/UCF_Knights_football",
+            "http://dbpedia.org/resource/ESPN",
+            "http://dbpedia.org/resource/2005_Hawaii_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Hawaii_Warriors_football_team",
+            "http://dbpedia.org/resource/2006_Arizona_State_Sun_Devils_football_team",
+            "http://dbpedia.org/resource/ESPN",
+            "http://dbpedia.org/resource/2006_Hawaii_Bowl"
+        ]
+    ]
+}

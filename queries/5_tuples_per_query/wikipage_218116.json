@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Worcester,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_9"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Boylston,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_140"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Clinton,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_62"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Clinton,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_110"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Clinton,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_110"
+        ]
+    ]
+}

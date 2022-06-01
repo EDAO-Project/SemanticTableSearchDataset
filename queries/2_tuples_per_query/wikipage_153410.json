@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Koltsovo_Airport",
+            "http://dbpedia.org/resource/Sverdlovsk_Oblast",
+            "http://dbpedia.org/resource/Yekaterinburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Tolmachevo_Airport",
+            "http://dbpedia.org/resource/Novosibirsk_Oblast",
+            "http://dbpedia.org/resource/Novosibirsk"
+        ]
+    ]
+}

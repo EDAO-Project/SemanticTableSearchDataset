@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apinac",
+            "http://dbpedia.org/resource/Arthun",
+            "http://dbpedia.org/resource/Aveizieux"
+        ],
+        [
+            "http://dbpedia.org/resource/Chazelles-sur-Lavieu",
+            "http://dbpedia.org/resource/Chazelles-sur-Lyon",
+            "http://dbpedia.org/resource/Chenereilles,_Loire"
+        ],
+        [
+            "http://dbpedia.org/resource/Cottance",
+            "http://dbpedia.org/resource/Craintilleux",
+            "http://dbpedia.org/resource/Cuzieu,_Loire"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Gimond",
+            "http://dbpedia.org/resource/La_Tourette",
+            "http://dbpedia.org/resource/La_Valla-sur-Rochefort"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcoux,_Loire",
+            "http://dbpedia.org/resource/Margerie-Chantagret",
+            "http://dbpedia.org/resource/Maringes"
+        ]
+    ]
+}

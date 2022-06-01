@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bynea",
+            "http://dbpedia.org/resource/Llanelli_Rural",
+            "http://dbpedia.org/resource/District_of_Llanelli"
+        ],
+        [
+            "http://dbpedia.org/resource/Dafen,_Carmarthenshire",
+            "http://dbpedia.org/resource/Llanelli_Rural",
+            "http://dbpedia.org/resource/District_of_Llanelli"
+        ]
+    ]
+}

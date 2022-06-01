@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cathedral_of_Christ_the_Saviour",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/Holy_Trinity_Cathedral_of_Tbilisi",
+            "http://dbpedia.org/resource/Georgian_Orthodox_Church",
+            "http://dbpedia.org/resource/Tbilisi"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Piero_Malvestiti",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Hallstein_Commission"
+        ]
+    ]
+}

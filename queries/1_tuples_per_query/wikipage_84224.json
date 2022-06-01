@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1957_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Nellie_Fox",
+            "http://dbpedia.org/resource/Chicago_White_Sox"
+        ]
+    ]
+}

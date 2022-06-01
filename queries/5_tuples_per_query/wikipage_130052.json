@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Port_Malabar_Invitational",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Mickey_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/Palm_Beach_County_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Mickey_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Defender_Classic",
+            "http://dbpedia.org/resource/North_Carolina",
+            "http://dbpedia.org/resource/Carol_Mann"
+        ],
+        [
+            "http://dbpedia.org/resource/Shreveport_Kiwanis_Invitational",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Carol_Mann"
+        ],
+        [
+            "http://dbpedia.org/resource/Tall_City_Open",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Mickey_Wright"
+        ]
+    ]
+}

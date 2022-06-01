@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/France_at_the_1968_Summer_Paralympics",
+            "http://dbpedia.org/resource/United_States_at_the_1968_Summer_Paralympics",
+            "http://dbpedia.org/resource/Great_Britain_at_the_1968_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Argentina_at_the_1968_Summer_Paralympics",
+            "http://dbpedia.org/resource/Great_Britain_at_the_1968_Summer_Paralympics",
+            "http://dbpedia.org/resource/United_States_at_the_1968_Summer_Paralympics"
+        ]
+    ]
+}

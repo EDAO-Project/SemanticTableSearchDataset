@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Platoro_Dam",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Conejos_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Cochiti_Dam",
+            "http://dbpedia.org/resource/United_States_Army_Corps_of_Engineers",
+            "http://dbpedia.org/resource/Sandoval_County,_New_Mexico"
+        ]
+    ]
+}

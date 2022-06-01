@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_Park,_Pennsylvania",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Rec_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Princeton,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/McCarter_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Le_Grand_Rex"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Le_Grand_Rex"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Le_Grand_Rex"
+        ]
+    ]
+}

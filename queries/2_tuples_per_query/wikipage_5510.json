@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4th_Sustainment_Brigade",
+            "http://dbpedia.org/resource/Active_duty",
+            "http://dbpedia.org/resource/Fort_Hood"
+        ],
+        [
+            "http://dbpedia.org/resource/10th_Sustainment_Brigade",
+            "http://dbpedia.org/resource/Active_duty",
+            "http://dbpedia.org/resource/Fort_Drum"
+        ]
+    ]
+}

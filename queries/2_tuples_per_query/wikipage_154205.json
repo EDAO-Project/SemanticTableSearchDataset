@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Match_Play_Championship",
+            "http://dbpedia.org/resource/World_Golf_Championships",
+            "http://dbpedia.org/resource/Hunter_Mahan"
+        ],
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Championship",
+            "http://dbpedia.org/resource/World_Golf_Championships",
+            "http://dbpedia.org/resource/Justin_Rose"
+        ]
+    ]
+}

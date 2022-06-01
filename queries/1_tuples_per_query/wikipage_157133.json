@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_NFL_season",
+            "http://dbpedia.org/resource/2012_Seattle_Seahawks_season",
+            "http://dbpedia.org/resource/2012_Kansas_City_Chiefs_season",
+            "http://dbpedia.org/resource/2012_Baltimore_Ravens_season"
+        ]
+    ]
+}

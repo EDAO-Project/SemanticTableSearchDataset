@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Western_Springs_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Wellington",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Athletic_Park,_Wellington"
+        ]
+    ]
+}

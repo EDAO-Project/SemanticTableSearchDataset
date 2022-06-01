@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Witch_House",
+            "http://dbpedia.org/resource/Salem,_Massachusetts",
+            "http://dbpedia.org/resource/Jonathan_Corwin"
+        ],
+        [
+            "http://dbpedia.org/resource/John_and_Priscilla_Alden_Family_Sites",
+            "http://dbpedia.org/resource/Duxbury,_Massachusetts",
+            "http://dbpedia.org/resource/Pilgrim_Fathers"
+        ]
+    ]
+}

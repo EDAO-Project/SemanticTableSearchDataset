@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ehrhardt_7.5_cm_Model_1901",
+            "http://dbpedia.org/resource/German_Empire",
+            "http://dbpedia.org/resource/World_War_I"
+        ],
+        [
+            "http://dbpedia.org/resource/M116_howitzer",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Korean_War"
+        ],
+        [
+            "http://dbpedia.org/resource/Type_91_10_cm_howitzer",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Second_Sino-Japanese_War"
+        ],
+        [
+            "http://dbpedia.org/resource/OTO_Melara_Mod_56",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Malayan_Emergency"
+        ],
+        [
+            "http://dbpedia.org/resource/L118_light_gun",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Falklands_War"
+        ]
+    ]
+}

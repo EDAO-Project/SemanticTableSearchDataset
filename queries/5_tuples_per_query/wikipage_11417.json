@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pick_You_Up",
+            "http://dbpedia.org/resource/Powderfinger",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Scorcho",
+            "http://dbpedia.org/resource/Weezer",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Down_in_the_Park",
+            "http://dbpedia.org/resource/Foo_Fighters",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Just_a_Girl",
+            "http://dbpedia.org/resource/No_Doubt",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Setting_Sun",
+            "http://dbpedia.org/resource/The_Chemical_Brothers",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ]
+    ]
+}

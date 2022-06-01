@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giacomo_Puccini",
+            "http://dbpedia.org/resource/La_fanciulla_del_West",
+            "http://dbpedia.org/resource/Romantic_music"
+        ],
+        [
+            "http://dbpedia.org/resource/Claude_Debussy",
+            "http://dbpedia.org/resource/Suite_bergamasque",
+            "http://dbpedia.org/resource/Impressionism_in_music"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_Delius",
+            "http://dbpedia.org/resource/A_Village_Romeo_and_Juliet",
+            "http://dbpedia.org/resource/Impressionism_in_music"
+        ],
+        [
+            "http://dbpedia.org/resource/Guy_Ropartz",
+            "http://dbpedia.org/resource/Le_Pays",
+            "http://dbpedia.org/resource/Impressionism_in_music"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Strauss",
+            "http://dbpedia.org/resource/An_Alpine_Symphony",
+            "http://dbpedia.org/resource/Romantic_music"
+        ]
+    ]
+}

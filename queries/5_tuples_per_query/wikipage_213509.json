@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_Frederick_Macdonald",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Edmonton_East",
+            "http://dbpedia.org/resource/Canadian_Army"
+        ],
+        [
+            "http://dbpedia.org/resource/Angus_Lewis_Macdonald",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Kingston_City",
+            "http://dbpedia.org/resource/Canadian_Army"
+        ],
+        [
+            "http://dbpedia.org/resource/Gus_MacFarlane",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Hamilton_Mountain",
+            "http://dbpedia.org/resource/Royal_Canadian_Air_Force"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Alistair_Mackenzie",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Vancouver_Centre",
+            "http://dbpedia.org/resource/Canadian_Army"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Grant_MacNeil",
+            "http://dbpedia.org/resource/Co-operative_Commonwealth_Federation",
+            "http://dbpedia.org/resource/Vancouver_North",
+            "http://dbpedia.org/resource/Canadian_Army"
+        ]
+    ]
+}

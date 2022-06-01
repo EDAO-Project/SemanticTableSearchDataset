@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richardville_House",
+            "http://dbpedia.org/resource/Fort_Wayne,_Indiana",
+            "http://dbpedia.org/resource/Allen_County,_Indiana",
+            "http://dbpedia.org/resource/Treaty_of_Mississinwas"
+        ]
+    ]
+}

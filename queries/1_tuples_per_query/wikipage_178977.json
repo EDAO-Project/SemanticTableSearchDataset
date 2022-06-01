@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agatrix",
+            "http://dbpedia.org/resource/Gatun_Formation",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/Cancellariidae"
+        ]
+    ]
+}

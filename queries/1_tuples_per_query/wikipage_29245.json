@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election,_1824",
+            "http://dbpedia.org/resource/John_Quincy_Adams",
+            "http://dbpedia.org/resource/Andrew_Jackson"
+        ]
+    ]
+}

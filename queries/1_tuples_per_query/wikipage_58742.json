@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1964_New_York_Mets_season",
+            "http://dbpedia.org/resource/Al_Jackson",
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/Shibe_Park"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maxime_Machenaud",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurent_Magnaval",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruan_Snyman",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/South_African_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Dambielle",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Sexton",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Irish_Rugby_Football_Union"
+        ]
+    ]
+}

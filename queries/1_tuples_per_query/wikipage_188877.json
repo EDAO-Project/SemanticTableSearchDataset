@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Armenian_Revolutionary_Federation",
+            "http://dbpedia.org/resource/Mikayel_Varandian"
+        ]
+    ]
+}

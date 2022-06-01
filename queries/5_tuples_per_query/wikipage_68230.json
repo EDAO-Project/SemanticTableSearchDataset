@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_K_League",
+            "http://dbpedia.org/resource/Park_Yoon-ki",
+            "http://dbpedia.org/resource/Jeju_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_K_League",
+            "http://dbpedia.org/resource/Baek_Jong-chul",
+            "http://dbpedia.org/resource/Ulsan_Hyundai_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_K_League",
+            "http://dbpedia.org/resource/Piyapong_Pue-on",
+            "http://dbpedia.org/resource/FC_Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_K_League",
+            "http://dbpedia.org/resource/Chung_Hae-won",
+            "http://dbpedia.org/resource/Busan_IPark"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_K_League",
+            "http://dbpedia.org/resource/Choi_Sang-kook",
+            "http://dbpedia.org/resource/Pohang_Steelers"
+        ]
+    ]
+}

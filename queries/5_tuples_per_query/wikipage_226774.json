@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tristram_Dalton",
+            "http://dbpedia.org/resource/1st_United_States_Congress",
+            "http://dbpedia.org/resource/Caleb_Strong"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Goodhue",
+            "http://dbpedia.org/resource/4th_United_States_Congress",
+            "http://dbpedia.org/resource/Theodore_Sedgwick"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Goodhue",
+            "http://dbpedia.org/resource/5th_United_States_Congress",
+            "http://dbpedia.org/resource/Theodore_Sedgwick"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Goodhue",
+            "http://dbpedia.org/resource/6th_United_States_Congress",
+            "http://dbpedia.org/resource/Samuel_Dexter"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Quincy_Adams",
+            "http://dbpedia.org/resource/8th_United_States_Congress",
+            "http://dbpedia.org/resource/Timothy_Pickering"
+        ]
+    ]
+}

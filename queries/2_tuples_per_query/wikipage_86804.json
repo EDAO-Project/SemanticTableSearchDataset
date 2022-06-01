@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bangalore",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/M_G_Road,_Bangalore"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Bang_Rak_District"
+        ]
+    ]
+}

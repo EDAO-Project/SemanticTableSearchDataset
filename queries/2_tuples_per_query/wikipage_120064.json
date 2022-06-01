@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Achilles_Rink",
+            "http://dbpedia.org/resource/Schenectady,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Union_College",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Hobey_Baker_Memorial_Rink",
+            "http://dbpedia.org/resource/Princeton,_New_Jersey",
+            "http://dbpedia.org/resource/New_Jersey",
+            "http://dbpedia.org/resource/Princeton_Tigers",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ]
+    ]
+}

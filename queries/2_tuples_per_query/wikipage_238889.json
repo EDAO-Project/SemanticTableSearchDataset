@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Texas_Chain_Saw_Massacre",
+            "http://dbpedia.org/resource/Marilyn_Burns",
+            "http://dbpedia.org/resource/Bastrop,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Great_Waldo_Pepper",
+            "http://dbpedia.org/resource/Robert_Redford",
+            "http://dbpedia.org/resource/Elgin,_Texas"
+        ]
+    ]
+}

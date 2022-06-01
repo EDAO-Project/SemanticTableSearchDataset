@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spring_in_a_Small_Town",
+            "http://dbpedia.org/resource/1948_in_film",
+            "http://dbpedia.org/resource/Fei_Mu"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Better_Tomorrow",
+            "http://dbpedia.org/resource/1986_in_film",
+            "http://dbpedia.org/resource/John_Woo"
+        ],
+        [
+            "http://dbpedia.org/resource/Days_of_Being_Wild",
+            "http://dbpedia.org/resource/1990_in_film",
+            "http://dbpedia.org/resource/Wong_Kar-wai"
+        ],
+        [
+            "http://dbpedia.org/resource/Yellow_Earth",
+            "http://dbpedia.org/resource/1984_in_film",
+            "http://dbpedia.org/resource/Chen_Kaige"
+        ],
+        [
+            "http://dbpedia.org/resource/A_City_of_Sadness",
+            "http://dbpedia.org/resource/1989_in_film",
+            "http://dbpedia.org/resource/Hou_Hsiao-Hsien"
+        ]
+    ]
+}

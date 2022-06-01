@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alston_G._Dayton",
+            "http://dbpedia.org/resource/West_Virginia",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Theodore_Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Eli_Baker",
+            "http://dbpedia.org/resource/West_Virginia",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Warren_G._Harding"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_Evans_Watkins",
+            "http://dbpedia.org/resource/West_Virginia",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Franklin_D._Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/Herbert_Stephenson_Boreman",
+            "http://dbpedia.org/resource/West_Virginia",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Ferguson_Paul",
+            "http://dbpedia.org/resource/West_Virginia",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Dwight_D._Eisenhower"
+        ]
+    ]
+}

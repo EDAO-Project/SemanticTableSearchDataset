@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allsvenskan",
+            "http://dbpedia.org/resource/Swedish_Football_Division_2",
+            "http://dbpedia.org/resource/Billingsfors_IK"
+        ],
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_2",
+            "http://dbpedia.org/resource/Swedish_Football_Division_3",
+            "http://dbpedia.org/resource/IK_Brage"
+        ]
+    ]
+}

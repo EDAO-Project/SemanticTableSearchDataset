@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/Hugh_Greer",
+            "http://dbpedia.org/resource/United_States_Naval_Academy"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornell_University",
+            "http://dbpedia.org/resource/Royner_Greene",
+            "http://dbpedia.org/resource/North_Carolina_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Fordham_University",
+            "http://dbpedia.org/resource/Johnny_Bach",
+            "http://dbpedia.org/resource/La_Salle_University"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Washington_University",
+            "http://dbpedia.org/resource/William_Reinhart",
+            "http://dbpedia.org/resource/North_Carolina_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Indiana_University_Bloomington",
+            "http://dbpedia.org/resource/Branch_McCracken",
+            "http://dbpedia.org/resource/Louisiana_State_University"
+        ]
+    ]
+}

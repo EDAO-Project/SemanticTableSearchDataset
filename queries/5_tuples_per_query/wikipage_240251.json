@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany_County,_New_York",
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/Crossgates_Mall"
+        ],
+        [
+            "http://dbpedia.org/resource/Albany_County,_New_York",
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Thruway"
+        ],
+        [
+            "http://dbpedia.org/resource/Albany_County,_New_York",
+            "http://dbpedia.org/resource/Colonie,_New_York",
+            "http://dbpedia.org/resource/Albany_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Saratoga_County,_New_York",
+            "http://dbpedia.org/resource/Halfmoon,_New_York",
+            "http://dbpedia.org/resource/List_of_county_routes_in_Saratoga_County,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Saratoga_County,_New_York",
+            "http://dbpedia.org/resource/Clifton_Park,_New_York",
+            "http://dbpedia.org/resource/List_of_county_routes_in_Saratoga_County,_New_York"
+        ]
+    ]
+}

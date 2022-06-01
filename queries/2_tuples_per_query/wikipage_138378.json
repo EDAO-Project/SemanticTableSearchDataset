@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Taoiseach",
+            "http://dbpedia.org/resource/Garret_FitzGerald",
+            "http://dbpedia.org/resource/Fine_Gael"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Agriculture,_Food_and_the_Marine",
+            "http://dbpedia.org/resource/Austin_Deasy",
+            "http://dbpedia.org/resource/Fine_Gael"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Valeriy_Borzov",
+            "http://dbpedia.org/resource/Renate_Stecher"
+        ],
+        [
+            "http://dbpedia.org/resource/Sofia",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/East_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Grenoble",
+            "http://dbpedia.org/resource/Valeriy_Borzov",
+            "http://dbpedia.org/resource/Renate_Stecher"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Zenon_Nowosz",
+            "http://dbpedia.org/resource/Annegret_Richter"
+        ],
+        [
+            "http://dbpedia.org/resource/Gothenburg",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/East_Germany"
+        ]
+    ]
+}

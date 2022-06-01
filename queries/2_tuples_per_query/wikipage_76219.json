@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Glover_Barkla",
+            "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+            "http://dbpedia.org/resource/X-ray_fluorescence"
+        ],
+        [
+            "http://dbpedia.org/resource/Owen_Willans_Richardson",
+            "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+            "http://dbpedia.org/resource/Thermionic_emission"
+        ]
+    ]
+}

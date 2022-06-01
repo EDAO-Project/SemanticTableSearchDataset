@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avis_Vintage_Cars",
+            "http://dbpedia.org/resource/Antique_car",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Dreamworld_Cinema",
+            "http://dbpedia.org/resource/Movie_theater",
+            "http://dbpedia.org/resource/RealD_3D"
+        ],
+        [
+            "http://dbpedia.org/resource/Dreamworld_Express",
+            "http://dbpedia.org/resource/Rail_transport",
+            "http://dbpedia.org/resource/Baldwin_Locomotive_Works"
+        ],
+        [
+            "http://dbpedia.org/resource/Escape_from_Madagascar",
+            "http://dbpedia.org/resource/Suspended_Family_Coaster",
+            "http://dbpedia.org/resource/Vekoma"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Giant_Drop",
+            "http://dbpedia.org/resource/Drop_tower",
+            "http://dbpedia.org/resource/Intamin"
+        ]
+    ]
+}

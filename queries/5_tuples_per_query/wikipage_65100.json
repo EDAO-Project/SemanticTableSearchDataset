@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vuelta_a_Mallorca",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Gert_Steegmans",
+            "http://dbpedia.org/resource/Team_Katusha"
+        ],
+        [
+            "http://dbpedia.org/resource/Vuelta_a_Mallorca",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Robbie_McEwen",
+            "http://dbpedia.org/resource/Team_Katusha"
+        ],
+        [
+            "http://dbpedia.org/resource/Vuelta_a_Mallorca",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Daniele_Bennati",
+            "http://dbpedia.org/resource/Cannondale_Pro_Cycling_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Vuelta_a_Mallorca",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Antonio_Colom",
+            "http://dbpedia.org/resource/Team_Katusha"
+        ],
+        [
+            "http://dbpedia.org/resource/Vuelta_a_Mallorca",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Gerald_Ciolek",
+            "http://dbpedia.org/resource/Team_Milram"
+        ]
+    ]
+}

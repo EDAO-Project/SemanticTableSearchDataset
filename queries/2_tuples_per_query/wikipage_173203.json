@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Kansas_City_Royals_season",
+            "http://dbpedia.org/resource/Samuel_Deduno",
+            "http://dbpedia.org/resource/Luis_Mendoza",
+            "http://dbpedia.org/resource/Glen_Perkins"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Kansas_City_Royals_season",
+            "http://dbpedia.org/resource/Jeremy_Guthrie",
+            "http://dbpedia.org/resource/P._J._Walters",
+            "http://dbpedia.org/resource/Greg_Holland"
+        ]
+    ]
+}

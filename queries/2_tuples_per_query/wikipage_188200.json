@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NAM-1975",
+            "http://dbpedia.org/resource/SNK_Playmore",
+            "http://dbpedia.org/resource/Shooter_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Namco_Classic_Collection_Vol._1",
+            "http://dbpedia.org/resource/Namco",
+            "http://dbpedia.org/resource/Product_bundling"
+        ]
+    ]
+}

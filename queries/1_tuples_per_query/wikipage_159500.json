@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bucharest",
+            "http://dbpedia.org/resource/Larisa_Latynina",
+            "http://dbpedia.org/resource/Sonia_Iovan",
+            "http://dbpedia.org/resource/Tamara_Manina"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Makomanai_Ice_Arena",
+            "http://dbpedia.org/resource/Sapporo",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Nippon_Budokan",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Nippon_Budokan",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Miyagi_Stadium",
+            "http://dbpedia.org/resource/Sendai",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Miyagi_Stadium",
+            "http://dbpedia.org/resource/Sendai",
+            "http://dbpedia.org/resource/Japan"
+        ]
+    ]
+}

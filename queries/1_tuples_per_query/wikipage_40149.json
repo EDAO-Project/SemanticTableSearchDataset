@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexius_of_Rome",
+            "http://dbpedia.org/resource/Russian_Orthodox_Church",
+            "http://dbpedia.org/resource/Krasnoselsky_District"
+        ]
+    ]
+}

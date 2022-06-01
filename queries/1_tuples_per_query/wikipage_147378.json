@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Diamondbacks",
+            "http://dbpedia.org/resource/National_League_West",
+            "http://dbpedia.org/resource/Kevin_Towers",
+            "http://dbpedia.org/resource/Jerry_Dipoto"
+        ]
+    ]
+}

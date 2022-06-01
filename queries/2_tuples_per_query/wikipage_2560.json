@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Eight_Dimensions",
+            "http://dbpedia.org/resource/Jay_Chou",
+            "http://dbpedia.org/resource/Acoustic_guitar"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Eight_Dimensions",
+            "http://dbpedia.org/resource/Jay_Chou",
+            "http://dbpedia.org/resource/Piano"
+        ]
+    ]
+}

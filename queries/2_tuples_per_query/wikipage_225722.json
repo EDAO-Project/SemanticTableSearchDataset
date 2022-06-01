@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Galina_Koukleva",
+            "http://dbpedia.org/resource/Biathlon_at_the_1998_Winter_Olympics",
+            "http://dbpedia.org/resource/Biathlon_at_the_1998_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuliya_Chepalova",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_1998_Winter_Olympics",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_1998_Winter_Olympics"
+        ]
+    ]
+}

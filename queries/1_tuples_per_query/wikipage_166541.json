@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indiana_Pacers",
+            "http://dbpedia.org/resource/Kemba_Walker",
+            "http://dbpedia.org/resource/Brendan_Haywood",
+            "http://dbpedia.org/resource/Ramon_Sessions",
+            "http://dbpedia.org/resource/Time_Warner_Cable_Arena"
+        ]
+    ]
+}

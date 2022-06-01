@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sing_the_Changes",
+            "http://dbpedia.org/resource/Paul_McCartney",
+            "http://dbpedia.org/resource/Good_Evening_New_York_City"
+        ]
+    ]
+}

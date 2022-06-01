@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/West_Point,_New_York",
+            "http://dbpedia.org/resource/Army_Black_Knights",
+            "http://dbpedia.org/resource/Patriot_League"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Central_Florida",
+            "http://dbpedia.org/resource/Orlando,_Florida",
+            "http://dbpedia.org/resource/UCF_Knights",
+            "http://dbpedia.org/resource/American_Athletic_Conference"
+        ]
+    ]
+}

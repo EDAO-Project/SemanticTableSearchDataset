@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbeydale_Park",
+            "http://dbpedia.org/resource/Sheffield",
+            "http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1946"
+        ],
+        [
+            "http://dbpedia.org/resource/Burton-on-Trent_CC_Ground",
+            "http://dbpedia.org/resource/Burton_upon_Trent",
+            "http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1914"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Derby",
+            "http://dbpedia.org/resource/Derby",
+            "http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1871"
+        ],
+        [
+            "http://dbpedia.org/resource/Derby_Road_Ground,_Wirksworth",
+            "http://dbpedia.org/resource/Wirksworth",
+            "http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1874"
+        ],
+        [
+            "http://dbpedia.org/resource/Ind_Coope_Ground",
+            "http://dbpedia.org/resource/Burton_upon_Trent",
+            "http://dbpedia.org/resource/Derbyshire_County_Cricket_Club_in_1938"
+        ]
+    ]
+}

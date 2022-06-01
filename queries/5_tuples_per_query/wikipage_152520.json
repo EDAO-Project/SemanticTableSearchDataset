@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ruud_Gullit",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Paulo_Futre",
+            "http://dbpedia.org/resource/FC_Porto",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Lineker",
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_van_Basten",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Gianluca_Vialli",
+            "http://dbpedia.org/resource/U.C._Sampdoria",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

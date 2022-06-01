@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ballands_Castle",
+            "http://dbpedia.org/resource/Penselwood",
+            "http://dbpedia.org/resource/Motte-and-bailey_castle"
+        ]
+    ]
+}

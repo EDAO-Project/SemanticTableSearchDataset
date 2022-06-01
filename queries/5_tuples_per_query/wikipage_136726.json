@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nolito",
+            "http://dbpedia.org/resource/FC_Barcelona_B",
+            "http://dbpedia.org/resource/S.L._Benfica"
+        ],
+        [
+            "http://dbpedia.org/resource/Piotr_Trochowski",
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/Sevilla_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Manu_del_Moral",
+            "http://dbpedia.org/resource/Getafe_CF",
+            "http://dbpedia.org/resource/Sevilla_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Miguel_Bedoya",
+            "http://dbpedia.org/resource/Getafe_CF_B",
+            "http://dbpedia.org/resource/CD_Numancia"
+        ],
+        [
+            "http://dbpedia.org/resource/Javier_Chica",
+            "http://dbpedia.org/resource/RCD_Espanyol",
+            "http://dbpedia.org/resource/Real_Betis"
+        ]
+    ]
+}

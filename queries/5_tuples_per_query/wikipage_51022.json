@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chau_Sen_Cocsal_Chhum",
+            "http://dbpedia.org/resource/Cambodia",
+            "http://dbpedia.org/resource/Prime_Minister_of_Cambodia"
+        ],
+        [
+            "http://dbpedia.org/resource/Antoine_Pinay",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/List_of_Prime_Ministers_of_France"
+        ],
+        [
+            "http://dbpedia.org/resource/Prince_Naruhiko_Higashikuni",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/List_of_Prime_Ministers_of_Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Willem_Drees",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/List_of_Prime_Ministers_of_the_Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhang_Qun",
+            "http://dbpedia.org/resource/Taiwan",
+            "http://dbpedia.org/resource/List_of_premiers_of_the_Republic_of_China"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/An_American_Werewolf_in_London",
+            "http://dbpedia.org/resource/John_Landis",
+            "http://dbpedia.org/resource/David_Naughton"
+        ]
+    ]
+}

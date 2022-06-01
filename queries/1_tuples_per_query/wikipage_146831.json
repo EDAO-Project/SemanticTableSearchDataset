@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chamrousse",
+            "http://dbpedia.org/resource/Chantelouve",
+            "http://dbpedia.org/resource/Chantesse",
+            "http://dbpedia.org/resource/Chapareillan"
+        ]
+    ]
+}

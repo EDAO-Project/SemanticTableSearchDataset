@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Valeriy_Borzov",
+            "http://dbpedia.org/resource/Larry_Black",
+            "http://dbpedia.org/resource/Pietro_Mennea"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Wottle",
+            "http://dbpedia.org/resource/Yevhen_Arzhanov",
+            "http://dbpedia.org/resource/Mike_Boit"
+        ],
+        [
+            "http://dbpedia.org/resource/Pekka_Vasala",
+            "http://dbpedia.org/resource/Kipchoge_Keino",
+            "http://dbpedia.org/resource/Rod_Dixon"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Akii-Bua",
+            "http://dbpedia.org/resource/Ralph_Mann",
+            "http://dbpedia.org/resource/David_Hemery"
+        ],
+        [
+            "http://dbpedia.org/resource/Kipchoge_Keino",
+            "http://dbpedia.org/resource/Ben_Jipcho",
+            "http://dbpedia.org/resource/Tapio_Kantanen"
+        ]
+    ]
+}

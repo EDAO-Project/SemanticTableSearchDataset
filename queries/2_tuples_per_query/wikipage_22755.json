@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akiva_Govrin",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Twelfth_government_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Gideon_Patt",
+            "http://dbpedia.org/resource/Likud",
+            "http://dbpedia.org/resource/Nineteenth_government_of_Israel"
+        ]
+    ]
+}

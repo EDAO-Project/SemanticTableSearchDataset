@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Caracas",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/Poliedro_de_Caracas"
+        ]
+    ]
+}

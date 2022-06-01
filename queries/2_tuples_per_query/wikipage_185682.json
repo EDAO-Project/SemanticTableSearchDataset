@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angel_Taylor",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Adam_Levine"
+        ],
+        [
+            "http://dbpedia.org/resource/Beverly_McClellan",
+            "http://dbpedia.org/resource/Fort_Lauderdale,_Florida",
+            "http://dbpedia.org/resource/Christina_Aguilera"
+        ]
+    ]
+}

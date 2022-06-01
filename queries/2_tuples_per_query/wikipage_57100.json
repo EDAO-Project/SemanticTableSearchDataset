@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aleksandra_Gerasimenya",
+            "http://dbpedia.org/resource/Belarus",
+            "http://dbpedia.org/resource/Swimming_at_the_2013_Summer_Universiade",
+            "http://dbpedia.org/resource/Kazan"
+        ],
+        [
+            "http://dbpedia.org/resource/Viktoriya_Andreyeva",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Swimming_at_the_2013_Summer_Universiade",
+            "http://dbpedia.org/resource/Kazan"
+        ]
+    ]
+}

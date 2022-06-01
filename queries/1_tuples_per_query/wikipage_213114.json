@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eastern_Mediterranean",
+            "http://dbpedia.org/resource/Lebanese_Arabic",
+            "http://dbpedia.org/resource/Western_Aramaic_languages",
+            "http://dbpedia.org/resource/Classical_Arabic",
+            "http://dbpedia.org/resource/Arabs"
+        ]
+    ]
+}

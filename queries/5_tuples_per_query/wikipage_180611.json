@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Black_Terry",
+            "http://dbpedia.org/resource/Naucalpan",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Oficiales",
+            "http://dbpedia.org/resource/Naucalpan",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Takahiro_Suwa",
+            "http://dbpedia.org/resource/Naucalpan",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Oficiales",
+            "http://dbpedia.org/resource/Naucalpan",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Oficiales",
+            "http://dbpedia.org/resource/Naucalpan",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

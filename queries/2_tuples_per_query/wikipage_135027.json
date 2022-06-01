@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Rod_Laver_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sydney_Super_Dome"
+        ]
+    ]
+}

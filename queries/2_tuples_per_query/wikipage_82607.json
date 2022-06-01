@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2008_Indian_Premier_League",
+            "http://dbpedia.org/resource/Lakshmipathy_Balaji",
+            "http://dbpedia.org/resource/Irfan_Pathan",
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/Kings_XI_Punjab",
+            "http://dbpedia.org/resource/Chennai"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Indian_Premier_League",
+            "http://dbpedia.org/resource/Amit_Mishra",
+            "http://dbpedia.org/resource/Dwaraka_Ravi_Teja",
+            "http://dbpedia.org/resource/Delhi_Daredevils",
+            "http://dbpedia.org/resource/Deccan_Chargers",
+            "http://dbpedia.org/resource/Delhi"
+        ]
+    ]
+}

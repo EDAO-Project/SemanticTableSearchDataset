@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Courts_of_Alaska",
+            "http://dbpedia.org/resource/Alaska_Supreme_Court",
+            "http://dbpedia.org/resource/Missouri_Plan"
+        ],
+        [
+            "http://dbpedia.org/resource/Courts_of_Arizona",
+            "http://dbpedia.org/resource/Arizona_Supreme_Court",
+            "http://dbpedia.org/resource/Missouri_Plan"
+        ]
+    ]
+}

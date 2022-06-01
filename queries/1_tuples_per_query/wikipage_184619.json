@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2008_Australian_Open",
+            "http://dbpedia.org/resource/Venus_Williams",
+            "http://dbpedia.org/resource/Monique_Adamczak"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_NASCAR_Sprint_Cup_Series",
+            "http://dbpedia.org/resource/Stephen_Leicht",
+            "http://dbpedia.org/resource/Josh_Wise"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_NASCAR_Sprint_Cup_Series",
+            "http://dbpedia.org/resource/Andy_Lally",
+            "http://dbpedia.org/resource/T._J._Bell"
+        ]
+    ]
+}

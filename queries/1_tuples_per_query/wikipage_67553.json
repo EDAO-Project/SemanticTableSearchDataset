@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tom_McCollum",
+            "http://dbpedia.org/resource/Sanborn,_New_York",
+            "http://dbpedia.org/resource/Guelph_Storm",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_League_IX",
+            "http://dbpedia.org/resource/Wigan_Warriors",
+            "http://dbpedia.org/resource/Odsal_Stadium",
+            "http://dbpedia.org/resource/Lesley_Vainikolo",
+            "http://dbpedia.org/resource/Michael_Withers"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_IX",
+            "http://dbpedia.org/resource/Leeds_Rhinos",
+            "http://dbpedia.org/resource/Headingley_Stadium",
+            "http://dbpedia.org/resource/Shontayne_Hape",
+            "http://dbpedia.org/resource/Paul_Deacon"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Torah",
+            "http://dbpedia.org/resource/Moses",
+            "http://dbpedia.org/resource/Documentary_hypothesis"
+        ],
+        [
+            "http://dbpedia.org/resource/Book_of_Joshua",
+            "http://dbpedia.org/resource/Joshua",
+            "http://dbpedia.org/resource/Deuteronomist"
+        ]
+    ]
+}

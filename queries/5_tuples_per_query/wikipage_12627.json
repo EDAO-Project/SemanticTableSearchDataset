@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Delaware",
+            "http://dbpedia.org/resource/Northwestern_University",
+            "http://dbpedia.org/resource/University_of_Arkansas",
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/Auburn_University",
+            "http://dbpedia.org/resource/Arizona_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Johns_Hopkins_University",
+            "http://dbpedia.org/resource/University_of_Chicago",
+            "http://dbpedia.org/resource/Colorado_State_University",
+            "http://dbpedia.org/resource/Bowdoin_College",
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Academy_of_Art_University"
+        ],
+        [
+            "http://dbpedia.org/resource/The_College_of_New_Jersey",
+            "http://dbpedia.org/resource/Butler_University",
+            "http://dbpedia.org/resource/University_of_Iowa",
+            "http://dbpedia.org/resource/University_of_Massachusetts",
+            "http://dbpedia.org/resource/University_of_Central_Florida",
+            "http://dbpedia.org/resource/Humboldt_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Stockton_University",
+            "http://dbpedia.org/resource/University_of_Notre_Dame",
+            "http://dbpedia.org/resource/Wichita_State_University",
+            "http://dbpedia.org/resource/Hofstra_University",
+            "http://dbpedia.org/resource/Augusta_State_University",
+            "http://dbpedia.org/resource/California_State_University,_Sacramento"
+        ],
+        [
+            "http://dbpedia.org/resource/Bucknell_University",
+            "http://dbpedia.org/resource/Wabash_College",
+            "http://dbpedia.org/resource/St._Cloud_State_University",
+            "http://dbpedia.org/resource/Manhattan_College",
+            "http://dbpedia.org/resource/Emory_University",
+            "http://dbpedia.org/resource/San_Diego_State_University"
+        ]
+    ]
+}

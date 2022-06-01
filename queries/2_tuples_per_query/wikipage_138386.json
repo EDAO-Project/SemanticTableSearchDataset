@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Binghamton_shootings",
+            "http://dbpedia.org/resource/Binghamton,_New_York",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Howard_Unruh",
+            "http://dbpedia.org/resource/Camden,_New_Jersey",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

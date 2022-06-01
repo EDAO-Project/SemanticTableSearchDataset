@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Achilles_Rink",
+            "http://dbpedia.org/resource/Schenectady,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Union_College",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Hobey_Baker_Memorial_Rink",
+            "http://dbpedia.org/resource/Princeton,_New_Jersey",
+            "http://dbpedia.org/resource/New_Jersey",
+            "http://dbpedia.org/resource/Princeton_Tigers",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Bright_Hockey_Center",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/Harvard_Crimson",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_State_Sports_Arena",
+            "http://dbpedia.org/resource/Buffalo,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Canisius_College",
+            "http://dbpedia.org/resource/Atlantic_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Gutterson_Fieldhouse",
+            "http://dbpedia.org/resource/Burlington,_Vermont",
+            "http://dbpedia.org/resource/Vermont",
+            "http://dbpedia.org/resource/Vermont_Catamounts",
+            "http://dbpedia.org/resource/Hockey_East"
+        ]
+    ]
+}

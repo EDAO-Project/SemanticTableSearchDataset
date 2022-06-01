@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Neelam_Sanjiva_Reddy",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Anantapur,_Andhra_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Damodaram_Sanjivayya",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Kurnool"
+        ]
+    ]
+}

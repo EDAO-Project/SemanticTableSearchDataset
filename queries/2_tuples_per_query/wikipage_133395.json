@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Huff",
+            "http://dbpedia.org/resource/RML_Group",
+            "http://dbpedia.org/resource/Chevrolet_Cruze"
+        ],
+        [
+            "http://dbpedia.org/resource/Yvan_Muller",
+            "http://dbpedia.org/resource/RML_Group",
+            "http://dbpedia.org/resource/Chevrolet_Cruze"
+        ]
+    ]
+}

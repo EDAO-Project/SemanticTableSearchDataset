@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KBEM-FM",
+            "http://dbpedia.org/resource/Minneapolis_Public_Schools",
+            "http://dbpedia.org/resource/Minneapolis",
+            "http://dbpedia.org/resource/Minnesota"
+        ]
+    ]
+}

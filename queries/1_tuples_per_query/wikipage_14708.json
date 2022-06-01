@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Jimmy_Key",
+            "http://dbpedia.org/resource/Danny_Darwin",
+            "http://dbpedia.org/resource/Randy_Myers"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colorado_Springs,_Colorado",
+            "http://dbpedia.org/resource/KXRM-TV",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company",
+            "http://dbpedia.org/resource/Raycom_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Springs,_Colorado",
+            "http://dbpedia.org/resource/KXTU-LD",
+            "http://dbpedia.org/resource/The_CW",
+            "http://dbpedia.org/resource/Raycom_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/Albany,_Georgia",
+            "http://dbpedia.org/resource/WFXL",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company",
+            "http://dbpedia.org/resource/Raycom_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/Marquette,_Michigan",
+            "http://dbpedia.org/resource/WLUC-TV",
+            "http://dbpedia.org/resource/NBC",
+            "http://dbpedia.org/resource/Raycom_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/Saginaw,_Michigan",
+            "http://dbpedia.org/resource/WEYI-TV",
+            "http://dbpedia.org/resource/NBC",
+            "http://dbpedia.org/resource/CBS"
+        ]
+    ]
+}

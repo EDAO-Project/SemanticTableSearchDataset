@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gulf_Coast_League_Cardinals",
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Jupiter,_Florida",
+            "http://dbpedia.org/resource/Roger_Dean_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Gulf_Coast_League_Marlins",
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/Jupiter,_Florida",
+            "http://dbpedia.org/resource/Roger_Dean_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Gulf_Coast_League_Mets",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Port_St._Lucie,_Florida",
+            "http://dbpedia.org/resource/Tradition_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Gulf_Coast_League_Nationals",
+            "http://dbpedia.org/resource/Washington_Nationals",
+            "http://dbpedia.org/resource/Viera,_Florida",
+            "http://dbpedia.org/resource/Space_Coast_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Gulf_Coast_League_Astros",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Kissimmee,_Florida",
+            "http://dbpedia.org/resource/Osceola_County_Stadium"
+        ]
+    ]
+}

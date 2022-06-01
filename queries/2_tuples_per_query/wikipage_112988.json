@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bert_Haas",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Bud_Hafey",
+            "http://dbpedia.org/resource/Right_fielder",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

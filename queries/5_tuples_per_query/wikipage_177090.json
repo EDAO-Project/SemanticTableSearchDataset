@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/First_Congregational_Church_of_Plainfield",
+            "http://dbpedia.org/resource/Plainfield,_Connecticut",
+            "http://dbpedia.org/resource/Ithiel_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Little_Brown_Church",
+            "http://dbpedia.org/resource/Nashua,_Iowa",
+            "http://dbpedia.org/resource/The_Church_in_the_Wildwood"
+        ],
+        [
+            "http://dbpedia.org/resource/Christ_the_King_Presbyterian_Church",
+            "http://dbpedia.org/resource/Cambridge,_Massachusetts",
+            "http://dbpedia.org/resource/Alexander_Rice_Esty"
+        ],
+        [
+            "http://dbpedia.org/resource/Congregational_Church_of_Blair",
+            "http://dbpedia.org/resource/Blair,_Nebraska",
+            "http://dbpedia.org/resource/Carpenter_Gothic"
+        ],
+        [
+            "http://dbpedia.org/resource/Congregational_Church_and_Manse",
+            "http://dbpedia.org/resource/Santee_Sioux_Reservation",
+            "http://dbpedia.org/resource/Santee,_Nebraska"
+        ]
+    ]
+}

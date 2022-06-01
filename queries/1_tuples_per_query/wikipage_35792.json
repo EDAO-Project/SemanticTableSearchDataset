@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland,_Maine",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cross_Insurance_Arena"
+        ]
+    ]
+}

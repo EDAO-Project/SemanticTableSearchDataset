@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuusamo",
+            "http://dbpedia.org/resource/Dario_Cologna",
+            "http://dbpedia.org/resource/Alexander_Legkov",
+            "http://dbpedia.org/resource/Daniel_Richardsson"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Clusaz",
+            "http://dbpedia.org/resource/Maxim_Vylegzhanin",
+            "http://dbpedia.org/resource/Petter_Northug",
+            "http://dbpedia.org/resource/Alexander_Legkov"
+        ]
+    ]
+}

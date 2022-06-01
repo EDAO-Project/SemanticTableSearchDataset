@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sean_Hoppe",
+            "http://dbpedia.org/resource/North_Sydney_Bears",
+            "http://dbpedia.org/resource/St_Helens_RFC"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harrison_Dillard",
+            "http://dbpedia.org/resource/Barney_Ewell",
+            "http://dbpedia.org/resource/Lloyd_La_Beach"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2012",
+            "http://dbpedia.org/resource/Viola_Davis",
+            "http://dbpedia.org/resource/Adepero_Oduye"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2011",
+            "http://dbpedia.org/resource/Kerry_Washington",
+            "http://dbpedia.org/resource/Anika_Noni_Rose"
+        ]
+    ]
+}

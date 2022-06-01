@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KBUW",
+            "http://dbpedia.org/resource/HD_Radio",
+            "http://dbpedia.org/resource/Buffalo,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/KDUW",
+            "http://dbpedia.org/resource/HD_Radio",
+            "http://dbpedia.org/resource/Douglas,_Wyoming"
+        ]
+    ]
+}

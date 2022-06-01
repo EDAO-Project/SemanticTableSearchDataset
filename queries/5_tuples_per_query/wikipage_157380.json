@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nicky_Horan",
+            "http://dbpedia.org/resource/Meath_GAA",
+            "http://dbpedia.org/resource/Laois_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Codd",
+            "http://dbpedia.org/resource/Wexford_GAA",
+            "http://dbpedia.org/resource/Kilkenny_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Fergal_Healy",
+            "http://dbpedia.org/resource/Galway_GAA",
+            "http://dbpedia.org/resource/Down_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicky_Horan",
+            "http://dbpedia.org/resource/Meath_GAA",
+            "http://dbpedia.org/resource/Dublin_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Shefflin",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/Offaly_GAA"
+        ]
+    ]
+}

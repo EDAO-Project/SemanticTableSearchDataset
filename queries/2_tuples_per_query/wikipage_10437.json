@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/O_Pagador_de_Promessas",
+            "http://dbpedia.org/resource/Anselmo_Duarte",
+            "http://dbpedia.org/resource/Drama_film"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Unscrupulous_Ones",
+            "http://dbpedia.org/resource/Ruy_Guerra",
+            "http://dbpedia.org/resource/12th_Berlin_International_Film_Festival"
+        ]
+    ]
+}

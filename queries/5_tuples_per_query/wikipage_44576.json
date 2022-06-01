@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Virenque",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/1994_Tour_de_France"
+        ],
+        [
+            "http://dbpedia.org/resource/Federico_Bahamontes",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/1954_Tour_de_France"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucien_Van_Impe",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/1971_Tour_de_France"
+        ],
+        [
+            "http://dbpedia.org/resource/Gino_Bartali",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/1938_Tour_de_France"
+        ],
+        [
+            "http://dbpedia.org/resource/Fausto_Coppi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/1949_Tour_de_France"
+        ]
+    ]
+}

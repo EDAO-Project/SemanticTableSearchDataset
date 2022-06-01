@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrea_Alberti",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/S.S.D._Monza_1912",
+            "http://dbpedia.org/resource/Brescia_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Enrico_Alfonso",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/Inter_Milan",
+            "http://dbpedia.org/resource/A.C._Chievo_Verona"
+        ]
+    ]
+}

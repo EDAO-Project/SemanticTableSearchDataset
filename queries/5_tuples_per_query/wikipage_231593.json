@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dr_Crokes_GAA",
+            "http://dbpedia.org/resource/Kerry_GAA",
+            "http://dbpedia.org/resource/Castlehaven_GAA",
+            "http://dbpedia.org/resource/Cork_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr_Crokes_GAA",
+            "http://dbpedia.org/resource/Kerry_GAA",
+            "http://dbpedia.org/resource/UCC_GAA",
+            "http://dbpedia.org/resource/Cork_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Nemo_Rangers_GAA",
+            "http://dbpedia.org/resource/Cork_GAA",
+            "http://dbpedia.org/resource/Dr_Crokes_GAA",
+            "http://dbpedia.org/resource/Kerry_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Nemo_Rangers_GAA",
+            "http://dbpedia.org/resource/Cork_GAA",
+            "http://dbpedia.org/resource/Abbeyside/Ballinacourty_GAA",
+            "http://dbpedia.org/resource/Waterford_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr_Crokes_GAA",
+            "http://dbpedia.org/resource/Kerry_GAA",
+            "http://dbpedia.org/resource/The_Nire-Fourmilewater_GAA",
+            "http://dbpedia.org/resource/Waterford_GAA"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_Virginia_Tech_Hokies_football_team",
+            "http://dbpedia.org/resource/1998_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/1998_Music_City_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Syracuse_Orangemen_football_team",
+            "http://dbpedia.org/resource/1999_Kentucky_Wildcats_football_team",
+            "http://dbpedia.org/resource/1999_Music_City_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_West_Virginia_Mountaineers_football_team",
+            "http://dbpedia.org/resource/2000_Ole_Miss_Rebels_football_team",
+            "http://dbpedia.org/resource/2000_Music_City_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Boston_College_Eagles_football_team",
+            "http://dbpedia.org/resource/2001_Georgia_Bulldogs_football_team",
+            "http://dbpedia.org/resource/2001_Music_City_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Minnesota_Golden_Gophers_football_team",
+            "http://dbpedia.org/resource/2002_Arkansas_Razorbacks_football_team",
+            "http://dbpedia.org/resource/2002_Music_City_Bowl"
+        ]
+    ]
+}

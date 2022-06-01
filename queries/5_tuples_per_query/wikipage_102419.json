@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armand_Jurion",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Roland_Storme",
+            "http://dbpedia.org/resource/K.A.A._Gent",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Van_Himst",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Van_Himst",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Armand_Jurion",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/Belgium"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Norm_Abram",
+            "http://dbpedia.org/resource/University_of_Massachusetts_Amherst",
+            "http://dbpedia.org/resource/PBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Lewis_Black",
+            "http://dbpedia.org/resource/University_of_North_Carolina",
+            "http://dbpedia.org/resource/Grammy_Award"
+        ]
+    ]
+}

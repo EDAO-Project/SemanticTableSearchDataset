@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1961_World_Ice_Hockey_Championships",
+            "http://dbpedia.org/resource/Geneva",
+            "http://dbpedia.org/resource/Switzerland"
+        ]
+    ]
+}

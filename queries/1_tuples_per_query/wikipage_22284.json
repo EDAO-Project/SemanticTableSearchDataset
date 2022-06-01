@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Airlines_Theatre",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/American_Airlines"
+        ]
+    ]
+}

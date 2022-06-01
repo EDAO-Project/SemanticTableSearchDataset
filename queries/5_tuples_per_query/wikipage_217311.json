@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alpine,_Utah",
+            "http://dbpedia.org/resource/Utah_County,_Utah",
+            "http://dbpedia.org/resource/Wasatch_Range"
+        ],
+        [
+            "http://dbpedia.org/resource/Alta,_Utah",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah",
+            "http://dbpedia.org/resource/Spanish_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Alton,_Utah",
+            "http://dbpedia.org/resource/Kane_County,_Utah",
+            "http://dbpedia.org/resource/Norway"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Fork,_Utah",
+            "http://dbpedia.org/resource/Utah_County,_Utah",
+            "http://dbpedia.org/resource/American_Fork_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Antimony,_Utah",
+            "http://dbpedia.org/resource/Garfield_County,_Utah",
+            "http://dbpedia.org/resource/Antimony"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aganang_Local_Municipality",
+            "http://dbpedia.org/resource/Limpopo",
+            "http://dbpedia.org/resource/Capricorn_District_Municipality",
+            "http://dbpedia.org/resource/Koloti"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Memorial_Hall_Library",
+            "http://dbpedia.org/resource/Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts"
+        ]
+    ]
+}

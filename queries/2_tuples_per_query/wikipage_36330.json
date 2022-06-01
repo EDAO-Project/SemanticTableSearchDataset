@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1959_Southeast_Asian_Peninsular_Games",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Myanmar",
+            "http://dbpedia.org/resource/Federation_of_Malaya"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_Southeast_Asian_Peninsular_Games",
+            "http://dbpedia.org/resource/Yangon",
+            "http://dbpedia.org/resource/Myanmar",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Federation_of_Malaya"
+        ]
+    ]
+}

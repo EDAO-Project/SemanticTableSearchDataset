@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elizabeth_Arden_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Jo_Ann_Prentice"
+        ],
+        [
+            "http://dbpedia.org/resource/Naples_Lely_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Kathy_Whitworth"
+        ],
+        [
+            "http://dbpedia.org/resource/Pompano_Beach_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Sandra_Palmer"
+        ],
+        [
+            "http://dbpedia.org/resource/Alamo_Ladies_Classic",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Betsy_Cullen"
+        ],
+        [
+            "http://dbpedia.org/resource/ANA_Inspiration",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Mickey_Wright"
+        ]
+    ]
+}

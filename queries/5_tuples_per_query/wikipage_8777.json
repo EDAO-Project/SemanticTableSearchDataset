@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Moustakas",
+            "http://dbpedia.org/resource/Kansas_City_Royals",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Chatsworth_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Vitters",
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Cypress_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Moskos",
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Clemson_Tigers_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Wieters",
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Ross_Detwiler",
+            "http://dbpedia.org/resource/Washington_Nationals",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Missouri_State_Bears_baseball"
+        ]
+    ]
+}

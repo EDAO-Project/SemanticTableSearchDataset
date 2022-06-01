@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Babe_Didrikson_Zaharias",
+            "http://dbpedia.org/resource/Atlantic_City_Country_Club",
+            "http://dbpedia.org/resource/Northfield,_New_Jersey"
+        ]
+    ]
+}

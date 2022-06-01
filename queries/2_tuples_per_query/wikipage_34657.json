@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Schultz_Building",
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/Downtown_Jacksonville_Multiple_Property_Submission"
+        ],
+        [
+            "http://dbpedia.org/resource/Riverside_and_Avondale",
+            "http://dbpedia.org/resource/St._Johns_River",
+            "http://dbpedia.org/resource/Jacksonville,_Florida"
+        ]
+    ]
+}

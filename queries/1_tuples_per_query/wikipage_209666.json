@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lars_Conrad",
+            "http://dbpedia.org/resource/Nicolae_Butacu",
+            "http://dbpedia.org/resource/Nicolae_Ivan"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oveta_Culp_Hobby",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ]
+    ]
+}

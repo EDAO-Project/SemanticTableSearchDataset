@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arzon",
+            "http://dbpedia.org/resource/Augan",
+            "http://dbpedia.org/resource/Baden,_Morbihan",
+            "http://dbpedia.org/resource/Beignon"
+        ],
+        [
+            "http://dbpedia.org/resource/Berric",
+            "http://dbpedia.org/resource/Billiers",
+            "http://dbpedia.org/resource/Bohal",
+            "http://dbpedia.org/resource/Brandivy"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Canadian_Mixed_Curling_Championship",
+            "http://dbpedia.org/resource/Prince_Edward_Island",
+            "http://dbpedia.org/resource/Manitoba"
+        ]
+    ]
+}

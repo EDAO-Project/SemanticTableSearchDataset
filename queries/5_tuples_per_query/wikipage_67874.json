@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bismarck_State_College",
+            "http://dbpedia.org/resource/Bismarck,_North_Dakota",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/The_Higher_Learning_Commission"
+        ],
+        [
+            "http://dbpedia.org/resource/Cankdeska_Cikana_Community_College",
+            "http://dbpedia.org/resource/Fort_Totten,_North_Dakota",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/The_Higher_Learning_Commission"
+        ],
+        [
+            "http://dbpedia.org/resource/Dakota_College_at_Bottineau",
+            "http://dbpedia.org/resource/Bottineau,_North_Dakota",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/The_Higher_Learning_Commission"
+        ],
+        [
+            "http://dbpedia.org/resource/Dickinson_State_University",
+            "http://dbpedia.org/resource/Dickinson,_North_Dakota",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/The_Higher_Learning_Commission"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Berthold_Community_College",
+            "http://dbpedia.org/resource/New_Town,_North_Dakota",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/The_Higher_Learning_Commission"
+        ]
+    ]
+}

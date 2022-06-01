@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/EC_Red_Bull_Salzburg",
+            "http://dbpedia.org/resource/Salzburg",
+            "http://dbpedia.org/resource/Eisarena_Salzburg"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Kometa_Brno",
+            "http://dbpedia.org/resource/Brno",
+            "http://dbpedia.org/resource/DRFG_Arena"
+        ]
+    ]
+}

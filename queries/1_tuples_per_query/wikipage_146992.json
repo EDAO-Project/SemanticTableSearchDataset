@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/President_of_Afghanistan",
+            "http://dbpedia.org/resource/Zeenat_Karzai"
+        ]
+    ]
+}

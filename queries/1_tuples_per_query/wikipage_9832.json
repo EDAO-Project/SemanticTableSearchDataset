@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1985_Formula_One_season",
+            "http://dbpedia.org/resource/Niki_Lauda",
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/1985_Dutch_Grand_Prix"
+        ]
+    ]
+}

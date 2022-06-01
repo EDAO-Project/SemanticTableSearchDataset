@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_T._Benson",
+            "http://dbpedia.org/resource/Bachelor_of_Arts",
+            "http://dbpedia.org/resource/Snow_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanford_Cazier",
+            "http://dbpedia.org/resource/University_of_Utah",
+            "http://dbpedia.org/resource/California_State_University,_Chico"
+        ]
+    ]
+}

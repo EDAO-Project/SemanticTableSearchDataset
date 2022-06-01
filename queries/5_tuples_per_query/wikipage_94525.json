@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Zealand_Warriors",
+            "http://dbpedia.org/resource/Robina_Stadium",
+            "http://dbpedia.org/resource/Joe_Tomane",
+            "http://dbpedia.org/resource/Scott_Prince"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/Stadium_Australia",
+            "http://dbpedia.org/resource/William_Zillman",
+            "http://dbpedia.org/resource/Scott_Prince"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Queensland_Cowboys",
+            "http://dbpedia.org/resource/Willows_Sports_Complex",
+            "http://dbpedia.org/resource/Mark_Minichiello",
+            "http://dbpedia.org/resource/Mat_Rogers"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne_Storm",
+            "http://dbpedia.org/resource/Robina_Stadium",
+            "http://dbpedia.org/resource/Joe_Tomane",
+            "http://dbpedia.org/resource/Mat_Rogers"
+        ],
+        [
+            "http://dbpedia.org/resource/Manly_Warringah_Sea_Eagles",
+            "http://dbpedia.org/resource/Brookvale_Oval",
+            "http://dbpedia.org/resource/Kevin_Gordon",
+            "http://dbpedia.org/resource/Preston_Campbell"
+        ]
+    ]
+}

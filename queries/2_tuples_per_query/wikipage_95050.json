@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eddie_Tolan",
+            "http://dbpedia.org/resource/Ralph_Metcalfe",
+            "http://dbpedia.org/resource/Arthur_Jonath"
+        ],
+        [
+            "http://dbpedia.org/resource/Lauri_Lehtinen",
+            "http://dbpedia.org/resource/Ralph_Hill",
+            "http://dbpedia.org/resource/Lauri_Virtanen"
+        ]
+    ]
+}

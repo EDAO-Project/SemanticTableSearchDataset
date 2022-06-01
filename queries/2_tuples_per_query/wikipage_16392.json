@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armando_Allen",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Chicago_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Tyler_Eifert",
+            "http://dbpedia.org/resource/Tight_end",
+            "http://dbpedia.org/resource/Cincinnati_Bengals"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Caldwell,_Texas",
+            "http://dbpedia.org/resource/Burleson_County,_Texas",
+            "http://dbpedia.org/resource/Mathew_Caldwell"
+        ],
+        [
+            "http://dbpedia.org/resource/Canadian,_Texas",
+            "http://dbpedia.org/resource/Hemphill_County,_Texas",
+            "http://dbpedia.org/resource/Canadian_River"
+        ]
+    ]
+}

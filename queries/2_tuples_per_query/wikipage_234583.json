@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Taufik_Hidayat",
+            "http://dbpedia.org/resource/Lee_Hyun-il",
+            "http://dbpedia.org/resource/Hendrawan"
+        ],
+        [
+            "http://dbpedia.org/resource/Taufik_Hidayat",
+            "http://dbpedia.org/resource/Lee_Hyun-il",
+            "http://dbpedia.org/resource/Shon_Seung-mo"
+        ]
+    ]
+}

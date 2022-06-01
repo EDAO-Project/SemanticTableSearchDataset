@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Erdemli",
+            "http://dbpedia.org/resource/Erdemli_Shooting_Range",
+            "http://dbpedia.org/resource/Shooting_at_the_2013_Mediterranean_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Mersin",
+            "http://dbpedia.org/resource/Adnan_Menderes_Boulevard",
+            "http://dbpedia.org/resource/Cycling_at_the_2013_Mediterranean_Games"
+        ]
+    ]
+}

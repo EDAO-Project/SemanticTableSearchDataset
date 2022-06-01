@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1908_All_England_Badminton_Championships",
+            "http://dbpedia.org/resource/Henry_Norman_Marrett",
+            "http://dbpedia.org/resource/Frank_Chesterton"
+        ],
+        [
+            "http://dbpedia.org/resource/1909_All_England_Badminton_Championships",
+            "http://dbpedia.org/resource/Frank_Chesterton",
+            "http://dbpedia.org/resource/Henry_Norman_Marrett"
+        ],
+        [
+            "http://dbpedia.org/resource/1910_All_England_Badminton_Championships",
+            "http://dbpedia.org/resource/Henry_Norman_Marrett",
+            "http://dbpedia.org/resource/Frank_Chesterton"
+        ],
+        [
+            "http://dbpedia.org/resource/1912_All_England_Badminton_Championships",
+            "http://dbpedia.org/resource/Henry_Norman_Marrett",
+            "http://dbpedia.org/resource/Frank_Chesterton"
+        ],
+        [
+            "http://dbpedia.org/resource/1914_All_England_Badminton_Championships",
+            "http://dbpedia.org/resource/Frank_Chesterton",
+            "http://dbpedia.org/resource/Guy_A._Sautter"
+        ]
+    ]
+}

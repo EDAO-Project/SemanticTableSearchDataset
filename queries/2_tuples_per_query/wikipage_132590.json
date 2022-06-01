@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ban_Aen",
+            "http://dbpedia.org/resource/Doi_Tao_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Ban_Chan,_Chiang_Mai",
+            "http://dbpedia.org/resource/Galyani_Vadhana_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ]
+    ]
+}

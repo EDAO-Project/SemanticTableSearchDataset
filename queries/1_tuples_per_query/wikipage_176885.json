@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guy_Morton",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/History_of_the_Philadelphia_Athletics",
+            "http://dbpedia.org/resource/Whitey_Witt"
+        ]
+    ]
+}

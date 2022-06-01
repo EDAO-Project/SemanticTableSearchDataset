@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Tonight_Show_Starring_Johnny_Carson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/List_of_The_Tonight_Show_Starring_Johnny_Carson_episodes"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Tonight_Show_with_Jay_Leno",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/List_of_The_Tonight_Show_with_Jay_Leno_episodes"
+        ]
+    ]
+}

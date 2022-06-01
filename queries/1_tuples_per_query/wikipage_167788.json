@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newcastle_Diamonds",
+            "http://dbpedia.org/resource/Eastbourne_Eagles",
+            "http://dbpedia.org/resource/Ellesmere_Port_Gunners",
+            "http://dbpedia.org/resource/Workington_Comets"
+        ]
+    ]
+}

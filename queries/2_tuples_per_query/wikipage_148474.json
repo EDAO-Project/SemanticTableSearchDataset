@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ring-A-Ding_Girl",
+            "http://dbpedia.org/resource/Ronnie_Carroll",
+            "http://dbpedia.org/resource/Philips_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/I_Love_the_Little_Things",
+            "http://dbpedia.org/resource/Matt_Monro",
+            "http://dbpedia.org/resource/Parlophone"
+        ]
+    ]
+}

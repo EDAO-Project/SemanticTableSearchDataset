@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Glasgow",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Clyde_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Glasgow",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Clyde_Auditorium"
+        ]
+    ]
+}

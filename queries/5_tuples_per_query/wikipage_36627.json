@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Alabama_Department_of_Education",
+            "http://dbpedia.org/resource/Alabama_High_School_Graduation_Exam"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Colorado_Department_of_Education",
+            "http://dbpedia.org/resource/Colorado_Student_Assessment_Program"
+        ],
+        [
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Connecticut_State_Department_of_Education",
+            "http://dbpedia.org/resource/Connecticut_Academic_Performance_Test"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Florida_Department_of_Education",
+            "http://dbpedia.org/resource/Florida_Comprehensive_Assessment_Test"
+        ],
+        [
+            "http://dbpedia.org/resource/Idaho",
+            "http://dbpedia.org/resource/Idaho_State_Department_of_Education",
+            "http://dbpedia.org/resource/Idaho_Standards_Achievement_Test"
+        ]
+    ]
+}

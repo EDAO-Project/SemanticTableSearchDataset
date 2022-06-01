@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/King_of_Prussia_Mall",
+            "http://dbpedia.org/resource/King_of_Prussia,_Pennsylvania",
+            "http://dbpedia.org/resource/Philadelphia"
+        ],
+        [
+            "http://dbpedia.org/resource/Aventura_Mall",
+            "http://dbpedia.org/resource/Aventura,_Florida",
+            "http://dbpedia.org/resource/Miami"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Coast_Plaza",
+            "http://dbpedia.org/resource/Costa_Mesa,_California",
+            "http://dbpedia.org/resource/Los_Angeles"
+        ],
+        [
+            "http://dbpedia.org/resource/Del_Amo_Fashion_Center",
+            "http://dbpedia.org/resource/Torrance,_California",
+            "http://dbpedia.org/resource/Los_Angeles"
+        ],
+        [
+            "http://dbpedia.org/resource/Destiny_USA",
+            "http://dbpedia.org/resource/Syracuse,_New_York",
+            "http://dbpedia.org/resource/Syracuse_metropolitan_area"
+        ]
+    ]
+}

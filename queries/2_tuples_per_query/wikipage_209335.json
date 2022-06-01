@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Ford_Super_Duty",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/V8_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Chrysler",
+            "http://dbpedia.org/resource/Dodge_Ram",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Straight-six_engine"
+        ]
+    ]
+}

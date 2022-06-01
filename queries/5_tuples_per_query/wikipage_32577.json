@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lewis_Anderson_House,_Barn_and_Granary",
+            "http://dbpedia.org/resource/The_Dalles,_Oregon",
+            "http://dbpedia.org/resource/Wasco_County,_Oregon",
+            "http://dbpedia.org/resource/Mount_Hood",
+            "http://dbpedia.org/resource/Historic_house_museum",
+            "http://dbpedia.org/resource/Fort_Dalles"
+        ],
+        [
+            "http://dbpedia.org/resource/Antique_Powerland",
+            "http://dbpedia.org/resource/Brooks,_Oregon",
+            "http://dbpedia.org/resource/Marion_County,_Oregon",
+            "http://dbpedia.org/resource/Willamette_Valley",
+            "http://dbpedia.org/resource/List_of_railway_museums",
+            "http://dbpedia.org/resource/List_of_museums_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Art_Gym",
+            "http://dbpedia.org/resource/Marylhurst,_Oregon",
+            "http://dbpedia.org/resource/Multnomah_County,_Oregon",
+            "http://dbpedia.org/resource/Portland_metropolitan_area",
+            "http://dbpedia.org/resource/Art_museum",
+            "http://dbpedia.org/resource/Marylhurst_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbia_River_Maritime_Museum",
+            "http://dbpedia.org/resource/Astoria,_Oregon",
+            "http://dbpedia.org/resource/Clatsop_County,_Oregon",
+            "http://dbpedia.org/resource/Oregon_Coast",
+            "http://dbpedia.org/resource/Maritime_museum",
+            "http://dbpedia.org/resource/Columbia_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Coos_Art_Museum",
+            "http://dbpedia.org/resource/Coos_Bay,_Oregon",
+            "http://dbpedia.org/resource/Coos_County,_Oregon",
+            "http://dbpedia.org/resource/Oregon_Coast",
+            "http://dbpedia.org/resource/Art_museum",
+            "http://dbpedia.org/resource/Art_Deco"
+        ]
+    ]
+}

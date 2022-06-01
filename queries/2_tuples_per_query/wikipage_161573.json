@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michele_Scarponi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Lampre-Merida"
+        ],
+        [
+            "http://dbpedia.org/resource/Damiano_Cunego",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Lampre-Merida"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Calgary_Centre",
+            "http://dbpedia.org/resource/Joan_Crockatt"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Calgary_Centre-North",
+            "http://dbpedia.org/resource/Michelle_Rempel"
+        ]
+    ]
+}

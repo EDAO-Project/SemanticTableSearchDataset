@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Space_Invaders",
+            "http://dbpedia.org/resource/Taito_Corporation",
+            "http://dbpedia.org/resource/Video_game_industry"
+        ],
+        [
+            "http://dbpedia.org/resource/Pac-Man",
+            "http://dbpedia.org/resource/Namco",
+            "http://dbpedia.org/resource/Mascot"
+        ]
+    ]
+}

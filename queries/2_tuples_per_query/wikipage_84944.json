@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joanna_of_Castile",
+            "http://dbpedia.org/resource/Ferdinand_II_of_Aragon",
+            "http://dbpedia.org/resource/Philip_I_of_Castile"
+        ],
+        [
+            "http://dbpedia.org/resource/Isabella_of_Portugal",
+            "http://dbpedia.org/resource/Manuel_I_of_Portugal",
+            "http://dbpedia.org/resource/Charles_V,_Holy_Roman_Emperor"
+        ]
+    ]
+}

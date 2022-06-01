@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_USA_2011",
+            "http://dbpedia.org/resource/Katie_Blair",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Miss_Montana_Teen_USA"
+        ]
+    ]
+}

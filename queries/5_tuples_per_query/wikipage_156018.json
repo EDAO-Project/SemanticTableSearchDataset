@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/James_Cox_Aikins",
+            "http://dbpedia.org/resource/Conservative_Party_of_Canada",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Proclamation"
+        ],
+        [
+            "http://dbpedia.org/resource/George_William_Allan",
+            "http://dbpedia.org/resource/Conservative_Party_of_Canada",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Proclamation"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Hawkins_Anderson",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Nova_Scotia",
+            "http://dbpedia.org/resource/Proclamation"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Dickson_Archibald",
+            "http://dbpedia.org/resource/Conservative_Party_of_Canada",
+            "http://dbpedia.org/resource/Nova_Scotia",
+            "http://dbpedia.org/resource/Proclamation"
+        ],
+        [
+            "http://dbpedia.org/resource/Narcisse-Fortunat_Belleau",
+            "http://dbpedia.org/resource/Conservative_Party_of_Canada",
+            "http://dbpedia.org/resource/Quebec",
+            "http://dbpedia.org/resource/Proclamation"
+        ]
+    ]
+}

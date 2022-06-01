@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/24_Hour_Party_People",
+            "http://dbpedia.org/resource/Michael_Winterbottom",
+            "http://dbpedia.org/resource/Steve_Coogan"
+        ],
+        [
+            "http://dbpedia.org/resource/40_Days_and_40_Nights",
+            "http://dbpedia.org/resource/Michael_Lehmann",
+            "http://dbpedia.org/resource/Josh_Hartnett"
+        ]
+    ]
+}

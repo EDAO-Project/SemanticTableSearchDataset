@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/48th_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/The_Godfather_Part_III",
+            "http://dbpedia.org/resource/Francis_Ford_Coppola"
+        ],
+        [
+            "http://dbpedia.org/resource/48th_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/Goodfellas",
+            "http://dbpedia.org/resource/Nicholas_Pileggi"
+        ],
+        [
+            "http://dbpedia.org/resource/48th_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/Reversal_of_Fortune",
+            "http://dbpedia.org/resource/Nicholas_Kazan"
+        ],
+        [
+            "http://dbpedia.org/resource/49th_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/Bugsy",
+            "http://dbpedia.org/resource/James_Toback"
+        ],
+        [
+            "http://dbpedia.org/resource/50th_Golden_Globe_Awards",
+            "http://dbpedia.org/resource/A_Few_Good_Men",
+            "http://dbpedia.org/resource/Aaron_Sorkin"
+        ]
+    ]
+}

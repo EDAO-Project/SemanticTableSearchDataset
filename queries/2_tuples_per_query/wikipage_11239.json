@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeff_Gordon",
+            "http://dbpedia.org/resource/DuPont",
+            "http://dbpedia.org/resource/Hendrick_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Martin",
+            "http://dbpedia.org/resource/Sildenafil",
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ]
+    ]
+}

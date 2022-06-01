@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bristol_Temple_Meads_railway_station",
+            "http://dbpedia.org/resource/Bristol_and_Exeter_Railway",
+            "http://dbpedia.org/resource/Flax_Bourton_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol_Temple_Meads_railway_station",
+            "http://dbpedia.org/resource/Great_Western_Railway",
+            "http://dbpedia.org/resource/Flax_Bourton_railway_station"
+        ]
+    ]
+}

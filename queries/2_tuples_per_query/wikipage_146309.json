@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balnot-la-Grange",
+            "http://dbpedia.org/resource/Balnot-sur-Laignes",
+            "http://dbpedia.org/resource/Bar-sur-Seine",
+            "http://dbpedia.org/resource/Barberey-Saint-Sulpice"
+        ],
+        [
+            "http://dbpedia.org/resource/Bercenay-en-Othe",
+            "http://dbpedia.org/resource/Bernon",
+            "http://dbpedia.org/resource/Bertignolles",
+            "http://dbpedia.org/resource/Beurey"
+        ]
+    ]
+}

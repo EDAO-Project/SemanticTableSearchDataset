@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Vikings",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ]
+    ]
+}

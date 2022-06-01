@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bankers_Life_Fieldhouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlotte,_North_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/PNC_Music_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Uncasville,_Connecticut",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mohegan_Sun_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Madison_Square_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Camden,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Susquehanna_Bank_Center"
+        ]
+    ]
+}

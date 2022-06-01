@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_Arnold_House",
+            "http://dbpedia.org/resource/Delaware_Route_42",
+            "http://dbpedia.org/resource/Kenton,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/Bannister_Hall_and_Baynard_House",
+            "http://dbpedia.org/resource/Delaware_Route_300",
+            "http://dbpedia.org/resource/Smyrna,_Delaware"
+        ]
+    ]
+}

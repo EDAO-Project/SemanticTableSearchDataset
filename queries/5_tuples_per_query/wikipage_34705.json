@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tennessee_State_Route_1",
+            "http://dbpedia.org/resource/Interstate_55",
+            "http://dbpedia.org/resource/U.S._Route_11E"
+        ],
+        [
+            "http://dbpedia.org/resource/Tennessee_State_Route_2",
+            "http://dbpedia.org/resource/U.S._Route_41",
+            "http://dbpedia.org/resource/U.S._Route_11"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_51_in_Tennessee",
+            "http://dbpedia.org/resource/U.S._Route_51",
+            "http://dbpedia.org/resource/U.S._Route_45"
+        ],
+        [
+            "http://dbpedia.org/resource/Tennessee_State_Route_5",
+            "http://dbpedia.org/resource/U.S._Route_45",
+            "http://dbpedia.org/resource/Kentucky_Route_125"
+        ],
+        [
+            "http://dbpedia.org/resource/Tennessee_State_Route_6",
+            "http://dbpedia.org/resource/U.S._Route_43",
+            "http://dbpedia.org/resource/U.S._Route_31E"
+        ]
+    ]
+}

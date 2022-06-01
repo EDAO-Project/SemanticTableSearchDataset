@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Teotihuacan",
+            "http://dbpedia.org/resource/State_of_Mexico",
+            "http://dbpedia.org/resource/Valley_of_Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/Oraibi,_Arizona",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Hopi_Reservation"
+        ],
+        [
+            "http://dbpedia.org/resource/Puebla,_Puebla",
+            "http://dbpedia.org/resource/Puebla",
+            "http://dbpedia.org/resource/Toribio_de_Benavente_Motolinia"
+        ],
+        [
+            "http://dbpedia.org/resource/Tepic",
+            "http://dbpedia.org/resource/Nayarit",
+            "http://dbpedia.org/resource/Nueva_Galicia"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Augustine,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Pensacola,_Florida"
+        ]
+    ]
+}

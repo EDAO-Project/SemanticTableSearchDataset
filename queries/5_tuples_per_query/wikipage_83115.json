@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1872_FA_Cup_Final",
+            "http://dbpedia.org/resource/Charles_W._Alcock",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/1873_FA_Cup_Final",
+            "http://dbpedia.org/resource/Charles_W._Alcock",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/1876_FA_Cup_Final",
+            "http://dbpedia.org/resource/Jarvis_Kenrick",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/1877_FA_Cup_Final",
+            "http://dbpedia.org/resource/Jarvis_Kenrick",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/1878_FA_Cup_Final",
+            "http://dbpedia.org/resource/Jarvis_Kenrick",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

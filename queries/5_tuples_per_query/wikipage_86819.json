@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/3.7_cm_SK_C/30",
+            "http://dbpedia.org/resource/Nazi_Germany",
+            "http://dbpedia.org/resource/World_War_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Bofors_40_mm_gun",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/World_War_II"
+        ],
+        [
+            "http://dbpedia.org/resource/QF_3-inch_20_cwt",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/World_War_I"
+        ],
+        [
+            "http://dbpedia.org/resource/3",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/World_War_I"
+        ],
+        [
+            "http://dbpedia.org/resource/3",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/World_War_II"
+        ]
+    ]
+}

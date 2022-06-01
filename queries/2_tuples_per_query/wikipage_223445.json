@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/R.C._Pro-Am",
+            "http://dbpedia.org/resource/Racing_video_game",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Nintendo"
+        ],
+        [
+            "http://dbpedia.org/resource/Wheel_of_Fortune_video_games",
+            "http://dbpedia.org/resource/Game_show",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/GameTek"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Some_Like_It_Hot",
+            "http://dbpedia.org/resource/Billy_Wilder",
+            "http://dbpedia.org/resource/1959_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Tootsie",
+            "http://dbpedia.org/resource/Sydney_Pollack",
+            "http://dbpedia.org/resource/1982_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Strangelove",
+            "http://dbpedia.org/resource/Stanley_Kubrick",
+            "http://dbpedia.org/resource/1964_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Annie_Hall",
+            "http://dbpedia.org/resource/Woody_Allen",
+            "http://dbpedia.org/resource/1977_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Blazing_Saddles",
+            "http://dbpedia.org/resource/Mel_Brooks",
+            "http://dbpedia.org/resource/1974_in_film"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/David_Legwand",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

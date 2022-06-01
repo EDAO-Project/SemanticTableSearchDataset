@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Our_Prayer",
+            "http://dbpedia.org/resource/Boys_Choir_of_Harlem",
+            "http://dbpedia.org/resource/Brian_Wilson"
+        ]
+    ]
+}

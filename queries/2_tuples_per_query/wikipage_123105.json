@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4th_Fighter_Squadron",
+            "http://dbpedia.org/resource/Air_Combat_Command",
+            "http://dbpedia.org/resource/Twelfth_Air_Force",
+            "http://dbpedia.org/resource/388th_Fighter_Wing",
+            "http://dbpedia.org/resource/Hill_Air_Force_Base",
+            "http://dbpedia.org/resource/General_Dynamics_F-16_Fighting_Falcon"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Fighter_Squadron",
+            "http://dbpedia.org/resource/Air_Combat_Command",
+            "http://dbpedia.org/resource/Twelfth_Air_Force",
+            "http://dbpedia.org/resource/49th_Wing",
+            "http://dbpedia.org/resource/Holloman_Air_Force_Base",
+            "http://dbpedia.org/resource/Lockheed_Martin_F-22_Raptor"
+        ]
+    ]
+}

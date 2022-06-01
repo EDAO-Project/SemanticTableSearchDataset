@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Haim-Moshe_Shapira",
+            "http://dbpedia.org/resource/United_Religious_Front",
+            "http://dbpedia.org/resource/First_government_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Israel_Rokach",
+            "http://dbpedia.org/resource/General_Zionists",
+            "http://dbpedia.org/resource/Fourth_government_of_Israel"
+        ]
+    ]
+}

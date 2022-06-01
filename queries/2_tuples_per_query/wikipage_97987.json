@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Enthiran",
+            "http://dbpedia.org/resource/S._Shankar",
+            "http://dbpedia.org/resource/Rajinikanth",
+            "http://dbpedia.org/resource/Science_fiction_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Anjaana_Anjaani",
+            "http://dbpedia.org/resource/Siddharth_Anand",
+            "http://dbpedia.org/resource/Ranbir_Kapoor",
+            "http://dbpedia.org/resource/Romance_film"
+        ]
+    ]
+}

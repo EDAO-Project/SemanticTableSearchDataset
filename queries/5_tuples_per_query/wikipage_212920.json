@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1955_Formula_One_season",
+            "http://dbpedia.org/resource/Jim_Rathmann",
+            "http://dbpedia.org/resource/1955_Indianapolis_500"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_Formula_One_season",
+            "http://dbpedia.org/resource/Sam_Hanks",
+            "http://dbpedia.org/resource/1957_Indianapolis_500"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_Formula_One_season",
+            "http://dbpedia.org/resource/Jim_Rathmann",
+            "http://dbpedia.org/resource/1957_Indianapolis_500"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_Formula_One_season",
+            "http://dbpedia.org/resource/Jimmy_Bryan",
+            "http://dbpedia.org/resource/1958_Indianapolis_500"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_Formula_One_season",
+            "http://dbpedia.org/resource/George_Amick",
+            "http://dbpedia.org/resource/1958_Indianapolis_500"
+        ]
+    ]
+}

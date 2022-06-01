@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_Russian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Chelyabinsk",
+            "http://dbpedia.org/resource/Oksana_Grishuk",
+            "http://dbpedia.org/resource/Elena_Kustarova",
+            "http://dbpedia.org/resource/Anjelika_Krylova"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Russian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Saint_Petersburg",
+            "http://dbpedia.org/resource/Anjelika_Krylova",
+            "http://dbpedia.org/resource/Irina_Lobacheva",
+            "http://dbpedia.org/resource/Elena_Kustarova"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_college_football_season",
+            "http://dbpedia.org/resource/NC_State_Wolfpack_football",
+            "http://dbpedia.org/resource/Liberty_Bowl"
+        ]
+    ]
+}

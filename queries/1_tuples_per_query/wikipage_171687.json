@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pennsylvania_State_University",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Rec_Hall"
+        ]
+    ]
+}

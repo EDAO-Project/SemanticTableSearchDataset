@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Bicing",
+            "http://dbpedia.org/resource/IHeartMedia"
+        ]
+    ]
+}

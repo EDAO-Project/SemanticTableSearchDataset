@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/City_of_Albany",
+            "http://dbpedia.org/resource/Albany,_Western_Australia",
+            "http://dbpedia.org/resource/Town_of_Albany"
+        ],
+        [
+            "http://dbpedia.org/resource/Shire_of_Ashburton",
+            "http://dbpedia.org/resource/Tom_Price,_Western_Australia",
+            "http://dbpedia.org/resource/Pilbara"
+        ]
+    ]
+}

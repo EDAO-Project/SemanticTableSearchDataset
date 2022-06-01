@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Cyndi_Lauper",
+            "http://dbpedia.org/resource/Pat_Benatar"
+        ]
+    ]
+}

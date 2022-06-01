@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alston-DeGraffenried_Plantation",
+            "http://dbpedia.org/resource/Pittsboro,_North_Carolina",
+            "http://dbpedia.org/resource/Chatham_County,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Avirett-Stephens_Plantation",
+            "http://dbpedia.org/resource/Richlands,_North_Carolina",
+            "http://dbpedia.org/resource/Onslow_County,_North_Carolina"
+        ]
+    ]
+}

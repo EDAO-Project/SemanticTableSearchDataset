@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Talking_Stick_Resort_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Oracle_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Tacoma,_Washington",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tacoma_Dome"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Moda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Sacramento,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sleep_Train_Arena"
+        ]
+    ]
+}

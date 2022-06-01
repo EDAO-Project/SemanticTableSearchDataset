@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Advanced_Individual_Combat_Weapon",
+            "http://dbpedia.org/resource/Defence_Science_and_Technology_Organisation",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/FN_F2000",
+            "http://dbpedia.org/resource/FN_Herstal",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/EM-2_rifle",
+            "http://dbpedia.org/resource/Royal_Small_Arms_Factory",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/L64/65",
+            "http://dbpedia.org/resource/BAE_Systems",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/KH-2002",
+            "http://dbpedia.org/resource/Defense_Industries_Organization",
+            "http://dbpedia.org/resource/Iran"
+        ]
+    ]
+}

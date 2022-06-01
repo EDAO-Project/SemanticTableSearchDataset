@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1980_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Manny_Trillo",
+            "http://dbpedia.org/resource/Philadelphia_Phillies"
+        ]
+    ]
+}

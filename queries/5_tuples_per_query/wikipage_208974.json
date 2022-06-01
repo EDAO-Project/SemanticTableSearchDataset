@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philip_Johnson",
+            "http://dbpedia.org/resource/Glass_House",
+            "http://dbpedia.org/resource/Dumbarton_Oaks"
+        ],
+        [
+            "http://dbpedia.org/resource/I._M._Pei",
+            "http://dbpedia.org/resource/National_Gallery_of_Art",
+            "http://dbpedia.org/resource/Metropolitan_Museum_of_Art"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Meier",
+            "http://dbpedia.org/resource/High_Museum_of_Art",
+            "http://dbpedia.org/resource/National_Gallery_of_Art"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_Hollein",
+            "http://dbpedia.org/resource/Abteiberg_Museum",
+            "http://dbpedia.org/resource/Huntington_Library"
+        ],
+        [
+            "http://dbpedia.org/resource/Gordon_Bunshaft",
+            "http://dbpedia.org/resource/Beinecke_Rare_Book_&_Manuscript_Library",
+            "http://dbpedia.org/resource/Art_Institute_of_Chicago"
+        ]
+    ]
+}

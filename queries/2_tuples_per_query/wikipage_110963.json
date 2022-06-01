@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ashdown_House,_Oxfordshire",
+            "http://dbpedia.org/resource/Ashbury,_Oxfordshire",
+            "http://dbpedia.org/resource/Vale_of_White_Horse",
+            "http://dbpedia.org/resource/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty"
+        ],
+        [
+            "http://dbpedia.org/resource/Blenheim_Palace",
+            "http://dbpedia.org/resource/Woodstock,_Oxfordshire",
+            "http://dbpedia.org/resource/West_Oxfordshire",
+            "http://dbpedia.org/resource/Winston_Churchill"
+        ]
+    ]
+}

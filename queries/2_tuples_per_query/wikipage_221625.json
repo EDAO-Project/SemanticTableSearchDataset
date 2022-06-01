@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Dolphins",
+            "http://dbpedia.org/resource/NBC",
+            "http://dbpedia.org/resource/Heinz_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacksonville_Jaguars",
+            "http://dbpedia.org/resource/ESPN",
+            "http://dbpedia.org/resource/EverBank_Field"
+        ]
+    ]
+}

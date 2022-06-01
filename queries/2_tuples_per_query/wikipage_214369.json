@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/County_Kerry",
+            "http://dbpedia.org/resource/Munster",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Kerry",
+            "http://dbpedia.org/resource/Munster",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ]
+    ]
+}

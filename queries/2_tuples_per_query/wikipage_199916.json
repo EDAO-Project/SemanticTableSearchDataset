@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_State_University",
+            "http://dbpedia.org/resource/Ned_Wulk",
+            "http://dbpedia.org/resource/Utah_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Oregon_State_University",
+            "http://dbpedia.org/resource/Slats_Gill",
+            "http://dbpedia.org/resource/Seattle_University"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_TEAN_International",
+            "http://dbpedia.org/resource/Diana_Buzean",
+            "http://dbpedia.org/resource/Corinna_Dentoni",
+            "http://dbpedia.org/resource/Justine_Ozga",
+            "http://dbpedia.org/resource/Myrtille_Georges"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Ningbo_Challenger",
+            "http://dbpedia.org/resource/Shuko_Aoyama",
+            "http://dbpedia.org/resource/Tetiana_Luzhanska",
+            "http://dbpedia.org/resource/Duan_Yingying",
+            "http://dbpedia.org/resource/Kurumi_Nara"
+        ]
+    ]
+}

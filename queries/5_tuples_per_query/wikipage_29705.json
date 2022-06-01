@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Vienna_International_Airport",
+            "http://dbpedia.org/resource/Air_Serbia"
+        ],
+        [
+            "http://dbpedia.org/resource/Podgorica",
+            "http://dbpedia.org/resource/Podgorica_Airport",
+            "http://dbpedia.org/resource/Air_Serbia"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Sheremetyevo_International_Airport",
+            "http://dbpedia.org/resource/Air_Serbia"
+        ],
+        [
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Munich_Airport",
+            "http://dbpedia.org/resource/Lufthansa_Regional"
+        ],
+        [
+            "http://dbpedia.org/resource/Tivat",
+            "http://dbpedia.org/resource/Tivat_Airport",
+            "http://dbpedia.org/resource/Air_Serbia"
+        ]
+    ]
+}

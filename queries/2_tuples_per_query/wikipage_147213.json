@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Los_Angeles_Dodgers_season",
+            "http://dbpedia.org/resource/Adam_Ottavino",
+            "http://dbpedia.org/resource/Chris_Capuano",
+            "http://dbpedia.org/resource/Rafael_Betancourt"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Los_Angeles_Dodgers_season",
+            "http://dbpedia.org/resource/Josh_Roenicke",
+            "http://dbpedia.org/resource/Aaron_Harang",
+            "http://dbpedia.org/resource/Rafael_Betancourt"
+        ]
+    ]
+}

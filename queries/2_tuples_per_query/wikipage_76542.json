@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1961_in_film",
+            "http://dbpedia.org/resource/The_Shadows_Grow_Longer",
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Ladislao_Vajda"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_in_film",
+            "http://dbpedia.org/resource/The_Invitation",
+            "http://dbpedia.org/resource/French_language",
+            "http://dbpedia.org/resource/Claude_Goretta"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gyeonggi_Province",
+            "http://dbpedia.org/resource/Silleuksa",
+            "http://dbpedia.org/resource/Yeoju"
+        ],
+        [
+            "http://dbpedia.org/resource/Gyeonggi_Province",
+            "http://dbpedia.org/resource/Yongjusa",
+            "http://dbpedia.org/resource/Hwaseong,_Gyeonggi"
+        ]
+    ]
+}

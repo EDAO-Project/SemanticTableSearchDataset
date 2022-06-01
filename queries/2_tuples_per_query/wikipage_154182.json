@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sanjeev_Rajput",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Jong-hyun",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Iran"
+        ]
+    ]
+}

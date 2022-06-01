@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlantic_Avenue_Railroad",
+            "http://dbpedia.org/resource/Long_Island_Rail_Road",
+            "http://dbpedia.org/resource/Nassau_Electric_Railroad",
+            "http://dbpedia.org/resource/Long_Island_Rail_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic_and_Great_Western_Railroad",
+            "http://dbpedia.org/resource/Erie_Railroad",
+            "http://dbpedia.org/resource/Nypano_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_and_Rochester_Railroad",
+            "http://dbpedia.org/resource/New_York_Central_Railroad",
+            "http://dbpedia.org/resource/Rochester_and_Syracuse_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_and_Syracuse_Railroad",
+            "http://dbpedia.org/resource/New_York_Central_Railroad",
+            "http://dbpedia.org/resource/Rochester_and_Syracuse_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Hoosac_Tunnel",
+            "http://dbpedia.org/resource/Boston_and_Maine_Corporation",
+            "http://dbpedia.org/resource/Fitchburg_Railroad"
+        ]
+    ]
+}

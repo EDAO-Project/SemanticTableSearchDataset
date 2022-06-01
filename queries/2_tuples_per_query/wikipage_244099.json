@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1959_NBA_draft",
+            "http://dbpedia.org/resource/Don_Hennon",
+            "http://dbpedia.org/resource/Sacramento_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_NBA_draft",
+            "http://dbpedia.org/resource/Billy_Knight",
+            "http://dbpedia.org/resource/Los_Angeles_Lakers"
+        ]
+    ]
+}

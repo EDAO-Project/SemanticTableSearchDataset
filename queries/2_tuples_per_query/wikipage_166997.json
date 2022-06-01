@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Hayes",
+            "http://dbpedia.org/resource/Enrique_Figuerola",
+            "http://dbpedia.org/resource/Harry_Jerome"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Snell",
+            "http://dbpedia.org/resource/Bill_Crothers",
+            "http://dbpedia.org/resource/Wilson_Kiprugut"
+        ]
+    ]
+}

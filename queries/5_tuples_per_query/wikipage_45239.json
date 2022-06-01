@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eastwood_Park_Bridge",
+            "http://dbpedia.org/resource/Minot,_North_Dakota",
+            "http://dbpedia.org/resource/Ward_County,_North_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/Elliott_Bridge",
+            "http://dbpedia.org/resource/Towner,_North_Dakota",
+            "http://dbpedia.org/resource/McHenry_County,_North_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairview_Lift_Bridge",
+            "http://dbpedia.org/resource/Cartwright,_North_Dakota",
+            "http://dbpedia.org/resource/McKenzie_County,_North_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/Grace_City_Bridge",
+            "http://dbpedia.org/resource/Grace_City,_North_Dakota",
+            "http://dbpedia.org/resource/Foster_County,_North_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Northern_Railway_Underpass",
+            "http://dbpedia.org/resource/Stanley,_North_Dakota",
+            "http://dbpedia.org/resource/Mountrail_County,_North_Dakota"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cathedral_of_Christ_the_Saviour",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Moscow"
+        ]
+    ]
+}

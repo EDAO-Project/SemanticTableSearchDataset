@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saskatoon_Hilltops",
+            "http://dbpedia.org/resource/Vancouver_Island_Raiders",
+            "http://dbpedia.org/resource/Griffiths_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Saskatoon_Hilltops",
+            "http://dbpedia.org/resource/St._Leonard_Cougars",
+            "http://dbpedia.org/resource/Canad_Inns_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Saskatoon_Hilltops",
+            "http://dbpedia.org/resource/Westshore_Rebels",
+            "http://dbpedia.org/resource/Exhibition_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Saskatoon_Hilltops",
+            "http://dbpedia.org/resource/Okanagan_Sun",
+            "http://dbpedia.org/resource/Foote_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Okanagan_Sun",
+            "http://dbpedia.org/resource/Saskatoon_Hilltops",
+            "http://dbpedia.org/resource/Apple_Bowl"
+        ]
+    ]
+}

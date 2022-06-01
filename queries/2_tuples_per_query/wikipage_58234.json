@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aldersley_Junction",
+            "http://dbpedia.org/resource/BCN_Main_Line",
+            "http://dbpedia.org/resource/Ordnance_Survey_National_Grid"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Junction",
+            "http://dbpedia.org/resource/Birmingham_and_Fazeley_Canal",
+            "http://dbpedia.org/resource/Ordnance_Survey_National_Grid"
+        ]
+    ]
+}

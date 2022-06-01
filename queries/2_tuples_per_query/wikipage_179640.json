@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Yerevan",
+            "http://dbpedia.org/resource/History_Museum_of_Armenia"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Kunsthistorisches_Museum"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acton_Vale_railway_station",
+            "http://dbpedia.org/resource/Acton_Vale,_Quebec",
+            "http://dbpedia.org/resource/Grand_Trunk_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Common_Era",
+            "http://dbpedia.org/resource/Gallichan,_Quebec",
+            "http://dbpedia.org/resource/Abitibiwinni_First_Nation"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Eccles_Hill",
+            "http://dbpedia.org/resource/Frelighsburg,_Quebec",
+            "http://dbpedia.org/resource/Fenian_raids"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_the_Chateauguay",
+            "http://dbpedia.org/resource/Ormstown,_Quebec",
+            "http://dbpedia.org/resource/French_Canadian"
+        ],
+        [
+            "http://dbpedia.org/resource/Beauharnois_Hydroelectric_Generating_Station",
+            "http://dbpedia.org/resource/Beauharnois,_Quebec",
+            "http://dbpedia.org/resource/Hydroelectricity"
+        ]
+    ]
+}

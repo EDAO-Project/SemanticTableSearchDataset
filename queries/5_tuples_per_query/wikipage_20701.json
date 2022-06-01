@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Washington_State_Route_8",
+            "http://dbpedia.org/resource/Elma,_Washington",
+            "http://dbpedia.org/resource/Olympia,_Washington",
+            "http://dbpedia.org/resource/U.S._Route_410"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_former_state_routes_in_Washington",
+            "http://dbpedia.org/resource/Elma,_Washington",
+            "http://dbpedia.org/resource/Grand_Mound,_Washington",
+            "http://dbpedia.org/resource/U.S._Route_12_in_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_State_Route_10",
+            "http://dbpedia.org/resource/Teanaway,_Washington",
+            "http://dbpedia.org/resource/Ellensburg,_Washington",
+            "http://dbpedia.org/resource/U.S._Route_10"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_12_in_Washington",
+            "http://dbpedia.org/resource/Aberdeen,_Washington",
+            "http://dbpedia.org/resource/Idaho",
+            "http://dbpedia.org/resource/U.S._Route_410"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_former_state_routes_in_Washington",
+            "http://dbpedia.org/resource/Tonasket,_Washington",
+            "http://dbpedia.org/resource/Kettle_Falls,_Washington",
+            "http://dbpedia.org/resource/Washington_State_Route_20"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appointment_in_London",
+            "http://dbpedia.org/resource/Philip_Leacock",
+            "http://dbpedia.org/resource/Dirk_Bogarde"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_13",
+            "http://dbpedia.org/resource/Ken_Hughes",
+            "http://dbpedia.org/resource/Peter_Reynolds"
+        ],
+        [
+            "http://dbpedia.org/resource/Decameron_Nights",
+            "http://dbpedia.org/resource/Hugo_Fregonese",
+            "http://dbpedia.org/resource/Joan_Fontaine"
+        ],
+        [
+            "http://dbpedia.org/resource/Desperate_Moment",
+            "http://dbpedia.org/resource/Compton_Bennett",
+            "http://dbpedia.org/resource/Dirk_Bogarde"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Divided_Heart",
+            "http://dbpedia.org/resource/Charles_Crichton",
+            "http://dbpedia.org/resource/Cornell_Borchers"
+        ]
+    ]
+}

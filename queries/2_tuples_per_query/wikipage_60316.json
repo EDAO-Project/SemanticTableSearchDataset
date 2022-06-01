@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antiphospholipid_syndrome",
+            "http://dbpedia.org/resource/Anti-cardiolipin_antibodies",
+            "http://dbpedia.org/resource/HLA-DR7"
+        ],
+        [
+            "http://dbpedia.org/resource/Systemic_scleroderma",
+            "http://dbpedia.org/resource/Anti-nuclear_antibody",
+            "http://dbpedia.org/resource/COL1A2"
+        ]
+    ]
+}

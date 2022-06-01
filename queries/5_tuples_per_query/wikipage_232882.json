@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_Australian_films_of_1976",
+            "http://dbpedia.org/resource/The_Trespassers",
+            "http://dbpedia.org/resource/John_Duigan"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Australian_films_of_1976",
+            "http://dbpedia.org/resource/Picnic_at_Hanging_Rock",
+            "http://dbpedia.org/resource/Cliff_Green"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Australian_films_of_1981",
+            "http://dbpedia.org/resource/Winter_of_Our_Dreams",
+            "http://dbpedia.org/resource/John_Duigan"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Australian_films_of_1982",
+            "http://dbpedia.org/resource/Goodbye_Paradise",
+            "http://dbpedia.org/resource/Bob_Ellis"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Australian_films_of_1990",
+            "http://dbpedia.org/resource/Golden_Braid",
+            "http://dbpedia.org/resource/Paul_Cox"
+        ]
+    ]
+}

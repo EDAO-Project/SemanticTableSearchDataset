@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wake_Forest_University_School_of_Business",
+            "http://dbpedia.org/resource/Wake_Forest_University",
+            "http://dbpedia.org/resource/Winston-Salem,_North_Carolina"
+        ]
+    ]
+}

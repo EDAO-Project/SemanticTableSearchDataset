@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AIB_College_of_Business",
+            "http://dbpedia.org/resource/Des_Moines,_Iowa",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Allen_College",
+            "http://dbpedia.org/resource/Waterloo,_Iowa",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashford_University",
+            "http://dbpedia.org/resource/Clinton,_Iowa",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Briar_Cliff_University",
+            "http://dbpedia.org/resource/Sioux_City,_Iowa",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Buena_Vista_University",
+            "http://dbpedia.org/resource/Storm_Lake,_Iowa",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998",
+            "http://dbpedia.org/resource/71st_Academy_Awards",
+            "http://dbpedia.org/resource/Fernanda_Montenegro"
+        ],
+        [
+            "http://dbpedia.org/resource/1998",
+            "http://dbpedia.org/resource/3rd_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Fernanda_Montenegro"
+        ],
+        [
+            "http://dbpedia.org/resource/1998",
+            "http://dbpedia.org/resource/Berlin_International_Film_Festival",
+            "http://dbpedia.org/resource/Fernanda_Montenegro"
+        ],
+        [
+            "http://dbpedia.org/resource/1998",
+            "http://dbpedia.org/resource/Golden_Globe_Award",
+            "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Foreign_Language_Film"
+        ],
+        [
+            "http://dbpedia.org/resource/1998",
+            "http://dbpedia.org/resource/Film_Independent_Spirit_Awards",
+            "http://dbpedia.org/resource/Independent_Spirit_Award_for_Best_Foreign_Film"
+        ]
+    ]
+}

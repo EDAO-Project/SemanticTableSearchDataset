@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Akron",
+            "http://dbpedia.org/resource/Akron_Zips",
+            "http://dbpedia.org/resource/Akron,_Ohio",
+            "http://dbpedia.org/resource/Ohio",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Alabama_Crimson_Tide",
+            "http://dbpedia.org/resource/Tuscaloosa,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Southeastern_Conference"
+        ]
+    ]
+}

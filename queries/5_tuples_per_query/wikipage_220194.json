@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carolyn_Bertram",
+            "http://dbpedia.org/resource/Prince_Edward_Island_Liberal_Party",
+            "http://dbpedia.org/resource/Rustico-Emerald"
+        ],
+        [
+            "http://dbpedia.org/resource/Paula_Biggar",
+            "http://dbpedia.org/resource/Prince_Edward_Island_Liberal_Party",
+            "http://dbpedia.org/resource/Tyne_Valley-Linkletter"
+        ],
+        [
+            "http://dbpedia.org/resource/Kathleen_Casey",
+            "http://dbpedia.org/resource/Prince_Edward_Island_Liberal_Party",
+            "http://dbpedia.org/resource/Charlottetown-Lewis_Point"
+        ],
+        [
+            "http://dbpedia.org/resource/Olive_Crane",
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/Morell-Mermaid"
+        ],
+        [
+            "http://dbpedia.org/resource/Doug_Currie",
+            "http://dbpedia.org/resource/Prince_Edward_Island_Liberal_Party",
+            "http://dbpedia.org/resource/Charlottetown-Parkdale"
+        ]
+    ]
+}

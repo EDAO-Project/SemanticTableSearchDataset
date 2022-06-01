@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richland_Balsam",
+            "http://dbpedia.org/resource/Great_Balsam_Mountains",
+            "http://dbpedia.org/resource/North_Carolina"
+        ]
+    ]
+}

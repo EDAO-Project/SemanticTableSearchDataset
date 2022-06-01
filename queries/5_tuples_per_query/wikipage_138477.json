@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Baton_Rouge,_Louisiana",
+            "http://dbpedia.org/resource/Colby_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Fremont,_Nebraska",
+            "http://dbpedia.org/resource/Iowa_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Arvada,_Colorado",
+            "http://dbpedia.org/resource/Ralston_Valley_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Stafford,_Texas",
+            "http://dbpedia.org/resource/Stafford_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Fort_Collins,_Colorado",
+            "http://dbpedia.org/resource/Laramie_County_Community_College"
+        ]
+    ]
+}

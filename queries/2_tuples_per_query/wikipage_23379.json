@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bastrop_State_Park",
+            "http://dbpedia.org/resource/Bastrop,_Texas",
+            "http://dbpedia.org/resource/Bastrop_County,_Texas",
+            "http://dbpedia.org/resource/Civilian_Conservation_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Fair_Park",
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/Dallas_County,_Texas",
+            "http://dbpedia.org/resource/Art_Deco"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giampiero_Boniperti",
+            "http://dbpedia.org/resource/Forza_Italia",
+            "http://dbpedia.org/resource/Forza_Europa"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexis_de_Tocqueville",
+            "http://dbpedia.org/resource/Wim_Kok",
+            "http://dbpedia.org/resource/Ledi_Bianku"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramon_Llull",
+            "http://dbpedia.org/resource/Juan_Carlos_I_of_Spain",
+            "http://dbpedia.org/resource/Alexander_Stubb"
+        ]
+    ]
+}

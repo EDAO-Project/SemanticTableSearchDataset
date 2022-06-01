@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eerste_Divisie",
+            "http://dbpedia.org/resource/Azing_Griever",
+            "http://dbpedia.org/resource/Marnix_Kolder"
+        ],
+        [
+            "http://dbpedia.org/resource/Eerste_Divisie",
+            "http://dbpedia.org/resource/Martin_Koopman",
+            "http://dbpedia.org/resource/Ivan_Tsvetkov"
+        ]
+    ]
+}

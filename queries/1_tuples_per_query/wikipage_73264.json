@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_B._Robertson",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_James_Monroe"
+        ]
+    ]
+}

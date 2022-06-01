@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cold_Brayfield",
+            "http://dbpedia.org/resource/Astwood,_Buckinghamshire",
+            "http://dbpedia.org/resource/Bletchley"
+        ],
+        [
+            "http://dbpedia.org/resource/Gayhurst",
+            "http://dbpedia.org/resource/Broughton,_Milton_Keynes",
+            "http://dbpedia.org/resource/Bradwell,_Milton_Keynes"
+        ]
+    ]
+}

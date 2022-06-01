@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tammy_Irons",
+            "http://dbpedia.org/resource/Florence,_Alabama",
+            "http://dbpedia.org/resource/Colbert_County,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Holtzclaw",
+            "http://dbpedia.org/resource/Madison,_Alabama",
+            "http://dbpedia.org/resource/Limestone_County,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Orr",
+            "http://dbpedia.org/resource/Decatur,_Alabama",
+            "http://dbpedia.org/resource/Morgan_County,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Bussman",
+            "http://dbpedia.org/resource/Cullman,_Alabama",
+            "http://dbpedia.org/resource/Cullman_County,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Greg_Reed",
+            "http://dbpedia.org/resource/Jasper,_Alabama",
+            "http://dbpedia.org/resource/Jefferson_County,_Alabama"
+        ]
+    ]
+}

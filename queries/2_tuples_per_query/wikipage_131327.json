@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Mitchell_Company_Tournament_of_Champions",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Dawn_Coe-Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Hawaiian_Ladies_Open",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Barb_Whitehead"
+        ]
+    ]
+}

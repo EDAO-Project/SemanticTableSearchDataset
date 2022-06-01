@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_LPGA_Tour",
+            "http://dbpedia.org/resource/Lydia_Ko",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Edmonton"
+        ]
+    ]
+}

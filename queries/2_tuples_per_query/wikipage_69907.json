@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/TT_pistol",
+            "http://dbpedia.org/resource/Pistol",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Makarov_pistol",
+            "http://dbpedia.org/resource/Pistol",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ]
+    ]
+}

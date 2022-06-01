@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tron:_Deadly_Discs",
+            "http://dbpedia.org/resource/Mattel",
+            "http://dbpedia.org/resource/Intellivision"
+        ]
+    ]
+}

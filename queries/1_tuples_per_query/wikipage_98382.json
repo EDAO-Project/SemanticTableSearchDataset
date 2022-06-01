@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kosmos_1001",
+            "http://dbpedia.org/resource/Soyuz-T",
+            "http://dbpedia.org/resource/Soyuz-U"
+        ]
+    ]
+}

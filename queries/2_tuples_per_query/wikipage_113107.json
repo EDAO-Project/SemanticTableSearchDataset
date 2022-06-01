@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zoidberg",
+            "http://dbpedia.org/resource/Billy_West",
+            "http://dbpedia.org/resource/Physician",
+            "http://dbpedia.org/resource/The_Series_Has_Landed"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_recurring_Futurama_characters",
+            "http://dbpedia.org/resource/John_DiMaggio",
+            "http://dbpedia.org/resource/Neptune",
+            "http://dbpedia.org/resource/My_Three_Suns"
+        ]
+    ]
+}

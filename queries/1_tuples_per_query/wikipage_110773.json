@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Isurium_Brigantum",
+            "http://dbpedia.org/resource/Aldborough,_North_Yorkshire",
+            "http://dbpedia.org/resource/Borough_of_Harrogate",
+            "http://dbpedia.org/resource/English_Heritage"
+        ]
+    ]
+}

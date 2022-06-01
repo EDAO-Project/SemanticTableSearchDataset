@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Saransk_Cup",
+            "http://dbpedia.org/resource/Alexandra_Panova",
+            "http://dbpedia.org/resource/Marina_Melnikova",
+            "http://dbpedia.org/resource/Veronika_Kapshay",
+            "http://dbpedia.org/resource/Anastasia_Pivovarova"
+        ]
+    ]
+}

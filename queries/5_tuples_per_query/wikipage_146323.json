@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barzy-sur-Marne",
+            "http://dbpedia.org/resource/Baulne-en-Brie",
+            "http://dbpedia.org/resource/Belleau,_Aisne"
+        ],
+        [
+            "http://dbpedia.org/resource/Beuvardes",
+            "http://dbpedia.org/resource/Blesmes",
+            "http://dbpedia.org/resource/Bonneil"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonnesvalyn",
+            "http://dbpedia.org/resource/Bouresches",
+            "http://dbpedia.org/resource/Brasles"
+        ],
+        [
+            "http://dbpedia.org/resource/Coulonges-Cohan",
+            "http://dbpedia.org/resource/Coupru",
+            "http://dbpedia.org/resource/Courboin"
+        ],
+        [
+            "http://dbpedia.org/resource/Courchamps,_Aisne",
+            "http://dbpedia.org/resource/Courmont,_Aisne",
+            "http://dbpedia.org/resource/Courtemont-Varennes"
+        ]
+    ]
+}

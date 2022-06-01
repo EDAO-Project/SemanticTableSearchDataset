@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_AFC_Champions_League",
+            "http://dbpedia.org/resource/PSM_Makassar",
+            "http://dbpedia.org/resource/Makassar",
+            "http://dbpedia.org/resource/Han_Peng"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_AFC_Champions_League",
+            "http://dbpedia.org/resource/PSM_Makassar",
+            "http://dbpedia.org/resource/Jinan",
+            "http://dbpedia.org/resource/Zheng_Zhi"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_AFC_Champions_League",
+            "http://dbpedia.org/resource/Yokohama_F._Marinos",
+            "http://dbpedia.org/resource/Jinan",
+            "http://dbpedia.org/resource/Zheng_Zhi"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_AFC_Champions_League",
+            "http://dbpedia.org/resource/Adelaide_United_FC",
+            "http://dbpedia.org/resource/Adelaide",
+            "http://dbpedia.org/resource/Michael_Valkanis"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_A3_Champions_Cup",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds",
+            "http://dbpedia.org/resource/Jinan",
+            "http://dbpedia.org/resource/Zheng_Zhi"
+        ]
+    ]
+}

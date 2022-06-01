@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benjamin_Noirot",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Levan_Chilachava",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Georgia_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Martin_Castrogiovanni",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Italian_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Xavier_Chiocci",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/French_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl_Hayman",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/New_Zealand_Rugby_Union"
+        ]
+    ]
+}

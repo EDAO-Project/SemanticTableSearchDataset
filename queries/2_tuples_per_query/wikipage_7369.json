@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mackenzie_Highway",
+            "http://dbpedia.org/resource/Grimshaw,_Alberta",
+            "http://dbpedia.org/resource/Wrigley,_Northwest_Territories"
+        ],
+        [
+            "http://dbpedia.org/resource/Hay_River_Highway",
+            "http://dbpedia.org/resource/Enterprise,_Northwest_Territories",
+            "http://dbpedia.org/resource/Hay_River,_Northwest_Territories"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A105_road",
+            "http://dbpedia.org/resource/Canonbury",
+            "http://dbpedia.org/resource/Enfield_Town",
+            "http://dbpedia.org/resource/Waltham_Cross"
+        ],
+        [
+            "http://dbpedia.org/resource/A_roads_in_Zone_1_of_the_Great_Britain_numbering_scheme",
+            "http://dbpedia.org/resource/Hackney_Central",
+            "http://dbpedia.org/resource/Wanstead",
+            "http://dbpedia.org/resource/Leytonstone"
+        ]
+    ]
+}

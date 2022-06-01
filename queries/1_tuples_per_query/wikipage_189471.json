@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Zealand_Warriors",
+            "http://dbpedia.org/resource/Parramatta_Stadium",
+            "http://dbpedia.org/resource/Jarryd_Hayne",
+            "http://dbpedia.org/resource/Chris_Sandow"
+        ]
+    ]
+}

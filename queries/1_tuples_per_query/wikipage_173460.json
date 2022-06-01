@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armin_Kogler",
+            "http://dbpedia.org/resource/Roger_Ruud",
+            "http://dbpedia.org/resource/Horst_Bulau"
+        ]
+    ]
+}

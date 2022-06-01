@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Erie_Railroad",
+            "http://dbpedia.org/resource/New_York,_Susquehanna_and_Western_Railway",
+            "http://dbpedia.org/resource/Starrucca_Creek",
+            "http://dbpedia.org/resource/Lanesboro,_Pennsylvania",
+            "http://dbpedia.org/resource/Susquehanna_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Erie_Railroad",
+            "http://dbpedia.org/resource/Central_New_York_Railroad",
+            "http://dbpedia.org/resource/Lackawaxen_River",
+            "http://dbpedia.org/resource/Lackawaxen_Township,_Pike_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pike_County,_Pennsylvania"
+        ]
+    ]
+}

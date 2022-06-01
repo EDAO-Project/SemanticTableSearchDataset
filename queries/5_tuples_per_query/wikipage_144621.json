@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Miami_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Miami_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/USF_Sun_Dome"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbia,_Maryland",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Merriweather_Post_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Cuyahoga_Falls,_Ohio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Blossom_Music_Center"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Raymond_Kopa",
+            "http://dbpedia.org/resource/Stade_de_Reims",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Horst_Szymaniak",
+            "http://dbpedia.org/resource/Karlsruher_SC",
+            "http://dbpedia.org/resource/West_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Lev_Yashin",
+            "http://dbpedia.org/resource/FC_Dynamo_Moscow",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuriy_Voynov",
+            "http://dbpedia.org/resource/FC_Dynamo_Kyiv",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivan_Petkov_Kolev",
+            "http://dbpedia.org/resource/PFC_CSKA_Sofia",
+            "http://dbpedia.org/resource/Bulgaria"
+        ]
+    ]
+}

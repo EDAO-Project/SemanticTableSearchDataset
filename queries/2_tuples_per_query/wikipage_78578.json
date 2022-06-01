@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chiba_Lotte_Marines",
+            "http://dbpedia.org/resource/Hideaki_Wakui",
+            "http://dbpedia.org/resource/Naoyuki_Shimizu",
+            "http://dbpedia.org/resource/Alex_Graman"
+        ],
+        [
+            "http://dbpedia.org/resource/Tohoku_Rakuten_Golden_Eagles",
+            "http://dbpedia.org/resource/Chikara_Onodera",
+            "http://dbpedia.org/resource/Kohei_Hasebe",
+            "http://dbpedia.org/resource/Alex_Graman"
+        ]
+    ]
+}

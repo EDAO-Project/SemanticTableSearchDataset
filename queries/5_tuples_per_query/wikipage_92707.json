@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christ_Church,_Ashford",
+            "http://dbpedia.org/resource/Ashford,_Kent",
+            "http://dbpedia.org/resource/Kentish_ragstone"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_Church,_Burton_in_Lonsdale",
+            "http://dbpedia.org/resource/Burton_in_Lonsdale",
+            "http://dbpedia.org/resource/Sandstone"
+        ],
+        [
+            "http://dbpedia.org/resource/Church_of_St_John_the_Evangelist,_Cheetham_Hill",
+            "http://dbpedia.org/resource/Greater_Manchester",
+            "http://dbpedia.org/resource/Sandstone"
+        ],
+        [
+            "http://dbpedia.org/resource/Church_of_St_Matthew_and_St_James,_Mossley_Hill",
+            "http://dbpedia.org/resource/Mossley_Hill",
+            "http://dbpedia.org/resource/Sandstone"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_Church,_Higher_Walton",
+            "http://dbpedia.org/resource/Higher_Walton,_Lancashire",
+            "http://dbpedia.org/resource/Broach_spire"
+        ]
+    ]
+}

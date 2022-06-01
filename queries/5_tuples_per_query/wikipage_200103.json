@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baylor_Bears_basketball",
+            "http://dbpedia.org/resource/Gene_Iba",
+            "http://dbpedia.org/resource/University_of_Memphis"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Memphis",
+            "http://dbpedia.org/resource/Larry_Finch",
+            "http://dbpedia.org/resource/Purdue_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Xavier_University",
+            "http://dbpedia.org/resource/Pete_Gillen",
+            "http://dbpedia.org/resource/University_of_Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Wichita_State_University",
+            "http://dbpedia.org/resource/Eddie_Fogler",
+            "http://dbpedia.org/resource/DePaul_University"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Salle_University",
+            "http://dbpedia.org/resource/Speedy_Morris",
+            "http://dbpedia.org/resource/Kansas_State_University"
+        ]
+    ]
+}

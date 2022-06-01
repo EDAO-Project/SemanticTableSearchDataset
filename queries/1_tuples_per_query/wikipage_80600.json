@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abdullah_the_Butcher",
+            "http://dbpedia.org/resource/Professional_wrestling",
+            "http://dbpedia.org/resource/WWC_Universal_Heavyweight_Championship"
+        ]
+    ]
+}

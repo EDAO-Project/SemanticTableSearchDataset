@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arminia_Bielefeld",
+            "http://dbpedia.org/resource/Bielefeld",
+            "http://dbpedia.org/resource/Bielefelder_Alm"
+        ]
+    ]
+}

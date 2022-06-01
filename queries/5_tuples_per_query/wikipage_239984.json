@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Park_Sung-hyun",
+            "http://dbpedia.org/resource/Anja_Hitzler",
+            "http://dbpedia.org/resource/Janet_Dykman"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Sung-jin",
+            "http://dbpedia.org/resource/Almudena_Gallardo",
+            "http://dbpedia.org/resource/Chen_Li-ju"
+        ],
+        [
+            "http://dbpedia.org/resource/He_Ying",
+            "http://dbpedia.org/resource/Viktoriya_Beloslyudtseva",
+            "http://dbpedia.org/resource/Marie-Pier_Beaudet"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuan_Shu-chi",
+            "http://dbpedia.org/resource/Iwona_Marcinkiewicz",
+            "http://dbpedia.org/resource/Mari_Piuva"
+        ],
+        [
+            "http://dbpedia.org/resource/Justyna_Mospinek",
+            "http://dbpedia.org/resource/Melissa_Jennison",
+            "http://dbpedia.org/resource/Elena_Dostay"
+        ]
+    ]
+}

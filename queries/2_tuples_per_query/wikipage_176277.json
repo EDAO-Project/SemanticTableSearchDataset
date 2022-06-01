@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Okaukuejo",
+            "http://dbpedia.org/resource/Afrikaans",
+            "http://dbpedia.org/resource/South-West_Africa"
+        ],
+        [
+            "http://dbpedia.org/resource/Okaukuejo",
+            "http://dbpedia.org/resource/Ndonga_dialect",
+            "http://dbpedia.org/resource/Ovambo_people"
+        ]
+    ]
+}

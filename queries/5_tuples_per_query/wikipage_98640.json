@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kosmos_1761",
+            "http://dbpedia.org/resource/US-K",
+            "http://dbpedia.org/resource/Molniya-M"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_1774",
+            "http://dbpedia.org/resource/US-K",
+            "http://dbpedia.org/resource/Molniya-M"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_1783",
+            "http://dbpedia.org/resource/US-K",
+            "http://dbpedia.org/resource/Molniya-M"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_1785",
+            "http://dbpedia.org/resource/US-K",
+            "http://dbpedia.org/resource/Molniya-M"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_1793",
+            "http://dbpedia.org/resource/US-K",
+            "http://dbpedia.org/resource/Molniya-M"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bible",
+            "http://dbpedia.org/resource/Johannes_Gutenberg",
+            "http://dbpedia.org/resource/Mainz",
+            "http://dbpedia.org/resource/Vulgate"
+        ],
+        [
+            "http://dbpedia.org/resource/Cicero",
+            "http://dbpedia.org/resource/Johann_Fust",
+            "http://dbpedia.org/resource/Mainz",
+            "http://dbpedia.org/resource/Ulrich_Zell"
+        ],
+        [
+            "http://dbpedia.org/resource/Augustine_of_Hippo",
+            "http://dbpedia.org/resource/Johannes_Mentelin",
+            "http://dbpedia.org/resource/Strasbourg",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Augustine_of_Hippo",
+            "http://dbpedia.org/resource/Arnold_Pannartz_and_Konrad_Sweynheim",
+            "http://dbpedia.org/resource/Subiaco,_Lazio",
+            "http://dbpedia.org/resource/Johannes_Mentelin"
+        ],
+        [
+            "http://dbpedia.org/resource/Terence",
+            "http://dbpedia.org/resource/Johannes_Mentelin",
+            "http://dbpedia.org/resource/Strasbourg",
+            "http://dbpedia.org/resource/Johann_and_Wendelin_of_Speyer"
+        ]
+    ]
+}

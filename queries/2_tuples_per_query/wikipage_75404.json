@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Parappurath",
+            "http://dbpedia.org/resource/Aranazhika_Neram",
+            "http://dbpedia.org/resource/K._S._Sethumadhavan"
+        ],
+        [
+            "http://dbpedia.org/resource/Pamman",
+            "http://dbpedia.org/resource/Chattakari",
+            "http://dbpedia.org/resource/K._S._Sethumadhavan"
+        ]
+    ]
+}

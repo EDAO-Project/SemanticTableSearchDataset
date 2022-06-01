@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ad-lib_Night",
+            "http://dbpedia.org/resource/Lee_Yoon-ki",
+            "http://dbpedia.org/resource/Han_Hyo-joo"
+        ],
+        [
+            "http://dbpedia.org/resource/Cruel_Winter_Blues",
+            "http://dbpedia.org/resource/Lee_Jeong-beom",
+            "http://dbpedia.org/resource/Sol_Kyung-gu"
+        ],
+        [
+            "http://dbpedia.org/resource/Dasepo_Naughty_Girls",
+            "http://dbpedia.org/resource/E_J-yong",
+            "http://dbpedia.org/resource/Kim_Ok-bin"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Dirty_Carnival",
+            "http://dbpedia.org/resource/Yoo_Ha",
+            "http://dbpedia.org/resource/Jo_In-sung"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Tae-yong",
+            "http://dbpedia.org/resource/Moon_So-ri",
+            "http://dbpedia.org/resource/Grand_Bell_Awards"
+        ]
+    ]
+}

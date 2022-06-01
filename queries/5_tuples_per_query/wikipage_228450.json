@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aruba",
+            "http://dbpedia.org/resource/Constituent_country",
+            "http://dbpedia.org/resource/Oranjestad,_Aruba",
+            "http://dbpedia.org/resource/Dutch_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Bermuda",
+            "http://dbpedia.org/resource/British_Overseas_Territories",
+            "http://dbpedia.org/resource/Hamilton,_Bermuda",
+            "http://dbpedia.org/resource/Portuguese_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonaire",
+            "http://dbpedia.org/resource/List_of_municipalities_of_the_Netherlands",
+            "http://dbpedia.org/resource/Kralendijk",
+            "http://dbpedia.org/resource/Dutch_language"
+        ],
+        [
+            "http://dbpedia.org/resource/French_Guiana",
+            "http://dbpedia.org/resource/Overseas_department",
+            "http://dbpedia.org/resource/Cayenne",
+            "http://dbpedia.org/resource/French_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Greenland",
+            "http://dbpedia.org/resource/Constituent_country",
+            "http://dbpedia.org/resource/Nuuk",
+            "http://dbpedia.org/resource/Greenlandic_language"
+        ]
+    ]
+}

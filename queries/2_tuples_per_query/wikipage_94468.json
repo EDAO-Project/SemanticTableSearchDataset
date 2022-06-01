@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roman_Berezovsky",
+            "http://dbpedia.org/resource/UEFA_Euro_2012_qualifying",
+            "http://dbpedia.org/resource/Malta_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Marc_Vales",
+            "http://dbpedia.org/resource/Hungary_national_football_team",
+            "http://dbpedia.org/resource/Romania_national_football_team"
+        ]
+    ]
+}

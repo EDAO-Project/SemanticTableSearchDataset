@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Matilda,_Abbess_of_Quedlinburg",
+            "http://dbpedia.org/resource/Otto_I,_Holy_Roman_Emperor",
+            "http://dbpedia.org/resource/Ottonian_dynasty"
+        ]
+    ]
+}

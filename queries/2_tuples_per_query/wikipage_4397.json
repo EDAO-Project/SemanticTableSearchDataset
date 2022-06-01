@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Louisiana_State_University",
+            "http://dbpedia.org/resource/Pete_Maravich_Assembly_Center",
+            "http://dbpedia.org/resource/Baton_Rouge,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Purdue_University",
+            "http://dbpedia.org/resource/Mackey_Arena",
+            "http://dbpedia.org/resource/West_Lafayette,_Indiana",
+            "http://dbpedia.org/resource/Indiana"
+        ]
+    ]
+}

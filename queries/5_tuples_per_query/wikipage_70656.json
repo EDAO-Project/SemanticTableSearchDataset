@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1703_Genroku_earthquake",
+            "http://dbpedia.org/resource/Edo",
+            "http://dbpedia.org/resource/Sagami_Bay"
+        ],
+        [
+            "http://dbpedia.org/resource/1894_Tokyo_earthquake",
+            "http://dbpedia.org/resource/Tokyo_Bay",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/1933_Sanriku_earthquake",
+            "http://dbpedia.org/resource/Kamaishi,_Iwate",
+            "http://dbpedia.org/resource/Earthquake"
+        ],
+        [
+            "http://dbpedia.org/resource/1943_Tottori_earthquake",
+            "http://dbpedia.org/resource/Ketaka_District,_Tottori",
+            "http://dbpedia.org/resource/Tottori_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/1945_Mikawa_earthquake",
+            "http://dbpedia.org/resource/Mikawa_Bay",
+            "http://dbpedia.org/resource/Mie_Prefecture"
+        ]
+    ]
+}

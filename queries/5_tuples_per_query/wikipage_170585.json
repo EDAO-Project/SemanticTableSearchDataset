@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/After_Stonewall",
+            "http://dbpedia.org/resource/John_Scagliotti",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Beau_Travail",
+            "http://dbpedia.org/resource/Claire_Denis",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Being_John_Malkovich",
+            "http://dbpedia.org/resource/Spike_Jonze",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Better_Than_Chocolate",
+            "http://dbpedia.org/resource/Anne_Wheeler",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Big_Brass_Ring",
+            "http://dbpedia.org/resource/George_Hickenlooper",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

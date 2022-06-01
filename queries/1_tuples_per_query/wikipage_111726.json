@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bawdsey_Manor",
+            "http://dbpedia.org/resource/Bawdsey",
+            "http://dbpedia.org/resource/Suffolk_Coastal",
+            "http://dbpedia.org/resource/RAF_Bawdsey"
+        ]
+    ]
+}

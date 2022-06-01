@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bessens",
+            "http://dbpedia.org/resource/Bioule",
+            "http://dbpedia.org/resource/Bouillac,_Tarn-et-Garonne",
+            "http://dbpedia.org/resource/Bourret,_Tarn-et-Garonne"
+        ],
+        [
+            "http://dbpedia.org/resource/Bressols",
+            "http://dbpedia.org/resource/Bruniquel",
+            "http://dbpedia.org/resource/Campsas",
+            "http://dbpedia.org/resource/Canals,_Tarn-et-Garonne"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Finnish_language",
+            "http://dbpedia.org/resource/Marion_Rung",
+            "http://dbpedia.org/resource/Tipi-tii"
+        ],
+        [
+            "http://dbpedia.org/resource/French_language",
+            "http://dbpedia.org/resource/Fud_Leclerc",
+            "http://dbpedia.org/resource/Ton_nom"
+        ],
+        [
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Eleonore_Schwarz",
+            "http://dbpedia.org/resource/Nur_in_der_Wiener_Luft"
+        ],
+        [
+            "http://dbpedia.org/resource/Danish_language",
+            "http://dbpedia.org/resource/Ellen_Winther",
+            "http://dbpedia.org/resource/Vuggevise"
+        ],
+        [
+            "http://dbpedia.org/resource/Sweden_in_the_Eurovision_Song_Contest_1962",
+            "http://dbpedia.org/resource/Swedish_language",
+            "http://dbpedia.org/resource/Inger_Berggren"
+        ]
+    ]
+}

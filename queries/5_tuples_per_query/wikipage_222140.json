@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Connaught_Place,_New_Delhi",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Thampanoor",
+            "http://dbpedia.org/resource/Thiruvananthapuram_district",
+            "http://dbpedia.org/resource/Kerala"
+        ],
+        [
+            "http://dbpedia.org/resource/Thiruvananthapuram",
+            "http://dbpedia.org/resource/Thiruvananthapuram_district",
+            "http://dbpedia.org/resource/Kerala"
+        ],
+        [
+            "http://dbpedia.org/resource/Shankumugham_Beach",
+            "http://dbpedia.org/resource/Thiruvananthapuram_district",
+            "http://dbpedia.org/resource/Kerala"
+        ],
+        [
+            "http://dbpedia.org/resource/Ulloor",
+            "http://dbpedia.org/resource/Thiruvananthapuram_district",
+            "http://dbpedia.org/resource/Kerala"
+        ]
+    ]
+}

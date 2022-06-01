@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Reg_Helwer",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Manitoba",
+            "http://dbpedia.org/resource/Brandon_West"
+        ],
+        [
+            "http://dbpedia.org/resource/Erna_Braun",
+            "http://dbpedia.org/resource/New_Democratic_Party_of_Manitoba",
+            "http://dbpedia.org/resource/Rossmere"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agua_Caliente,_Arizona",
+            "http://dbpedia.org/resource/Maricopa_County,_Arizona",
+            "http://dbpedia.org/resource/Hotel"
+        ],
+        [
+            "http://dbpedia.org/resource/Alamo_Crossing,_Arizona",
+            "http://dbpedia.org/resource/Mohave_County,_Arizona",
+            "http://dbpedia.org/resource/Alamo_Lake_State_Park"
+        ]
+    ]
+}

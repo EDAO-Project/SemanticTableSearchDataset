@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Air_Force",
+            "http://dbpedia.org/resource/Misawa_Air_Base",
+            "http://dbpedia.org/resource/Misawa,_Aomori"
+        ]
+    ]
+}

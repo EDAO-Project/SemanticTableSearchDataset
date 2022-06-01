@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brady_Anderson_and_Waldemar_Ager_House",
+            "http://dbpedia.org/resource/Eau_Claire,_Wisconsin",
+            "http://dbpedia.org/resource/Victorian_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarge_Boyd_Bandshell",
+            "http://dbpedia.org/resource/Eau_Claire,_Wisconsin",
+            "http://dbpedia.org/resource/Works_Progress_Administration"
+        ],
+        [
+            "http://dbpedia.org/resource/Community_House,_First_Congregational_Church",
+            "http://dbpedia.org/resource/Eau_Claire,_Wisconsin",
+            "http://dbpedia.org/resource/Prairie_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Confluence_Commercial_Historic_District",
+            "http://dbpedia.org/resource/Eau_Claire,_Wisconsin",
+            "http://dbpedia.org/resource/Confluence"
+        ],
+        [
+            "http://dbpedia.org/resource/Dells_Mill",
+            "http://dbpedia.org/resource/Augusta,_Wisconsin",
+            "http://dbpedia.org/resource/Gristmill"
+        ]
+    ]
+}

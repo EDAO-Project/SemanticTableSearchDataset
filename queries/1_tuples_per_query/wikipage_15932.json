@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sergeants_3",
+            "http://dbpedia.org/resource/John_Sturges",
+            "http://dbpedia.org/resource/Frank_Sinatra",
+            "http://dbpedia.org/resource/Rat_Pack"
+        ]
+    ]
+}

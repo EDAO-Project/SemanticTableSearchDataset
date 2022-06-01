@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dennis_Endras",
+            "http://dbpedia.org/resource/Immenstadt",
+            "http://dbpedia.org/resource/Augsburger_Panther"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Bakos",
+            "http://dbpedia.org/resource/Augsburg",
+            "http://dbpedia.org/resource/ERC_Ingolstadt"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Ehrhoff",
+            "http://dbpedia.org/resource/Moers",
+            "http://dbpedia.org/resource/Vancouver_Canucks"
+        ],
+        [
+            "http://dbpedia.org/resource/Dennis_Seidenberg",
+            "http://dbpedia.org/resource/Villingen-Schwenningen",
+            "http://dbpedia.org/resource/Florida_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Sulzer",
+            "http://dbpedia.org/resource/Kaufbeuren",
+            "http://dbpedia.org/resource/Nashville_Predators"
+        ]
+    ]
+}

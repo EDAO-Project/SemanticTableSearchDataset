@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nottingham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/National_Ice_Centre"
+        ]
+    ]
+}

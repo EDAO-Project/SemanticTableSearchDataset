@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_Daytona_500",
+            "http://dbpedia.org/resource/Pontiac_Grand_Prix",
+            "http://dbpedia.org/resource/George_J._Mitchell",
+            "http://dbpedia.org/resource/Anthony_J._Celebrezze",
+            "http://dbpedia.org/resource/The_Osmonds"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Daytona_500",
+            "http://dbpedia.org/resource/Pontiac_Firebird",
+            "http://dbpedia.org/resource/MasterCard",
+            "http://dbpedia.org/resource/Troy_Aikman",
+            "http://dbpedia.org/resource/Michelle_Wright"
+        ]
+    ]
+}

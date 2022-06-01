@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_Prehn",
+            "http://dbpedia.org/resource/Doug_Shapiro",
+            "http://dbpedia.org/resource/Thurlow_Rogers"
+        ],
+        [
+            "http://dbpedia.org/resource/Eddy_Gragus",
+            "http://dbpedia.org/resource/Fred_Rodriguez",
+            "http://dbpedia.org/resource/Chris_Horner"
+        ],
+        [
+            "http://dbpedia.org/resource/Marty_Jemison",
+            "http://dbpedia.org/resource/Fred_Rodriguez",
+            "http://dbpedia.org/resource/Anton_Villatoro"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Rodriguez",
+            "http://dbpedia.org/resource/George_Hincapie",
+            "http://dbpedia.org/resource/John_Lieswyn"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Rodriguez",
+            "http://dbpedia.org/resource/Trent_Klasna",
+            "http://dbpedia.org/resource/George_Hincapie"
+        ]
+    ]
+}

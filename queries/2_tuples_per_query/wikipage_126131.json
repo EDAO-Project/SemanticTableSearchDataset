@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abdoulaye_Seck",
+            "http://dbpedia.org/resource/ASC_Niarry_Tally",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht"
+        ],
+        [
+            "http://dbpedia.org/resource/Vegard_Braaten",
+            "http://dbpedia.org/resource/K.S.C._Lokeren_Oost-Vlaanderen",
+            "http://dbpedia.org/resource/Alta_IF"
+        ]
+    ]
+}

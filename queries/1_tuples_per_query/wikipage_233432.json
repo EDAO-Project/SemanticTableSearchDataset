@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberdeen",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Capitol_Theatre,_Aberdeen"
+        ]
+    ]
+}

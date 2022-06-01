@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/1999_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/1999_Florida_State_Seminoles_football_team",
+            "http://dbpedia.org/resource/Ron_Dayne"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/2000_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/2000_Oklahoma_Sooners_football_team",
+            "http://dbpedia.org/resource/Chris_Weinke"
+        ]
+    ]
+}

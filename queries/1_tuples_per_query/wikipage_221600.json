@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamilton,_Ontario",
+            "http://dbpedia.org/resource/Tara_Lipinski",
+            "http://dbpedia.org/resource/Michelle_Kwan",
+            "http://dbpedia.org/resource/Irina_Slutskaya"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Dodger_Stadium",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

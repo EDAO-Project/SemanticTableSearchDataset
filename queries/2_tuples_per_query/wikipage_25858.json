@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grand_Prix_of_Houston",
+            "http://dbpedia.org/resource/NRG_Park",
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/ESPN2"
+        ],
+        [
+            "http://dbpedia.org/resource/Monterey_Grand_Prix",
+            "http://dbpedia.org/resource/Mazda_Raceway_Laguna_Seca",
+            "http://dbpedia.org/resource/Monterey,_California",
+            "http://dbpedia.org/resource/ESPN"
+        ]
+    ]
+}

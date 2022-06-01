@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1938_ICF_Canoe_Sprint_World_Championships",
+            "http://dbpedia.org/resource/Maggie_Kalka",
+            "http://dbpedia.org/resource/Maj-Britt_Bergqvist",
+            "http://dbpedia.org/resource/Bodil_Thirstedt"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_ICF_Canoe_Sprint_World_Championships",
+            "http://dbpedia.org/resource/Sylvi_Saimo",
+            "http://dbpedia.org/resource/Karen_Hoff",
+            "http://dbpedia.org/resource/Fritzi_Schwingl"
+        ]
+    ]
+}

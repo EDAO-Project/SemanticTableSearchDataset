@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2008",
+            "http://dbpedia.org/resource/Cadillac_Records",
+            "http://dbpedia.org/resource/Adrien_Brody"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Reel_Awards_of_2008",
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/Dev_Patel"
+        ]
+    ]
+}

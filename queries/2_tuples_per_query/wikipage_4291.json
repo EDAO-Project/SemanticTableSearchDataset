@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sapporo"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Tokyo"
+        ]
+    ]
+}

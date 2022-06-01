@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1978_in_baseball",
+            "http://dbpedia.org/resource/Bob_Horner",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_in_baseball",
+            "http://dbpedia.org/resource/Tim_Wallach",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Cal_State_Fullerton_Titans_baseball"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apache_Flex",
+            "http://dbpedia.org/resource/Apache_License",
+            "http://dbpedia.org/resource/Adobe_AIR"
+        ]
+    ]
+}

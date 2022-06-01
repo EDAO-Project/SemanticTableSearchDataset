@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aida",
+            "http://dbpedia.org/resource/Giuseppe_Verdi",
+            "http://dbpedia.org/resource/Bolshoi_Theatre"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vasil_Levski_National_Stadium",
+            "http://dbpedia.org/resource/Sofia",
+            "http://dbpedia.org/resource/Bulgaria_national_football_team"
+        ]
+    ]
+}

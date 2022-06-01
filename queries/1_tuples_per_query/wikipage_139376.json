@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ralf_Schumann",
+            "http://dbpedia.org/resource/Germany_at_the_Olympics",
+            "http://dbpedia.org/resource/Shooting_at_the_Summer_Olympics"
+        ]
+    ]
+}

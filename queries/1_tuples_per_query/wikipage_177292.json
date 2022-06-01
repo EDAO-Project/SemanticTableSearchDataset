@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abererch",
+            "http://dbpedia.org/resource/Gwynedd",
+            "http://dbpedia.org/resource/Llannor"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fourth_Texas_Legislature",
+            "http://dbpedia.org/resource/Peter_W._Gray",
+            "http://dbpedia.org/resource/Harris_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Ninth_Texas_Legislature",
+            "http://dbpedia.org/resource/Anthony_Martin_Branch",
+            "http://dbpedia.org/resource/Grimes_County,_Texas"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amarens",
+            "http://dbpedia.org/resource/Ambialet",
+            "http://dbpedia.org/resource/Andillac",
+            "http://dbpedia.org/resource/Andouque"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellegarde,_Tarn",
+            "http://dbpedia.org/resource/Bernac,_Tarn",
+            "http://dbpedia.org/resource/Blaye-les-Mines",
+            "http://dbpedia.org/resource/Bournazel,_Tarn"
+        ],
+        [
+            "http://dbpedia.org/resource/Brens,_Tarn",
+            "http://dbpedia.org/resource/Broze",
+            "http://dbpedia.org/resource/Cadalen",
+            "http://dbpedia.org/resource/Cadix,_Tarn"
+        ],
+        [
+            "http://dbpedia.org/resource/Castelnau-de-Montmiral",
+            "http://dbpedia.org/resource/Cestayrols",
+            "http://dbpedia.org/resource/Combefa",
+            "http://dbpedia.org/resource/Cordes-sur-Ciel"
+        ],
+        [
+            "http://dbpedia.org/resource/Couffouleux",
+            "http://dbpedia.org/resource/Courris",
+            "http://dbpedia.org/resource/Crespin,_Tarn",
+            "http://dbpedia.org/resource/Crespinet"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barbados_at_the_Pan_American_Games",
+            "http://dbpedia.org/resource/1967_Pan_American_Games",
+            "http://dbpedia.org/resource/Winnipeg"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbados_at_the_Pan_American_Games",
+            "http://dbpedia.org/resource/1971_Pan_American_Games",
+            "http://dbpedia.org/resource/Cali"
+        ]
+    ]
+}

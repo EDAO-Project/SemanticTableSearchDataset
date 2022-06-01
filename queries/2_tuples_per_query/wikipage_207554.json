@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Kay_Ivey",
+            "http://dbpedia.org/resource/List_of_lieutenant_governors_of_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Mead_Treadwell",
+            "http://dbpedia.org/resource/List_of_lieutenant_governors_of_Alaska"
+        ]
+    ]
+}

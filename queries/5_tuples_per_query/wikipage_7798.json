@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_Venezuela_1975",
+            "http://dbpedia.org/resource/Maritza_Pineda",
+            "http://dbpedia.org/resource/Nueva_Esparta",
+            "http://dbpedia.org/resource/Poliedro_de_Caracas"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Venezuela_1980",
+            "http://dbpedia.org/resource/Maye_Brandt",
+            "http://dbpedia.org/resource/Lara,_Venezuela",
+            "http://dbpedia.org/resource/Vargas"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Venezuela_1983",
+            "http://dbpedia.org/resource/Paola_Ruggeri",
+            "http://dbpedia.org/resource/Portuguesa,_Venezuela",
+            "http://dbpedia.org/resource/Vargas"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Venezuela_1989",
+            "http://dbpedia.org/resource/Eva_Lisa_Ljung",
+            "http://dbpedia.org/resource/Lara,_Venezuela",
+            "http://dbpedia.org/resource/Poliedro_de_Caracas"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Venezuela_1991",
+            "http://dbpedia.org/resource/Carolina_Izsak",
+            "http://dbpedia.org/resource/Amazonas,_Venezuela",
+            "http://dbpedia.org/resource/Poliedro_de_Caracas"
+        ]
+    ]
+}

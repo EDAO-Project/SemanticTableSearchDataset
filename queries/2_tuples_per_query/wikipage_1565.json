@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tiruvottiyur",
+            "http://dbpedia.org/resource/Thiruvanmiyur",
+            "http://dbpedia.org/resource/Adyar,_Chennai"
+        ],
+        [
+            "http://dbpedia.org/resource/Tiruvottiyur",
+            "http://dbpedia.org/resource/Thiruvanmiyur",
+            "http://dbpedia.org/resource/Adyar,_Chennai"
+        ]
+    ]
+}

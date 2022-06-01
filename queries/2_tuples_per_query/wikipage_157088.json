@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Notre-Dame-du-Mont-Carmel,_Quebec",
+            "http://dbpedia.org/resource/Les_Chenaux_Regional_County_Municipality",
+            "http://dbpedia.org/resource/Mauricie"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint-Adelme,_Quebec",
+            "http://dbpedia.org/resource/La_Matanie_Regional_County_Municipality",
+            "http://dbpedia.org/resource/Bas-Saint-Laurent"
+        ]
+    ]
+}

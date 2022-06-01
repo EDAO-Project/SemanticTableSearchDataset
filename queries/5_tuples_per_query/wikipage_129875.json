@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Serbin_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Betty_Jameson"
+        ],
+        [
+            "http://dbpedia.org/resource/Cross_Country_144_Hole_Weathervane",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Beverly_Hanson"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacksonville_Ladies_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Patty_Berg"
+        ],
+        [
+            "http://dbpedia.org/resource/Peach_Blossom_Open",
+            "http://dbpedia.org/resource/South_Carolina",
+            "http://dbpedia.org/resource/Louise_Suggs"
+        ],
+        [
+            "http://dbpedia.org/resource/Babe_Zaharias_Open",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Babe_Didrikson_Zaharias"
+        ]
+    ]
+}

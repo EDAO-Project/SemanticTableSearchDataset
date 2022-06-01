@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/GNU_Bazaar",
+            "http://dbpedia.org/resource/Distributed_version_control",
+            "http://dbpedia.org/resource/GNU_General_Public_License",
+            "http://dbpedia.org/resource/Unix-like"
+        ],
+        [
+            "http://dbpedia.org/resource/BitKeeper",
+            "http://dbpedia.org/resource/Distributed_version_control",
+            "http://dbpedia.org/resource/Proprietary_software",
+            "http://dbpedia.org/resource/Unix-like"
+        ]
+    ]
+}

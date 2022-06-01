@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1942:_A_Love_Story",
+            "http://dbpedia.org/resource/Vidhu_Vinod_Chopra",
+            "http://dbpedia.org/resource/Anil_Kapoor"
+        ],
+        [
+            "http://dbpedia.org/resource/Aag_Aur_Chingari",
+            "http://dbpedia.org/resource/Kanti_Shah",
+            "http://dbpedia.org/resource/Asrani"
+        ],
+        [
+            "http://dbpedia.org/resource/Andaz_Apna_Apna",
+            "http://dbpedia.org/resource/Rajkumar_Santoshi",
+            "http://dbpedia.org/resource/Aamir_Khan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bandit_Queen",
+            "http://dbpedia.org/resource/Shekhar_Kapur",
+            "http://dbpedia.org/resource/Seema_Biswas"
+        ],
+        [
+            "http://dbpedia.org/resource/Betaaj_Badshah",
+            "http://dbpedia.org/resource/Iqbal_Durrani",
+            "http://dbpedia.org/resource/Raaj_Kumar"
+        ]
+    ]
+}

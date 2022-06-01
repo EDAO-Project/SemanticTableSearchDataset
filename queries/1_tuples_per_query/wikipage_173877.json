@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Reid_Highway",
+            "http://dbpedia.org/resource/North_Beach,_Western_Australia",
+            "http://dbpedia.org/resource/Middle_Swan,_Western_Australia",
+            "http://dbpedia.org/resource/Bibra_Lake,_Western_Australia",
+            "http://dbpedia.org/resource/Google"
+        ]
+    ]
+}

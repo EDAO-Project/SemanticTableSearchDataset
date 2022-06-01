@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Intel_80286",
+            "http://dbpedia.org/resource/Industry_Standard_Architecture",
+            "http://dbpedia.org/resource/ST-506"
+        ]
+    ]
+}

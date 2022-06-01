@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1982_in_film",
+            "http://dbpedia.org/resource/Zelda_Rubinstein",
+            "http://dbpedia.org/resource/Poltergeist"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_in_film",
+            "http://dbpedia.org/resource/Candy_Clark",
+            "http://dbpedia.org/resource/Blue_Thunder"
+        ]
+    ]
+}

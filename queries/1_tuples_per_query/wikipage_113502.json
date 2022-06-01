@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oklahoma_City_Thunder",
+            "http://dbpedia.org/resource/Tyler_Hansbrough",
+            "http://dbpedia.org/resource/Roy_Hibbert",
+            "http://dbpedia.org/resource/Josh_McRoberts",
+            "http://dbpedia.org/resource/Chesapeake_Energy_Arena"
+        ]
+    ]
+}

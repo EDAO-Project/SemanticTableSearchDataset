@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kingston_upon_Hull",
+            "http://dbpedia.org/resource/Luton",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/Cumbernauld",
+            "http://dbpedia.org/resource/Windsor,_Berkshire",
+            "http://dbpedia.org/resource/Bradford"
+        ],
+        [
+            "http://dbpedia.org/resource/Morecambe",
+            "http://dbpedia.org/resource/Sunderland,_Tyne_and_Wear",
+            "http://dbpedia.org/resource/Chipping_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/Hythe,_Kent",
+            "http://dbpedia.org/resource/Edinburgh",
+            "http://dbpedia.org/resource/Southampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Winchester",
+            "http://dbpedia.org/resource/Glasgow",
+            "http://dbpedia.org/resource/York"
+        ]
+    ]
+}

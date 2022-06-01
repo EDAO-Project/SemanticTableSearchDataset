@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Argentine_Open",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Kevin_Stadler"
+        ],
+        [
+            "http://dbpedia.org/resource/Guatemala_Open",
+            "http://dbpedia.org/resource/Guatemala",
+            "http://dbpedia.org/resource/Miguel_Carballo"
+        ]
+    ]
+}

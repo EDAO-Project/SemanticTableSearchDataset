@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maryland_Route_402",
+            "http://dbpedia.org/resource/Maryland_Route_2",
+            "http://dbpedia.org/resource/Dares_Beach,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_404",
+            "http://dbpedia.org/resource/Maryland_Route_662",
+            "http://dbpedia.org/resource/Delaware_Route_404"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_405",
+            "http://dbpedia.org/resource/Maryland_Route_304",
+            "http://dbpedia.org/resource/Maryland_Route_19"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_407",
+            "http://dbpedia.org/resource/Maryland_Route_31",
+            "http://dbpedia.org/resource/Maryland_Route_27"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryland_Route_408",
+            "http://dbpedia.org/resource/Maryland_Route_4",
+            "http://dbpedia.org/resource/Maryland_Route_2"
+        ]
+    ]
+}

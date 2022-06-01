@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Blaine_House",
+            "http://dbpedia.org/resource/Augusta,_Maine",
+            "http://dbpedia.org/resource/Kennebec_County,_Maine",
+            "http://dbpedia.org/resource/Official_residence"
+        ],
+        [
+            "http://dbpedia.org/resource/Camden_Public_Library",
+            "http://dbpedia.org/resource/Camden,_Maine",
+            "http://dbpedia.org/resource/Knox_County,_Maine",
+            "http://dbpedia.org/resource/Amphitheatre"
+        ]
+    ]
+}

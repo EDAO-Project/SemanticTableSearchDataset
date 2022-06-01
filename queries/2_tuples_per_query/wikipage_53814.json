@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Barnaul",
+            "http://dbpedia.org/resource/Barnaul_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Yerevan",
+            "http://dbpedia.org/resource/Zvartnots_International_Airport"
+        ]
+    ]
+}

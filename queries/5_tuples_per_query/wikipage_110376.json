@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barnsley",
+            "http://dbpedia.org/resource/Thomas_Rickman",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Leeds",
+            "http://dbpedia.org/resource/Robert_Dennis_Chantrell",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Greasbrough",
+            "http://dbpedia.org/resource/James_Pigott_Pritchett",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Kirkstall",
+            "http://dbpedia.org/resource/Robert_Dennis_Chantrell",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Lockwood,_West_Yorkshire",
+            "http://dbpedia.org/resource/Robert_Dennis_Chantrell",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ]
+    ]
+}

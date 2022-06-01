@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cantillac",
+            "http://dbpedia.org/resource/Chalais,_Dordogne",
+            "http://dbpedia.org/resource/Champagnac-de-Belair"
+        ],
+        [
+            "http://dbpedia.org/resource/Champeaux-et-la-Chapelle-Pommier",
+            "http://dbpedia.org/resource/Champniers-et-Reilhac",
+            "http://dbpedia.org/resource/Champs-Romain"
+        ]
+    ]
+}

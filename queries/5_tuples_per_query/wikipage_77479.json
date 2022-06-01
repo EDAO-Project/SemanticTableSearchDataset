@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jon_Olsen",
+            "http://dbpedia.org/resource/Joe_Hudepohl",
+            "http://dbpedia.org/resource/Dean_Kondziolka"
+        ],
+        [
+            "http://dbpedia.org/resource/Kieren_Perkins",
+            "http://dbpedia.org/resource/Daniel_Kowalski",
+            "http://dbpedia.org/resource/Chad_Carvin"
+        ],
+        [
+            "http://dbpedia.org/resource/Kieren_Perkins",
+            "http://dbpedia.org/resource/Daniel_Kowalski",
+            "http://dbpedia.org/resource/Chad_Carvin"
+        ],
+        [
+            "http://dbpedia.org/resource/Kieren_Perkins",
+            "http://dbpedia.org/resource/Daniel_Kowalski",
+            "http://dbpedia.org/resource/Carlton_Bruner"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Rouse",
+            "http://dbpedia.org/resource/Brian_Retterer",
+            "http://dbpedia.org/resource/Hajime_Itoi"
+        ]
+    ]
+}

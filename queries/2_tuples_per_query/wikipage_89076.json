@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_I_of_Greece",
+            "http://dbpedia.org/resource/Constantine_I_of_Greece",
+            "http://dbpedia.org/resource/Prince_George_of_Greece_and_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/George_I_of_Greece",
+            "http://dbpedia.org/resource/Constantine_I_of_Greece",
+            "http://dbpedia.org/resource/George_II_of_Greece"
+        ]
+    ]
+}

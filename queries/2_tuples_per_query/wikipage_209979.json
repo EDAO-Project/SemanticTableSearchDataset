@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Millers_Dale_railway_station",
+            "http://dbpedia.org/resource/Midland_Railway",
+            "http://dbpedia.org/resource/Buxton_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Mow_Cop_and_Scholar_Green_railway_station",
+            "http://dbpedia.org/resource/North_Staffordshire_Railway",
+            "http://dbpedia.org/resource/Stoke-on-Trent_railway_station"
+        ]
+    ]
+}

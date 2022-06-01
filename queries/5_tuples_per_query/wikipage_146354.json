@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Azy",
+            "http://dbpedia.org/resource/Bannay,_Cher",
+            "http://dbpedia.org/resource/Barlieu",
+            "http://dbpedia.org/resource/Baugy,_Cher"
+        ],
+        [
+            "http://dbpedia.org/resource/Beffes",
+            "http://dbpedia.org/resource/Belleville-sur-Loire",
+            "http://dbpedia.org/resource/Bengy-sur-Craon",
+            "http://dbpedia.org/resource/Boulleret"
+        ],
+        [
+            "http://dbpedia.org/resource/Concressault",
+            "http://dbpedia.org/resource/Couargues",
+            "http://dbpedia.org/resource/Couy",
+            "http://dbpedia.org/resource/Crosses,_Cher"
+        ],
+        [
+            "http://dbpedia.org/resource/Fussy",
+            "http://dbpedia.org/resource/Gardefort",
+            "http://dbpedia.org/resource/Garigny",
+            "http://dbpedia.org/resource/Groises"
+        ],
+        [
+            "http://dbpedia.org/resource/Gron,_Cher",
+            "http://dbpedia.org/resource/Henrichemont",
+            "http://dbpedia.org/resource/Herry",
+            "http://dbpedia.org/resource/Humbligny"
+        ]
+    ]
+}

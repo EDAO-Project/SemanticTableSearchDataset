@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_S._Stanley",
+            "http://dbpedia.org/resource/Killed_in_action",
+            "http://dbpedia.org/resource/27th_Ohio_Infantry"
+        ]
+    ]
+}

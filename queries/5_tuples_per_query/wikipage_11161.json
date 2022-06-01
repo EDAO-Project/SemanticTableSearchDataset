@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arturo_Torres",
+            "http://dbpedia.org/resource/Chivas_USA",
+            "http://dbpedia.org/resource/LA_Galaxy",
+            "http://dbpedia.org/resource/Loyola_Marymount_University"
+        ],
+        [
+            "http://dbpedia.org/resource/D._J._Countess",
+            "http://dbpedia.org/resource/Real_Salt_Lake",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+        ],
+        [
+            "http://dbpedia.org/resource/Ezra_Hendrickson",
+            "http://dbpedia.org/resource/Chivas_USA",
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/Drake_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Kamler",
+            "http://dbpedia.org/resource/Real_Salt_Lake",
+            "http://dbpedia.org/resource/New_England_Revolution",
+            "http://dbpedia.org/resource/Creighton_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Nelson_Akwari",
+            "http://dbpedia.org/resource/Real_Salt_Lake",
+            "http://dbpedia.org/resource/Columbus_Crew_SC",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+        ]
+    ]
+}

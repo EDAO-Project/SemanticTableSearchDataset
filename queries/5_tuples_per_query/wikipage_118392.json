@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brodie_Atkinson",
+            "http://dbpedia.org/resource/Adelaide_Football_Club",
+            "http://dbpedia.org/resource/Magarey_Medal"
+        ],
+        [
+            "http://dbpedia.org/resource/Brendan_Fevola",
+            "http://dbpedia.org/resource/Carlton_Football_Club",
+            "http://dbpedia.org/resource/Coleman_Medal"
+        ],
+        [
+            "http://dbpedia.org/resource/Brett_Backwell",
+            "http://dbpedia.org/resource/Carlton_Football_Club",
+            "http://dbpedia.org/resource/Magarey_Medal"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Oborne",
+            "http://dbpedia.org/resource/Collingwood_Football_Club",
+            "http://dbpedia.org/resource/Rod_Oborne"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_McVeigh",
+            "http://dbpedia.org/resource/Essendon_Football_Club",
+            "http://dbpedia.org/resource/Jarrad_McVeigh"
+        ]
+    ]
+}

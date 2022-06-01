@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/EverBank_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Hershey,_Pennsylvania",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Hersheypark_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Hershey,_Pennsylvania",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Hersheypark_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Foxborough,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Foxboro_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Foxborough,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Foxboro_Stadium"
+        ]
+    ]
+}

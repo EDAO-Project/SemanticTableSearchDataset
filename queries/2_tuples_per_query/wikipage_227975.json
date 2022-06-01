@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bayou_Segnette_State_Park",
+            "http://dbpedia.org/resource/Jefferson_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Wave_pool"
+        ],
+        [
+            "http://dbpedia.org/resource/Bogue_Chitto_State_Park",
+            "http://dbpedia.org/resource/Washington_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Equestrianism"
+        ]
+    ]
+}

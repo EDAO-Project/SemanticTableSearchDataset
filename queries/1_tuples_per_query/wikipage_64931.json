@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Friesland",
+            "http://dbpedia.org/resource/Zurich,_Friesland",
+            "http://dbpedia.org/resource/Netherlands"
+        ]
+    ]
+}

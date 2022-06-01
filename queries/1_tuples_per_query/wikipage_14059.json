@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Flavia_Pennetta",
+            "http://dbpedia.org/resource/Venus_Williams",
+            "http://dbpedia.org/resource/Patty_Schnyder",
+            "http://dbpedia.org/resource/Sybille_Bammer"
+        ]
+    ]
+}

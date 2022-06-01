@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bexar_County,_Texas",
+            "http://dbpedia.org/resource/San_Antonio",
+            "http://dbpedia.org/resource/Medina_River"
+        ]
+    ]
+}

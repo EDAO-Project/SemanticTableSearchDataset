@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alice_Lloyd_College",
+            "http://dbpedia.org/resource/Alice_Lloyd_College",
+            "http://dbpedia.org/resource/Pippa_Passes,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Asbury_University",
+            "http://dbpedia.org/resource/Asbury_University",
+            "http://dbpedia.org/resource/Wilmore,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Berea_College",
+            "http://dbpedia.org/resource/Berea_College",
+            "http://dbpedia.org/resource/Berea,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Brescia_University",
+            "http://dbpedia.org/resource/Brescia_University",
+            "http://dbpedia.org/resource/Owensboro,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlow_University",
+            "http://dbpedia.org/resource/Carlow_University",
+            "http://dbpedia.org/resource/Pittsburgh"
+        ]
+    ]
+}

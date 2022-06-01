@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Rise_of_Catherine_the_Great",
+            "http://dbpedia.org/resource/Paul_Czinner",
+            "http://dbpedia.org/resource/Elisabeth_Bergner"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Clairvoyant",
+            "http://dbpedia.org/resource/Maurice_Elvey",
+            "http://dbpedia.org/resource/Claude_Rains"
+        ],
+        [
+            "http://dbpedia.org/resource/Flat_Number_Three",
+            "http://dbpedia.org/resource/Leslie_S._Hiscott",
+            "http://dbpedia.org/resource/Mary_Glynne"
+        ],
+        [
+            "http://dbpedia.org/resource/Forbidden_Territory",
+            "http://dbpedia.org/resource/Phil_Rosen",
+            "http://dbpedia.org/resource/Gregory_Ratoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Gay_Love",
+            "http://dbpedia.org/resource/Leslie_S._Hiscott",
+            "http://dbpedia.org/resource/Florence_Desmond"
+        ]
+    ]
+}

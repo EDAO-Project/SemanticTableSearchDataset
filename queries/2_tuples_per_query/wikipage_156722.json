@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/David_Ben-Gurion",
+            "http://dbpedia.org/resource/Prime_Minister_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Heshel_Frumkin",
+            "http://dbpedia.org/resource/Jenia_Tversky"
+        ]
+    ]
+}

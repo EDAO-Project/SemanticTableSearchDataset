@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Filoviridae",
+            "http://dbpedia.org/resource/Cuevavirus",
+            "http://dbpedia.org/resource/Lloviu_cuevavirus"
+        ],
+        [
+            "http://dbpedia.org/resource/Filoviridae",
+            "http://dbpedia.org/resource/Ebolavirus",
+            "http://dbpedia.org/resource/Bundibugyo_ebolavirus"
+        ]
+    ]
+}

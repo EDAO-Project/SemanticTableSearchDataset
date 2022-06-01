@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cleveland_Torso_Murderer",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cleveland"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Strangler",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Albert_DeSalvo"
+        ]
+    ]
+}

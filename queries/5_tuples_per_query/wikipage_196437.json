@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Botanical_Gardens_at_Asheville",
+            "http://dbpedia.org/resource/University_of_North_Carolina_at_Asheville",
+            "http://dbpedia.org/resource/Asheville,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Coker_Arboretum",
+            "http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill",
+            "http://dbpedia.org/resource/Chapel_Hill,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Davidson_College_Arboretum",
+            "http://dbpedia.org/resource/Davidson_College",
+            "http://dbpedia.org/resource/Davidson,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarah_P._Duke_Gardens",
+            "http://dbpedia.org/resource/Duke_University",
+            "http://dbpedia.org/resource/Durham,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Lanier_Hunt_Arboretum",
+            "http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill",
+            "http://dbpedia.org/resource/Chapel_Hill,_North_Carolina"
+        ]
+    ]
+}

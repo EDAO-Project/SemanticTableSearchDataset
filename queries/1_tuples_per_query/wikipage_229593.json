@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ashland_County,_Ohio",
+            "http://dbpedia.org/resource/Green_Township,_Ashland_County,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Route_39"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bach,_Lot",
+            "http://dbpedia.org/resource/Bagat-en-Quercy",
+            "http://dbpedia.org/resource/Beauregard,_Lot",
+            "http://dbpedia.org/resource/Belfort-du-Quercy"
+        ],
+        [
+            "http://dbpedia.org/resource/Belmont-Sainte-Foi",
+            "http://dbpedia.org/resource/Belmontet",
+            "http://dbpedia.org/resource/Berganty",
+            "http://dbpedia.org/resource/Blars"
+        ],
+        [
+            "http://dbpedia.org/resource/Cahors",
+            "http://dbpedia.org/resource/Caillac",
+            "http://dbpedia.org/resource/Calamane",
+            "http://dbpedia.org/resource/Calvignac"
+        ],
+        [
+            "http://dbpedia.org/resource/Cambayrac",
+            "http://dbpedia.org/resource/Carnac-Rouffiac",
+            "http://dbpedia.org/resource/Cassagnes,_Lot",
+            "http://dbpedia.org/resource/Castelfranc"
+        ],
+        [
+            "http://dbpedia.org/resource/Castelnau-Montratier",
+            "http://dbpedia.org/resource/Catus,_Lot",
+            "http://dbpedia.org/resource/Cazals,_Lot",
+            "http://dbpedia.org/resource/Cieurac"
+        ]
+    ]
+}

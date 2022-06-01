@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Limerick",
+            "http://dbpedia.org/resource/County_Limerick",
+            "http://dbpedia.org/resource/County_Clare"
+        ],
+        [
+            "http://dbpedia.org/resource/Waterford",
+            "http://dbpedia.org/resource/County_Waterford",
+            "http://dbpedia.org/resource/County_Kilkenny"
+        ]
+    ]
+}

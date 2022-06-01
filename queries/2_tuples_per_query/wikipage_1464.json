@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Asian_Football_Confederation",
+            "http://dbpedia.org/resource/Ravshan_Irmatov",
+            "http://dbpedia.org/resource/Uzbekistan_Football_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Confederation_of_African_Football",
+            "http://dbpedia.org/resource/Mohamed_Benouza",
+            "http://dbpedia.org/resource/Algerian_Football_Federation"
+        ]
+    ]
+}

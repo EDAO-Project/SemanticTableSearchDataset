@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ainslie_Football_Club",
+            "http://dbpedia.org/resource/Ainslie,_Australian_Capital_Territory",
+            "http://dbpedia.org/resource/North_East_Australian_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Burnie_Dockers_Football_Club",
+            "http://dbpedia.org/resource/Burnie,_Tasmania",
+            "http://dbpedia.org/resource/Tasmanian_Football_League"
+        ]
+    ]
+}

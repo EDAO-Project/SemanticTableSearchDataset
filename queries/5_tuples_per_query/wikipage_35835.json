@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dushore,_Pennsylvania",
+            "http://dbpedia.org/resource/Aristide_Aubert_Du_Petit_Thouars",
+            "http://dbpedia.org/resource/Cherry_Township,_Sullivan_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Eagles_Mere,_Pennsylvania",
+            "http://dbpedia.org/resource/Bald_eagle",
+            "http://dbpedia.org/resource/Shrewsbury_Township,_Sullivan_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Forksville,_Pennsylvania",
+            "http://dbpedia.org/resource/Confluence",
+            "http://dbpedia.org/resource/Forks_Township,_Sullivan_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Laporte,_Pennsylvania",
+            "http://dbpedia.org/resource/John_Laporte",
+            "http://dbpedia.org/resource/Laporte_Township,_Sullivan_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Cherry_Township,_Sullivan_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Old-growth_forest",
+            "http://dbpedia.org/resource/Shrewsbury_Township,_Lycoming_County,_Pennsylvania"
+        ]
+    ]
+}

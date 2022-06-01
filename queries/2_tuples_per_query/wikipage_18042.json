@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manly_Warringah_Sea_Eagles",
+            "http://dbpedia.org/resource/Parramatta_Eels",
+            "http://dbpedia.org/resource/Brookvale_Oval",
+            "http://dbpedia.org/resource/Ben_Walker"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Queensland_Cowboys",
+            "http://dbpedia.org/resource/Penrith_Panthers",
+            "http://dbpedia.org/resource/Willows_Sports_Complex",
+            "http://dbpedia.org/resource/Joe_Galuvao"
+        ]
+    ]
+}

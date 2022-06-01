@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chaotianmen_Bridge",
+            "http://dbpedia.org/resource/Chongqing",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Lupu_Bridge",
+            "http://dbpedia.org/resource/Shanghai",
+            "http://dbpedia.org/resource/China"
+        ]
+    ]
+}

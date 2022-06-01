@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1992_J._League_Cup",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Shimizu_S-Pulse"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_J._League_Cup",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Shimizu_S-Pulse"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_J._League_Cup",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Kobe_Universiade_Memorial_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_J._League_Cup",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds",
+            "http://dbpedia.org/resource/Kashima_Antlers"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_J._League_Cup",
+            "http://dbpedia.org/resource/F.C._Tokyo",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds"
+        ]
+    ]
+}

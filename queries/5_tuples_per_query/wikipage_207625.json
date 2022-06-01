@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antigua_and_Barbuda",
+            "http://dbpedia.org/resource/Majesty",
+            "http://dbpedia.org/resource/House_of_Windsor"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Majesty",
+            "http://dbpedia.org/resource/House_of_Windsor"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bahamas",
+            "http://dbpedia.org/resource/Majesty",
+            "http://dbpedia.org/resource/House_of_Windsor"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahrain",
+            "http://dbpedia.org/resource/Majesty",
+            "http://dbpedia.org/resource/House_of_Khalifa"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbados",
+            "http://dbpedia.org/resource/Majesty",
+            "http://dbpedia.org/resource/House_of_Windsor"
+        ]
+    ]
+}

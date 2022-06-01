@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tayna_Lawrence",
+            "http://dbpedia.org/resource/Susanthika_Jayasinghe",
+            "http://dbpedia.org/resource/Endurance_Ojokolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Ana_Guevara",
+            "http://dbpedia.org/resource/Jearl_Miles_Clark",
+            "http://dbpedia.org/resource/Olesya_Zykina"
+        ],
+        [
+            "http://dbpedia.org/resource/Berhane_Adere",
+            "http://dbpedia.org/resource/Gabriela_Szabo",
+            "http://dbpedia.org/resource/Yelena_Zadorozhnaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Gail_Devers",
+            "http://dbpedia.org/resource/Brigitte_Foster-Hylton",
+            "http://dbpedia.org/resource/Glory_Alozie"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuliya_Pechonkina",
+            "http://dbpedia.org/resource/Sandra_Glover",
+            "http://dbpedia.org/resource/Jana_Pittman"
+        ]
+    ]
+}

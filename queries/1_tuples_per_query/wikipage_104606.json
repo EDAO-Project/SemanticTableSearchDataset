@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/351st_Missile_Wing",
+            "http://dbpedia.org/resource/Whiteman_Air_Force_Base",
+            "http://dbpedia.org/resource/LGM-30_Minuteman"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colt_Anderson",
+            "http://dbpedia.org/resource/Butte,_Montana",
+            "http://dbpedia.org/resource/National_Football_League"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oslo",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Oslo_Spektrum"
+        ]
+    ]
+}

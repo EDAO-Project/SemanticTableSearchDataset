@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johor",
+            "http://dbpedia.org/resource/Chief_Minister",
+            "http://dbpedia.org/resource/Abdul_Ghani_Othman"
+        ]
+    ]
+}

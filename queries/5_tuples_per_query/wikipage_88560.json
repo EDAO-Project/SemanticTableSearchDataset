@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_Mediterranean_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_1951_Mediterranean_Games",
+            "http://dbpedia.org/resource/Alexandria"
+        ],
+        [
+            "http://dbpedia.org/resource/1955_Mediterranean_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_1955_Mediterranean_Games",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_Mediterranean_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_1959_Mediterranean_Games",
+            "http://dbpedia.org/resource/Beirut"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Mediterranean_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_1963_Mediterranean_Games",
+            "http://dbpedia.org/resource/Naples"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Mediterranean_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_1967_Mediterranean_Games",
+            "http://dbpedia.org/resource/Tunis"
+        ]
+    ]
+}

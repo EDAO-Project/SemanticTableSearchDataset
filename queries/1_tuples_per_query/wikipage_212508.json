@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_Lange",
+            "http://dbpedia.org/resource/Peter-Michael_Kolbe",
+            "http://dbpedia.org/resource/Eric_Verdonk"
+        ]
+    ]
+}

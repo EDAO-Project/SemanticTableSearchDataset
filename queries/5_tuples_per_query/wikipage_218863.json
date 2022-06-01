@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Caesium",
+            "http://dbpedia.org/resource/Water",
+            "http://dbpedia.org/resource/Electrolysis"
+        ],
+        [
+            "http://dbpedia.org/resource/Rubidium",
+            "http://dbpedia.org/resource/Water",
+            "http://dbpedia.org/resource/Electrolysis"
+        ],
+        [
+            "http://dbpedia.org/resource/Potassium",
+            "http://dbpedia.org/resource/Water",
+            "http://dbpedia.org/resource/Electrolysis"
+        ],
+        [
+            "http://dbpedia.org/resource/Sodium",
+            "http://dbpedia.org/resource/Water",
+            "http://dbpedia.org/resource/Electrolysis"
+        ],
+        [
+            "http://dbpedia.org/resource/Lithium",
+            "http://dbpedia.org/resource/Water",
+            "http://dbpedia.org/resource/Electrolysis"
+        ]
+    ]
+}

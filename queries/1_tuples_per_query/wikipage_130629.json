@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California_County_Routes_in_zone_A",
+            "http://dbpedia.org/resource/Lassen_County,_California",
+            "http://dbpedia.org/resource/California_State_Route_36",
+            "http://dbpedia.org/resource/California_State_Route_139"
+        ]
+    ]
+}

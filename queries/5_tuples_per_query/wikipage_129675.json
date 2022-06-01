@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abdera,_Thrace",
+            "http://dbpedia.org/resource/Genisea",
+            "http://dbpedia.org/resource/Eastern_Macedonia_and_Thrace",
+            "http://dbpedia.org/resource/Selero"
+        ],
+        [
+            "http://dbpedia.org/resource/Agios_Vasileios,_Rethymno",
+            "http://dbpedia.org/resource/Spili",
+            "http://dbpedia.org/resource/Crete",
+            "http://dbpedia.org/resource/Foinikas"
+        ],
+        [
+            "http://dbpedia.org/resource/Aktio-Vonitsa",
+            "http://dbpedia.org/resource/Vonitsa",
+            "http://dbpedia.org/resource/Western_Greece",
+            "http://dbpedia.org/resource/Anaktorio"
+        ],
+        [
+            "http://dbpedia.org/resource/Andritsaina-Krestena",
+            "http://dbpedia.org/resource/Krestena",
+            "http://dbpedia.org/resource/Western_Greece",
+            "http://dbpedia.org/resource/Alifeira"
+        ],
+        [
+            "http://dbpedia.org/resource/Apokoronas",
+            "http://dbpedia.org/resource/Vryses",
+            "http://dbpedia.org/resource/Crete",
+            "http://dbpedia.org/resource/Armenoi"
+        ]
+    ]
+}

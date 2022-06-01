@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ariane_4",
+            "http://dbpedia.org/resource/Satellite_Business_Systems",
+            "http://dbpedia.org/resource/Geostationary_transfer_orbit"
+        ],
+        [
+            "http://dbpedia.org/resource/Ariane_4",
+            "http://dbpedia.org/resource/Astra_1B",
+            "http://dbpedia.org/resource/Geostationary_transfer_orbit"
+        ],
+        [
+            "http://dbpedia.org/resource/Ariane_4",
+            "http://dbpedia.org/resource/European_Remote-Sensing_Satellite",
+            "http://dbpedia.org/resource/Sun-synchronous_orbit"
+        ],
+        [
+            "http://dbpedia.org/resource/Ariane_4",
+            "http://dbpedia.org/resource/Intelsat_605",
+            "http://dbpedia.org/resource/Geostationary_transfer_orbit"
+        ],
+        [
+            "http://dbpedia.org/resource/Ariane_4",
+            "http://dbpedia.org/resource/Atlantic_Bird",
+            "http://dbpedia.org/resource/Geostationary_transfer_orbit"
+        ]
+    ]
+}

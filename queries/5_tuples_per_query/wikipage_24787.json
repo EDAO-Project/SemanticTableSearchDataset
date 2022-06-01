@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Phelps_Taft",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1894",
+            "http://dbpedia.org/resource/William_B._Shattuc"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_J._Sorg",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1894",
+            "http://dbpedia.org/resource/John_Lewis_Brenner"
+        ],
+        [
+            "http://dbpedia.org/resource/Fernando_C._Layton",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1890",
+            "http://dbpedia.org/resource/George_Alexander_Marshall"
+        ],
+        [
+            "http://dbpedia.org/resource/Francis_B._De_Witt",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1894",
+            "http://dbpedia.org/resource/David_Meekison"
+        ],
+        [
+            "http://dbpedia.org/resource/George_W._Hulick",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1892",
+            "http://dbpedia.org/resource/Seth_W._Brown"
+        ]
+    ]
+}

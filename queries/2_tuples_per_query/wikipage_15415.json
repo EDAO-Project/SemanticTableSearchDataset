@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dallas_County,_Iowa",
+            "http://dbpedia.org/resource/Dexter,_Iowa",
+            "http://dbpedia.org/resource/Redfield,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Polk_County,_Iowa",
+            "http://dbpedia.org/resource/Urbandale,_Iowa",
+            "http://dbpedia.org/resource/Camp_Dodge"
+        ]
+    ]
+}

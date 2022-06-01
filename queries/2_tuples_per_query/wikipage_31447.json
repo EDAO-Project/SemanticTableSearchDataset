@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emperor_Wen_of_Sui",
+            "http://dbpedia.org/resource/Sui_dynasty",
+            "http://dbpedia.org/resource/Emperor_Gong_of_Sui"
+        ],
+        [
+            "http://dbpedia.org/resource/Emperor_Wen_of_Sui",
+            "http://dbpedia.org/resource/Sui_dynasty",
+            "http://dbpedia.org/resource/Yang_Tong"
+        ]
+    ]
+}

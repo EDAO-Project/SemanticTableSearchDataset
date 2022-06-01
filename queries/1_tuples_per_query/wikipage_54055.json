@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allsvenskan",
+            "http://dbpedia.org/resource/Superettan",
+            "http://dbpedia.org/resource/Kalmar_FF"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southwark_Bridge",
+            "http://dbpedia.org/resource/Queen_Street,_London",
+            "http://dbpedia.org/resource/Bankside"
+        ]
+    ]
+}

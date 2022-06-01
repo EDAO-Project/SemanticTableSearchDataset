@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Lyon,_Mississippi",
+            "http://dbpedia.org/resource/Coahoma_County_School_District"
+        ]
+    ]
+}

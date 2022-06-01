@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1912_Summer_Olympics",
+            "http://dbpedia.org/resource/Stockholm_Olympic_Stadium",
+            "http://dbpedia.org/resource/Athletics_at_the_1912_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1924_Summer_Olympics",
+            "http://dbpedia.org/resource/Le_Stand_de_Tir_de_Versailles",
+            "http://dbpedia.org/resource/Shooting_at_the_1924_Summer_Olympics"
+        ]
+    ]
+}

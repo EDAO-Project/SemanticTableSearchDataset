@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Madrid_Tennis_Grand_Prix",
+            "http://dbpedia.org/resource/Carlos_di_Laura",
+            "http://dbpedia.org/resource/Sergio_Casal"
+        ],
+        [
+            "http://dbpedia.org/resource/Bologna_Outdoor",
+            "http://dbpedia.org/resource/Sergio_Casal",
+            "http://dbpedia.org/resource/Tomas_Nydahl"
+        ],
+        [
+            "http://dbpedia.org/resource/Hypo_Group_Tennis_International",
+            "http://dbpedia.org/resource/Sergio_Casal",
+            "http://dbpedia.org/resource/Simone_Colombo"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Wells_Masters",
+            "http://dbpedia.org/resource/Jim_Courier",
+            "http://dbpedia.org/resource/Guy_Forget"
+        ],
+        [
+            "http://dbpedia.org/resource/Bologna_Outdoor",
+            "http://dbpedia.org/resource/Javier_Frana",
+            "http://dbpedia.org/resource/Luke_Jensen"
+        ]
+    ]
+}

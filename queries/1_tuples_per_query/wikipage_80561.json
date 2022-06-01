@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aloha_Tower",
+            "http://dbpedia.org/resource/Honolulu_Harbor",
+            "http://dbpedia.org/resource/Honolulu"
+        ]
+    ]
+}

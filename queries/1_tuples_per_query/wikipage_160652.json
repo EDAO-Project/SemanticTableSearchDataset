@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Corehouse",
+            "http://dbpedia.org/resource/Lanarkshire",
+            "http://dbpedia.org/resource/George_Cranstoun"
+        ]
+    ]
+}

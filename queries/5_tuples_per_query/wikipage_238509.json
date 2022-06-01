@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Freddy_Kemayo",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/K-1_World_Grand_Prix_2010_in_Bucharest",
+            "http://dbpedia.org/resource/Bucharest",
+            "http://dbpedia.org/resource/Sebastian_Ciobanu",
+            "http://dbpedia.org/resource/Romania"
+        ],
+        [
+            "http://dbpedia.org/resource/Singh_Jaideep",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/List_of_K-1_events",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Taiei_Kin",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mladen_Brestovac",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/List_of_K-1_events",
+            "http://dbpedia.org/resource/Budapest",
+            "http://dbpedia.org/resource/Sebastian_Ciobanu",
+            "http://dbpedia.org/resource/Romania"
+        ],
+        [
+            "http://dbpedia.org/resource/Ewerton_Teixeira",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/List_of_K-1_events",
+            "http://dbpedia.org/resource/Fukuoka",
+            "http://dbpedia.org/resource/Kyotaro_Fujimoto",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Errol_Zimmerman",
+            "http://dbpedia.org/resource/Suriname",
+            "http://dbpedia.org/resource/K-1_World_Grand_Prix_2008_in_Seoul_Final_16",
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Zabit_Samedov",
+            "http://dbpedia.org/resource/Belarus"
+        ]
+    ]
+}

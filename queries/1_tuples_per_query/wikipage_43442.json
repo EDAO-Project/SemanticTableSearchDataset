@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Montreal_Locomotive_Works",
+            "http://dbpedia.org/resource/ALCO_S-1_and_S-3",
+            "http://dbpedia.org/resource/Fraser_Papers"
+        ]
+    ]
+}

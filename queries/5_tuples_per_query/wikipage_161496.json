@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kosmos_520",
+            "http://dbpedia.org/resource/US-K",
+            "http://dbpedia.org/resource/Molniya-M",
+            "http://dbpedia.org/resource/Plesetsk_Cosmodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_606",
+            "http://dbpedia.org/resource/US-K",
+            "http://dbpedia.org/resource/Molniya-M",
+            "http://dbpedia.org/resource/Plesetsk_Cosmodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_665",
+            "http://dbpedia.org/resource/US-K",
+            "http://dbpedia.org/resource/Molniya-M",
+            "http://dbpedia.org/resource/Plesetsk_Cosmodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_706",
+            "http://dbpedia.org/resource/US-K",
+            "http://dbpedia.org/resource/Molniya-M",
+            "http://dbpedia.org/resource/Plesetsk_Cosmodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_775",
+            "http://dbpedia.org/resource/US-KS",
+            "http://dbpedia.org/resource/Proton-K",
+            "http://dbpedia.org/resource/Baikonur_Cosmodrome"
+        ]
+    ]
+}

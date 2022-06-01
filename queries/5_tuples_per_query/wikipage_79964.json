@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_ICC_World_Cricket_League_Division_Seven",
+            "http://dbpedia.org/resource/Bahrain_national_cricket_team",
+            "http://dbpedia.org/resource/Guernsey"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_ICC_World_Cricket_League_Division_Six",
+            "http://dbpedia.org/resource/Singapore_national_cricket_team",
+            "http://dbpedia.org/resource/Singapore"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_ICC_World_Cricket_League_Division_Five",
+            "http://dbpedia.org/resource/Nepal_national_cricket_team",
+            "http://dbpedia.org/resource/Nepal"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_ICC_World_Cricket_League_Division_One",
+            "http://dbpedia.org/resource/Ireland_cricket_team",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_ICC_World_Cricket_League_Division_Four",
+            "http://dbpedia.org/resource/United_States_national_cricket_team",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

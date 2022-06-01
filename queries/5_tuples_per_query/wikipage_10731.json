@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allamakee_County_Court_House",
+            "http://dbpedia.org/resource/Allamakee_County,_Iowa",
+            "http://dbpedia.org/resource/Waukon,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Appanoose_County_Courthouse",
+            "http://dbpedia.org/resource/Appanoose_County,_Iowa",
+            "http://dbpedia.org/resource/Centerville,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Clayton_County_Courthouse",
+            "http://dbpedia.org/resource/Clayton_County,_Iowa",
+            "http://dbpedia.org/resource/Elkader,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Davis_County_Courthouse",
+            "http://dbpedia.org/resource/Davis_County,_Iowa",
+            "http://dbpedia.org/resource/Bloomfield,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Des_Moines_County_Court_House",
+            "http://dbpedia.org/resource/Des_Moines_County,_Iowa",
+            "http://dbpedia.org/resource/Burlington,_Iowa"
+        ]
+    ]
+}

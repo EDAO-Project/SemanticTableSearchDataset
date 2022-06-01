@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Roseland_Ballroom"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Fillmore_Detroit"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Electric_Factory"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Tabernacle"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Miami_Beach_Convention_Center"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cessna_A-37_Dragonfly",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Embraer_EMB_314_Super_Tucano"
+        ],
+        [
+            "http://dbpedia.org/resource/North_American_Sabreliner",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ecuadorian_Civilian_Space_Agency"
+        ],
+        [
+            "http://dbpedia.org/resource/Embraer_Legacy",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Embraer_Legacy_600"
+        ],
+        [
+            "http://dbpedia.org/resource/Embraer_E-Jet_family",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/TAME"
+        ],
+        [
+            "http://dbpedia.org/resource/Airbus_A320_family",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/TAME"
+        ]
+    ]
+}

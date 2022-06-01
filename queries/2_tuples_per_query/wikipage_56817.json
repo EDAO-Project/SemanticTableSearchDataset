@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Forsythe",
+            "http://dbpedia.org/resource/Henry_Cecil",
+            "http://dbpedia.org/resource/Alfred_Hitchcock"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Mason",
+            "http://dbpedia.org/resource/John_Bingham,_7th_Baron_Clanmorris",
+            "http://dbpedia.org/resource/Alf_Kjellin"
+        ]
+    ]
+}

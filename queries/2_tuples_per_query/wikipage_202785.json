@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A._C._Schiffler",
+            "http://dbpedia.org/resource/Wheeling,_West_Virginia",
+            "http://dbpedia.org/resource/Ohio_County,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Brown_Littlepage",
+            "http://dbpedia.org/resource/Charleston,_West_Virginia",
+            "http://dbpedia.org/resource/Kanawha_County,_West_Virginia"
+        ]
+    ]
+}

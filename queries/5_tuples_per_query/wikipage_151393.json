@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ainslie_Football_Club",
+            "http://dbpedia.org/resource/Ainslie,_Australian_Capital_Territory",
+            "http://dbpedia.org/resource/AFL_Canberra"
+        ],
+        [
+            "http://dbpedia.org/resource/Claremont_Football_Club",
+            "http://dbpedia.org/resource/Claremont,_Western_Australia",
+            "http://dbpedia.org/resource/West_Australian_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Clarence_Football_Club",
+            "http://dbpedia.org/resource/City_of_Clarence",
+            "http://dbpedia.org/resource/Tasmanian_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Coast_Eagles",
+            "http://dbpedia.org/resource/Rouse_Hill,_New_South_Wales",
+            "http://dbpedia.org/resource/Sydney_AFL"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Perth_Football_Club",
+            "http://dbpedia.org/resource/Leederville,_Western_Australia",
+            "http://dbpedia.org/resource/West_Australian_Football_League"
+        ]
+    ]
+}

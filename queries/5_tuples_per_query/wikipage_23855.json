@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jerry_Flannery",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Irish_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Munster_Rugby"
+        ],
+        [
+            "http://dbpedia.org/resource/Ross_Ford",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Scottish_Rugby_Union",
+            "http://dbpedia.org/resource/Edinburgh_Rugby"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Mears",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union",
+            "http://dbpedia.org/resource/Bath_Rugby"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Rees",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Welsh_Rugby_Union",
+            "http://dbpedia.org/resource/Scarlets"
+        ],
+        [
+            "http://dbpedia.org/resource/Gethin_Jenkins",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Welsh_Rugby_Union",
+            "http://dbpedia.org/resource/Cardiff_Blues"
+        ]
+    ]
+}

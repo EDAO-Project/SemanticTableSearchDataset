@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berzieux",
+            "http://dbpedia.org/resource/Binarville",
+            "http://dbpedia.org/resource/Braux-Saint-Remy"
+        ],
+        [
+            "http://dbpedia.org/resource/Dommartin-sous-Hans",
+            "http://dbpedia.org/resource/Florent-en-Argonne",
+            "http://dbpedia.org/resource/Fontaine-en-Dormois"
+        ]
+    ]
+}

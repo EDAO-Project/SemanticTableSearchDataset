@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dassault_Mirage_F1",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Gamal_Abdul_El_Nasser_Air_Base"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikoyan-Gurevich_MiG-21",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Benina_International_Airport"
+        ]
+    ]
+}

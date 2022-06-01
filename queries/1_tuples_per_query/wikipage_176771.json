@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1956_NFL_draft",
+            "http://dbpedia.org/resource/Bill_Koman",
+            "http://dbpedia.org/resource/History_of_the_Baltimore_Colts",
+            "http://dbpedia.org/resource/1963_Pro_Bowl"
+        ]
+    ]
+}

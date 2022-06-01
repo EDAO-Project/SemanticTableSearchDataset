@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4th_Gemini_Awards",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Metro_Toronto_Convention_Centre",
+            "http://dbpedia.org/resource/Martin_Short",
+            "http://dbpedia.org/resource/CBC_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Gemini_Awards",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Metro_Toronto_Convention_Centre",
+            "http://dbpedia.org/resource/Ralph_Benmergui",
+            "http://dbpedia.org/resource/CBC_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Gemini_Awards",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Metro_Toronto_Convention_Centre",
+            "http://dbpedia.org/resource/Cynthia_Dale",
+            "http://dbpedia.org/resource/CBC_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Gemini_Awards",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Metro_Toronto_Convention_Centre",
+            "http://dbpedia.org/resource/Sara_Botsford",
+            "http://dbpedia.org/resource/CBC_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Gemini_Awards",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Metro_Toronto_Convention_Centre",
+            "http://dbpedia.org/resource/Valerie_Pringle",
+            "http://dbpedia.org/resource/CBC_Television"
+        ]
+    ]
+}

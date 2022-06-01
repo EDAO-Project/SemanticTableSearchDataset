@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Deutscher_Commercial_Internet_Exchange",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Amsterdam_Internet_Exchange",
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Internet_Exchange",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Equinix",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow_Internet_Exchange",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Russia"
+        ]
+    ]
+}

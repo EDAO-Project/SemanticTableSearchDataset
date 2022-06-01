@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Adventures_of_Tarzan",
+            "http://dbpedia.org/resource/Robert_F._Hill",
+            "http://dbpedia.org/resource/Elmo_Lincoln",
+            "http://dbpedia.org/resource/Serial_film"
+        ]
+    ]
+}

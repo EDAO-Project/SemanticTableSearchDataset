@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antalya",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Antalya_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Araxos",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Antalya_Airport"
+        ]
+    ]
+}

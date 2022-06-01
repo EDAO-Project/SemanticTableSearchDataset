@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dorothea_of_Brandenburg",
+            "http://dbpedia.org/resource/John,_Margrave_of_Brandenburg-Kulmbach",
+            "http://dbpedia.org/resource/Christian_I_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Christina_of_Saxony",
+            "http://dbpedia.org/resource/Ernest,_Elector_of_Saxony",
+            "http://dbpedia.org/resource/John,_King_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Isabella_of_Austria",
+            "http://dbpedia.org/resource/Philip_I_of_Castile",
+            "http://dbpedia.org/resource/Christian_II_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Anna_of_Brandenburg",
+            "http://dbpedia.org/resource/John_Cicero,_Elector_of_Brandenburg",
+            "http://dbpedia.org/resource/Frederick_I_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Sophie_of_Pomerania",
+            "http://dbpedia.org/resource/Bogislaw_X,_Duke_of_Pomerania",
+            "http://dbpedia.org/resource/Frederick_I_of_Denmark"
+        ]
+    ]
+}

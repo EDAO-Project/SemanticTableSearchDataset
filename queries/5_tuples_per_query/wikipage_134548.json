@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boone_Hall",
+            "http://dbpedia.org/resource/Mount_Pleasant,_South_Carolina",
+            "http://dbpedia.org/resource/Charleston_County,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Borough_House_Plantation",
+            "http://dbpedia.org/resource/Stateburg,_South_Carolina",
+            "http://dbpedia.org/resource/Sumter_County,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Brick_House_Ruins",
+            "http://dbpedia.org/resource/Edisto_Island,_South_Carolina",
+            "http://dbpedia.org/resource/Charleston_County,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Drayton_Hall",
+            "http://dbpedia.org/resource/Charleston,_South_Carolina",
+            "http://dbpedia.org/resource/Charleston_County,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Hampton_Plantation",
+            "http://dbpedia.org/resource/McClellanville,_South_Carolina",
+            "http://dbpedia.org/resource/Charleston_County,_South_Carolina"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KLVP",
+            "http://dbpedia.org/resource/Educational_Media_Foundation",
+            "http://dbpedia.org/resource/K-Love"
+        ],
+        [
+            "http://dbpedia.org/resource/KMHD",
+            "http://dbpedia.org/resource/Oregon_Public_Broadcasting",
+            "http://dbpedia.org/resource/Jazz"
+        ]
+    ]
+}

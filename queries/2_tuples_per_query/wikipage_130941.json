@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anaheim,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/City_National_Grove_of_Anaheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Gibson_Amphitheatre"
+        ]
+    ]
+}

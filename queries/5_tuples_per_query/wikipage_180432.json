@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_Petit_Le_Mans",
+            "http://dbpedia.org/resource/Eric_van_de_Poele",
+            "http://dbpedia.org/resource/Risi_Competizione",
+            "http://dbpedia.org/resource/Ferrari_333_SP",
+            "http://dbpedia.org/resource/IMSA_GT_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Petit_Le_Mans",
+            "http://dbpedia.org/resource/David_Brabham",
+            "http://dbpedia.org/resource/Panoz,_LLC",
+            "http://dbpedia.org/resource/Panoz_LMP-1_Roadster-S",
+            "http://dbpedia.org/resource/American_Le_Mans_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Petit_Le_Mans",
+            "http://dbpedia.org/resource/Rinaldo_Capello",
+            "http://dbpedia.org/resource/Champion_Racing",
+            "http://dbpedia.org/resource/Audi_R10_TDI",
+            "http://dbpedia.org/resource/American_Le_Mans_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Petit_Le_Mans",
+            "http://dbpedia.org/resource/Allan_McNish",
+            "http://dbpedia.org/resource/Champion_Racing",
+            "http://dbpedia.org/resource/Audi_R10_TDI",
+            "http://dbpedia.org/resource/American_Le_Mans_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Petit_Le_Mans",
+            "http://dbpedia.org/resource/Allan_McNish",
+            "http://dbpedia.org/resource/Champion_Racing",
+            "http://dbpedia.org/resource/Audi_R10_TDI",
+            "http://dbpedia.org/resource/American_Le_Mans_Series"
+        ]
+    ]
+}

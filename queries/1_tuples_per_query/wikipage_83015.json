@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berkeley,_Illinois",
+            "http://dbpedia.org/resource/Oak_Brook,_Illinois",
+            "http://dbpedia.org/resource/Commercial_bank"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BC_Place",
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/BC_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Rogers_Centre",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Toronto_Argonauts"
+        ],
+        [
+            "http://dbpedia.org/resource/McMahon_Stadium",
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Calgary_Stampeders"
+        ],
+        [
+            "http://dbpedia.org/resource/Investors_Group_Field",
+            "http://dbpedia.org/resource/Winnipeg",
+            "http://dbpedia.org/resource/Manitoba",
+            "http://dbpedia.org/resource/Winnipeg_Blue_Bombers"
+        ],
+        [
+            "http://dbpedia.org/resource/Mosaic_Stadium_at_Taylor_Field",
+            "http://dbpedia.org/resource/Regina,_Saskatchewan",
+            "http://dbpedia.org/resource/Saskatchewan",
+            "http://dbpedia.org/resource/Saskatchewan_Roughriders"
+        ]
+    ]
+}

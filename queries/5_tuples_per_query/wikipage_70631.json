@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election,_1888",
+            "http://dbpedia.org/resource/Frederick_Douglass",
+            "http://dbpedia.org/resource/1888_Republican_National_Convention",
+            "http://dbpedia.org/resource/Benjamin_Harrison"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election,_1968",
+            "http://dbpedia.org/resource/Channing_E._Phillips",
+            "http://dbpedia.org/resource/1968_Democratic_National_Convention",
+            "http://dbpedia.org/resource/Hubert_Humphrey"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election,_1972",
+            "http://dbpedia.org/resource/Shirley_Chisholm",
+            "http://dbpedia.org/resource/1972_Democratic_National_Convention",
+            "http://dbpedia.org/resource/George_McGovern"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election,_1972",
+            "http://dbpedia.org/resource/Walter_E._Fauntroy",
+            "http://dbpedia.org/resource/1972_Democratic_National_Convention",
+            "http://dbpedia.org/resource/George_McGovern"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election,_1976",
+            "http://dbpedia.org/resource/Barbara_Jordan",
+            "http://dbpedia.org/resource/1976_Democratic_National_Convention",
+            "http://dbpedia.org/resource/Jimmy_Carter"
+        ]
+    ]
+}

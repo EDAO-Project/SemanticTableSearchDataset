@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Warren_Ault",
+            "http://dbpedia.org/resource/Modern_history",
+            "http://dbpedia.org/resource/Rhodes_Scholarship"
+        ],
+        [
+            "http://dbpedia.org/resource/Theo_Barker",
+            "http://dbpedia.org/resource/Modern_history",
+            "http://dbpedia.org/resource/University_of_Kent"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Wingrove_Cooke",
+            "http://dbpedia.org/resource/Literae_Humaniores",
+            "http://dbpedia.org/resource/Barrister"
+        ],
+        [
+            "http://dbpedia.org/resource/Goronwy_Edwards",
+            "http://dbpedia.org/resource/Modern_history",
+            "http://dbpedia.org/resource/Institute_of_Historical_Research"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_J._Evans",
+            "http://dbpedia.org/resource/Modern_history",
+            "http://dbpedia.org/resource/Deborah_Lipstadt"
+        ]
+    ]
+}

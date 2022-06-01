@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zou_Shiming",
+            "http://dbpedia.org/resource/Shin_Jong-hun",
+            "http://dbpedia.org/resource/David_Ayrapetyan"
+        ],
+        [
+            "http://dbpedia.org/resource/Misha_Aloyan",
+            "http://dbpedia.org/resource/Andrew_Selby",
+            "http://dbpedia.org/resource/Jasurbek_Latipov"
+        ],
+        [
+            "http://dbpedia.org/resource/Vasyl_Lomachenko",
+            "http://dbpedia.org/resource/Yasniel_Toledo",
+            "http://dbpedia.org/resource/Domenico_Valentino"
+        ],
+        [
+            "http://dbpedia.org/resource/Vasyl_Lomachenko",
+            "http://dbpedia.org/resource/Yasniel_Toledo",
+            "http://dbpedia.org/resource/Gani_Zhailauov"
+        ],
+        [
+            "http://dbpedia.org/resource/Taras_Shelestyuk",
+            "http://dbpedia.org/resource/Serik_Sapiyev",
+            "http://dbpedia.org/resource/Egidijus_Kavaliauskas"
+        ]
+    ]
+}

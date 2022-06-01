@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rio_Grande_Valley_Vipers",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/NBA_Development_League",
+            "http://dbpedia.org/resource/State_Farm_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Toros_de_Nuevo_Laredo",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/Liga_Nacional_de_Baloncesto_Profesional",
+            "http://dbpedia.org/resource/Laredo_Energy_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio_Talons",
+            "http://dbpedia.org/resource/Indoor_American_football",
+            "http://dbpedia.org/resource/Arena_Football_League",
+            "http://dbpedia.org/resource/Alamodome"
+        ],
+        [
+            "http://dbpedia.org/resource/Corpus_Christi_Fury",
+            "http://dbpedia.org/resource/Indoor_American_football",
+            "http://dbpedia.org/resource/Lone_Star_Football_League",
+            "http://dbpedia.org/resource/American_Bank_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Laredo_Rattlesnakes",
+            "http://dbpedia.org/resource/Indoor_American_football",
+            "http://dbpedia.org/resource/Lone_Star_Football_League",
+            "http://dbpedia.org/resource/Laredo_Energy_Arena"
+        ]
+    ]
+}

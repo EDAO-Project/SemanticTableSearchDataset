@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angola",
+            "http://dbpedia.org/resource/List_of_moths_of_Angola",
+            "http://dbpedia.org/resource/List_of_butterflies_of_Angola"
+        ],
+        [
+            "http://dbpedia.org/resource/Benin",
+            "http://dbpedia.org/resource/List_of_moths_of_Benin",
+            "http://dbpedia.org/resource/List_of_butterflies_of_Benin"
+        ]
+    ]
+}

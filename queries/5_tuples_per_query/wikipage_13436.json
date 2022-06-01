@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_National_Soccer_League",
+            "http://dbpedia.org/resource/South_Melbourne_FC",
+            "http://dbpedia.org/resource/Sydney_Olympic_FC",
+            "http://dbpedia.org/resource/Olympic_Park_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_National_Soccer_League",
+            "http://dbpedia.org/resource/South_Melbourne_FC",
+            "http://dbpedia.org/resource/Sydney_Olympic_FC",
+            "http://dbpedia.org/resource/St_George_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_National_Soccer_League",
+            "http://dbpedia.org/resource/Brunswick_Zebras_FC",
+            "http://dbpedia.org/resource/Hakoah_Sydney_City_East_FC",
+            "http://dbpedia.org/resource/St_George_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_National_Soccer_League",
+            "http://dbpedia.org/resource/Brunswick_Zebras_FC",
+            "http://dbpedia.org/resource/Hakoah_Sydney_City_East_FC",
+            "http://dbpedia.org/resource/Olympic_Park_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_National_Soccer_League",
+            "http://dbpedia.org/resource/Adelaide_City_FC",
+            "http://dbpedia.org/resource/Sydney_Olympic_FC",
+            "http://dbpedia.org/resource/Hindmarsh_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portage_County,_Ohio",
+            "http://dbpedia.org/resource/Rootstown_Township,_Portage_County,_Ohio",
+            "http://dbpedia.org/resource/Interstate_76_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Portage_County,_Ohio",
+            "http://dbpedia.org/resource/Ravenna_Township,_Portage_County,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Route_59"
+        ]
+    ]
+}

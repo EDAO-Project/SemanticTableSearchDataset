@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christian_Gerhaher",
+            "http://dbpedia.org/resource/Pierre_Boulez",
+            "http://dbpedia.org/resource/Deutsche_Grammophon"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierre-Laurent_Aimard",
+            "http://dbpedia.org/resource/Pierre_Boulez",
+            "http://dbpedia.org/resource/Deutsche_Grammophon"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Walter_Desmaison",
+            "http://dbpedia.org/resource/Aviron_Bayonnais",
+            "http://dbpedia.org/resource/Top_14"
+        ],
+        [
+            "http://dbpedia.org/resource/Davit_Khinchagishvili",
+            "http://dbpedia.org/resource/CA_Brive",
+            "http://dbpedia.org/resource/Top_14"
+        ],
+        [
+            "http://dbpedia.org/resource/Virgile_Lacombe",
+            "http://dbpedia.org/resource/Southern_Kings",
+            "http://dbpedia.org/resource/Super_Rugby"
+        ],
+        [
+            "http://dbpedia.org/resource/Wenceslas_Lauret",
+            "http://dbpedia.org/resource/Biarritz_Olympique",
+            "http://dbpedia.org/resource/Top_14"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Lydiate",
+            "http://dbpedia.org/resource/Newport_Gwent_Dragons",
+            "http://dbpedia.org/resource/Pro12"
+        ]
+    ]
+}

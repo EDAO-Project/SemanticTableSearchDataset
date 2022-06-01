@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Treehouse_of_Horror",
+            "http://dbpedia.org/resource/John_Swartzwelder",
+            "http://dbpedia.org/resource/Wes_Archer"
+        ],
+        [
+            "http://dbpedia.org/resource/Treehouse_of_Horror",
+            "http://dbpedia.org/resource/Jay_Kogen",
+            "http://dbpedia.org/resource/Rich_Moore"
+        ],
+        [
+            "http://dbpedia.org/resource/Treehouse_of_Horror",
+            "http://dbpedia.org/resource/Sam_Simon",
+            "http://dbpedia.org/resource/David_Silverman"
+        ],
+        [
+            "http://dbpedia.org/resource/Treehouse_of_Horror_II",
+            "http://dbpedia.org/resource/Al_Jean",
+            "http://dbpedia.org/resource/Jim_Reardon"
+        ],
+        [
+            "http://dbpedia.org/resource/Treehouse_of_Horror_II",
+            "http://dbpedia.org/resource/Al_Jean",
+            "http://dbpedia.org/resource/Jim_Reardon"
+        ]
+    ]
+}

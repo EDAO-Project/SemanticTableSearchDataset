@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fidel_Castro",
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/First_Secretary_of_the_Communist_Party_of_Cuba"
+        ],
+        [
+            "http://dbpedia.org/resource/Omar_Bongo",
+            "http://dbpedia.org/resource/History_of_Gabon",
+            "http://dbpedia.org/resource/List_of_heads_of_state_of_Gabon"
+        ]
+    ]
+}

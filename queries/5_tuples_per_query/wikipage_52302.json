@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Mobile,_Alabama",
+            "http://dbpedia.org/resource/Battleship_Memorial_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Little_Rock,_Arkansas",
+            "http://dbpedia.org/resource/Arkansas_Inland_Maritime_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Alameda,_California",
+            "http://dbpedia.org/resource/USS_Hornet_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Homewood,_California",
+            "http://dbpedia.org/resource/Tahoe_Maritime_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Monterey,_California",
+            "http://dbpedia.org/resource/Museum_of_Monterey"
+        ]
+    ]
+}

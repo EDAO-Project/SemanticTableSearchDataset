@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Conor_McCann",
+            "http://dbpedia.org/resource/Antrim_GAA",
+            "http://dbpedia.org/resource/Laois_GAA"
+        ]
+    ]
+}

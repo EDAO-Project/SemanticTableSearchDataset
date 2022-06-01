@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apostle_Islands_Lighthouses",
+            "http://dbpedia.org/resource/Bayfield,_Wisconsin",
+            "http://dbpedia.org/resource/Lighthouse"
+        ]
+    ]
+}

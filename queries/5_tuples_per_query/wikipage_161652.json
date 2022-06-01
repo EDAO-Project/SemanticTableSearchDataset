@@ -1,0 +1,36 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Transport_for_New_South_Wales",
+            "http://dbpedia.org/resource/Gladys_Berejiklian"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Flanders",
+            "http://dbpedia.org/resource/Flemish_Government",
+            "http://dbpedia.org/resource/Hilde_Crevits"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/British_Columbia_Ministry_of_Transportation",
+            "http://dbpedia.org/resource/Blair_Lekstrom"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Ministry_of_Transportation_of_Ontario",
+            "http://dbpedia.org/resource/Ministry_of_Transportation_of_Ontario",
+            "http://dbpedia.org/resource/Bob_Chiarelli"
+        ],
+        [
+            "http://dbpedia.org/resource/European_Union",
+            "http://dbpedia.org/resource/European_Union",
+            "http://dbpedia.org/resource/European_Commissioner_for_Transport",
+            "http://dbpedia.org/resource/Directorate-General_for_Mobility_and_Transport",
+            "http://dbpedia.org/resource/Siim_Kallas"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Helsinki_Olympic_Stadium",
+            "http://dbpedia.org/resource/Helsinki",
+            "http://dbpedia.org/resource/Finland_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Lahti_Stadium",
+            "http://dbpedia.org/resource/Lahti",
+            "http://dbpedia.org/resource/FC_Lahti"
+        ],
+        [
+            "http://dbpedia.org/resource/Raatti_Stadium",
+            "http://dbpedia.org/resource/Oulu",
+            "http://dbpedia.org/resource/AC_Oulu"
+        ],
+        [
+            "http://dbpedia.org/resource/Pori_Stadium",
+            "http://dbpedia.org/resource/Pori",
+            "http://dbpedia.org/resource/FC_Jazz"
+        ],
+        [
+            "http://dbpedia.org/resource/Sonera_Stadium",
+            "http://dbpedia.org/resource/Helsinki",
+            "http://dbpedia.org/resource/Helsingin_Jalkapalloklubi"
+        ]
+    ]
+}

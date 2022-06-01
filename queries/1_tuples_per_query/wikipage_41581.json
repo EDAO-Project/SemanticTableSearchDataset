@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greenland",
+            "http://dbpedia.org/resource/Igloo",
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Mortuary_Temple_of_Hatshepsut"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AIK_Fotboll",
+            "http://dbpedia.org/resource/Landskrona_BoIS",
+            "http://dbpedia.org/resource/Landskrona_IP"
+        ],
+        [
+            "http://dbpedia.org/resource/Degerfors_IF",
+            "http://dbpedia.org/resource/Landskrona_BoIS",
+            "http://dbpedia.org/resource/Ullevi"
+        ]
+    ]
+}

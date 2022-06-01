@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rusty_Wallace",
+            "http://dbpedia.org/resource/Miller_Brewing_Company",
+            "http://dbpedia.org/resource/Pontiac_Grand_Prix",
+            "http://dbpedia.org/resource/Team_Penske"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Gordon",
+            "http://dbpedia.org/resource/DuPont",
+            "http://dbpedia.org/resource/Chevrolet_Monte_Carlo",
+            "http://dbpedia.org/resource/Hendrick_Motorsports"
+        ]
+    ]
+}

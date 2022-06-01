@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Horace_Barton",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilfred_Beaver",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Cowper",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Bradfield_Fairclough",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Cedric_Howell",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ]
+    ]
+}

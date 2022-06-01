@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Travis_Carter_Enterprises",
+            "http://dbpedia.org/resource/Ford_Taurus",
+            "http://dbpedia.org/resource/Jimmy_Spencer",
+            "http://dbpedia.org/resource/Kmart",
+            "http://dbpedia.org/resource/Travis_Carter",
+            "http://dbpedia.org/resource/Donnie_Wingo"
+        ],
+        [
+            "http://dbpedia.org/resource/Travis_Carter_Enterprises",
+            "http://dbpedia.org/resource/Ford_Taurus",
+            "http://dbpedia.org/resource/Todd_Bodine",
+            "http://dbpedia.org/resource/Kmart",
+            "http://dbpedia.org/resource/Travis_Carter",
+            "http://dbpedia.org/resource/Larry_Carter"
+        ],
+        [
+            "http://dbpedia.org/resource/Hendrick_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet_Monte_Carlo",
+            "http://dbpedia.org/resource/Jeff_Gordon",
+            "http://dbpedia.org/resource/DuPont",
+            "http://dbpedia.org/resource/Rick_Hendrick",
+            "http://dbpedia.org/resource/Robbie_Loomis"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Gibbs_Racing",
+            "http://dbpedia.org/resource/Pontiac_Grand_Prix",
+            "http://dbpedia.org/resource/Bobby_Labonte",
+            "http://dbpedia.org/resource/Interstate_Batteries",
+            "http://dbpedia.org/resource/Joe_Gibbs",
+            "http://dbpedia.org/resource/Jimmy_Makar"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Gibbs_Racing",
+            "http://dbpedia.org/resource/Pontiac_Grand_Prix",
+            "http://dbpedia.org/resource/Tony_Stewart",
+            "http://dbpedia.org/resource/The_Home_Depot",
+            "http://dbpedia.org/resource/Joe_Gibbs",
+            "http://dbpedia.org/resource/Greg_Zipadelli"
+        ]
+    ]
+}

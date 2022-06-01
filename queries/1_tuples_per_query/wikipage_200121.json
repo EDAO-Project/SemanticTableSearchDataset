@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alassio",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/East_Germany",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

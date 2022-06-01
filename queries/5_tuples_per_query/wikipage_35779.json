@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California_State_Route_99",
+            "http://dbpedia.org/resource/Sacramento,_California",
+            "http://dbpedia.org/resource/Oregon",
+            "http://dbpedia.org/resource/California_State_Route_160"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Route_99",
+            "http://dbpedia.org/resource/Sacramento,_California",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/California_State_Route_160"
+        ],
+        [
+            "http://dbpedia.org/resource/Interstate_80_in_California",
+            "http://dbpedia.org/resource/Napa,_California",
+            "http://dbpedia.org/resource/Sacramento,_California",
+            "http://dbpedia.org/resource/California_State_Route_221"
+        ],
+        [
+            "http://dbpedia.org/resource/Interstate_5_in_California",
+            "http://dbpedia.org/resource/Albany,_California",
+            "http://dbpedia.org/resource/Red_Bluff,_California",
+            "http://dbpedia.org/resource/Interstate_80_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Route_12",
+            "http://dbpedia.org/resource/Novato,_California",
+            "http://dbpedia.org/resource/Fairfield,_California",
+            "http://dbpedia.org/resource/California_State_Route_37"
+        ]
+    ]
+}

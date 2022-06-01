@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brand_New_Cadillac",
+            "http://dbpedia.org/resource/London_Calling",
+            "http://dbpedia.org/resource/Vince_Taylor",
+            "http://dbpedia.org/resource/Guy_Stevens"
+        ]
+    ]
+}

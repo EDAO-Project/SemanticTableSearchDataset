@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/West_Palm_Beach,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Perfect_Vodka_Amphitheatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amalie_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Manchester,_Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Great_Stage_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbia,_South_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Colonial_Life_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Beach,_Virginia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Farm_Bureau_Live"
+        ]
+    ]
+}

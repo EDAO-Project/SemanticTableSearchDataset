@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sacramento_Daylight",
+            "http://dbpedia.org/resource/Southern_Pacific_Transportation_Company",
+            "http://dbpedia.org/resource/Lathrop,_California"
+        ]
+    ]
+}

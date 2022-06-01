@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prime_Minister_of_Israel",
+            "http://dbpedia.org/resource/Benjamin_Netanyahu",
+            "http://dbpedia.org/resource/Likud"
+        ],
+        [
+            "http://dbpedia.org/resource/Deputy_leaders_of_Israel",
+            "http://dbpedia.org/resource/Silvan_Shalom",
+            "http://dbpedia.org/resource/Likud"
+        ]
+    ]
+}

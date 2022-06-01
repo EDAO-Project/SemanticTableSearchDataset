@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manly_Warringah_Sea_Eagles",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Blake_Ayshford",
+            "http://dbpedia.org/resource/Benji_Marshall"
+        ],
+        [
+            "http://dbpedia.org/resource/Canberra_Raiders",
+            "http://dbpedia.org/resource/Canberra_Stadium",
+            "http://dbpedia.org/resource/Liam_Fulton",
+            "http://dbpedia.org/resource/Benji_Marshall"
+        ]
+    ]
+}

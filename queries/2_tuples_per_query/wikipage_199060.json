@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lafayette_McLaws",
+            "http://dbpedia.org/resource/Joseph_B._Kershaw",
+            "http://dbpedia.org/resource/John_Doby_Kennedy"
+        ],
+        [
+            "http://dbpedia.org/resource/Lafayette_McLaws",
+            "http://dbpedia.org/resource/William_Barksdale",
+            "http://dbpedia.org/resource/21st_Mississippi_Infantry_Regiment"
+        ]
+    ]
+}

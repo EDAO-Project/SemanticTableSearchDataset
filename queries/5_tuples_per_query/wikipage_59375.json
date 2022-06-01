@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_Veikkausliiga",
+            "http://dbpedia.org/resource/Marek_Czakon",
+            "http://dbpedia.org/resource/FC_Ilves"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Veikkausliiga",
+            "http://dbpedia.org/resource/Kimmo_Tarkkio",
+            "http://dbpedia.org/resource/FC_Haka"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_Veikkausliiga",
+            "http://dbpedia.org/resource/Antti_Sumiala",
+            "http://dbpedia.org/resource/FC_Jazz"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Veikkausliiga",
+            "http://dbpedia.org/resource/Valeri_Popovitch",
+            "http://dbpedia.org/resource/FC_Haka"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Veikkausliiga",
+            "http://dbpedia.org/resource/Rafael_Pires_Vieira",
+            "http://dbpedia.org/resource/Helsingin_Jalkapalloklubi"
+        ]
+    ]
+}

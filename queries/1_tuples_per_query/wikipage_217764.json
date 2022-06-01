@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andover,_Hampshire",
+            "http://dbpedia.org/resource/Test_Valley",
+            "http://dbpedia.org/resource/Hampshire"
+        ]
+    ]
+}

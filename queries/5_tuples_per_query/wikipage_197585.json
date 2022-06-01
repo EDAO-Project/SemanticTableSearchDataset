@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/World_Series_of_Poker",
+            "http://dbpedia.org/resource/CBS",
+            "http://dbpedia.org/resource/Lon_McEachern"
+        ],
+        [
+            "http://dbpedia.org/resource/The_United_States_Poker_Championship",
+            "http://dbpedia.org/resource/ESPN",
+            "http://dbpedia.org/resource/Lon_McEachern"
+        ],
+        [
+            "http://dbpedia.org/resource/World_Poker_Tour",
+            "http://dbpedia.org/resource/Travel_Channel",
+            "http://dbpedia.org/resource/Mike_Sexton"
+        ],
+        [
+            "http://dbpedia.org/resource/European_Poker_Tour",
+            "http://dbpedia.org/resource/Sportsnet",
+            "http://dbpedia.org/resource/James_Hartigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Poker_Superstars_Invitational_Tournament",
+            "http://dbpedia.org/resource/Fox_Sports_Networks",
+            "http://dbpedia.org/resource/Chris_Rose"
+        ]
+    ]
+}

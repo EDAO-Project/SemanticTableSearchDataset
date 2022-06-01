@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Adventures_of_Tarzan",
+            "http://dbpedia.org/resource/Robert_F._Hill",
+            "http://dbpedia.org/resource/Elmo_Lincoln",
+            "http://dbpedia.org/resource/Serial_film"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Blue_Fox",
+            "http://dbpedia.org/resource/Duke_Worne",
+            "http://dbpedia.org/resource/Ann_Little",
+            "http://dbpedia.org/resource/UCLA_Film_and_Television_Archive"
+        ]
+    ]
+}

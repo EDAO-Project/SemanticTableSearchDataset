@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abingdon_Abbey",
+            "http://dbpedia.org/resource/Abingdon-on-Thames",
+            "http://dbpedia.org/resource/Oxfordshire",
+            "http://dbpedia.org/resource/Order_of_Saint_Benedict"
+        ],
+        [
+            "http://dbpedia.org/resource/Bardney_Abbey",
+            "http://dbpedia.org/resource/Bardney",
+            "http://dbpedia.org/resource/Lincolnshire",
+            "http://dbpedia.org/resource/Order_of_Saint_Benedict"
+        ]
+    ]
+}

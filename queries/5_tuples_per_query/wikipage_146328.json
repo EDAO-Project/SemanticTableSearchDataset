@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ambleny",
+            "http://dbpedia.org/resource/Ambrief",
+            "http://dbpedia.org/resource/Ancienville"
+        ],
+        [
+            "http://dbpedia.org/resource/Arcy-Sainte-Restitue",
+            "http://dbpedia.org/resource/Augy,_Aisne",
+            "http://dbpedia.org/resource/Bagneux,_Aisne"
+        ],
+        [
+            "http://dbpedia.org/resource/Berzy-le-Sec",
+            "http://dbpedia.org/resource/Beugneux",
+            "http://dbpedia.org/resource/Bieuxy"
+        ],
+        [
+            "http://dbpedia.org/resource/Braine,_Aisne",
+            "http://dbpedia.org/resource/Braye,_Aisne",
+            "http://dbpedia.org/resource/Brenelle"
+        ],
+        [
+            "http://dbpedia.org/resource/Breny",
+            "http://dbpedia.org/resource/Bruys",
+            "http://dbpedia.org/resource/Bucy-le-Long"
+        ]
+    ]
+}

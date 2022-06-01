@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/7th_Screen_Actors_Guild_Awards",
+            "http://dbpedia.org/resource/James_Woods",
+            "http://dbpedia.org/resource/Dirty_Pictures",
+            "http://dbpedia.org/resource/Dennis_Barrie"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Screen_Actors_Guild_Awards",
+            "http://dbpedia.org/resource/Ben_Kingsley",
+            "http://dbpedia.org/resource/Anne_Frank:_The_Whole_Story",
+            "http://dbpedia.org/resource/Otto_Frank"
+        ]
+    ]
+}

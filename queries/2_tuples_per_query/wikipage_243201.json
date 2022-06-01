@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gerry_Hurley",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Irish_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Conor_Murray",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Irish_Rugby_Football_Union"
+        ]
+    ]
+}

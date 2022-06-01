@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama_Southern_Community_College",
+            "http://dbpedia.org/resource/Monroeville,_Alabama",
+            "http://dbpedia.org/resource/Alabama_Community_College_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Bevill_State_Community_College",
+            "http://dbpedia.org/resource/Sumiton,_Alabama",
+            "http://dbpedia.org/resource/Alabama_Community_College_Conference"
+        ]
+    ]
+}

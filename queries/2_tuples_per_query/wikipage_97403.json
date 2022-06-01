@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Dave_Henderson",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/List_of_high_schools_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Tito_Nanni",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Chestnut_Hill_Academy"
+        ]
+    ]
+}

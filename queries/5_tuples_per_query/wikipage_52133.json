@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_A._Flavell",
+            "http://dbpedia.org/resource/Outline_of_health_sciences",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlos_Bustamante",
+            "http://dbpedia.org/resource/Outline_of_health_sciences",
+            "http://dbpedia.org/resource/Peru"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikhail_Baryshnikov",
+            "http://dbpedia.org/resource/Dance",
+            "http://dbpedia.org/resource/Latvia"
+        ],
+        [
+            "http://dbpedia.org/resource/Titia_de_Lange",
+            "http://dbpedia.org/resource/Outline_of_health_sciences",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Varshavsky",
+            "http://dbpedia.org/resource/Outline_of_health_sciences",
+            "http://dbpedia.org/resource/Russia"
+        ]
+    ]
+}

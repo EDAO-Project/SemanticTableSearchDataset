@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Jackson",
+            "http://dbpedia.org/resource/Scream/Childhood",
+            "http://dbpedia.org/resource/Mark_Romanek"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Jackson",
+            "http://dbpedia.org/resource/Black_or_White",
+            "http://dbpedia.org/resource/John_Landis"
+        ],
+        [
+            "http://dbpedia.org/resource/MC_Hammer",
+            "http://dbpedia.org/resource/Too_Legit_to_Quit",
+            "http://dbpedia.org/resource/Rupert_Wainwright"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Jackson",
+            "http://dbpedia.org/resource/Remember_the_Time",
+            "http://dbpedia.org/resource/John_Singleton"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackstreet",
+            "http://dbpedia.org/resource/Girlfriend/Boyfriend",
+            "http://dbpedia.org/resource/Joseph_Kahn"
+        ]
+    ]
+}

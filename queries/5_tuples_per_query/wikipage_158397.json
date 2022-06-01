@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Duncan_Lewis"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Ismat_Jahan"
+        ],
+        [
+            "http://dbpedia.org/resource/Burundi",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Balthazar_Bigirimana"
+        ],
+        [
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Rodrigo_Rivera_Salazar"
+        ],
+        [
+            "http://dbpedia.org/resource/Guinea-Bissau",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Alfredo_Lopes_Cabral"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bambarakanda_Falls",
+            "http://dbpedia.org/resource/David_Kalupahana",
+            "http://dbpedia.org/resource/Uva_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Bopath_Ella_Falls",
+            "http://dbpedia.org/resource/Ratnapura",
+            "http://dbpedia.org/resource/Sabaragamuwa_Province"
+        ]
+    ]
+}

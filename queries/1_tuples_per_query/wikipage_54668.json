@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_in_film",
+            "http://dbpedia.org/resource/Hellboy:_Sword_of_Storms",
+            "http://dbpedia.org/resource/Dark_Horse_Comics",
+            "http://dbpedia.org/resource/Starz_Distribution",
+            "http://dbpedia.org/resource/Direct-to-video",
+            "http://dbpedia.org/resource/Hellboy_Animated"
+        ]
+    ]
+}

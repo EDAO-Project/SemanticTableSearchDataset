@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baptismal_font",
+            "http://dbpedia.org/resource/Uppingham",
+            "http://dbpedia.org/resource/Cottesbrooke"
+        ],
+        [
+            "http://dbpedia.org/resource/Pulpit",
+            "http://dbpedia.org/resource/Cuddington,_Buckinghamshire",
+            "http://dbpedia.org/resource/James_Powell_and_Sons"
+        ]
+    ]
+}

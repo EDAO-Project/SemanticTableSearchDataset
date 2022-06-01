@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ray_Ewry",
+            "http://dbpedia.org/resource/United_States_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1900_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Ewry",
+            "http://dbpedia.org/resource/United_States_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1900_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Ewry",
+            "http://dbpedia.org/resource/United_States_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1900_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Ewry",
+            "http://dbpedia.org/resource/United_States_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1900_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Ewry",
+            "http://dbpedia.org/resource/United_States_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1900_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Felice_Gimondi",
+            "http://dbpedia.org/resource/Franco_Bitossi",
+            "http://dbpedia.org/resource/Michele_Dancelli"
+        ],
+        [
+            "http://dbpedia.org/resource/Giovanni_Battaglin",
+            "http://dbpedia.org/resource/Franco_Bitossi",
+            "http://dbpedia.org/resource/Tino_Conti"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierino_Gavazzi",
+            "http://dbpedia.org/resource/Marino_Basso",
+            "http://dbpedia.org/resource/Giuseppe_Saronni"
+        ],
+        [
+            "http://dbpedia.org/resource/Giuseppe_Saronni",
+            "http://dbpedia.org/resource/Francesco_Moser",
+            "http://dbpedia.org/resource/Wladimiro_Panizza"
+        ],
+        [
+            "http://dbpedia.org/resource/Roger_De_Vlaeminck",
+            "http://dbpedia.org/resource/Vittorio_Algeri",
+            "http://dbpedia.org/resource/Silvano_Contini"
+        ]
+    ]
+}

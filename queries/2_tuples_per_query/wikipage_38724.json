@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Autobacs_Racing_Team_Aguri",
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Honda_NSX",
+            "http://dbpedia.org/resource/Ralph_Firman",
+            "http://dbpedia.org/resource/Bridgestone"
+        ],
+        [
+            "http://dbpedia.org/resource/Autobacs_Racing_Team_Aguri",
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Honda_NSX",
+            "http://dbpedia.org/resource/Takuya_Izawa",
+            "http://dbpedia.org/resource/Bridgestone"
+        ]
+    ]
+}

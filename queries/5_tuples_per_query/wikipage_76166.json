@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Karlovy_Vary_Award_Winners_2008",
+            "http://dbpedia.org/resource/Terribly_Happy",
+            "http://dbpedia.org/resource/Henrik_Ruben_Genz"
+        ],
+        [
+            "http://dbpedia.org/resource/Karlovy_Vary_Award_Winners_2006",
+            "http://dbpedia.org/resource/Sherrybaby",
+            "http://dbpedia.org/resource/Laurie_Collyer"
+        ],
+        [
+            "http://dbpedia.org/resource/Karlovy_Vary_Award_Winners_2005",
+            "http://dbpedia.org/resource/My_Nikifor",
+            "http://dbpedia.org/resource/Krzysztof_Krauze"
+        ],
+        [
+            "http://dbpedia.org/resource/Year_of_the_Devil",
+            "http://dbpedia.org/resource/Petr_Zelenka",
+            "http://dbpedia.org/resource/Czech_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Me_You_Them",
+            "http://dbpedia.org/resource/Andrucha_Waddington",
+            "http://dbpedia.org/resource/Brazil"
+        ]
+    ]
+}

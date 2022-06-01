@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_AFC_Champions_League",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Choi_Sung-kuk"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_AFC_Champions_League",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Lee_Chun-soo"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_AFC_Champions_League",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Jeonbuk_Hyundai_Motors_FC",
+            "http://dbpedia.org/resource/Yoo_Kyoung-youl"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_AFC_Champions_League",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Jeonbuk_Hyundai_Motors_FC",
+            "http://dbpedia.org/resource/Lee_Chun-soo"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_A3_Champions_Cup",
+            "http://dbpedia.org/resource/A3_Champions_Cup",
+            "http://dbpedia.org/resource/JEF_United_Ichihara_Chiba",
+            "http://dbpedia.org/resource/Choi_Sung-kuk"
+        ]
+    ]
+}

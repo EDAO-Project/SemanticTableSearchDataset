@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thiruvananthapuram_Central_railway_station",
+            "http://dbpedia.org/resource/Chennai_Central_railway_station",
+            "http://dbpedia.org/resource/Thiruvananthapuram_Mail"
+        ],
+        [
+            "http://dbpedia.org/resource/Thiruvananthapuram_Central_railway_station",
+            "http://dbpedia.org/resource/Lokmanya_Tilak_Terminus",
+            "http://dbpedia.org/resource/Netravati_Express"
+        ],
+        [
+            "http://dbpedia.org/resource/Thiruvananthapuram_Central_railway_station",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Kerala_Express"
+        ],
+        [
+            "http://dbpedia.org/resource/Thiruvananthapuram_Central_railway_station",
+            "http://dbpedia.org/resource/Indore_Junction_railway_station",
+            "http://dbpedia.org/resource/Ahilyanagari_Express"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagercoil",
+            "http://dbpedia.org/resource/Mangalore_Central_railway_station",
+            "http://dbpedia.org/resource/Parasuram_Express"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeffrey_Dahmer",
+            "http://dbpedia.org/resource/Christopher_Scarver",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Byron_De_La_Beckwith",
+            "http://dbpedia.org/resource/Myocardial_infarction",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

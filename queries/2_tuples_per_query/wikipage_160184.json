@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kurt-Caesar_Hoffmann",
+            "http://dbpedia.org/resource/Kriegsmarine",
+            "http://dbpedia.org/resource/Captain_at_sea",
+            "http://dbpedia.org/resource/German_battleship_Scharnhorst"
+        ],
+        [
+            "http://dbpedia.org/resource/Reinhold_Hoffmann",
+            "http://dbpedia.org/resource/Luftwaffe",
+            "http://dbpedia.org/resource/Leutnant",
+            "http://dbpedia.org/resource/Jagdgeschwader_54"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buffalo_Line",
+            "http://dbpedia.org/resource/Buffalo,_New_York",
+            "http://dbpedia.org/resource/Dauphin_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Harrisburg_Line",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Harrisburg,_Pennsylvania",
+            "http://dbpedia.org/resource/Reading_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Lurgan_Branch",
+            "http://dbpedia.org/resource/Harrisburg,_Pennsylvania",
+            "http://dbpedia.org/resource/Hagerstown,_Maryland",
+            "http://dbpedia.org/resource/Reading_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Trenton_Cutoff",
+            "http://dbpedia.org/resource/Morrisville,_Bucks_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Thorndale,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Pittsburgh_Line",
+            "http://dbpedia.org/resource/Harrisburg,_Pennsylvania",
+            "http://dbpedia.org/resource/Duncannon,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Railroad"
+        ]
+    ]
+}

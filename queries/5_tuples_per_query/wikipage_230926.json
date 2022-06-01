@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/West_Africa",
+            "http://dbpedia.org/resource/BRVM",
+            "http://dbpedia.org/resource/Abidjan"
+        ],
+        [
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/Algiers_Stock_Exchange",
+            "http://dbpedia.org/resource/Algiers"
+        ],
+        [
+            "http://dbpedia.org/resource/Botswana",
+            "http://dbpedia.org/resource/Botswana_Stock_Exchange",
+            "http://dbpedia.org/resource/Gaborone"
+        ],
+        [
+            "http://dbpedia.org/resource/Cameroon",
+            "http://dbpedia.org/resource/Douala_Stock_Exchange",
+            "http://dbpedia.org/resource/Douala"
+        ],
+        [
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Egyptian_Exchange",
+            "http://dbpedia.org/resource/Cairo"
+        ]
+    ]
+}

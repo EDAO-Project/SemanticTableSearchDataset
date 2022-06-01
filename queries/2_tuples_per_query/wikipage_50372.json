@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Naarden",
+            "http://dbpedia.org/resource/Naarden",
+            "http://dbpedia.org/resource/Fortification"
+        ],
+        [
+            "http://dbpedia.org/resource/Gelderland",
+            "http://dbpedia.org/resource/Nijkerk",
+            "http://dbpedia.org/resource/Hoevelaken"
+        ]
+    ]
+}

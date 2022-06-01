@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sophia_Aggelonitis",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party",
+            "http://dbpedia.org/resource/Hamilton_Mountain"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Gerretsen",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party",
+            "http://dbpedia.org/resource/Kingston_and_the_Islands"
+        ]
+    ]
+}

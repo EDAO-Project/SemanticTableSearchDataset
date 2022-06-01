@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mr._Bug_Goes_to_Town",
+            "http://dbpedia.org/resource/Dave_Fleischer",
+            "http://dbpedia.org/resource/Animation"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KVOD",
+            "http://dbpedia.org/resource/Classical_music",
+            "http://dbpedia.org/resource/Lakewood,_Colorado",
+            "http://dbpedia.org/resource/Centennial,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/KCFR-FM",
+            "http://dbpedia.org/resource/All-news_radio",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/NPR"
+        ],
+        [
+            "http://dbpedia.org/resource/KRKS-FM",
+            "http://dbpedia.org/resource/Christian_radio",
+            "http://dbpedia.org/resource/Lafayette,_Colorado",
+            "http://dbpedia.org/resource/Aurora,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/KYGO-FM",
+            "http://dbpedia.org/resource/Country_music",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/Greenwood_Village,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/KJHM",
+            "http://dbpedia.org/resource/Rhythmic_oldies",
+            "http://dbpedia.org/resource/Strasburg,_Colorado",
+            "http://dbpedia.org/resource/Aurora,_Colorado"
+        ]
+    ]
+}

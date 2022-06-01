@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/James_II_of_Aragon",
+            "http://dbpedia.org/resource/Pope_Boniface_VIII",
+            "http://dbpedia.org/resource/Gonfalonier_of_the_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Braccio_da_Montone",
+            "http://dbpedia.org/resource/Pope_Gregory_XII",
+            "http://dbpedia.org/resource/Perugia"
+        ],
+        [
+            "http://dbpedia.org/resource/Ranuccio_Farnese_il_Vecchio",
+            "http://dbpedia.org/resource/Pope_Eugene_IV",
+            "http://dbpedia.org/resource/Pope_Paul_III"
+        ],
+        [
+            "http://dbpedia.org/resource/Ludovico_Trevisan",
+            "http://dbpedia.org/resource/Pope_Callixtus_III",
+            "http://dbpedia.org/resource/Ottoman_Empire"
+        ],
+        [
+            "http://dbpedia.org/resource/Girolamo_Riario",
+            "http://dbpedia.org/resource/Pope_Sixtus_IV",
+            "http://dbpedia.org/resource/Pazzi_family"
+        ]
+    ]
+}

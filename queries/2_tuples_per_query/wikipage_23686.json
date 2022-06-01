@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_Two",
+            "http://dbpedia.org/resource/Jackie_Stewart",
+            "http://dbpedia.org/resource/Matra"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_Two",
+            "http://dbpedia.org/resource/Jochen_Rindt",
+            "http://dbpedia.org/resource/Brabham"
+        ]
+    ]
+}

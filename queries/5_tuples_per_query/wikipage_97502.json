@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonas_Hiller",
+            "http://dbpedia.org/resource/Felben-Wellhausen",
+            "http://dbpedia.org/resource/Anaheim_Ducks"
+        ],
+        [
+            "http://dbpedia.org/resource/Philippe_Furrer",
+            "http://dbpedia.org/resource/Bern",
+            "http://dbpedia.org/resource/SC_Bern"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_von_Gunten",
+            "http://dbpedia.org/resource/Biel/Bienne",
+            "http://dbpedia.org/resource/Kloten_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Luca_Sbisa",
+            "http://dbpedia.org/resource/Ozieri",
+            "http://dbpedia.org/resource/Portland_Winterhawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Mathias_Seger",
+            "http://dbpedia.org/resource/Flawil",
+            "http://dbpedia.org/resource/ZSC_Lions"
+        ]
+    ]
+}

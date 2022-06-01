@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Liga_MX",
+            "http://dbpedia.org/resource/C.F._Pachuca",
+            "http://dbpedia.org/resource/2007_FIFA_Club_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Liga_MX",
+            "http://dbpedia.org/resource/C.F._Monterrey",
+            "http://dbpedia.org/resource/2011_FIFA_Club_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Liga_MX",
+            "http://dbpedia.org/resource/Club_Necaxa",
+            "http://dbpedia.org/resource/2000_FIFA_Club_World_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/J._League_Division_1",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds",
+            "http://dbpedia.org/resource/2007_FIFA_Club_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/J._League_Division_1",
+            "http://dbpedia.org/resource/Gamba_Osaka",
+            "http://dbpedia.org/resource/2008_FIFA_Club_World_Cup"
+        ]
+    ]
+}

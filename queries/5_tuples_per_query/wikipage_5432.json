@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1962_in_film",
+            "http://dbpedia.org/resource/Tlayucan",
+            "http://dbpedia.org/resource/Luis_Alcoriza"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_in_film",
+            "http://dbpedia.org/resource/Always_Further_On",
+            "http://dbpedia.org/resource/Luis_Alcoriza"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_in_film",
+            "http://dbpedia.org/resource/El_Topo",
+            "http://dbpedia.org/resource/Alejandro_Jodorowsky"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_in_film",
+            "http://dbpedia.org/resource/Calzonzin_Inspector",
+            "http://dbpedia.org/resource/Alfonso_Arau"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_in_film",
+            "http://dbpedia.org/resource/Pafnucio_Santo",
+            "http://dbpedia.org/resource/Rafael_Corkidi"
+        ]
+    ]
+}

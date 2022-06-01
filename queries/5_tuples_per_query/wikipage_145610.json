@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Atlanta_Braves_season",
+            "http://dbpedia.org/resource/Carlos_Zambrano",
+            "http://dbpedia.org/resource/Ben_Sheets",
+            "http://dbpedia.org/resource/Steve_Cishek"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Washington_Nationals_season",
+            "http://dbpedia.org/resource/John_Lannan",
+            "http://dbpedia.org/resource/Brad_Hand",
+            "http://dbpedia.org/resource/Tyler_Clippard"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Washington_Nationals_season",
+            "http://dbpedia.org/resource/Stephen_Strasburg",
+            "http://dbpedia.org/resource/Ricky_Nolasco",
+            "http://dbpedia.org/resource/Drew_Storen"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_New_York_Mets_season",
+            "http://dbpedia.org/resource/Carlos_Zambrano",
+            "http://dbpedia.org/resource/Jon_Niese",
+            "http://dbpedia.org/resource/Steve_Cishek"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Los_Angeles_Dodgers_season",
+            "http://dbpedia.org/resource/Clayton_Kershaw",
+            "http://dbpedia.org/resource/Mark_Buehrle",
+            "http://dbpedia.org/resource/Kenley_Jansen"
+        ]
+    ]
+}

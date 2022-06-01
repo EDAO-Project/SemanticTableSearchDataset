@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ryan_Miller",
+            "http://dbpedia.org/resource/East_Lansing,_Michigan",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Quick",
+            "http://dbpedia.org/resource/Hamden,_Connecticut",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ]
+    ]
+}

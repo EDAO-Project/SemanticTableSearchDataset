@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Lawrence,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_28"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/North_Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_133"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/North_Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_125"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/North_Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_125"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Middleton,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_62"
+        ]
+    ]
+}

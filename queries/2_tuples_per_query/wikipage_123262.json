@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Tour_Down_Under",
+            "http://dbpedia.org/resource/Cameron_Meyer",
+            "http://dbpedia.org/resource/Team_LottoNL-Jumbo",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Volta_a_Catalunya",
+            "http://dbpedia.org/resource/Matthew_Goss",
+            "http://dbpedia.org/resource/HTC-Highroad",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

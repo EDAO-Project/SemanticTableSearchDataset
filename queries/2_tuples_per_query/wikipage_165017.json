@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/63rd_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Costumes_for_a_Series",
+            "http://dbpedia.org/resource/The_Pointy_End"
+        ],
+        [
+            "http://dbpedia.org/resource/63rd_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series",
+            "http://dbpedia.org/resource/Tim_Van_Patten"
+        ]
+    ]
+}

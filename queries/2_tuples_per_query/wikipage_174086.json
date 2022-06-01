@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sir_Fenton_Aylmer,_13th_Baronet",
+            "http://dbpedia.org/resource/Hunza-Nagar_Campaign",
+            "http://dbpedia.org/resource/Nilt"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Sever_Bell",
+            "http://dbpedia.org/resource/Anglo-Ashanti_wars",
+            "http://dbpedia.org/resource/Battle_of_Ordashu"
+        ]
+    ]
+}

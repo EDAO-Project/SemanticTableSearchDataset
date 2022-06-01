@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indy_Grand_Prix_of_Alabama",
+            "http://dbpedia.org/resource/Barber_Motorsports_Park",
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/NBCSN"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Indianapolis_500",
+            "http://dbpedia.org/resource/Indianapolis_Motor_Speedway",
+            "http://dbpedia.org/resource/Speedway,_Indiana",
+            "http://dbpedia.org/resource/ESPN_on_ABC"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KRXI-TV",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company",
+            "http://dbpedia.org/resource/Reno,_Nevada"
+        ]
+    ]
+}

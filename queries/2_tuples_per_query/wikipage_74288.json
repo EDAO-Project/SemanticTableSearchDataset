@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_in_film",
+            "http://dbpedia.org/resource/The_Animal",
+            "http://dbpedia.org/resource/Luke_Greenfield"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_film",
+            "http://dbpedia.org/resource/Joe_Dirt",
+            "http://dbpedia.org/resource/Dennie_Gordon"
+        ]
+    ]
+}

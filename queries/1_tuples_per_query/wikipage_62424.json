@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Red_Star_Stadium",
+            "http://dbpedia.org/resource/Belgrade",
+            "http://dbpedia.org/resource/Red_Star_Belgrade"
+        ]
+    ]
+}

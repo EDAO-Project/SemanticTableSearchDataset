@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_K_League",
+            "http://dbpedia.org/resource/Busan_IPark",
+            "http://dbpedia.org/resource/Pohang_Steelers",
+            "http://dbpedia.org/resource/Choi_Sang-kook"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_K_League",
+            "http://dbpedia.org/resource/Pohang_Steelers",
+            "http://dbpedia.org/resource/Ulsan_Hyundai_FC",
+            "http://dbpedia.org/resource/Lee_Kee-keun"
+        ]
+    ]
+}

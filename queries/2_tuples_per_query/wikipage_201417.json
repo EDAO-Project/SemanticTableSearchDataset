@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_and_Edith_Adelman_House",
+            "http://dbpedia.org/resource/Fox_Point,_Wisconsin",
+            "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/Annunciation_Greek_Orthodox_Church",
+            "http://dbpedia.org/resource/Wauwatosa,_Wisconsin",
+            "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+        ]
+    ]
+}

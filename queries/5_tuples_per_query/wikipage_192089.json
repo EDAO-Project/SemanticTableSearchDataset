@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eje_Elgh",
+            "http://dbpedia.org/resource/Tiga_Race_Cars",
+            "http://dbpedia.org/resource/March_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Derek_Daly",
+            "http://dbpedia.org/resource/Project_Four_Racing",
+            "http://dbpedia.org/resource/March_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_South",
+            "http://dbpedia.org/resource/Project_Four_Racing",
+            "http://dbpedia.org/resource/March_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Rad_Dougall",
+            "http://dbpedia.org/resource/Toleman",
+            "http://dbpedia.org/resource/Ralt"
+        ],
+        [
+            "http://dbpedia.org/resource/Gianfranco_Brancatelli",
+            "http://dbpedia.org/resource/Giancarlo_Minardi",
+            "http://dbpedia.org/resource/March_Engineering"
+        ]
+    ]
+}

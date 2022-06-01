@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Mitsubishi"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Daihatsu_Bee",
+            "http://dbpedia.org/resource/Daihatsu"
+        ]
+    ]
+}

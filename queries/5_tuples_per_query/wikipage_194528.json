@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Talking_Stick_Resort_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Toyota_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/American_Airlines_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Little_Rock,_Arkansas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Verizon_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Tulsa,_Oklahoma",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/BOK_Center"
+        ]
+    ]
+}

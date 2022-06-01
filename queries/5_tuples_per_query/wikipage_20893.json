@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Georgia",
+            "http://dbpedia.org/resource/Thomas_E._Watson",
+            "http://dbpedia.org/resource/Walter_F._George"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Indiana",
+            "http://dbpedia.org/resource/Harry_Stewart_New",
+            "http://dbpedia.org/resource/Samuel_M._Ralston"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Iowa",
+            "http://dbpedia.org/resource/Charles_A._Rawson",
+            "http://dbpedia.org/resource/Smith_W._Brookhart"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Maryland",
+            "http://dbpedia.org/resource/Joseph_I._France",
+            "http://dbpedia.org/resource/William_Cabell_Bruce"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Michigan",
+            "http://dbpedia.org/resource/Charles_E._Townsend",
+            "http://dbpedia.org/resource/Woodbridge_Nathan_Ferris"
+        ]
+    ]
+}

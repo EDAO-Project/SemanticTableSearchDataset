@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Diocese_of_Hereford",
+            "http://dbpedia.org/resource/Bishop_of_Ludlow",
+            "http://dbpedia.org/resource/Alistair_Magowan"
+        ],
+        [
+            "http://dbpedia.org/resource/Anglican_Diocese_of_Southwark",
+            "http://dbpedia.org/resource/Archdeacons_in_the_Diocese_of_Southwark",
+            "http://dbpedia.org/resource/Danny_Kajumba"
+        ],
+        [
+            "http://dbpedia.org/resource/Diocese_of_Chichester",
+            "http://dbpedia.org/resource/Archdeacon_of_Chichester",
+            "http://dbpedia.org/resource/Douglas_McKittrick"
+        ],
+        [
+            "http://dbpedia.org/resource/Diocese_of_Canterbury",
+            "http://dbpedia.org/resource/Archdeacon_of_Ashford",
+            "http://dbpedia.org/resource/Philip_Down"
+        ],
+        [
+            "http://dbpedia.org/resource/Anglican_Diocese_of_Liverpool",
+            "http://dbpedia.org/resource/Archdeacons_in_the_Diocese_of_Liverpool",
+            "http://dbpedia.org/resource/Ricky_Panter"
+        ]
+    ]
+}

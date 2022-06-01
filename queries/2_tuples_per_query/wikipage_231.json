@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Eddie_Pope",
+            "http://dbpedia.org/resource/D.C._United"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Robin_Fraser",
+            "http://dbpedia.org/resource/LA_Galaxy"
+        ]
+    ]
+}

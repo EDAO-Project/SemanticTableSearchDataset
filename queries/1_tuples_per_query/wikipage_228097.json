@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rajiv_Gandhi",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Prime_Minister_of_India"
+        ]
+    ]
+}

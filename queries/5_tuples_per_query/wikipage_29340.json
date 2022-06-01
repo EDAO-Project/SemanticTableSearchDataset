@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hyundai_Tournament_of_Champions",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Tom_Kite"
+        ],
+        [
+            "http://dbpedia.org/resource/Chrysler_Classic_of_Tucson",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Phil_Mickelson"
+        ],
+        [
+            "http://dbpedia.org/resource/Sony_Open_in_Hawaii",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Lanny_Wadkins"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix_Open",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Nolan_Henke"
+        ],
+        [
+            "http://dbpedia.org/resource/Humana_Challenge",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Corey_Pavin"
+        ]
+    ]
+}

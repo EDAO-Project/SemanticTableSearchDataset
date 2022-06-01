@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ah-Tah-Thi-Ki_Seminole_Indian_Museum",
+            "http://dbpedia.org/resource/Clewiston,_Florida",
+            "http://dbpedia.org/resource/Southwest_Florida",
+            "http://dbpedia.org/resource/Seminole_Tribe_of_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Albin_Polasek_House_and_Studio",
+            "http://dbpedia.org/resource/Winter_Park,_Florida",
+            "http://dbpedia.org/resource/Central_Florida",
+            "http://dbpedia.org/resource/Albin_Polasek"
+        ]
+    ]
+}

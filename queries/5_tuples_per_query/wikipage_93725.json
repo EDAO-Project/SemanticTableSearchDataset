@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hubert_Raudaschl",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Sailing_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Afanasijs_Kuzmins",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Shooting_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Durward_Knowles",
+            "http://dbpedia.org/resource/Great_Britain_at_the_Olympics",
+            "http://dbpedia.org/resource/Sailing_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Rajmond_Debevec",
+            "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia",
+            "http://dbpedia.org/resource/Shooting_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Josefa_Idem",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Canoeing_and_kayaking_at_the_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dartmouth,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Massachusetts_Dartmouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Lowell,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Massachusetts_Lowell"
+        ]
+    ]
+}

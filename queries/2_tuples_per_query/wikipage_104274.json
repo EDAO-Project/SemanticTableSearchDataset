@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany_Creek_State_High_School",
+            "http://dbpedia.org/resource/Albany_Creek,_Queensland",
+            "http://dbpedia.org/resource/Moreton_Bay_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Beenleigh_State_High_School",
+            "http://dbpedia.org/resource/Beenleigh,_Queensland",
+            "http://dbpedia.org/resource/City_of_Logan"
+        ]
+    ]
+}

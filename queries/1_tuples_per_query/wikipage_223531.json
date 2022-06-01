@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nellie_Tayloe_Ross",
+            "http://dbpedia.org/resource/Wyoming",
+            "http://dbpedia.org/resource/William_B._Ross"
+        ]
+    ]
+}

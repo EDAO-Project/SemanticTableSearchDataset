@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Bardeen",
+            "http://dbpedia.org/resource/Physics",
+            "http://dbpedia.org/resource/Nobel_Prize_in_Physics"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Becker",
+            "http://dbpedia.org/resource/Economics",
+            "http://dbpedia.org/resource/Nobel_Memorial_Prize_in_Economic_Sciences"
+        ],
+        [
+            "http://dbpedia.org/resource/Walden_Bello",
+            "http://dbpedia.org/resource/Sociology",
+            "http://dbpedia.org/resource/House_of_Representatives_of_the_Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/James_H._Billington",
+            "http://dbpedia.org/resource/History",
+            "http://dbpedia.org/resource/Librarian_of_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Blinder",
+            "http://dbpedia.org/resource/Economics",
+            "http://dbpedia.org/resource/Federal_Reserve_Board_of_Governors"
+        ]
+    ]
+}

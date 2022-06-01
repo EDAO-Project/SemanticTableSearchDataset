@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2007_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/Kevin_McDine"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2008_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/Terry_Jenkins"
+        ],
+        [
+            "http://dbpedia.org/resource/PDC_World_Darts_Championship",
+            "http://dbpedia.org/resource/2008_PDC_World_Darts_Championship",
+            "http://dbpedia.org/resource/John_Part"
+        ],
+        [
+            "http://dbpedia.org/resource/PDC_World_Darts_Championship",
+            "http://dbpedia.org/resource/2008_PDC_World_Darts_Championship",
+            "http://dbpedia.org/resource/Kirk_Shepherd"
+        ],
+        [
+            "http://dbpedia.org/resource/PDC_World_Darts_Championship",
+            "http://dbpedia.org/resource/2008_PDC_World_Darts_Championship",
+            "http://dbpedia.org/resource/Kevin_Painter"
+        ]
+    ]
+}

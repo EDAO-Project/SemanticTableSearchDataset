@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Army_Medical_Services_Museum",
+            "http://dbpedia.org/resource/Mytchett",
+            "http://dbpedia.org/resource/Surrey_Heath",
+            "http://dbpedia.org/resource/Royal_Army_Medical_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklands_Museum",
+            "http://dbpedia.org/resource/Weybridge",
+            "http://dbpedia.org/resource/Elmbridge",
+            "http://dbpedia.org/resource/Brooklands"
+        ]
+    ]
+}

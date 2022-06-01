@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Zealand_PGA_Championship",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Gavin_Coles"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Tee_Arkansas_Classic",
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Daniel_Chopra"
+        ]
+    ]
+}

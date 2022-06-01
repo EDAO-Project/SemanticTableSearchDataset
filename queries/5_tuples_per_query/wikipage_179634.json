@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_African_Cup_of_Nations",
+            "http://dbpedia.org/resource/Charles_Gyamfi",
+            "http://dbpedia.org/resource/Ben_Acheampong",
+            "http://dbpedia.org/resource/Osei_Kofi"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_African_Cup_of_Nations",
+            "http://dbpedia.org/resource/DR_Congo_national_football_team",
+            "http://dbpedia.org/resource/Laurent_Pokou",
+            "http://dbpedia.org/resource/Kazadi_Mwamba"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_African_Cup_of_Nations",
+            "http://dbpedia.org/resource/Fred_Osam-Duodu",
+            "http://dbpedia.org/resource/Phillip_Omondi",
+            "http://dbpedia.org/resource/Karim_Abdul_Razak"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_African_Cup_of_Nations",
+            "http://dbpedia.org/resource/Charles_Gyamfi",
+            "http://dbpedia.org/resource/George_Alhassan",
+            "http://dbpedia.org/resource/Fawzi_Al-Issawi"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_African_Cup_of_Nations",
+            "http://dbpedia.org/resource/Claude_Le_Roy",
+            "http://dbpedia.org/resource/Lakhdar_Belloumi",
+            "http://dbpedia.org/resource/Aziz_Bouderbala"
+        ]
+    ]
+}

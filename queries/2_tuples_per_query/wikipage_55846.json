@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Simon_Davey",
+            "http://dbpedia.org/resource/Lotto_Sport_Italia",
+            "http://dbpedia.org/resource/Barnsley_Building_Society"
+        ],
+        [
+            "http://dbpedia.org/resource/Phil_Parkinson",
+            "http://dbpedia.org/resource/Joma",
+            "http://dbpedia.org/resource/Carbrini_Sportswear"
+        ]
+    ]
+}

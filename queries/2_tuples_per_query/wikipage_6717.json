@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2_Willow_Road",
+            "http://dbpedia.org/resource/Hampstead",
+            "http://dbpedia.org/resource/London_Borough_of_Camden",
+            "http://dbpedia.org/resource/List_of_sub_regions_used_in_the_London_Plan",
+            "http://dbpedia.org/resource/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty"
+        ],
+        [
+            "http://dbpedia.org/resource/7_Hammersmith_Terrace",
+            "http://dbpedia.org/resource/Hammersmith",
+            "http://dbpedia.org/resource/London_Borough_of_Hammersmith_and_Fulham",
+            "http://dbpedia.org/resource/List_of_sub_regions_used_in_the_London_Plan",
+            "http://dbpedia.org/resource/Emery_Walker"
+        ]
+    ]
+}

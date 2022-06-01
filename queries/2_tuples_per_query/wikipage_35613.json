@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Interstate_15_in_California",
+            "http://dbpedia.org/resource/San_Diego",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/Interstate_8"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Route_66",
+            "http://dbpedia.org/resource/La_Verne,_California",
+            "http://dbpedia.org/resource/San_Bernardino,_California",
+            "http://dbpedia.org/resource/U.S._Route_66"
+        ]
+    ]
+}

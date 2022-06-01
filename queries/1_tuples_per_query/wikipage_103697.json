@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pascal_Morency",
+            "http://dbpedia.org/resource/New_York_Islanders",
+            "http://dbpedia.org/resource/Dion_Phaneuf"
+        ]
+    ]
+}

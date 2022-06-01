@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Tim_Hudson",
+            "http://dbpedia.org/resource/Cole_Hamels",
+            "http://dbpedia.org/resource/Billy_Wagner"
+        ]
+    ]
+}

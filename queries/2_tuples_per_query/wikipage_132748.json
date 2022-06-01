@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stade_Mohamed_V",
+            "http://dbpedia.org/resource/Casablanca",
+            "http://dbpedia.org/resource/Raja_Casablanca"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_Adrar",
+            "http://dbpedia.org/resource/Agadir",
+            "http://dbpedia.org/resource/Hassania_Agadir"
+        ]
+    ]
+}

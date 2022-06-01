@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ActiveMovie",
+            "http://dbpedia.org/resource/Application_programming_interface",
+            "http://dbpedia.org/resource/Windows_95",
+            "http://dbpedia.org/resource/DirectShow"
+        ]
+    ]
+}

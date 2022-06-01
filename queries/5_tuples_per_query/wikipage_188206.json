@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tank_Battalion",
+            "http://dbpedia.org/resource/Namco",
+            "http://dbpedia.org/resource/Shooter_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Tank_Force",
+            "http://dbpedia.org/resource/Namco",
+            "http://dbpedia.org/resource/Shooter_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Tapper",
+            "http://dbpedia.org/resource/Midway_Games",
+            "http://dbpedia.org/resource/Action_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Tecmo_Bowl",
+            "http://dbpedia.org/resource/Tecmo",
+            "http://dbpedia.org/resource/Sports_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Tehkan_World_Cup",
+            "http://dbpedia.org/resource/Tecmo",
+            "http://dbpedia.org/resource/Sports_game"
+        ]
+    ]
+}

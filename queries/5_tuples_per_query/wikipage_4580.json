@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Geneva",
+            "http://dbpedia.org/resource/Sigma_Iota",
+            "http://dbpedia.org/resource/Switzerland"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_University",
+            "http://dbpedia.org/resource/Sigma_Iota",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Pennsylvania",
+            "http://dbpedia.org/resource/Sigma_Iota",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_California,_Berkeley",
+            "http://dbpedia.org/resource/Phi_Lambda_Alpha",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology",
+            "http://dbpedia.org/resource/Phi_Lambda_Alpha",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

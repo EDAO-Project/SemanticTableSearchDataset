@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Illinois",
+            "http://dbpedia.org/resource/Elias_Kane",
+            "http://dbpedia.org/resource/William_Lee_D._Ewing"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Virginia",
+            "http://dbpedia.org/resource/John_Tyler",
+            "http://dbpedia.org/resource/William_Cabell_Rives"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Maine",
+            "http://dbpedia.org/resource/Ether_Shepley",
+            "http://dbpedia.org/resource/Judah_Dana"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_New_Hampshire",
+            "http://dbpedia.org/resource/Isaac_Hill",
+            "http://dbpedia.org/resource/Governor_of_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Delaware",
+            "http://dbpedia.org/resource/Arnold_Naudain",
+            "http://dbpedia.org/resource/Richard_H._Bayard"
+        ]
+    ]
+}

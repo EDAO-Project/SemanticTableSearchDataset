@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ballina_High_School",
+            "http://dbpedia.org/resource/Ballina,_New_South_Wales",
+            "http://dbpedia.org/resource/Ballina_Shire"
+        ],
+        [
+            "http://dbpedia.org/resource/Banora_Point_High_School",
+            "http://dbpedia.org/resource/Banora_Point",
+            "http://dbpedia.org/resource/Tweed_Shire"
+        ],
+        [
+            "http://dbpedia.org/resource/Byron_Bay_High_School",
+            "http://dbpedia.org/resource/Byron_Bay,_New_South_Wales",
+            "http://dbpedia.org/resource/Byron_Shire"
+        ],
+        [
+            "http://dbpedia.org/resource/Camden_Haven_High_School",
+            "http://dbpedia.org/resource/Laurieton,_New_South_Wales",
+            "http://dbpedia.org/resource/Port_Macquarie-Hastings_Council"
+        ],
+        [
+            "http://dbpedia.org/resource/Coffs_Harbour_High_School",
+            "http://dbpedia.org/resource/Coffs_Harbour",
+            "http://dbpedia.org/resource/City_of_Coffs_Harbour"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/3617_Eicher",
+            "http://dbpedia.org/resource/Anderson_Mesa_Station",
+            "http://dbpedia.org/resource/Brian_A._Skiff"
+        ],
+        [
+            "http://dbpedia.org/resource/3631_Sigyn",
+            "http://dbpedia.org/resource/La_Silla_Observatory",
+            "http://dbpedia.org/resource/Eric_Walter_Elst"
+        ]
+    ]
+}

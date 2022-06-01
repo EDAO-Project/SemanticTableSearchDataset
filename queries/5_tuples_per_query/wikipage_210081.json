@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tom_Jager",
+            "http://dbpedia.org/resource/Matt_Biondi",
+            "http://dbpedia.org/resource/Andrew_Baildon"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Biondi",
+            "http://dbpedia.org/resource/Craig_Oppel",
+            "http://dbpedia.org/resource/Thomas_Stachewicz"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Oppel",
+            "http://dbpedia.org/resource/Thomas_Stachewicz",
+            "http://dbpedia.org/resource/Marcel_Gery"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Cetlinski",
+            "http://dbpedia.org/resource/Sean_Killion",
+            "http://dbpedia.org/resource/Jason_Plummer"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Tewksbury",
+            "http://dbpedia.org/resource/Daichi_Suzuki",
+            "http://dbpedia.org/resource/Paul_Kingsman"
+        ]
+    ]
+}

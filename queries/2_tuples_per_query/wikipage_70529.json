@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phraya_Phahonphonphayuhasena",
+            "http://dbpedia.org/resource/Siamese_general_election,_1933",
+            "http://dbpedia.org/resource/Khana_Ratsadon"
+        ],
+        [
+            "http://dbpedia.org/resource/Phraya_Phahonphonphayuhasena",
+            "http://dbpedia.org/resource/Siamese_general_election,_1937",
+            "http://dbpedia.org/resource/Khana_Ratsadon"
+        ]
+    ]
+}

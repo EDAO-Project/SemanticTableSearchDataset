@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fencing_at_the_1960_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1960_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1960_Summer_Olympics",
+            "http://dbpedia.org/resource/Italy_at_the_1960_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Fencing_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Germany_at_the_1964_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Fencing_at_the_1968_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1968_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1968_Summer_Olympics",
+            "http://dbpedia.org/resource/Romania_at_the_1968_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Fencing_at_the_1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Romania_at_the_1972_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Fencing_at_the_1976_Summer_Olympics",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1976_Summer_Olympics",
+            "http://dbpedia.org/resource/France_at_the_1976_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1976_Summer_Olympics"
+        ]
+    ]
+}

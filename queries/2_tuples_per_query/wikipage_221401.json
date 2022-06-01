@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andi_Deris",
+            "http://dbpedia.org/resource/Helloween",
+            "http://dbpedia.org/resource/Universal_Migrator_Part_2:_Flight_of_the_Migrator"
+        ],
+        [
+            "http://dbpedia.org/resource/Barry_Hay",
+            "http://dbpedia.org/resource/Golden_Earring",
+            "http://dbpedia.org/resource/The_Final_Experiment"
+        ]
+    ]
+}

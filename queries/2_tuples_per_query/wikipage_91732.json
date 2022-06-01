@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bradley_Braves",
+            "http://dbpedia.org/resource/Bradley_University",
+            "http://dbpedia.org/resource/Peoria,_Illinois",
+            "http://dbpedia.org/resource/Missouri_Valley_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_State_Cougars",
+            "http://dbpedia.org/resource/Chicago_State_University",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Western_Athletic_Conference"
+        ]
+    ]
+}

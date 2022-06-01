@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shkodran_Metaj",
+            "http://dbpedia.org/resource/FC_Groningen",
+            "http://dbpedia.org/resource/FC_Emmen"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruud_Vormer",
+            "http://dbpedia.org/resource/Roda_JC_Kerkrade",
+            "http://dbpedia.org/resource/Feyenoord"
+        ],
+        [
+            "http://dbpedia.org/resource/Paco_van_Moorsel",
+            "http://dbpedia.org/resource/FC_Den_Bosch",
+            "http://dbpedia.org/resource/FC_Groningen"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronnie_Reniers",
+            "http://dbpedia.org/resource/FC_Den_Bosch",
+            "http://dbpedia.org/resource/PEC_Zwolle"
+        ],
+        [
+            "http://dbpedia.org/resource/Daryl_Janmaat",
+            "http://dbpedia.org/resource/SC_Heerenveen",
+            "http://dbpedia.org/resource/Feyenoord"
+        ]
+    ]
+}

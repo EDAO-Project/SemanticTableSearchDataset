@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bauzy",
+            "http://dbpedia.org/resource/Beauvilliers,_Loir-et-Cher",
+            "http://dbpedia.org/resource/Binas",
+            "http://dbpedia.org/resource/Blois"
+        ],
+        [
+            "http://dbpedia.org/resource/Chambord,_Loir-et-Cher",
+            "http://dbpedia.org/resource/Champigny-en-Beauce",
+            "http://dbpedia.org/resource/Chaumont-sur-Loire",
+            "http://dbpedia.org/resource/Cheverny"
+        ],
+        [
+            "http://dbpedia.org/resource/Chissay-en-Touraine",
+            "http://dbpedia.org/resource/Chitenay",
+            "http://dbpedia.org/resource/Choussy",
+            "http://dbpedia.org/resource/Chouzy-sur-Cisse"
+        ],
+        [
+            "http://dbpedia.org/resource/Concriers",
+            "http://dbpedia.org/resource/Contres,_Loir-et-Cher",
+            "http://dbpedia.org/resource/Cormeray",
+            "http://dbpedia.org/resource/Couddes"
+        ],
+        [
+            "http://dbpedia.org/resource/Couffy",
+            "http://dbpedia.org/resource/Coulanges,_Loir-et-Cher",
+            "http://dbpedia.org/resource/Cour-Cheverny",
+            "http://dbpedia.org/resource/Cour-sur-Loire"
+        ]
+    ]
+}

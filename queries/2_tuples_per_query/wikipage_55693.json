@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baden_Masters",
+            "http://dbpedia.org/resource/Baden",
+            "http://dbpedia.org/resource/Brad_Gushue",
+            "http://dbpedia.org/resource/Andy_Kapp"
+        ],
+        [
+            "http://dbpedia.org/resource/AMJ_Campbell_Shorty_Jenkins_Classic",
+            "http://dbpedia.org/resource/Brockville",
+            "http://dbpedia.org/resource/Glenn_Howard",
+            "http://dbpedia.org/resource/Brad_Gushue"
+        ]
+    ]
+}

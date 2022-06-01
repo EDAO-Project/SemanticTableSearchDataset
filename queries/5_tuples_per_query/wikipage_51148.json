@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bobbie_Friberg_da_Cruz",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/GAIS",
+            "http://dbpedia.org/resource/Randers_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Sorin",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Kalmar_FF",
+            "http://dbpedia.org/resource/Aarhus_Gymnastikforening"
+        ],
+        [
+            "http://dbpedia.org/resource/Niki_Zimling",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Esbjerg_fB",
+            "http://dbpedia.org/resource/Udinese_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Johan_Wiland",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/IF_Elfsborg",
+            "http://dbpedia.org/resource/F.C._Copenhagen"
+        ],
+        [
+            "http://dbpedia.org/resource/Andreas_Augustsson",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/IF_Elfsborg",
+            "http://dbpedia.org/resource/AC_Horsens"
+        ]
+    ]
+}

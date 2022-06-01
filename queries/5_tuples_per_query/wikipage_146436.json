@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anthelupt",
+            "http://dbpedia.org/resource/Arracourt",
+            "http://dbpedia.org/resource/Athienville"
+        ],
+        [
+            "http://dbpedia.org/resource/Autrepierre",
+            "http://dbpedia.org/resource/Avricourt,_Meurthe-et-Moselle",
+            "http://dbpedia.org/resource/Azerailles"
+        ],
+        [
+            "http://dbpedia.org/resource/Baccarat",
+            "http://dbpedia.org/resource/Badonviller",
+            "http://dbpedia.org/resource/Barbas,_Meurthe-et-Moselle"
+        ],
+        [
+            "http://dbpedia.org/resource/Bayon,_Meurthe-et-Moselle",
+            "http://dbpedia.org/resource/Bertrambois",
+            "http://dbpedia.org/resource/Bertrichamps"
+        ],
+        [
+            "http://dbpedia.org/resource/Bezange-la-Grande",
+            "http://dbpedia.org/resource/Bienville-la-Petite",
+            "http://dbpedia.org/resource/Bionville"
+        ]
+    ]
+}

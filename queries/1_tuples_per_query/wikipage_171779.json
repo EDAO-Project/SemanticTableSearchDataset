@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfred_State_College",
+            "http://dbpedia.org/resource/Alfred,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/NCAA_Division_III"
+        ]
+    ]
+}

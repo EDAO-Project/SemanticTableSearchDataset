@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allondans",
+            "http://dbpedia.org/resource/Anteuil",
+            "http://dbpedia.org/resource/Appenans",
+            "http://dbpedia.org/resource/Arbouans"
+        ],
+        [
+            "http://dbpedia.org/resource/Arcey,_Doubs",
+            "http://dbpedia.org/resource/Audincourt",
+            "http://dbpedia.org/resource/Autechaux-Roide",
+            "http://dbpedia.org/resource/Badevel"
+        ],
+        [
+            "http://dbpedia.org/resource/Bart,_Doubs",
+            "http://dbpedia.org/resource/Battenans-Varin",
+            "http://dbpedia.org/resource/Bavans",
+            "http://dbpedia.org/resource/Belfays"
+        ],
+        [
+            "http://dbpedia.org/resource/Belleherbe",
+            "http://dbpedia.org/resource/Belvoir,_Doubs",
+            "http://dbpedia.org/resource/Berche",
+            "http://dbpedia.org/resource/Bethoncourt"
+        ],
+        [
+            "http://dbpedia.org/resource/Beutal",
+            "http://dbpedia.org/resource/Bief",
+            "http://dbpedia.org/resource/Blamont",
+            "http://dbpedia.org/resource/Blussangeaux"
+        ]
+    ]
+}

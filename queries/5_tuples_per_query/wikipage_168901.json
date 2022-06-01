@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Ignazio_Giunti",
+            "http://dbpedia.org/resource/Ferrari_512",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Autodelta",
+            "http://dbpedia.org/resource/Toine_Hezemans",
+            "http://dbpedia.org/resource/Alfa_Romeo_Tipo_33",
+            "http://dbpedia.org/resource/Alfa_Romeo"
+        ],
+        [
+            "http://dbpedia.org/resource/North_American_Racing_Team",
+            "http://dbpedia.org/resource/Mike_Parkes",
+            "http://dbpedia.org/resource/Ferrari_312P",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Autodelta",
+            "http://dbpedia.org/resource/Piers_Courage",
+            "http://dbpedia.org/resource/Alfa_Romeo_Tipo_33",
+            "http://dbpedia.org/resource/Alfa_Romeo"
+        ],
+        [
+            "http://dbpedia.org/resource/Autodelta",
+            "http://dbpedia.org/resource/Rolf_Stommelen",
+            "http://dbpedia.org/resource/Alfa_Romeo_Tipo_33",
+            "http://dbpedia.org/resource/Alfa_Romeo"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emperor_Gong_of_Sui",
+            "http://dbpedia.org/resource/Emperor_of_China",
+            "http://dbpedia.org/resource/Emperor_Taizong_of_Tang"
+        ],
+        [
+            "http://dbpedia.org/resource/Emperor_Gong_of_Sui",
+            "http://dbpedia.org/resource/Emperor_of_China",
+            "http://dbpedia.org/resource/Emperor_Taizong_of_Tang"
+        ]
+    ]
+}

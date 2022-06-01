@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/XEZV-AM",
+            "http://dbpedia.org/resource/Guerrero",
+            "http://dbpedia.org/resource/Guerrero",
+            "http://dbpedia.org/resource/Nahuatl"
+        ],
+        [
+            "http://dbpedia.org/resource/XETLA-AM",
+            "http://dbpedia.org/resource/Oaxaca",
+            "http://dbpedia.org/resource/Oaxaca",
+            "http://dbpedia.org/resource/Mixtec_language"
+        ],
+        [
+            "http://dbpedia.org/resource/XEVFS-AM",
+            "http://dbpedia.org/resource/Chiapas",
+            "http://dbpedia.org/resource/Chiapas",
+            "http://dbpedia.org/resource/Tojolabal_people"
+        ],
+        [
+            "http://dbpedia.org/resource/XEGLO-AM",
+            "http://dbpedia.org/resource/Oaxaca",
+            "http://dbpedia.org/resource/Oaxaca",
+            "http://dbpedia.org/resource/Zapotec_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/XEZON-AM",
+            "http://dbpedia.org/resource/Veracruz",
+            "http://dbpedia.org/resource/Veracruz",
+            "http://dbpedia.org/resource/Nahuatl"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_bison",
+            "http://dbpedia.org/resource/Beefalo",
+            "http://dbpedia.org/resource/North_America",
+            "http://dbpedia.org/resource/Meat"
+        ],
+        [
+            "http://dbpedia.org/resource/Camel",
+            "http://dbpedia.org/resource/Dromedary",
+            "http://dbpedia.org/resource/Asia",
+            "http://dbpedia.org/resource/Working_animal"
+        ]
+    ]
+}

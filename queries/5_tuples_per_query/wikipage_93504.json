@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lillehammer",
+            "http://dbpedia.org/resource/Simon_Ammann",
+            "http://dbpedia.org/resource/Harri_Olli",
+            "http://dbpedia.org/resource/Emmanuel_Chedal"
+        ],
+        [
+            "http://dbpedia.org/resource/Engelberg",
+            "http://dbpedia.org/resource/Simon_Ammann",
+            "http://dbpedia.org/resource/Gregor_Schlierenzauer",
+            "http://dbpedia.org/resource/Thomas_Morgenstern"
+        ],
+        [
+            "http://dbpedia.org/resource/Engelberg",
+            "http://dbpedia.org/resource/Gregor_Schlierenzauer",
+            "http://dbpedia.org/resource/Simon_Ammann",
+            "http://dbpedia.org/resource/Andreas_Kofler"
+        ],
+        [
+            "http://dbpedia.org/resource/Oberstdorf",
+            "http://dbpedia.org/resource/Andreas_Kofler",
+            "http://dbpedia.org/resource/Janne_Ahonen",
+            "http://dbpedia.org/resource/Thomas_Morgenstern"
+        ],
+        [
+            "http://dbpedia.org/resource/Garmisch-Partenkirchen",
+            "http://dbpedia.org/resource/Gregor_Schlierenzauer",
+            "http://dbpedia.org/resource/Wolfgang_Loitzl",
+            "http://dbpedia.org/resource/Simon_Ammann"
+        ]
+    ]
+}

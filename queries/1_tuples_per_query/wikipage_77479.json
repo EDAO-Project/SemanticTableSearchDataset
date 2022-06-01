@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jon_Olsen",
+            "http://dbpedia.org/resource/Joe_Hudepohl",
+            "http://dbpedia.org/resource/Dean_Kondziolka"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Forthbank_Stadium",
+            "http://dbpedia.org/resource/Scottish_Challenge_Cup",
+            "http://dbpedia.org/resource/Allan_Walker"
+        ],
+        [
+            "http://dbpedia.org/resource/Bayview_Stadium",
+            "http://dbpedia.org/resource/Scottish_League_Cup",
+            "http://dbpedia.org/resource/Allan_Walker"
+        ]
+    ]
+}

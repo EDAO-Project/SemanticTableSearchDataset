@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta_Hawks",
+            "http://dbpedia.org/resource/Dick_Van_Arsdale",
+            "http://dbpedia.org/resource/Lou_Hudson"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_Wizards",
+            "http://dbpedia.org/resource/Dick_Van_Arsdale",
+            "http://dbpedia.org/resource/Earl_Monroe"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Celtics",
+            "http://dbpedia.org/resource/Dick_Van_Arsdale",
+            "http://dbpedia.org/resource/John_Havlicek"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Braves",
+            "http://dbpedia.org/resource/Dick_Van_Arsdale",
+            "http://dbpedia.org/resource/Don_May"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Connie_Hawkins",
+            "http://dbpedia.org/resource/Bob_Love"
+        ]
+    ]
+}

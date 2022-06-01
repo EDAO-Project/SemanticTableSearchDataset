@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1881_Boston_Red_Caps_season",
+            "http://dbpedia.org/resource/Jim_Whitney",
+            "http://dbpedia.org/resource/Providence_Grays",
+            "http://dbpedia.org/resource/Messer_Street_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/1882_Boston_Red_Caps_season",
+            "http://dbpedia.org/resource/Jim_Whitney",
+            "http://dbpedia.org/resource/Worcester_Worcesters",
+            "http://dbpedia.org/resource/South_End_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/1883_Boston_Beaneaters_season",
+            "http://dbpedia.org/resource/Jim_Whitney",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/Polo_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/1885_Boston_Beaneaters_season",
+            "http://dbpedia.org/resource/Jim_Whitney",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/Polo_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/1886_Boston_Beaneaters_season",
+            "http://dbpedia.org/resource/Charles_Radbourn",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/Polo_Grounds"
+        ]
+    ]
+}

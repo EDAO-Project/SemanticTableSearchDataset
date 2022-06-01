@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bloomington_Edge",
+            "http://dbpedia.org/resource/Bloomington,_Illinois",
+            "http://dbpedia.org/resource/U.S._Cellular_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Dodge_City_Law",
+            "http://dbpedia.org/resource/Dodge_City,_Kansas",
+            "http://dbpedia.org/resource/United_Wireless_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_Koyotes",
+            "http://dbpedia.org/resource/Topeka,_Kansas",
+            "http://dbpedia.org/resource/Landon_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_City_Renegades",
+            "http://dbpedia.org/resource/Kansas_City,_Missouri",
+            "http://dbpedia.org/resource/Kemper_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Lincoln_Haymakers",
+            "http://dbpedia.org/resource/Lincoln,_Nebraska",
+            "http://dbpedia.org/resource/Pershing_Center"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Devon",
+            "http://dbpedia.org/resource/Dorset",
+            "http://dbpedia.org/resource/Somerset"
+        ],
+        [
+            "http://dbpedia.org/resource/Dorset",
+            "http://dbpedia.org/resource/Wiltshire",
+            "http://dbpedia.org/resource/Somerset"
+        ]
+    ]
+}

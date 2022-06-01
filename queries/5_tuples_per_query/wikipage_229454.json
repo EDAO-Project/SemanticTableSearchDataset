@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carl_Lewis",
+            "http://dbpedia.org/resource/Leroy_Burrell",
+            "http://dbpedia.org/resource/Dennis_Mitchell"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Pettigrew",
+            "http://dbpedia.org/resource/Roger_Black",
+            "http://dbpedia.org/resource/Danny_Everett"
+        ],
+        [
+            "http://dbpedia.org/resource/Yobes_Ondieki",
+            "http://dbpedia.org/resource/Fita_Bayisa",
+            "http://dbpedia.org/resource/Brahim_Boutayeb"
+        ],
+        [
+            "http://dbpedia.org/resource/Moses_Tanui",
+            "http://dbpedia.org/resource/Richard_Chelimo",
+            "http://dbpedia.org/resource/Khalid_Skah"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiromi_Taniguchi",
+            "http://dbpedia.org/resource/Hussein_Ahmed_Salah",
+            "http://dbpedia.org/resource/Steve_Spence"
+        ]
+    ]
+}

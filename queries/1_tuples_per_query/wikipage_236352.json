@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BC_Place",
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/BC_Lions"
+        ]
+    ]
+}

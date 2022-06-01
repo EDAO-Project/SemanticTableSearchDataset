@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sterling_Marlin",
+            "http://dbpedia.org/resource/Eastman_Kodak",
+            "http://dbpedia.org/resource/Morgan-McClure_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Dale_Earnhardt",
+            "http://dbpedia.org/resource/GM_Certified_Service",
+            "http://dbpedia.org/resource/Richard_Childress_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ]
+    ]
+}

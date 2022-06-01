@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Fernando_Alonso",
+            "http://dbpedia.org/resource/2005_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Renault_in_Formula_One",
+            "http://dbpedia.org/resource/2005_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/IndyCar_Series",
+            "http://dbpedia.org/resource/Dan_Wheldon",
+            "http://dbpedia.org/resource/2005_IndyCar_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/GP2_Series",
+            "http://dbpedia.org/resource/Nico_Rosberg",
+            "http://dbpedia.org/resource/2005_GP2_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Indy_Lights",
+            "http://dbpedia.org/resource/Wade_Cunningham",
+            "http://dbpedia.org/resource/2005_Infiniti_Pro_Series_season"
+        ]
+    ]
+}

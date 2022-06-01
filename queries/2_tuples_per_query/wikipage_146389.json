@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antheuil",
+            "http://dbpedia.org/resource/Antigny-la-Ville",
+            "http://dbpedia.org/resource/Arcenant"
+        ],
+        [
+            "http://dbpedia.org/resource/Arconcey",
+            "http://dbpedia.org/resource/Argilly",
+            "http://dbpedia.org/resource/Arnay-le-Duc"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jesse_Owens",
+            "http://dbpedia.org/resource/Ralph_Metcalfe",
+            "http://dbpedia.org/resource/Tinus_Osendarp"
+        ],
+        [
+            "http://dbpedia.org/resource/Archie_Williams",
+            "http://dbpedia.org/resource/Godfrey_Brown",
+            "http://dbpedia.org/resource/James_LuValle"
+        ],
+        [
+            "http://dbpedia.org/resource/Ilmari_Salminen",
+            "http://dbpedia.org/resource/Arvo_Askola",
+            "http://dbpedia.org/resource/Volmari_Iso-Hollo"
+        ],
+        [
+            "http://dbpedia.org/resource/Glenn_Hardin",
+            "http://dbpedia.org/resource/John_Loaring",
+            "http://dbpedia.org/resource/Miguel_White"
+        ],
+        [
+            "http://dbpedia.org/resource/Volmari_Iso-Hollo",
+            "http://dbpedia.org/resource/Kaarlo_Tuominen",
+            "http://dbpedia.org/resource/Alfred_Dompert"
+        ]
+    ]
+}

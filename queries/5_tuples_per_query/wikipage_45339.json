@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tobie_Botes",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Italian_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Edoardo_Gori",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Italian_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabio_Semenzato",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Italian_Rugby_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Ambrosini",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Australian_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Berquist",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/New_Zealand_Rugby_Union"
+        ]
+    ]
+}

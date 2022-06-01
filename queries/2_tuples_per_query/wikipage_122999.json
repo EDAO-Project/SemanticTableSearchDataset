@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Iliad",
+            "http://dbpedia.org/resource/Homer",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Greek_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Odyssey",
+            "http://dbpedia.org/resource/Homer",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Greek_language"
+        ]
+    ]
+}

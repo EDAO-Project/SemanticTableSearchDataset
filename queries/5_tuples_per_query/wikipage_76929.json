@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Continental_Association",
+            "http://dbpedia.org/resource/United_States_Declaration_of_Independence",
+            "http://dbpedia.org/resource/Articles_of_Confederation",
+            "http://dbpedia.org/resource/United_States_Constitution"
+        ],
+        [
+            "http://dbpedia.org/resource/Continental_Association",
+            "http://dbpedia.org/resource/United_States_Declaration_of_Independence",
+            "http://dbpedia.org/resource/Articles_of_Confederation",
+            "http://dbpedia.org/resource/United_States_Constitution"
+        ],
+        [
+            "http://dbpedia.org/resource/Continental_Association",
+            "http://dbpedia.org/resource/United_States_Declaration_of_Independence",
+            "http://dbpedia.org/resource/Articles_of_Confederation",
+            "http://dbpedia.org/resource/United_States_Constitution"
+        ],
+        [
+            "http://dbpedia.org/resource/Continental_Association",
+            "http://dbpedia.org/resource/United_States_Declaration_of_Independence",
+            "http://dbpedia.org/resource/Articles_of_Confederation",
+            "http://dbpedia.org/resource/United_States_Constitution"
+        ],
+        [
+            "http://dbpedia.org/resource/Continental_Association",
+            "http://dbpedia.org/resource/United_States_Declaration_of_Independence",
+            "http://dbpedia.org/resource/Articles_of_Confederation",
+            "http://dbpedia.org/resource/United_States_Constitution"
+        ]
+    ]
+}

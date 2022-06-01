@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Surtees",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/MV_Agusta"
+        ]
+    ]
+}

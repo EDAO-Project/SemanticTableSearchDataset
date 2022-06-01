@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/NHL_on_Versus",
+            "http://dbpedia.org/resource/Joe_Beninati",
+            "http://dbpedia.org/resource/Daryl_Reaugh"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/NHL_on_Versus",
+            "http://dbpedia.org/resource/Joe_Beninati",
+            "http://dbpedia.org/resource/Darren_Eliot"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/NHL_on_NBC",
+            "http://dbpedia.org/resource/Mike_Emrick",
+            "http://dbpedia.org/resource/Ed_Olczyk"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/NHL_on_Versus",
+            "http://dbpedia.org/resource/Joe_Beninati",
+            "http://dbpedia.org/resource/Darren_Eliot"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/NHL_on_NBC",
+            "http://dbpedia.org/resource/Dave_Strader",
+            "http://dbpedia.org/resource/Ed_Olczyk"
+        ]
+    ]
+}

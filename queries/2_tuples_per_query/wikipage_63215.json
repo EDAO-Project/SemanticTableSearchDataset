@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aida",
+            "http://dbpedia.org/resource/Giuseppe_Verdi",
+            "http://dbpedia.org/resource/Bolshoi_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Carmen",
+            "http://dbpedia.org/resource/Georges_Bizet",
+            "http://dbpedia.org/resource/Estonian_National_Opera"
+        ]
+    ]
+}

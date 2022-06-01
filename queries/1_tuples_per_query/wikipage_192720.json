@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cape_Town",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Bellville_Velodrome"
+        ]
+    ]
+}

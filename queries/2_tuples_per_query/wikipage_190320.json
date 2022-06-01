@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Big_Coppitt_Key,_Florida",
+            "http://dbpedia.org/resource/Monroe_County,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Waterspout"
+        ],
+        [
+            "http://dbpedia.org/resource/Summerland_Key,_Florida",
+            "http://dbpedia.org/resource/Monroe_County,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Ramrod_Key"
+        ]
+    ]
+}

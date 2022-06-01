@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clatsop_County,_Oregon",
+            "http://dbpedia.org/resource/Westport,_Oregon",
+            "http://dbpedia.org/resource/Wahkiakum_County_Ferry"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbia_County,_Oregon",
+            "http://dbpedia.org/resource/Rainier,_Oregon",
+            "http://dbpedia.org/resource/Longview,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Multnomah_County,_Oregon",
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/Oregon_Convention_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Multnomah_County,_Oregon",
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/Interstate_84_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Multnomah_County,_Oregon",
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/Lloyd_Center"
+        ]
+    ]
+}

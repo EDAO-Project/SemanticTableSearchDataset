@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/ZZ_Top",
+            "http://dbpedia.org/resource/Huey_Lewis_and_the_News"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/USA_for_Africa",
+            "http://dbpedia.org/resource/The_Cars"
+        ]
+    ]
+}

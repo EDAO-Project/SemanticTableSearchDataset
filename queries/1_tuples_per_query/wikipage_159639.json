@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Lonely_Island",
+            "http://dbpedia.org/resource/Andy_Samberg",
+            "http://dbpedia.org/resource/The_Wack_Album"
+        ]
+    ]
+}

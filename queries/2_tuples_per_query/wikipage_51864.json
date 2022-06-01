@@ -1,0 +1,13 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Tacoma,_Washington",
+            "http://dbpedia.org/resource/Tacoma,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Tacoma,_Washington"
+        ]
+    ]
+}

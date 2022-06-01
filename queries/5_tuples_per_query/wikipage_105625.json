@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mount_Logan",
+            "http://dbpedia.org/resource/Saint_Elias_Mountains",
+            "http://dbpedia.org/resource/Geography_of_Yukon"
+        ],
+        [
+            "http://dbpedia.org/resource/Alpamayo",
+            "http://dbpedia.org/resource/Andes",
+            "http://dbpedia.org/resource/Geography_of_Peru"
+        ],
+        [
+            "http://dbpedia.org/resource/Licancabur",
+            "http://dbpedia.org/resource/Andes",
+            "http://dbpedia.org/resource/Geography_of_Bolivia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cotopaxi",
+            "http://dbpedia.org/resource/Andes",
+            "http://dbpedia.org/resource/Geography_of_Ecuador"
+        ],
+        [
+            "http://dbpedia.org/resource/Hkakabo_Razi",
+            "http://dbpedia.org/resource/Himalayas",
+            "http://dbpedia.org/resource/Geography_of_Myanmar"
+        ]
+    ]
+}

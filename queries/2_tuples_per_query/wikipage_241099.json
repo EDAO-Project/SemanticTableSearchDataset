@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Srinivasaraghavan_Venkataraghavan",
+            "http://dbpedia.org/resource/Off_break",
+            "http://dbpedia.org/resource/Tamil_Nadu_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Syed_Abid_Ali",
+            "http://dbpedia.org/resource/Fast_bowling",
+            "http://dbpedia.org/resource/Hyderabad_cricket_team"
+        ]
+    ]
+}

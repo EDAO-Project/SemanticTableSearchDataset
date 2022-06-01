@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patna",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Rajdhani_Express"
+        ]
+    ]
+}

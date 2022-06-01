@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Andretti",
+            "http://dbpedia.org/resource/Newman/Haas_Racing",
+            "http://dbpedia.org/resource/Lola_Cars"
+        ]
+    ]
+}

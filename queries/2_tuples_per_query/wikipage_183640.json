@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dixie_Highway",
+            "http://dbpedia.org/resource/U.S._Route_1_in_Florida",
+            "http://dbpedia.org/resource/Florida_State_Road_5"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_State_Road_827",
+            "http://dbpedia.org/resource/U.S._Route_98_in_Florida",
+            "http://dbpedia.org/resource/Florida_State_Road_810"
+        ]
+    ]
+}

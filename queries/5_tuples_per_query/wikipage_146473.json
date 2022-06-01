@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Altwiller",
+            "http://dbpedia.org/resource/Asswiller",
+            "http://dbpedia.org/resource/Baerendorf"
+        ],
+        [
+            "http://dbpedia.org/resource/Berg,_Bas-Rhin",
+            "http://dbpedia.org/resource/Bettwiller",
+            "http://dbpedia.org/resource/Birkenwald"
+        ],
+        [
+            "http://dbpedia.org/resource/Bischholtz",
+            "http://dbpedia.org/resource/Bissert",
+            "http://dbpedia.org/resource/Bouxwiller,_Bas-Rhin"
+        ],
+        [
+            "http://dbpedia.org/resource/Burbach,_Bas-Rhin",
+            "http://dbpedia.org/resource/Bust,_Bas-Rhin",
+            "http://dbpedia.org/resource/Buswiller"
+        ],
+        [
+            "http://dbpedia.org/resource/Butten",
+            "http://dbpedia.org/resource/Crastatt",
+            "http://dbpedia.org/resource/Dehlingen"
+        ]
+    ]
+}

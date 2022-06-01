@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbottabad",
+            "http://dbpedia.org/resource/Abbottabad_District",
+            "http://dbpedia.org/resource/Khyber_Pakhtunkhwa"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahrain,_Pakistan",
+            "http://dbpedia.org/resource/Swat_District",
+            "http://dbpedia.org/resource/Khyber_Pakhtunkhwa"
+        ]
+    ]
+}

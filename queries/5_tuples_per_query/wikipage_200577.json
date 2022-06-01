@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oveta_Culp_Hobby",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Marion_B._Folsom",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Sherwood_Flemming",
+            "http://dbpedia.org/resource/Ohio",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Abraham_A._Ribicoff",
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/John_F._Kennedy"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_J._Celebrezze",
+            "http://dbpedia.org/resource/Ohio",
+            "http://dbpedia.org/resource/John_F._Kennedy"
+        ]
+    ]
+}

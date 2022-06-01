@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aerial_Lift_Bridge",
+            "http://dbpedia.org/resource/Duluth,_Minnesota",
+            "http://dbpedia.org/resource/St._Louis_County,_Minnesota"
+        ]
+    ]
+}

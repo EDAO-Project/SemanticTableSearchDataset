@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aubry-en-Exmes",
+            "http://dbpedia.org/resource/Aubry-le-Panthou",
+            "http://dbpedia.org/resource/Aubusson,_Orne",
+            "http://dbpedia.org/resource/Aunou-le-Faucon"
+        ],
+        [
+            "http://dbpedia.org/resource/Avernes-Saint-Gourgon",
+            "http://dbpedia.org/resource/Avernes-sous-Exmes",
+            "http://dbpedia.org/resource/Avoine,_Orne",
+            "http://dbpedia.org/resource/Bailleul,_Orne"
+        ]
+    ]
+}

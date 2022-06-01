@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KVOD",
+            "http://dbpedia.org/resource/Classical_music",
+            "http://dbpedia.org/resource/Lakewood,_Colorado",
+            "http://dbpedia.org/resource/Centennial,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/KCFR-FM",
+            "http://dbpedia.org/resource/All-news_radio",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/NPR"
+        ]
+    ]
+}

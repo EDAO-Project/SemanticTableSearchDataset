@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Holy_Trinity_Church,_Hoghton",
+            "http://dbpedia.org/resource/Robert_Roper",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Charles_Barry",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ]
+    ]
+}

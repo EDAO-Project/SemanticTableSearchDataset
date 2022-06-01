@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1975_PBA_season",
+            "http://dbpedia.org/resource/Leo_Prieto",
+            "http://dbpedia.org/resource/PBA_on_KBS",
+            "http://dbpedia.org/resource/Toyota_Super_Corollas"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_PBA_season",
+            "http://dbpedia.org/resource/Leo_Prieto",
+            "http://dbpedia.org/resource/PBA_on_BBC",
+            "http://dbpedia.org/resource/Crispa_Redmanizers"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_Kissinger",
+            "http://dbpedia.org/resource/John_W._Gardner",
+            "http://dbpedia.org/resource/Cesar_Chavez",
+            "http://dbpedia.org/resource/Joseph_Yablonski"
+        ],
+        [
+            "http://dbpedia.org/resource/Elliot_Richardson",
+            "http://dbpedia.org/resource/Ralph_Nader",
+            "http://dbpedia.org/resource/Thomas_Szasz",
+            "http://dbpedia.org/resource/Maynard_Jackson"
+        ]
+    ]
+}

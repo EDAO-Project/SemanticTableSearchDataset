@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marine_Aviation_Logistics_Squadron_11",
+            "http://dbpedia.org/resource/Marine_Aircraft_Group_11",
+            "http://dbpedia.org/resource/Marine_Corps_Air_Station_Miramar"
+        ],
+        [
+            "http://dbpedia.org/resource/Marine_Aviation_Logistics_Squadron_12",
+            "http://dbpedia.org/resource/Marine_Aircraft_Group_12",
+            "http://dbpedia.org/resource/Marine_Corps_Air_Station_Iwakuni"
+        ]
+    ]
+}

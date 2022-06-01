@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Niall_Annett",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Ulster_Rugby"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Bent",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Leinster_Rugby"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/24th_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/All_My_Children",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cameltry",
+            "http://dbpedia.org/resource/Taito_Corporation",
+            "http://dbpedia.org/resource/Puzzle_video_game"
+        ]
+    ]
+}

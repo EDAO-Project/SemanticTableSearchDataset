@@ -1,0 +1,40 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_elections,_2004",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_2004",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_2004",
+            "http://dbpedia.org/resource/United_States_presidential_election,_2004",
+            "http://dbpedia.org/resource/United_States_gubernatorial_elections,_2004"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_elections,_2005",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_2004",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_2004",
+            "http://dbpedia.org/resource/United_States_presidential_election,_2004",
+            "http://dbpedia.org/resource/United_States_gubernatorial_elections,_2005"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_elections,_2006",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_2006",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_2006",
+            "http://dbpedia.org/resource/United_States_presidential_election,_2004",
+            "http://dbpedia.org/resource/United_States_gubernatorial_elections,_2006"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_elections,_2007",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_2006",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_2006",
+            "http://dbpedia.org/resource/United_States_presidential_election,_2004",
+            "http://dbpedia.org/resource/United_States_gubernatorial_elections,_2007",
+            "http://dbpedia.org/resource/United_States_elections,_2007"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_elections,_2008",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_2008",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_2008",
+            "http://dbpedia.org/resource/United_States_presidential_election,_2008",
+            "http://dbpedia.org/resource/United_States_gubernatorial_elections,_2008"
+        ]
+    ]
+}

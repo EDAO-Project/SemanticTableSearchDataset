@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baons-le-Comte",
+            "http://dbpedia.org/resource/Bardouville",
+            "http://dbpedia.org/resource/Barentin",
+            "http://dbpedia.org/resource/Beautot"
+        ],
+        [
+            "http://dbpedia.org/resource/Belbeuf",
+            "http://dbpedia.org/resource/Berville,_Seine-Maritime",
+            "http://dbpedia.org/resource/Berville-sur-Seine",
+            "http://dbpedia.org/resource/Betteville"
+        ],
+        [
+            "http://dbpedia.org/resource/Bierville",
+            "http://dbpedia.org/resource/Bihorel",
+            "http://dbpedia.org/resource/Blacqueville",
+            "http://dbpedia.org/resource/Blainville-Crevon"
+        ],
+        [
+            "http://dbpedia.org/resource/Elbeuf-sur-Andelle",
+            "http://dbpedia.org/resource/Ernemont-sur-Buchy",
+            "http://dbpedia.org/resource/Eslettes",
+            "http://dbpedia.org/resource/Esteville"
+        ],
+        [
+            "http://dbpedia.org/resource/Franqueville-Saint-Pierre",
+            "http://dbpedia.org/resource/Freneuse,_Seine-Maritime",
+            "http://dbpedia.org/resource/Fresne-le-Plan",
+            "http://dbpedia.org/resource/Fresquiennes"
+        ]
+    ]
+}

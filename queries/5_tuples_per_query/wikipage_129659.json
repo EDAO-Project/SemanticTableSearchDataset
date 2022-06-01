@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/1960_Summer_Paralympics",
+            "http://dbpedia.org/resource/Summer_Paralympic_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/1964_Summer_Paralympics",
+            "http://dbpedia.org/resource/Summer_Paralympic_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Tel_Aviv",
+            "http://dbpedia.org/resource/1968_Summer_Paralympics",
+            "http://dbpedia.org/resource/Summer_Paralympic_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Heidelberg",
+            "http://dbpedia.org/resource/1972_Summer_Paralympics",
+            "http://dbpedia.org/resource/Summer_Paralympic_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/1976_Summer_Paralympics",
+            "http://dbpedia.org/resource/Summer_Paralympic_Games"
+        ]
+    ]
+}

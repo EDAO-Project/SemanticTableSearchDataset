@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/K._Venkatalakshamma",
+            "http://dbpedia.org/resource/Karnataka",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramachandra_Datatraya_Lele",
+            "http://dbpedia.org/resource/Maharashtra",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Thayil_John_Cherian",
+            "http://dbpedia.org/resource/Tamil_Nadu",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Hakim_Abdul_Hameed",
+            "http://dbpedia.org/resource/Delhi",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/C._Narayana_Reddy",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

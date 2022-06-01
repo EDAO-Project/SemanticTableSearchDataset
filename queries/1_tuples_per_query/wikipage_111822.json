@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Advent,_Cornwall",
+            "http://dbpedia.org/resource/Cornwall",
+            "http://dbpedia.org/resource/Camelford_Rural_District"
+        ]
+    ]
+}

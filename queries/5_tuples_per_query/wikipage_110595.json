@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Usain_Bolt",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/2003_Pan_American_Junior_Athletics_Championships",
+            "http://dbpedia.org/resource/Bridgetown"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Obea_Moore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Pan_American_Junior_Athletics_Championships",
+            "http://dbpedia.org/resource/Santiago"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/Mohammed_Aman",
+            "http://dbpedia.org/resource/Ethiopia",
+            "http://dbpedia.org/resource/Rieti_Meeting",
+            "http://dbpedia.org/resource/Rieti"
+        ],
+        [
+            "http://dbpedia.org/resource/Middle-distance_running",
+            "http://dbpedia.org/resource/Isaac_Kiprono_Songok",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/ISTAF_Berlin",
+            "http://dbpedia.org/resource/Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/5000_metres",
+            "http://dbpedia.org/resource/Abreham_Cherkos",
+            "http://dbpedia.org/resource/Ethiopia",
+            "http://dbpedia.org/resource/Golden_Gala",
+            "http://dbpedia.org/resource/Rome"
+        ]
+    ]
+}

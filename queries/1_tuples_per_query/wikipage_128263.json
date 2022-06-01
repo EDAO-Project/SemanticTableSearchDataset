@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tight_end",
+            "http://dbpedia.org/resource/Wilmington,_Los_Angeles",
+            "http://dbpedia.org/resource/Los_Angeles_Harbor_College"
+        ]
+    ]
+}

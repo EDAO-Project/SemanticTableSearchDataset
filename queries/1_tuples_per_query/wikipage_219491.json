@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Justin_Hodges",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Billy_Slater"
+        ]
+    ]
+}

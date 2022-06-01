@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ryan_Briscoe",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Chevrolet"
+        ]
+    ]
+}

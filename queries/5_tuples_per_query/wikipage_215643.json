@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allison_Bay_219",
+            "http://dbpedia.org/resource/Mikisew_Cree_First_Nation",
+            "http://dbpedia.org/resource/Athabasca_Tribal_Council",
+            "http://dbpedia.org/resource/Treaty_8"
+        ],
+        [
+            "http://dbpedia.org/resource/Amber_River_211",
+            "http://dbpedia.org/resource/Dene",
+            "http://dbpedia.org/resource/North_Peace_Tribal_Council",
+            "http://dbpedia.org/resource/Treaty_8"
+        ],
+        [
+            "http://dbpedia.org/resource/Bistcho_Lake_213",
+            "http://dbpedia.org/resource/Dene",
+            "http://dbpedia.org/resource/North_Peace_Tribal_Council",
+            "http://dbpedia.org/resource/Treaty_8"
+        ],
+        [
+            "http://dbpedia.org/resource/Boyer_164",
+            "http://dbpedia.org/resource/Beaver_First_Nation",
+            "http://dbpedia.org/resource/North_Peace_Tribal_Council",
+            "http://dbpedia.org/resource/Treaty_8"
+        ],
+        [
+            "http://dbpedia.org/resource/Bushe_River_207",
+            "http://dbpedia.org/resource/Dene",
+            "http://dbpedia.org/resource/North_Peace_Tribal_Council",
+            "http://dbpedia.org/resource/Treaty_8"
+        ]
+    ]
+}
