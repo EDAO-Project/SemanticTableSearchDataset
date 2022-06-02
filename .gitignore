@@ -2,6 +2,8 @@
 ground_truth/jaccard_categories_raw/
 ground_truth/navigation_links_raw/
 
+table_corpus/tables_raw/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

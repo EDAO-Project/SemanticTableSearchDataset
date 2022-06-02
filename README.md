@@ -2,7 +2,10 @@
 Resource: A Large Scale Test Corpus for Semantic Table Search
 
 ## Table Corpus
-The full table corpus of 238,038 Wikipedia tables can be downloaded via this <a href="https://www.dropbox.com/s/7vii3pdue5suxjj/tables.tar.gz?dl=0">link</a>.
+The full table corpus of 238,038 Wikipedia tables can be found under the [table_corpus/tables/](table_corpus/tables/) directory. 
+Alternatively it can also be downloaded via this <a href="https://www.dropbox.com/s/7vii3pdue5suxjj/tables.tar.gz?dl=0">link</a>.
+
+We also provide a mapping of each Wikipedia page to its ID and the list of Wikipedia Tables present within it in the [wikipages_df.pickle](table_corpus/wikipages_df.pickle) pickled dataframe.
 
 ## Query Tables
 The list of all 9296 query tables can be found under the [queries/](queries/) directory.
