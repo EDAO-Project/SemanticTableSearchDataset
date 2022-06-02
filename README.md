@@ -25,11 +25,15 @@ The [queries/](queries/) directory contains the following files/sub-directories:
 The ground-truth relevance assessments for all 9296 query tables can be found under the [ground_truth/](ground_truth/) directory.
 There are two ground-truth relevance assessments (one with respect to the Wikipedia Categories and one with respect to the Navigation Links).
 For each version we provide a .json file for each query (i.e., each Wikipedia page) and denote all its semantically relevant Wikipedia Pages for which our measure is non-zero.
-In other words, given a Wikipedia page we identify all other Wikipedia pages for which there is a non-zero intersection of Wikipedia Categories or Navigation Links 
+In other words, given a Wikipedia page we identify all other Wikipedia pages for which there is a non-zero intersection of Wikipedia Categories or Navigation Links
+
+We also provide the extracted Wikipedia Categories for each Wikipedia Page in [wikipage_to_categories/](ground_truth/wikipage_to_categories/) and the extracted Navigation links for each Wikipedia Page in [wikipage_to_navigation_links/](ground_truth/wikipage_to_navigation_links/)  
 
 The [ground_truth/](ground_truth/) directory contains the following files/sub-directories:
 * `wikipedia_categories/`: Contains the relevance assessments for each Wikipedia page based on the Jaccard of their Wikipedia Categories
 * `navigation_links/`: Contains the relevance assessments for each Wikipedia page based on the Jaccard of their Navigation Links
+* `wikipage_to_categories/`: Contains the extracted Wikipedia Categories for each Wikipedia Page in our corpus
+* `wikipage_to_navigation_links`: Contains the extracted Navigation Links for each Wikipedia Page in our corpus
 
 ## Query Set Analsysis
 
