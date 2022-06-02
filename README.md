@@ -30,3 +30,33 @@ In other words, given a Wikipedia page we identify all other Wikipedia pages for
 The [ground_truth/](ground_truth/) directory contains the following files/sub-directories:
 * `wikipedia_categories/`: Contains the relevance assessments for each Wikipedia page based on the Jaccard of their Wikipedia Categories
 * `navigation_links/`: Contains the relevance assessments for each Wikipedia page based on the Jaccard of their Navigation Links
+
+## Query Set Analsysis
+
+**Distribution of Query Sizes**
+
+<img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/tuples-per-query.png">
+
+**Query Tuple Width Distribution**
+
+<img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/query-tuple-width.png">
+
+**Distribution of Relevant Tables Per Query**
+
+<img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/relevant-tables-per-query.png">
+
+**Distribution of Relevant Wikipedia Pages Per Query**
+
+<img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/relevant-wikipages-per-query.png">
+
+**Distribution of Categories Per Wikipedia Page**
+
+<img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/number-of-categories-per-wikipage.png">
+
+**Distribution of Navigational Links Per Wikipedia Page**
+
+<img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/number-of-navigational-links-per-wikipage.png">
+
+**Distribution of Wikipedia Pages per Category**
+
+<img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/wikipages-per-category.png">
