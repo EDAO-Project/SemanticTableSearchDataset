@@ -37,6 +37,71 @@ The [ground_truth/](ground_truth/) directory contains the following files/sub-di
 * `wikipage_to_categories/`: Contains the extracted Wikipedia Categories for each Wikipedia Page in our corpus
 * `wikipage_to_navigation_links`: Contains the extracted Navigation Links for each Wikipedia Page in our corpus
 
+### Retreiving Ground Truth of Query
+Below is a code snippet of a Python function to retrieve ground truth of a query. Given a query file, it returns the query and the ground truth judgements of each table, along the tables themselves. All compresses table folders are assumed to be extracted.
+
+```
+import json
+import os
+import pickle
+
+# Returns: (query, [(relevance score, table)])
+def ground_truth(query_filename, ground_truth_folder, table_corpus_folder, pickle_mapping_file):
+    tuple = []
+    wikipages = None
+    mapping = None
+
+    with open(query_filename, 'r') as file:
+        query = json.load(file)['queries']
+        tuple.append(query)
+        tuple.append([])
+
+    with open(ground_truth_folder + '/' + query_filename.split('/')[-1].split('_')[1], 'r') as file:
+        wikipages = json.load(file)
+
+    with open(pickle_mapping_file, 'rb') as file:
+        mapping = pickle.load(file)
+
+    for key, value in wikipages.items():
+        table_folders = os.listdir(table_corpus_folder)
+        wikipage = 'https://en.wikipedia.org/wiki/' + key
+        tables = None
+
+        for key in mapping['wikipage'].keys():
+            if (wikipage == mapping['wikipage'][key]):
+                tables = mapping['tables'][key]
+                break
+
+        if (tables == None):
+            tables = []
+
+        for table in tables:
+            for table_folder in table_folders:
+                if ('.' in table_folder):
+                    continue
+
+                table_files = os.listdir(table_corpus_folder + '/' + table_folder)
+
+                if (table in table_files):
+                    with open(table_corpus_folder + '/' + table_folder + '/' + table, 'r') as file:
+                        json_table = json.load(file)['rows']
+                        tuple[1].append([value, json_table])
+
+    return tuple
+```
+
+**Arguments**:
+- `query_filename`: The absolute path to a query file
+- `ground_truth_folder`: Folder of ground truth files (folders of categories of navigational links)
+- `table_corpus_folder`: Folder of uncompressed table corpus folders
+- `pickle_mapping_file`: Pickle file of mappings from Wikipedia page ID to Wikipedia page name its tables
+
+An example of calling the Python snippet function using Wikipedia page categories is below:
+
+```
+query_ground_truth = ground_truth('queries/1_tuples_per_query/wikipage_13042.json', 'ground_truth/wikipedia_categories', 'table_corpus/tables', 'table_corpus/wikipages_df.pickle')
+```
+
 ## DBpedia Knowledge Graph
 We link Wikipedia entities in Wikipedia tables to DBpedia knowledge graph entities. Wikipedia entities in Wikipedia tables have a hyperlink referring to the Wikipedia page of the entity. Similarly, DBpedia entities have the property _foaf:isPrimaryTopicOf_ pointing the DBpedia entity to the corresponding Wikipedia entity page. We can therefore link Wikipedia table entities to DBpedia entities when both entities point to the same Wikipedia entity page.
 
