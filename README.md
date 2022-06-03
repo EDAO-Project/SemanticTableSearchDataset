@@ -23,7 +23,6 @@ The [queries/](queries/) directory contains the following files/sub-directories:
 * `queries.pickle`: A pickled dataframe that contains mappings of each Wikipedia page used in our queries to its ID, the Wikitable selected for our query as well as all the webtables present in that Wikipedia page
 * `keyword_queries/`: Contains all 9296 query tables but converted into keywords for 1, 2, 5 and 10 tuples per query. The `queries.txt` file is indexed by the Wikipedia page ID (i.e., the ID of our query table) and maps to the list of keywords
 
-
 ## Ground-Truth (Relevance Assessments)
 The ground-truth relevance assessments for all 9296 query tables can be found under the [ground_truth/](ground_truth/) directory.
 There are two ground-truth relevance assessments (one with respect to the Wikipedia Categories and one with respect to the Navigation Links).
@@ -39,9 +38,9 @@ The [ground_truth/](ground_truth/) directory contains the following files/sub-di
 * `wikipage_to_navigation_links`: Contains the extracted Navigation Links for each Wikipedia Page in our corpus
 
 ## DBpedia Knowledge Graph
-We link Wikipedia entities in Wikipedia tables to DBpedia knowledge graph entities. Wikipedia entities in Wikipedia tables have a hyperlink referring to the Wikipedia page of the entity. Similarly, DBpedia entities have a property pointing the DBpedia entity to the corresponding Wikipedia entity page. We can therefore link Wikipedia table entities to DBpedia entities when both entities point to the same Wikipedia entity page.
+We link Wikipedia entities in Wikipedia tables to DBpedia knowledge graph entities. Wikipedia entities in Wikipedia tables have a hyperlink referring to the Wikipedia page of the entity. Similarly, DBpedia entities have the property _foaf:isPrimaryTopicOf_ pointing the DBpedia entity to the corresponding Wikipedia entity page. We can therefore link Wikipedia table entities to DBpedia entities when both entities point to the same Wikipedia entity page.
 
-We then use the DBpedia knowledge graph to measure similarities between pairs of entities, either by the Jaccard coefficient or by cosine similarity of knowledge graph entity embeddings. The files to download the DBpedia knowledge graph are found in `dbpedia_files.txt`. The embeddings of the same DBpedia knowledge graph can be downloaded <a href="https://zenodo.org/record/6384728#.Ypm-G-5BwQ8">here</a>.
+We then use the DBpedia knowledge graph to measure similarities between pairs of entities, either by the Jaccard coefficient or by cosine similarity of knowledge graph entity embeddings. The files to download the DBpedia knowledge graph, including entity types, are found in `dbpedia_files.txt` from September 1st, 2021. The embeddings of the same DBpedia knowledge graph can be downloaded <a href="https://zenodo.org/record/6384728#.Ypm-G-5BwQ8">here</a>.
 
 ## Query Set Analsysis
 
