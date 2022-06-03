@@ -41,7 +41,7 @@ The [ground_truth/](ground_truth/) directory contains the following files/sub-di
 ## DBpedia Knowledge Graph
 We link Wikipedia entities in Wikipedia tables to DBpedia knowledge graph entities. Wikipedia entities in Wikipedia tables have a hyperlink referring to the Wikipedia page of the entity. Similarly, DBpedia entities have a property pointing the DBpedia entity to the corresponding Wikipedia entity page. We can therefore link Wikipedia table entities to DBpedia entities when both entities point to the same Wikipedia entity page.
 
-We then use the DBpedia knowledge graph to measure similarities between pairs of entities, either by the Jaccard coefficient or by cosine similarity of knowledge graph entity embeddings. The files to download the DBpedia knowledge graph are found in `dbpedia_files.txt`.
+We then use the DBpedia knowledge graph to measure similarities between pairs of entities, either by the Jaccard coefficient or by cosine similarity of knowledge graph entity embeddings. The files to download the DBpedia knowledge graph are found in `dbpedia_files.txt`. The embeddings of the same DBpedia knowledge graph can be downloaded <a href="https://zenodo.org/record/6384728#.Ypm-G-5BwQ8">here</a>.
 
 ## Query Set Analsysis
 
