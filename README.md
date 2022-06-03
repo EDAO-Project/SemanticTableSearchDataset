@@ -40,21 +40,20 @@ The [ground_truth/](ground_truth/) directory contains the following files/sub-di
 ### Retreiving Ground Truth of Query
 Below is a code snippet of a Python function to retrieve ground truth of a query. Given a query file, it returns the query and the ground truth judgements of each table, along the tables themselves. All compresses table folders are assumed to be extracted.
 
-```
+```python
 import json
 import os
 import pickle
 
-# Returns: (query, [(relevance score, table)])
+# Returns: query, [relevance score, table]
 def ground_truth(query_filename, ground_truth_folder, table_corpus_folder, pickle_mapping_file):
-    tuple = []
+    query = None
+    relevances = list()
     wikipages = None
     mapping = None
 
     with open(query_filename, 'r') as file:
         query = json.load(file)['queries']
-        tuple.append(query)
-        tuple.append([])
 
     with open(ground_truth_folder + '/' + query_filename.split('/')[-1].split('_')[1], 'r') as file:
         wikipages = json.load(file)
@@ -68,7 +67,7 @@ def ground_truth(query_filename, ground_truth_folder, table_corpus_folder, pickl
         tables = None
 
         for key in mapping['wikipage'].keys():
-            if (wikipage == mapping['wikipage'][key]):
+            if wikipage == mapping['wikipage'][key]:
                 tables = mapping['tables'][key]
                 break
 
@@ -77,17 +76,17 @@ def ground_truth(query_filename, ground_truth_folder, table_corpus_folder, pickl
 
         for table in tables:
             for table_folder in table_folders:
-                if ('.' in table_folder):
+                if '.' in table_folder:
                     continue
 
                 table_files = os.listdir(table_corpus_folder + '/' + table_folder)
 
-                if (table in table_files):
+                if table in table_files:
                     with open(table_corpus_folder + '/' + table_folder + '/' + table, 'r') as file:
                         json_table = json.load(file)['rows']
-                        tuple[1].append([value, json_table])
+                        relevances.append([value, json_table])
 
-    return tuple
+    return query, relevances
 ```
 
 **Arguments**:
