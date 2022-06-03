@@ -74,4 +74,4 @@ We then use the DBpedia knowledge graph to measure similarities between pairs of
 
 **Embeddings Cosine Similarity Heatmap of a Selected Set of DBpedia Entities**
 
-<imag src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/heatmap.png">
+<img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/heatmap.png">
