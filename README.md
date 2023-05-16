@@ -37,6 +37,10 @@ The [ground_truth/](ground_truth/) directory contains the following files/sub-di
 * `wikipage_to_categories/`: Contains the extracted Wikipedia Categories for each Wikipedia Page in our corpus
 * `wikipage_to_navigation_links`: Contains the extracted Navigation Links for each Wikipedia Page in our corpus
 
+Below is a snippet of a subset of the ground truth tables for a query.
+
+<img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/ground_truth_example.png" width="600">
+
 ### Retreiving Ground Truth of Query
 Below is a code snippet of a Python function to retrieve ground truth of a query. Given a query file, it returns the query and the ground truth judgements of each table, along the tables themselves. All compresses table folders are assumed to be extracted.
 
