@@ -7,9 +7,9 @@ Alternatively it can also be downloaded via this <a href="https://www.dropbox.co
 
 The corresponding table corpus of 457,714 Wikipedia tables from 2019 can be found under the [table_corpus/tables_2019/](table_corpus/tables_2019/) directory.
 
-We also provide a mapping of each Wikipedia page to its ID and the list of Wikipedia Tables present within it in the [wikipages_2013_df.pickle](table_corpus/wikipages_2013_df.pickle) pickled dataframe.
+We also provide a mapping of each Wikipedia page to its ID and the list of Wikipedia Tables present within it in the [wikipages_df_2013.pickle](table_corpus/wikipages_df_2013.pickle) and [wikipages_df_2019.pickle](table_corpus/wikipages_df_2019.pickle) pickled dataframes.
 
-We additionally also provide the same tables in CSV format which can be extracted from [table_corpus/csv_tables_2013.tar.gz](table_corpus/csv_tables_2013.tar.gz) and [table_corpus/csv_tables_2019.tar.gz](table_corpus/csv_tables_2019.tar.gz).
+We additionally also provide the same tables in CSV format which can be extracted from [table_corpus/csv_tables_2013](table_corpus/csv_tables_2013) and [table_corpus/csv_tables_2019](table_corpus/csv_tables_2019).
 
 ## Query Tables
 The list of all 9296 query tables can be found under the [queries/](queries/) directory.
