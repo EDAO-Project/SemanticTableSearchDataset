@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mel_Sheppard",
+            "http://dbpedia.org/resource/Emilio_Lunghi",
+            "http://dbpedia.org/resource/Hanns_Braun"
+        ]
+    ]
+}

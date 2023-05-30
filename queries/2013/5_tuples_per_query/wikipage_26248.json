@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Brad_Evans",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Osvaldo_Alonso",
+            "http://dbpedia.org/resource/Cuba"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Mauro_Rosales",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Steve_Zakuani",
+            "http://dbpedia.org/resource/Democratic_Republic_of_the_Congo"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Alex_Caskey",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

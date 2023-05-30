@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shizuoka_Stadium",
+            "http://dbpedia.org/resource/Finland_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Tatsuhiko_Kubo"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jakarta",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Asia-Pacific"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Asia-Pacific"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/North_America"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Middle_East"
+        ],
+        [
+            "http://dbpedia.org/resource/Shanghai",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Asia-Pacific"
+        ]
+    ]
+}

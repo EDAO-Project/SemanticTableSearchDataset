@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_San_Francisco_Giants_season",
+            "http://dbpedia.org/resource/Jamey_Wright",
+            "http://dbpedia.org/resource/Brett_Tomko",
+            "http://dbpedia.org/resource/Brian_Fuentes"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_San_Francisco_Giants_season",
+            "http://dbpedia.org/resource/Dan_Miceli",
+            "http://dbpedia.org/resource/Tyler_Walker",
+            "http://dbpedia.org/resource/Brian_Fuentes"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_San_Francisco_Giants_season",
+            "http://dbpedia.org/resource/Scott_Munter",
+            "http://dbpedia.org/resource/Dan_Miceli",
+            "http://dbpedia.org/resource/Tyler_Walker"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Mike_DeJean",
+            "http://dbpedia.org/resource/Lance_Cormier",
+            "http://dbpedia.org/resource/Brian_Fuentes"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Florida_Marlins_season",
+            "http://dbpedia.org/resource/Byung-hyun_Kim",
+            "http://dbpedia.org/resource/Ismael_Valdez",
+            "http://dbpedia.org/resource/Brian_Fuentes"
+        ]
+    ]
+}

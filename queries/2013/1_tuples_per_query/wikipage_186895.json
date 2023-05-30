@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battlefield_4",
+            "http://dbpedia.org/resource/First-person_shooter",
+            "http://dbpedia.org/resource/EA_DICE",
+            "http://dbpedia.org/resource/Electronic_Arts"
+        ]
+    ]
+}

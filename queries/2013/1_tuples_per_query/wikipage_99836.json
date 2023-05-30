@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Adelaide_Thunderbirds",
+            "http://dbpedia.org/resource/Priceline_Stadium"
+        ]
+    ]
+}

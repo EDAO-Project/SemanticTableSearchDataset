@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Helsinki",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Poole",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Bahamas",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Naples",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Copenhagen",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandhamn",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

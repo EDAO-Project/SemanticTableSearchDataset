@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arian_Foster",
+            "http://dbpedia.org/resource/Houston_Texans",
+            "http://dbpedia.org/resource/Indianapolis_Colts"
+        ],
+        [
+            "http://dbpedia.org/resource/LeSean_McCoy",
+            "http://dbpedia.org/resource/Philadelphia_Eagles",
+            "http://dbpedia.org/resource/Detroit_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Adrian_Peterson",
+            "http://dbpedia.org/resource/Minnesota_Vikings",
+            "http://dbpedia.org/resource/Detroit_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/LaDainian_Tomlinson",
+            "http://dbpedia.org/resource/New_York_Jets",
+            "http://dbpedia.org/resource/Buffalo_Bills",
+            "http://dbpedia.org/resource/Buffalo_Bills"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Forte",
+            "http://dbpedia.org/resource/Chicago_Bears",
+            "http://dbpedia.org/resource/Carolina_Panthers"
+        ]
+    ]
+}

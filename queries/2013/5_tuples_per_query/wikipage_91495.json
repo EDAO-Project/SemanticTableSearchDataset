@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_in_baseball",
+            "http://dbpedia.org/resource/Nobuo_Oshima",
+            "http://dbpedia.org/resource/Yokohama_DeNA_BayStars",
+            "http://dbpedia.org/resource/Pitcher"
+        ],
+        [
+            "http://dbpedia.org/resource/1954_in_baseball",
+            "http://dbpedia.org/resource/Tatsuro_Hirooka",
+            "http://dbpedia.org/resource/Yomiuri_Giants",
+            "http://dbpedia.org/resource/Shortstop"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_in_baseball",
+            "http://dbpedia.org/resource/Noboru_Akiyama",
+            "http://dbpedia.org/resource/Yokohama_DeNA_BayStars",
+            "http://dbpedia.org/resource/Pitcher"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_in_baseball",
+            "http://dbpedia.org/resource/Motoshi_Fujita",
+            "http://dbpedia.org/resource/Yomiuri_Giants",
+            "http://dbpedia.org/resource/Pitcher"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_in_baseball",
+            "http://dbpedia.org/resource/Shigeo_Nagashima",
+            "http://dbpedia.org/resource/Yomiuri_Giants",
+            "http://dbpedia.org/resource/Third_baseman"
+        ]
+    ]
+}

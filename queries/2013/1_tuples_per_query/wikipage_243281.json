@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chief_Jay_Strongbow",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/House_show",
+            "http://dbpedia.org/resource/Tor_Kamata"
+        ]
+    ]
+}

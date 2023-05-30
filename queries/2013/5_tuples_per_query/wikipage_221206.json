@@ -1,0 +1,41 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Telstar_14",
+            "http://dbpedia.org/resource/Geosynchronous_orbit",
+            "http://dbpedia.org/resource/Communications_satellite"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz-U",
+            "http://dbpedia.org/resource/Soyuz-U",
+            "http://dbpedia.org/resource/Baikonur_Cosmodrome",
+            "http://dbpedia.org/resource/Baikonur_Cosmodrome",
+            "http://dbpedia.org/resource/Russian_Federal_Space_Agency",
+            "http://dbpedia.org/resource/Russian_Federal_Space_Agency"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlas_II",
+            "http://dbpedia.org/resource/Atlas_II",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/International_Launch_Services",
+            "http://dbpedia.org/resource/International_Launch_Services"
+        ],
+        [
+            "http://dbpedia.org/resource/Titan_IV",
+            "http://dbpedia.org/resource/Titan_IV",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40",
+            "http://dbpedia.org/resource/Lockheed_Martin",
+            "http://dbpedia.org/resource/Lockheed_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Molniya-M",
+            "http://dbpedia.org/resource/Molniya-M",
+            "http://dbpedia.org/resource/Plesetsk_Cosmodrome",
+            "http://dbpedia.org/resource/Plesetsk_Cosmodrome",
+            "http://dbpedia.org/resource/Russian_Space_Forces",
+            "http://dbpedia.org/resource/Russian_Space_Forces"
+        ]
+    ]
+}

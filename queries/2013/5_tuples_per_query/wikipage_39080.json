@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Lachlan_Coote",
+            "http://dbpedia.org/resource/Penrith_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Jharal_Yow_Yeh",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Justin_Carney",
+            "http://dbpedia.org/resource/Canberra_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Kevin_Gordon",
+            "http://dbpedia.org/resource/Gold_Coast_Titans"
+        ],
+        [
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Ben_Barba",
+            "http://dbpedia.org/resource/Canterbury-Bankstown_Bulldogs"
+        ]
+    ]
+}

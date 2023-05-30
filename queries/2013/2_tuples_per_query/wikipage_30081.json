@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boothe_Memorial_Park_and_Museum",
+            "http://dbpedia.org/resource/Stratford,_Connecticut",
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut",
+            "http://dbpedia.org/resource/Open-air_museum",
+            "http://dbpedia.org/resource/Merritt_Parkway"
+        ],
+        [
+            "http://dbpedia.org/resource/Bush-Holley_House",
+            "http://dbpedia.org/resource/Greenwich,_Connecticut",
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut",
+            "http://dbpedia.org/resource/Historic_house_museum",
+            "http://dbpedia.org/resource/Cos_Cob_art_colony"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carmelita_Jeter",
+            "http://dbpedia.org/resource/Marshevet_Hooker",
+            "http://dbpedia.org/resource/Mikele_Barber"
+        ],
+        [
+            "http://dbpedia.org/resource/Shalonda_Solomon",
+            "http://dbpedia.org/resource/Carmelita_Jeter",
+            "http://dbpedia.org/resource/Jeneba_Tarmoh"
+        ]
+    ]
+}

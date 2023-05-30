@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brose_Baskets",
+            "http://dbpedia.org/resource/Bamberg",
+            "http://dbpedia.org/resource/Brose_Arena",
+            "http://dbpedia.org/resource/Basketball_Bundesliga"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bazet",
+            "http://dbpedia.org/resource/Bazillac",
+            "http://dbpedia.org/resource/Bazordan",
+            "http://dbpedia.org/resource/Bernac-Debat"
+        ],
+        [
+            "http://dbpedia.org/resource/Dours",
+            "http://dbpedia.org/resource/Escaunets",
+            "http://dbpedia.org/resource/Escondeaux",
+            "http://dbpedia.org/resource/Estampures"
+        ],
+        [
+            "http://dbpedia.org/resource/Guizerix",
+            "http://dbpedia.org/resource/Hachan",
+            "http://dbpedia.org/resource/Hagedet",
+            "http://dbpedia.org/resource/Hibarette"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiis",
+            "http://dbpedia.org/resource/Hitte",
+            "http://dbpedia.org/resource/Horgues",
+            "http://dbpedia.org/resource/Houeydets"
+        ],
+        [
+            "http://dbpedia.org/resource/Laslades",
+            "http://dbpedia.org/resource/Lassales",
+            "http://dbpedia.org/resource/Layrisse",
+            "http://dbpedia.org/resource/Lescurry"
+        ]
+    ]
+}

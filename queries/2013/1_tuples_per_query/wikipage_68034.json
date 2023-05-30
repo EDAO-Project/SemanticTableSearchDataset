@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Alabama",
+            "http://dbpedia.org/resource/Holman_Correctional_Facility",
+            "http://dbpedia.org/resource/Julia_Tutwiler_Prison_for_Women"
+        ]
+    ]
+}

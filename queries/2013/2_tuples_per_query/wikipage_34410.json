@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mainstreeter",
+            "http://dbpedia.org/resource/Northern_Pacific_Railway",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Manhattan_Limited",
+            "http://dbpedia.org/resource/Pennsylvania_Railroad",
+            "http://dbpedia.org/resource/Chicago"
+        ]
+    ]
+}

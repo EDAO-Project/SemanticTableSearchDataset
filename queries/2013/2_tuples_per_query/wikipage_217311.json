@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alpine,_Utah",
+            "http://dbpedia.org/resource/Utah_County,_Utah",
+            "http://dbpedia.org/resource/Wasatch_Range"
+        ],
+        [
+            "http://dbpedia.org/resource/Alta,_Utah",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah",
+            "http://dbpedia.org/resource/Spanish_language"
+        ]
+    ]
+}

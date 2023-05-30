@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nigel_Mansell",
+            "http://dbpedia.org/resource/Newman/Haas_Racing",
+            "http://dbpedia.org/resource/Lola_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/Emerson_Fittipaldi",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Penske_PC-22"
+        ]
+    ]
+}

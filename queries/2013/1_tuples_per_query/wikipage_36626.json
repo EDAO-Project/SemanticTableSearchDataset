@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_college_football_season",
+            "http://dbpedia.org/resource/1960_Minnesota_Golden_Gophers_football_team",
+            "http://dbpedia.org/resource/Big_Ten_Conference",
+            "http://dbpedia.org/resource/Murray_Warmath"
+        ]
+    ]
+}

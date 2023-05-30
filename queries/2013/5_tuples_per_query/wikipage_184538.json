@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bakersfield,_California",
+            "http://dbpedia.org/resource/KKEY-LP",
+            "http://dbpedia.org/resource/Nexstar_Broadcasting_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Bakersfield,_California",
+            "http://dbpedia.org/resource/KGET-TV",
+            "http://dbpedia.org/resource/Nexstar_Broadcasting_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Salinas,_California",
+            "http://dbpedia.org/resource/KMUV-LP",
+            "http://dbpedia.org/resource/Cowles_Publishing_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Diego",
+            "http://dbpedia.org/resource/XHAS-TDT",
+            "http://dbpedia.org/resource/Entravision_Communications"
+        ],
+        [
+            "http://dbpedia.org/resource/Rockford,_Illinois",
+            "http://dbpedia.org/resource/WYTU-LD",
+            "http://dbpedia.org/resource/Weigel_Broadcasting",
+            "http://dbpedia.org/resource/WYTU-LD"
+        ]
+    ]
+}

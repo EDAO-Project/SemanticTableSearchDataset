@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Andretti",
+            "http://dbpedia.org/resource/Newman/Haas_Racing",
+            "http://dbpedia.org/resource/Lola_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacques_Villeneuve",
+            "http://dbpedia.org/resource/Andretti_Autosport",
+            "http://dbpedia.org/resource/Reynard_Motorsport"
+        ]
+    ]
+}

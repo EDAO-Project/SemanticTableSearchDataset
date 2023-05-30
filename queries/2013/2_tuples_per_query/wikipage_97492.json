@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonas_Gustavsson",
+            "http://dbpedia.org/resource/Danderyd_Municipality",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefan_Liv",
+            "http://dbpedia.org/resource/Gdynia",
+            "http://dbpedia.org/resource/HV71"
+        ]
+    ]
+}

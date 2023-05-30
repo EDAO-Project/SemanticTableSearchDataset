@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/A._J._Burnett",
+            "http://dbpedia.org/resource/Tim_Wakefield",
+            "http://dbpedia.org/resource/B._J._Ryan"
+        ]
+    ]
+}

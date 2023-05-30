@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emanuele_Pirro",
+            "http://dbpedia.org/resource/Onyx_Grand_Prix",
+            "http://dbpedia.org/resource/March_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Lamberto_Leoni",
+            "http://dbpedia.org/resource/First_Racing",
+            "http://dbpedia.org/resource/March_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomas_Kaiser",
+            "http://dbpedia.org/resource/BS_Fabrications",
+            "http://dbpedia.org/resource/Lola_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierre-Henri_Raphanel",
+            "http://dbpedia.org/resource/Oreca",
+            "http://dbpedia.org/resource/March_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Philippe_Alliot",
+            "http://dbpedia.org/resource/Oreca",
+            "http://dbpedia.org/resource/March_Engineering"
+        ]
+    ]
+}

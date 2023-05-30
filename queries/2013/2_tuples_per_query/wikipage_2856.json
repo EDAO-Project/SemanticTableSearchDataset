@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kevin_P._Chilton",
+            "http://dbpedia.org/resource/Astronaut",
+            "http://dbpedia.org/resource/Four-star_rank"
+        ],
+        [
+            "http://dbpedia.org/resource/Sylvia_Lopez",
+            "http://dbpedia.org/resource/News_presenter",
+            "http://dbpedia.org/resource/KCAL-TV"
+        ]
+    ]
+}

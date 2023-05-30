@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Kirk_Saarloos",
+            "http://dbpedia.org/resource/Josh_Towers",
+            "http://dbpedia.org/resource/Huston_Street"
+        ]
+    ]
+}

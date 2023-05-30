@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_United_States_Congress",
+            "http://dbpedia.org/resource/Richard_Henry_Lee",
+            "http://dbpedia.org/resource/Anti-Administration_party",
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_United_States_Congress",
+            "http://dbpedia.org/resource/Henry_Tazewell",
+            "http://dbpedia.org/resource/Anti-Administration_party",
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_United_States_Congress",
+            "http://dbpedia.org/resource/Henry_Tazewell",
+            "http://dbpedia.org/resource/Democratic-Republican_Party",
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_United_States_Congress",
+            "http://dbpedia.org/resource/Samuel_Livermore",
+            "http://dbpedia.org/resource/Federalist_Party",
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_United_States_Congress",
+            "http://dbpedia.org/resource/William_Bingham",
+            "http://dbpedia.org/resource/Federalist_Party",
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Pennsylvania"
+        ]
+    ]
+}

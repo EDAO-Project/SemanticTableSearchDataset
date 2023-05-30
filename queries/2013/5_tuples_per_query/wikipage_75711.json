@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arcadia_Plantation",
+            "http://dbpedia.org/resource/U.S._Route_17",
+            "http://dbpedia.org/resource/Georgetown,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_River_Plantation_House",
+            "http://dbpedia.org/resource/South_Carolina_Highway_51",
+            "http://dbpedia.org/resource/Georgetown,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Brookgreen_Gardens",
+            "http://dbpedia.org/resource/U.S._Route_17",
+            "http://dbpedia.org/resource/Georgetown,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_Rice_Mill_Chimney",
+            "http://dbpedia.org/resource/U.S._Route_17",
+            "http://dbpedia.org/resource/Georgetown,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Friendfield_Plantation",
+            "http://dbpedia.org/resource/U.S._Route_521",
+            "http://dbpedia.org/resource/Georgetown,_South_Carolina"
+        ]
+    ]
+}

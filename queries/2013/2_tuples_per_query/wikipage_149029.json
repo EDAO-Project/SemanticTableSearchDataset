@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Summer_Olympics",
+            "http://dbpedia.org/resource/Hidilyn_Diaz",
+            "http://dbpedia.org/resource/Olympic_weightlifting"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Summer_Olympics",
+            "http://dbpedia.org/resource/Manny_Pacquiao",
+            "http://dbpedia.org/resource/Boxing"
+        ]
+    ]
+}

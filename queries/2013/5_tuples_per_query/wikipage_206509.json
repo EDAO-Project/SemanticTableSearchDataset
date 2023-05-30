@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nepenthes_burbidgeae",
+            "http://dbpedia.org/resource/Jumaat_Haji_Adam",
+            "http://dbpedia.org/resource/Borneo"
+        ],
+        [
+            "http://dbpedia.org/resource/Nepenthes_bicalcarata",
+            "http://dbpedia.org/resource/Nomen_nudum",
+            "http://dbpedia.org/resource/Borneo"
+        ],
+        [
+            "http://dbpedia.org/resource/Nepenthes_albomarginata",
+            "http://dbpedia.org/resource/Maxwell_T._Masters",
+            "http://dbpedia.org/resource/Borneo"
+        ],
+        [
+            "http://dbpedia.org/resource/Nepenthes_albomarginata",
+            "http://dbpedia.org/resource/Shigeo_Kurata",
+            "http://dbpedia.org/resource/Borneo"
+        ],
+        [
+            "http://dbpedia.org/resource/Nepenthes_edwardsiana",
+            "http://dbpedia.org/resource/Frederick_William_Burbidge",
+            "http://dbpedia.org/resource/Borneo"
+        ]
+    ]
+}

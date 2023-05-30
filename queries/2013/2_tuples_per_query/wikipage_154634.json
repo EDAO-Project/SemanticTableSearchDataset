@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_Birighitti",
+            "http://dbpedia.org/resource/Adelaide_United_FC",
+            "http://dbpedia.org/resource/Newcastle_Jets_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Redmayne",
+            "http://dbpedia.org/resource/Brisbane_Roar_FC",
+            "http://dbpedia.org/resource/Melbourne_City_FC"
+        ]
+    ]
+}

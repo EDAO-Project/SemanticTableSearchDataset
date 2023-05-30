@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marvin_Austin",
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels_football",
+            "http://dbpedia.org/resource/2011_New_York_Giants_season",
+            "http://dbpedia.org/resource/2011_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Akeem_Ayers",
+            "http://dbpedia.org/resource/UCLA_Bruins_football",
+            "http://dbpedia.org/resource/2011_Tennessee_Titans_season",
+            "http://dbpedia.org/resource/2011_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_Baldwin",
+            "http://dbpedia.org/resource/Pittsburgh_Panthers_football",
+            "http://dbpedia.org/resource/2011_Kansas_City_Chiefs_season",
+            "http://dbpedia.org/resource/2011_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandon_Burton",
+            "http://dbpedia.org/resource/Utah_Utes_football",
+            "http://dbpedia.org/resource/2011_Minnesota_Vikings_season",
+            "http://dbpedia.org/resource/2011_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Jurrell_Casey",
+            "http://dbpedia.org/resource/USC_Trojans_football",
+            "http://dbpedia.org/resource/2011_Tennessee_Titans_season",
+            "http://dbpedia.org/resource/2011_NFL_draft"
+        ]
+    ]
+}

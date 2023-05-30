@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Abbey_Road",
+            "http://dbpedia.org/resource/Apple_Records"
+        ]
+    ]
+}

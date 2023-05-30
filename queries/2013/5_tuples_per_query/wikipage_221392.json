@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Peebles",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Physical_cosmology"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoffrey_Marcy",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Planetary_system"
+        ],
+        [
+            "http://dbpedia.org/resource/Michel_Mayor",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Planetary_system"
+        ],
+        [
+            "http://dbpedia.org/resource/Saul_Perlmutter",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Accelerating_universe"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Riess",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Accelerating_universe"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Attiches",
+            "http://dbpedia.org/resource/Aubers",
+            "http://dbpedia.org/resource/Avelin",
+            "http://dbpedia.org/resource/Bachy"
+        ],
+        [
+            "http://dbpedia.org/resource/Bois-Grenier",
+            "http://dbpedia.org/resource/Bondues",
+            "http://dbpedia.org/resource/Bourghelles",
+            "http://dbpedia.org/resource/Bousbecque"
+        ],
+        [
+            "http://dbpedia.org/resource/Cobrieux",
+            "http://dbpedia.org/resource/Comines,_Nord",
+            "http://dbpedia.org/resource/Croix,_Nord",
+            "http://dbpedia.org/resource/Cysoing"
+        ],
+        [
+            "http://dbpedia.org/resource/Escobecques",
+            "http://dbpedia.org/resource/Faches-Thumesnil",
+            "http://dbpedia.org/resource/Forest-sur-Marque",
+            "http://dbpedia.org/resource/Fournes-en-Weppes"
+        ],
+        [
+            "http://dbpedia.org/resource/Frelinghien",
+            "http://dbpedia.org/resource/Fretin",
+            "http://dbpedia.org/resource/Fromelles",
+            "http://dbpedia.org/resource/Genech"
+        ]
+    ]
+}

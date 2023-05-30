@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hunan",
+            "http://dbpedia.org/resource/Zhangjiajie",
+            "http://dbpedia.org/resource/Cili_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Hubei",
+            "http://dbpedia.org/resource/Enshi_Tujia_and_Miao_Autonomous_Prefecture",
+            "http://dbpedia.org/resource/Lichuan,_Hubei"
+        ]
+    ]
+}

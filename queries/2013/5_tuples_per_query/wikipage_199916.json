@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_State_University",
+            "http://dbpedia.org/resource/Ned_Wulk",
+            "http://dbpedia.org/resource/Utah_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Oregon_State_University",
+            "http://dbpedia.org/resource/Slats_Gill",
+            "http://dbpedia.org/resource/Seattle_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles",
+            "http://dbpedia.org/resource/John_Wooden",
+            "http://dbpedia.org/resource/Duke_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Utah_State_University",
+            "http://dbpedia.org/resource/LaDell_Andersen",
+            "http://dbpedia.org/resource/Seattle_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Creighton_University",
+            "http://dbpedia.org/resource/Red_McManus",
+            "http://dbpedia.org/resource/University_of_Texas_at_El_Paso"
+        ]
+    ]
+}

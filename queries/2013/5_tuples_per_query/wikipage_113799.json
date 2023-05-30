@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Gwen_Torrence",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Rochelle_Stevens",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Mardrea_Hyman",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/100_metres_hurdles",
+            "http://dbpedia.org/resource/Brigitte_Foster-Hylton",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres_hurdles",
+            "http://dbpedia.org/resource/Lashinda_Demus",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

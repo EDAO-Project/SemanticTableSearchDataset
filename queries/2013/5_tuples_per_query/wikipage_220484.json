@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Air_Force_Falcons_football",
+            "http://dbpedia.org/resource/2012_Air_Force_Falcons_football_team",
+            "http://dbpedia.org/resource/2012_Armed_Forces_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Akron_Zips_football",
+            "http://dbpedia.org/resource/2005_Akron_Zips_football_team",
+            "http://dbpedia.org/resource/2005_Motor_City_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Alabama_Crimson_Tide_football",
+            "http://dbpedia.org/resource/2012_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/2013_BCS_National_Championship_Game"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona_Wildcats_football",
+            "http://dbpedia.org/resource/2012_Arizona_Wildcats_football_team",
+            "http://dbpedia.org/resource/2012_New_Mexico_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_football",
+            "http://dbpedia.org/resource/2012_Arizona_State_Sun_Devils_football_team",
+            "http://dbpedia.org/resource/2012_Kraft_Fight_Hunger_Bowl"
+        ]
+    ]
+}

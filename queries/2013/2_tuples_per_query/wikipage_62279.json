@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Milwaukee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Milwaukee_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus,_Ohio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/St._John_Arena"
+        ]
+    ]
+}

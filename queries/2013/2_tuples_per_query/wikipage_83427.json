@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Williams_Grand_Prix_Engineering",
+            "http://dbpedia.org/resource/Williams_FW28",
+            "http://dbpedia.org/resource/Bridgestone",
+            "http://dbpedia.org/resource/Mark_Webber",
+            "http://dbpedia.org/resource/Alexander_Wurz"
+        ],
+        [
+            "http://dbpedia.org/resource/Williams_Grand_Prix_Engineering",
+            "http://dbpedia.org/resource/Williams_FW28",
+            "http://dbpedia.org/resource/Bridgestone",
+            "http://dbpedia.org/resource/Nico_Rosberg",
+            "http://dbpedia.org/resource/Alexander_Wurz"
+        ]
+    ]
+}

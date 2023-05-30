@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dennis_Endras",
+            "http://dbpedia.org/resource/Immenstadt",
+            "http://dbpedia.org/resource/Augsburger_Panther"
+        ]
+    ]
+}

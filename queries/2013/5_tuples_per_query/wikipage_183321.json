@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boise,_Idaho",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Knitting_Factory"
+        ],
+        [
+            "http://dbpedia.org/resource/Spokane,_Washington",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Knitting_Factory"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Minneapolis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Triple_Rock_Social_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Uncasville,_Connecticut",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mohegan_Sun"
+        ]
+    ]
+}

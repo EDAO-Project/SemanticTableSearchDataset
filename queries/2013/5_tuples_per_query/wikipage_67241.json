@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amridge_University",
+            "http://dbpedia.org/resource/Montgomery,_Alabama",
+            "http://dbpedia.org/resource/Churches_of_Christ",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Community_College_of_the_Air_Force",
+            "http://dbpedia.org/resource/Montgomery,_Alabama",
+            "http://dbpedia.org/resource/United_States_Air_Force",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Faulkner_University",
+            "http://dbpedia.org/resource/Montgomery,_Alabama",
+            "http://dbpedia.org/resource/Churches_of_Christ",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Heritage_Christian_University",
+            "http://dbpedia.org/resource/Florence,_Alabama",
+            "http://dbpedia.org/resource/Churches_of_Christ",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/Association_for_Biblical_Higher_Education"
+        ],
+        [
+            "http://dbpedia.org/resource/Huntingdon_College",
+            "http://dbpedia.org/resource/Montgomery,_Alabama",
+            "http://dbpedia.org/resource/United_Methodist_Church",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/Southern_Association_of_Colleges_and_Schools"
+        ]
+    ]
+}

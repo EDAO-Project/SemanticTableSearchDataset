@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Caballo_Island",
+            "http://dbpedia.org/resource/Manila_Bay",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Cabrera,_Balearic_Islands",
+            "http://dbpedia.org/resource/Balearic_Islands",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

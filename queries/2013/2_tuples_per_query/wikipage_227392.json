@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_J._League",
+            "http://dbpedia.org/resource/Kazuyoshi_Miura",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_J._League",
+            "http://dbpedia.org/resource/Luiz_Carlos_Pereira",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Brazil"
+        ]
+    ]
+}

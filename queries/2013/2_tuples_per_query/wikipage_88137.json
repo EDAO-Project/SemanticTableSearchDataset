@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Illawarra_Steelers",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium",
+            "http://dbpedia.org/resource/Tea_Ropati",
+            "http://dbpedia.org/resource/Greg_Alexander"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Suburbs_Magpies",
+            "http://dbpedia.org/resource/Campbelltown_Stadium",
+            "http://dbpedia.org/resource/Joe_Vagana",
+            "http://dbpedia.org/resource/Greg_Alexander"
+        ]
+    ]
+}

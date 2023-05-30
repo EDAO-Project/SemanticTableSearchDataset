@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London_Array",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Siemens_Wind_Power"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_Gabbard_wind_farm",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Siemens_Wind_Power"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ben_Kantarovski",
+            "http://dbpedia.org/resource/Newcastle_Jets_FC",
+            "http://dbpedia.org/resource/Melbourne_City_FC"
+        ]
+    ]
+}

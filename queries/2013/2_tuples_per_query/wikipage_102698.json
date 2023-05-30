@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Auburndale,_Florida",
+            "http://dbpedia.org/resource/Auburndale_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Von_Steuben_Metropolitan_Science_Center"
+        ]
+    ]
+}

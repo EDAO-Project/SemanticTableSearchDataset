@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Petty",
+            "http://dbpedia.org/resource/Petty_Enterprises",
+            "http://dbpedia.org/resource/Dodge"
+        ]
+    ]
+}

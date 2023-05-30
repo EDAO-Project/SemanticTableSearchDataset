@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Meishin_Expressway",
+            "http://dbpedia.org/resource/Maibara,_Shiga",
+            "http://dbpedia.org/resource/Shiga_Prefecture"
+        ]
+    ]
+}

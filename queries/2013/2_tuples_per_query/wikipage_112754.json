@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Mr._Olympia",
+            "http://dbpedia.org/resource/Sergio_Oliva",
+            "http://dbpedia.org/resource/New_York_City"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Mr._Olympia",
+            "http://dbpedia.org/resource/Sergio_Oliva",
+            "http://dbpedia.org/resource/New_York_City"
+        ]
+    ]
+}

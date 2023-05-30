@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Detroit_Pistons",
+            "http://dbpedia.org/resource/Chris_Bosh",
+            "http://dbpedia.org/resource/Loren_Woods",
+            "http://dbpedia.org/resource/Vince_Carter",
+            "http://dbpedia.org/resource/Air_Canada_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Trail_Blazers",
+            "http://dbpedia.org/resource/Vince_Carter",
+            "http://dbpedia.org/resource/Donyell_Marshall",
+            "http://dbpedia.org/resource/Rafer_Alston",
+            "http://dbpedia.org/resource/Air_Canada_Centre"
+        ]
+    ]
+}

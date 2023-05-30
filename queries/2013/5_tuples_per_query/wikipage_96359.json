@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abderrazzak_Jadid",
+            "http://dbpedia.org/resource/Brescia_Calcio",
+            "http://dbpedia.org/resource/U.S._Salernitana_1919"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Capone",
+            "http://dbpedia.org/resource/Vicenza_Calcio",
+            "http://dbpedia.org/resource/U.S._Salernitana_1919"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_Appiah",
+            "http://dbpedia.org/resource/Free_agent",
+            "http://dbpedia.org/resource/Bologna_F.C._1909"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominic_Adiyiah",
+            "http://dbpedia.org/resource/Fredrikstad_FK",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Beckham",
+            "http://dbpedia.org/resource/LA_Galaxy",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ]
+    ]
+}

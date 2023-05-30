@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1908_St._Louis_Browns_season",
+            "http://dbpedia.org/resource/Barney_Pelty",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/League_Park"
+        ]
+    ]
+}

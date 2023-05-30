@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bastrop_County,_Texas",
+            "http://dbpedia.org/resource/Wyldwood,_Texas",
+            "http://dbpedia.org/resource/Texas_State_Highway_71"
+        ]
+    ]
+}

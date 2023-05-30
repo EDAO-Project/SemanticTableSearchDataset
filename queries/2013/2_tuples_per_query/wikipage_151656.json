@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pune_Strykers",
+            "http://dbpedia.org/resource/Mahindra_Hockey_Stadium",
+            "http://dbpedia.org/resource/2012_World_Series_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhopal_Badshahs",
+            "http://dbpedia.org/resource/Mahindra_Hockey_Stadium",
+            "http://dbpedia.org/resource/2012_World_Series_Hockey"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johannes_Bitter",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/HSV_Hamburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Domagoj_Duvnjak",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HSV_Hamburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Torsten_Jansen",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/HSV_Hamburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Igor_Vori",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HSV_Hamburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_Lindberg",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/HSV_Hamburg"
+        ]
+    ]
+}

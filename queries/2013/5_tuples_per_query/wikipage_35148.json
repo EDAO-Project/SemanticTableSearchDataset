@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_NFL_season",
+            "http://dbpedia.org/resource/Cincinnati_Bengals",
+            "http://dbpedia.org/resource/Minnesota_Vikings",
+            "http://dbpedia.org/resource/Monday_Night_Football"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_NFL_season",
+            "http://dbpedia.org/resource/History_of_the_Houston_Oilers",
+            "http://dbpedia.org/resource/San_Francisco_49ers",
+            "http://dbpedia.org/resource/NFL_on_NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_NFL_season",
+            "http://dbpedia.org/resource/Detroit_Lions",
+            "http://dbpedia.org/resource/Miami_Dolphins",
+            "http://dbpedia.org/resource/ESPN_Sunday_Night_Football"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_NFL_season",
+            "http://dbpedia.org/resource/Dallas_Cowboys",
+            "http://dbpedia.org/resource/Arizona_Cardinals",
+            "http://dbpedia.org/resource/Monday_Night_Football"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_NFL_season",
+            "http://dbpedia.org/resource/Denver_Broncos",
+            "http://dbpedia.org/resource/Detroit_Lions",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Honda_LPGA_Thailand",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Ai_Miyazato"
+        ]
+    ]
+}

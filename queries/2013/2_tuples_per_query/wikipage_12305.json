@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Silvretta_Alps",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Piz_Linard"
+        ],
+        [
+            "http://dbpedia.org/resource/Samnaun_Alps",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Muttler"
+        ]
+    ]
+}

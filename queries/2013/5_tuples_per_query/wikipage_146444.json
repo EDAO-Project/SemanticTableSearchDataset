@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bouconville-sur-Madt",
+            "http://dbpedia.org/resource/Bouquemont",
+            "http://dbpedia.org/resource/Boviolles"
+        ],
+        [
+            "http://dbpedia.org/resource/Chonville-Malaumont",
+            "http://dbpedia.org/resource/Commercy",
+            "http://dbpedia.org/resource/Courcelles-en-Barrois"
+        ],
+        [
+            "http://dbpedia.org/resource/Dompcevrin",
+            "http://dbpedia.org/resource/Dompierre-aux-Bois",
+            "http://dbpedia.org/resource/Erneville-aux-Bois"
+        ],
+        [
+            "http://dbpedia.org/resource/Lahaymeix",
+            "http://dbpedia.org/resource/Lahayville",
+            "http://dbpedia.org/resource/Lamorville"
+        ],
+        [
+            "http://dbpedia.org/resource/Maizey",
+            "http://dbpedia.org/resource/Marson-sur-Barboure",
+            "http://dbpedia.org/resource/Mauvages"
+        ]
+    ]
+}

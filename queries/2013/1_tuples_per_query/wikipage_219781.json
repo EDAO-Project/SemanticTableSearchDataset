@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_Reid",
+            "http://dbpedia.org/resource/1980_United_States_Census",
+            "http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate"
+        ]
+    ]
+}

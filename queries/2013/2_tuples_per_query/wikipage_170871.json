@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeff_Gordon",
+            "http://dbpedia.org/resource/Hendrick_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Regan_Smith",
+            "http://dbpedia.org/resource/Furniture_Row_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_11",
+            "http://dbpedia.org/resource/Sumter_County,_Alabama",
+            "http://dbpedia.org/resource/Interstate_59"
+        ]
+    ]
+}

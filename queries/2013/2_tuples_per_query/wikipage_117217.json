@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baldev_Singh",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Jawaharlal_Nehru"
+        ],
+        [
+            "http://dbpedia.org/resource/Kailash_Nath_Katju",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Jawaharlal_Nehru"
+        ]
+    ]
+}

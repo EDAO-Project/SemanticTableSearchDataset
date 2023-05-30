@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_Humanitarian_Bowl",
+            "http://dbpedia.org/resource/1999_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/1999_Louisville_Cardinals_football_team",
+            "http://dbpedia.org/resource/Albertsons_Stadium",
+            "http://dbpedia.org/resource/Boise,_Idaho",
+            "http://dbpedia.org/resource/Dirk_Koetter"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Humanitarian_Bowl",
+            "http://dbpedia.org/resource/2000_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/2000_UTEP_Miners_football_team",
+            "http://dbpedia.org/resource/Albertsons_Stadium",
+            "http://dbpedia.org/resource/Boise,_Idaho",
+            "http://dbpedia.org/resource/Dirk_Koetter"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Humanitarian_Bowl",
+            "http://dbpedia.org/resource/2002_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/2002_Iowa_State_Cyclones_football_team",
+            "http://dbpedia.org/resource/Albertsons_Stadium",
+            "http://dbpedia.org/resource/Boise,_Idaho",
+            "http://dbpedia.org/resource/Dan_Hawkins"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Fort_Worth_Bowl",
+            "http://dbpedia.org/resource/2003_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/2003_TCU_Horned_Frogs_football_team",
+            "http://dbpedia.org/resource/Amon_G._Carter_Stadium",
+            "http://dbpedia.org/resource/Fort_Worth,_Texas",
+            "http://dbpedia.org/resource/Dan_Hawkins"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Liberty_Bowl",
+            "http://dbpedia.org/resource/2004_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/2004_Louisville_Cardinals_football_team",
+            "http://dbpedia.org/resource/Liberty_Bowl_Memorial_Stadium",
+            "http://dbpedia.org/resource/Memphis,_Tennessee",
+            "http://dbpedia.org/resource/Dan_Hawkins"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1955_Finnish_Cup",
+            "http://dbpedia.org/resource/FC_Haka",
+            "http://dbpedia.org/resource/Helsingin_Palloseura",
+            "http://dbpedia.org/resource/Helsinki_Olympic_Stadium",
+            "http://dbpedia.org/resource/Helsinki"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Finnish_Cup",
+            "http://dbpedia.org/resource/MYPA",
+            "http://dbpedia.org/resource/FC_Jazz",
+            "http://dbpedia.org/resource/Helsinki_Olympic_Stadium",
+            "http://dbpedia.org/resource/Helsinki"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Francis_Gymnasium",
+            "http://dbpedia.org/resource/Fencing_at_the_1904_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1920_Summer_Olympics",
+            "http://dbpedia.org/resource/Antwerp_Zoo",
+            "http://dbpedia.org/resource/Wrestling_at_the_1920_Summer_Olympics"
+        ]
+    ]
+}

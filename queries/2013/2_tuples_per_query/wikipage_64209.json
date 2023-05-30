@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Circuit_de_Nevers_Magny-Cours",
+            "http://dbpedia.org/resource/Atech_Grand_Prix",
+            "http://dbpedia.org/resource/2009_Magny-Cours_Superleague_Formula_round"
+        ],
+        [
+            "http://dbpedia.org/resource/Circuit_de_Nevers_Magny-Cours",
+            "http://dbpedia.org/resource/Azerti_Motorsport",
+            "http://dbpedia.org/resource/2009_Magny-Cours_Superleague_Formula_round"
+        ]
+    ]
+}

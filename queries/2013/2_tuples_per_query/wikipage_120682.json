@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Medieval_parish_churches_of_York",
+            "http://dbpedia.org/resource/North_Yorkshire",
+            "http://dbpedia.org/resource/Middle_Ages"
+        ],
+        [
+            "http://dbpedia.org/resource/Ireby_Old_Church",
+            "http://dbpedia.org/resource/Cumbria",
+            "http://dbpedia.org/resource/Chancel"
+        ]
+    ]
+}

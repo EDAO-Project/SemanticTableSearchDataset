@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Addy",
+            "http://dbpedia.org/resource/Philadelphia_White_Stockings",
+            "http://dbpedia.org/resource/Outfielder"
+        ]
+    ]
+}

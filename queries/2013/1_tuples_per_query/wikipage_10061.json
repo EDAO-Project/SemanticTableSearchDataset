@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nefermaat",
+            "http://dbpedia.org/resource/Khufu",
+            "http://dbpedia.org/resource/Fourth_Dynasty_of_Egypt",
+            "http://dbpedia.org/resource/Sneferu"
+        ]
+    ]
+}

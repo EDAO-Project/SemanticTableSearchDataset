@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Tytler",
+            "http://dbpedia.org/resource/1_Gorkha_Rifles",
+            "http://dbpedia.org/resource/Indian_Rebellion_of_1857",
+            "http://dbpedia.org/resource/Jammu_and_Kashmir"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Channer",
+            "http://dbpedia.org/resource/Indian_Staff_Corps",
+            "http://dbpedia.org/resource/Perak_War",
+            "http://dbpedia.org/resource/Perak"
+        ],
+        [
+            "http://dbpedia.org/resource/Guy_Boisragon",
+            "http://dbpedia.org/resource/Indian_Staff_Corps",
+            "http://dbpedia.org/resource/Hunza-Nagar_Campaign",
+            "http://dbpedia.org/resource/Nilt"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Manners_Smith",
+            "http://dbpedia.org/resource/Indian_Staff_Corps",
+            "http://dbpedia.org/resource/Hunza-Nagar_Campaign",
+            "http://dbpedia.org/resource/Nilt"
+        ],
+        [
+            "http://dbpedia.org/resource/William_George_Walker",
+            "http://dbpedia.org/resource/4_Gorkha_Rifles",
+            "http://dbpedia.org/resource/Somaliland_Campaign",
+            "http://dbpedia.org/resource/Sanaag"
+        ]
+    ]
+}

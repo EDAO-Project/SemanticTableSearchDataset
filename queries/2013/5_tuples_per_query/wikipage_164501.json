@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_Knicks",
+            "http://dbpedia.org/resource/Lenny_Wilkens",
+            "http://dbpedia.org/resource/Madison_Square_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Sacramento_Kings",
+            "http://dbpedia.org/resource/Don_Kojis",
+            "http://dbpedia.org/resource/Cincinnati_Gardens"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_Wizards",
+            "http://dbpedia.org/resource/Don_Kojis",
+            "http://dbpedia.org/resource/Royal_Farms_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Hawks",
+            "http://dbpedia.org/resource/Lenny_Wilkens",
+            "http://dbpedia.org/resource/Hank_McCamish_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Celtics",
+            "http://dbpedia.org/resource/Dick_Snyder",
+            "http://dbpedia.org/resource/Boston_Garden"
+        ]
+    ]
+}

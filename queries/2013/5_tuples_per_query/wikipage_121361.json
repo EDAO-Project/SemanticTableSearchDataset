@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/Miguel_Batista",
+            "http://dbpedia.org/resource/Clay_Hensley",
+            "http://dbpedia.org/resource/Bobby_Parnell"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/R.A._Dickey",
+            "http://dbpedia.org/resource/Brad_Hand",
+            "http://dbpedia.org/resource/Manny_Acosta"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_Nationals",
+            "http://dbpedia.org/resource/Todd_Coffey",
+            "http://dbpedia.org/resource/R.A._Dickey",
+            "http://dbpedia.org/resource/Drew_Storen"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_Nationals",
+            "http://dbpedia.org/resource/Craig_Stammen",
+            "http://dbpedia.org/resource/Dale_Thayer",
+            "http://dbpedia.org/resource/Drew_Storen"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_Nationals",
+            "http://dbpedia.org/resource/Brad_Peacock",
+            "http://dbpedia.org/resource/Mike_Pelfrey",
+            "http://dbpedia.org/resource/Drew_Storen"
+        ]
+    ]
+}

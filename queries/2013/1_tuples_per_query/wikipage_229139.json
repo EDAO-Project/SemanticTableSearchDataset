@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australian_Masters",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Justin_Rose",
+            "http://dbpedia.org/resource/PGA_Tour_of_Australasia"
+        ]
+    ]
+}

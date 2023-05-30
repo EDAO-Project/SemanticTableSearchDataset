@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/WBMA-LD",
+            "http://dbpedia.org/resource/WIAT",
+            "http://dbpedia.org/resource/WVTM-TV",
+            "http://dbpedia.org/resource/WBRC"
+        ]
+    ]
+}

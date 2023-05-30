@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Flogging_Molly",
+            "http://dbpedia.org/resource/Drunken_Lullabies",
+            "http://dbpedia.org/resource/SideOneDummy_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Flogging_Molly",
+            "http://dbpedia.org/resource/Within_a_Mile_of_Home",
+            "http://dbpedia.org/resource/SideOneDummy_Records"
+        ]
+    ]
+}

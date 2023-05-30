@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boris_Gelfand",
+            "http://dbpedia.org/resource/Israel",
+            "http://dbpedia.org/resource/World_Chess_Championship_2012"
+        ]
+    ]
+}

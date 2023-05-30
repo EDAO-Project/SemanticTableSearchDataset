@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Harry_Aikines-Aryeetey",
+            "http://dbpedia.org/resource/Justyn_Warner",
+            "http://dbpedia.org/resource/Yohan_Blake"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Marek_Niit",
+            "http://dbpedia.org/resource/Bryan_Barnett",
+            "http://dbpedia.org/resource/Alexander_Nelson"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/David_Rudisha",
+            "http://dbpedia.org/resource/Jackson_Kivuva",
+            "http://dbpedia.org/resource/Abraham_Chepkirwok"
+        ],
+        [
+            "http://dbpedia.org/resource/5000_metres",
+            "http://dbpedia.org/resource/Tariku_Bekele",
+            "http://dbpedia.org/resource/Abreham_Cherkos",
+            "http://dbpedia.org/resource/Joseph_Ebuya"
+        ],
+        [
+            "http://dbpedia.org/resource/10,000_metres",
+            "http://dbpedia.org/resource/Ibrahim_Jeilan",
+            "http://dbpedia.org/resource/Joseph_Ebuya",
+            "http://dbpedia.org/resource/Aadam_Ismaeel_Khamis"
+        ]
+    ]
+}

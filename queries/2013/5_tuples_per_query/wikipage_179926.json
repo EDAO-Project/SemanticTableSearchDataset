@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cha_Woo-chan",
+            "http://dbpedia.org/resource/Samsung_Lions",
+            "http://dbpedia.org/resource/Korea_Baseball_Organization",
+            "http://dbpedia.org/resource/Gunsan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chang_Won-jun",
+            "http://dbpedia.org/resource/Korean_Police_Baseball_Team",
+            "http://dbpedia.org/resource/Korea_Baseball_Organization",
+            "http://dbpedia.org/resource/Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Chong_Tae-hyon",
+            "http://dbpedia.org/resource/Lotte_Giants",
+            "http://dbpedia.org/resource/Korea_Baseball_Organization",
+            "http://dbpedia.org/resource/Gunsan"
+        ],
+        [
+            "http://dbpedia.org/resource/Jang_Won-sam",
+            "http://dbpedia.org/resource/Samsung_Lions",
+            "http://dbpedia.org/resource/Korea_Baseball_Organization",
+            "http://dbpedia.org/resource/Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Noh_Kyung-eun",
+            "http://dbpedia.org/resource/Doosan_Bears",
+            "http://dbpedia.org/resource/Korea_Baseball_Organization",
+            "http://dbpedia.org/resource/Seoul"
+        ]
+    ]
+}

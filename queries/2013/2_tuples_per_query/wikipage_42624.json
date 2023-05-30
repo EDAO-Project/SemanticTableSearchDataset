@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sinbad:_Legend_of_the_Seven_Seas",
+            "http://dbpedia.org/resource/DreamWorks_Animation",
+            "http://dbpedia.org/resource/Brad_Pitt"
+        ],
+        [
+            "http://dbpedia.org/resource/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+            "http://dbpedia.org/resource/Walt_Disney_Pictures",
+            "http://dbpedia.org/resource/Gore_Verbinski"
+        ]
+    ]
+}

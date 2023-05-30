@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/FC_Barcelona_Handbol",
+            "http://dbpedia.org/resource/BM_Neptuno",
+            "http://dbpedia.org/resource/Xavier_Pascual"
+        ],
+        [
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/BM_Neptuno",
+            "http://dbpedia.org/resource/FC_Barcelona_Handbol",
+            "http://dbpedia.org/resource/Talant_Duyshebaev"
+        ],
+        [
+            "http://dbpedia.org/resource/Guadalajara",
+            "http://dbpedia.org/resource/FC_Barcelona_Handbol",
+            "http://dbpedia.org/resource/BM_Ciudad_Real",
+            "http://dbpedia.org/resource/Xavier_Pascual"
+        ],
+        [
+            "http://dbpedia.org/resource/Albacete",
+            "http://dbpedia.org/resource/FC_Barcelona_Handbol",
+            "http://dbpedia.org/resource/BM_Ciudad_Real",
+            "http://dbpedia.org/resource/Manolo_Cadenas"
+        ],
+        [
+            "http://dbpedia.org/resource/Salamanca",
+            "http://dbpedia.org/resource/BM_Ciudad_Real",
+            "http://dbpedia.org/resource/FC_Barcelona_Handbol",
+            "http://dbpedia.org/resource/Talant_Duyshebaev"
+        ]
+    ]
+}

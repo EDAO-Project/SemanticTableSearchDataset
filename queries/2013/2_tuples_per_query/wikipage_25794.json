@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Census_Johnston",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Samoa_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaron_Liffchak",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ]
+    ]
+}

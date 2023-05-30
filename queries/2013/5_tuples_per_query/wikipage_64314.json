@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angels_Flight",
+            "http://dbpedia.org/resource/Bunker_Hill,_Los_Angeles",
+            "http://dbpedia.org/resource/Funicular"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Salt_Box",
+            "http://dbpedia.org/resource/Bunker_Hill,_Los_Angeles",
+            "http://dbpedia.org/resource/Saltbox"
+        ],
+        [
+            "http://dbpedia.org/resource/California_Club",
+            "http://dbpedia.org/resource/Downtown_Los_Angeles",
+            "http://dbpedia.org/resource/Beaux-Arts_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Public_Library",
+            "http://dbpedia.org/resource/Downtown_Los_Angeles",
+            "http://dbpedia.org/resource/Bertram_Goodhue"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Athletic_Club",
+            "http://dbpedia.org/resource/Downtown_Los_Angeles",
+            "http://dbpedia.org/resource/Beaux-Arts_architecture"
+        ]
+    ]
+}

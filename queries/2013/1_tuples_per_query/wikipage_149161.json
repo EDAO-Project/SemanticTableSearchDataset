@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Altoona,_Pennsylvania",
+            "http://dbpedia.org/resource/Clearfield,_Pennsylvania",
+            "http://dbpedia.org/resource/WPSU-TV",
+            "http://dbpedia.org/resource/PBS"
+        ]
+    ]
+}

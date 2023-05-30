@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mont_Blanc",
+            "http://dbpedia.org/resource/Mont_Blanc_massif",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

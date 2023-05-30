@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Aerosmith",
+            "http://dbpedia.org/resource/Faith_No_More"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Aerosmith",
+            "http://dbpedia.org/resource/AC/DC"
+        ]
+    ]
+}

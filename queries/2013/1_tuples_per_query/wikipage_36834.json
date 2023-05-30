@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maria_Canins",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Jeannie_Longo",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Inga_Thompson",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

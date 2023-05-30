@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_Football_Club",
+            "http://dbpedia.org/resource/Football_Park",
+            "http://dbpedia.org/resource/Adelaide"
+        ]
+    ]
+}

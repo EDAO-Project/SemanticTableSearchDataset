@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Neil_Armstrong",
+            "http://dbpedia.org/resource/Apollo_11",
+            "http://dbpedia.org/resource/NASA",
+            "http://dbpedia.org/resource/Purdue_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Buzz_Aldrin",
+            "http://dbpedia.org/resource/Apollo_11",
+            "http://dbpedia.org/resource/United_States_Air_Force",
+            "http://dbpedia.org/resource/United_States_Military_Academy"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U_Thant_Island",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Uncatena_Island",
+            "http://dbpedia.org/resource/Elizabeth_Islands",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Ugljan",
+            "http://dbpedia.org/resource/Adriatic_Sea",
+            "http://dbpedia.org/resource/Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/Ujae_Atoll",
+            "http://dbpedia.org/resource/Ralik_Chain",
+            "http://dbpedia.org/resource/Marshall_Islands"
+        ],
+        [
+            "http://dbpedia.org/resource/Ujelang_Atoll",
+            "http://dbpedia.org/resource/Ralik_Chain",
+            "http://dbpedia.org/resource/Marshall_Islands"
+        ]
+    ]
+}

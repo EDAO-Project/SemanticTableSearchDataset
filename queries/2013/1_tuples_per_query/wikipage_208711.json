@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_LPGA_Tour",
+            "http://dbpedia.org/resource/Amy_Yang",
+            "http://dbpedia.org/resource/South_Korea"
+        ]
+    ]
+}

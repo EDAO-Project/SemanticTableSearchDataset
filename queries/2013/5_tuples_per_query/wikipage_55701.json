@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roberta_Bonanomi",
+            "http://dbpedia.org/resource/Aleksandra_Koliaseva",
+            "http://dbpedia.org/resource/Tea_Vikstedt-Nyman"
+        ],
+        [
+            "http://dbpedia.org/resource/Catherine_Marsal",
+            "http://dbpedia.org/resource/Maria_Canins",
+            "http://dbpedia.org/resource/Kathy_Watt"
+        ],
+        [
+            "http://dbpedia.org/resource/Michela_Fanini",
+            "http://dbpedia.org/resource/Kathy_Watt",
+            "http://dbpedia.org/resource/Luzia_Zberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabiana_Luperini",
+            "http://dbpedia.org/resource/Luzia_Zberg",
+            "http://dbpedia.org/resource/Roberta_Bonanomi"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabiana_Luperini",
+            "http://dbpedia.org/resource/Alessandra_Cappellotto",
+            "http://dbpedia.org/resource/Imelda_Chiappa"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lootera",
+            "http://dbpedia.org/resource/Balaji_Motion_Pictures",
+            "http://dbpedia.org/resource/Vikramaditya_Motwane",
+            "http://dbpedia.org/resource/Romance_film"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Way,_Way_Back",
+            "http://dbpedia.org/resource/Fox_Searchlight_Pictures",
+            "http://dbpedia.org/resource/Nat_Faxon",
+            "http://dbpedia.org/resource/Comedy-drama"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhaag_Milkha_Bhaag",
+            "http://dbpedia.org/resource/Reliance_Entertainment",
+            "http://dbpedia.org/resource/Rakeysh_Omprakash_Mehra",
+            "http://dbpedia.org/resource/Biographical_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Fruitvale_Station",
+            "http://dbpedia.org/resource/The_Weinstein_Company",
+            "http://dbpedia.org/resource/Ryan_Coogler",
+            "http://dbpedia.org/resource/Drama_film"
+        ],
+        [
+            "http://dbpedia.org/resource/V/H/S/2",
+            "http://dbpedia.org/resource/Magnolia_Pictures",
+            "http://dbpedia.org/resource/Adam_Wingard",
+            "http://dbpedia.org/resource/Horror_film"
+        ]
+    ]
+}

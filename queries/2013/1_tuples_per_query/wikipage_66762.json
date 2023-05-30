@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mongolia",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/120th_meridian_east"
+        ]
+    ]
+}

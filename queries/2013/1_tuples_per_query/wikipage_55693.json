@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baden_Masters",
+            "http://dbpedia.org/resource/Baden",
+            "http://dbpedia.org/resource/Brad_Gushue",
+            "http://dbpedia.org/resource/Andy_Kapp"
+        ]
+    ]
+}

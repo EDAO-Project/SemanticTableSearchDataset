@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/UMass_Minutemen_basketball",
+            "http://dbpedia.org/resource/Matt_Zunic",
+            "http://dbpedia.org/resource/New_York_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Detroit_Mercy",
+            "http://dbpedia.org/resource/Bob_Calihan",
+            "http://dbpedia.org/resource/Western_Kentucky_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Kentucky",
+            "http://dbpedia.org/resource/Adolph_Rupp",
+            "http://dbpedia.org/resource/Ohio_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Kentucky_University",
+            "http://dbpedia.org/resource/Edgar_Diddle",
+            "http://dbpedia.org/resource/Butler_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Cincinnati",
+            "http://dbpedia.org/resource/Ed_Jucker",
+            "http://dbpedia.org/resource/Ohio_State_University"
+        ]
+    ]
+}

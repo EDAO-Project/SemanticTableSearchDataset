@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jan_Ceulemans",
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Ceulemans",
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Ceulemans",
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Juan_Lozano",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Marc_Degryse",
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/Belgium"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nathan_Appleton_Residence",
+            "http://dbpedia.org/resource/Beacon_Street",
+            "http://dbpedia.org/resource/Nathan_Appleton"
+        ]
+    ]
+}

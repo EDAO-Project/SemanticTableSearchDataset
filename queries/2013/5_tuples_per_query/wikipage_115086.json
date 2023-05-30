@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daniel_Amokachi",
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/Nigeria"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Amokachi",
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/Nigeria"
+        ],
+        [
+            "http://dbpedia.org/resource/Godwin_Okpara",
+            "http://dbpedia.org/resource/SC_Eendracht_Aalst",
+            "http://dbpedia.org/resource/Nigeria"
+        ],
+        [
+            "http://dbpedia.org/resource/Celestine_Babayaro",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/Nigeria"
+        ],
+        [
+            "http://dbpedia.org/resource/Eric_Addo",
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/Ghana"
+        ]
+    ]
+}

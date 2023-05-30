@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andover_Newton_Theological_School",
+            "http://dbpedia.org/resource/Newton,_Massachusetts",
+            "http://dbpedia.org/resource/Nonprofit_organization",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education"
+        ],
+        [
+            "http://dbpedia.org/resource/Babson_College",
+            "http://dbpedia.org/resource/Wellesley,_Massachusetts",
+            "http://dbpedia.org/resource/Nonprofit_organization",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Franklin_Institute_of_Technology",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Nonprofit_organization",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education"
+        ],
+        [
+            "http://dbpedia.org/resource/Berklee_College_of_Music",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Nonprofit_organization",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkshire_Community_College",
+            "http://dbpedia.org/resource/Pittsfield,_Massachusetts",
+            "http://dbpedia.org/resource/Public_university",
+            "http://dbpedia.org/resource/Associate_degree"
+        ]
+    ]
+}

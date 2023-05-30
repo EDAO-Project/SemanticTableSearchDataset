@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1972_NHL_Amateur_Draft",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Toronto_Marlboros",
+            "http://dbpedia.org/resource/Ontario_Hockey_Association"
+        ]
+    ]
+}

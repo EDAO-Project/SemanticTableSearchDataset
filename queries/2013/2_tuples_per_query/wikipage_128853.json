@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2_Pallas",
+            "http://dbpedia.org/resource/Bremen",
+            "http://dbpedia.org/resource/Heinrich_Wilhelm_Matthias_Olbers"
+        ],
+        [
+            "http://dbpedia.org/resource/3_Juno",
+            "http://dbpedia.org/resource/Lilienthal,_Lower_Saxony",
+            "http://dbpedia.org/resource/Karl_Ludwig_Harding"
+        ]
+    ]
+}

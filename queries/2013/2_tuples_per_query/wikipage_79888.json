@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Callahan",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephan_Campbell",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Trinidad_and_Tobago"
+        ]
+    ]
+}

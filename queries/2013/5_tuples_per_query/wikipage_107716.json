@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_number-one_Billboard_Top_Latin_Songs_from_the_1980s",
+            "http://dbpedia.org/resource/Lo_Mejor_de_Tu_Vida",
+            "http://dbpedia.org/resource/Julio_Iglesias"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_number-one_Billboard_Top_Latin_Songs_from_the_1980s",
+            "http://dbpedia.org/resource/Ay_Amor",
+            "http://dbpedia.org/resource/Ana_Gabriel"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_number-one_Billboard_Top_Latin_Songs_from_the_1980s",
+            "http://dbpedia.org/resource/La_Incondicional",
+            "http://dbpedia.org/resource/Luis_Miguel"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_number-one_Billboard_Top_Latin_Songs_from_the_1980s",
+            "http://dbpedia.org/resource/Simplemente_Amigos",
+            "http://dbpedia.org/resource/Ana_Gabriel"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_number-one_Billboard_Hot_Latin_Tracks_of_1990",
+            "http://dbpedia.org/resource/Tengo_Todo_Excepto_a_Ti",
+            "http://dbpedia.org/resource/Luis_Miguel"
+        ]
+    ]
+}

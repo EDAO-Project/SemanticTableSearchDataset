@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Economy_of_the_European_Union",
+            "http://dbpedia.org/resource/Euronext",
+            "http://dbpedia.org/resource/Amsterdam"
+        ],
+        [
+            "http://dbpedia.org/resource/Economy_of_the_European_Union",
+            "http://dbpedia.org/resource/GXG_Markets",
+            "http://dbpedia.org/resource/Horsens"
+        ],
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Tirana_Stock_Exchange",
+            "http://dbpedia.org/resource/Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Armenian_Stock_Exchange",
+            "http://dbpedia.org/resource/Yerevan"
+        ],
+        [
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Baku_Stock_Exchange",
+            "http://dbpedia.org/resource/Baku"
+        ]
+    ]
+}

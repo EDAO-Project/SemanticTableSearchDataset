@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boys_on_the_Side",
+            "http://dbpedia.org/resource/Herbert_Ross",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Butterfly_Kiss",
+            "http://dbpedia.org/resource/Michael_Winterbottom",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Celluloid_Closet",
+            "http://dbpedia.org/resource/Rob_Epstein",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Doom_Generation",
+            "http://dbpedia.org/resource/Gregg_Araki",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Gonin",
+            "http://dbpedia.org/resource/Takashi_Ishii",
+            "http://dbpedia.org/resource/Japan"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denali",
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Alaska_Range"
+        ],
+        [
+            "http://dbpedia.org/resource/Pico_de_Orizaba",
+            "http://dbpedia.org/resource/Puebla",
+            "http://dbpedia.org/resource/Trans-Mexican_Volcanic_Belt"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Mitchell",
+            "http://dbpedia.org/resource/North_Carolina",
+            "http://dbpedia.org/resource/Blue_Ridge_Mountains"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Elbert",
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Sawatch_Range"
+        ],
+        [
+            "http://dbpedia.org/resource/Pico_Duarte",
+            "http://dbpedia.org/resource/Dominican_Republic",
+            "http://dbpedia.org/resource/Hispaniola"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appleseed_Ex_Machina",
+            "http://dbpedia.org/resource/Shinji_Aramaki",
+            "http://dbpedia.org/resource/Digital_Frontier"
+        ],
+        [
+            "http://dbpedia.org/resource/Bee_Movie",
+            "http://dbpedia.org/resource/Simon_J._Smith",
+            "http://dbpedia.org/resource/DreamWorks_Animation"
+        ],
+        [
+            "http://dbpedia.org/resource/Bleach:_The_DiamondDust_Rebellion",
+            "http://dbpedia.org/resource/Noriyuki_Abe",
+            "http://dbpedia.org/resource/Aniplex"
+        ],
+        [
+            "http://dbpedia.org/resource/Case_Closed:_Jolly_Roger_in_the_Deep_Azure",
+            "http://dbpedia.org/resource/Yasuichiro_Yamamoto",
+            "http://dbpedia.org/resource/TMS_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Marvel_Animated_Features",
+            "http://dbpedia.org/resource/Jay_Oliva",
+            "http://dbpedia.org/resource/Marvel_Entertainment"
+        ]
+    ]
+}

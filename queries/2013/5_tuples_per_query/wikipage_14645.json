@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Kirk_Saarloos",
+            "http://dbpedia.org/resource/Josh_Towers",
+            "http://dbpedia.org/resource/Huston_Street"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Joe_Blanton",
+            "http://dbpedia.org/resource/Ted_Lilly",
+            "http://dbpedia.org/resource/Huston_Street"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Scott_Schoeneweis",
+            "http://dbpedia.org/resource/Todd_Wellemeyer",
+            "http://dbpedia.org/resource/Miguel_Batista"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Sergio_Mitre",
+            "http://dbpedia.org/resource/Roy_Halladay",
+            "http://dbpedia.org/resource/Ryan_Dempster"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Ted_Lilly",
+            "http://dbpedia.org/resource/Jason_Marquis",
+            "http://dbpedia.org/resource/Miguel_Batista"
+        ]
+    ]
+}

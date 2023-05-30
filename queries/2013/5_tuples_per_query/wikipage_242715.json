@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Memoirs_of_the_Twentieth_Century",
+            "http://dbpedia.org/resource/Samuel_Madden",
+            "http://dbpedia.org/resource/Guardian_angel"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Time_Machine",
+            "http://dbpedia.org/resource/H._G._Wells",
+            "http://dbpedia.org/resource/Morlock"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Sound_of_Thunder",
+            "http://dbpedia.org/resource/Ray_Bradbury",
+            "http://dbpedia.org/resource/Butterfly_effect"
+        ],
+        [
+            "http://dbpedia.org/resource/Bring_the_Jubilee",
+            "http://dbpedia.org/resource/Ward_Moore",
+            "http://dbpedia.org/resource/Battle_of_Gettysburg"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Stars_My_Destination",
+            "http://dbpedia.org/resource/Alfred_Bester",
+            "http://dbpedia.org/resource/Teleportation"
+        ]
+    ]
+}

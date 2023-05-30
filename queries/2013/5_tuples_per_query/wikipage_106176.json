@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chris_Keane",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Irish_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Eoin_Reddan",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Irish_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaun_Berne",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Australian_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Sexton",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Irish_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Fergus_McFadden",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Irish_Rugby_Football_Union"
+        ]
+    ]
+}

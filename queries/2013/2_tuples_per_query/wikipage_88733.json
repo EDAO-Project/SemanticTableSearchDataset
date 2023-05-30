@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KDAF",
+            "http://dbpedia.org/resource/The_WB",
+            "http://dbpedia.org/resource/KDFW"
+        ],
+        [
+            "http://dbpedia.org/resource/WATL",
+            "http://dbpedia.org/resource/MyNetworkTV",
+            "http://dbpedia.org/resource/WAGA-TV"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mitsubishi_Electric_Championship_at_Hualalai",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Don_January"
+        ],
+        [
+            "http://dbpedia.org/resource/MONY_Arizona_Classic",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Billy_Casper"
+        ]
+    ]
+}

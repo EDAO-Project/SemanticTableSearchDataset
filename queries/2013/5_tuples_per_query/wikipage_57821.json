@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hong_Kong_Rangers_FC",
+            "http://dbpedia.org/resource/Sham_Shui_Po_Sports_Ground",
+            "http://dbpedia.org/resource/Sham_Shui_Po"
+        ],
+        [
+            "http://dbpedia.org/resource/Citizen_AA",
+            "http://dbpedia.org/resource/Tsing_Yi_Sports_Ground",
+            "http://dbpedia.org/resource/Tsing_Yi"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastern_Sports_Club",
+            "http://dbpedia.org/resource/Shing_Mun_Valley_Sports_Ground",
+            "http://dbpedia.org/resource/Tsuen_Wan"
+        ],
+        [
+            "http://dbpedia.org/resource/Happy_Valley_AA",
+            "http://dbpedia.org/resource/Tai_Po_Sports_Ground",
+            "http://dbpedia.org/resource/Tai_Po"
+        ],
+        [
+            "http://dbpedia.org/resource/Kitchee_SC",
+            "http://dbpedia.org/resource/Mong_Kok_Stadium",
+            "http://dbpedia.org/resource/Mong_Kok"
+        ]
+    ]
+}

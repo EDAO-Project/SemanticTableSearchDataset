@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albuquerque,_New_Mexico",
+            "http://dbpedia.org/resource/New_Mexico",
+            "http://dbpedia.org/resource/Bernalillo_County,_New_Mexico",
+            "http://dbpedia.org/resource/Albuquerque_metropolitan_area"
+        ]
+    ]
+}

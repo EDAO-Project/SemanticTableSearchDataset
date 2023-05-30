@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brendon_McCullum",
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/Royal_Challengers_Bangalore",
+            "http://dbpedia.org/resource/M._Chinnaswamy_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Hussey",
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/Kings_XI_Punjab",
+            "http://dbpedia.org/resource/Punjab_Cricket_Association_IS_Bindra_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Symonds",
+            "http://dbpedia.org/resource/Deccan_Chargers",
+            "http://dbpedia.org/resource/Rajasthan_Royals",
+            "http://dbpedia.org/resource/Rajiv_Gandhi_International_Cricket_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Gilchrist",
+            "http://dbpedia.org/resource/Deccan_Chargers",
+            "http://dbpedia.org/resource/Mumbai_Indians",
+            "http://dbpedia.org/resource/Wankhede_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanath_Jayasuriya",
+            "http://dbpedia.org/resource/Mumbai_Indians",
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/Wankhede_Stadium"
+        ]
+    ]
+}

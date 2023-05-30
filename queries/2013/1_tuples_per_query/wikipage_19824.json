@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Xica",
+            "http://dbpedia.org/resource/Carlos_Diegues"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Coisevaux",
+            "http://dbpedia.org/resource/Conflans-sur-Lanterne",
+            "http://dbpedia.org/resource/Corbenay",
+            "http://dbpedia.org/resource/Corravillers"
+        ],
+        [
+            "http://dbpedia.org/resource/Frahier-et-Chatebier",
+            "http://dbpedia.org/resource/Francalmont",
+            "http://dbpedia.org/resource/Franchevelle",
+            "http://dbpedia.org/resource/Fresse"
+        ],
+        [
+            "http://dbpedia.org/resource/Genevreuille",
+            "http://dbpedia.org/resource/Genevrey",
+            "http://dbpedia.org/resource/Georfans",
+            "http://dbpedia.org/resource/Girefontaine"
+        ],
+        [
+            "http://dbpedia.org/resource/Les_Fessey",
+            "http://dbpedia.org/resource/Les_Magny",
+            "http://dbpedia.org/resource/Linexert",
+            "http://dbpedia.org/resource/Lomont"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyoffans",
+            "http://dbpedia.org/resource/Magnivray",
+            "http://dbpedia.org/resource/Magnoncourt",
+            "http://dbpedia.org/resource/Magny-Danigon"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lex_Schoenmaker",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Feyenoord"
+        ]
+    ]
+}

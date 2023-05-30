@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fort_Worth,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Fort_Worth_Convention_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Austin,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Frank_Erwin_Center"
+        ]
+    ]
+}

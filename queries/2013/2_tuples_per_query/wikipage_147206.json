@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Vance_Worley",
+            "http://dbpedia.org/resource/Edwin_Jackson",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Ross_Detwiler",
+            "http://dbpedia.org/resource/Cole_Hamels",
+            "http://dbpedia.org/resource/Tyler_Clippard"
+        ]
+    ]
+}

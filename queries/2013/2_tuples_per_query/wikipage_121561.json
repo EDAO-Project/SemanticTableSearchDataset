@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lacey,_Washington",
+            "http://dbpedia.org/resource/Macon,_Georgia",
+            "http://dbpedia.org/resource/Adams_Center,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Calera,_Alabama",
+            "http://dbpedia.org/resource/Reading,_Massachusetts",
+            "http://dbpedia.org/resource/Metairie,_Louisiana"
+        ]
+    ]
+}

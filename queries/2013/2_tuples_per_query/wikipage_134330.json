@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apgar_Fire_Lookout",
+            "http://dbpedia.org/resource/Lake_McDonald",
+            "http://dbpedia.org/resource/West_Glacier,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Coal_Creek_Patrol_Cabin",
+            "http://dbpedia.org/resource/U.S._Route_2",
+            "http://dbpedia.org/resource/West_Glacier,_Montana"
+        ]
+    ]
+}

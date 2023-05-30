@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2007_in_golf",
+            "http://dbpedia.org/resource/Paula_Creamer",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_golf",
+            "http://dbpedia.org/resource/Lorena_Ochoa",
+            "http://dbpedia.org/resource/Mexico"
+        ]
+    ]
+}

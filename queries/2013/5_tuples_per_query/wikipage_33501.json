@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chancellor_of_the_Exchequer",
+            "http://dbpedia.org/resource/Bonar_Law",
+            "http://dbpedia.org/resource/Leader_of_the_House_of_Commons"
+        ],
+        [
+            "http://dbpedia.org/resource/Lord_Chancellor",
+            "http://dbpedia.org/resource/F._E._Smith,_1st_Earl_of_Birkenhead",
+            "http://dbpedia.org/resource/Earl_of_Birkenhead"
+        ],
+        [
+            "http://dbpedia.org/resource/Lord_President_of_the_Council",
+            "http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston",
+            "http://dbpedia.org/resource/Leader_of_the_House_of_Lords"
+        ],
+        [
+            "http://dbpedia.org/resource/Lord_Privy_Seal",
+            "http://dbpedia.org/resource/Bonar_Law",
+            "http://dbpedia.org/resource/Leader_of_the_House_of_Commons"
+        ],
+        [
+            "http://dbpedia.org/resource/Lord_Privy_Seal",
+            "http://dbpedia.org/resource/Austen_Chamberlain",
+            "http://dbpedia.org/resource/Leader_of_the_House_of_Commons"
+        ]
+    ]
+}

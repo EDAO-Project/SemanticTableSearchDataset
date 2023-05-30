@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Centerville,_Alabama",
+            "http://dbpedia.org/resource/New_Market,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Fort_Yukon,_Alaska",
+            "http://dbpedia.org/resource/Prospect_Creek,_Alaska"
+        ]
+    ]
+}

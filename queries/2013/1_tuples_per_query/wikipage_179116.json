@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gabor_Boritt",
+            "http://dbpedia.org/resource/James_L._Swanson",
+            "http://dbpedia.org/resource/Gettysburg_Address"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wannsee",
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Modern_pentathlon_at_the_1936_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Wannsee",
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Shooting_at_the_1936_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Ben-Gurion",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Provisional_government_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Pinhas_Lavon",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Fifth_government_of_Israel"
+        ]
+    ]
+}

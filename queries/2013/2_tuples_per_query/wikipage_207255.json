@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Bouveng",
+            "http://dbpedia.org/resource/Gold_Coast_Chargers",
+            "http://dbpedia.org/resource/Halifax_RLFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Adrian_Vowles",
+            "http://dbpedia.org/resource/Gold_Coast_Chargers",
+            "http://dbpedia.org/resource/Castleford_Tigers"
+        ]
+    ]
+}

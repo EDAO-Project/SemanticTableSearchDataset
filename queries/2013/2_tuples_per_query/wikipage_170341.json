@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mat_Campbell",
+            "http://dbpedia.org/resource/Retirement",
+            "http://dbpedia.org/resource/Illawarra_Hawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_Hoare",
+            "http://dbpedia.org/resource/Retirement",
+            "http://dbpedia.org/resource/Gold_Coast_Blaze"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Liberal_Forum",
+            "http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Open_Vlaamse_Liberalen_en_Democraten",
+            "http://dbpedia.org/resource/Alliance_of_Liberals_and_Democrats_for_Europe_Party"
+        ]
+    ]
+}

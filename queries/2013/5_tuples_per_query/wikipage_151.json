@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marques_Bragg",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Providence_College",
+            "http://dbpedia.org/resource/Basketball_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Terrell_Brandon",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Oregon_Ducks",
+            "http://dbpedia.org/resource/Basketball_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Brooks",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/UC_Irvine_Anteaters",
+            "http://dbpedia.org/resource/Basketball_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Myron_Brown",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Slippery_Rock_University_of_Pennsylvania",
+            "http://dbpedia.org/resource/Basketball_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_Carter",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Hawaii",
+            "http://dbpedia.org/resource/Basketball_positions"
+        ]
+    ]
+}

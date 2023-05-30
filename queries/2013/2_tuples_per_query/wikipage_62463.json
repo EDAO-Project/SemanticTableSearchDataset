@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Green_algae",
+            "http://dbpedia.org/resource/Chlorophyta",
+            "http://dbpedia.org/resource/Green_algae"
+        ],
+        [
+            "http://dbpedia.org/resource/Green_algae",
+            "http://dbpedia.org/resource/Charophyta",
+            "http://dbpedia.org/resource/Green_algae"
+        ]
+    ]
+}

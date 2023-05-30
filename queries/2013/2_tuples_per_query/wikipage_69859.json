@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1986_in_music",
+            "http://dbpedia.org/resource/Whispering_Jack",
+            "http://dbpedia.org/resource/John_Farnham"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_in_music",
+            "http://dbpedia.org/resource/Bat_Out_of_Hell",
+            "http://dbpedia.org/resource/Meat_Loaf"
+        ]
+    ]
+}

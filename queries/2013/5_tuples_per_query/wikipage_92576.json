@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southern_Pacific_Transportation_Company",
+            "http://dbpedia.org/resource/Rio_Grande_Industries",
+            "http://dbpedia.org/resource/Union_Pacific_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Atchison,_Topeka_and_Santa_Fe_Railway",
+            "http://dbpedia.org/resource/Burlington_Northern_Railroad",
+            "http://dbpedia.org/resource/BNSF_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Pennsylvania_Railroad",
+            "http://dbpedia.org/resource/New_York_Central_Railroad",
+            "http://dbpedia.org/resource/Amtrak"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Central_Railroad",
+            "http://dbpedia.org/resource/Pennsylvania_Railroad",
+            "http://dbpedia.org/resource/Amtrak"
+        ],
+        [
+            "http://dbpedia.org/resource/Baltimore_and_Ohio_Railroad",
+            "http://dbpedia.org/resource/Chesapeake_and_Ohio_Railway",
+            "http://dbpedia.org/resource/CSX_Transportation"
+        ]
+    ]
+}

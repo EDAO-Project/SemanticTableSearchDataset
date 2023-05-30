@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Man_Apart",
+            "http://dbpedia.org/resource/F._Gary_Gray",
+            "http://dbpedia.org/resource/Vin_Diesel"
+        ],
+        [
+            "http://dbpedia.org/resource/2_Fast_2_Furious",
+            "http://dbpedia.org/resource/John_Singleton",
+            "http://dbpedia.org/resource/Paul_Walker"
+        ]
+    ]
+}

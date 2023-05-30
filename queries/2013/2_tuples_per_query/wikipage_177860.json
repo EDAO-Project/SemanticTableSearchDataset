@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Franz_Beckenbauer",
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/West_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Igor_Chislenko",
+            "http://dbpedia.org/resource/FC_Dynamo_Moscow",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ]
+    ]
+}

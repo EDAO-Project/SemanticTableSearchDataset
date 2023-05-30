@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cerberus_Capital_Management",
+            "http://dbpedia.org/resource/Private_equity",
+            "http://dbpedia.org/resource/McKesson_Corporation",
+            "http://dbpedia.org/resource/Health_care",
+            "http://dbpedia.org/resource/Science_Applications_International_Corporation",
+            "http://dbpedia.org/resource/Technology"
+        ]
+    ]
+}

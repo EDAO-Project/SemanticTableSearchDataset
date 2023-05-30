@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lythraceae",
+            "http://dbpedia.org/resource/Pemphis",
+            "http://dbpedia.org/resource/Pemphis_acidula"
+        ],
+        [
+            "http://dbpedia.org/resource/Euphorbiaceae",
+            "http://dbpedia.org/resource/Excoecaria",
+            "http://dbpedia.org/resource/Excoecaria_agallocha"
+        ],
+        [
+            "http://dbpedia.org/resource/Meliaceae",
+            "http://dbpedia.org/resource/Xylocarpus",
+            "http://dbpedia.org/resource/Xylocarpus_granatum"
+        ],
+        [
+            "http://dbpedia.org/resource/Bignoniaceae",
+            "http://dbpedia.org/resource/Dolichandrone",
+            "http://dbpedia.org/resource/Dolichandrone_spathacea"
+        ],
+        [
+            "http://dbpedia.org/resource/Sterculiaceae",
+            "http://dbpedia.org/resource/Heritiera",
+            "http://dbpedia.org/resource/Heritiera_littoralis"
+        ]
+    ]
+}

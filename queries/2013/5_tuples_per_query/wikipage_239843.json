@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shionogi",
+            "http://dbpedia.org/resource/Masami_Kageyama",
+            "http://dbpedia.org/resource/Lola_Cars",
+            "http://dbpedia.org/resource/Mugen_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Shionogi",
+            "http://dbpedia.org/resource/Ralph_Firman",
+            "http://dbpedia.org/resource/Lola_Cars",
+            "http://dbpedia.org/resource/Mugen_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Lemoned_Plant",
+            "http://dbpedia.org/resource/Norberto_Fontana",
+            "http://dbpedia.org/resource/Reynard_Motorsport",
+            "http://dbpedia.org/resource/Mugen_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Lemoned_Plant",
+            "http://dbpedia.org/resource/Satoshi_Motoyama",
+            "http://dbpedia.org/resource/Reynard_Motorsport",
+            "http://dbpedia.org/resource/Mugen_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Cosmo_Oil_Company",
+            "http://dbpedia.org/resource/Hideki_Noda",
+            "http://dbpedia.org/resource/Lola_Cars",
+            "http://dbpedia.org/resource/Mugen_Motorsports"
+        ]
+    ]
+}

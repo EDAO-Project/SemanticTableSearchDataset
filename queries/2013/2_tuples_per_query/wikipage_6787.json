@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Plymouth-Canton_Educational_Park",
+            "http://dbpedia.org/resource/Canton,_Michigan",
+            "http://dbpedia.org/resource/Western_Lakes_Activities_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Wayne_Memorial_High_School",
+            "http://dbpedia.org/resource/Wayne,_Michigan",
+            "http://dbpedia.org/resource/Western_Lakes_Activities_Association"
+        ]
+    ]
+}

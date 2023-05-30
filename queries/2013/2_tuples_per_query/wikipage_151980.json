@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Strachan",
+            "http://dbpedia.org/resource/Cowichan-Newcastle",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Rupert_Haggen",
+            "http://dbpedia.org/resource/Grand_Forks-Greenwood",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party"
+        ]
+    ]
+}

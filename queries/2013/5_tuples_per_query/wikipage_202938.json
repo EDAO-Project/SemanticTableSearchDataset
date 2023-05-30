@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_in_poetry",
+            "http://dbpedia.org/resource/Cynthia_Lowen",
+            "http://dbpedia.org/resource/Nikky_Finney"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_in_poetry",
+            "http://dbpedia.org/resource/Idra_Novey",
+            "http://dbpedia.org/resource/Patricia_Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_in_poetry",
+            "http://dbpedia.org/resource/James_Grinwis",
+            "http://dbpedia.org/resource/Eleni_Sikelianos"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_in_poetry",
+            "http://dbpedia.org/resource/Julie_Carr",
+            "http://dbpedia.org/resource/Eileen_Myles"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_in_poetry",
+            "http://dbpedia.org/resource/Colin_Cheney",
+            "http://dbpedia.org/resource/David_Wojahn"
+        ]
+    ]
+}

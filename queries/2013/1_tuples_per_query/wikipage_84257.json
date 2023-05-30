@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1943_NFL_draft",
+            "http://dbpedia.org/resource/Marvin_Bass",
+            "http://dbpedia.org/resource/Detroit_Lions"
+        ]
+    ]
+}

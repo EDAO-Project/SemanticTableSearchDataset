@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeanette_Ottesen",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/List_of_Danish_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Ingvild_Snildal",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/List_of_Norwegian_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Aurore_Mongel",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/List_of_French_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Annika_Mehlhorn",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/List_of_German_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Kimberly_Buys",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/List_of_Belgian_records_in_swimming"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Gormlie",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Belgian_Pro_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierre_Sinibaldi",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Belgian_Pro_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Hippolyte_Van_den_Bosch",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Belgian_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Urbain_Braems",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Belgian_Pro_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_Croon",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Belgian_Cup"
+        ]
+    ]
+}

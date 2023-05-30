@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rasmus_Lindgren",
+            "http://dbpedia.org/resource/Free_agent",
+            "http://dbpedia.org/resource/FC_Groningen"
+        ]
+    ]
+}

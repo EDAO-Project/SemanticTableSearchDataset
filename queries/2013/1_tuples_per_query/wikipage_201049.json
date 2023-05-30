@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patrick_Kane",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Blackhawks",
+            "http://dbpedia.org/resource/London_Knights"
+        ]
+    ]
+}

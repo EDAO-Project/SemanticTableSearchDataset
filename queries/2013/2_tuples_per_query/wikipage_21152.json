@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Challenge_Tour",
+            "http://dbpedia.org/resource/Espen_Kofstad",
+            "http://dbpedia.org/resource/Norway"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Challenge_Tour",
+            "http://dbpedia.org/resource/Tommy_Fleetwood",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

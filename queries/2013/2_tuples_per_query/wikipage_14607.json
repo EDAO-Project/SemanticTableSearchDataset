@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Talladega_County,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Muscogee"
+        ],
+        [
+            "http://dbpedia.org/resource/Tallahatchie_County,_Mississippi",
+            "http://dbpedia.org/resource/Mississippi",
+            "http://dbpedia.org/resource/Choctaw"
+        ]
+    ]
+}

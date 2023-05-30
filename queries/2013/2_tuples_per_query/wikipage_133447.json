@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1964_Winter_Olympics",
+            "http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck",
+            "http://dbpedia.org/resource/Bobsleigh_at_the_1964_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Winter_Olympics",
+            "http://dbpedia.org/resource/Olympic_Sliding_Centre_Innsbruck",
+            "http://dbpedia.org/resource/Bobsleigh_at_the_1976_Winter_Olympics"
+        ]
+    ]
+}

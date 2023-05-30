@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/James_Hinchcliffe",
+            "http://dbpedia.org/resource/Andretti_Autosport",
+            "http://dbpedia.org/resource/Chevrolet"
+        ]
+    ]
+}

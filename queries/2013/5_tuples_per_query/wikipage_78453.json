@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Bruno_Ruffo",
+            "http://dbpedia.org/resource/Moto_Guzzi"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Bruno_Ruffo",
+            "http://dbpedia.org/resource/Moto_Guzzi"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Enrico_Lorenzetti",
+            "http://dbpedia.org/resource/Moto_Guzzi"
+        ],
+        [
+            "http://dbpedia.org/resource/1953_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Werner_Haas",
+            "http://dbpedia.org/resource/NSU_Motorenwerke"
+        ],
+        [
+            "http://dbpedia.org/resource/1954_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Werner_Haas",
+            "http://dbpedia.org/resource/NSU_Motorenwerke"
+        ]
+    ]
+}

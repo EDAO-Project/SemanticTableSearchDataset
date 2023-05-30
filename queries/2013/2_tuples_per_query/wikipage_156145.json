@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Sebastian_Vettel",
+            "http://dbpedia.org/resource/2012_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Red_Bull_Racing",
+            "http://dbpedia.org/resource/2012_Formula_One_season"
+        ]
+    ]
+}

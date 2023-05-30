@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_Kazakov",
+            "http://dbpedia.org/resource/Alexander_Kazakov",
+            "http://dbpedia.org/resource/Kherson_Governorate"
+        ],
+        [
+            "http://dbpedia.org/resource/Vasili_Yanchenko",
+            "http://dbpedia.org/resource/Vasili_Yanchenko",
+            "http://dbpedia.org/resource/Ussuriysk"
+        ],
+        [
+            "http://dbpedia.org/resource/Pavel_Argeyev",
+            "http://dbpedia.org/resource/Pavel_Argeyev",
+            "http://dbpedia.org/resource/Yalta"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivan_Vasilyevich_Smirnov",
+            "http://dbpedia.org/resource/Ivan_Vasilyevich_Smirnov",
+            "http://dbpedia.org/resource/Vladimir_Oblast"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivan_Loiko",
+            "http://dbpedia.org/resource/Ivan_Loiko",
+            "http://dbpedia.org/resource/Minsk"
+        ]
+    ]
+}

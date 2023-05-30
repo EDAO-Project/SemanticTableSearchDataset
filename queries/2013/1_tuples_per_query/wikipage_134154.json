@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dan_Bartlett",
+            "http://dbpedia.org/resource/Bachelor_of_Arts",
+            "http://dbpedia.org/resource/White_House"
+        ]
+    ]
+}

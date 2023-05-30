@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auld_Reekie_Roller_Girls",
+            "http://dbpedia.org/resource/Edinburgh",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/Bear_City_Roller_Derby",
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_City_Rollergirls",
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Forest_City_Derby_Girls",
+            "http://dbpedia.org/resource/London,_Ontario",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Gent_Go-Go_Rollergirls",
+            "http://dbpedia.org/resource/Ghent",
+            "http://dbpedia.org/resource/Belgium"
+        ]
+    ]
+}

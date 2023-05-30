@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Len_Ford",
+            "http://dbpedia.org/resource/Defensive_end",
+            "http://dbpedia.org/resource/National_Football_League",
+            "http://dbpedia.org/resource/Cleveland_Browns"
+        ]
+    ]
+}

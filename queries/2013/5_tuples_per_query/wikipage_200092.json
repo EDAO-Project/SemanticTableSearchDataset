@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Carolina_State_University",
+            "http://dbpedia.org/resource/Norm_Sloan",
+            "http://dbpedia.org/resource/Marquette_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Pennsylvania",
+            "http://dbpedia.org/resource/Chuck_Daly",
+            "http://dbpedia.org/resource/Providence_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Providence_College",
+            "http://dbpedia.org/resource/Dave_Gavitt",
+            "http://dbpedia.org/resource/Furman_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_South_Carolina",
+            "http://dbpedia.org/resource/Frank_McGuire",
+            "http://dbpedia.org/resource/Furman_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Marquette_University",
+            "http://dbpedia.org/resource/Al_McGuire",
+            "http://dbpedia.org/resource/North_Carolina_State_University"
+        ]
+    ]
+}

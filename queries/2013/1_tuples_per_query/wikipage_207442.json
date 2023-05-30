@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/King_Kong_Bundy",
+            "http://dbpedia.org/resource/Denton,_Maryland",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

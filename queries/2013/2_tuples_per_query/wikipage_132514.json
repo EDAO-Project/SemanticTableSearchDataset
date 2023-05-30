@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Harringay_Arena",
+            "http://dbpedia.org/resource/Wrestling_at_the_1948_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_Summer_Olympics",
+            "http://dbpedia.org/resource/Royal_Exhibition_Building",
+            "http://dbpedia.org/resource/Modern_pentathlon_at_the_1956_Summer_Olympics"
+        ]
+    ]
+}

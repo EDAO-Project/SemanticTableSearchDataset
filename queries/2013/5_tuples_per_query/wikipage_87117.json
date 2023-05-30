@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andha_Oru_Nimidam",
+            "http://dbpedia.org/resource/Major_Sundarrajan",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Kamal_Haasan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bandham",
+            "http://dbpedia.org/resource/K._Vijayan",
+            "http://dbpedia.org/resource/M._S._Viswanathan",
+            "http://dbpedia.org/resource/Sivaji_Ganesan"
+        ],
+        [
+            "http://dbpedia.org/resource/Eetti",
+            "http://dbpedia.org/resource/Rajasekhar",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Vijayakanth"
+        ],
+        [
+            "http://dbpedia.org/resource/Japanil_Kalyanaraman",
+            "http://dbpedia.org/resource/S._P._Muthuraman",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Kamal_Haasan"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaakki_Sattai",
+            "http://dbpedia.org/resource/Rajasekhar",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Kamal_Haasan"
+        ]
+    ]
+}

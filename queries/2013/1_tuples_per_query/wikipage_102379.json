@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jersey_Open",
+            "http://dbpedia.org/resource/Jersey",
+            "http://dbpedia.org/resource/Ian_Woosnam"
+        ]
+    ]
+}

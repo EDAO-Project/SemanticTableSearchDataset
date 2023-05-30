@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ahir",
+            "http://dbpedia.org/resource/Gujarat",
+            "http://dbpedia.org/resource/Hindu"
+        ],
+        [
+            "http://dbpedia.org/resource/Bakarwal",
+            "http://dbpedia.org/resource/Jammu_and_Kashmir",
+            "http://dbpedia.org/resource/Kashmiri_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Bharwad",
+            "http://dbpedia.org/resource/Gujarat",
+            "http://dbpedia.org/resource/Gujarati_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Uttarakhand_Bhotiya",
+            "http://dbpedia.org/resource/Uttarakhand",
+            "http://dbpedia.org/resource/Pahari_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhutia",
+            "http://dbpedia.org/resource/North_Sikkim_district",
+            "http://dbpedia.org/resource/Buddhism"
+        ]
+    ]
+}

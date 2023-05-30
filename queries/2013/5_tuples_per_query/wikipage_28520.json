@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NIT_Season_Tip-Off",
+            "http://dbpedia.org/resource/Edmund_P._Joyce_Center",
+            "http://dbpedia.org/resource/Notre_Dame,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/NIT_Season_Tip-Off",
+            "http://dbpedia.org/resource/Edmund_P._Joyce_Center",
+            "http://dbpedia.org/resource/Notre_Dame,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Maui_Invitational_Tournament",
+            "http://dbpedia.org/resource/Lahaina_Civic_Center",
+            "http://dbpedia.org/resource/Lahaina,_Hawaii"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Alaska_Shootout",
+            "http://dbpedia.org/resource/Sullivan_Arena",
+            "http://dbpedia.org/resource/Anchorage,_Alaska"
+        ],
+        [
+            "http://dbpedia.org/resource/NIT_Season_Tip-Off",
+            "http://dbpedia.org/resource/Value_City_Arena",
+            "http://dbpedia.org/resource/Columbus,_Ohio"
+        ]
+    ]
+}

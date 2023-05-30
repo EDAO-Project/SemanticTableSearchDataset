@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Fleetwood_Mac"
+        ],
+        [
+            "http://dbpedia.org/resource/Dijon",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Parc_des_Sports"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Herbie_Hewett",
+            "http://dbpedia.org/resource/Lionel_Palairet",
+            "http://dbpedia.org/resource/Walter_Read",
+            "http://dbpedia.org/resource/Stanley_Scott",
+            "http://dbpedia.org/resource/Andrew_Stoddart"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Giffen",
+            "http://dbpedia.org/resource/Alec_Hearne",
+            "http://dbpedia.org/resource/Stanley_Jackson",
+            "http://dbpedia.org/resource/Harry_Trott",
+            "http://dbpedia.org/resource/Ted_Wainwright"
+        ],
+        [
+            "http://dbpedia.org/resource/Syd_Gregory",
+            "http://dbpedia.org/resource/Dick_Lilley",
+            "http://dbpedia.org/resource/Ranjitsinhji",
+            "http://dbpedia.org/resource/Tom_Richardson",
+            "http://dbpedia.org/resource/Hugh_Trumble"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_Bull",
+            "http://dbpedia.org/resource/Willis_Cuttell",
+            "http://dbpedia.org/resource/Frank_Druce",
+            "http://dbpedia.org/resource/Gilbert_Jessop",
+            "http://dbpedia.org/resource/Jack_Mason"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_Hallam",
+            "http://dbpedia.org/resource/Reggie_Schwarz",
+            "http://dbpedia.org/resource/Frank_Tarrant",
+            "http://dbpedia.org/resource/Bert_Vogler",
+            "http://dbpedia.org/resource/Thomas_Wass"
+        ]
+    ]
+}

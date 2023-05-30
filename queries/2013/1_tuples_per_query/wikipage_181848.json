@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cincinnati_Bearcats",
+            "http://dbpedia.org/resource/Utah_State_Aggies",
+            "http://dbpedia.org/resource/1997_Humanitarian_Bowl"
+        ]
+    ]
+}

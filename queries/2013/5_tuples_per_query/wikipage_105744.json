@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Tabernacle"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Tabernacle"
+        ],
+        [
+            "http://dbpedia.org/resource/Baltimore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Joseph_Meyerhoff_Symphony_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Baltimore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Joseph_Meyerhoff_Symphony_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Gibson_Amphitheatre"
+        ]
+    ]
+}

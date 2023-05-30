@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_Southeast_Asian_Games",
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Turtle"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Southeast_Asian_Games",
+            "http://dbpedia.org/resource/Manila",
+            "http://dbpedia.org/resource/Cockfight"
+        ]
+    ]
+}

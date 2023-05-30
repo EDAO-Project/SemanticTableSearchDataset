@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Somjit_Jongjohor",
+            "http://dbpedia.org/resource/Andry_Laffita",
+            "http://dbpedia.org/resource/Georgy_Balakshin"
+        ],
+        [
+            "http://dbpedia.org/resource/Somjit_Jongjohor",
+            "http://dbpedia.org/resource/Andry_Laffita",
+            "http://dbpedia.org/resource/Vincenzo_Picardi"
+        ],
+        [
+            "http://dbpedia.org/resource/Vasyl_Lomachenko",
+            "http://dbpedia.org/resource/Khedafi_Djelkhir",
+            "http://dbpedia.org/resource/Shahin_Imranov"
+        ],
+        [
+            "http://dbpedia.org/resource/Aleksei_Tishchenko",
+            "http://dbpedia.org/resource/Daouda_Sow",
+            "http://dbpedia.org/resource/Hrachik_Javakhyan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bakhyt_Sarsekbayev",
+            "http://dbpedia.org/resource/Carlos_Banteux",
+            "http://dbpedia.org/resource/Kanat_Islam"
+        ]
+    ]
+}

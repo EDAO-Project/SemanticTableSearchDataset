@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armored_Car_Robbery",
+            "http://dbpedia.org/resource/Richard_Fleischer",
+            "http://dbpedia.org/resource/Charles_McGraw"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Asphalt_Jungle",
+            "http://dbpedia.org/resource/John_Huston",
+            "http://dbpedia.org/resource/Sterling_Hayden"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Man_Who_Cheated_Himself",
+            "http://dbpedia.org/resource/Felix_E._Feist",
+            "http://dbpedia.org/resource/Lee_J._Cobb"
+        ],
+        [
+            "http://dbpedia.org/resource/Where_Danger_Lives",
+            "http://dbpedia.org/resource/John_Farrow",
+            "http://dbpedia.org/resource/Robert_Mitchum"
+        ],
+        [
+            "http://dbpedia.org/resource/Where_the_Sidewalk_Ends",
+            "http://dbpedia.org/resource/Otto_Preminger",
+            "http://dbpedia.org/resource/Dana_Andrews"
+        ]
+    ]
+}

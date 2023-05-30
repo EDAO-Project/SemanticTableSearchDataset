@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Serge_Koussevitzky",
+            "http://dbpedia.org/resource/BBC_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Naxos_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Beecham",
+            "http://dbpedia.org/resource/New_York_Philharmonic",
+            "http://dbpedia.org/resource/Dutton_Vocalion"
+        ]
+    ]
+}

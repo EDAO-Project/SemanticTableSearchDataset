@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/Gravesend,_Brooklyn",
+            "http://dbpedia.org/resource/Cropsey_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/Gravesend,_Brooklyn",
+            "http://dbpedia.org/resource/Coney_Island"
+        ]
+    ]
+}

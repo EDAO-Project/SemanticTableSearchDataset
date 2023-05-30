@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_Redwall_characters",
+            "http://dbpedia.org/resource/Brian_Jacques",
+            "http://dbpedia.org/resource/Martin_the_Warrior"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Redwall_characters",
+            "http://dbpedia.org/resource/Brian_Jacques",
+            "http://dbpedia.org/resource/Redwall"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_The_Deptford_Mice_characters",
+            "http://dbpedia.org/resource/The_Deptford_Mice",
+            "http://dbpedia.org/resource/Greenwich"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Redwall_characters",
+            "http://dbpedia.org/resource/Brian_Jacques",
+            "http://dbpedia.org/resource/The_Legend_of_Luke"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Redwall_characters",
+            "http://dbpedia.org/resource/Brian_Jacques",
+            "http://dbpedia.org/resource/Mariel_of_Redwall"
+        ]
+    ]
+}

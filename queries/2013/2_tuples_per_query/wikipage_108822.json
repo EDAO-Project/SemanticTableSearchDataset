@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Matech_Concepts",
+            "http://dbpedia.org/resource/Thomas_Mutsch",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitaphone_Racing",
+            "http://dbpedia.org/resource/Michael_Bartels",
+            "http://dbpedia.org/resource/Maserati"
+        ]
+    ]
+}

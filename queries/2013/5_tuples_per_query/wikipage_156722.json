@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/David_Ben-Gurion",
+            "http://dbpedia.org/resource/Prime_Minister_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Heshel_Frumkin",
+            "http://dbpedia.org/resource/Jenia_Tversky"
+        ],
+        [
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Abba_Hushi",
+            "http://dbpedia.org/resource/Baruch_Osnia"
+        ],
+        [
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Yosef-Michael_Lamm",
+            "http://dbpedia.org/resource/Rafael_Bash"
+        ],
+        [
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Golda_Meir",
+            "http://dbpedia.org/resource/Labor_Minister_of_Israel"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jack_Swagger",
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

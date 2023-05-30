@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/W._E._B._Du_Bois",
+            "http://dbpedia.org/resource/University_of_Michigan",
+            "http://dbpedia.org/resource/Niagara_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Lester_Granger",
+            "http://dbpedia.org/resource/Dartmouth_College",
+            "http://dbpedia.org/resource/National_Urban_League"
+        ]
+    ]
+}

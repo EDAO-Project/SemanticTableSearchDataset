@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Yokohama"
+        ],
+        [
+            "http://dbpedia.org/resource/Guangzhou",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Dongguan"
+        ],
+        [
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Bucheon"
+        ],
+        [
+            "http://dbpedia.org/resource/Shanghai",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Suzhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Delhi",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Faridabad"
+        ]
+    ]
+}

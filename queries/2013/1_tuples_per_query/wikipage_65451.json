@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dwyane_Wade",
+            "http://dbpedia.org/resource/Kobe_Bryant",
+            "http://dbpedia.org/resource/Kevin_Garnett"
+        ]
+    ]
+}

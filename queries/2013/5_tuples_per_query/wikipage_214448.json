@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angelo_State_University",
+            "http://dbpedia.org/resource/Angelo_State_Rams_football",
+            "http://dbpedia.org/resource/San_Angelo,_Texas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Lone_Star_Conference",
+            "http://dbpedia.org/resource/San_Angelo_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Bemidji_State_University",
+            "http://dbpedia.org/resource/Bemidji_State_Beavers",
+            "http://dbpedia.org/resource/Bemidji,_Minnesota",
+            "http://dbpedia.org/resource/Minnesota",
+            "http://dbpedia.org/resource/Northern_Sun_Intercollegiate_Conference",
+            "http://dbpedia.org/resource/Chet_Anderson_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Central_Oklahoma",
+            "http://dbpedia.org/resource/Central_Oklahoma_Bronchos_football",
+            "http://dbpedia.org/resource/Edmond,_Oklahoma",
+            "http://dbpedia.org/resource/Oklahoma",
+            "http://dbpedia.org/resource/Mid-America_Intercollegiate_Athletics_Association",
+            "http://dbpedia.org/resource/Wantland_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Charleston",
+            "http://dbpedia.org/resource/Charleston_Golden_Eagles",
+            "http://dbpedia.org/resource/Charleston,_West_Virginia",
+            "http://dbpedia.org/resource/West_Virginia",
+            "http://dbpedia.org/resource/Mountain_East_Conference",
+            "http://dbpedia.org/resource/University_of_Charleston_Stadium_at_Laidley_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Emporia_State_University",
+            "http://dbpedia.org/resource/Emporia_State_Hornets_football",
+            "http://dbpedia.org/resource/Emporia,_Kansas",
+            "http://dbpedia.org/resource/Kansas",
+            "http://dbpedia.org/resource/Mid-America_Intercollegiate_Athletics_Association",
+            "http://dbpedia.org/resource/Francis_G._Welch_Stadium"
+        ]
+    ]
+}

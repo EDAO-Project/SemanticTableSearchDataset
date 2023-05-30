@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kingston_upon_Hull",
+            "http://dbpedia.org/resource/Luton",
+            "http://dbpedia.org/resource/London"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ashvini",
+            "http://dbpedia.org/resource/Beta_Arietis",
+            "http://dbpedia.org/resource/Ashvins"
+        ],
+        [
+            "http://dbpedia.org/resource/Bharani",
+            "http://dbpedia.org/resource/35_Arietis",
+            "http://dbpedia.org/resource/Yama"
+        ],
+        [
+            "http://dbpedia.org/resource/Nakshatra",
+            "http://dbpedia.org/resource/Aldebaran",
+            "http://dbpedia.org/resource/Chandra"
+        ],
+        [
+            "http://dbpedia.org/resource/Pushya",
+            "http://dbpedia.org/resource/Gamma_Cancri",
+            "http://dbpedia.org/resource/Shani"
+        ],
+        [
+            "http://dbpedia.org/resource/Nakshatra",
+            "http://dbpedia.org/resource/Regulus",
+            "http://dbpedia.org/resource/Pitrs"
+        ]
+    ]
+}

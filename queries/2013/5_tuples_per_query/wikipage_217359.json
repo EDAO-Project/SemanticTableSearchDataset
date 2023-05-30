@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1979_African_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Dakar",
+            "http://dbpedia.org/resource/Senegal",
+            "http://dbpedia.org/resource/Stade_Demba_Diop"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_African_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_African_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Rabat",
+            "http://dbpedia.org/resource/Morocco",
+            "http://dbpedia.org/resource/Prince_Moulay_Abdellah_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_African_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_African_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Annaba",
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/Stade_19_Mai_1956"
+        ]
+    ]
+}

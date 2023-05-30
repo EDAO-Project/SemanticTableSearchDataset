@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thrift_Shop",
+            "http://dbpedia.org/resource/Macklemore",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Little_Talks",
+            "http://dbpedia.org/resource/Of_Monsters_and_Men",
+            "http://dbpedia.org/resource/Iceland"
+        ]
+    ]
+}

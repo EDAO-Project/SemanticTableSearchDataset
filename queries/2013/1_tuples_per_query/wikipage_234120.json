@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eric_Lindros",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Quebec_Nordiques",
+            "http://dbpedia.org/resource/Oshawa_Generals"
+        ]
+    ]
+}

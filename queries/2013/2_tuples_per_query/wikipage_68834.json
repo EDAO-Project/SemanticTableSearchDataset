@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al-Masjid_an-Nabawi",
+            "http://dbpedia.org/resource/Medina",
+            "http://dbpedia.org/resource/Al_Madinah_Region",
+            "http://dbpedia.org/resource/Saudi_Arabia"
+        ],
+        [
+            "http://dbpedia.org/resource/Badshahi_Mosque",
+            "http://dbpedia.org/resource/Lahore",
+            "http://dbpedia.org/resource/Punjab,_Pakistan",
+            "http://dbpedia.org/resource/Pakistan"
+        ]
+    ]
+}

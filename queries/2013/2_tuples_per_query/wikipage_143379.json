@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Ukraine"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexei_Klimov",
+            "http://dbpedia.org/resource/Roman_Bondaruk",
+            "http://dbpedia.org/resource/Christian_Reitz"
+        ]
+    ]
+}

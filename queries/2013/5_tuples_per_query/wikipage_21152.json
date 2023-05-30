@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Challenge_Tour",
+            "http://dbpedia.org/resource/Espen_Kofstad",
+            "http://dbpedia.org/resource/Norway"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Challenge_Tour",
+            "http://dbpedia.org/resource/Tommy_Fleetwood",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Challenge_Tour",
+            "http://dbpedia.org/resource/Edoardo_Molinari",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Challenge_Tour",
+            "http://dbpedia.org/resource/Michael_Lorenzo-Vera",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Challenge_Tour",
+            "http://dbpedia.org/resource/Lee_Slattery",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

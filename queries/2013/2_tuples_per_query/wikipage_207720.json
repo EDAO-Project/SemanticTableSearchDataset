@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_Lavender",
+            "http://dbpedia.org/resource/New_Boston,_Texas",
+            "http://dbpedia.org/resource/Bowie_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Lance_Gooden",
+            "http://dbpedia.org/resource/Terrell,_Texas",
+            "http://dbpedia.org/resource/Kaufman_County,_Texas"
+        ]
+    ]
+}

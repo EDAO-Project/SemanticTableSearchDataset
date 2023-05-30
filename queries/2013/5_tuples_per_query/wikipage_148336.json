@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/English_Vinglish",
+            "http://dbpedia.org/resource/Drama",
+            "http://dbpedia.org/resource/Gauri_Shinde",
+            "http://dbpedia.org/resource/Sridevi"
+        ],
+        [
+            "http://dbpedia.org/resource/Aiyyaa",
+            "http://dbpedia.org/resource/Romantic_comedy_film",
+            "http://dbpedia.org/resource/Sachin_Kundalkar",
+            "http://dbpedia.org/resource/Rani_Mukerji"
+        ],
+        [
+            "http://dbpedia.org/resource/Eega",
+            "http://dbpedia.org/resource/Action_film",
+            "http://dbpedia.org/resource/S._S._Rajamouli",
+            "http://dbpedia.org/resource/Sudeep"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhoot_Returns",
+            "http://dbpedia.org/resource/Horror_film",
+            "http://dbpedia.org/resource/Ram_Gopal_Varma",
+            "http://dbpedia.org/resource/Manisha_Koirala"
+        ],
+        [
+            "http://dbpedia.org/resource/Student_of_the_Year",
+            "http://dbpedia.org/resource/Romance_film",
+            "http://dbpedia.org/resource/Karan_Johar",
+            "http://dbpedia.org/resource/Sidharth_Malhotra"
+        ]
+    ]
+}

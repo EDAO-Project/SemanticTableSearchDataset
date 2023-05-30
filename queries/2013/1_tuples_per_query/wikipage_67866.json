@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avila_University",
+            "http://dbpedia.org/resource/Kansas_City,_Missouri",
+            "http://dbpedia.org/resource/Catholicism",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education"
+        ]
+    ]
+}

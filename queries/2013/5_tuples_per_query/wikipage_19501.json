@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Days_of_Love",
+            "http://dbpedia.org/resource/Giuseppe_De_Santis",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Railroad_Man",
+            "http://dbpedia.org/resource/Pietro_Germi",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Oh!_Sabella",
+            "http://dbpedia.org/resource/Dino_Risi",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/One-Eyed_Jacks",
+            "http://dbpedia.org/resource/Marlon_Brando",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/America_America",
+            "http://dbpedia.org/resource/Elia_Kazan",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_in_sports",
+            "http://dbpedia.org/resource/Emmitt_Smith",
+            "http://dbpedia.org/resource/Dallas_Cowboys",
+            "http://dbpedia.org/resource/Running_back"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_in_sports",
+            "http://dbpedia.org/resource/Emmitt_Smith",
+            "http://dbpedia.org/resource/Dallas_Cowboys",
+            "http://dbpedia.org/resource/Running_back"
+        ]
+    ]
+}

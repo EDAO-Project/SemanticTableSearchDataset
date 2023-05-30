@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nnamdi_Asomugha",
+            "http://dbpedia.org/resource/Cornerback",
+            "http://dbpedia.org/resource/San_Francisco_49ers",
+            "http://dbpedia.org/resource/2003_NFL_draft"
+        ]
+    ]
+}

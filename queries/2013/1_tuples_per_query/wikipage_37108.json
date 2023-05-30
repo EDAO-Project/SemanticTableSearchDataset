@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beauchamp_Place",
+            "http://dbpedia.org/resource/Royal_Borough_of_Kensington_and_Chelsea",
+            "http://dbpedia.org/resource/Edward_Seymour,_1st_Earl_of_Hertford",
+            "http://dbpedia.org/resource/Seymour_family"
+        ]
+    ]
+}

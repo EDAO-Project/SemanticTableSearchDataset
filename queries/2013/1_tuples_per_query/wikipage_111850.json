@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Martin_Biron",
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ]
+    ]
+}

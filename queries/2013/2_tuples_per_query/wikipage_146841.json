@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albiez-le-Jeune",
+            "http://dbpedia.org/resource/Argentine,_Savoie",
+            "http://dbpedia.org/resource/Aussois"
+        ],
+        [
+            "http://dbpedia.org/resource/Avrieux",
+            "http://dbpedia.org/resource/Bessans",
+            "http://dbpedia.org/resource/Bonneval-sur-Arc"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Androscoggin_Swinging_Bridge",
+            "http://dbpedia.org/resource/Brunswick,_Maine",
+            "http://dbpedia.org/resource/Cumberland_County,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/Bailey_Island_Bridge",
+            "http://dbpedia.org/resource/Harpswell,_Maine",
+            "http://dbpedia.org/resource/Cumberland_County,_Maine"
+        ]
+    ]
+}

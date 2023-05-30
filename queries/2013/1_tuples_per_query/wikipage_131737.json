@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mats_Zuccarello",
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/Kyle_Clifford",
+            "http://dbpedia.org/resource/United_States_dollar"
+        ]
+    ]
+}

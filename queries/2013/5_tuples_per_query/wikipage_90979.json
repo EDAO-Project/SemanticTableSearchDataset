@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_Tour_de_France",
+            "http://dbpedia.org/resource/Dietrich_Thurau",
+            "http://dbpedia.org/resource/TI-Raleigh"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Tour_de_France",
+            "http://dbpedia.org/resource/Henk_Lubberding",
+            "http://dbpedia.org/resource/TI-Raleigh"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Tour_de_France",
+            "http://dbpedia.org/resource/Johan_van_der_Velde",
+            "http://dbpedia.org/resource/TI-Raleigh"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Tour_de_France",
+            "http://dbpedia.org/resource/Laurent_Fignon",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Tour_de_France",
+            "http://dbpedia.org/resource/Greg_LeMond",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_Bolivarian_Games",
+            "http://dbpedia.org/resource/Caracas",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/Peru"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_Bolivarian_Games",
+            "http://dbpedia.org/resource/Barranquilla",
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/Venezuela"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Bolivarian_Games",
+            "http://dbpedia.org/resource/Quito",
+            "http://dbpedia.org/resource/Ecuador",
+            "http://dbpedia.org/resource/Venezuela"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Bolivarian_Games",
+            "http://dbpedia.org/resource/Panama_City",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/Venezuela"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Bolivarian_Games",
+            "http://dbpedia.org/resource/La_Paz",
+            "http://dbpedia.org/resource/Bolivia",
+            "http://dbpedia.org/resource/Venezuela"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Philips_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/PNC_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Greenville,_South_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bon_Secours_Wellness_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amalie_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Smoothie_King_Center"
+        ]
+    ]
+}

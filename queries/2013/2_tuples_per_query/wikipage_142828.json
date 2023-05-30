@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Concord,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Concord_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Reno,_Nevada",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lawlor_Events_Center"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/First_Texas_Legislature",
+            "http://dbpedia.org/resource/Jesse_Grimes",
+            "http://dbpedia.org/resource/Montgomery_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Second_Texas_Legislature",
+            "http://dbpedia.org/resource/Jesse_Grimes",
+            "http://dbpedia.org/resource/Grimes_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Fifth_Texas_Legislature",
+            "http://dbpedia.org/resource/David_Gage",
+            "http://dbpedia.org/resource/Rusk_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Sixth_Texas_Legislature",
+            "http://dbpedia.org/resource/James_W._Flanagan",
+            "http://dbpedia.org/resource/Rusk_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Seventh_Texas_Legislature",
+            "http://dbpedia.org/resource/Malcolm_D._Graham",
+            "http://dbpedia.org/resource/Rusk_County,_Texas"
+        ]
+    ]
+}

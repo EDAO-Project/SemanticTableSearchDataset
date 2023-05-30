@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alien_vs_Ninja",
+            "http://dbpedia.org/resource/Seiji_Chiba",
+            "http://dbpedia.org/resource/Shuji_Kashiwabara",
+            "http://dbpedia.org/resource/Action_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Arctic_Blast",
+            "http://dbpedia.org/resource/Brian_Trenchard-Smith",
+            "http://dbpedia.org/resource/Michael_Shanks",
+            "http://dbpedia.org/resource/Disaster_film"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Book_of_Eli",
+            "http://dbpedia.org/resource/Hughes_brothers",
+            "http://dbpedia.org/resource/Denzel_Washington",
+            "http://dbpedia.org/resource/Apocalyptic_and_post-apocalyptic_fiction"
+        ],
+        [
+            "http://dbpedia.org/resource/Daybreakers",
+            "http://dbpedia.org/resource/Spierig_brothers",
+            "http://dbpedia.org/resource/Ethan_Hawke",
+            "http://dbpedia.org/resource/Vampire_film"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Disappearance_of_Haruhi_Suzumiya",
+            "http://dbpedia.org/resource/Tatsuya_Ishihara",
+            "http://dbpedia.org/resource/Aya_Hirano",
+            "http://dbpedia.org/resource/Anime"
+        ]
+    ]
+}

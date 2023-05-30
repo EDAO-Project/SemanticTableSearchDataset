@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christchurch",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Rugby_League_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Wellington",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Athletic_Park,_Wellington"
+        ],
+        [
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Melbourne_Sports_and_Entertainment_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Melbourne_Sports_and_Entertainment_Centre"
+        ]
+    ]
+}

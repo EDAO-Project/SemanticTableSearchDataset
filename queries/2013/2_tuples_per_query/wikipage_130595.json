@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elizabeth_Arden_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Nancy_Lopez"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarasota_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Donna_White"
+        ]
+    ]
+}

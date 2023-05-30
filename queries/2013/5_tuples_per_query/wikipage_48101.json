@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_Australian_Touring_Car_Championship",
+            "http://dbpedia.org/resource/Amaroo_Park",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Mark_Skaife",
+            "http://dbpedia.org/resource/Gibson_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Australian_Touring_Car_Championship",
+            "http://dbpedia.org/resource/Sandown_Raceway",
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Mark_Skaife",
+            "http://dbpedia.org/resource/Gibson_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Australian_Touring_Car_Championship",
+            "http://dbpedia.org/resource/Symmons_Plains_Raceway",
+            "http://dbpedia.org/resource/Launceston,_Tasmania",
+            "http://dbpedia.org/resource/Mark_Skaife",
+            "http://dbpedia.org/resource/Gibson_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Australian_Touring_Car_Championship",
+            "http://dbpedia.org/resource/Phillip_Island_Grand_Prix_Circuit",
+            "http://dbpedia.org/resource/Phillip_Island",
+            "http://dbpedia.org/resource/Glenn_Seton",
+            "http://dbpedia.org/resource/Glenn_Seton_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Australian_Touring_Car_Championship",
+            "http://dbpedia.org/resource/Lakeside_International_Raceway",
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Larry_Perkins",
+            "http://dbpedia.org/resource/Perkins_Engineering"
+        ]
+    ]
+}

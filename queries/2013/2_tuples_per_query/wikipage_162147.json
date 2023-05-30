@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Romas_Ubartas",
+            "http://dbpedia.org/resource/1992_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Lithuania_national_basketball_team",
+            "http://dbpedia.org/resource/1992_Summer_Olympics",
+            "http://dbpedia.org/resource/Basketball_at_the_1992_Summer_Olympics"
+        ]
+    ]
+}

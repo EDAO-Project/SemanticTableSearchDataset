@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2007_Denver_Broncos_season",
+            "http://dbpedia.org/resource/Ralph_Wilson_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Pittsburgh_Steelers_season",
+            "http://dbpedia.org/resource/Heinz_Field",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_New_England_Patriots_season",
+            "http://dbpedia.org/resource/Gillette_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_New_York_Jets_season",
+            "http://dbpedia.org/resource/Ralph_Wilson_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/Ralph_Wilson_Stadium",
+            "http://dbpedia.org/resource/Monday_Night_Football"
+        ]
+    ]
+}

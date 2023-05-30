@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Copenhagen",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Czechoslovakia",
+            "http://dbpedia.org/resource/Bulgaria"
+        ]
+    ]
+}

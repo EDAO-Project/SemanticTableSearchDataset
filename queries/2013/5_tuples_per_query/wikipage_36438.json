@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_British_League_season",
+            "http://dbpedia.org/resource/West_Ham_Hammers",
+            "http://dbpedia.org/resource/Wimbledon_Dons",
+            "http://dbpedia.org/resource/Coventry_Bees"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_British_League_season",
+            "http://dbpedia.org/resource/Halifax_Dukes",
+            "http://dbpedia.org/resource/Coventry_Bees",
+            "http://dbpedia.org/resource/Swindon_Robins"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_British_League_season",
+            "http://dbpedia.org/resource/Swindon_Robins",
+            "http://dbpedia.org/resource/Coventry_Bees",
+            "http://dbpedia.org/resource/West_Ham_Hammers"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_British_League_season",
+            "http://dbpedia.org/resource/Coventry_Bees",
+            "http://dbpedia.org/resource/Hackney_Hawks",
+            "http://dbpedia.org/resource/Exeter_Falcons"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_British_League_season",
+            "http://dbpedia.org/resource/Poole_Pirates",
+            "http://dbpedia.org/resource/Belle_Vue_Aces",
+            "http://dbpedia.org/resource/Wimbledon_Dons"
+        ]
+    ]
+}

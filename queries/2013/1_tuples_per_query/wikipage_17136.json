@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbeville_and_Waycross_Railroad",
+            "http://dbpedia.org/resource/Seaboard_Air_Line_Railroad",
+            "http://dbpedia.org/resource/Georgia_and_Alabama_Railway"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Milton,_Washington",
+            "http://dbpedia.org/resource/List_of_former_state_routes_in_Washington"
+        ]
+    ]
+}

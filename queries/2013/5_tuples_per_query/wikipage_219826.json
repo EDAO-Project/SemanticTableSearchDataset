@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canoeing_at_the_1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Karen_Hoff",
+            "http://dbpedia.org/resource/Alida_van_der_Anker-Doedens",
+            "http://dbpedia.org/resource/Fritzi_Schwingl"
+        ],
+        [
+            "http://dbpedia.org/resource/Canoeing_at_the_1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Sylvi_Saimo",
+            "http://dbpedia.org/resource/Gertrude_Liebhart",
+            "http://dbpedia.org/resource/Nina_Savina"
+        ],
+        [
+            "http://dbpedia.org/resource/Canoeing_at_the_1960_Summer_Olympics",
+            "http://dbpedia.org/resource/Antonina_Seredina",
+            "http://dbpedia.org/resource/Therese_Zenz",
+            "http://dbpedia.org/resource/Daniela_Walkowiak-Pilecka"
+        ],
+        [
+            "http://dbpedia.org/resource/Canoeing_at_the_1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Lyudmila_Pinayeva",
+            "http://dbpedia.org/resource/Hilde_Lauer",
+            "http://dbpedia.org/resource/Marcia_Jones-Smoke"
+        ],
+        [
+            "http://dbpedia.org/resource/Canoeing_at_the_1968_Summer_Olympics",
+            "http://dbpedia.org/resource/Lyudmila_Pinayeva",
+            "http://dbpedia.org/resource/Renate_Breuer",
+            "http://dbpedia.org/resource/Viorica_Dumitru"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Airdrie,_Alberta",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Scottish_Gaelic",
+            "http://dbpedia.org/resource/Airdrie,_North_Lanarkshire"
+        ]
+    ]
+}

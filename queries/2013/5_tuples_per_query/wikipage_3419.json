@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ray_Mendoza",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Mendoza",
+            "http://dbpedia.org/resource/Monterrey",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Mendoza",
+            "http://dbpedia.org/resource/Naucalpan",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Gran_Hamada",
+            "http://dbpedia.org/resource/Naucalpan",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Perro_Aguayo",
+            "http://dbpedia.org/resource/Naucalpan",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

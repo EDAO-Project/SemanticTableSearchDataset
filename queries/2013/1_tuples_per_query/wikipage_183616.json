@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tamahara_Dam",
+            "http://dbpedia.org/resource/Embankment_dam",
+            "http://dbpedia.org/resource/Gunma_Prefecture"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Josep_Samitier",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Vicente_Piera",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

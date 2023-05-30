@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trischa_Zorn",
+            "http://dbpedia.org/resource/United_States_at_the_Paralympics",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ragnhild_Myklebust",
+            "http://dbpedia.org/resource/Norway_at_the_Paralympics",
+            "http://dbpedia.org/resource/Biathlon_at_the_Winter_Paralympics"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amsterdam_Compiler_Kit",
+            "http://dbpedia.org/resource/Linux",
+            "http://dbpedia.org/resource/BSD_licenses"
+        ]
+    ]
+}

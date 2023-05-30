@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Dwan_Office_Building",
+            "http://dbpedia.org/resource/Two_Harbors,_Minnesota",
+            "http://dbpedia.org/resource/Iron_Range",
+            "http://dbpedia.org/resource/3M"
+        ]
+    ]
+}

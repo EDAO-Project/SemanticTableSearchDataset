@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_Estonian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Tallinn",
+            "http://dbpedia.org/resource/Liina-Grete_Lilender",
+            "http://dbpedia.org/resource/Jekaterina_Golovatenko",
+            "http://dbpedia.org/resource/Olga_Vassiljeva"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Estonian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Tallinn",
+            "http://dbpedia.org/resource/Olga_Vassiljeva",
+            "http://dbpedia.org/resource/Jekaterina_Golovatenko",
+            "http://dbpedia.org/resource/Liina-Grete_Lilender"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Estonian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Tallinn",
+            "http://dbpedia.org/resource/Olga_Vassiljeva",
+            "http://dbpedia.org/resource/Jekaterina_Golovatenko",
+            "http://dbpedia.org/resource/Liina-Grete_Lilender"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Estonian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Tallinn",
+            "http://dbpedia.org/resource/Olga_Vassiljeva",
+            "http://dbpedia.org/resource/Jekaterina_Golovatenko",
+            "http://dbpedia.org/resource/Liina-Grete_Lilender"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Estonian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Tallinn",
+            "http://dbpedia.org/resource/Olga_Vassiljeva",
+            "http://dbpedia.org/resource/Jekaterina_Golovatenko",
+            "http://dbpedia.org/resource/Liina-Grete_Lilender"
+        ]
+    ]
+}

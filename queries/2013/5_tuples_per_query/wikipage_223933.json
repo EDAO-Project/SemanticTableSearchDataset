@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Utsunomiya"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Stuttgart"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Benidorm"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Oslo"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Agrigento"
+        ]
+    ]
+}

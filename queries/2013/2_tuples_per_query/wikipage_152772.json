@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Korea_Open_Super_Series_Premier",
+            "http://dbpedia.org/resource/Lee_Chong_Wei",
+            "http://dbpedia.org/resource/Wang_Shixian",
+            "http://dbpedia.org/resource/Cai_Yun",
+            "http://dbpedia.org/resource/Tian_Qing",
+            "http://dbpedia.org/resource/Xu_Chen"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_All_England_Super_Series_Premier",
+            "http://dbpedia.org/resource/Lin_Dan",
+            "http://dbpedia.org/resource/Li_Xuerui",
+            "http://dbpedia.org/resource/Jung_Jae-sung",
+            "http://dbpedia.org/resource/Tian_Qing",
+            "http://dbpedia.org/resource/Tontowi_Ahmad"
+        ]
+    ]
+}

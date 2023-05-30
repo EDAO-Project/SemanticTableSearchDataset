@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1926",
+            "http://dbpedia.org/resource/Matti_Raivio",
+            "http://dbpedia.org/resource/Tauno_Lappalainen",
+            "http://dbpedia.org/resource/Olav_Kjelbotn"
+        ]
+    ]
+}

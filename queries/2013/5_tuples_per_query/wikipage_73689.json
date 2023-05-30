@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Camden,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Susquehanna_Bank_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Cuyahoga_Falls,_Ohio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Blossom_Music_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Minot,_North_Dakota",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/North_Dakota_State_Fair"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn,_Washington",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/White_River_Amphitheatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Ridgefield,_Washington",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amphitheater_Northwest"
+        ]
+    ]
+}

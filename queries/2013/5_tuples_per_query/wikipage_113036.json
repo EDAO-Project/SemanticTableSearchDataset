@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gene_Miles",
+            "http://dbpedia.org/resource/Barry_Gomersall",
+            "http://dbpedia.org/resource/Lang_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Hauff",
+            "http://dbpedia.org/resource/Bill_Harrigan",
+            "http://dbpedia.org/resource/Lang_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Renouf",
+            "http://dbpedia.org/resource/Bill_Harrigan",
+            "http://dbpedia.org/resource/Lang_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Tonie_Carroll",
+            "http://dbpedia.org/resource/Bill_Harrigan",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Wendell_Sailor",
+            "http://dbpedia.org/resource/Bill_Harrigan",
+            "http://dbpedia.org/resource/Lang_Park"
+        ]
+    ]
+}

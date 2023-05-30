@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southsea",
+            "http://dbpedia.org/resource/Francis_Goodwin",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Maidstone",
+            "http://dbpedia.org/resource/John_Whichcord_Snr",
+            "http://dbpedia.org/resource/Neoclassical_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Tunbridge_Wells",
+            "http://dbpedia.org/resource/Decimus_Burton",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Waltham_Cross",
+            "http://dbpedia.org/resource/Edward_Blore",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Yarmouth",
+            "http://dbpedia.org/resource/Joseph_John_Scoles",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ]
+    ]
+}

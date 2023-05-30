@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_World_Touring_Car_Championship_season",
+            "http://dbpedia.org/resource/Yvan_Muller",
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Autodromo_Nazionale_Monza",
+            "http://dbpedia.org/resource/2013_FIA_WTCC_Race_of_Italy"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bedok_Stadium",
+            "http://dbpedia.org/resource/Balestier_Khalsa_FC",
+            "http://dbpedia.org/resource/Aide_Iskandar"
+        ],
+        [
+            "http://dbpedia.org/resource/Choa_Chu_Kang_Stadium",
+            "http://dbpedia.org/resource/Warriors_FC",
+            "http://dbpedia.org/resource/Masrezwan_Masturi"
+        ]
+    ]
+}

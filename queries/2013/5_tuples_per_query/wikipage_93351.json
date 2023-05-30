@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dicotyledon",
+            "http://dbpedia.org/resource/Monocotyledon",
+            "http://dbpedia.org/resource/Flowering_plant"
+        ],
+        [
+            "http://dbpedia.org/resource/Reptile",
+            "http://dbpedia.org/resource/Mammal",
+            "http://dbpedia.org/resource/Amniote"
+        ],
+        [
+            "http://dbpedia.org/resource/Lizard",
+            "http://dbpedia.org/resource/Snake",
+            "http://dbpedia.org/resource/Squamata"
+        ],
+        [
+            "http://dbpedia.org/resource/Prokaryote",
+            "http://dbpedia.org/resource/Eukaryote",
+            "http://dbpedia.org/resource/Organism"
+        ],
+        [
+            "http://dbpedia.org/resource/Osteichthyes",
+            "http://dbpedia.org/resource/Tetrapod",
+            "http://dbpedia.org/resource/Euteleostomi"
+        ]
+    ]
+}

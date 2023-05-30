@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cousin_Cousine",
+            "http://dbpedia.org/resource/Jean-Charles_Tacchella",
+            "http://dbpedia.org/resource/Marie-Christine_Barrault"
+        ],
+        [
+            "http://dbpedia.org/resource/Flic_Story",
+            "http://dbpedia.org/resource/Jacques_Deray",
+            "http://dbpedia.org/resource/Alain_Delon"
+        ]
+    ]
+}

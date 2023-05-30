@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Le_Samyn_des_Dames",
+            "http://dbpedia.org/resource/Ellen_van_Dijk",
+            "http://dbpedia.org/resource/Shelley_Olds",
+            "http://dbpedia.org/resource/Emma_Johansson"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Grand_Prix_de_Oriente",
+            "http://dbpedia.org/resource/Noemi_Cantele",
+            "http://dbpedia.org/resource/Lorena_Vargas",
+            "http://dbpedia.org/resource/Clemilda_Fernandes"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Omloop_van_het_Hageland",
+            "http://dbpedia.org/resource/Emily_Collins",
+            "http://dbpedia.org/resource/Shelley_Olds",
+            "http://dbpedia.org/resource/Emma_Johansson"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Drentse_8_van_Dwingeloo",
+            "http://dbpedia.org/resource/Marianne_Vos",
+            "http://dbpedia.org/resource/Giorgia_Bronzini",
+            "http://dbpedia.org/resource/Emma_Johansson"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Grand_Prix_GSB",
+            "http://dbpedia.org/resource/Clemilda_Fernandes",
+            "http://dbpedia.org/resource/Alena_Amialiusik",
+            "http://dbpedia.org/resource/Noemi_Cantele"
+        ]
+    ]
+}

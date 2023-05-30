@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Citi_Performing_Arts_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Citi_Performing_Arts_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Citi_Performing_Arts_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Annapolis,_Maryland",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/United_States_Naval_Academy"
+        ],
+        [
+            "http://dbpedia.org/resource/Uniondale,_New_York",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Nassau_Veterans_Memorial_Coliseum"
+        ]
+    ]
+}

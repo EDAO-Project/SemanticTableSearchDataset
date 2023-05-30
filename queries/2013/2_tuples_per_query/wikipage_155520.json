@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beagle_Boys",
+            "http://dbpedia.org/resource/DuckTales",
+            "http://dbpedia.org/resource/Donald_Duck_universe"
+        ],
+        [
+            "http://dbpedia.org/resource/Betty_Boop",
+            "http://dbpedia.org/resource/Fleischer_Studios",
+            "http://dbpedia.org/resource/Grim_Natwick"
+        ]
+    ]
+}

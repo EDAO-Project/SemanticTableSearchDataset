@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Zugdidi",
+            "http://dbpedia.org/resource/Zugdidi",
+            "http://dbpedia.org/resource/Gulia_Tutberidze_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dila_Gori",
+            "http://dbpedia.org/resource/Gori,_Georgia",
+            "http://dbpedia.org/resource/Tengiz_Burjanadze_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dinamo_Tbilisi",
+            "http://dbpedia.org/resource/Tbilisi",
+            "http://dbpedia.org/resource/Boris_Paichadze_Dinamo_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Kolkheti-1913_Poti",
+            "http://dbpedia.org/resource/Poti",
+            "http://dbpedia.org/resource/Fazisi_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Metalurgi_Rustavi",
+            "http://dbpedia.org/resource/Rustavi",
+            "http://dbpedia.org/resource/Poladi_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_in_film",
+            "http://dbpedia.org/resource/Taxi_Blues",
+            "http://dbpedia.org/resource/Pavel_Lungin",
+            "http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_in_film",
+            "http://dbpedia.org/resource/Zerograd",
+            "http://dbpedia.org/resource/Karen_Shakhnazarov",
+            "http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic"
+        ]
+    ]
+}

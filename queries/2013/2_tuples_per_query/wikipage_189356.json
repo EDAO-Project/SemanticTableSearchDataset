@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lung",
+            "http://dbpedia.org/resource/HeLa",
+            "http://dbpedia.org/resource/Cervix"
+        ],
+        [
+            "http://dbpedia.org/resource/Lung",
+            "http://dbpedia.org/resource/HeLa",
+            "http://dbpedia.org/resource/Cervix"
+        ]
+    ]
+}

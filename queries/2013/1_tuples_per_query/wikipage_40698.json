@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Amazing_Quest_of_Ernest_Bliss",
+            "http://dbpedia.org/resource/Alfred_Zeisler",
+            "http://dbpedia.org/resource/Cary_Grant"
+        ]
+    ]
+}

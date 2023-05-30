@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chattanooga,_Tennessee",
+            "http://dbpedia.org/resource/Cleveland,_Tennessee",
+            "http://dbpedia.org/resource/WFLI-TV",
+            "http://dbpedia.org/resource/The_CW"
+        ]
+    ]
+}

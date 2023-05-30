@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acton_Town_tube_station",
+            "http://dbpedia.org/resource/District_line",
+            "http://dbpedia.org/resource/London_Borough_of_Ealing",
+            "http://dbpedia.org/resource/List_of_stations_in_London_fare_zone_3"
+        ],
+        [
+            "http://dbpedia.org/resource/Aldgate_tube_station",
+            "http://dbpedia.org/resource/Metropolitan_line",
+            "http://dbpedia.org/resource/City_of_London",
+            "http://dbpedia.org/resource/List_of_stations_in_London_fare_zone_1"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bovingdon",
+            "http://dbpedia.org/resource/Dacorum",
+            "http://dbpedia.org/resource/Hemel_Hempstead_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Chipperfield",
+            "http://dbpedia.org/resource/Dacorum",
+            "http://dbpedia.org/resource/Hemel_Hempstead_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Flamstead",
+            "http://dbpedia.org/resource/Dacorum",
+            "http://dbpedia.org/resource/Hemel_Hempstead_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Flaunden",
+            "http://dbpedia.org/resource/Dacorum",
+            "http://dbpedia.org/resource/Hemel_Hempstead_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Gaddesden",
+            "http://dbpedia.org/resource/Dacorum",
+            "http://dbpedia.org/resource/Hemel_Hempstead_Rural_District"
+        ]
+    ]
+}

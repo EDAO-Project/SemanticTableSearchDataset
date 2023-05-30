@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Begumganj_Upazila",
+            "http://dbpedia.org/resource/Noakhali_District",
+            "http://dbpedia.org/resource/Chittagong_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/Begumganj_Upazila",
+            "http://dbpedia.org/resource/Noakhali_District",
+            "http://dbpedia.org/resource/Chittagong_Division"
+        ]
+    ]
+}

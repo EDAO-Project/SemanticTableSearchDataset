@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Libero_Liberati",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Gilera"
+        ],
+        [
+            "http://dbpedia.org/resource/Keith_Bryen",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Moto_Guzzi"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Hartle",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Norton_Motorcycle_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Giuseppe_Colnago",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Moto_Guzzi"
+        ],
+        [
+            "http://dbpedia.org/resource/Alano_Montanari",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Moto_Guzzi"
+        ]
+    ]
+}

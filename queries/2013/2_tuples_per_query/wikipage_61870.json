@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Glenn_Miller_Story",
+            "http://dbpedia.org/resource/Anthony_Mann",
+            "http://dbpedia.org/resource/James_Stewart",
+            "http://dbpedia.org/resource/Glenn_Miller_Orchestra"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Last_Waltz",
+            "http://dbpedia.org/resource/Martin_Scorsese",
+            "http://dbpedia.org/resource/The_Band",
+            "http://dbpedia.org/resource/Robbie_Robertson"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_Formula_One_season",
+            "http://dbpedia.org/resource/Troy_Ruttman",
+            "http://dbpedia.org/resource/1950_Indianapolis_500"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_Formula_One_season",
+            "http://dbpedia.org/resource/Duane_Carter",
+            "http://dbpedia.org/resource/1952_Indianapolis_500"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_Formula_One_season",
+            "http://dbpedia.org/resource/Henry_Banks",
+            "http://dbpedia.org/resource/1952_Indianapolis_500"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_Formula_One_season",
+            "http://dbpedia.org/resource/Manny_Ayulo",
+            "http://dbpedia.org/resource/1952_Indianapolis_500"
+        ],
+        [
+            "http://dbpedia.org/resource/1953_Formula_One_season",
+            "http://dbpedia.org/resource/Duane_Carter",
+            "http://dbpedia.org/resource/1953_Indianapolis_500"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Asteroids_Deluxe",
+            "http://dbpedia.org/resource/Atari",
+            "http://dbpedia.org/resource/Atari_Age",
+            "http://dbpedia.org/resource/North_America"
+        ]
+    ]
+}

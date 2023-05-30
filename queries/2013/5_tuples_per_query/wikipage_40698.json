@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Amazing_Quest_of_Ernest_Bliss",
+            "http://dbpedia.org/resource/Alfred_Zeisler",
+            "http://dbpedia.org/resource/Cary_Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Brown_Wallet",
+            "http://dbpedia.org/resource/Michael_Powell",
+            "http://dbpedia.org/resource/Patric_Knowles"
+        ],
+        [
+            "http://dbpedia.org/resource/Cafe_Mascot",
+            "http://dbpedia.org/resource/Lawrence_Huntington",
+            "http://dbpedia.org/resource/Geraldine_Fitzgerald"
+        ],
+        [
+            "http://dbpedia.org/resource/Captain_Bill",
+            "http://dbpedia.org/resource/Ralph_Ceder",
+            "http://dbpedia.org/resource/Leslie_Fuller"
+        ],
+        [
+            "http://dbpedia.org/resource/Crime_Over_London",
+            "http://dbpedia.org/resource/Alfred_Zeisler",
+            "http://dbpedia.org/resource/Margot_Grahame"
+        ]
+    ]
+}

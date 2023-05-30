@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/3F8",
+            "http://dbpedia.org/resource/GD2",
+            "http://dbpedia.org/resource/Neuroblastoma"
+        ],
+        [
+            "http://dbpedia.org/resource/Abagovomab",
+            "http://dbpedia.org/resource/CA-125",
+            "http://dbpedia.org/resource/Ovarian_cancer"
+        ]
+    ]
+}

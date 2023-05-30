@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jules_Bender",
+            "http://dbpedia.org/resource/Long_Island_University",
+            "http://dbpedia.org/resource/Basketball_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Kramer",
+            "http://dbpedia.org/resource/Long_Island_University",
+            "http://dbpedia.org/resource/Small_forward"
+        ]
+    ]
+}

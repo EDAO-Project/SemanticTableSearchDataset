@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Art_Museum_of_Estonia",
+            "http://dbpedia.org/resource/Adamson-Eric",
+            "http://dbpedia.org/resource/Harju_County",
+            "http://dbpedia.org/resource/Tallinn"
+        ]
+    ]
+}

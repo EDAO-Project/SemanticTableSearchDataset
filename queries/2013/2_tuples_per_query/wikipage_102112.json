@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sten_Andersson",
+            "http://dbpedia.org/resource/Swedish_Social_Democratic_Party",
+            "http://dbpedia.org/resource/Stockholm_Municipality"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl_Bildt",
+            "http://dbpedia.org/resource/Moderate_Party",
+            "http://dbpedia.org/resource/Stockholm_Municipality"
+        ]
+    ]
+}

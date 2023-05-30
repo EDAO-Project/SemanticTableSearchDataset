@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Genoa",
+            "http://dbpedia.org/resource/Adolfo_Leoni",
+            "http://dbpedia.org/resource/Antonio_Bevilacqua"
+        ],
+        [
+            "http://dbpedia.org/resource/Montecatini_Terme",
+            "http://dbpedia.org/resource/Individual_time_trial",
+            "http://dbpedia.org/resource/Antonio_Bevilacqua",
+            "http://dbpedia.org/resource/Antonio_Bevilacqua"
+        ],
+        [
+            "http://dbpedia.org/resource/Prato",
+            "http://dbpedia.org/resource/Fausto_Coppi",
+            "http://dbpedia.org/resource/Fermo_Camellini"
+        ],
+        [
+            "http://dbpedia.org/resource/Bologna",
+            "http://dbpedia.org/resource/Olimpio_Bizzi",
+            "http://dbpedia.org/resource/Fermo_Camellini"
+        ],
+        [
+            "http://dbpedia.org/resource/Cesena",
+            "http://dbpedia.org/resource/Aldo_Bini",
+            "http://dbpedia.org/resource/Fermo_Camellini"
+        ]
+    ]
+}

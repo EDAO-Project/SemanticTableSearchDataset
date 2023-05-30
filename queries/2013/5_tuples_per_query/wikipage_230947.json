@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Otsuka_Pharmaceutical",
+            "http://dbpedia.org/resource/Aripiprazole",
+            "http://dbpedia.org/resource/Atypical_antipsychotic",
+            "http://dbpedia.org/resource/Schizophrenia"
+        ],
+        [
+            "http://dbpedia.org/resource/Wyeth",
+            "http://dbpedia.org/resource/Loratadine",
+            "http://dbpedia.org/resource/Histamine_antagonist",
+            "http://dbpedia.org/resource/Allergy"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanofi",
+            "http://dbpedia.org/resource/Fexofenadine",
+            "http://dbpedia.org/resource/Histamine_antagonist",
+            "http://dbpedia.org/resource/Allergic_rhinitis"
+        ],
+        [
+            "http://dbpedia.org/resource/Pfizer",
+            "http://dbpedia.org/resource/Diphenhydramine",
+            "http://dbpedia.org/resource/Histamine_antagonist",
+            "http://dbpedia.org/resource/Allergy"
+        ],
+        [
+            "http://dbpedia.org/resource/Schering-Plough",
+            "http://dbpedia.org/resource/Desloratadine",
+            "http://dbpedia.org/resource/Histamine_antagonist",
+            "http://dbpedia.org/resource/Allergy"
+        ]
+    ]
+}

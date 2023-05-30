@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WNGY",
+            "http://dbpedia.org/resource/Morton,_Illinois",
+            "http://dbpedia.org/resource/Peoria,_Illinois",
+            "http://dbpedia.org/resource/Triad_Broadcasting"
+        ]
+    ]
+}

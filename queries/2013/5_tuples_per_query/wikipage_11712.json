@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anaheim,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Honda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Woodlands,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cynthia_Woods_Mitchell_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/SAP_Center_at_San_Jose"
+        ],
+        [
+            "http://dbpedia.org/resource/Sacramento,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sleep_Train_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Moda_Center"
+        ]
+    ]
+}

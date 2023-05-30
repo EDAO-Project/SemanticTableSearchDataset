@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/1998_Tennessee_Volunteers_football_team",
+            "http://dbpedia.org/resource/1998_Florida_State_Seminoles_football_team",
+            "http://dbpedia.org/resource/1999_Fiesta_Bowl",
+            "http://dbpedia.org/resource/Sun_Devil_Stadium",
+            "http://dbpedia.org/resource/Peerless_Price"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/1999_Florida_State_Seminoles_football_team",
+            "http://dbpedia.org/resource/1999_Virginia_Tech_Hokies_football_team",
+            "http://dbpedia.org/resource/2000_Sugar_Bowl",
+            "http://dbpedia.org/resource/Mercedes-Benz_Superdome",
+            "http://dbpedia.org/resource/Peter_Warrick"
+        ]
+    ]
+}

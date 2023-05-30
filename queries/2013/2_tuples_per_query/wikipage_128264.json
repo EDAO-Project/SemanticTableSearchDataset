@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roger_B._Taney",
+            "http://dbpedia.org/resource/Maryland",
+            "http://dbpedia.org/resource/Andrew_Jackson"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Douglass_White",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Grover_Cleveland"
+        ]
+    ]
+}

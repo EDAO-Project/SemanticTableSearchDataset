@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kouros",
+            "http://dbpedia.org/resource/Sounion",
+            "http://dbpedia.org/resource/Statue"
+        ],
+        [
+            "http://dbpedia.org/resource/Temple_of_Artemis",
+            "http://dbpedia.org/resource/Ephesus",
+            "http://dbpedia.org/resource/Architrave"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actor",
+            "http://dbpedia.org/resource/Johnny_Depp"
+        ],
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Makeup_and_Hairstyling",
+            "http://dbpedia.org/resource/Ve_Neill"
+        ]
+    ]
+}

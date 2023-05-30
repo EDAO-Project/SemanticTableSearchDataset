@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_Premier_League_speedway_season",
+            "http://dbpedia.org/resource/Eastbourne_Eagles",
+            "http://dbpedia.org/resource/Bradford_Dukes"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Premier_League_speedway_season",
+            "http://dbpedia.org/resource/Wolverhampton_Wolves",
+            "http://dbpedia.org/resource/Peterborough_Panthers"
+        ]
+    ]
+}

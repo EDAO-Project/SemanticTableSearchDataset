@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Samuel_Johnston",
+            "http://dbpedia.org/resource/1st_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1788_and_1789"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Second_lieutenant",
+            "http://dbpedia.org/resource/Indian_Army_Corps_of_Engineers",
+            "http://dbpedia.org/resource/Battle_of_Nowshera"
+        ],
+        [
+            "http://dbpedia.org/resource/Gurbachan_Singh_Salaria",
+            "http://dbpedia.org/resource/1_Gorkha_Rifles",
+            "http://dbpedia.org/resource/Lubumbashi"
+        ],
+        [
+            "http://dbpedia.org/resource/Dhan_Singh_Thapa",
+            "http://dbpedia.org/resource/8_Gorkha_Rifles",
+            "http://dbpedia.org/resource/Ladakh"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaitan_Singh",
+            "http://dbpedia.org/resource/Kumaon_Regiment",
+            "http://dbpedia.org/resource/Rezang_La"
+        ],
+        [
+            "http://dbpedia.org/resource/Lance_naik",
+            "http://dbpedia.org/resource/Brigade_of_the_Guards",
+            "http://dbpedia.org/resource/Sagar_Island"
+        ]
+    ]
+}

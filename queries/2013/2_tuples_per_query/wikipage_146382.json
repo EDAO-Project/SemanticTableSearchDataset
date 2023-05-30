@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amblie",
+            "http://dbpedia.org/resource/Amfreville,_Calvados",
+            "http://dbpedia.org/resource/Angoville,_Calvados",
+            "http://dbpedia.org/resource/Anguerny"
+        ],
+        [
+            "http://dbpedia.org/resource/Anisy",
+            "http://dbpedia.org/resource/Argences",
+            "http://dbpedia.org/resource/Aubigny,_Calvados",
+            "http://dbpedia.org/resource/Audrieu"
+        ]
+    ]
+}

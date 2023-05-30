@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beale_Street",
+            "http://dbpedia.org/resource/Memphis,_Tennessee",
+            "http://dbpedia.org/resource/Shelby_County,_Tennessee",
+            "http://dbpedia.org/resource/Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Blount_Mansion",
+            "http://dbpedia.org/resource/Knoxville,_Tennessee",
+            "http://dbpedia.org/resource/Knox_County,_Tennessee",
+            "http://dbpedia.org/resource/William_Blount"
+        ]
+    ]
+}

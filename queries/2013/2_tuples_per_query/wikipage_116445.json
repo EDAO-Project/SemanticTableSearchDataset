@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indianapolis_Motor_Speedway",
+            "http://dbpedia.org/resource/Speedway,_Indiana",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/IndyCar_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Daytona_International_Speedway",
+            "http://dbpedia.org/resource/Daytona_Beach,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sprint_Cup_Series"
+        ]
+    ]
+}

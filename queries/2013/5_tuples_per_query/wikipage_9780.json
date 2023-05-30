@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philadelphia_Eagles",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Lambeau_Field",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona_Cardinals",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Orleans_Saints",
+            "http://dbpedia.org/resource/Mercedes-Benz_Superdome",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ]
+    ]
+}

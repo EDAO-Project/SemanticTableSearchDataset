@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Carolina_State_University",
+            "http://dbpedia.org/resource/Reynolds_Coliseum",
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina",
+            "http://dbpedia.org/resource/North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/Harry_A._Gampel_Pavilion",
+            "http://dbpedia.org/resource/Storrs,_Connecticut",
+            "http://dbpedia.org/resource/Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Louisiana_Tech_University",
+            "http://dbpedia.org/resource/Thomas_Assembly_Center",
+            "http://dbpedia.org/resource/Ruston,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Purdue_University",
+            "http://dbpedia.org/resource/Mackey_Arena",
+            "http://dbpedia.org/resource/West_Lafayette,_Indiana",
+            "http://dbpedia.org/resource/Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Texas_Tech_University",
+            "http://dbpedia.org/resource/United_Supermarkets_Arena",
+            "http://dbpedia.org/resource/Lubbock,_Texas",
+            "http://dbpedia.org/resource/Texas"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Melbourne_Indoor",
+            "http://dbpedia.org/resource/Vitas_Gerulaitis",
+            "http://dbpedia.org/resource/Eliot_Teltscher",
+            "http://dbpedia.org/resource/Steve_Denton",
+            "http://dbpedia.org/resource/Paul_McNamee"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne_Indoor",
+            "http://dbpedia.org/resource/Matt_Mitchell",
+            "http://dbpedia.org/resource/Syd_Ball",
+            "http://dbpedia.org/resource/Steve_Denton",
+            "http://dbpedia.org/resource/Paul_McNamee"
+        ]
+    ]
+}

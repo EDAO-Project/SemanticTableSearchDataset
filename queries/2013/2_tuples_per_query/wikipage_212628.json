@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mahiyangana_Raja_Maha_Vihara",
+            "http://dbpedia.org/resource/Stupa",
+            "http://dbpedia.org/resource/Mahiyangana"
+        ],
+        [
+            "http://dbpedia.org/resource/Dighavapi",
+            "http://dbpedia.org/resource/Saddha_Tissa_of_Anuradhapura",
+            "http://dbpedia.org/resource/Ampara_District"
+        ]
+    ]
+}

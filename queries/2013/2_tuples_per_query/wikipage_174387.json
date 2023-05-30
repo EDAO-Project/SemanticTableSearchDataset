@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tharad",
+            "http://dbpedia.org/resource/Parbat_Patel",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Kheralu",
+            "http://dbpedia.org/resource/Bharatsinhji_Dabhi",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ]
+    ]
+}

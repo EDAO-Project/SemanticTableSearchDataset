@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HM_Prison_Manchester",
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Cruciform"
+        ],
+        [
+            "http://dbpedia.org/resource/HM_Prison_Manchester",
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Sandstone"
+        ],
+        [
+            "http://dbpedia.org/resource/HM_Prison_Manchester",
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Romanesque_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/HM_Prison_Manchester",
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Minaret"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Western_Hotel,_Liverpool",
+            "http://dbpedia.org/resource/Lime_Street,_Liverpool",
+            "http://dbpedia.org/resource/Liverpool_Lime_Street_railway_station"
+        ]
+    ]
+}

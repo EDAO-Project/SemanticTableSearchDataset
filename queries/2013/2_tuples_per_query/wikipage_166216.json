@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alice_Holt_Forest",
+            "http://dbpedia.org/resource/Hampshire",
+            "http://dbpedia.org/resource/Royal_forest"
+        ],
+        [
+            "http://dbpedia.org/resource/Bedford_Purlieus_National_Nature_Reserve",
+            "http://dbpedia.org/resource/Cambridgeshire",
+            "http://dbpedia.org/resource/Rockingham_Forest"
+        ]
+    ]
+}

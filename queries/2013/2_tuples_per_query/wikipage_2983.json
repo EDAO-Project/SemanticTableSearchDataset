@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anglesey",
+            "http://dbpedia.org/resource/Menai_massacre",
+            "http://dbpedia.org/resource/Gaius_Suetonius_Paulinus"
+        ],
+        [
+            "http://dbpedia.org/resource/Thessaloniki",
+            "http://dbpedia.org/resource/Massacre_of_Thessalonica",
+            "http://dbpedia.org/resource/Theodosius_I"
+        ]
+    ]
+}

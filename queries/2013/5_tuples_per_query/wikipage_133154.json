@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alan_Wake",
+            "http://dbpedia.org/resource/Remedy_Entertainment",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ],
+        [
+            "http://dbpedia.org/resource/Alice:_Madness_Returns",
+            "http://dbpedia.org/resource/Spicy_Horse",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ],
+        [
+            "http://dbpedia.org/resource/Aliens:_Colonial_Marines",
+            "http://dbpedia.org/resource/Sega",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ],
+        [
+            "http://dbpedia.org/resource/Amnesia:_The_Dark_Descent",
+            "http://dbpedia.org/resource/Frictional_Games",
+            "http://dbpedia.org/resource/Linux"
+        ],
+        [
+            "http://dbpedia.org/resource/Amnesia:_A_Machine_for_Pigs",
+            "http://dbpedia.org/resource/Frictional_Games",
+            "http://dbpedia.org/resource/Linux"
+        ]
+    ]
+}

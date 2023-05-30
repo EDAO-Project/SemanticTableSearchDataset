@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_shipwrecks_in_December_1942",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/German_submarine_U-406"
+        ],
+        [
+            "http://dbpedia.org/resource/SS_West_Saginaw",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Convoy_SL_125"
+        ],
+        [
+            "http://dbpedia.org/resource/SS_Empire_Simba",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Convoy_SL_125"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_shipwrecks_in_December_1942",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Convoy_SL_125"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_shipwrecks_in_December_1942",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/German_submarine_U-356"
+        ]
+    ]
+}

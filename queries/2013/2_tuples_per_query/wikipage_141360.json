@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Ragan",
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Kasey_Kahne",
+            "http://dbpedia.org/resource/Red_Bull_Racing_Team",
+            "http://dbpedia.org/resource/Toyota"
+        ]
+    ]
+}

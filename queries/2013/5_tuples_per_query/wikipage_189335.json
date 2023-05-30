@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/24_Hours_of_Daytona",
+            "http://dbpedia.org/resource/Daytona_International_Speedway",
+            "http://dbpedia.org/resource/Daytona_Beach,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/12_Hours_of_Sebring",
+            "http://dbpedia.org/resource/Sebring_International_Raceway",
+            "http://dbpedia.org/resource/Sebring,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Monterey_Sports_Car_Championships",
+            "http://dbpedia.org/resource/Mazda_Raceway_Laguna_Seca",
+            "http://dbpedia.org/resource/Monterey,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Monterey_Sports_Car_Championships",
+            "http://dbpedia.org/resource/Mazda_Raceway_Laguna_Seca",
+            "http://dbpedia.org/resource/Monterey,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/6_Hours_of_Watkins_Glen",
+            "http://dbpedia.org/resource/Watkins_Glen_International",
+            "http://dbpedia.org/resource/Watkins_Glen,_New_York"
+        ]
+    ]
+}

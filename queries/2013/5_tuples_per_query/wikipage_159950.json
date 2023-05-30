@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Reseda,_Los_Angeles",
+            "http://dbpedia.org/resource/Saddleback_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Hobbs,_New_Mexico",
+            "http://dbpedia.org/resource/Lamar_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Federal_Way,_Washington",
+            "http://dbpedia.org/resource/Federal_Way_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Sacramento,_California",
+            "http://dbpedia.org/resource/Yuba_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Rockdale_County,_Georgia",
+            "http://dbpedia.org/resource/Rockdale_County_High_School"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chile",
+            "http://dbpedia.org/resource/Andean_Volcanic_Belt",
+            "http://dbpedia.org/resource/Rhyodacite",
+            "http://dbpedia.org/resource/Holocene"
+        ],
+        [
+            "http://dbpedia.org/resource/Katla_volcano",
+            "http://dbpedia.org/resource/Iceland",
+            "http://dbpedia.org/resource/Iceland_hotspot",
+            "http://dbpedia.org/resource/Rhyolite"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rosy_boa",
+            "http://dbpedia.org/resource/Panther_chameleon",
+            "http://dbpedia.org/resource/Chuckwalla",
+            "http://dbpedia.org/resource/Cuban_crocodile"
+        ],
+        [
+            "http://dbpedia.org/resource/African_clawed_frog",
+            "http://dbpedia.org/resource/Poison_dart_frog",
+            "http://dbpedia.org/resource/Argentine_black_and_white_tegu",
+            "http://dbpedia.org/resource/Tomato_frog"
+        ]
+    ]
+}

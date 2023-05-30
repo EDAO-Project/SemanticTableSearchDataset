@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Intellivision_World_Series_Baseball",
+            "http://dbpedia.org/resource/Intellivision",
+            "http://dbpedia.org/resource/Don_Daglow",
+            "http://dbpedia.org/resource/Mattel"
+        ],
+        [
+            "http://dbpedia.org/resource/Earl_Weaver_Baseball",
+            "http://dbpedia.org/resource/Amiga",
+            "http://dbpedia.org/resource/Don_Daglow",
+            "http://dbpedia.org/resource/Electronic_Arts"
+        ],
+        [
+            "http://dbpedia.org/resource/Baseball_Stars",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/SNK_Playmore",
+            "http://dbpedia.org/resource/Nintendo"
+        ],
+        [
+            "http://dbpedia.org/resource/Base_Wars",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Ultra_Games",
+            "http://dbpedia.org/resource/Konami"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Baseball_2020",
+            "http://dbpedia.org/resource/Super_Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Tradewest",
+            "http://dbpedia.org/resource/SNK_Playmore"
+        ]
+    ]
+}

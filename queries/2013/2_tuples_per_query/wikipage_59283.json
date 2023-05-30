@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1974_in_sports",
+            "http://dbpedia.org/resource/1974_World_Sports_Acrobatics_Championships",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_in_sports",
+            "http://dbpedia.org/resource/1978_World_Sports_Acrobatics_Championships",
+            "http://dbpedia.org/resource/Sofia",
+            "http://dbpedia.org/resource/Bulgaria"
+        ]
+    ]
+}

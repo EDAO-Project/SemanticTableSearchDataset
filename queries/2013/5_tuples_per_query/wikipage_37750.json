@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Radio_Klasik_FM",
+            "http://dbpedia.org/resource/Radio_Televisyen_Malaysia",
+            "http://dbpedia.org/resource/Malay_language",
+            "http://dbpedia.org/resource/Music_radio",
+            "http://dbpedia.org/resource/Mount_Ophir"
+        ],
+        [
+            "http://dbpedia.org/resource/Nasional_FM",
+            "http://dbpedia.org/resource/Radio_Televisyen_Malaysia",
+            "http://dbpedia.org/resource/Malay_language",
+            "http://dbpedia.org/resource/Music_radio",
+            "http://dbpedia.org/resource/Mount_Ophir"
+        ],
+        [
+            "http://dbpedia.org/resource/TraXX_FM",
+            "http://dbpedia.org/resource/Radio_Televisyen_Malaysia",
+            "http://dbpedia.org/resource/English_language",
+            "http://dbpedia.org/resource/Talk_radio",
+            "http://dbpedia.org/resource/Mount_Ophir"
+        ],
+        [
+            "http://dbpedia.org/resource/Ai_FM",
+            "http://dbpedia.org/resource/Radio_Televisyen_Malaysia",
+            "http://dbpedia.org/resource/Chinese_language",
+            "http://dbpedia.org/resource/Talk_radio",
+            "http://dbpedia.org/resource/Mount_Ophir"
+        ],
+        [
+            "http://dbpedia.org/resource/Minnal_FM",
+            "http://dbpedia.org/resource/Radio_Televisyen_Malaysia",
+            "http://dbpedia.org/resource/Tamil_language",
+            "http://dbpedia.org/resource/Talk_radio",
+            "http://dbpedia.org/resource/Mount_Ophir"
+        ]
+    ]
+}

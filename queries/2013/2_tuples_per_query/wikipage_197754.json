@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonathan_Dayton",
+            "http://dbpedia.org/resource/Federalist_Party",
+            "http://dbpedia.org/resource/6th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1798_and_1799"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Dayton",
+            "http://dbpedia.org/resource/Federalist_Party",
+            "http://dbpedia.org/resource/7th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1798_and_1799"
+        ]
+    ]
+}

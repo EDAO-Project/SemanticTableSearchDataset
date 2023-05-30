@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_Estonian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Tallinn",
+            "http://dbpedia.org/resource/Liina-Grete_Lilender",
+            "http://dbpedia.org/resource/Jekaterina_Golovatenko",
+            "http://dbpedia.org/resource/Olga_Vassiljeva"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sirimavo_Bandaranaike",
+            "http://dbpedia.org/resource/Dominion_of_Ceylon",
+            "http://dbpedia.org/resource/Prime_Minister_of_Sri_Lanka"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/Europe",
+            "http://dbpedia.org/resource/La_Riviera,_California"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Milton_H._Welling",
+            "http://dbpedia.org/resource/65th_United_States_Congress",
+            "http://dbpedia.org/resource/Farmington,_Utah",
+            "http://dbpedia.org/resource/Merchant",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1920"
+        ]
+    ]
+}

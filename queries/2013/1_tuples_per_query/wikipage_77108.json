@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Helmut_Rahn",
+            "http://dbpedia.org/resource/Rot-Weiss_Essen",
+            "http://dbpedia.org/resource/West_Germany"
+        ]
+    ]
+}

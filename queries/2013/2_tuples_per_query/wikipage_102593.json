@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dylan_Hartley",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Northampton_Saints"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Mears",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Bath_Rugby"
+        ]
+    ]
+}

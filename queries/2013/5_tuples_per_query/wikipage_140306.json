@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Mark_Scheifele",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Barrie_Colts"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Adam_Lowry",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Swift_Current_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Jason_Kasdorf",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Portage_Terriers"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Jacob_Trouba",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/USA_Hockey_National_Team_Development_Program"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Sutter_family",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Saskatoon_Blades"
+        ]
+    ]
+}

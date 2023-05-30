@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WLW",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/Watt"
+        ],
+        [
+            "http://dbpedia.org/resource/WATH",
+            "http://dbpedia.org/resource/Athens,_Ohio",
+            "http://dbpedia.org/resource/Watt"
+        ],
+        [
+            "http://dbpedia.org/resource/WBEX",
+            "http://dbpedia.org/resource/Chillicothe,_Ohio",
+            "http://dbpedia.org/resource/Watt"
+        ],
+        [
+            "http://dbpedia.org/resource/WBTH",
+            "http://dbpedia.org/resource/Williamstown,_West_Virginia",
+            "http://dbpedia.org/resource/Watt"
+        ],
+        [
+            "http://dbpedia.org/resource/WCDS",
+            "http://dbpedia.org/resource/Glasgow,_Kentucky",
+            "http://dbpedia.org/resource/Watt"
+        ]
+    ]
+}

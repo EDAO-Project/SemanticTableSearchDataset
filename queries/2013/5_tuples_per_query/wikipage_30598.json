@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toshiba_Qosmio",
+            "http://dbpedia.org/resource/Toshiba",
+            "http://dbpedia.org/resource/Laptop"
+        ],
+        [
+            "http://dbpedia.org/resource/Toshiba_Qosmio",
+            "http://dbpedia.org/resource/Toshiba",
+            "http://dbpedia.org/resource/Laptop"
+        ],
+        [
+            "http://dbpedia.org/resource/Toshiba_Qosmio",
+            "http://dbpedia.org/resource/Toshiba",
+            "http://dbpedia.org/resource/Laptop"
+        ],
+        [
+            "http://dbpedia.org/resource/Toshiba_Qosmio",
+            "http://dbpedia.org/resource/Toshiba",
+            "http://dbpedia.org/resource/Laptop"
+        ],
+        [
+            "http://dbpedia.org/resource/Toshiba_Qosmio",
+            "http://dbpedia.org/resource/Toshiba",
+            "http://dbpedia.org/resource/Laptop"
+        ]
+    ]
+}

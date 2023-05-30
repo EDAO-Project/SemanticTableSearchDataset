@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Kingston",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1903"
+        ],
+        [
+            "http://dbpedia.org/resource/Edwin_Yates",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Adelaide_by-election,_1914"
+        ]
+    ]
+}

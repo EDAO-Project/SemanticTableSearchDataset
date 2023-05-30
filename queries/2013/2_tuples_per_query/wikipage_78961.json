@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/Sydney_Olympic_Park",
+            "http://dbpedia.org/resource/Feleti_Mateo",
+            "http://dbpedia.org/resource/Luke_Burt"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Roosters",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Jarryd_Hayne",
+            "http://dbpedia.org/resource/Luke_Burt"
+        ]
+    ]
+}

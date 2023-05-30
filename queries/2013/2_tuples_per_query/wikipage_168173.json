@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Blue_Meanie",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Pro-Pain_Pro_Wrestling"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Byron",
+            "http://dbpedia.org/resource/Sherman_Oaks,_Los_Angeles",
+            "http://dbpedia.org/resource/Xtreme_Pro_Wrestling"
+        ]
+    ]
+}

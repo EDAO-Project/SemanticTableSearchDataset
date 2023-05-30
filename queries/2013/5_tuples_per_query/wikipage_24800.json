@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bellwoods",
+            "http://dbpedia.org/resource/John_Yaremko",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Bracondale",
+            "http://dbpedia.org/resource/Arthur_George_Frost",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Grey_North",
+            "http://dbpedia.org/resource/Mac_Phillips",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Grey_South",
+            "http://dbpedia.org/resource/Farquhar_Oliver",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamilton_Centre",
+            "http://dbpedia.org/resource/Bill_Warrender",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

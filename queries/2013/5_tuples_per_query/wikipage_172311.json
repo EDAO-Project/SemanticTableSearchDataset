@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/009_Re:Cyborg",
+            "http://dbpedia.org/resource/Kenji_Kamiyama",
+            "http://dbpedia.org/resource/Production_I.G"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_10:_Destroy_All_Aliens",
+            "http://dbpedia.org/resource/Victor_Cook",
+            "http://dbpedia.org/resource/Cartoon_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Dragon_Age:_Dawn_of_the_Seeker",
+            "http://dbpedia.org/resource/Fumihiko_Sori",
+            "http://dbpedia.org/resource/Funimation"
+        ],
+        [
+            "http://dbpedia.org/resource/Hotel_Transylvania",
+            "http://dbpedia.org/resource/Genndy_Tartakovsky",
+            "http://dbpedia.org/resource/Sony_Pictures_Animation"
+        ],
+        [
+            "http://dbpedia.org/resource/Ice_Age:_Continental_Drift",
+            "http://dbpedia.org/resource/Steve_Martino",
+            "http://dbpedia.org/resource/Blue_Sky_Studios"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maroon_5",
+            "http://dbpedia.org/resource/Moves_like_Jagger",
+            "http://dbpedia.org/resource/Universal_Music_Group"
+        ]
+    ]
+}

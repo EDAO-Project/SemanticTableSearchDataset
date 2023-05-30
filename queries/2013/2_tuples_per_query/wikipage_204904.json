@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Niclas_Alexandersson",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Diogo_Amado",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

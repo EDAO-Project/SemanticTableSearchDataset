@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barlow_Park",
+            "http://dbpedia.org/resource/Rugby_league",
+            "http://dbpedia.org/resource/Cairns"
+        ]
+    ]
+}

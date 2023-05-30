@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/Strathcona_County"
+        ],
+        [
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/Surrey,_British_Columbia",
+            "http://dbpedia.org/resource/Burnaby"
+        ],
+        [
+            "http://dbpedia.org/resource/Manitoba",
+            "http://dbpedia.org/resource/Winnipeg",
+            "http://dbpedia.org/resource/Brandon,_Manitoba",
+            "http://dbpedia.org/resource/Rural_Municipality_of_Springfield"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Brunswick",
+            "http://dbpedia.org/resource/Saint_John,_New_Brunswick",
+            "http://dbpedia.org/resource/Moncton",
+            "http://dbpedia.org/resource/Fredericton"
+        ],
+        [
+            "http://dbpedia.org/resource/Northwest_Territories",
+            "http://dbpedia.org/resource/Yellowknife",
+            "http://dbpedia.org/resource/Hay_River,_Northwest_Territories",
+            "http://dbpedia.org/resource/Inuvik"
+        ]
+    ]
+}

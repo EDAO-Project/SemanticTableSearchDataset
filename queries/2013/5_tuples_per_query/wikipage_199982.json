@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Walter_Brewster_House",
+            "http://dbpedia.org/resource/Brewster,_New_York",
+            "http://dbpedia.org/resource/Greek_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Cold_Spring_Cemetery_Gatehouse",
+            "http://dbpedia.org/resource/Nelsonville,_New_York",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/First_National_Bank_of_Brewster",
+            "http://dbpedia.org/resource/Brewster,_New_York",
+            "http://dbpedia.org/resource/Queen_Anne_style_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Gilead_Cemetery",
+            "http://dbpedia.org/resource/Carmel,_New_York",
+            "http://dbpedia.org/resource/American_Revolutionary_War"
+        ],
+        [
+            "http://dbpedia.org/resource/House_at_3_Crown_Street",
+            "http://dbpedia.org/resource/Nelsonville,_New_York",
+            "http://dbpedia.org/resource/Italianate_architecture"
+        ]
+    ]
+}

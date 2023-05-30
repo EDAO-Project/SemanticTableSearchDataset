@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fraser_Valley_Mariners",
+            "http://dbpedia.org/resource/Abbotsford,_British_Columbia",
+            "http://dbpedia.org/resource/Abbotsford,_British_Columbia",
+            "http://dbpedia.org/resource/Pacific_Coast_Soccer_League"
+        ],
+        [
+            "http://dbpedia.org/resource/IMG_Academy_Bradenton",
+            "http://dbpedia.org/resource/Southwest_Florida",
+            "http://dbpedia.org/resource/Bradenton,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Orlando_City_U-23",
+            "http://dbpedia.org/resource/Central_Florida",
+            "http://dbpedia.org/resource/Seminole,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Denver_Cougars",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/Commerce_City,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/Wisconsin_Rebels",
+            "http://dbpedia.org/resource/Fox_Cities",
+            "http://dbpedia.org/resource/Menasha,_Wisconsin"
+        ]
+    ]
+}

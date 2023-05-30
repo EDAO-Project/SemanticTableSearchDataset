@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_Counties_Air_Operations_Unit",
+            "http://dbpedia.org/resource/Staffordshire_Police",
+            "http://dbpedia.org/resource/Eurocopter_EC135"
+        ],
+        [
+            "http://dbpedia.org/resource/Chiltern_Air_Support_Unit",
+            "http://dbpedia.org/resource/Bedfordshire_Police",
+            "http://dbpedia.org/resource/Eurocopter_EC135"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland_Air_Operations_Unit",
+            "http://dbpedia.org/resource/Cleveland_Police",
+            "http://dbpedia.org/resource/Eurocopter_EC135"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Midlands_Air_Support_Unit",
+            "http://dbpedia.org/resource/Leicestershire_Police",
+            "http://dbpedia.org/resource/Eurocopter_EC135"
+        ],
+        [
+            "http://dbpedia.org/resource/Metropolitan_Police_Air_Support_Unit",
+            "http://dbpedia.org/resource/Metropolitan_Police_District",
+            "http://dbpedia.org/resource/Eurocopter_EC145"
+        ]
+    ]
+}

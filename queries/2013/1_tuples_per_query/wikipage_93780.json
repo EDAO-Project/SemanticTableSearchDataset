@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Man-Bat",
+            "http://dbpedia.org/resource/Frank_Robbins",
+            "http://dbpedia.org/resource/Detective_Comics"
+        ]
+    ]
+}

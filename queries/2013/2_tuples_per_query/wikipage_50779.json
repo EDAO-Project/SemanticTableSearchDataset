@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_Fenner_House",
+            "http://dbpedia.org/resource/Cranston,_Rhode_Island",
+            "http://dbpedia.org/resource/Stone_ender"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Searle_House",
+            "http://dbpedia.org/resource/Cranston,_Rhode_Island",
+            "http://dbpedia.org/resource/Stone_ender"
+        ]
+    ]
+}

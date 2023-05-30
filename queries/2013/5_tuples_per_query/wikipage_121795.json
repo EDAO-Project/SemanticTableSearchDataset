@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paradise,_Nevada",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/MGM_Grand_Garden_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Paradise,_Nevada",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/MGM_Grand_Garden_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Anaheim,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Honda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Anaheim,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Honda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/SAP_Center_at_San_Jose"
+        ]
+    ]
+}

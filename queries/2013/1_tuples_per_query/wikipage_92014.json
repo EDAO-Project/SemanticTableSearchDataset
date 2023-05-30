@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Seun_Ogunkoya",
+            "http://dbpedia.org/resource/Nigeria",
+            "http://dbpedia.org/resource/1998_African_Championships_in_Athletics"
+        ]
+    ]
+}

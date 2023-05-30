@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2007_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/Pat_Neshek",
+            "http://dbpedia.org/resource/Daniel_Cabrera",
+            "http://dbpedia.org/resource/Joe_Nathan"
+        ]
+    ]
+}

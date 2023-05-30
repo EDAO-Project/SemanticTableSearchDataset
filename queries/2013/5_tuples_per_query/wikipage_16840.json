@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fred_Niblo",
+            "http://dbpedia.org/resource/Douglas_Fairbanks",
+            "http://dbpedia.org/resource/Swashbuckler_film"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Man_from_Beyond",
+            "http://dbpedia.org/resource/Burton_L._King",
+            "http://dbpedia.org/resource/Harry_Houdini"
+        ],
+        [
+            "http://dbpedia.org/resource/Aelita",
+            "http://dbpedia.org/resource/Yakov_Protazanov",
+            "http://dbpedia.org/resource/Nikolai_Batalov"
+        ],
+        [
+            "http://dbpedia.org/resource/Die_Nibelungen",
+            "http://dbpedia.org/resource/Fritz_Lang",
+            "http://dbpedia.org/resource/Paul_Richter"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Q,_Son_of_Zorro",
+            "http://dbpedia.org/resource/Donald_Crisp",
+            "http://dbpedia.org/resource/Douglas_Fairbanks"
+        ]
+    ]
+}

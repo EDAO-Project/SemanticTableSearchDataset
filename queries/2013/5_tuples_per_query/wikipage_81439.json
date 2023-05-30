@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/D._Pandian",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Aladi_Aruna"
+        ],
+        [
+            "http://dbpedia.org/resource/Era._Anbarasu",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/N._V._N._Somu"
+        ],
+        [
+            "http://dbpedia.org/resource/Maragatham_Chandrasekar",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/K._Sundaram"
+        ],
+        [
+            "http://dbpedia.org/resource/R._Prabhu",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/S._Duraisamy"
+        ],
+        [
+            "http://dbpedia.org/resource/P._G._Narayanan",
+            "http://dbpedia.org/resource/All_India_Anna_Dravida_Munnetra_Kazhagam",
+            "http://dbpedia.org/resource/G._S._Lakshman_Iyer"
+        ]
+    ]
+}

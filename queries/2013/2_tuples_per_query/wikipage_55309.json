@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stan_Seymour",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/FA_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Doug_Livingstone",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/FA_Cup"
+        ]
+    ]
+}

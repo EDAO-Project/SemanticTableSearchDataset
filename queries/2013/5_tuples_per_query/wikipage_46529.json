@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christophe_Lepoint",
+            "http://dbpedia.org/resource/A.F.C._Tubize",
+            "http://dbpedia.org/resource/R.E._Mouscron"
+        ],
+        [
+            "http://dbpedia.org/resource/Karim_Belhocine",
+            "http://dbpedia.org/resource/R.E._Virton",
+            "http://dbpedia.org/resource/K.V._Kortrijk"
+        ],
+        [
+            "http://dbpedia.org/resource/Bart_Deelkens",
+            "http://dbpedia.org/resource/K.S.K._Beveren",
+            "http://dbpedia.org/resource/K.V.C._Westerlo"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicolas_Timmermans",
+            "http://dbpedia.org/resource/K.V._Kortrijk",
+            "http://dbpedia.org/resource/K.V.C._Westerlo"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Grondin",
+            "http://dbpedia.org/resource/R.E._Mouscron",
+            "http://dbpedia.org/resource/KV_Mechelen"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/33rd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/David_Crosby",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/34th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Bonnie_Raitt",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/35th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Natalie_Cole",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/36th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Gloria_Estefan",
+            "http://dbpedia.org/resource/Cuba"
+        ],
+        [
+            "http://dbpedia.org/resource/37th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Tony_Bennett",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

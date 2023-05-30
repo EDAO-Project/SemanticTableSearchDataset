@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1955_in_baseball",
+            "http://dbpedia.org/resource/Alvin_Dark",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/Shortstop"
+        ]
+    ]
+}

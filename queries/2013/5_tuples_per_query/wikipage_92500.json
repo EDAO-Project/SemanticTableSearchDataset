@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Biel-Bienne",
+            "http://dbpedia.org/resource/Biel/Bienne",
+            "http://dbpedia.org/resource/Gurzelen_Stadion"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Chiasso",
+            "http://dbpedia.org/resource/Chiasso",
+            "http://dbpedia.org/resource/1._Liga_Classic"
+        ],
+        [
+            "http://dbpedia.org/resource/SC_Kriens",
+            "http://dbpedia.org/resource/Kriens",
+            "http://dbpedia.org/resource/Stadion_Kleinfeld"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Lausanne-Sport",
+            "http://dbpedia.org/resource/Lausanne",
+            "http://dbpedia.org/resource/Stade_olympique_de_la_Pontaise"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Locarno",
+            "http://dbpedia.org/resource/Locarno",
+            "http://dbpedia.org/resource/Stadio_del_Lido"
+        ]
+    ]
+}

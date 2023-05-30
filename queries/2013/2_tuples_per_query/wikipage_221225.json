@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Citi_Performing_Arts_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Citi_Performing_Arts_Center"
+        ]
+    ]
+}

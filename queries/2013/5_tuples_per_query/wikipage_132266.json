@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Frankie_Fredericks",
+            "http://dbpedia.org/resource/Namibia"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Jeremy_Wariner",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/David_Rudisha",
+            "http://dbpedia.org/resource/Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/William_Chirchir",
+            "http://dbpedia.org/resource/Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/Mile_run",
+            "http://dbpedia.org/resource/Simon_Doyle",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

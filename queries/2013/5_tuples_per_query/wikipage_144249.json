@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manly_Warringah_Sea_Eagles",
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Manu_Vatuvei",
+            "http://dbpedia.org/resource/James_Maloney"
+        ],
+        [
+            "http://dbpedia.org/resource/Parramatta_Eels",
+            "http://dbpedia.org/resource/Parramatta_Stadium",
+            "http://dbpedia.org/resource/Bill_Tupou",
+            "http://dbpedia.org/resource/James_Maloney"
+        ],
+        [
+            "http://dbpedia.org/resource/Gold_Coast_Titans",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium",
+            "http://dbpedia.org/resource/Shaun_Johnson",
+            "http://dbpedia.org/resource/James_Maloney"
+        ],
+        [
+            "http://dbpedia.org/resource/Canberra_Raiders",
+            "http://dbpedia.org/resource/Canberra_Stadium",
+            "http://dbpedia.org/resource/Ben_Henry",
+            "http://dbpedia.org/resource/James_Maloney"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium",
+            "http://dbpedia.org/resource/Simon_Mannering",
+            "http://dbpedia.org/resource/James_Maloney"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_in_literature",
+            "http://dbpedia.org/resource/Kim_Wilkins",
+            "http://dbpedia.org/resource/The_Infernal",
+            "http://dbpedia.org/resource/Random_House"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_literature",
+            "http://dbpedia.org/resource/Victor_Kelleher",
+            "http://dbpedia.org/resource/The_Ivory_Trail",
+            "http://dbpedia.org/resource/Viking_Press"
+        ]
+    ]
+}

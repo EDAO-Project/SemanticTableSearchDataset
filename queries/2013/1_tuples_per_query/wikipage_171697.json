@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Childress_Racing",
+            "http://dbpedia.org/resource/Chevrolet_Monte_Carlo",
+            "http://dbpedia.org/resource/Clint_Bowyer",
+            "http://dbpedia.org/resource/ACDelco"
+        ]
+    ]
+}

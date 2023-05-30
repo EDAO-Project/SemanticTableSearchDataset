@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_Challenge_Cup",
+            "http://dbpedia.org/resource/Bradford_Bulls",
+            "http://dbpedia.org/resource/Leeds_Rhinos",
+            "http://dbpedia.org/resource/Murrayfield_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Challenge_Cup",
+            "http://dbpedia.org/resource/St_Helens_RFC",
+            "http://dbpedia.org/resource/Bradford_Bulls",
+            "http://dbpedia.org/resource/Twickenham_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Challenge_Cup",
+            "http://dbpedia.org/resource/Wigan_Warriors",
+            "http://dbpedia.org/resource/St_Helens_RFC",
+            "http://dbpedia.org/resource/Murrayfield_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Challenge_Cup",
+            "http://dbpedia.org/resource/Bradford_Bulls",
+            "http://dbpedia.org/resource/Leeds_Rhinos",
+            "http://dbpedia.org/resource/Millennium_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Challenge_Cup",
+            "http://dbpedia.org/resource/St_Helens_RFC",
+            "http://dbpedia.org/resource/Wigan_Warriors",
+            "http://dbpedia.org/resource/Millennium_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ade_Gardner",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Barrow_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Gidley",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Newcastle_Knights"
+        ]
+    ]
+}

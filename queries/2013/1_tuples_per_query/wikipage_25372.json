@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2008_Tampa_Bay_Rays_season",
+            "http://dbpedia.org/resource/Matt_Garza",
+            "http://dbpedia.org/resource/Brian_Burres",
+            "http://dbpedia.org/resource/Troy_Percival"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thiruvananthapuram_Central_railway_station",
+            "http://dbpedia.org/resource/Chennai_Central_railway_station",
+            "http://dbpedia.org/resource/Thiruvananthapuram_Mail"
+        ]
+    ]
+}

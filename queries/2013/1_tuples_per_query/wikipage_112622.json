@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Candle_in_the_Wind_1997",
+            "http://dbpedia.org/resource/Elton_John",
+            "http://dbpedia.org/resource/The_Rocket_Record_Company"
+        ]
+    ]
+}

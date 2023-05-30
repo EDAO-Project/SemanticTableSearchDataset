@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Sharon_Cuneta_Show",
+            "http://dbpedia.org/resource/Intercontinental_Broadcasting_Corporation",
+            "http://dbpedia.org/resource/Sharon_Cuneta"
+        ]
+    ]
+}

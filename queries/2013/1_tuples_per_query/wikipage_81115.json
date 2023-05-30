@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lerkendal_Stadion",
+            "http://dbpedia.org/resource/Trondheim",
+            "http://dbpedia.org/resource/Rosenborg_BK",
+            "http://dbpedia.org/resource/Tippeligaen"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_PBA_season",
+            "http://dbpedia.org/resource/1983_PBA_Open_Conference",
+            "http://dbpedia.org/resource/Billy_Ray_Bates",
+            "http://dbpedia.org/resource/Crispa_Redmanizers"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_PBA_season",
+            "http://dbpedia.org/resource/1985_PBA_Open_Conference",
+            "http://dbpedia.org/resource/Norman_Black",
+            "http://dbpedia.org/resource/San_Miguel_Beermen"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_PBA_season",
+            "http://dbpedia.org/resource/1985_PBA_Reinforced_Conference",
+            "http://dbpedia.org/resource/Michael_Hackett",
+            "http://dbpedia.org/resource/Barangay_Ginebra_San_Miguel"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_PBA_season",
+            "http://dbpedia.org/resource/1987_PBA_Open_Conference",
+            "http://dbpedia.org/resource/David_Thirdkill",
+            "http://dbpedia.org/resource/Tanduay_Rhum_Masters"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_PBA_season",
+            "http://dbpedia.org/resource/1987_PBA_Reinforced_Conference",
+            "http://dbpedia.org/resource/Bobby_Parks",
+            "http://dbpedia.org/resource/San_Miguel_Beermen"
+        ]
+    ]
+}

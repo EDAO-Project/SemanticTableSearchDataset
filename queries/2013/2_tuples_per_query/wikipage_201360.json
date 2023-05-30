@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akei_language",
+            "http://dbpedia.org/resource/Espiritu_Santo",
+            "http://dbpedia.org/resource/Southern_Oceanic_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/Amblong_language",
+            "http://dbpedia.org/resource/Espiritu_Santo",
+            "http://dbpedia.org/resource/Southern_Oceanic_languages"
+        ]
+    ]
+}

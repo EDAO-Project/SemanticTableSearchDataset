@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/VAQ-129",
+            "http://dbpedia.org/resource/Northrop_Grumman_EA-6B_Prowler",
+            "http://dbpedia.org/resource/Fleet_Replacement_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/VAQ-130",
+            "http://dbpedia.org/resource/Boeing_EA-18G_Growler",
+            "http://dbpedia.org/resource/Carrier_Air_Wing_Three"
+        ],
+        [
+            "http://dbpedia.org/resource/VAQ-131",
+            "http://dbpedia.org/resource/Northrop_Grumman_EA-6B_Prowler",
+            "http://dbpedia.org/resource/Carrier_Air_Wing_Two"
+        ],
+        [
+            "http://dbpedia.org/resource/VAQ-132",
+            "http://dbpedia.org/resource/Boeing_EA-18G_Growler",
+            "http://dbpedia.org/resource/Naval_Air_Station_Whidbey_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/VAQ-133",
+            "http://dbpedia.org/resource/Northrop_Grumman_EA-6B_Prowler",
+            "http://dbpedia.org/resource/Carrier_Air_Wing_Nine"
+        ]
+    ]
+}

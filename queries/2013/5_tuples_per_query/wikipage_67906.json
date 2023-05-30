@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Match_Play_Championship",
+            "http://dbpedia.org/resource/World_Golf_Championships",
+            "http://dbpedia.org/resource/Geoff_Ogilvy"
+        ],
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Championship",
+            "http://dbpedia.org/resource/World_Golf_Championships",
+            "http://dbpedia.org/resource/Phil_Mickelson"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Players_Championship",
+            "http://dbpedia.org/resource/PGA_Tour",
+            "http://dbpedia.org/resource/Henrik_Stenson"
+        ],
+        [
+            "http://dbpedia.org/resource/BMW_PGA_Championship",
+            "http://dbpedia.org/resource/PGA_European_Tour",
+            "http://dbpedia.org/resource/Paul_Casey"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Evian_Championship",
+            "http://dbpedia.org/resource/Ladies_European_Tour",
+            "http://dbpedia.org/resource/Ai_Miyazato"
+        ]
+    ]
+}

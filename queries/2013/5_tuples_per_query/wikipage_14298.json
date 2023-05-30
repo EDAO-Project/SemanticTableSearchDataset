@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Our_Prayer",
+            "http://dbpedia.org/resource/Boys_Choir_of_Harlem",
+            "http://dbpedia.org/resource/Brian_Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/California_Girls",
+            "http://dbpedia.org/resource/Ricky_Martin",
+            "http://dbpedia.org/resource/Mike_Love"
+        ],
+        [
+            "http://dbpedia.org/resource/Help_Me,_Rhonda",
+            "http://dbpedia.org/resource/Ricky_Martin",
+            "http://dbpedia.org/resource/Mike_Love"
+        ],
+        [
+            "http://dbpedia.org/resource/Surfer_Girl",
+            "http://dbpedia.org/resource/Paul_Simon",
+            "http://dbpedia.org/resource/Brian_Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/In_My_Room",
+            "http://dbpedia.org/resource/Carly_Simon",
+            "http://dbpedia.org/resource/Gary_Usher"
+        ]
+    ]
+}

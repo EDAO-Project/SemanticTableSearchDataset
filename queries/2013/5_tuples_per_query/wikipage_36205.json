@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_countries_by_Human_Development_Index",
+            "http://dbpedia.org/resource/United_Nations",
+            "http://dbpedia.org/resource/Human_Development_Index"
+        ],
+        [
+            "http://dbpedia.org/resource/Human_Poverty_Index",
+            "http://dbpedia.org/resource/United_Nations",
+            "http://dbpedia.org/resource/Poverty"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_countries_by_income_equality",
+            "http://dbpedia.org/resource/United_Nations",
+            "http://dbpedia.org/resource/Gini_coefficient"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_countries_by_inflation_rate",
+            "http://dbpedia.org/resource/International_Monetary_Fund",
+            "http://dbpedia.org/resource/Inflation"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_government_budgets_by_country",
+            "http://dbpedia.org/resource/The_World_Factbook",
+            "http://dbpedia.org/resource/Politics_of_Iran"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/Ixtepec,_Oaxaca"
+        ],
+        [
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/Coixtlahuaca_District"
+        ],
+        [
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/Ejutla_de_Crespo"
+        ],
+        [
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/San_Pedro_Huamelula"
+        ],
+        [
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/Loma_Bonita"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ben_McDonald",
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Louisiana_State_University"
+        ]
+    ]
+}

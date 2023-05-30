@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Purley",
+            "http://dbpedia.org/resource/Ensign_Racing",
+            "http://dbpedia.org/resource/Formula_Three"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Purley",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Formula_Three"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Purley",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Formula_Three"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Westbury",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Formula_Three"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Westbury",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Formula_Three"
+        ]
+    ]
+}

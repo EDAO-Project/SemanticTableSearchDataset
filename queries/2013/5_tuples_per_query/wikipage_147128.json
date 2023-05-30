@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/One_Hundred_and_One_Dalmatians",
+            "http://dbpedia.org/resource/Clyde_Geronimi",
+            "http://dbpedia.org/resource/Walt_Disney_Animation_Studios",
+            "http://dbpedia.org/resource/Traditional_animation"
+        ],
+        [
+            "http://dbpedia.org/resource/Pinocchio_in_Outer_Space",
+            "http://dbpedia.org/resource/Ray_Goossens",
+            "http://dbpedia.org/resource/Belvision_Studios",
+            "http://dbpedia.org/resource/Traditional_animation"
+        ],
+        [
+            "http://dbpedia.org/resource/Alice_of_Wonderland_in_Paris",
+            "http://dbpedia.org/resource/Gene_Deitch",
+            "http://dbpedia.org/resource/Rembrandt_Films",
+            "http://dbpedia.org/resource/Traditional_animation"
+        ],
+        [
+            "http://dbpedia.org/resource/Kimba_the_White_Lion",
+            "http://dbpedia.org/resource/Eiichi_Yamamoto",
+            "http://dbpedia.org/resource/Mushi_Production",
+            "http://dbpedia.org/resource/Traditional_animation"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Man_Called_Flintstone",
+            "http://dbpedia.org/resource/Joseph_Barbera",
+            "http://dbpedia.org/resource/Hanna-Barbera",
+            "http://dbpedia.org/resource/Traditional_animation"
+        ]
+    ]
+}

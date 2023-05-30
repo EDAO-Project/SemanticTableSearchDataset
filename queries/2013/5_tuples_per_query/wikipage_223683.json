@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_in_golf",
+            "http://dbpedia.org/resource/Yim_Sung-ah",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_golf",
+            "http://dbpedia.org/resource/Jennifer_Rosales",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_sports",
+            "http://dbpedia.org/resource/Pak_Se-ri",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_in_sports",
+            "http://dbpedia.org/resource/Juli_Inkster",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_sports",
+            "http://dbpedia.org/resource/Sophie_Gustafson",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edward_Tiffin",
+            "http://dbpedia.org/resource/Democratic-Republican_Party",
+            "http://dbpedia.org/resource/10th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1806_and_1807"
+        ]
+    ]
+}

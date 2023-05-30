@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_J._League_Division_2",
+            "http://dbpedia.org/resource/Kawasaki_Frontale",
+            "http://dbpedia.org/resource/F.C._Tokyo",
+            "http://dbpedia.org/resource/Oita_Trinita"
+        ]
+    ]
+}

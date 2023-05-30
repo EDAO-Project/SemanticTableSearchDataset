@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_in_literature",
+            "http://dbpedia.org/resource/Anne_McCaffrey",
+            "http://dbpedia.org/resource/Dragonflight",
+            "http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_in_literature",
+            "http://dbpedia.org/resource/Roger_Zelazny",
+            "http://dbpedia.org/resource/Damnation_Alley",
+            "http://dbpedia.org/resource/Galaxy_Science_Fiction"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_in_literature",
+            "http://dbpedia.org/resource/Robert_Silverberg",
+            "http://dbpedia.org/resource/Hawksbill_Station",
+            "http://dbpedia.org/resource/Galaxy_Science_Fiction"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_in_literature",
+            "http://dbpedia.org/resource/Anne_McCaffrey",
+            "http://dbpedia.org/resource/Dragonflight",
+            "http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_in_literature",
+            "http://dbpedia.org/resource/Robert_Silverberg",
+            "http://dbpedia.org/resource/The_World_Inside",
+            "http://dbpedia.org/resource/Galaxy_Science_Fiction"
+        ]
+    ]
+}

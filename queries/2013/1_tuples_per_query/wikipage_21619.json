@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jesse_Ryder",
+            "http://dbpedia.org/resource/West_Indies",
+            "http://dbpedia.org/resource/Hamilton,_New_Zealand"
+        ]
+    ]
+}

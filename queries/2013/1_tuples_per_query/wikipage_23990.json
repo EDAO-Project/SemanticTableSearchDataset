@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_Summer_Universiade",
+            "http://dbpedia.org/resource/Turin",
+            "http://dbpedia.org/resource/1970_Winter_Universiade",
+            "http://dbpedia.org/resource/Rovaniemi"
+        ]
+    ]
+}

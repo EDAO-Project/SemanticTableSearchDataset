@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daly_City,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cow_Palace"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Boston_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cincinnati_Gardens"
+        ],
+        [
+            "http://dbpedia.org/resource/Memphis,_Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mid-South_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Madison_Square_Garden"
+        ]
+    ]
+}

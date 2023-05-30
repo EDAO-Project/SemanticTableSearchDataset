@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Citizens_Bank_Park",
+            "http://dbpedia.org/resource/1991_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Majestic_Athletic",
+            "http://dbpedia.org/resource/Arizona_Diamondbacks",
+            "http://dbpedia.org/resource/1999_Arizona_Diamondbacks_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Citizens_Bank_Park",
+            "http://dbpedia.org/resource/1991_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Majestic_Athletic",
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/1991_Cincinnati_Reds_season"
+        ]
+    ]
+}

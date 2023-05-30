@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Panama_City",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/Figali_Convention_Center"
+        ]
+    ]
+}

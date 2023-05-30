@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Olympic_Gymnastics_Arena",
+            "http://dbpedia.org/resource/2NE1"
+        ],
+        [
+            "http://dbpedia.org/resource/Fukuoka",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Fukuoka_Dome",
+            "http://dbpedia.org/resource/Taeyang"
+        ]
+    ]
+}

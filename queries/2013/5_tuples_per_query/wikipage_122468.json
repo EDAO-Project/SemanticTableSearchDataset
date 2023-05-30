@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Femi_Ogunode",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Asian_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Femi_Ogunode",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Asian_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Mutaz_Essa_Barshim",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Asian_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Shooting_at_the_2010_Asian_Games",
+            "http://dbpedia.org/resource/Shooting_at_the_2010_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Kwalia",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Asian_Games",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Asian_Games"
+        ]
+    ]
+}

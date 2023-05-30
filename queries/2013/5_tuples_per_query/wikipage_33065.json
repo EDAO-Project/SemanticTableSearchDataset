@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charleston,_West_Virginia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Charleston_Municipal_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Rapids,_Michigan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/DeltaPlex_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Cedar_Falls,_Iowa",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Northern_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Fargo,_North_Dakota",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Fargo_Civic_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Merrillville,_Indiana",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Star_Plaza_Theatre"
+        ]
+    ]
+}

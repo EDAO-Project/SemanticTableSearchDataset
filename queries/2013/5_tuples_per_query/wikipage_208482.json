@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/West_Berkshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Reading,_Berkshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Borough_of_Wokingham"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Bracknell_Forest"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Berkshire",
+            "http://dbpedia.org/resource/Royal_Borough_of_Windsor_and_Maidenhead"
+        ]
+    ]
+}

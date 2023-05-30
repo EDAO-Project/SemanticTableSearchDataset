@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benelux",
+            "http://dbpedia.org/resource/Bertrand_Baguette",
+            "http://dbpedia.org/resource/2010_IndyCar_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Benelux",
+            "http://dbpedia.org/resource/Jeroen_Bleekemolen",
+            "http://dbpedia.org/resource/2010_American_Le_Mans_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Alain_Prost",
+            "http://dbpedia.org/resource/Andros_Trophy"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Michael_Schumacher",
+            "http://dbpedia.org/resource/2010_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Sebastian_Vettel",
+            "http://dbpedia.org/resource/2010_Formula_One_season"
+        ]
+    ]
+}

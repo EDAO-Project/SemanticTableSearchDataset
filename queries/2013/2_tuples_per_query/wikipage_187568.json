@@ -1,0 +1,19 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/UCLA_Bruins",
+            "http://dbpedia.org/resource/California_Golden_Bears",
+            "http://dbpedia.org/resource/Ham_Richardson",
+            "http://dbpedia.org/resource/Syracuse_Orange",
+            "http://dbpedia.org/resource/Syracuse,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/UCLA_Bruins",
+            "http://dbpedia.org/resource/USC_Trojans",
+            "http://dbpedia.org/resource/Alex_Olmedo",
+            "http://dbpedia.org/resource/Alex_Olmedo",
+            "http://dbpedia.org/resource/Kalamazoo_College",
+            "http://dbpedia.org/resource/Kalamazoo,_Michigan"
+        ]
+    ]
+}

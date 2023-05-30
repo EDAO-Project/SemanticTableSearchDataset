@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/City_Centre_Bangladesh",
+            "http://dbpedia.org/resource/Dhaka",
+            "http://dbpedia.org/resource/Bangladesh"
+        ]
+    ]
+}

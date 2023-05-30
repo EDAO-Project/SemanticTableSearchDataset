@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_NFL_season",
+            "http://dbpedia.org/resource/Super_Bowl_I",
+            "http://dbpedia.org/resource/Bart_Starr",
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Quarterback"
+        ]
+    ]
+}

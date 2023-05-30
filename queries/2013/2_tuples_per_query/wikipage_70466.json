@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bardstown_Historic_District",
+            "http://dbpedia.org/resource/U.S._Route_31E",
+            "http://dbpedia.org/resource/Bardstown,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Confederate_Monument_of_Bardstown",
+            "http://dbpedia.org/resource/U.S._Route_31E",
+            "http://dbpedia.org/resource/Bardstown,_Kentucky"
+        ]
+    ]
+}

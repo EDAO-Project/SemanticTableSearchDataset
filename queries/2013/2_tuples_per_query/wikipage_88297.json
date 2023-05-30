@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tapper",
+            "http://dbpedia.org/resource/Marvin_Glass_and_Associates",
+            "http://dbpedia.org/resource/Midway_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Tass_Times_in_Tonetown",
+            "http://dbpedia.org/resource/Brainwave_Creations",
+            "http://dbpedia.org/resource/Activision"
+        ]
+    ]
+}

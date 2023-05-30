@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Delazon_Smith",
+            "http://dbpedia.org/resource/35th_United_States_Congress",
+            "http://dbpedia.org/resource/Joseph_Lane"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Dickinson_Baker",
+            "http://dbpedia.org/resource/36th_United_States_Congress",
+            "http://dbpedia.org/resource/Joseph_Lane"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Dickinson_Baker",
+            "http://dbpedia.org/resource/37th_United_States_Congress",
+            "http://dbpedia.org/resource/James_Nesmith"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Stark",
+            "http://dbpedia.org/resource/37th_United_States_Congress",
+            "http://dbpedia.org/resource/James_Nesmith"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_F._Harding",
+            "http://dbpedia.org/resource/37th_United_States_Congress",
+            "http://dbpedia.org/resource/James_Nesmith"
+        ]
+    ]
+}

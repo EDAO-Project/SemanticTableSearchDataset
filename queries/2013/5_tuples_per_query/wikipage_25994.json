@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Katie_Feenstra-Mattera",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Atlanta_Dream",
+            "http://dbpedia.org/resource/Detroit_Shock"
+        ],
+        [
+            "http://dbpedia.org/resource/Roneeka_Hodges",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Atlanta_Dream",
+            "http://dbpedia.org/resource/Houston_Comets"
+        ],
+        [
+            "http://dbpedia.org/resource/Ann_Strother",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Atlanta_Dream",
+            "http://dbpedia.org/resource/Indiana_Fever"
+        ],
+        [
+            "http://dbpedia.org/resource/LaToya_Thomas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Atlanta_Dream",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks"
+        ],
+        [
+            "http://dbpedia.org/resource/Kristen_Mann",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Atlanta_Dream",
+            "http://dbpedia.org/resource/Minnesota_Lynx"
+        ]
+    ]
+}

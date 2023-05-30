@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balloon_Fight",
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Platform_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Bang_Bead",
+            "http://dbpedia.org/resource/Visco_Corporation",
+            "http://dbpedia.org/resource/Breakout_clone"
+        ]
+    ]
+}

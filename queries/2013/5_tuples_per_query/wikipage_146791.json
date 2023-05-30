@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carennac",
+            "http://dbpedia.org/resource/Carlucet",
+            "http://dbpedia.org/resource/Cavagnac",
+            "http://dbpedia.org/resource/Cazillac"
+        ],
+        [
+            "http://dbpedia.org/resource/Floirac,_Lot",
+            "http://dbpedia.org/resource/Fontanes-du-Causse",
+            "http://dbpedia.org/resource/Frayssinet",
+            "http://dbpedia.org/resource/Gignac,_Lot"
+        ],
+        [
+            "http://dbpedia.org/resource/Ginouillac",
+            "http://dbpedia.org/resource/Gourdon,_Lot",
+            "http://dbpedia.org/resource/Gramat",
+            "http://dbpedia.org/resource/Labastide-Murat"
+        ],
+        [
+            "http://dbpedia.org/resource/Le_Roc",
+            "http://dbpedia.org/resource/Le_Vigan,_Lot",
+            "http://dbpedia.org/resource/Les_Quatre-Routes-du-Lot",
+            "http://dbpedia.org/resource/Loupiac,_Lot"
+        ],
+        [
+            "http://dbpedia.org/resource/Mayrac",
+            "http://dbpedia.org/resource/Meyronne",
+            "http://dbpedia.org/resource/Miers,_Lot",
+            "http://dbpedia.org/resource/Milhac"
+        ]
+    ]
+}

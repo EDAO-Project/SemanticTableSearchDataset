@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Meat_Loaf",
+            "http://dbpedia.org/resource/Bat_Out_of_Hell",
+            "http://dbpedia.org/resource/Epic_Records"
+        ]
+    ]
+}

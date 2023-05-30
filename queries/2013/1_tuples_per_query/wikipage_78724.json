@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1901_Chicago_White_Stockings_season",
+            "http://dbpedia.org/resource/Roy_Patterson",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/South_Side_Park"
+        ]
+    ]
+}

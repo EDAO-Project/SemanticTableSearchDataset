@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wayne_Patchett",
+            "http://dbpedia.org/resource/Athletics_at_the_1976_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1976_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Tracey_Freeman",
+            "http://dbpedia.org/resource/Athletics_at_the_1976_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1976_Summer_Paralympics"
+        ]
+    ]
+}

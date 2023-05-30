@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1955_in_sports",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

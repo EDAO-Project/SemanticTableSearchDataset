@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andriy_Shevchenko",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Ukraine"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Nesta",
+            "http://dbpedia.org/resource/S.S._Lazio",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Rivaldo",
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/Brazil"
+        ],
+        [
+            "http://dbpedia.org/resource/Gabriel_Batistuta",
+            "http://dbpedia.org/resource/A.S._Roma",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Gaizka_Mendieta",
+            "http://dbpedia.org/resource/Valencia_CF",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

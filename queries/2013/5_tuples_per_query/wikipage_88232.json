@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cameron_van_der_Burgh",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/List_of_World_Championships_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Brenton_Rickard",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/List_of_Oceanian_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Terrin",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/List_of_Italian_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Hendrik_Feldwehr",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/List_of_German_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuki_Honda",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/List_of_Asian_records_in_swimming"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sussex_Thunder",
+            "http://dbpedia.org/resource/West_Coast_Trojans",
+            "http://dbpedia.org/resource/Don_Valley_Stadium"
+        ]
+    ]
+}

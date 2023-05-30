@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dawn_Hill",
+            "http://dbpedia.org/resource/Cape_Neddick,_Maine",
+            "http://dbpedia.org/resource/York_County,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronald_F._Collins",
+            "http://dbpedia.org/resource/Wells,_Maine",
+            "http://dbpedia.org/resource/York_County,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Dutremble",
+            "http://dbpedia.org/resource/Biddeford,_Maine",
+            "http://dbpedia.org/resource/York_County,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/Linda_Valentino",
+            "http://dbpedia.org/resource/Saco,_Maine",
+            "http://dbpedia.org/resource/York_County,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/Rebecca_Millett",
+            "http://dbpedia.org/resource/Cape_Elizabeth,_Maine",
+            "http://dbpedia.org/resource/Cumberland_County,_Maine"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Virginia",
+            "http://dbpedia.org/resource/Terry_Holland",
+            "http://dbpedia.org/resource/University_of_Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/Northeastern_University",
+            "http://dbpedia.org/resource/Jim_Calhoun",
+            "http://dbpedia.org/resource/Virginia_Commonwealth_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Richmond",
+            "http://dbpedia.org/resource/Dick_Tarrant",
+            "http://dbpedia.org/resource/Indiana_University_Bloomington"
+        ],
+        [
+            "http://dbpedia.org/resource/Rider_University",
+            "http://dbpedia.org/resource/John_Barker_Carpenter",
+            "http://dbpedia.org/resource/University_of_Richmond"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Kentucky",
+            "http://dbpedia.org/resource/Joe_B._Hall",
+            "http://dbpedia.org/resource/Georgetown_University"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Quentin_N._Burdick",
+            "http://dbpedia.org/resource/North_Dakota_Democratic-Nonpartisan_League_Party",
+            "http://dbpedia.org/resource/86th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_special_election_in_North_Dakota,_1960"
+        ],
+        [
+            "http://dbpedia.org/resource/Quentin_N._Burdick",
+            "http://dbpedia.org/resource/North_Dakota_Democratic-Nonpartisan_League_Party",
+            "http://dbpedia.org/resource/87th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_special_election_in_North_Dakota,_1960"
+        ]
+    ]
+}

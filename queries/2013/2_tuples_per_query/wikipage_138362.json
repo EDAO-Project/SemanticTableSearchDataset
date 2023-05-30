@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Unek",
+            "http://dbpedia.org/resource/Ituri_Interim_Administration",
+            "http://dbpedia.org/resource/Belgian_Congo"
+        ],
+        [
+            "http://dbpedia.org/resource/Kampala_wedding_massacre",
+            "http://dbpedia.org/resource/Kampala",
+            "http://dbpedia.org/resource/Uganda"
+        ]
+    ]
+}

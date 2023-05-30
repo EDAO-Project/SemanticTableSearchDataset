@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_in_film",
+            "http://dbpedia.org/resource/John_Lasseter",
+            "http://dbpedia.org/resource/Toy_Story_2"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_film",
+            "http://dbpedia.org/resource/Jun_Falkenstein",
+            "http://dbpedia.org/resource/The_Tigger_Movie"
+        ]
+    ]
+}

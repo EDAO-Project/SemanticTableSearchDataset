@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kari_Haakana",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Outokumpu"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alluwe,_Oklahoma",
+            "http://dbpedia.org/resource/Nowata_County,_Oklahoma",
+            "http://dbpedia.org/resource/Lenape"
+        ],
+        [
+            "http://dbpedia.org/resource/Chahta_Tamaha,_Indian_Territory",
+            "http://dbpedia.org/resource/Bryan_County,_Oklahoma",
+            "http://dbpedia.org/resource/Choctaw_Nation_of_Oklahoma"
+        ]
+    ]
+}

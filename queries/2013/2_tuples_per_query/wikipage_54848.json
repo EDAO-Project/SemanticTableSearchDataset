@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al_Ahly_SC",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Zamalek_SC",
+            "http://dbpedia.org/resource/Giza",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ]
+    ]
+}

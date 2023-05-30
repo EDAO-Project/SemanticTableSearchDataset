@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oulton_Park_International_Gold_Cup",
+            "http://dbpedia.org/resource/Oulton_Park",
+            "http://dbpedia.org/resource/Dave_Kennedy"
+        ],
+        [
+            "http://dbpedia.org/resource/Brands_Hatch",
+            "http://dbpedia.org/resource/Guy_Edwards",
+            "http://dbpedia.org/resource/Fittipaldi_F5"
+        ]
+    ]
+}

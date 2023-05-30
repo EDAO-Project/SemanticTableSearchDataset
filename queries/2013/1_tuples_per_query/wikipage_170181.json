@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_Oval",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/John_Edrich"
+        ]
+    ]
+}

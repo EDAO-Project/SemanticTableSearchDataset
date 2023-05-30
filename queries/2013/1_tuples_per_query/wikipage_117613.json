@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Wasilla,_Alaska",
+            "http://dbpedia.org/resource/Mat-Su_Valley_Frontiersman"
+        ]
+    ]
+}

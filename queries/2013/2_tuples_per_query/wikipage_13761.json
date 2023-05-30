@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tampa_Bay_Rays",
+            "http://dbpedia.org/resource/Kameron_Loe",
+            "http://dbpedia.org/resource/Seth_McClung",
+            "http://dbpedia.org/resource/Akinori_Otsuka"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa_Bay_Rays",
+            "http://dbpedia.org/resource/Rob_Tejeda",
+            "http://dbpedia.org/resource/Mark_Hendrickson",
+            "http://dbpedia.org/resource/Akinori_Otsuka"
+        ]
+    ]
+}

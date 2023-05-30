@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1956_in_film",
+            "http://dbpedia.org/resource/The_Staffan_Stolle_Story",
+            "http://dbpedia.org/resource/Hasse_Ekman"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_in_film",
+            "http://dbpedia.org/resource/The_Seventh_Seal",
+            "http://dbpedia.org/resource/Ingmar_Bergman"
+        ]
+    ]
+}

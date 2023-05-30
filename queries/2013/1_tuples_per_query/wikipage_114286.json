@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Heat",
+            "http://dbpedia.org/resource/Ricky_Pierce",
+            "http://dbpedia.org/resource/Benoit_Benjamin",
+            "http://dbpedia.org/resource/Nate_McMillan",
+            "http://dbpedia.org/resource/KeyArena"
+        ]
+    ]
+}

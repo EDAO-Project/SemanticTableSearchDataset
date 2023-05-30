@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Cardinals",
+            "http://dbpedia.org/resource/University_of_Phoenix_Stadium",
+            "http://dbpedia.org/resource/Glendale,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Bills",
+            "http://dbpedia.org/resource/St._John_Fisher_College",
+            "http://dbpedia.org/resource/Pittsford,_New_York"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Li_Na",
+            "http://dbpedia.org/resource/Kaia_Kanepi",
+            "http://dbpedia.org/resource/Kim_Clijsters",
+            "http://dbpedia.org/resource/Venus_Williams"
+        ]
+    ]
+}

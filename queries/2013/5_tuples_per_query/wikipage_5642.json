@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FIL_World_Luge_Natural_Track_Championships_1979",
+            "http://dbpedia.org/resource/Werner_Prantl",
+            "http://dbpedia.org/resource/Damiano_Lugon",
+            "http://dbpedia.org/resource/Erich_Graber"
+        ],
+        [
+            "http://dbpedia.org/resource/FIL_World_Luge_Natural_Track_Championships_1980",
+            "http://dbpedia.org/resource/Erich_Graber",
+            "http://dbpedia.org/resource/Damiano_Lugon",
+            "http://dbpedia.org/resource/Otto_Bachmann"
+        ],
+        [
+            "http://dbpedia.org/resource/FIL_World_Luge_Natural_Track_Championships_1982",
+            "http://dbpedia.org/resource/Gerhard_Pircher",
+            "http://dbpedia.org/resource/Otto_Bachmann",
+            "http://dbpedia.org/resource/Werner_Prantl"
+        ],
+        [
+            "http://dbpedia.org/resource/FIL_World_Luge_Natural_Track_Championships_1984",
+            "http://dbpedia.org/resource/Alfred_Kogler",
+            "http://dbpedia.org/resource/Giuseppe_Cerise",
+            "http://dbpedia.org/resource/Willi_Danklmaier"
+        ],
+        [
+            "http://dbpedia.org/resource/FIL_World_Luge_Natural_Track_Championships_1986",
+            "http://dbpedia.org/resource/Gerhard_Pilz",
+            "http://dbpedia.org/resource/Damiano_Lugon",
+            "http://dbpedia.org/resource/Harald_Steinhauser"
+        ]
+    ]
+}

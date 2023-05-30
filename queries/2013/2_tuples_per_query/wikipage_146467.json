@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aumontzey",
+            "http://dbpedia.org/resource/Ban-de-Laveline",
+            "http://dbpedia.org/resource/Ban-de-Sapt"
+        ],
+        [
+            "http://dbpedia.org/resource/Ban-sur-Meurthe-Clefcy",
+            "http://dbpedia.org/resource/Barbey-Seroux",
+            "http://dbpedia.org/resource/Belmont-sur-Buttant"
+        ]
+    ]
+}

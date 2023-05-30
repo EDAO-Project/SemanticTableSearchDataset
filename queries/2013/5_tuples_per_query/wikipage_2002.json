@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Palm_Beach_County,_Florida",
+            "http://dbpedia.org/resource/Boca_Raton,_Florida",
+            "http://dbpedia.org/resource/List_of_former_state_roads_in_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Palm_Beach_County,_Florida",
+            "http://dbpedia.org/resource/Boca_Raton,_Florida",
+            "http://dbpedia.org/resource/Florida_State_Road_794"
+        ],
+        [
+            "http://dbpedia.org/resource/Palm_Beach_County,_Florida",
+            "http://dbpedia.org/resource/Lake_Worth,_Florida",
+            "http://dbpedia.org/resource/Florida_State_Road_812"
+        ],
+        [
+            "http://dbpedia.org/resource/Palm_Beach_County,_Florida",
+            "http://dbpedia.org/resource/Royal_Palm_Beach,_Florida",
+            "http://dbpedia.org/resource/Florida_State_Road_882"
+        ],
+        [
+            "http://dbpedia.org/resource/Orange_County,_Florida",
+            "http://dbpedia.org/resource/Tangerine,_Florida",
+            "http://dbpedia.org/resource/Florida_State_Road_500"
+        ]
+    ]
+}

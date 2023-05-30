@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_United_States_Congress",
+            "http://dbpedia.org/resource/Richard_Henry_Lee",
+            "http://dbpedia.org/resource/Anti-Administration_party",
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Virginia"
+        ]
+    ]
+}

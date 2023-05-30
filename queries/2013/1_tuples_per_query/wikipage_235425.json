@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agios_Efstratios",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Saint_Eustratius"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Three_Bridges_railway_station",
+            "http://dbpedia.org/resource/Redhill_railway_station",
+            "http://dbpedia.org/resource/Peterborough_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Three_Bridges_railway_station",
+            "http://dbpedia.org/resource/Redhill_railway_station",
+            "http://dbpedia.org/resource/Peterborough_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Horsham_railway_station",
+            "http://dbpedia.org/resource/Redhill_railway_station",
+            "http://dbpedia.org/resource/Cambridge_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Horsham_railway_station",
+            "http://dbpedia.org/resource/Redhill_railway_station",
+            "http://dbpedia.org/resource/Cambridge_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Caterham_railway_station",
+            "http://dbpedia.org/resource/Norwood_Junction_railway_station",
+            "http://dbpedia.org/resource/St_Albans_City_railway_station"
+        ]
+    ]
+}

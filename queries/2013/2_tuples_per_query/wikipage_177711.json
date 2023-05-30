@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Luis_Valley_Regional_Medical_Center",
+            "http://dbpedia.org/resource/Alamosa_County,_Colorado",
+            "http://dbpedia.org/resource/Alamosa,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Medical_Center_of_Aurora",
+            "http://dbpedia.org/resource/Arapahoe_County,_Colorado",
+            "http://dbpedia.org/resource/Aurora,_Colorado"
+        ]
+    ]
+}

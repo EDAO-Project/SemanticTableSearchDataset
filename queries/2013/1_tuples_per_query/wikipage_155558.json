@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bowling_Green_Hot_Rods",
+            "http://dbpedia.org/resource/Tampa_Bay_Rays",
+            "http://dbpedia.org/resource/Bowling_Green,_Kentucky",
+            "http://dbpedia.org/resource/Bowling_Green_Ballpark"
+        ]
+    ]
+}

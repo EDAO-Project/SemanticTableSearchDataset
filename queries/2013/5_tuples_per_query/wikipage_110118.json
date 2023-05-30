@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nathan_MacKinnon",
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/Halifax_Mooseheads"
+        ],
+        [
+            "http://dbpedia.org/resource/Darnell_Nurse",
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Sault_Ste._Marie_Greyhounds"
+        ],
+        [
+            "http://dbpedia.org/resource/Rasmus_Ristolainen",
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/HC_TPS"
+        ],
+        [
+            "http://dbpedia.org/resource/Bo_Horvat",
+            "http://dbpedia.org/resource/Vancouver_Canucks",
+            "http://dbpedia.org/resource/London_Knights"
+        ],
+        [
+            "http://dbpedia.org/resource/Valeri_Nichushkin",
+            "http://dbpedia.org/resource/Dallas_Stars",
+            "http://dbpedia.org/resource/HC_Dynamo_Moscow"
+        ]
+    ]
+}

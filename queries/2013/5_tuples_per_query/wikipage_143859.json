@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_Bruce-Lyle",
+            "http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines",
+            "http://dbpedia.org/resource/Ghana"
+        ],
+        [
+            "http://dbpedia.org/resource/Francis_Belle",
+            "http://dbpedia.org/resource/Saint_Lucia",
+            "http://dbpedia.org/resource/Barbados"
+        ],
+        [
+            "http://dbpedia.org/resource/Clare_Henry",
+            "http://dbpedia.org/resource/Grenada",
+            "http://dbpedia.org/resource/Antigua_and_Barbuda"
+        ],
+        [
+            "http://dbpedia.org/resource/Ianthea_Leigertwood-Octave",
+            "http://dbpedia.org/resource/Saint_Kitts_and_Nevis",
+            "http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Cottle",
+            "http://dbpedia.org/resource/Dominica",
+            "http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines"
+        ]
+    ]
+}

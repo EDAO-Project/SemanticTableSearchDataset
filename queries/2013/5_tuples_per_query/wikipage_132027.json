@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Taenung_International_Shooting_Range",
+            "http://dbpedia.org/resource/1988_Summer_Olympics",
+            "http://dbpedia.org/resource/Modern_pentathlon_at_the_1988_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Tali,_Helsinki",
+            "http://dbpedia.org/resource/1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Equestrian_at_the_1952_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampere",
+            "http://dbpedia.org/resource/1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Football_at_the_1952_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Tennispalatsi",
+            "http://dbpedia.org/resource/1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Basketball_at_the_1952_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Tianjin_Olympic_Center_Stadium",
+            "http://dbpedia.org/resource/2008_Summer_Olympics",
+            "http://dbpedia.org/resource/Football_at_the_2008_Summer_Olympics"
+        ]
+    ]
+}

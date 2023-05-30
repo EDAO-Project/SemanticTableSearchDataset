@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brands_Hatch",
+            "http://dbpedia.org/resource/Leon_Haslam",
+            "http://dbpedia.org/resource/Ryuichi_Kiyonari"
+        ],
+        [
+            "http://dbpedia.org/resource/Brands_Hatch",
+            "http://dbpedia.org/resource/Leon_Haslam",
+            "http://dbpedia.org/resource/Ryuichi_Kiyonari"
+        ],
+        [
+            "http://dbpedia.org/resource/Mondello_Park",
+            "http://dbpedia.org/resource/Jonathan_Rea",
+            "http://dbpedia.org/resource/Ryuichi_Kiyonari"
+        ],
+        [
+            "http://dbpedia.org/resource/Mondello_Park",
+            "http://dbpedia.org/resource/Jonathan_Rea",
+            "http://dbpedia.org/resource/Gregorio_Lavilla"
+        ],
+        [
+            "http://dbpedia.org/resource/Snetterton_Circuit",
+            "http://dbpedia.org/resource/Leon_Haslam",
+            "http://dbpedia.org/resource/Ryuichi_Kiyonari"
+        ]
+    ]
+}

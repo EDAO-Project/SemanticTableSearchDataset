@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alaska_Highway",
+            "http://dbpedia.org/resource/Fort_Nelson,_British_Columbia",
+            "http://dbpedia.org/resource/Tok,_Alaska"
+        ],
+        [
+            "http://dbpedia.org/resource/Klondike_Highway",
+            "http://dbpedia.org/resource/Skagway,_Alaska",
+            "http://dbpedia.org/resource/Whitehorse,_Yukon"
+        ],
+        [
+            "http://dbpedia.org/resource/Klondike_Highway",
+            "http://dbpedia.org/resource/Whitehorse,_Yukon",
+            "http://dbpedia.org/resource/Dawson_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Haines_Highway",
+            "http://dbpedia.org/resource/Haines,_Alaska",
+            "http://dbpedia.org/resource/Haines_Junction"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Campbell_Highway",
+            "http://dbpedia.org/resource/Watson_Lake,_Yukon",
+            "http://dbpedia.org/resource/Carmacks,_Yukon"
+        ]
+    ]
+}

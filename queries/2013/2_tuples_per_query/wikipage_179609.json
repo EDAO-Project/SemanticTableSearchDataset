@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Conventional_Weapons",
+            "http://dbpedia.org/resource/My_Chemical_Romance",
+            "http://dbpedia.org/resource/Reprise_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Chandelier",
+            "http://dbpedia.org/resource/Biffy_Clyro",
+            "http://dbpedia.org/resource/14th_Floor_Records"
+        ]
+    ]
+}

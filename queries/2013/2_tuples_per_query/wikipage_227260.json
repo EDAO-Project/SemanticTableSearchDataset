@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_in_baseball",
+            "http://dbpedia.org/resource/Andy_Benes",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/University_of_Evansville"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_in_baseball",
+            "http://dbpedia.org/resource/Ben_McDonald",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Louisiana_State_University"
+        ]
+    ]
+}

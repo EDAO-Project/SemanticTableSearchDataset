@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brookline,_Massachusetts",
+            "http://dbpedia.org/resource/Tony_Roche",
+            "http://dbpedia.org/resource/Rod_Laver"
+        ],
+        [
+            "http://dbpedia.org/resource/Corpus_Christi,_Texas",
+            "http://dbpedia.org/resource/Ken_Rosewall",
+            "http://dbpedia.org/resource/John_Newcombe"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Rod_Laver",
+            "http://dbpedia.org/resource/Ken_Rosewall"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/Tom_Okker",
+            "http://dbpedia.org/resource/Dennis_Ralston"
+        ],
+        [
+            "http://dbpedia.org/resource/Las_Vegas_Valley",
+            "http://dbpedia.org/resource/Pancho_Gonzales",
+            "http://dbpedia.org/resource/Rod_Laver"
+        ]
+    ]
+}

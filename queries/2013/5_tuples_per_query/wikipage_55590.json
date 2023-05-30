@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mount_Caubvick",
+            "http://dbpedia.org/resource/Newfoundland_and_Labrador",
+            "http://dbpedia.org/resource/Torngat_Mountains"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbeau_Peak",
+            "http://dbpedia.org/resource/Nunavut",
+            "http://dbpedia.org/resource/Ellesmere_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/Qiajivik_Mountain",
+            "http://dbpedia.org/resource/Nunavut",
+            "http://dbpedia.org/resource/Baffin_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Logan",
+            "http://dbpedia.org/resource/Yukon",
+            "http://dbpedia.org/resource/Saint_Elias_Mountains"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Odin",
+            "http://dbpedia.org/resource/Nunavut",
+            "http://dbpedia.org/resource/Baffin_Island"
+        ]
+    ]
+}

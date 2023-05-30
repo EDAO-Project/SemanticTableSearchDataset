@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Citizen_Kane",
+            "http://dbpedia.org/resource/Orson_Welles",
+            "http://dbpedia.org/resource/RKO_Pictures"
+        ]
+    ]
+}

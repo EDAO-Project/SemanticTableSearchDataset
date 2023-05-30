@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nippon_Oil",
+            "http://dbpedia.org/resource/Lexus",
+            "http://dbpedia.org/resource/Lexus_SC",
+            "http://dbpedia.org/resource/Kazuya_Oshima",
+            "http://dbpedia.org/resource/Bridgestone"
+        ],
+        [
+            "http://dbpedia.org/resource/Autobacs_Racing_Team_Aguri",
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Honda_HSV-010_GT",
+            "http://dbpedia.org/resource/Ralph_Firman",
+            "http://dbpedia.org/resource/Bridgestone"
+        ],
+        [
+            "http://dbpedia.org/resource/Impul",
+            "http://dbpedia.org/resource/Nissan",
+            "http://dbpedia.org/resource/Nissan_GT-R",
+            "http://dbpedia.org/resource/Tsugio_Matsuda",
+            "http://dbpedia.org/resource/Bridgestone"
+        ],
+        [
+            "http://dbpedia.org/resource/Nismo",
+            "http://dbpedia.org/resource/Nissan",
+            "http://dbpedia.org/resource/Nissan_GT-R",
+            "http://dbpedia.org/resource/Satoshi_Motoyama",
+            "http://dbpedia.org/resource/Bridgestone"
+        ],
+        [
+            "http://dbpedia.org/resource/Nismo",
+            "http://dbpedia.org/resource/Nissan",
+            "http://dbpedia.org/resource/Nissan_GT-R",
+            "http://dbpedia.org/resource/Michael_Krumm",
+            "http://dbpedia.org/resource/Bridgestone"
+        ]
+    ]
+}

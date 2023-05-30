@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1903_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Antwerp",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/1905_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Bordeaux",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

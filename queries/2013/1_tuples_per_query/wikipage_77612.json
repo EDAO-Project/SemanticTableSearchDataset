@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/East_of_England",
+            "http://dbpedia.org/resource/Cambridgeshire",
+            "http://dbpedia.org/resource/Cambridgeshire_County_Council",
+            "http://dbpedia.org/resource/Cambridge"
+        ]
+    ]
+}

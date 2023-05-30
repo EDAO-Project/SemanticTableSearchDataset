@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brock_Lesnar",
+            "http://dbpedia.org/resource/Metallica",
+            "http://dbpedia.org/resource/Enter_Sandman"
+        ],
+        [
+            "http://dbpedia.org/resource/C.B._Dollaway",
+            "http://dbpedia.org/resource/Eminem",
+            "http://dbpedia.org/resource/The_Eminem_Show"
+        ]
+    ]
+}

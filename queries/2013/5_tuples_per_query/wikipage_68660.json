@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hatley_Park_National_Historic_Site",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/Colwood,_British_Columbia",
+            "http://dbpedia.org/resource/Capital_Regional_District",
+            "http://dbpedia.org/resource/Royal_Roads_Military_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Commonwealth_Air_Training_Plan_Museum",
+            "http://dbpedia.org/resource/Manitoba",
+            "http://dbpedia.org/resource/Brandon,_Manitoba",
+            "http://dbpedia.org/resource/Westman_Region",
+            "http://dbpedia.org/resource/World_War_II"
+        ],
+        [
+            "http://dbpedia.org/resource/CFS_Carp",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Carp,_Ontario",
+            "http://dbpedia.org/resource/Eastern_Ontario",
+            "http://dbpedia.org/resource/Cold_War"
+        ],
+        [
+            "http://dbpedia.org/resource/Dundurn_Castle",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Hamilton,_Ontario",
+            "http://dbpedia.org/resource/Golden_Horseshoe",
+            "http://dbpedia.org/resource/Allan_MacNab"
+        ],
+        [
+            "http://dbpedia.org/resource/Jet_Aircraft_Museum",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/London,_Ontario",
+            "http://dbpedia.org/resource/Middlesex_County,_Ontario",
+            "http://dbpedia.org/resource/Canadian_Armed_Forces"
+        ]
+    ]
+}

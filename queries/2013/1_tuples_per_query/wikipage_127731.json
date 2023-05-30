@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Wang_Huei-chen",
+            "http://dbpedia.org/resource/Chinese_Taipei",
+            "http://dbpedia.org/resource/Athletics_at_the_1993_East_Asian_Games"
+        ]
+    ]
+}

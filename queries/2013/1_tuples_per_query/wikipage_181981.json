@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_500",
+            "http://dbpedia.org/resource/Adelaide_Street_Circuit",
+            "http://dbpedia.org/resource/Adelaide",
+            "http://dbpedia.org/resource/Craig_Lowndes",
+            "http://dbpedia.org/resource/2013_Clipsal_500_Adelaide"
+        ]
+    ]
+}

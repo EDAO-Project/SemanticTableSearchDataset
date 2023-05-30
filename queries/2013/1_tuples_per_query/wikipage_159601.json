@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_41",
+            "http://dbpedia.org/resource/Scott,_New_York",
+            "http://dbpedia.org/resource/Cayuga_County,_New_York"
+        ]
+    ]
+}

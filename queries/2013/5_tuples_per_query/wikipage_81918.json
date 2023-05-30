@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Wallace_Spearmon",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Jeremy_Wariner",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/Khadevis_Robinson",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Rashid_Ramzi",
+            "http://dbpedia.org/resource/Bahrain"
+        ],
+        [
+            "http://dbpedia.org/resource/3000_metres",
+            "http://dbpedia.org/resource/Markos_Geneti",
+            "http://dbpedia.org/resource/Ethiopia"
+        ]
+    ]
+}

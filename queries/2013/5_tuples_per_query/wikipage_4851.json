@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brant_North",
+            "http://dbpedia.org/resource/Gavin_Fleming",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_South",
+            "http://dbpedia.org/resource/Edward_Blake",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Durham_West",
+            "http://dbpedia.org/resource/Edmund_Burke_Wood",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Durham_West",
+            "http://dbpedia.org/resource/Harvey_William_Burk",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Elgin_East",
+            "http://dbpedia.org/resource/Colin_MacDougall",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ]
+    ]
+}

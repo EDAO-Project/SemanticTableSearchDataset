@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anhui",
+            "http://dbpedia.org/resource/Hefei",
+            "http://dbpedia.org/resource/Feidong_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Guizhou",
+            "http://dbpedia.org/resource/Bijie",
+            "http://dbpedia.org/resource/Dafang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Guizhou",
+            "http://dbpedia.org/resource/Bijie",
+            "http://dbpedia.org/resource/Qianxi_County,_Guizhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Guizhou",
+            "http://dbpedia.org/resource/Bijie",
+            "http://dbpedia.org/resource/Jinsha_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Guizhou",
+            "http://dbpedia.org/resource/Bijie",
+            "http://dbpedia.org/resource/Jinsha_County"
+        ]
+    ]
+}

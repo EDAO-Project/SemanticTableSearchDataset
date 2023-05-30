@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richie_Ashburn",
+            "http://dbpedia.org/resource/1963_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/1997_Major_League_Baseball_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Jay_Johnstone",
+            "http://dbpedia.org/resource/1992_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/1993_Major_League_Baseball_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_Kalas",
+            "http://dbpedia.org/resource/1971_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/2009_Major_League_Baseball_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Todd_Kalas",
+            "http://dbpedia.org/resource/1994_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/1996_Major_League_Baseball_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Garry_Maddox",
+            "http://dbpedia.org/resource/1987_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/1989_Major_League_Baseball_season"
+        ]
+    ]
+}

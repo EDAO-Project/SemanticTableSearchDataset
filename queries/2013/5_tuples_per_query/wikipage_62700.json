@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Jay",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/George_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Jefferson",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/George_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmund_Randolph",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/George_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Timothy_Pickering",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/George_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Timothy_Pickering",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/George_Washington"
+        ]
+    ]
+}

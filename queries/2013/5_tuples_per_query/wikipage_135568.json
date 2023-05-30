@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albay",
+            "http://dbpedia.org/resource/Legislative_districts_of_Albay",
+            "http://dbpedia.org/resource/Edcel_Lagman",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Albay",
+            "http://dbpedia.org/resource/Legislative_districts_of_Albay",
+            "http://dbpedia.org/resource/Al_Francis_Bichara",
+            "http://dbpedia.org/resource/Nacionalista_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Baguio",
+            "http://dbpedia.org/resource/Legislative_district_of_Baguio",
+            "http://dbpedia.org/resource/Bernardo_Vergara",
+            "http://dbpedia.org/resource/United_Nationalist_Alliance"
+        ],
+        [
+            "http://dbpedia.org/resource/Bukidnon",
+            "http://dbpedia.org/resource/Legislative_districts_of_Bukidnon",
+            "http://dbpedia.org/resource/Jose_Zubiri_III",
+            "http://dbpedia.org/resource/Bukidnon_Paglaum"
+        ],
+        [
+            "http://dbpedia.org/resource/Cagayan_de_Oro",
+            "http://dbpedia.org/resource/Legislative_districts_of_Cagayan_de_Oro",
+            "http://dbpedia.org/resource/Jose_Benjamin_Benaldo",
+            "http://dbpedia.org/resource/Nacionalista_Party"
+        ]
+    ]
+}

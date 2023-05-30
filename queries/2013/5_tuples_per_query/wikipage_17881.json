@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Tim_Stratton",
+            "http://dbpedia.org/resource/Purdue_Boilermakers_football"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Daniel_Graham",
+            "http://dbpedia.org/resource/Colorado_Buffaloes_football"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Dallas_Clark",
+            "http://dbpedia.org/resource/Iowa_Hawkeyes_football"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Kellen_Winslow_II",
+            "http://dbpedia.org/resource/Miami_Hurricanes_football"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Heath_Miller",
+            "http://dbpedia.org/resource/Virginia_Cavaliers_football"
+        ]
+    ]
+}

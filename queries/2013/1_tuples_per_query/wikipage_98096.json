@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portugal._The_Man",
+            "http://dbpedia.org/resource/Evil_Friends",
+            "http://dbpedia.org/resource/Atlantic_Records"
+        ]
+    ]
+}

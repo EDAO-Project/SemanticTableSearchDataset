@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wally_Backman",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Stan_Bahnsen",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Earned_run_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Doug_Baird",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Floyd_Baker",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Bako",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

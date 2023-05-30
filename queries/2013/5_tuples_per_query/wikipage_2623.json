@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Duke_University",
+            "http://dbpedia.org/resource/Cameron_Indoor_Stadium",
+            "http://dbpedia.org/resource/Durham",
+            "http://dbpedia.org/resource/North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin",
+            "http://dbpedia.org/resource/Frank_Erwin_Center",
+            "http://dbpedia.org/resource/Austin,_Texas",
+            "http://dbpedia.org/resource/Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Rutgers_University",
+            "http://dbpedia.org/resource/Louis_Brown_Athletic_Center",
+            "http://dbpedia.org/resource/Piscataway,_New_Jersey",
+            "http://dbpedia.org/resource/New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Madison_University",
+            "http://dbpedia.org/resource/James_Madison_University_Convocation_Center",
+            "http://dbpedia.org/resource/Harrisonburg,_Virginia",
+            "http://dbpedia.org/resource/Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Villanova_University",
+            "http://dbpedia.org/resource/The_Pavilion",
+            "http://dbpedia.org/resource/Villanova,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania"
+        ]
+    ]
+}

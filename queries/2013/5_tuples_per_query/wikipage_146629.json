@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amondans",
+            "http://dbpedia.org/resource/Arc-et-Senans",
+            "http://dbpedia.org/resource/Arguel,_Doubs",
+            "http://dbpedia.org/resource/Athose"
+        ],
+        [
+            "http://dbpedia.org/resource/Audeux",
+            "http://dbpedia.org/resource/Autechaux",
+            "http://dbpedia.org/resource/Auxon-Dessous",
+            "http://dbpedia.org/resource/Auxon-Dessus"
+        ],
+        [
+            "http://dbpedia.org/resource/Bartherans",
+            "http://dbpedia.org/resource/Battenans-les-Mines",
+            "http://dbpedia.org/resource/Baume-les-Dames",
+            "http://dbpedia.org/resource/Belmont,_Doubs"
+        ],
+        [
+            "http://dbpedia.org/resource/Burgille",
+            "http://dbpedia.org/resource/Busy,_Doubs",
+            "http://dbpedia.org/resource/By,_Doubs",
+            "http://dbpedia.org/resource/Byans-sur-Doubs"
+        ],
+        [
+            "http://dbpedia.org/resource/Chasnans",
+            "http://dbpedia.org/resource/Chassagne-Saint-Denis",
+            "http://dbpedia.org/resource/Chaucenne",
+            "http://dbpedia.org/resource/Chaudefontaine,_Doubs"
+        ]
+    ]
+}

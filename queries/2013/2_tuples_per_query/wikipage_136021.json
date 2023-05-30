@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Freddie_Frith",
+            "http://dbpedia.org/resource/Velocette"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Geoff_Duke",
+            "http://dbpedia.org/resource/Norton_Motorcycle_Company"
+        ]
+    ]
+}

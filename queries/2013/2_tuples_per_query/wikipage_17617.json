@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Plane_Crazy",
+            "http://dbpedia.org/resource/Walt_Disney",
+            "http://dbpedia.org/resource/Mickey_Mouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Nosferatu",
+            "http://dbpedia.org/resource/F._W._Murnau",
+            "http://dbpedia.org/resource/Max_Schreck"
+        ]
+    ]
+}

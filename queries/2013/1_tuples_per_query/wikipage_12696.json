@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edward_Archer",
+            "http://dbpedia.org/resource/Free_Trade_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1906"
+        ]
+    ]
+}

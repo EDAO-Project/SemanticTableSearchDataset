@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hartford,_Connecticut",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/XFINITY_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Camden,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Susquehanna_Bank_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Corfu,_New_York",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Darien_Lake"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristow,_Virginia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Jiffy_Lube_Live"
+        ],
+        [
+            "http://dbpedia.org/resource/Holmdel_Township,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/PNC_Bank_Arts_Center"
+        ]
+    ]
+}

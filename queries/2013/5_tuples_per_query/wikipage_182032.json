@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nipani",
+            "http://dbpedia.org/resource/Shashikala_Annasaheb_Jolle",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Chikodi",
+            "http://dbpedia.org/resource/Prakash_Babanna_Hukkeri",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Athani,_Karnataka",
+            "http://dbpedia.org/resource/Laxman_Savadi",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Terdal",
+            "http://dbpedia.org/resource/Umashree",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Babaleshwar",
+            "http://dbpedia.org/resource/M._B._Patil",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ]
+    ]
+}

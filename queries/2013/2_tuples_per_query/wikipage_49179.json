@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carlism",
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/Community_of_Madrid"
+        ],
+        [
+            "http://dbpedia.org/resource/Democratic_Convergence_of_Catalonia",
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Province_of_Barcelona"
+        ]
+    ]
+}

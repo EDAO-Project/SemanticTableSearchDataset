@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brigham_Young_Winter_Home_and_Office",
+            "http://dbpedia.org/resource/St._George,_Utah",
+            "http://dbpedia.org/resource/Washington_County,_Utah",
+            "http://dbpedia.org/resource/Brigham_Young"
+        ],
+        [
+            "http://dbpedia.org/resource/Brigham_Young_University_Museum_of_Art",
+            "http://dbpedia.org/resource/Provo,_Utah",
+            "http://dbpedia.org/resource/Utah_County,_Utah",
+            "http://dbpedia.org/resource/Brigham_Young_University"
+        ]
+    ]
+}

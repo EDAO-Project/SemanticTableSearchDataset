@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bathurst",
+            "http://dbpedia.org/resource/Gerard_Martin",
+            "http://dbpedia.org/resource/Paul_Toole"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Blue_Mountains",
+            "http://dbpedia.org/resource/Phil_Koperberg",
+            "http://dbpedia.org/resource/Roza_Sage"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Campbelltown",
+            "http://dbpedia.org/resource/Graham_West",
+            "http://dbpedia.org/resource/Bryan_Doyle"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Charlestown",
+            "http://dbpedia.org/resource/Matthew_Morris",
+            "http://dbpedia.org/resource/Andrew_Cornwell"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Coogee",
+            "http://dbpedia.org/resource/Paul_Pearce",
+            "http://dbpedia.org/resource/Bruce_Notley-Smith"
+        ]
+    ]
+}

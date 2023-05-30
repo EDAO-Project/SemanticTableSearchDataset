@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1932",
+            "http://dbpedia.org/resource/Fred_Biermann",
+            "http://dbpedia.org/resource/Gilbert_N._Haugen"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1936",
+            "http://dbpedia.org/resource/Fred_Biermann",
+            "http://dbpedia.org/resource/Henry_O._Talle"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1938",
+            "http://dbpedia.org/resource/Henry_O._Talle",
+            "http://dbpedia.org/resource/Fred_Biermann"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1948",
+            "http://dbpedia.org/resource/Karl_M._Le_Compte",
+            "http://dbpedia.org/resource/Steven_V._Carter"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1950",
+            "http://dbpedia.org/resource/Karl_M._Le_Compte",
+            "http://dbpedia.org/resource/Steven_V._Carter"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alf_Skinner",
+            "http://dbpedia.org/resource/Toronto_Arenas",
+            "http://dbpedia.org/resource/Vancouver_Millionaires"
+        ]
+    ]
+}

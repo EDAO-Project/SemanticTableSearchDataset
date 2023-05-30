@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Overlake_Hospital_Medical_Center",
+            "http://dbpedia.org/resource/King_County,_Washington",
+            "http://dbpedia.org/resource/Bellevue,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Three_Rivers_Hospital",
+            "http://dbpedia.org/resource/Okanogan_County,_Washington",
+            "http://dbpedia.org/resource/Brewster,_Washington"
+        ]
+    ]
+}

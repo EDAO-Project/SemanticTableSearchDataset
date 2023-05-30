@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aliens_of_the_Deep",
+            "http://dbpedia.org/resource/Fusion_Camera_System",
+            "http://dbpedia.org/resource/35_mm_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Open_Season",
+            "http://dbpedia.org/resource/Digital_3D",
+            "http://dbpedia.org/resource/IMAX"
+        ],
+        [
+            "http://dbpedia.org/resource/Sea_Monsters:_A_Prehistoric_Adventure",
+            "http://dbpedia.org/resource/Digital_3D",
+            "http://dbpedia.org/resource/IMAX"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonas_Brothers:_The_3D_Concert_Experience",
+            "http://dbpedia.org/resource/Fusion_Camera_System",
+            "http://dbpedia.org/resource/IMAX"
+        ],
+        [
+            "http://dbpedia.org/resource/Monsters_vs._Aliens",
+            "http://dbpedia.org/resource/Digital_3D",
+            "http://dbpedia.org/resource/IMAX"
+        ]
+    ]
+}

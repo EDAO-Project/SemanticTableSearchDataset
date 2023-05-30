@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Norman_Jolly",
+            "http://dbpedia.org/resource/University_of_Adelaide",
+            "http://dbpedia.org/resource/Balliol_College,_Oxford",
+            "http://dbpedia.org/resource/Forester"
+        ],
+        [
+            "http://dbpedia.org/resource/John_J._Tigert",
+            "http://dbpedia.org/resource/Vanderbilt_University",
+            "http://dbpedia.org/resource/Pembroke_College,_Oxford",
+            "http://dbpedia.org/resource/Commissioner_of_Education"
+        ]
+    ]
+}

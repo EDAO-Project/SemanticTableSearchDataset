@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Faial_Island",
+            "http://dbpedia.org/resource/Azores",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Failaka_Island",
+            "http://dbpedia.org/resource/Persian_Gulf",
+            "http://dbpedia.org/resource/Kuwait"
+        ],
+        [
+            "http://dbpedia.org/resource/Fakarava",
+            "http://dbpedia.org/resource/Palliser_Islands",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Fallen_Jerusalem_Island",
+            "http://dbpedia.org/resource/British_Virgin_Islands",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Fangataufa",
+            "http://dbpedia.org/resource/Tuamotus",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ashmont,_Alberta",
+            "http://dbpedia.org/resource/CFRN-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Athabasca,_Alberta",
+            "http://dbpedia.org/resource/CFRN-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Banff,_Alberta",
+            "http://dbpedia.org/resource/CFCN-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Banff,_Alberta",
+            "http://dbpedia.org/resource/CICT-DT",
+            "http://dbpedia.org/resource/Global_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Bassano,_Alberta",
+            "http://dbpedia.org/resource/CICT-DT",
+            "http://dbpedia.org/resource/Global_Television_Network"
+        ]
+    ]
+}

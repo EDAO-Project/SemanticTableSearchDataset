@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1971_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Mike_Miley",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/East_Jefferson_High_School"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Damodaram_Sanjivayya_National_Law_University",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Visakhapatnam",
+            "http://dbpedia.org/resource/Legal_education"
+        ],
+        [
+            "http://dbpedia.org/resource/Ambedkar_University_Delhi",
+            "http://dbpedia.org/resource/Delhi",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Social_science"
+        ],
+        [
+            "http://dbpedia.org/resource/Kannada_University",
+            "http://dbpedia.org/resource/Karnataka",
+            "http://dbpedia.org/resource/Hampi",
+            "http://dbpedia.org/resource/Kannada"
+        ],
+        [
+            "http://dbpedia.org/resource/Karnataka_State_Law_University",
+            "http://dbpedia.org/resource/Karnataka",
+            "http://dbpedia.org/resource/Hubli",
+            "http://dbpedia.org/resource/Legal_education"
+        ],
+        [
+            "http://dbpedia.org/resource/Karnataka_State_Open_University",
+            "http://dbpedia.org/resource/Karnataka",
+            "http://dbpedia.org/resource/Mysore",
+            "http://dbpedia.org/resource/Distance_education"
+        ]
+    ]
+}

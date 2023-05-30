@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chien-Shiung_Wu",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Weak_interaction"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2007_New_York_Mets_season",
+            "http://dbpedia.org/resource/Mike_Pelfrey",
+            "http://dbpedia.org/resource/Chuck_James",
+            "http://dbpedia.org/resource/Pedro_Feliciano"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_New_York_Mets_season",
+            "http://dbpedia.org/resource/Tom_Glavine",
+            "http://dbpedia.org/resource/John_Smoltz",
+            "http://dbpedia.org/resource/Billy_Wagner"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aaron_Davey",
+            "http://dbpedia.org/resource/Alan_Didak",
+            "http://dbpedia.org/resource/Josh_Fraser"
+        ],
+        [
+            "http://dbpedia.org/resource/Danyle_Pearce",
+            "http://dbpedia.org/resource/Daniel_Motlop",
+            "http://dbpedia.org/resource/Warren_Tredrea"
+        ]
+    ]
+}

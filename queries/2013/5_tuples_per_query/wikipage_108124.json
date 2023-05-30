@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saitama,_Saitama",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Saitama_Super_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Saitama,_Saitama",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Saitama_Super_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagoya",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Nippon_Gaishi_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagoya",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Nippon_Gaishi_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Fukuroi,_Shizuoka",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Ecopa_Arena"
+        ]
+    ]
+}

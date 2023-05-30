@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_in_television",
+            "http://dbpedia.org/resource/Antiques_Roadshow",
+            "http://dbpedia.org/resource/Marsha_Bemko",
+            "http://dbpedia.org/resource/PBS"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_in_television",
+            "http://dbpedia.org/resource/Dirty_Jobs",
+            "http://dbpedia.org/resource/Mike_Rowe",
+            "http://dbpedia.org/resource/Discovery_Channel"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_in_television",
+            "http://dbpedia.org/resource/Antiques_Roadshow",
+            "http://dbpedia.org/resource/Marsha_Bemko",
+            "http://dbpedia.org/resource/PBS"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_in_television",
+            "http://dbpedia.org/resource/MythBusters",
+            "http://dbpedia.org/resource/Jamie_Hyneman",
+            "http://dbpedia.org/resource/Discovery_Channel"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_in_television",
+            "http://dbpedia.org/resource/Antiques_Roadshow",
+            "http://dbpedia.org/resource/Marsha_Bemko",
+            "http://dbpedia.org/resource/PBS"
+        ]
+    ]
+}

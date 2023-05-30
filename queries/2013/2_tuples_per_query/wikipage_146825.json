@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Annecy-le-Vieux",
+            "http://dbpedia.org/resource/Argonay",
+            "http://dbpedia.org/resource/Aviernoz",
+            "http://dbpedia.org/resource/Bloye"
+        ],
+        [
+            "http://dbpedia.org/resource/Bluffy,_Haute-Savoie",
+            "http://dbpedia.org/resource/Boussy,_Haute-Savoie",
+            "http://dbpedia.org/resource/Chainaz-les-Frasses",
+            "http://dbpedia.org/resource/Chapeiry"
+        ]
+    ]
+}

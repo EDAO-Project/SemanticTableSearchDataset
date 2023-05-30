@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carlin_Motorsport",
+            "http://dbpedia.org/resource/Jazeman_Jaafar",
+            "http://dbpedia.org/resource/Volkswagen",
+            "http://dbpedia.org/resource/2010_British_Formula_Three_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Fortec_Motorsport",
+            "http://dbpedia.org/resource/Lucas_Foresti",
+            "http://dbpedia.org/resource/Mercedes-Benz",
+            "http://dbpedia.org/resource/2010_British_Formula_Three_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Fortec_Motorsport",
+            "http://dbpedia.org/resource/Oliver_Webb",
+            "http://dbpedia.org/resource/Mercedes-Benz",
+            "http://dbpedia.org/resource/2010_British_Formula_Three_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Hitech_Racing",
+            "http://dbpedia.org/resource/Carlos_Huertas",
+            "http://dbpedia.org/resource/Volkswagen",
+            "http://dbpedia.org/resource/2010_British_Formula_Three_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Performance_Racing",
+            "http://dbpedia.org/resource/Felix_Rosenqvist",
+            "http://dbpedia.org/resource/Volkswagen",
+            "http://dbpedia.org/resource/2010_German_Formula_Three_season"
+        ]
+    ]
+}

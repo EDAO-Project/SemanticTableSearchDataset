@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daniel_Sedin",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Vancouver_Canucks",
+            "http://dbpedia.org/resource/Modo_Hockey"
+        ]
+    ]
+}

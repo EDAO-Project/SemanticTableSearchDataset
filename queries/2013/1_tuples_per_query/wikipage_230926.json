@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/West_Africa",
+            "http://dbpedia.org/resource/BRVM",
+            "http://dbpedia.org/resource/Abidjan"
+        ]
+    ]
+}

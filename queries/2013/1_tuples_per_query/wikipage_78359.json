@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KVIL",
+            "http://dbpedia.org/resource/Brad_Sham",
+            "http://dbpedia.org/resource/Dale_Hansen"
+        ]
+    ]
+}

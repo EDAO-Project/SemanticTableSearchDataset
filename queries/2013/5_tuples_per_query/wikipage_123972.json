@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angela_Rippon",
+            "http://dbpedia.org/resource/Presenter",
+            "http://dbpedia.org/resource/Sean_Rice"
+        ],
+        [
+            "http://dbpedia.org/resource/Nadia_Sawalha",
+            "http://dbpedia.org/resource/EastEnders",
+            "http://dbpedia.org/resource/Mark_Hanretty"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_McLachlan",
+            "http://dbpedia.org/resource/Actor",
+            "http://dbpedia.org/resource/Maria_Filippov"
+        ],
+        [
+            "http://dbpedia.org/resource/Steven_Arnold",
+            "http://dbpedia.org/resource/Coronation_Street",
+            "http://dbpedia.org/resource/Nina_Ulanova"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominic_Cork",
+            "http://dbpedia.org/resource/Hampshire_County_Cricket_Club",
+            "http://dbpedia.org/resource/List_of_Dancing_on_Ice_professional_skaters"
+        ]
+    ]
+}

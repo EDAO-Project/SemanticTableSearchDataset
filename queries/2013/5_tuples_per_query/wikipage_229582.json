@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spanish_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/Circuito_del_Jarama",
+            "http://dbpedia.org/resource/Fausto_Gresini",
+            "http://dbpedia.org/resource/Carlos_Lavado",
+            "http://dbpedia.org/resource/Wayne_Gardner"
+        ],
+        [
+            "http://dbpedia.org/resource/Italian_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/Autodromo_Nazionale_Monza",
+            "http://dbpedia.org/resource/Fausto_Gresini",
+            "http://dbpedia.org/resource/Anton_Mang",
+            "http://dbpedia.org/resource/Eddie_Lawson"
+        ],
+        [
+            "http://dbpedia.org/resource/German_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/Manuel_Herreros",
+            "http://dbpedia.org/resource/Luca_Cadalora",
+            "http://dbpedia.org/resource/Carlos_Lavado",
+            "http://dbpedia.org/resource/Eddie_Lawson"
+        ],
+        [
+            "http://dbpedia.org/resource/Austrian_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/Salzburgring",
+            "http://dbpedia.org/resource/Luca_Cadalora",
+            "http://dbpedia.org/resource/Carlos_Lavado",
+            "http://dbpedia.org/resource/Eddie_Lawson"
+        ],
+        [
+            "http://dbpedia.org/resource/Dutch_TT",
+            "http://dbpedia.org/resource/TT_Circuit_Assen",
+            "http://dbpedia.org/resource/Luca_Cadalora",
+            "http://dbpedia.org/resource/Carlos_Lavado",
+            "http://dbpedia.org/resource/Wayne_Gardner"
+        ]
+    ]
+}

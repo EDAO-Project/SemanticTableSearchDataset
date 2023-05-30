@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Batemans_Bay_High_School",
+            "http://dbpedia.org/resource/Batemans_Bay",
+            "http://dbpedia.org/resource/Eurobodalla_Shire"
+        ],
+        [
+            "http://dbpedia.org/resource/Bowral_High_School",
+            "http://dbpedia.org/resource/Bowral",
+            "http://dbpedia.org/resource/Wingecarribee_Shire"
+        ]
+    ]
+}

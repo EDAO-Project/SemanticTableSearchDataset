@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Project_86",
+            "http://dbpedia.org/resource/Drawing_Black_Lines",
+            "http://dbpedia.org/resource/BEC_Recordings"
+        ],
+        [
+            "http://dbpedia.org/resource/Joy_Electric",
+            "http://dbpedia.org/resource/Unelectric",
+            "http://dbpedia.org/resource/BEC_Recordings"
+        ],
+        [
+            "http://dbpedia.org/resource/Extol",
+            "http://dbpedia.org/resource/Undeceived",
+            "http://dbpedia.org/resource/Solid_State_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Living_Sacrifice",
+            "http://dbpedia.org/resource/The_Hammering_Process",
+            "http://dbpedia.org/resource/Solid_State_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/No_Innocent_Victim",
+            "http://dbpedia.org/resource/Tipping_the_Scales",
+            "http://dbpedia.org/resource/Solid_State_Records"
+        ]
+    ]
+}

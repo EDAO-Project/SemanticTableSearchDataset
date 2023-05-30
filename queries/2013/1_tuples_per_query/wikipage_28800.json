@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greenville,_South_Carolina",
+            "http://dbpedia.org/resource/South_Carolina",
+            "http://dbpedia.org/resource/Bon_Secours_Wellness_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1970",
+            "http://dbpedia.org/resource/Marisol_Malaret",
+            "http://dbpedia.org/resource/Santurce,_San_Juan,_Puerto_Rico",
+            "http://dbpedia.org/resource/Miss_Universe_1970"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1978",
+            "http://dbpedia.org/resource/Ada_Perkins",
+            "http://dbpedia.org/resource/San_Juan,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1985",
+            "http://dbpedia.org/resource/Deborah_Carthy-Deu",
+            "http://dbpedia.org/resource/San_Juan,_Puerto_Rico",
+            "http://dbpedia.org/resource/Miss_Universe_1985"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1987",
+            "http://dbpedia.org/resource/Laurie_Simpson",
+            "http://dbpedia.org/resource/San_Juan,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1993",
+            "http://dbpedia.org/resource/Dayanara_Torres",
+            "http://dbpedia.org/resource/Toa_Alta,_Puerto_Rico",
+            "http://dbpedia.org/resource/Miss_Universe_1993"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kentucky_Kingdom",
+            "http://dbpedia.org/resource/Vekoma",
+            "http://dbpedia.org/resource/Standing_but_not_operating"
+        ],
+        [
+            "http://dbpedia.org/resource/Mind_Eraser",
+            "http://dbpedia.org/resource/Six_Flags_America",
+            "http://dbpedia.org/resource/Vekoma"
+        ],
+        [
+            "http://dbpedia.org/resource/Mind_Eraser",
+            "http://dbpedia.org/resource/Darien_Lake",
+            "http://dbpedia.org/resource/Vekoma"
+        ],
+        [
+            "http://dbpedia.org/resource/Mind_Eraser",
+            "http://dbpedia.org/resource/Six_Flags_New_England",
+            "http://dbpedia.org/resource/Vekoma"
+        ],
+        [
+            "http://dbpedia.org/resource/Mind_Eraser",
+            "http://dbpedia.org/resource/Elitch_Gardens_Theme_Park",
+            "http://dbpedia.org/resource/Vekoma"
+        ]
+    ]
+}

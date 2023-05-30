@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cedar_Rapids_RoughRiders",
+            "http://dbpedia.org/resource/Cedar_Rapids_Ice_Arena",
+            "http://dbpedia.org/resource/Cedar_Rapids,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Steel",
+            "http://dbpedia.org/resource/Edge_Ice_Arena",
+            "http://dbpedia.org/resource/Bensenville,_Illinois"
+        ]
+    ]
+}

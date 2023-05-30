@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Texas_League",
+            "http://dbpedia.org/resource/Houston_Buffaloes",
+            "http://dbpedia.org/resource/Birmingham_Barons"
+        ],
+        [
+            "http://dbpedia.org/resource/Southern_Association",
+            "http://dbpedia.org/resource/Birmingham_Barons",
+            "http://dbpedia.org/resource/Dallas_Rangers"
+        ]
+    ]
+}

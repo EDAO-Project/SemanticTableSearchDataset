@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amblainville",
+            "http://dbpedia.org/resource/Andeville",
+            "http://dbpedia.org/resource/Anserville",
+            "http://dbpedia.org/resource/Auchy-la-Montagne"
+        ],
+        [
+            "http://dbpedia.org/resource/Blargies",
+            "http://dbpedia.org/resource/Blicourt",
+            "http://dbpedia.org/resource/Boissy-le-Bois",
+            "http://dbpedia.org/resource/Bonlier"
+        ]
+    ]
+}

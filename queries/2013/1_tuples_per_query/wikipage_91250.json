@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Major_and_the_Minor",
+            "http://dbpedia.org/resource/1942_in_film",
+            "http://dbpedia.org/resource/Paramount_Pictures"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ah-Tah-Thi-Ki_Seminole_Indian_Museum",
+            "http://dbpedia.org/resource/Clewiston,_Florida",
+            "http://dbpedia.org/resource/Southwest_Florida",
+            "http://dbpedia.org/resource/Seminole_Tribe_of_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Albin_Polasek_House_and_Studio",
+            "http://dbpedia.org/resource/Winter_Park,_Florida",
+            "http://dbpedia.org/resource/Central_Florida",
+            "http://dbpedia.org/resource/Albin_Polasek"
+        ],
+        [
+            "http://dbpedia.org/resource/Appleton_Museum_of_Art",
+            "http://dbpedia.org/resource/Ocala,_Florida",
+            "http://dbpedia.org/resource/Central_Florida",
+            "http://dbpedia.org/resource/College_of_Central_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Audubon_House_and_Tropical_Gardens",
+            "http://dbpedia.org/resource/Key_West,_Florida",
+            "http://dbpedia.org/resource/Florida_Keys",
+            "http://dbpedia.org/resource/John_James_Audubon"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Bruce_Barbour_House",
+            "http://dbpedia.org/resource/Winter_Park,_Florida",
+            "http://dbpedia.org/resource/Central_Florida",
+            "http://dbpedia.org/resource/James_Gamble_Rogers_II"
+        ]
+    ]
+}

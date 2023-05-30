@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ujigami_Shrine",
+            "http://dbpedia.org/resource/Nagare-zukuri",
+            "http://dbpedia.org/resource/Heian_period",
+            "http://dbpedia.org/resource/Uji,_Kyoto"
+        ],
+        [
+            "http://dbpedia.org/resource/Ujigami_Shrine",
+            "http://dbpedia.org/resource/Gable",
+            "http://dbpedia.org/resource/Kamakura_period",
+            "http://dbpedia.org/resource/Uji,_Kyoto"
+        ]
+    ]
+}

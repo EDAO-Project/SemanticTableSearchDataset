@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jason_Soloman",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Sam_McMahon",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Wormull",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_Brady",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Brough",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Bridgeview,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Chivas_USA",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Carson,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Rapids",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/Commerce_City,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dallas",
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/Frisco,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/LA_Galaxy",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Carson,_California"
+        ]
+    ]
+}

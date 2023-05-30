@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/At_First_Sight",
+            "http://dbpedia.org/resource/Metro-Goldwyn-Mayer",
+            "http://dbpedia.org/resource/Irwin_Winkler",
+            "http://dbpedia.org/resource/Romance_film",
+            "http://dbpedia.org/resource/Live_action"
+        ],
+        [
+            "http://dbpedia.org/resource/Hilary_and_Jackie",
+            "http://dbpedia.org/resource/October_Films",
+            "http://dbpedia.org/resource/Anand_Tucker",
+            "http://dbpedia.org/resource/Drama_film",
+            "http://dbpedia.org/resource/Live_action"
+        ]
+    ]
+}

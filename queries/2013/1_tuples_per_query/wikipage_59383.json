@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bear_Stearns",
+            "http://dbpedia.org/resource/JPMorgan_Chase",
+            "http://dbpedia.org/resource/Investment_banking"
+        ]
+    ]
+}

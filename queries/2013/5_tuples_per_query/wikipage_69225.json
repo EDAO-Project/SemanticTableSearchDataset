@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bello,_Antioquia",
+            "http://dbpedia.org/resource/Antioquia_Department",
+            "http://dbpedia.org/resource/Colombia"
+        ],
+        [
+            "http://dbpedia.org/resource/Zapatoca",
+            "http://dbpedia.org/resource/Santander_Department",
+            "http://dbpedia.org/resource/Colombia"
+        ],
+        [
+            "http://dbpedia.org/resource/Mouans-Sartoux",
+            "http://dbpedia.org/resource/Alpes-Maritimes",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Bully-les-Mines",
+            "http://dbpedia.org/resource/Pas-de-Calais",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Montignac,_Dordogne",
+            "http://dbpedia.org/resource/Dordogne",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

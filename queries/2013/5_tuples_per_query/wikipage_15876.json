@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Cat_Creeps",
+            "http://dbpedia.org/resource/Rupert_Julian",
+            "http://dbpedia.org/resource/Helen_Twelvetrees"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Doorway_to_Hell",
+            "http://dbpedia.org/resource/Archie_Mayo",
+            "http://dbpedia.org/resource/Charles_Judels"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Return_of_Dr._Fu_Manchu",
+            "http://dbpedia.org/resource/Rowland_V._Lee",
+            "http://dbpedia.org/resource/Warner_Oland"
+        ],
+        [
+            "http://dbpedia.org/resource/Blonde_Crazy",
+            "http://dbpedia.org/resource/Roy_Del_Ruth",
+            "http://dbpedia.org/resource/James_Cagney"
+        ],
+        [
+            "http://dbpedia.org/resource/Daughter_of_the_Dragon",
+            "http://dbpedia.org/resource/Lloyd_Corrigan",
+            "http://dbpedia.org/resource/Anna_May_Wong"
+        ]
+    ]
+}

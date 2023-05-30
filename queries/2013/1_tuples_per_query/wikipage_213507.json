@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama_State_University",
+            "http://dbpedia.org/resource/Alabama_State_Hornets_football",
+            "http://dbpedia.org/resource/Montgomery,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Southwestern_Athletic_Conference"
+        ]
+    ]
+}

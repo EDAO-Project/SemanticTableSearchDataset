@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlantic_and_Great_Western_Railroad",
+            "http://dbpedia.org/resource/Erie_Railroad",
+            "http://dbpedia.org/resource/Nypano_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Bachman_Valley_Railroad",
+            "http://dbpedia.org/resource/Western_Maryland_Railway",
+            "http://dbpedia.org/resource/Baltimore_and_Harrisburg_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Baltimore_and_Hanover_Railroad",
+            "http://dbpedia.org/resource/Western_Maryland_Railway",
+            "http://dbpedia.org/resource/Baltimore_and_Harrisburg_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Baltimore_and_Philadelphia_Railroad",
+            "http://dbpedia.org/resource/Baltimore_and_Ohio_Railroad",
+            "http://dbpedia.org/resource/CSX_Transportation"
+        ],
+        [
+            "http://dbpedia.org/resource/Beech_Creek_Railroad",
+            "http://dbpedia.org/resource/New_York_Central_Railroad",
+            "http://dbpedia.org/resource/Conrail"
+        ]
+    ]
+}

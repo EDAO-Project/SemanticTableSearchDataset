@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lookin_At_Lucky",
+            "http://dbpedia.org/resource/Bob_Baffert",
+            "http://dbpedia.org/resource/Michael_E._Pegram"
+        ],
+        [
+            "http://dbpedia.org/resource/Bernardini",
+            "http://dbpedia.org/resource/Thomas_Albertrani",
+            "http://dbpedia.org/resource/Darley_Racing"
+        ]
+    ]
+}

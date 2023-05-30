@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marianne_Bogestedt",
+            "http://dbpedia.org/resource/Sonja_Johannesson",
+            "http://dbpedia.org/resource/Sinikka_Kukkonen"
+        ]
+    ]
+}

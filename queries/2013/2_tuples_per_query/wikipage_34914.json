@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_GP3_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/James_Jakes"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_GP3_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Adrien_Tambay"
+        ]
+    ]
+}

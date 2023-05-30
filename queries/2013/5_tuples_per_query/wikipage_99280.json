@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Markus_Beyer",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Light_middleweight"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Bodell",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Light_heavyweight"
+        ],
+        [
+            "http://dbpedia.org/resource/Adonis_Stevenson",
+            "http://dbpedia.org/resource/Haiti",
+            "http://dbpedia.org/resource/Super_middleweight"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucian_Bute",
+            "http://dbpedia.org/resource/Romania",
+            "http://dbpedia.org/resource/Super_middleweight"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Byrd",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Light_heavyweight"
+        ]
+    ]
+}

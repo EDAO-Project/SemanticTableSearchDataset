@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_AMJ_Campbell_Shorty_Jenkins_Classic",
+            "http://dbpedia.org/resource/John_Epping",
+            "http://dbpedia.org/resource/Jeff_Stoughton"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Moosehead_Fall_Open",
+            "http://dbpedia.org/resource/Ian_MacAulay",
+            "http://dbpedia.org/resource/Colin_Dow"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_KW_Fall_Classic",
+            "http://dbpedia.org/resource/Mark_Kean",
+            "http://dbpedia.org/resource/Greg_Balsdon"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_StuSells_Toronto_Tankard",
+            "http://dbpedia.org/resource/Jeff_Stoughton",
+            "http://dbpedia.org/resource/Joe_Frans"
+        ],
+        [
+            "http://dbpedia.org/resource/Stroud_Sleeman_Cash_Spiel",
+            "http://dbpedia.org/resource/Joe_Frans",
+            "http://dbpedia.org/resource/Greg_Balsdon"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/British_general_election,_1715",
+            "http://dbpedia.org/resource/John_Hardres",
+            "http://dbpedia.org/resource/Sir_Thomas_Hales,_2nd_Baronet"
+        ],
+        [
+            "http://dbpedia.org/resource/British_general_election,_1722",
+            "http://dbpedia.org/resource/Samuel_Milles",
+            "http://dbpedia.org/resource/Sir_Thomas_Hales,_2nd_Baronet"
+        ],
+        [
+            "http://dbpedia.org/resource/British_general_election,_1727",
+            "http://dbpedia.org/resource/William_Hardres",
+            "http://dbpedia.org/resource/Sir_Thomas_Hales,_2nd_Baronet"
+        ],
+        [
+            "http://dbpedia.org/resource/British_general_election,_1734",
+            "http://dbpedia.org/resource/William_Hardres",
+            "http://dbpedia.org/resource/Tom_May"
+        ],
+        [
+            "http://dbpedia.org/resource/British_general_election,_1754",
+            "http://dbpedia.org/resource/Matthew_Robinson,_2nd_Baron_Rokeby",
+            "http://dbpedia.org/resource/James_Creed"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al-Dawayima_massacre",
+            "http://dbpedia.org/resource/Al-Dawayima",
+            "http://dbpedia.org/resource/Israel_Defense_Forces"
+        ],
+        [
+            "http://dbpedia.org/resource/Safsaf_massacre",
+            "http://dbpedia.org/resource/Safsaf",
+            "http://dbpedia.org/resource/Israel_Defense_Forces"
+        ],
+        [
+            "http://dbpedia.org/resource/Eilabun_massacre",
+            "http://dbpedia.org/resource/Eilabun",
+            "http://dbpedia.org/resource/Israel_Defense_Forces"
+        ],
+        [
+            "http://dbpedia.org/resource/Kafr_Qasim_massacre",
+            "http://dbpedia.org/resource/Israel_Border_Police",
+            "http://dbpedia.org/resource/Shimon_Peres"
+        ],
+        [
+            "http://dbpedia.org/resource/Lod_Airport_massacre",
+            "http://dbpedia.org/resource/Lod",
+            "http://dbpedia.org/resource/Japanese_Red_Army"
+        ]
+    ]
+}

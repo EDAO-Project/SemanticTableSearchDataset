@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/City_of_Swan",
+            "http://dbpedia.org/resource/Midland,_Western_Australia",
+            "http://dbpedia.org/resource/Morrison_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/City_of_Swan",
+            "http://dbpedia.org/resource/Middle_Swan,_Western_Australia",
+            "http://dbpedia.org/resource/Toodyay_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/City_of_Swan",
+            "http://dbpedia.org/resource/Middle_Swan,_Western_Australia",
+            "http://dbpedia.org/resource/Roe_Highway"
+        ],
+        [
+            "http://dbpedia.org/resource/City_of_Swan",
+            "http://dbpedia.org/resource/Belhus,_Western_Australia",
+            "http://dbpedia.org/resource/West_Swan_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/City_of_Swan",
+            "http://dbpedia.org/resource/Bullsbrook,_Western_Australia",
+            "http://dbpedia.org/resource/Chittering,_Western_Australia"
+        ]
+    ]
+}

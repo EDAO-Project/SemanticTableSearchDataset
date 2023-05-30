@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_Copa_Libertadores",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Santos_FC",
+            "http://dbpedia.org/resource/Boca_Juniors",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/La_Bombonera"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Copa_Libertadores",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Racing_Club_de_Avellaneda",
+            "http://dbpedia.org/resource/Club_Nacional_de_Football",
+            "http://dbpedia.org/resource/Uruguay",
+            "http://dbpedia.org/resource/Estadio_Centenario"
+        ]
+    ]
+}

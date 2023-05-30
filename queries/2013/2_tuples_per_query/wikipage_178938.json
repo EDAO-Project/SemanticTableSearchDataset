@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/British_general_election,_1784",
+            "http://dbpedia.org/resource/William_Pitt_the_Younger",
+            "http://dbpedia.org/resource/George_FitzRoy,_4th_Duke_of_Grafton"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom_general_election,_1807",
+            "http://dbpedia.org/resource/Vicary_Gibbs",
+            "http://dbpedia.org/resource/George_FitzRoy,_4th_Duke_of_Grafton"
+        ]
+    ]
+}

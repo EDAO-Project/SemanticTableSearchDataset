@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tipperary_GAA",
+            "http://dbpedia.org/resource/Offaly_GAA",
+            "http://dbpedia.org/resource/Durrow,_County_Laois"
+        ],
+        [
+            "http://dbpedia.org/resource/Tipperary_GAA",
+            "http://dbpedia.org/resource/Galway_GAA",
+            "http://dbpedia.org/resource/Athy_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerry_GAA",
+            "http://dbpedia.org/resource/Offaly_GAA",
+            "http://dbpedia.org/resource/Littleton,_County_Tipperary"
+        ],
+        [
+            "http://dbpedia.org/resource/Cavan_GAA",
+            "http://dbpedia.org/resource/Roscommon_GAA",
+            "http://dbpedia.org/resource/Dr._Hyde_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Offaly_GAA",
+            "http://dbpedia.org/resource/Tipperary_GAA",
+            "http://dbpedia.org/resource/Portarlington_GAA"
+        ]
+    ]
+}

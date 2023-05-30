@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Jang_Jae-keun",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/1985_Asian_Athletics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Femi_Ogunode",
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/2011_Asian_Athletics_Championships"
+        ]
+    ]
+}

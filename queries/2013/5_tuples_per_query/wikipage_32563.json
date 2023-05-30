@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antietam_National_Battlefield",
+            "http://dbpedia.org/resource/Sharpsburg,_Maryland",
+            "http://dbpedia.org/resource/Washington_County,_Maryland",
+            "http://dbpedia.org/resource/Western_Maryland",
+            "http://dbpedia.org/resource/Battle_of_Antietam"
+        ],
+        [
+            "http://dbpedia.org/resource/Canal_Place",
+            "http://dbpedia.org/resource/Cumberland,_Maryland",
+            "http://dbpedia.org/resource/Allegany_County,_Maryland",
+            "http://dbpedia.org/resource/Western_Maryland",
+            "http://dbpedia.org/resource/Chesapeake_and_Ohio_Canal_National_Historical_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Cove_Point_Light",
+            "http://dbpedia.org/resource/Lusby,_Maryland",
+            "http://dbpedia.org/resource/Calvert_County,_Maryland",
+            "http://dbpedia.org/resource/Southern_Maryland",
+            "http://dbpedia.org/resource/Calvert_Marine_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Frederick_State_Park",
+            "http://dbpedia.org/resource/Big_Pool,_Maryland",
+            "http://dbpedia.org/resource/Washington_County,_Maryland",
+            "http://dbpedia.org/resource/Western_Maryland",
+            "http://dbpedia.org/resource/Civilian_Conservation_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Monocacy_National_Battlefield",
+            "http://dbpedia.org/resource/Frederick,_Maryland",
+            "http://dbpedia.org/resource/Frederick_County,_Maryland",
+            "http://dbpedia.org/resource/Western_Maryland",
+            "http://dbpedia.org/resource/Battle_of_Monocacy"
+        ]
+    ]
+}

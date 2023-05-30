@@ -1,0 +1,25 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Tacoma,_Washington",
+            "http://dbpedia.org/resource/Tacoma,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Tacoma,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Puyallup,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Puyallup,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierce_County,_Washington",
+            "http://dbpedia.org/resource/Sumner,_Washington"
+        ]
+    ]
+}

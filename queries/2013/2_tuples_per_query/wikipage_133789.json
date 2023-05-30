@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zenon_Caravella",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Sydney_Olympic_FC",
+            "http://dbpedia.org/resource/Almere_City_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeremy_Christie",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Waitakere_United",
+            "http://dbpedia.org/resource/Perth_Glory_FC"
+        ]
+    ]
+}

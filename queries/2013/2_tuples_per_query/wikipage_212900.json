@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buffalo_Stallions",
+            "http://dbpedia.org/resource/Buffalo,_New_York",
+            "http://dbpedia.org/resource/Buffalo_Memorial_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Horizons",
+            "http://dbpedia.org/resource/Rosemont,_Illinois",
+            "http://dbpedia.org/resource/Allstate_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Granada",
+            "http://dbpedia.org/resource/Granada",
+            "http://dbpedia.org/resource/Andalusia",
+            "http://dbpedia.org/resource/Public_university"
+        ]
+    ]
+}

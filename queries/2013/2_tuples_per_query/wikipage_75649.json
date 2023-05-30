@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brandon_Wheat_Kings",
+            "http://dbpedia.org/resource/Brandon,_Manitoba",
+            "http://dbpedia.org/resource/Keystone_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Moose_Jaw_Warriors",
+            "http://dbpedia.org/resource/Moose_Jaw",
+            "http://dbpedia.org/resource/Mosaic_Place"
+        ]
+    ]
+}

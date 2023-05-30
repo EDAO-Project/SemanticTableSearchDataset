@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Open_de_France",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Vincent_Tshabalala"
+        ],
+        [
+            "http://dbpedia.org/resource/Piccadilly_Medal",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Sam_Torrance"
+        ],
+        [
+            "http://dbpedia.org/resource/BMW_PGA_Championship",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Neil_Coles"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerrygold_International_Classic",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Tony_Jacklin"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_International",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Sam_Torrance"
+        ]
+    ]
+}

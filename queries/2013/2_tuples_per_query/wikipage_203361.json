@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eastern_Cape",
+            "http://dbpedia.org/resource/Cape_Province",
+            "http://dbpedia.org/resource/Aliwal_North"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Cape",
+            "http://dbpedia.org/resource/Cape_Province",
+            "http://dbpedia.org/resource/Beaufort_West"
+        ]
+    ]
+}

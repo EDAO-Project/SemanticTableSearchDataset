@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Chad_Reed",
+            "http://dbpedia.org/resource/AMA_Motocross_Championship"
+        ]
+    ]
+}

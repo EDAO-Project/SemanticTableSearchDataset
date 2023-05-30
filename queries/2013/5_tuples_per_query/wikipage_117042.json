@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dana_Vollmer",
+            "http://dbpedia.org/resource/Jessica_Hardy",
+            "http://dbpedia.org/resource/Natalie_Coughlin"
+        ],
+        [
+            "http://dbpedia.org/resource/Allison_Schmitt",
+            "http://dbpedia.org/resource/Dana_Vollmer",
+            "http://dbpedia.org/resource/Katie_Hoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Katie_Hoff",
+            "http://dbpedia.org/resource/Allison_Schmitt",
+            "http://dbpedia.org/resource/Chloe_Sutton"
+        ],
+        [
+            "http://dbpedia.org/resource/Chloe_Sutton",
+            "http://dbpedia.org/resource/Kate_Ziegler",
+            "http://dbpedia.org/resource/Haley_Anderson"
+        ],
+        [
+            "http://dbpedia.org/resource/Natalie_Coughlin",
+            "http://dbpedia.org/resource/Missy_Franklin",
+            "http://dbpedia.org/resource/Rachel_Bootsma"
+        ]
+    ]
+}

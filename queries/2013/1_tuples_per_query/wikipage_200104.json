@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Duke_University",
+            "http://dbpedia.org/resource/Mike_Krzyzewski",
+            "http://dbpedia.org/resource/Seton_Hall_University"
+        ]
+    ]
+}

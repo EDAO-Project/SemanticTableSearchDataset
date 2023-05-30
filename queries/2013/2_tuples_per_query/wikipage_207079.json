@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/RK_Borac_Banja_Luka",
+            "http://dbpedia.org/resource/Fredericia_HK",
+            "http://dbpedia.org/resource/VfL_Gummersbach"
+        ],
+        [
+            "http://dbpedia.org/resource/TV_Grosswallstadt",
+            "http://dbpedia.org/resource/Valur",
+            "http://dbpedia.org/resource/HC_Dukla_Prague"
+        ]
+    ]
+}

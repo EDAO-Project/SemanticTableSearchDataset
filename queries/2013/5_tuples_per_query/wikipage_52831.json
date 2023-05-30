@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manny_Mota",
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Montreal_Expos"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Giusti",
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/San_Diego_Padres"
+        ],
+        [
+            "http://dbpedia.org/resource/Mack_Jones",
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Montreal_Expos"
+        ],
+        [
+            "http://dbpedia.org/resource/Dick_Selma",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/San_Diego_Padres"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Santorini",
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/San_Diego_Padres"
+        ]
+    ]
+}

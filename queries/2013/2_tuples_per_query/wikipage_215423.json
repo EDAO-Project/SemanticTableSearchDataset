@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Luther_Strange",
+            "http://dbpedia.org/resource/Attorney_General_of_Alabama",
+            "http://dbpedia.org/resource/Tulane_University_Law_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Geraghty",
+            "http://dbpedia.org/resource/Alaska_Attorney_General",
+            "http://dbpedia.org/resource/Seattle_University_School_of_Law"
+        ]
+    ]
+}

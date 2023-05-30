@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Toronto_Pearson_International_Airport",
+            "http://dbpedia.org/resource/LINK_Train"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/Cincinnati/Northern_Kentucky_International_Airport",
+            "http://dbpedia.org/resource/Cincinnati_Airport_People_Mover"
+        ],
+        [
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/Denver_International_Airport",
+            "http://dbpedia.org/resource/Denver_International_Airport_Automated_Guideway_Transit_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/Detroit_Metropolitan_Airport",
+            "http://dbpedia.org/resource/ExpressTram"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/George_Bush_Intercontinental_Airport",
+            "http://dbpedia.org/resource/TerminaLink"
+        ]
+    ]
+}

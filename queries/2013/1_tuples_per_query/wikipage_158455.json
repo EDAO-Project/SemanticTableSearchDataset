@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Architekturzentrum_Wien",
+            "http://dbpedia.org/resource/Neubau",
+            "http://dbpedia.org/resource/Museumsquartier"
+        ]
+    ]
+}

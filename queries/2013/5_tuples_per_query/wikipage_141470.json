@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frankfurt_Airport",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Hesse"
+        ],
+        [
+            "http://dbpedia.org/resource/Munich_Airport",
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Bavaria"
+        ],
+        [
+            "http://dbpedia.org/resource/Cologne_Bonn_Airport",
+            "http://dbpedia.org/resource/Cologne",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_Airport",
+            "http://dbpedia.org/resource/Hanover",
+            "http://dbpedia.org/resource/Lower_Saxony"
+        ],
+        [
+            "http://dbpedia.org/resource/Nuremberg_Airport",
+            "http://dbpedia.org/resource/Nuremberg",
+            "http://dbpedia.org/resource/Bavaria"
+        ]
+    ]
+}

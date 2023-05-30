@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phillip_Thuaux",
+            "http://dbpedia.org/resource/Zak_Dempster",
+            "http://dbpedia.org/resource/Cameron_Meyer"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Jamieson",
+            "http://dbpedia.org/resource/Leigh_Howard",
+            "http://dbpedia.org/resource/Zak_Dempster"
+        ]
+    ]
+}

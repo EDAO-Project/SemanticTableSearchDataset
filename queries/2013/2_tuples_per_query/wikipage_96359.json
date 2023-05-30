@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abderrazzak_Jadid",
+            "http://dbpedia.org/resource/Brescia_Calcio",
+            "http://dbpedia.org/resource/U.S._Salernitana_1919"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Capone",
+            "http://dbpedia.org/resource/Vicenza_Calcio",
+            "http://dbpedia.org/resource/U.S._Salernitana_1919"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama_Jubilee_Hot_Air_Balloon_Classic",
+            "http://dbpedia.org/resource/Decatur,_Alabama",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Albuquerque_International_Balloon_Fiesta",
+            "http://dbpedia.org/resource/Albuquerque,_New_Mexico",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

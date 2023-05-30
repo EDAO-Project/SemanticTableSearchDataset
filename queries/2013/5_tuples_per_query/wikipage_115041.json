@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allerdale",
+            "http://dbpedia.org/resource/Borough_status_in_the_United_Kingdom",
+            "http://dbpedia.org/resource/Cumbria"
+        ],
+        [
+            "http://dbpedia.org/resource/Amber_Valley",
+            "http://dbpedia.org/resource/Borough_status_in_the_United_Kingdom",
+            "http://dbpedia.org/resource/Derbyshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Borough_of_Ashford",
+            "http://dbpedia.org/resource/Borough_status_in_the_United_Kingdom",
+            "http://dbpedia.org/resource/Kent"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Borough_of_Barking_and_Dagenham",
+            "http://dbpedia.org/resource/London_boroughs",
+            "http://dbpedia.org/resource/Greater_London"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Borough_of_Barnet",
+            "http://dbpedia.org/resource/London_boroughs",
+            "http://dbpedia.org/resource/Greater_London"
+        ]
+    ]
+}

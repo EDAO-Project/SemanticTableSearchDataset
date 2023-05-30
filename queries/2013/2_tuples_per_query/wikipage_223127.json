@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1900_Summer_Olympics",
+            "http://dbpedia.org/resource/Walter_Tewksbury",
+            "http://dbpedia.org/resource/Henri_Tauzin",
+            "http://dbpedia.org/resource/George_Orton"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Harry_Hillman",
+            "http://dbpedia.org/resource/Frank_Waller",
+            "http://dbpedia.org/resource/George_Poage"
+        ]
+    ]
+}

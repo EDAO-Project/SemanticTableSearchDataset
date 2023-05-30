@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Joe_Hockey",
+            "http://dbpedia.org/resource/Liberal_Party_of_Australia"
+        ]
+    ]
+}

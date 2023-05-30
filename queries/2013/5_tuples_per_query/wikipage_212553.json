@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Royal_School_of_Mines",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Camborne_School_of_Mines",
+            "http://dbpedia.org/resource/Cornwall",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Glamorgan",
+            "http://dbpedia.org/resource/Pontypridd",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Freiberg_University_of_Mining_and_Technology",
+            "http://dbpedia.org/resource/Freiberg",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Clausthal_University_of_Technology",
+            "http://dbpedia.org/resource/Clausthal-Zellerfeld",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

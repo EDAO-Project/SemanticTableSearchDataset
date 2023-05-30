@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fitz_John_Porter",
+            "http://dbpedia.org/resource/John_H._Martindale",
+            "http://dbpedia.org/resource/2nd_Maine_Volunteer_Infantry_Regiment"
+        ],
+        [
+            "http://dbpedia.org/resource/Fitz_John_Porter",
+            "http://dbpedia.org/resource/George_W._Morell",
+            "http://dbpedia.org/resource/4th_Michigan_Volunteer_Infantry_Regiment"
+        ],
+        [
+            "http://dbpedia.org/resource/Fitz_John_Porter",
+            "http://dbpedia.org/resource/Daniel_Butterfield",
+            "http://dbpedia.org/resource/44th_New_York_Volunteer_Infantry_Regiment"
+        ],
+        [
+            "http://dbpedia.org/resource/Fitz_John_Porter",
+            "http://dbpedia.org/resource/Charles_Griffin",
+            "http://dbpedia.org/resource/5th_Air_Defense_Artillery_Regiment"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_Hooker",
+            "http://dbpedia.org/resource/Henry_Morris_Naglee",
+            "http://dbpedia.org/resource/First_Regiment_Massachusetts_Volunteer_Infantry"
+        ]
+    ]
+}

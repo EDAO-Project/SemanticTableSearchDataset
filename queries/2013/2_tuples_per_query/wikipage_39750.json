@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cathay_Pacific",
+            "http://dbpedia.org/resource/Hong_Kong_International_Airport",
+            "http://dbpedia.org/resource/Taoyuan_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/China_Airlines",
+            "http://dbpedia.org/resource/Hong_Kong_International_Airport",
+            "http://dbpedia.org/resource/Taoyuan_International_Airport"
+        ]
+    ]
+}

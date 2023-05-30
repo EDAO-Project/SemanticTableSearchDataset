@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Utsunomiya"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Stuttgart"
+        ]
+    ]
+}

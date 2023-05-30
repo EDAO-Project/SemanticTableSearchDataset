@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fourth_Texas_Legislature",
+            "http://dbpedia.org/resource/John_O._Meusebach",
+            "http://dbpedia.org/resource/Bexar_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Fifth_Texas_Legislature",
+            "http://dbpedia.org/resource/William_Harrison_Martin",
+            "http://dbpedia.org/resource/Freestone_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Sixth_Texas_Legislature",
+            "http://dbpedia.org/resource/William_Harrison_Martin",
+            "http://dbpedia.org/resource/Freestone_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Seventh_Texas_Legislature",
+            "http://dbpedia.org/resource/William_Harrison_Martin",
+            "http://dbpedia.org/resource/Freestone_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Fifteenth_Texas_Legislature",
+            "http://dbpedia.org/resource/John_William_Moore",
+            "http://dbpedia.org/resource/Hill_County,_Texas"
+        ]
+    ]
+}

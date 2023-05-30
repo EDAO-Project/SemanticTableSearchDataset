@@ -1,0 +1,46 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ernest_Borgnine",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Conway",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernest_Borgnine",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Conway",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Nelson_Reilly",
+            "http://dbpedia.org/resource/List_of_SpongeBob_SquarePants_characters"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Rhys-Davies",
+            "http://dbpedia.org/resource/List_of_SpongeBob_SquarePants_characters"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernest_Borgnine",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Conway",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/Dee_Bradley_Baker",
+            "http://dbpedia.org/resource/List_of_SpongeBob_SquarePants_characters"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Schreck",
+            "http://dbpedia.org/resource/Count_Orlok"
+        ]
+    ]
+}

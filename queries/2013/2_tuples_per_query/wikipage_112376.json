@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Ernie_Els"
+        ],
+        [
+            "http://dbpedia.org/resource/Dimension_Data_Pro-Am",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Nick_Price"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_South_Asian_Games",
+            "http://dbpedia.org/resource/Kathmandu",
+            "http://dbpedia.org/resource/Nepal"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_South_Asian_Games",
+            "http://dbpedia.org/resource/Dhaka",
+            "http://dbpedia.org/resource/Bangladesh"
+        ]
+    ]
+}

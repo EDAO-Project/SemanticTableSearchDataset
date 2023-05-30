@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Noureddine_Hachouf",
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/ES_Guelma"
+        ],
+        [
+            "http://dbpedia.org/resource/Rabah_Gamouh",
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/MO_Constantine"
+        ]
+    ]
+}

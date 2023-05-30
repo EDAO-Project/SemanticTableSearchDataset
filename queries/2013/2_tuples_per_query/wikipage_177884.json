@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ketuvim",
+            "http://dbpedia.org/resource/Sapiential_Books",
+            "http://dbpedia.org/resource/Sapiential_Books",
+            "http://dbpedia.org/resource/Sapiential_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/Book_of_Baruch",
+            "http://dbpedia.org/resource/Letter_of_Jeremiah"
+        ]
+    ]
+}

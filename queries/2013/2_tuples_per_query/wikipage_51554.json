@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harley_Marques_Silva",
+            "http://dbpedia.org/resource/Xu_Linyin",
+            "http://dbpedia.org/resource/Todd_Rogers"
+        ],
+        [
+            "http://dbpedia.org/resource/Harley_Marques_Silva",
+            "http://dbpedia.org/resource/Xu_Linyin",
+            "http://dbpedia.org/resource/Franco_Neto"
+        ]
+    ]
+}

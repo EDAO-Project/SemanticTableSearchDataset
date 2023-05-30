@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barclay_Henley",
+            "http://dbpedia.org/resource/Redistricting",
+            "http://dbpedia.org/resource/Butte_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_McKenna",
+            "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Ninth_Circuit",
+            "http://dbpedia.org/resource/Alameda_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_H._Metcalf",
+            "http://dbpedia.org/resource/United_States_Department_of_Commerce_and_Labor",
+            "http://dbpedia.org/resource/Alameda_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_H._Metcalf",
+            "http://dbpedia.org/resource/United_States_Department_of_Commerce_and_Labor",
+            "http://dbpedia.org/resource/Alameda_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_R._Knowland",
+            "http://dbpedia.org/resource/Redistricting",
+            "http://dbpedia.org/resource/Alameda_County,_California"
+        ]
+    ]
+}

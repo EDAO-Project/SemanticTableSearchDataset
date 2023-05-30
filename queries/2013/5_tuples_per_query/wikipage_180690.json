@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russ_Johnson",
+            "http://dbpedia.org/resource/LSU_Tigers_baseball",
+            "http://dbpedia.org/resource/Shortstop"
+        ],
+        [
+            "http://dbpedia.org/resource/Todd_Walker",
+            "http://dbpedia.org/resource/LSU_Tigers_baseball",
+            "http://dbpedia.org/resource/Second_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Todd_Helton",
+            "http://dbpedia.org/resource/Tennessee_Volunteers_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Eddy_Furniss",
+            "http://dbpedia.org/resource/Tennessee_Volunteers_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Hudson",
+            "http://dbpedia.org/resource/Auburn_Tigers_baseball",
+            "http://dbpedia.org/resource/Pitcher"
+        ]
+    ]
+}

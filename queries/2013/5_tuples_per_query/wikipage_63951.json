@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1961_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/Pedro_Ramos",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Yankee_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/Camilo_Pascual",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Metropolitan_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/Camilo_Pascual",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Cleveland_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/Jim_Kaat",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Metropolitan_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/Mudcat_Grant",
+            "http://dbpedia.org/resource/History_of_the_Oakland_Athletics",
+            "http://dbpedia.org/resource/Metropolitan_Stadium"
+        ]
+    ]
+}

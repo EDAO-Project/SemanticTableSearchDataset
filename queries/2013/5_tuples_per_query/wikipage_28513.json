@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Third_government_of_Israel",
+            "http://dbpedia.org/resource/Eliezer_Kaplan",
+            "http://dbpedia.org/resource/Mapai"
+        ],
+        [
+            "http://dbpedia.org/resource/Eleventh_government_of_Israel",
+            "http://dbpedia.org/resource/Abba_Eban",
+            "http://dbpedia.org/resource/Mapai"
+        ],
+        [
+            "http://dbpedia.org/resource/Eighteenth_government_of_Israel",
+            "http://dbpedia.org/resource/Simha_Erlich",
+            "http://dbpedia.org/resource/Likud"
+        ],
+        [
+            "http://dbpedia.org/resource/Eighteenth_government_of_Israel",
+            "http://dbpedia.org/resource/Yigael_Yadin",
+            "http://dbpedia.org/resource/Democratic_Movement_for_Change"
+        ],
+        [
+            "http://dbpedia.org/resource/Nineteenth_government_of_Israel",
+            "http://dbpedia.org/resource/Simha_Erlich",
+            "http://dbpedia.org/resource/Likud"
+        ]
+    ]
+}

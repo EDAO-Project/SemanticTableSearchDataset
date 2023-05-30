@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Epiglottal_stop",
+            "http://dbpedia.org/resource/Voiceless_alveolar_affricate",
+            "http://dbpedia.org/resource/History_of_the_International_Phonetic_Alphabet"
+        ],
+        [
+            "http://dbpedia.org/resource/Palatal_hook",
+            "http://dbpedia.org/resource/Palatalization",
+            "http://dbpedia.org/resource/International_Phonetic_Association_Kiel_Convention"
+        ],
+        [
+            "http://dbpedia.org/resource/Lambda",
+            "http://dbpedia.org/resource/Voiced_alveolar_lateral_affricate",
+            "http://dbpedia.org/resource/Americanist_phonetic_notation"
+        ],
+        [
+            "http://dbpedia.org/resource/Lambda",
+            "http://dbpedia.org/resource/Voiceless_alveolar_lateral_affricate",
+            "http://dbpedia.org/resource/Americanist_phonetic_notation"
+        ],
+        [
+            "http://dbpedia.org/resource/Caron",
+            "http://dbpedia.org/resource/Postalveolar_consonant",
+            "http://dbpedia.org/resource/Americanist_phonetic_notation"
+        ]
+    ]
+}

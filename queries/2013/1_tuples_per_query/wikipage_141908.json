@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/She_Loves_You",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Parlophone"
+        ]
+    ]
+}

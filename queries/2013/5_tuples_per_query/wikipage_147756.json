@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Gates",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Microsoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Warren_Buffett",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Berkshire_Hathaway"
+        ],
+        [
+            "http://dbpedia.org/resource/Karl_Albrecht",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Aldi"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Allen",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Microsoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Al-Waleed_bin_Talal",
+            "http://dbpedia.org/resource/Saudi_Arabia",
+            "http://dbpedia.org/resource/Kingdom_Holding_Company"
+        ]
+    ]
+}

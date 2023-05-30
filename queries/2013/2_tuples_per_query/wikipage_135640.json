@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Red_Star_Stadium",
+            "http://dbpedia.org/resource/Belgrade",
+            "http://dbpedia.org/resource/Red_Star_Belgrade"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Maksimir",
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/GNK_Dinamo_Zagreb"
+        ]
+    ]
+}

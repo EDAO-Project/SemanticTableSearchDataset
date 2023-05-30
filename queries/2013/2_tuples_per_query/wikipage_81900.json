@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Morena",
+            "http://dbpedia.org/resource/Narendra_Singh_Tomar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhind",
+            "http://dbpedia.org/resource/Ashok_Argal",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ]
+    ]
+}

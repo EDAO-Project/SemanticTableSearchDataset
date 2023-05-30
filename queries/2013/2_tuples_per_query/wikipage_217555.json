@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Intellivision_World_Series_Baseball",
+            "http://dbpedia.org/resource/Intellivision",
+            "http://dbpedia.org/resource/Don_Daglow",
+            "http://dbpedia.org/resource/Mattel"
+        ],
+        [
+            "http://dbpedia.org/resource/Earl_Weaver_Baseball",
+            "http://dbpedia.org/resource/Amiga",
+            "http://dbpedia.org/resource/Don_Daglow",
+            "http://dbpedia.org/resource/Electronic_Arts"
+        ]
+    ]
+}

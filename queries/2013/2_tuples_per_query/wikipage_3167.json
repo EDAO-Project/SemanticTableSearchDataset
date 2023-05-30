@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_in_sports",
+            "http://dbpedia.org/resource/Dottie_Pepper",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_in_sports",
+            "http://dbpedia.org/resource/Betsy_King",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Just_Fontaine",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Stade_de_Reims"
+        ]
+    ]
+}

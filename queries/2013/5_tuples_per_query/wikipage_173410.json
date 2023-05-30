@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al_Ahly_SC",
+            "http://dbpedia.org/resource/Egyptian_Premier_League",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Cairo_Governorate"
+        ],
+        [
+            "http://dbpedia.org/resource/Zamalek_SC",
+            "http://dbpedia.org/resource/Egyptian_Premier_League",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Cairo_Governorate"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghazl_El_Mahalla_SC",
+            "http://dbpedia.org/resource/Egyptian_Premier_League",
+            "http://dbpedia.org/resource/El-Mahalla_El-Kubra",
+            "http://dbpedia.org/resource/Gharbia_Governorate"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Mokawloon_SC",
+            "http://dbpedia.org/resource/Egyptian_Premier_League",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Cairo_Governorate"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Ittihad_Alexandria",
+            "http://dbpedia.org/resource/Egyptian_Premier_League",
+            "http://dbpedia.org/resource/Alexandria",
+            "http://dbpedia.org/resource/Alexandria_Governorate"
+        ]
+    ]
+}

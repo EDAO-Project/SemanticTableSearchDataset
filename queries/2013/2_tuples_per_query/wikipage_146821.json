@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arnayon",
+            "http://dbpedia.org/resource/Aubenasson",
+            "http://dbpedia.org/resource/Aucelon"
+        ],
+        [
+            "http://dbpedia.org/resource/Chamaloc",
+            "http://dbpedia.org/resource/Charens",
+            "http://dbpedia.org/resource/Chastel-Arnaud"
+        ]
+    ]
+}

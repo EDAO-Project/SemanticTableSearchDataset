@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Volkswagen",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Automotive_industry"
+        ],
+        [
+            "http://dbpedia.org/resource/Daimler_AG",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Automotive_industry"
+        ]
+    ]
+}

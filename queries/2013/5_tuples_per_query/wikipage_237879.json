@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Grayson",
+            "http://dbpedia.org/resource/1st_United_States_Congress",
+            "http://dbpedia.org/resource/Richard_Henry_Lee"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Monroe",
+            "http://dbpedia.org/resource/1st_United_States_Congress",
+            "http://dbpedia.org/resource/Richard_Henry_Lee"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Monroe",
+            "http://dbpedia.org/resource/2nd_United_States_Congress",
+            "http://dbpedia.org/resource/Richard_Henry_Lee"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Monroe",
+            "http://dbpedia.org/resource/2nd_United_States_Congress",
+            "http://dbpedia.org/resource/John_Taylor_of_Caroline"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Monroe",
+            "http://dbpedia.org/resource/3rd_United_States_Congress",
+            "http://dbpedia.org/resource/John_Taylor_of_Caroline"
+        ]
+    ]
+}

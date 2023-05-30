@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cyrus_Christie",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Coventry"
+        ],
+        [
+            "http://dbpedia.org/resource/Blair_Adams",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/South_Shields"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Webster",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Dundee"
+        ],
+        [
+            "http://dbpedia.org/resource/Conor_Thomas",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Coventry"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl_Baker",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Whiston,_Merseyside"
+        ]
+    ]
+}

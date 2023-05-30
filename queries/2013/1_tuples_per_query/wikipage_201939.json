@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_College_Dublin",
+            "http://dbpedia.org/resource/NUI_Galway",
+            "http://dbpedia.org/resource/Mardyke"
+        ]
+    ]
+}

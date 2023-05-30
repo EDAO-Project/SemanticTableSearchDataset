@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cal_Poly_Mustangs",
+            "http://dbpedia.org/resource/California_Polytechnic_State_University",
+            "http://dbpedia.org/resource/San_Luis_Obispo,_California",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Cal_State_Bakersfield_Roadrunners",
+            "http://dbpedia.org/resource/California_State_University,_Bakersfield",
+            "http://dbpedia.org/resource/Bakersfield,_California",
+            "http://dbpedia.org/resource/Western_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Cal_State_Fullerton_Titans",
+            "http://dbpedia.org/resource/California_State_University,_Fullerton",
+            "http://dbpedia.org/resource/Fullerton,_California",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Cal_State_Northridge_Matadors",
+            "http://dbpedia.org/resource/California_State_University,_Northridge",
+            "http://dbpedia.org/resource/Northridge,_Los_Angeles",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/California_Golden_Bears",
+            "http://dbpedia.org/resource/University_of_California,_Berkeley",
+            "http://dbpedia.org/resource/Berkeley,_California",
+            "http://dbpedia.org/resource/Pacific-12_Conference"
+        ]
+    ]
+}

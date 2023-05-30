@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/Green_Clay_Smith",
+            "http://dbpedia.org/resource/Gideon_T._Stewart"
+        ],
+        [
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/John_St._John",
+            "http://dbpedia.org/resource/William_Daniel"
+        ]
+    ]
+}

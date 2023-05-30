@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_in_sports",
+            "http://dbpedia.org/resource/Santa_Fe,_Argentina",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_in_sports",
+            "http://dbpedia.org/resource/Bell_Ville",
+            "http://dbpedia.org/resource/Uruguay"
+        ]
+    ]
+}

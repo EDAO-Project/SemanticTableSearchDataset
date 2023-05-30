@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamilton,_Ontario",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/FirstOntario_Centre"
+        ]
+    ]
+}

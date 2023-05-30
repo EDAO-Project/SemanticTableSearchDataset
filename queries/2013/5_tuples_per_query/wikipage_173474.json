@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_F._Lettow",
+            "http://dbpedia.org/resource/Stanford_Law_School",
+            "http://dbpedia.org/resource/Ben_C._Duniway"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Bollinger",
+            "http://dbpedia.org/resource/Columbia_Law_School",
+            "http://dbpedia.org/resource/Wilfred_Feinberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_B._Burbank",
+            "http://dbpedia.org/resource/Harvard_Law_School",
+            "http://dbpedia.org/resource/Robert_Braucher"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenneth_Francis_Ripple",
+            "http://dbpedia.org/resource/University_of_Virginia_School_of_Law",
+            "http://dbpedia.org/resource/Warren_E._Burger"
+        ],
+        [
+            "http://dbpedia.org/resource/Ken_Starr",
+            "http://dbpedia.org/resource/Duke_University_School_of_Law",
+            "http://dbpedia.org/resource/Warren_E._Burger"
+        ]
+    ]
+}

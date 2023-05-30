@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Empire_Awards",
+            "http://dbpedia.org/resource/Pierce_Brosnan",
+            "http://dbpedia.org/resource/The_World_Is_Not_Enough"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Empire_Awards",
+            "http://dbpedia.org/resource/Kevin_Spacey",
+            "http://dbpedia.org/resource/American_Beauty"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Empire_Awards",
+            "http://dbpedia.org/resource/Elijah_Wood",
+            "http://dbpedia.org/resource/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Empire_Awards",
+            "http://dbpedia.org/resource/Haley_Joel_Osment",
+            "http://dbpedia.org/resource/A.I._Artificial_Intelligence"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Empire_Awards",
+            "http://dbpedia.org/resource/Viggo_Mortensen",
+            "http://dbpedia.org/resource/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+        ]
+    ]
+}

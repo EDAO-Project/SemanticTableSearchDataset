@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/51st_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series",
+            "http://dbpedia.org/resource/David_E._Kelley"
+        ],
+        [
+            "http://dbpedia.org/resource/51st_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Supporting_Actress_in_a_Drama_Series",
+            "http://dbpedia.org/resource/Camryn_Manheim"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_British_Columbia",
+            "http://dbpedia.org/resource/UBC_Thunderbirds",
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/Canada_West_Universities_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Victoria",
+            "http://dbpedia.org/resource/Victoria_Vikes",
+            "http://dbpedia.org/resource/Victoria,_British_Columbia",
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/Canada_West_Universities_Athletic_Association"
+        ]
+    ]
+}

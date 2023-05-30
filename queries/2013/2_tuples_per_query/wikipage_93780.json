@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Man-Bat",
+            "http://dbpedia.org/resource/Frank_Robbins",
+            "http://dbpedia.org/resource/Detective_Comics"
+        ],
+        [
+            "http://dbpedia.org/resource/Llyra",
+            "http://dbpedia.org/resource/Roy_Thomas",
+            "http://dbpedia.org/resource/Namor"
+        ]
+    ]
+}

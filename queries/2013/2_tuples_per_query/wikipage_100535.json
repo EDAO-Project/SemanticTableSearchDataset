@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hari_Chand_Dewan",
+            "http://dbpedia.org/resource/Punjab,_India",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Minoo_Merwan_Engineer",
+            "http://dbpedia.org/resource/Gujarat",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

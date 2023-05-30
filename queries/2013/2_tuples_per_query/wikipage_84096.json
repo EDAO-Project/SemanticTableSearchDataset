@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alappuzha_district",
+            "http://dbpedia.org/resource/Alappuzha",
+            "http://dbpedia.org/resource/Ambalappuzha"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernakulam_district",
+            "http://dbpedia.org/resource/Kakkanad",
+            "http://dbpedia.org/resource/Aluva"
+        ]
+    ]
+}

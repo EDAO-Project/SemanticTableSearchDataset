@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rio_de_Janeiro",
+            "http://dbpedia.org/resource/Bianca_Botto",
+            "http://dbpedia.org/resource/Olivia_Sanchez",
+            "http://dbpedia.org/resource/Florencia_Molinero",
+            "http://dbpedia.org/resource/Ana_Clara_Duarte"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Serpent_Model_Racing_Cars",
+            "http://dbpedia.org/resource/Tokyo_Disneyland",
+            "http://dbpedia.org/resource/Urayasu"
+        ],
+        [
+            "http://dbpedia.org/resource/Masami_Hirosaka",
+            "http://dbpedia.org/resource/Schumacher_Racing_Products",
+            "http://dbpedia.org/resource/Romsey"
+        ],
+        [
+            "http://dbpedia.org/resource/Masami_Hirosaka",
+            "http://dbpedia.org/resource/Associated_Electrics",
+            "http://dbpedia.org/resource/Baarn"
+        ],
+        [
+            "http://dbpedia.org/resource/Masami_Hirosaka",
+            "http://dbpedia.org/resource/Associated_Electrics",
+            "http://dbpedia.org/resource/St_Ives,_New_South_Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Masami_Hirosaka",
+            "http://dbpedia.org/resource/Associated_Electrics",
+            "http://dbpedia.org/resource/Detroit"
+        ]
+    ]
+}

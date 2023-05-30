@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1972_in_literature",
+            "http://dbpedia.org/resource/Ben_Bova",
+            "http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_in_literature",
+            "http://dbpedia.org/resource/Terry_Carr",
+            "http://dbpedia.org/resource/The_Best_Science_Fiction_of_the_Year"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_in_literature",
+            "http://dbpedia.org/resource/Ben_Bova",
+            "http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_in_literature",
+            "http://dbpedia.org/resource/Terry_Carr",
+            "http://dbpedia.org/resource/The_Best_Science_Fiction_of_the_Year"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_in_literature",
+            "http://dbpedia.org/resource/Ben_Bova",
+            "http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact"
+        ]
+    ]
+}

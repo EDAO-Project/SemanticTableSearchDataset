@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ARIS_Express",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Freeware"
+        ],
+        [
+            "http://dbpedia.org/resource/Calligra_Flow",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/GNU_General_Public_License"
+        ]
+    ]
+}

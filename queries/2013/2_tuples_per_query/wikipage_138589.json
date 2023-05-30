@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Limestone_County,_Alabama",
+            "http://dbpedia.org/resource/Athens,_Alabama",
+            "http://dbpedia.org/resource/Athens"
+        ],
+        [
+            "http://dbpedia.org/resource/Unorganized_Borough,_Alaska",
+            "http://dbpedia.org/resource/Bethel,_Alaska",
+            "http://dbpedia.org/resource/Bethel"
+        ]
+    ]
+}

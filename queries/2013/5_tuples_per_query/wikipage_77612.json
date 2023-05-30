@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/East_of_England",
+            "http://dbpedia.org/resource/Cambridgeshire",
+            "http://dbpedia.org/resource/Cambridgeshire_County_Council",
+            "http://dbpedia.org/resource/Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Midlands",
+            "http://dbpedia.org/resource/Derbyshire",
+            "http://dbpedia.org/resource/Derbyshire_County_Council",
+            "http://dbpedia.org/resource/High_Peak,_Derbyshire"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Midlands",
+            "http://dbpedia.org/resource/Leicestershire",
+            "http://dbpedia.org/resource/Leicestershire_County_Council",
+            "http://dbpedia.org/resource/Borough_of_Charnwood"
+        ],
+        [
+            "http://dbpedia.org/resource/North_West_England",
+            "http://dbpedia.org/resource/Lancashire",
+            "http://dbpedia.org/resource/Lancashire_County_Council",
+            "http://dbpedia.org/resource/West_Lancashire"
+        ],
+        [
+            "http://dbpedia.org/resource/South_East_England",
+            "http://dbpedia.org/resource/Buckinghamshire",
+            "http://dbpedia.org/resource/Buckinghamshire_County_Council",
+            "http://dbpedia.org/resource/South_Bucks"
+        ]
+    ]
+}

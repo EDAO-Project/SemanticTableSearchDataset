@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Quills",
+            "http://dbpedia.org/resource/Doug_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/The_House_of_Mirth",
+            "http://dbpedia.org/resource/Terence_Davies"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bayswater",
+            "http://dbpedia.org/resource/Gordon_Ashley",
+            "http://dbpedia.org/resource/Peter_Lockwood"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bellarine",
+            "http://dbpedia.org/resource/Garry_Spry",
+            "http://dbpedia.org/resource/Lisa_Neville"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Benalla",
+            "http://dbpedia.org/resource/Denise_Allen",
+            "http://dbpedia.org/resource/Bill_Sykes"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bentleigh",
+            "http://dbpedia.org/resource/Inga_Peulich",
+            "http://dbpedia.org/resource/Rob_Hudson"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Cranbourne",
+            "http://dbpedia.org/resource/Gary_Rowe",
+            "http://dbpedia.org/resource/Jude_Perera"
+        ]
+    ]
+}

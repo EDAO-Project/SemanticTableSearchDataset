@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kariba_Dam",
+            "http://dbpedia.org/resource/Lake_Kariba",
+            "http://dbpedia.org/resource/Zambezi",
+            "http://dbpedia.org/resource/Zimbabwe"
+        ]
+    ]
+}

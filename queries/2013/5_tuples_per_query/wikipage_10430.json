@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mohammad-Ali_Rajai",
+            "http://dbpedia.org/resource/Islamic_Republican_Party",
+            "http://dbpedia.org/resource/Mohammad-Javad_Bahonar",
+            "http://dbpedia.org/resource/Iranian_presidential_election,_July_1981"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_Khamenei",
+            "http://dbpedia.org/resource/Islamic_Republican_Party",
+            "http://dbpedia.org/resource/Mir-Hossein_Mousavi",
+            "http://dbpedia.org/resource/Iranian_presidential_election,_October_1981"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_Khamenei",
+            "http://dbpedia.org/resource/Islamic_Republican_Party",
+            "http://dbpedia.org/resource/Mir-Hossein_Mousavi",
+            "http://dbpedia.org/resource/Iranian_presidential_election,_1985"
+        ],
+        [
+            "http://dbpedia.org/resource/Akbar_Hashemi_Rafsanjani",
+            "http://dbpedia.org/resource/Combatant_Clergy_Association",
+            "http://dbpedia.org/resource/Hassan_Habibi",
+            "http://dbpedia.org/resource/Iranian_presidential_election,_1989"
+        ],
+        [
+            "http://dbpedia.org/resource/Akbar_Hashemi_Rafsanjani",
+            "http://dbpedia.org/resource/Combatant_Clergy_Association",
+            "http://dbpedia.org/resource/Hassan_Habibi",
+            "http://dbpedia.org/resource/Iranian_presidential_election,_1993"
+        ]
+    ]
+}

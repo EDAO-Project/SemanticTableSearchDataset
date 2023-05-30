@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Arkansas",
+            "http://dbpedia.org/resource/G._Lloyd_Spencer",
+            "http://dbpedia.org/resource/John_Little_McClellan"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Delaware",
+            "http://dbpedia.org/resource/James_H._Hughes",
+            "http://dbpedia.org/resource/C._Douglass_Buck"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Iowa",
+            "http://dbpedia.org/resource/Clyde_L._Herring",
+            "http://dbpedia.org/resource/George_A._Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Michigan",
+            "http://dbpedia.org/resource/Prentiss_M._Brown",
+            "http://dbpedia.org/resource/Homer_S._Ferguson"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Minnesota",
+            "http://dbpedia.org/resource/Arthur_E._Nelson",
+            "http://dbpedia.org/resource/Joseph_H._Ball"
+        ]
+    ]
+}

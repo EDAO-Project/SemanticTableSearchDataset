@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auckland_rugby_union_team",
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Kingsland,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Bay_of_Plenty_Rugby_Union",
+            "http://dbpedia.org/resource/Baypark_Stadium",
+            "http://dbpedia.org/resource/Mount_Maunganui"
+        ],
+        [
+            "http://dbpedia.org/resource/Bay_of_Plenty_Rugby_Union",
+            "http://dbpedia.org/resource/Rotorua_International_Stadium",
+            "http://dbpedia.org/resource/Rotorua"
+        ],
+        [
+            "http://dbpedia.org/resource/Canterbury_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Lancaster_Park",
+            "http://dbpedia.org/resource/Christchurch"
+        ],
+        [
+            "http://dbpedia.org/resource/Counties_Manukau_Rugby_Union",
+            "http://dbpedia.org/resource/Growers_Stadium",
+            "http://dbpedia.org/resource/Pukekohe"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Zealand_Warriors",
+            "http://dbpedia.org/resource/Robina_Stadium",
+            "http://dbpedia.org/resource/Joe_Tomane",
+            "http://dbpedia.org/resource/Scott_Prince"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/Stadium_Australia",
+            "http://dbpedia.org/resource/William_Zillman",
+            "http://dbpedia.org/resource/Scott_Prince"
+        ]
+    ]
+}

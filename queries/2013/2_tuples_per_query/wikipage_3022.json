@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aaj_Tak",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/Bell_Fibe_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaj_Tak",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/Cogeco"
+        ]
+    ]
+}

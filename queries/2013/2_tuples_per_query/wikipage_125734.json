@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/British_Independent_Film_Awards_2003",
+            "http://dbpedia.org/resource/28_Days_Later",
+            "http://dbpedia.org/resource/Danny_Boyle"
+        ],
+        [
+            "http://dbpedia.org/resource/British_Independent_Film_Awards_2003",
+            "http://dbpedia.org/resource/The_Magdalene_Sisters",
+            "http://dbpedia.org/resource/Peter_Mullan"
+        ]
+    ]
+}

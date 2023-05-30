@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colorado_Springs,_Colorado",
+            "http://dbpedia.org/resource/El_Paso_County,_Colorado",
+            "http://dbpedia.org/resource/Colorado_Springs_metropolitan_area"
+        ],
+        [
+            "http://dbpedia.org/resource/Fountain,_Colorado",
+            "http://dbpedia.org/resource/El_Paso_County,_Colorado",
+            "http://dbpedia.org/resource/Colorado_Springs_metropolitan_area"
+        ],
+        [
+            "http://dbpedia.org/resource/Woodland_Park,_Colorado",
+            "http://dbpedia.org/resource/Teller_County,_Colorado",
+            "http://dbpedia.org/resource/Colorado_Springs_metropolitan_area"
+        ],
+        [
+            "http://dbpedia.org/resource/Monument",
+            "http://dbpedia.org/resource/El_Paso_County,_Colorado",
+            "http://dbpedia.org/resource/Colorado_Springs_metropolitan_area"
+        ],
+        [
+            "http://dbpedia.org/resource/Manitou_Springs,_Colorado",
+            "http://dbpedia.org/resource/El_Paso_County,_Colorado",
+            "http://dbpedia.org/resource/Colorado_Springs_metropolitan_area"
+        ]
+    ]
+}

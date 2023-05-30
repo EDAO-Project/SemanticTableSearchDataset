@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yolane_Kukla",
+            "http://dbpedia.org/resource/Alice_Mills",
+            "http://dbpedia.org/resource/Cate_Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/Emily_Seebohm",
+            "http://dbpedia.org/resource/Alicia_Coutts",
+            "http://dbpedia.org/resource/Alice_Mills"
+        ],
+        [
+            "http://dbpedia.org/resource/Blair_Evans",
+            "http://dbpedia.org/resource/Bronte_Barratt",
+            "http://dbpedia.org/resource/Kylie_Palmer"
+        ],
+        [
+            "http://dbpedia.org/resource/Emily_Seebohm",
+            "http://dbpedia.org/resource/Sophie_Edington",
+            "http://dbpedia.org/resource/Grace_Loh"
+        ],
+        [
+            "http://dbpedia.org/resource/Emily_Seebohm",
+            "http://dbpedia.org/resource/Belinda_Hocking",
+            "http://dbpedia.org/resource/Sophie_Edington"
+        ]
+    ]
+}

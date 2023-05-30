@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ruppert_Jones",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Kansas_City_Royals",
+            "http://dbpedia.org/resource/Seattle_Mariners"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Bailor",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Toronto_Blue_Jays"
+        ]
+    ]
+}

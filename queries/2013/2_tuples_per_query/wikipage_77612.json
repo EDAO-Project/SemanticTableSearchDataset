@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/East_of_England",
+            "http://dbpedia.org/resource/Cambridgeshire",
+            "http://dbpedia.org/resource/Cambridgeshire_County_Council",
+            "http://dbpedia.org/resource/Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Midlands",
+            "http://dbpedia.org/resource/Derbyshire",
+            "http://dbpedia.org/resource/Derbyshire_County_Council",
+            "http://dbpedia.org/resource/High_Peak,_Derbyshire"
+        ]
+    ]
+}

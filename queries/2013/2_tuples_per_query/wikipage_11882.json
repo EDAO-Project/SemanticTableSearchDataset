@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami-Dade_County,_Florida",
+            "http://dbpedia.org/resource/Intracoastal_Waterway",
+            "http://dbpedia.org/resource/MacArthur_Causeway",
+            "http://dbpedia.org/resource/MacArthur_Causeway"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami-Dade_County,_Florida",
+            "http://dbpedia.org/resource/Miami_Beach,_Florida",
+            "http://dbpedia.org/resource/Venetian_Causeway"
+        ]
+    ]
+}

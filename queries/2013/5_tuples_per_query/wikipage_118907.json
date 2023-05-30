@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aegean_Airlines",
+            "http://dbpedia.org/resource/Athens_International_Airport",
+            "http://dbpedia.org/resource/Corfu_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Air_Canada",
+            "http://dbpedia.org/resource/Calgary_International_Airport",
+            "http://dbpedia.org/resource/Edmonton_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Air_China",
+            "http://dbpedia.org/resource/Beijing_Capital_International_Airport",
+            "http://dbpedia.org/resource/Chongqing_Jiangbei_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Air_New_Zealand",
+            "http://dbpedia.org/resource/Auckland_Airport",
+            "http://dbpedia.org/resource/Los_Angeles_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Asiana_Airlines",
+            "http://dbpedia.org/resource/Gimpo_International_Airport",
+            "http://dbpedia.org/resource/Gimhae_International_Airport"
+        ]
+    ]
+}

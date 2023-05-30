@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lidiya_Skoblikova",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1964_Winter_Olympics",
+            "http://dbpedia.org/resource/Speed_skating_at_the_1964_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Klavdiya_Boyarskikh",
+            "http://dbpedia.org/resource/Soviet_Union_at_the_1964_Winter_Olympics",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_1964_Winter_Olympics"
+        ]
+    ]
+}

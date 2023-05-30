@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agra_division",
+            "http://dbpedia.org/resource/Agra",
+            "http://dbpedia.org/resource/Agra_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Aligarh_division",
+            "http://dbpedia.org/resource/Aligarh,_Uttar_Pradesh",
+            "http://dbpedia.org/resource/Aligarh_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Allahabad_division",
+            "http://dbpedia.org/resource/Allahabad",
+            "http://dbpedia.org/resource/Allahabad_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Azamgarh_division",
+            "http://dbpedia.org/resource/Azamgarh",
+            "http://dbpedia.org/resource/Azamgarh_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Bareilly_division",
+            "http://dbpedia.org/resource/Bareilly",
+            "http://dbpedia.org/resource/Budaun_district"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jerry_West",
+            "http://dbpedia.org/resource/Los_Angeles_Lakers",
+            "http://dbpedia.org/resource/1965_NBA_Playoffs",
+            "http://dbpedia.org/resource/Washington_Wizards"
+        ]
+    ]
+}

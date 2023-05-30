@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1958_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Masao_Takemoto",
+            "http://dbpedia.org/resource/Takashi_Ono",
+            "http://dbpedia.org/resource/Yuri_Titov"
+        ]
+    ]
+}

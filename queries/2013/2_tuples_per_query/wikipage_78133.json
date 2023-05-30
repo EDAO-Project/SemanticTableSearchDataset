@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anna_Meares",
+            "http://dbpedia.org/resource/Victoria_Pendleton",
+            "http://dbpedia.org/resource/Guo_Shuang"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Britain_at_the_2012_Summer_Olympics",
+            "http://dbpedia.org/resource/France_at_the_2012_Summer_Olympics",
+            "http://dbpedia.org/resource/Germany_at_the_2012_Summer_Olympics"
+        ]
+    ]
+}

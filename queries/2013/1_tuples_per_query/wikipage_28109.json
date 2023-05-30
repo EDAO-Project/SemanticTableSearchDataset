@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greater_Boston",
+            "http://dbpedia.org/resource/Harvard_Square",
+            "http://dbpedia.org/resource/Cambridge,_Massachusetts"
+        ]
+    ]
+}

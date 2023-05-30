@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brandon,_Manitoba",
+            "http://dbpedia.org/resource/CKY-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network",
+            "http://dbpedia.org/resource/CKY-DT"
+        ],
+        [
+            "http://dbpedia.org/resource/Dauphin,_Manitoba",
+            "http://dbpedia.org/resource/CKY-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network",
+            "http://dbpedia.org/resource/CKY-DT"
+        ]
+    ]
+}

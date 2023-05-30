@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Becky_Lam",
+            "http://dbpedia.org/resource/Lonely_Fifteen"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Irene_Wan",
+            "http://dbpedia.org/resource/Lonely_Fifteen"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Irene_Wan",
+            "http://dbpedia.org/resource/Happy_Sixteen"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Josephine_Koo",
+            "http://dbpedia.org/resource/Homecoming"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Hong_Kong_Film_Awards",
+            "http://dbpedia.org/resource/Loletta_Lee",
+            "http://dbpedia.org/resource/Shanghai_Blues"
+        ]
+    ]
+}

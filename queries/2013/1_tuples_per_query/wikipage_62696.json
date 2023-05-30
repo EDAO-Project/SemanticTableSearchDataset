@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1961_Washington_Senators_season",
+            "http://dbpedia.org/resource/Dick_Donovan",
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Griffith_Stadium"
+        ]
+    ]
+}

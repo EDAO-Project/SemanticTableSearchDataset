@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leser_v._Garnett",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Nineteenth_Amendment_to_the_United_States_Constitution"
+        ],
+        [
+            "http://dbpedia.org/resource/Balzac_v._Porto_Rico",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Insular_Cases"
+        ]
+    ]
+}

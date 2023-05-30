@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tony_Stewart",
+            "http://dbpedia.org/resource/Richard_Childress_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Bowman",
+            "http://dbpedia.org/resource/RAB_Racing",
+            "http://dbpedia.org/resource/Toyota"
+        ],
+        [
+            "http://dbpedia.org/resource/Parker_Kligerman",
+            "http://dbpedia.org/resource/Kyle_Busch_Motorsports",
+            "http://dbpedia.org/resource/Toyota"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Scott",
+            "http://dbpedia.org/resource/Richard_Childress_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Justin_Allgaier",
+            "http://dbpedia.org/resource/Turner_Scott_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ]
+    ]
+}

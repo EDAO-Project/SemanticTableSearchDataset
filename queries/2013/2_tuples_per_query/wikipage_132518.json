@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Berliner_SV_1892",
+            "http://dbpedia.org/resource/Cycling_at_the_1936_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Olympiahalle",
+            "http://dbpedia.org/resource/Gymnastics_at_the_1972_Summer_Olympics"
+        ]
+    ]
+}

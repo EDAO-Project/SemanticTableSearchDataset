@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany_Senior_High_School,_Western_Australia",
+            "http://dbpedia.org/resource/Albany,_Western_Australia",
+            "http://dbpedia.org/resource/City_of_Albany"
+        ],
+        [
+            "http://dbpedia.org/resource/Australind_Senior_High_School",
+            "http://dbpedia.org/resource/Australind,_Western_Australia",
+            "http://dbpedia.org/resource/Shire_of_Harvey"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgetown_High_School",
+            "http://dbpedia.org/resource/Bridgetown,_Western_Australia",
+            "http://dbpedia.org/resource/Shire_of_Bridgetown-Greenbushes"
+        ],
+        [
+            "http://dbpedia.org/resource/Broome_Senior_High_School",
+            "http://dbpedia.org/resource/Broome,_Western_Australia",
+            "http://dbpedia.org/resource/Shire_of_Broome"
+        ],
+        [
+            "http://dbpedia.org/resource/Bunbury_Senior_High_School",
+            "http://dbpedia.org/resource/Bunbury,_Western_Australia",
+            "http://dbpedia.org/resource/City_of_Bunbury"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wyckoff_House",
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/New_York_City"
+        ]
+    ]
+}

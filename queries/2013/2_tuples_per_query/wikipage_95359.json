@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Putra_World_Trade_Centre",
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Jimmy_White",
+            "http://dbpedia.org/resource/Dennis_Taylor"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Trentham_Estate",
+            "http://dbpedia.org/resource/Stoke-on-Trent",
+            "http://dbpedia.org/resource/Neal_Foulds",
+            "http://dbpedia.org/resource/Cliff_Thorburn"
+        ]
+    ]
+}

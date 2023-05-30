@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darjeeling_tea",
+            "http://dbpedia.org/resource/Agriculture",
+            "http://dbpedia.org/resource/West_Bengal"
+        ]
+    ]
+}

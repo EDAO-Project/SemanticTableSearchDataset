@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nangang_Station",
+            "http://dbpedia.org/resource/Taiwan_Railways_Administration",
+            "http://dbpedia.org/resource/Nangang_District,_Taipei",
+            "http://dbpedia.org/resource/Taipei"
+        ],
+        [
+            "http://dbpedia.org/resource/Taipei_Railway_Station",
+            "http://dbpedia.org/resource/Taiwan_Railways_Administration",
+            "http://dbpedia.org/resource/Zhongzheng_District",
+            "http://dbpedia.org/resource/Taipei"
+        ],
+        [
+            "http://dbpedia.org/resource/Banqiao_Station",
+            "http://dbpedia.org/resource/Taiwan_Railways_Administration",
+            "http://dbpedia.org/resource/Banqiao_District",
+            "http://dbpedia.org/resource/New_Taipei_City"
+        ],
+        [
+            "http://dbpedia.org/resource/THSR_Taoyuan_Station",
+            "http://dbpedia.org/resource/Taoyuan_Metro",
+            "http://dbpedia.org/resource/Zhongli_District",
+            "http://dbpedia.org/resource/Taoyuan_County,_Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/THSR_Hsinchu_Station",
+            "http://dbpedia.org/resource/Taiwan_Railways_Administration",
+            "http://dbpedia.org/resource/Zhubei",
+            "http://dbpedia.org/resource/Hsinchu_County"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamilton_Mountain",
+            "http://dbpedia.org/resource/Gus_MacFarlane",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/London_West",
+            "http://dbpedia.org/resource/Judd_Buchanan",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Peel_South",
+            "http://dbpedia.org/resource/Anthony_Abbott",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Nickel_Belt",
+            "http://dbpedia.org/resource/John_Rodriguez",
+            "http://dbpedia.org/resource/New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottawa_Centre",
+            "http://dbpedia.org/resource/Hugh_Poulin",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ]
+    ]
+}

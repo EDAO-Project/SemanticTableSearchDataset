@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shawty_Lo",
+            "http://dbpedia.org/resource/Units_in_the_City",
+            "http://dbpedia.org/resource/Dey_Know"
+        ],
+        [
+            "http://dbpedia.org/resource/Re-Up_Gang",
+            "http://dbpedia.org/resource/Clipse_Presents:_Re-Up_Gang",
+            "http://dbpedia.org/resource/Fast_Life"
+        ],
+        [
+            "http://dbpedia.org/resource/Yung_Berg",
+            "http://dbpedia.org/resource/Look_What_You_Made_Me",
+            "http://dbpedia.org/resource/Sexy_Lady"
+        ],
+        [
+            "http://dbpedia.org/resource/Ice_Cube",
+            "http://dbpedia.org/resource/Raw_Footage",
+            "http://dbpedia.org/resource/Gangsta_Rap_Made_Me_Do_It"
+        ],
+        [
+            "http://dbpedia.org/resource/Young_Jeezy",
+            "http://dbpedia.org/resource/The_Recession",
+            "http://dbpedia.org/resource/Put_On"
+        ]
+    ]
+}

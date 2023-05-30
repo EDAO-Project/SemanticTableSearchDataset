@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SK_Brann",
+            "http://dbpedia.org/resource/Molde_FK",
+            "http://dbpedia.org/resource/Brann_Stadion",
+            "http://dbpedia.org/resource/2005_Tippeligaen"
+        ],
+        [
+            "http://dbpedia.org/resource/Aalesunds_FK",
+            "http://dbpedia.org/resource/SK_Brann",
+            "http://dbpedia.org/resource/Color_Line_Stadion",
+            "http://dbpedia.org/resource/2005_Tippeligaen"
+        ],
+        [
+            "http://dbpedia.org/resource/IL_Gneist",
+            "http://dbpedia.org/resource/SK_Brann",
+            "http://dbpedia.org/resource/Bergen",
+            "http://dbpedia.org/resource/2005_Norwegian_Football_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Fredrikstad_FK",
+            "http://dbpedia.org/resource/SK_Brann",
+            "http://dbpedia.org/resource/Fredrikstad_Stadion",
+            "http://dbpedia.org/resource/2005_Tippeligaen"
+        ],
+        [
+            "http://dbpedia.org/resource/IK_Start",
+            "http://dbpedia.org/resource/SK_Brann",
+            "http://dbpedia.org/resource/Kristiansand_Stadion",
+            "http://dbpedia.org/resource/2005_Tippeligaen"
+        ]
+    ]
+}

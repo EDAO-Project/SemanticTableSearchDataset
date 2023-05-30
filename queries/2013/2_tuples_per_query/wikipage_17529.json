@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Civilization_Revolution",
+            "http://dbpedia.org/resource/Firaxis_Games",
+            "http://dbpedia.org/resource/2K_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Dance_on_Broadway",
+            "http://dbpedia.org/resource/Longtail_Studios",
+            "http://dbpedia.org/resource/Ubisoft"
+        ]
+    ]
+}

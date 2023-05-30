@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battle_of_Okehazama",
+            "http://dbpedia.org/resource/Toyoake,_Aichi",
+            "http://dbpedia.org/resource/Monuments_of_Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Toyokawa,_Aichi",
+            "http://dbpedia.org/resource/Provincial_temple",
+            "http://dbpedia.org/resource/Monuments_of_Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Toyokawa,_Aichi",
+            "http://dbpedia.org/resource/Provincial_temple",
+            "http://dbpedia.org/resource/Monuments_of_Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Komaki",
+            "http://dbpedia.org/resource/Komaki,_Aichi",
+            "http://dbpedia.org/resource/Monuments_of_Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Matsudaira_clan",
+            "http://dbpedia.org/resource/Toyota,_Aichi",
+            "http://dbpedia.org/resource/Monuments_of_Japan"
+        ]
+    ]
+}

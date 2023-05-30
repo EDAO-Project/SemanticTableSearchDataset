@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Salisbury,_North_Carolina",
+            "http://dbpedia.org/resource/Rowan_County,_North_Carolina",
+            "http://dbpedia.org/resource/U.S._Route_601"
+        ]
+    ]
+}

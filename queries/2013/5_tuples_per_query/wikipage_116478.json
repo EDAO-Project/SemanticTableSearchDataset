@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Kingston",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1903"
+        ],
+        [
+            "http://dbpedia.org/resource/Edwin_Yates",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Adelaide_by-election,_1914"
+        ],
+        [
+            "http://dbpedia.org/resource/Reginald_Blundell",
+            "http://dbpedia.org/resource/Nationalist_Party_of_Australia",
+            "http://dbpedia.org/resource/Australian_federal_election,_1919"
+        ],
+        [
+            "http://dbpedia.org/resource/Edwin_Yates",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1922"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Stacey",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1931"
+        ]
+    ]
+}

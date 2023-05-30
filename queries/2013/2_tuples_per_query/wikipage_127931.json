@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brunei",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Bolivia"
+        ]
+    ]
+}

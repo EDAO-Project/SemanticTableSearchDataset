@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ASVEL_Basket",
+            "http://dbpedia.org/resource/Villeurbanne",
+            "http://dbpedia.org/resource/Astroballe"
+        ],
+        [
+            "http://dbpedia.org/resource/CB_Sant_Josep",
+            "http://dbpedia.org/resource/Girona",
+            "http://dbpedia.org/resource/Palau_Girona-Fontajau"
+        ],
+        [
+            "http://dbpedia.org/resource/Alba_Berlin",
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Max-Schmeling-Halle"
+        ],
+        [
+            "http://dbpedia.org/resource/Antwerp_Giants",
+            "http://dbpedia.org/resource/Antwerp",
+            "http://dbpedia.org/resource/Lotto_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/ASK_Riga",
+            "http://dbpedia.org/resource/Riga",
+            "http://dbpedia.org/resource/Arena_Riga"
+        ]
+    ]
+}

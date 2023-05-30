@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kennebec_River",
+            "http://dbpedia.org/resource/Bingham,_Maine",
+            "http://dbpedia.org/resource/Franklin_County,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/Bailey_Farm_Windmill",
+            "http://dbpedia.org/resource/Maine_State_Route_16",
+            "http://dbpedia.org/resource/North_Anson,_Maine"
+        ]
+    ]
+}

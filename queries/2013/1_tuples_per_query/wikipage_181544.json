@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canberra_Raiders",
+            "http://dbpedia.org/resource/Penrith_Stadium",
+            "http://dbpedia.org/resource/Sika_Manu",
+            "http://dbpedia.org/resource/Luke_Walsh"
+        ]
+    ]
+}

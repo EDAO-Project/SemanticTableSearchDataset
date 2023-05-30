@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Barnaul",
+            "http://dbpedia.org/resource/Barnaul_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Yerevan",
+            "http://dbpedia.org/resource/Zvartnots_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Baku",
+            "http://dbpedia.org/resource/Heydar_Aliyev_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Beijing",
+            "http://dbpedia.org/resource/Beijing_Capital_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Almaty",
+            "http://dbpedia.org/resource/Almaty_International_Airport"
+        ]
+    ]
+}

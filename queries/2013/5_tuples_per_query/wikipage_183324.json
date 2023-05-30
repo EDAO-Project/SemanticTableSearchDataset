@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Tour_of_Qatar",
+            "http://dbpedia.org/resource/Mark_Cavendish",
+            "http://dbpedia.org/resource/Brent_Bookwalter",
+            "http://dbpedia.org/resource/Taylor_Phinney"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Tour_of_Oman",
+            "http://dbpedia.org/resource/Chris_Froome",
+            "http://dbpedia.org/resource/Alberto_Contador",
+            "http://dbpedia.org/resource/Cadel_Evans"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Three_Days_of_De_Panne",
+            "http://dbpedia.org/resource/Sylvain_Chavanel",
+            "http://dbpedia.org/resource/Alexander_Kristoff",
+            "http://dbpedia.org/resource/Niki_Terpstra"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Giro_del_Trentino",
+            "http://dbpedia.org/resource/Vincenzo_Nibali",
+            "http://dbpedia.org/resource/Mauro_Santambrogio",
+            "http://dbpedia.org/resource/Maxime_Bouet"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Tour_of_Turkey",
+            "http://dbpedia.org/resource/Mustafa_Sayar",
+            "http://dbpedia.org/resource/Natnael_Berhane",
+            "http://dbpedia.org/resource/Yoann_Bagot"
+        ]
+    ]
+}

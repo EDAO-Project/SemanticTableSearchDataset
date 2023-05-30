@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saharanpur",
+            "http://dbpedia.org/resource/Jagdish_Singh_Rana",
+            "http://dbpedia.org/resource/Rasheed_Masood"
+        ],
+        [
+            "http://dbpedia.org/resource/Kairana",
+            "http://dbpedia.org/resource/Tabassum_Begum",
+            "http://dbpedia.org/resource/Anuradha_Choudhary"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amarcord",
+            "http://dbpedia.org/resource/Federico_Fellini",
+            "http://dbpedia.org/resource/Bruno_Zanin"
+        ]
+    ]
+}

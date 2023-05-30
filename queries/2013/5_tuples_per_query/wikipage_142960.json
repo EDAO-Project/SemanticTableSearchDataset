@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Death_Machine",
+            "http://dbpedia.org/resource/Stephen_Norrington",
+            "http://dbpedia.org/resource/Brad_Dourif"
+        ],
+        [
+            "http://dbpedia.org/resource/Cemetery_Man",
+            "http://dbpedia.org/resource/Michele_Soavi",
+            "http://dbpedia.org/resource/Rupert_Everett"
+        ],
+        [
+            "http://dbpedia.org/resource/In_the_Mouth_of_Madness",
+            "http://dbpedia.org/resource/John_Carpenter",
+            "http://dbpedia.org/resource/Sam_Neill"
+        ],
+        [
+            "http://dbpedia.org/resource/Leprechaun_2",
+            "http://dbpedia.org/resource/Rodman_Flender",
+            "http://dbpedia.org/resource/Warwick_Davis"
+        ],
+        [
+            "http://dbpedia.org/resource/Needful_Things",
+            "http://dbpedia.org/resource/Fraser_Clarke_Heston",
+            "http://dbpedia.org/resource/Max_von_Sydow"
+        ]
+    ]
+}

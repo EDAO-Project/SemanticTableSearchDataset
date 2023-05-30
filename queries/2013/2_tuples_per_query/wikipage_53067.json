@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wang_Xiaofu",
+            "http://dbpedia.org/resource/Peter_Leek",
+            "http://dbpedia.org/resource/Konstantin_Lisenkov"
+        ],
+        [
+            "http://dbpedia.org/resource/Enhamed_Enhamed",
+            "http://dbpedia.org/resource/Junichi_Kawai",
+            "http://dbpedia.org/resource/Alexander_Chekurov"
+        ]
+    ]
+}

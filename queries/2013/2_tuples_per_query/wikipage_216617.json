@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/52nd_Academy_Awards",
+            "http://dbpedia.org/resource/The_Black_Hole",
+            "http://dbpedia.org/resource/Peter_Ellenshaw"
+        ],
+        [
+            "http://dbpedia.org/resource/52nd_Academy_Awards",
+            "http://dbpedia.org/resource/Star_Trek:_The_Motion_Picture",
+            "http://dbpedia.org/resource/Douglas_Trumbull"
+        ]
+    ]
+}

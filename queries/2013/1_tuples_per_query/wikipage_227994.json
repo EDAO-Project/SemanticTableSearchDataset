@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Northern_Skirts",
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Barbara_Albert"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Meat_Loaf",
+            "http://dbpedia.org/resource/Bat_Out_of_Hell",
+            "http://dbpedia.org/resource/Epic_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Abbey_Road",
+            "http://dbpedia.org/resource/Apple_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Bon_Jovi",
+            "http://dbpedia.org/resource/Slippery_When_Wet",
+            "http://dbpedia.org/resource/Mercury_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Dixie_Chicks",
+            "http://dbpedia.org/resource/Wide_Open_Spaces",
+            "http://dbpedia.org/resource/Monument_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Led_Zeppelin",
+            "http://dbpedia.org/resource/Led_Zeppelin_II",
+            "http://dbpedia.org/resource/Atlantic_Records"
+        ]
+    ]
+}

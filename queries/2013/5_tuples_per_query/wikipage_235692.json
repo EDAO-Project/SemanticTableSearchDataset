@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London_Buses_route_13",
+            "http://dbpedia.org/resource/Golders_Green",
+            "http://dbpedia.org/resource/Aldwych",
+            "http://dbpedia.org/resource/London_Sovereign"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Buses_route_82",
+            "http://dbpedia.org/resource/Victoria,_London",
+            "http://dbpedia.org/resource/North_Finchley",
+            "http://dbpedia.org/resource/Metroline"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Buses_route_83",
+            "http://dbpedia.org/resource/Golders_Green",
+            "http://dbpedia.org/resource/Ealing_Hospital",
+            "http://dbpedia.org/resource/Metroline"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Buses_route_102",
+            "http://dbpedia.org/resource/Brent_Cross",
+            "http://dbpedia.org/resource/Edmonton_Green_Shopping_Centre",
+            "http://dbpedia.org/resource/Arriva_London"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Buses_route_183",
+            "http://dbpedia.org/resource/Golders_Green",
+            "http://dbpedia.org/resource/Pinner",
+            "http://dbpedia.org/resource/London_Sovereign"
+        ]
+    ]
+}

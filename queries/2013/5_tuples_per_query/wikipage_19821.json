@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_Little_League_World_Series",
+            "http://dbpedia.org/resource/Wilmington,_Delaware",
+            "http://dbpedia.org/resource/Easton,_Maryland",
+            "http://dbpedia.org/resource/Randolph,_New_Jersey",
+            "http://dbpedia.org/resource/The_Bronx",
+            "http://dbpedia.org/resource/State_College,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Little_League_World_Series",
+            "http://dbpedia.org/resource/Frankford,_Delaware",
+            "http://dbpedia.org/resource/Preston,_Maryland",
+            "http://dbpedia.org/resource/Hamilton_Square,_New_Jersey",
+            "http://dbpedia.org/resource/Manhattan",
+            "http://dbpedia.org/resource/Bethlehem,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Little_League_World_Series",
+            "http://dbpedia.org/resource/Wilmington,_Delaware",
+            "http://dbpedia.org/resource/Salisbury,_Maryland",
+            "http://dbpedia.org/resource/Freehold_Township,_New_Jersey",
+            "http://dbpedia.org/resource/Ramapo,_New_York",
+            "http://dbpedia.org/resource/Collegeville,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Little_League_World_Series_qualification",
+            "http://dbpedia.org/resource/Wilmington,_Delaware",
+            "http://dbpedia.org/resource/Preston,_Maryland",
+            "http://dbpedia.org/resource/Hamilton_Township,_Mercer_County,_New_Jersey",
+            "http://dbpedia.org/resource/Colonie,_New_York",
+            "http://dbpedia.org/resource/Hilltown,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Little_League_World_Series_qualification",
+            "http://dbpedia.org/resource/Bear,_Delaware",
+            "http://dbpedia.org/resource/Thurmont,_Maryland",
+            "http://dbpedia.org/resource/Toms_River,_New_Jersey",
+            "http://dbpedia.org/resource/Merrick,_New_York",
+            "http://dbpedia.org/resource/Newtown,_Bucks_County,_Pennsylvania"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aalen_station",
+            "http://dbpedia.org/resource/Aalen",
+            "http://dbpedia.org/resource/Brenz_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Albbruck_station",
+            "http://dbpedia.org/resource/Albbruck",
+            "http://dbpedia.org/resource/Upper_Rhine_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Asperg_station",
+            "http://dbpedia.org/resource/Asperg",
+            "http://dbpedia.org/resource/Franconia_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Bad_Friedrichshall-Jagstfeld_station",
+            "http://dbpedia.org/resource/Bad_Friedrichshall",
+            "http://dbpedia.org/resource/Franconia_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Bietigheim-Bissingen_station",
+            "http://dbpedia.org/resource/Bietigheim-Bissingen",
+            "http://dbpedia.org/resource/Franconia_Railway"
+        ]
+    ]
+}

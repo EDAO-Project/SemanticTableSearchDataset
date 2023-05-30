@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gary_Doak",
+            "http://dbpedia.org/resource/Defenceman",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Hamilton",
+            "http://dbpedia.org/resource/Defenceman",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/List_of_roads_in_Toronto",
+            "http://dbpedia.org/resource/Ontario_Highway_50"
+        ]
+    ]
+}

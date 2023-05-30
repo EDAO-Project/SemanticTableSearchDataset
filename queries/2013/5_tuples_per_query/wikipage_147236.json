@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abdelatif_Benazzi",
+            "http://dbpedia.org/resource/Morocco_national_rugby_union_team",
+            "http://dbpedia.org/resource/France_national_rugby_union_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Frano_Botica",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/Croatia_national_rugby_union_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Bunce",
+            "http://dbpedia.org/resource/Samoa_national_rugby_union_team",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Carroll",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/United_States_national_rugby_union_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Des_Connor",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Andretti",
+            "http://dbpedia.org/resource/Newman/Haas_Racing",
+            "http://dbpedia.org/resource/Lola_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/Eddie_Cheever",
+            "http://dbpedia.org/resource/Chip_Ganassi_Racing",
+            "http://dbpedia.org/resource/Lola_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobby_Rahal",
+            "http://dbpedia.org/resource/Galles_Racing",
+            "http://dbpedia.org/resource/Lola_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/Mario_Andretti",
+            "http://dbpedia.org/resource/Newman/Haas_Racing",
+            "http://dbpedia.org/resource/Lola_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/Emerson_Fittipaldi",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Penske_PC-20"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_L._Benedict",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Abraham_Lincoln"
+        ],
+        [
+            "http://dbpedia.org/resource/Asa_Wentworth_Tenney",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_William_McKinley"
+        ]
+    ]
+}

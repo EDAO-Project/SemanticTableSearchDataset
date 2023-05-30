@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ampara",
+            "http://dbpedia.org/resource/Sri_Lanka",
+            "http://dbpedia.org/resource/Ampara_Airport"
+        ]
+    ]
+}

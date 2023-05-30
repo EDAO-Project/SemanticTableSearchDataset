@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Israel_Gelfand",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Functional_analysis"
+        ]
+    ]
+}

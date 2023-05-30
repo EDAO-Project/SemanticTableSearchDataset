@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Airport_Terminal_2_Station",
+            "http://dbpedia.org/resource/Narita_Line",
+            "http://dbpedia.org/resource/Keisei_Main_Line"
+        ]
+    ]
+}

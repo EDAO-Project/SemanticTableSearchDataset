@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Morgan_Stanley",
+            "http://dbpedia.org/resource/List_of_trading_losses"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/JPMorgan_Chase",
+            "http://dbpedia.org/resource/2012_JPMorgan_Chase_trading_loss"
+        ]
+    ]
+}

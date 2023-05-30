@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bloody_Mama",
+            "http://dbpedia.org/resource/Roger_Corman",
+            "http://dbpedia.org/resource/Shelley_Winters"
+        ]
+    ]
+}

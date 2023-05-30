@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/RKO_281",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/The_Corner",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_television",
+            "http://dbpedia.org/resource/If_These_Walls_Could_Talk_2",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/Anne_Frank:_The_Whole_Story",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_television",
+            "http://dbpedia.org/resource/The_Last_of_the_Blonde_Bombshells",
+            "http://dbpedia.org/resource/HBO"
+        ]
+    ]
+}

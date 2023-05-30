@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Estevan_Bruins",
+            "http://dbpedia.org/resource/Flin_Flon_Bombers",
+            "http://dbpedia.org/resource/1968_Memorial_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Medicine_Hat_Tigers",
+            "http://dbpedia.org/resource/Saskatoon_Blades",
+            "http://dbpedia.org/resource/1973_Memorial_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Regina_Pats",
+            "http://dbpedia.org/resource/Calgary_Centennials",
+            "http://dbpedia.org/resource/1974_Memorial_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Westminster_Bruins",
+            "http://dbpedia.org/resource/Saskatoon_Blades",
+            "http://dbpedia.org/resource/1975_Memorial_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Westminster_Bruins",
+            "http://dbpedia.org/resource/Saskatoon_Blades",
+            "http://dbpedia.org/resource/1976_Memorial_Cup"
+        ]
+    ]
+}

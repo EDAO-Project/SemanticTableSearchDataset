@@ -1,0 +1,27 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christchurch_Priory",
+            "http://dbpedia.org/resource/Christchurch_Priory",
+            "http://dbpedia.org/resource/Christchurch,_Dorset"
+        ],
+        [
+            "http://dbpedia.org/resource/Christchurch_Castle",
+            "http://dbpedia.org/resource/Christchurch_Castle",
+            "http://dbpedia.org/resource/Christchurch,_Dorset"
+        ],
+        [
+            "http://dbpedia.org/resource/Christchurch_Castle",
+            "http://dbpedia.org/resource/Christchurch_Castle",
+            "http://dbpedia.org/resource/Christchurch,_Dorset"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashlar",
+            "http://dbpedia.org/resource/Christchurch,_Dorset"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashlar",
+            "http://dbpedia.org/resource/Christchurch,_Dorset"
+        ]
+    ]
+}

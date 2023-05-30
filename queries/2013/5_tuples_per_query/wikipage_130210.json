@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ainslie_Football_Club",
+            "http://dbpedia.org/resource/Ainslie,_Australian_Capital_Territory",
+            "http://dbpedia.org/resource/North_East_Australian_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Burnie_Dockers_Football_Club",
+            "http://dbpedia.org/resource/Burnie,_Tasmania",
+            "http://dbpedia.org/resource/Tasmanian_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Claremont_Football_Club",
+            "http://dbpedia.org/resource/Claremont,_Western_Australia",
+            "http://dbpedia.org/resource/West_Australian_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Clarence_Football_Club",
+            "http://dbpedia.org/resource/City_of_Clarence",
+            "http://dbpedia.org/resource/Tasmanian_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Fremantle_Football_Club",
+            "http://dbpedia.org/resource/East_Fremantle,_Western_Australia",
+            "http://dbpedia.org/resource/West_Australian_Football_League"
+        ]
+    ]
+}

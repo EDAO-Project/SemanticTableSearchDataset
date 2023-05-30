@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cheek_to_Cheek",
+            "http://dbpedia.org/resource/Top_Hat",
+            "http://dbpedia.org/resource/1935_in_film",
+            "http://dbpedia.org/resource/Fred_Astaire"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Ballad_of_High_Noon",
+            "http://dbpedia.org/resource/High_Noon",
+            "http://dbpedia.org/resource/1952_in_film",
+            "http://dbpedia.org/resource/Tex_Ritter"
+        ]
+    ]
+}

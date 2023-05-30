@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_38",
+            "http://dbpedia.org/resource/New_York_State_Route_13",
+            "http://dbpedia.org/resource/New_York_State_Route_5"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_126",
+            "http://dbpedia.org/resource/New_York_State_Route_12",
+            "http://dbpedia.org/resource/New_York_State_Route_3"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_28B",
+            "http://dbpedia.org/resource/New_York_State_Route_365",
+            "http://dbpedia.org/resource/New_York_State_Route_12"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_317",
+            "http://dbpedia.org/resource/New_York_State_Route_5",
+            "http://dbpedia.org/resource/New_York_State_Route_31"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_429",
+            "http://dbpedia.org/resource/New_York_State_Route_3",
+            "http://dbpedia.org/resource/New_York_State_Route_31"
+        ]
+    ]
+}

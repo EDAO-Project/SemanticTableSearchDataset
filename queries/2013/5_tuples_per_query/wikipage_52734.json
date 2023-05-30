@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Hartford",
+            "http://dbpedia.org/resource/Hartford_Hawks_baseball",
+            "http://dbpedia.org/resource/Fiondella_Field",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Maine",
+            "http://dbpedia.org/resource/Maine_Black_Bears_baseball",
+            "http://dbpedia.org/resource/Mahaney_Diamond",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Stony_Brook_University",
+            "http://dbpedia.org/resource/Stony_Brook_Seawolves_baseball",
+            "http://dbpedia.org/resource/Joe_Nathan_Field",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Massachusetts_Lowell",
+            "http://dbpedia.org/resource/UMass_Lowell_River_Hawks_baseball",
+            "http://dbpedia.org/resource/Edward_A._LeLacheur_Park",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Maryland,_Baltimore_County",
+            "http://dbpedia.org/resource/UMBC_Retrievers_baseball",
+            "http://dbpedia.org/resource/The_Baseball_Factory_Field_at_UMBC",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ]
+    ]
+}

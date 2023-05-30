@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_Walker_Baldwin",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Powered_aircraft",
+            "http://dbpedia.org/resource/Aerial_Experiment_Association"
+        ]
+    ]
+}

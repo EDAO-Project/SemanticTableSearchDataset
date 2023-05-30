@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DYMR",
+            "http://dbpedia.org/resource/Philippine_Broadcasting_Service",
+            "http://dbpedia.org/resource/News",
+            "http://dbpedia.org/resource/DYMR",
+            "http://dbpedia.org/resource/Cebu_City"
+        ],
+        [
+            "http://dbpedia.org/resource/DYHP",
+            "http://dbpedia.org/resource/Radio_Mindanao_Network",
+            "http://dbpedia.org/resource/News",
+            "http://dbpedia.org/resource/DYHP",
+            "http://dbpedia.org/resource/Cebu_City"
+        ],
+        [
+            "http://dbpedia.org/resource/DYRC",
+            "http://dbpedia.org/resource/Pacific_Broadcasting_Systems",
+            "http://dbpedia.org/resource/News",
+            "http://dbpedia.org/resource/DYRC",
+            "http://dbpedia.org/resource/Cebu_City"
+        ],
+        [
+            "http://dbpedia.org/resource/DYAR",
+            "http://dbpedia.org/resource/Sonshine_Media_Network_International",
+            "http://dbpedia.org/resource/Religious_broadcasting",
+            "http://dbpedia.org/resource/DYAR",
+            "http://dbpedia.org/resource/Cebu_City"
+        ],
+        [
+            "http://dbpedia.org/resource/DYBG",
+            "http://dbpedia.org/resource/Intercontinental_Broadcasting_Corporation",
+            "http://dbpedia.org/resource/News",
+            "http://dbpedia.org/resource/DYBG",
+            "http://dbpedia.org/resource/Cebu_City"
+        ]
+    ]
+}

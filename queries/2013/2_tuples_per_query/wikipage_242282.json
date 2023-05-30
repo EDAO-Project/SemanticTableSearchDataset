@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jean_Graczyk",
+            "http://dbpedia.org/resource/Pino_Cerami",
+            "http://dbpedia.org/resource/Gastone_Nencini",
+            "http://dbpedia.org/resource/Raymond_Mastrotto",
+            "http://dbpedia.org/resource/Rik_Van_Looy"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacques_Anquetil",
+            "http://dbpedia.org/resource/Raymond_Poulidor",
+            "http://dbpedia.org/resource/Rik_Van_Looy",
+            "http://dbpedia.org/resource/Gilbert_Desmet",
+            "http://dbpedia.org/resource/Nino_Defilippis"
+        ]
+    ]
+}

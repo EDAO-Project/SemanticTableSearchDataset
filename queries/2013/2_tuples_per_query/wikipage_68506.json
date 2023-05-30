@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bathurst",
+            "http://dbpedia.org/resource/Gerard_Martin",
+            "http://dbpedia.org/resource/Paul_Toole"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Blue_Mountains",
+            "http://dbpedia.org/resource/Phil_Koperberg",
+            "http://dbpedia.org/resource/Roza_Sage"
+        ]
+    ]
+}

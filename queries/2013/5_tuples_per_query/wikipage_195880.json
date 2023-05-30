@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Korea_national_football_team",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Football_at_the_1958_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Korea_national_football_team",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Football_at_the_1970_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Korea_national_football_team",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/1972_AFC_Asian_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Korea_national_football_team",
+            "http://dbpedia.org/resource/Tehran",
+            "http://dbpedia.org/resource/Football_at_the_1974_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Korea_national_football_team",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Football_at_the_1982_Asian_Games"
+        ]
+    ]
+}

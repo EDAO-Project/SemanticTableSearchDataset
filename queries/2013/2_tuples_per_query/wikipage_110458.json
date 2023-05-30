@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/RAF_Thorpe_Abbotts",
+            "http://dbpedia.org/resource/Thorpe_Abbotts",
+            "http://dbpedia.org/resource/South_Norfolk",
+            "http://dbpedia.org/resource/100th_Air_Refueling_Wing"
+        ],
+        [
+            "http://dbpedia.org/resource/Blickling_Hall",
+            "http://dbpedia.org/resource/Blickling",
+            "http://dbpedia.org/resource/Broadland",
+            "http://dbpedia.org/resource/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty"
+        ]
+    ]
+}

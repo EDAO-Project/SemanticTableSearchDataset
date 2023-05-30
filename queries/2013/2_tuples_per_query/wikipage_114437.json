@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Jack_Heidemann",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Brenham_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Steve_Dunning",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Stanford_Cardinal_baseball"
+        ]
+    ]
+}

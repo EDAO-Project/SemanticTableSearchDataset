@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benevento_Calcio",
+            "http://dbpedia.org/resource/Benevento",
+            "http://dbpedia.org/resource/Stadio_Ciro_Vigorito"
+        ],
+        [
+            "http://dbpedia.org/resource/Calcio_Como",
+            "http://dbpedia.org/resource/Como",
+            "http://dbpedia.org/resource/Stadio_Giuseppe_Sinigaglia"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Cremonese",
+            "http://dbpedia.org/resource/Cremona",
+            "http://dbpedia.org/resource/Stadio_Giovanni_Zini"
+        ],
+        [
+            "http://dbpedia.org/resource/Foligno_Calcio",
+            "http://dbpedia.org/resource/Foligno",
+            "http://dbpedia.org/resource/Stadio_Enzo_Blasone"
+        ],
+        [
+            "http://dbpedia.org/resource/Calcio_Lecco_1912",
+            "http://dbpedia.org/resource/Lecco",
+            "http://dbpedia.org/resource/Stadio_Rigamonti-Ceppi"
+        ]
+    ]
+}

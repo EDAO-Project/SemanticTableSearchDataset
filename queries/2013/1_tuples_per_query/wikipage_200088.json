@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fordham_University",
+            "http://dbpedia.org/resource/Digger_Phelps",
+            "http://dbpedia.org/resource/University_of_South_Carolina"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elvis_Presley",
+            "http://dbpedia.org/resource/A_Little_Less_Conversation",
+            "http://dbpedia.org/resource/Junkie_XL"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Get_Back",
+            "http://dbpedia.org/resource/Billy_Preston"
+        ]
+    ]
+}

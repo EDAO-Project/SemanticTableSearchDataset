@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Milton_H._Welling",
+            "http://dbpedia.org/resource/65th_United_States_Congress",
+            "http://dbpedia.org/resource/Farmington,_Utah",
+            "http://dbpedia.org/resource/Merchant",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1920"
+        ],
+        [
+            "http://dbpedia.org/resource/Milton_H._Welling",
+            "http://dbpedia.org/resource/66th_United_States_Congress",
+            "http://dbpedia.org/resource/Farmington,_Utah",
+            "http://dbpedia.org/resource/Merchant",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1920"
+        ],
+        [
+            "http://dbpedia.org/resource/Walter_K._Granger",
+            "http://dbpedia.org/resource/77th_United_States_Congress",
+            "http://dbpedia.org/resource/Cedar_City,_Utah",
+            "http://dbpedia.org/resource/Farmer",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1952"
+        ],
+        [
+            "http://dbpedia.org/resource/Walter_K._Granger",
+            "http://dbpedia.org/resource/78th_United_States_Congress",
+            "http://dbpedia.org/resource/Cedar_City,_Utah",
+            "http://dbpedia.org/resource/Farmer",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1952"
+        ],
+        [
+            "http://dbpedia.org/resource/Walter_K._Granger",
+            "http://dbpedia.org/resource/79th_United_States_Congress",
+            "http://dbpedia.org/resource/Cedar_City,_Utah",
+            "http://dbpedia.org/resource/Farmer",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1952"
+        ]
+    ]
+}

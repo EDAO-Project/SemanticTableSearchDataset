@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/East_Florida_Railway",
+            "http://dbpedia.org/resource/Atlantic_Coast_Line_Railroad",
+            "http://dbpedia.org/resource/Plant_System"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Florida_and_Atlantic_Railroad",
+            "http://dbpedia.org/resource/Seaboard_Air_Line_Railroad",
+            "http://dbpedia.org/resource/Florida_Central_and_Peninsular_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Fernandina_and_Amelia_Beach_Railway",
+            "http://dbpedia.org/resource/Seaboard_Air_Line_Railroad",
+            "http://dbpedia.org/resource/Florida_Central_and_Peninsular_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Central_and_Western_Railroad",
+            "http://dbpedia.org/resource/Seaboard_Air_Line_Railroad",
+            "http://dbpedia.org/resource/Florida_Central_and_Peninsular_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Railroad",
+            "http://dbpedia.org/resource/Seaboard_Air_Line_Railroad",
+            "http://dbpedia.org/resource/Florida_Central_and_Peninsular_Railroad"
+        ]
+    ]
+}

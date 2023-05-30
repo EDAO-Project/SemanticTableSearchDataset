@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dicotyledon",
+            "http://dbpedia.org/resource/Monocotyledon",
+            "http://dbpedia.org/resource/Flowering_plant"
+        ]
+    ]
+}

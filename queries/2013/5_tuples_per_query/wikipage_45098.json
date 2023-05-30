@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alden_Bridge",
+            "http://dbpedia.org/resource/Alden,_Iowa",
+            "http://dbpedia.org/resource/Hardin_County,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Ames_Creek_Bridge",
+            "http://dbpedia.org/resource/DeWitt,_Iowa",
+            "http://dbpedia.org/resource/Clinton_County,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkhimer_Bridge",
+            "http://dbpedia.org/resource/Humboldt,_Iowa",
+            "http://dbpedia.org/resource/Humboldt_County,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Bertram_Bridge",
+            "http://dbpedia.org/resource/Bertram,_Iowa",
+            "http://dbpedia.org/resource/Linn_County,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_Slough_Creek_Bridge",
+            "http://dbpedia.org/resource/Nichols,_Iowa",
+            "http://dbpedia.org/resource/Muscatine_County,_Iowa"
+        ]
+    ]
+}

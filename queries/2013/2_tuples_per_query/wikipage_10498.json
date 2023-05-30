@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cave_of_Altamira",
+            "http://dbpedia.org/resource/Santillana_del_Mar",
+            "http://dbpedia.org/resource/Cantabria",
+            "http://dbpedia.org/resource/Cave_painting"
+        ],
+        [
+            "http://dbpedia.org/resource/Asturian_architecture",
+            "http://dbpedia.org/resource/Oviedo",
+            "http://dbpedia.org/resource/Asturias",
+            "http://dbpedia.org/resource/Kingdom_of_Asturias"
+        ]
+    ]
+}

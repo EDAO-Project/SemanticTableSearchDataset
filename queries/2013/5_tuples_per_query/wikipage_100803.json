@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Randolph_S._Driver",
+            "http://dbpedia.org/resource/Lyndon_B._Johnson",
+            "http://dbpedia.org/resource/Paul_Robert_Ignatius"
+        ],
+        [
+            "http://dbpedia.org/resource/James_D._Little",
+            "http://dbpedia.org/resource/Richard_Nixon",
+            "http://dbpedia.org/resource/John_Chafee"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_A._Doyle",
+            "http://dbpedia.org/resource/Jimmy_Carter",
+            "http://dbpedia.org/resource/Edward_Hidalgo"
+        ],
+        [
+            "http://dbpedia.org/resource/John_S._Herrington",
+            "http://dbpedia.org/resource/Ronald_Reagan",
+            "http://dbpedia.org/resource/John_Lehman"
+        ],
+        [
+            "http://dbpedia.org/resource/Chapman_B._Cox",
+            "http://dbpedia.org/resource/Ronald_Reagan",
+            "http://dbpedia.org/resource/John_Lehman"
+        ]
+    ]
+}

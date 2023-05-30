@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_U.S._state_mammals",
+            "http://dbpedia.org/resource/North_American_beaver",
+            "http://dbpedia.org/resource/Rodent"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_U.S._state_crustaceans",
+            "http://dbpedia.org/resource/Dungeness_crab",
+            "http://dbpedia.org/resource/West_Linn,_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_U.S._state_dances",
+            "http://dbpedia.org/resource/Square_dance",
+            "http://dbpedia.org/resource/Folk_dance"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_U.S._state_fish",
+            "http://dbpedia.org/resource/Chinook_salmon",
+            "http://dbpedia.org/resource/Legend"
+        ],
+        [
+            "http://dbpedia.org/resource/Flags_of_the_U.S._states",
+            "http://dbpedia.org/resource/Flag_of_Oregon",
+            "http://dbpedia.org/resource/Flag"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/S.S.D._Acireale_Calcio_1946",
+            "http://dbpedia.org/resource/Acireale",
+            "http://dbpedia.org/resource/Sicily",
+            "http://dbpedia.org/resource/Stadio_Tupparello"
+        ],
+        [
+            "http://dbpedia.org/resource/G.S.D._RapalloBogliasco",
+            "http://dbpedia.org/resource/Bogliasco",
+            "http://dbpedia.org/resource/Liguria",
+            "http://dbpedia.org/resource/Santa_Margherita_Ligure"
+        ],
+        [
+            "http://dbpedia.org/resource/Cosenza_Calcio",
+            "http://dbpedia.org/resource/Cosenza",
+            "http://dbpedia.org/resource/Calabria",
+            "http://dbpedia.org/resource/Stadio_San_Vito"
+        ],
+        [
+            "http://dbpedia.org/resource/Foggia_Calcio",
+            "http://dbpedia.org/resource/Foggia",
+            "http://dbpedia.org/resource/Apulia",
+            "http://dbpedia.org/resource/Stadio_Pino_Zaccheria"
+        ],
+        [
+            "http://dbpedia.org/resource/Calcio_Lecco_1912",
+            "http://dbpedia.org/resource/Lecco",
+            "http://dbpedia.org/resource/Lombardy",
+            "http://dbpedia.org/resource/Stadio_Rigamonti-Ceppi"
+        ]
+    ]
+}

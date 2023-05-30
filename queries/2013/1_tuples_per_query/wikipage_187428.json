@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Penny_Taylor",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Phoenix_Mercury",
+            "http://dbpedia.org/resource/Cleveland_Rockers"
+        ]
+    ]
+}

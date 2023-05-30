@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Cyndi_Lauper",
+            "http://dbpedia.org/resource/Pat_Benatar"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Tina_Turner",
+            "http://dbpedia.org/resource/Cyndi_Lauper"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Whitney_Houston",
+            "http://dbpedia.org/resource/Kate_Bush"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Suzanne_Vega",
+            "http://dbpedia.org/resource/Cher"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Paula_Abdul",
+            "http://dbpedia.org/resource/Tracy_Chapman"
+        ]
+    ]
+}

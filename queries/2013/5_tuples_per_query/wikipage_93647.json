@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Business_routes_of_Interstate_20_in_Texas",
+            "http://dbpedia.org/resource/Roscoe,_Texas",
+            "http://dbpedia.org/resource/U.S._Route_80"
+        ],
+        [
+            "http://dbpedia.org/resource/Texas_State_Highway_Loop_250",
+            "http://dbpedia.org/resource/Austin,_Texas",
+            "http://dbpedia.org/resource/U.S._Route_183"
+        ],
+        [
+            "http://dbpedia.org/resource/Texas_State_Highway_Loop_274",
+            "http://dbpedia.org/resource/Plainview,_Texas",
+            "http://dbpedia.org/resource/U.S._Route_87_in_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Texas_State_Highway_Loop_293",
+            "http://dbpedia.org/resource/Austin,_Texas",
+            "http://dbpedia.org/resource/U.S._Route_290"
+        ],
+        [
+            "http://dbpedia.org/resource/Texas_State_Highway_Loop_334",
+            "http://dbpedia.org/resource/Carthage,_Texas",
+            "http://dbpedia.org/resource/U.S._Route_79"
+        ]
+    ]
+}

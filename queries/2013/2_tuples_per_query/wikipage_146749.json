@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Argenton,_Lot-et-Garonne",
+            "http://dbpedia.org/resource/Armillac",
+            "http://dbpedia.org/resource/Auriac-sur-Dropt",
+            "http://dbpedia.org/resource/Baleyssagues"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaupuy,_Lot-et-Garonne",
+            "http://dbpedia.org/resource/Birac-sur-Trec",
+            "http://dbpedia.org/resource/Bouglon",
+            "http://dbpedia.org/resource/Bourgougnague"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/15_Central_Park_West",
+            "http://dbpedia.org/resource/15_Central_Park_West",
+            "http://dbpedia.org/resource/Renaissance_Revival_architecture",
+            "http://dbpedia.org/resource/Emery_Roth"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Prasada",
+            "http://dbpedia.org/resource/Second_Empire_architecture",
+            "http://dbpedia.org/resource/Charles_W._Romeyn"
+        ],
+        [
+            "http://dbpedia.org/resource/55_Central_Park_West",
+            "http://dbpedia.org/resource/Art_Deco",
+            "http://dbpedia.org/resource/Schwartz_&_Gross"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Brentmore",
+            "http://dbpedia.org/resource/Beaux-Arts_architecture",
+            "http://dbpedia.org/resource/Schwartz_&_Gross"
+        ],
+        [
+            "http://dbpedia.org/resource/Congregation_Shearith_Israel",
+            "http://dbpedia.org/resource/Neoclassicism",
+            "http://dbpedia.org/resource/Arnold_W._Brunner"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auriolles",
+            "http://dbpedia.org/resource/Auros",
+            "http://dbpedia.org/resource/Bagas,_Gironde"
+        ],
+        [
+            "http://dbpedia.org/resource/Baigneaux,_Gironde",
+            "http://dbpedia.org/resource/Balizac",
+            "http://dbpedia.org/resource/Barie"
+        ],
+        [
+            "http://dbpedia.org/resource/Bassanne",
+            "http://dbpedia.org/resource/Bazas",
+            "http://dbpedia.org/resource/Bellebat"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellefond,_Gironde",
+            "http://dbpedia.org/resource/Bernos-Beaulac",
+            "http://dbpedia.org/resource/Berthez"
+        ],
+        [
+            "http://dbpedia.org/resource/Bieujac",
+            "http://dbpedia.org/resource/Birac,_Gironde",
+            "http://dbpedia.org/resource/Blaignac"
+        ]
+    ]
+}

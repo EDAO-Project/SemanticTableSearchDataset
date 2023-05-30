@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Irvine,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/KROQ-FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Sonisphere_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Lisbon",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Rock_in_Rio"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburg",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Hamburg_Stadtpark"
+        ],
+        [
+            "http://dbpedia.org/resource/Nickelsdorf",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Nova_Rock_Festival"
+        ]
+    ]
+}

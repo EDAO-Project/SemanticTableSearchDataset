@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tempe,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Marquee_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Texas_Southern_University"
+        ]
+    ]
+}

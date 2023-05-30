@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HC_Slovan_Bratislava",
+            "http://dbpedia.org/resource/HC_Donbass",
+            "http://dbpedia.org/resource/Ondrej_Nepela_Arena"
+        ]
+    ]
+}

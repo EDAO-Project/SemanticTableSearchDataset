@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baldoyle_railway_station",
+            "http://dbpedia.org/resource/County_Dublin",
+            "http://dbpedia.org/resource/Dublin_and_Drogheda_Railway"
+        ]
+    ]
+}

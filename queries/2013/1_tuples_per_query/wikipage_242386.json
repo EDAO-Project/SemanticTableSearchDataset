@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Festhalle_Frankfurt"
+        ]
+    ]
+}

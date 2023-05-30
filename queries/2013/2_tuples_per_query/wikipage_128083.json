@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Miguel_Veloso",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Nani",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ]
+    ]
+}

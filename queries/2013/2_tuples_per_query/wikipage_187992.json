@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_National_Hockey_League_All-Star_Game",
+            "http://dbpedia.org/resource/Bill_Quackenbush",
+            "http://dbpedia.org/resource/Defenceman"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_National_Hockey_League_All-Star_Game",
+            "http://dbpedia.org/resource/Bill_Quackenbush",
+            "http://dbpedia.org/resource/Defenceman"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joe_DiMaggio",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/1941_in_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Pete_Rose",
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/1978_in_baseball"
+        ]
+    ]
+}

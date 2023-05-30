@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Germany,_Pale_Mother",
+            "http://dbpedia.org/resource/Helma_Sanders-Brahms",
+            "http://dbpedia.org/resource/30th_Berlin_International_Film_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Palermo_or_Wolfsburg",
+            "http://dbpedia.org/resource/Werner_Schroeter",
+            "http://dbpedia.org/resource/Golden_Bear"
+        ],
+        [
+            "http://dbpedia.org/resource/Put_on_Ice",
+            "http://dbpedia.org/resource/Bernhard_Sinkel",
+            "http://dbpedia.org/resource/1980_Cannes_Film_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Willi_Busch_Report",
+            "http://dbpedia.org/resource/Niklaus_Schilling",
+            "http://dbpedia.org/resource/1980_Cannes_Film_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Angels_of_Iron",
+            "http://dbpedia.org/resource/Thomas_Brasch",
+            "http://dbpedia.org/resource/1981_Cannes_Film_Festival"
+        ]
+    ]
+}

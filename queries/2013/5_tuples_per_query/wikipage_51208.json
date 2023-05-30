@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grand_Prix_motor_racing",
+            "http://dbpedia.org/resource/Straight-eight_engine",
+            "http://dbpedia.org/resource/Diatto"
+        ],
+        [
+            "http://dbpedia.org/resource/Maserati_8C",
+            "http://dbpedia.org/resource/Grand_Prix_motor_racing",
+            "http://dbpedia.org/resource/Straight-eight_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Maserati_6CM",
+            "http://dbpedia.org/resource/Voiturette",
+            "http://dbpedia.org/resource/Straight-six_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Maserati_4CL_and_4CLT",
+            "http://dbpedia.org/resource/Voiturette",
+            "http://dbpedia.org/resource/Inline-four_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Maserati_4CL_and_4CLT",
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Inline-four_engine"
+        ]
+    ]
+}

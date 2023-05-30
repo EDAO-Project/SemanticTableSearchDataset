@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_in_poetry",
+            "http://dbpedia.org/resource/Cynthia_Lowen",
+            "http://dbpedia.org/resource/Nikky_Finney"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_in_poetry",
+            "http://dbpedia.org/resource/Idra_Novey",
+            "http://dbpedia.org/resource/Patricia_Smith"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Scott_Speed"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Can_Artam"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/E._J._Viso"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Tristan_Gommendy"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Timo_Glock"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gansu",
+            "http://dbpedia.org/resource/Linxia_Hui_Autonomous_Prefecture",
+            "http://dbpedia.org/resource/Hui_people",
+            "http://dbpedia.org/resource/Chinese_language",
+            "http://dbpedia.org/resource/Linxia_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Gansu",
+            "http://dbpedia.org/resource/Gannan_Tibetan_Autonomous_Prefecture",
+            "http://dbpedia.org/resource/Tibetan_people",
+            "http://dbpedia.org/resource/Standard_Tibetan",
+            "http://dbpedia.org/resource/Hezuo"
+        ]
+    ]
+}

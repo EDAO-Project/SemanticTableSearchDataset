@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NK_Bosna_Visoko",
+            "http://dbpedia.org/resource/Visoko",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/HNK_Cibalia",
+            "http://dbpedia.org/resource/Vinkovci",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Croatia"
+        ]
+    ]
+}

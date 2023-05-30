@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Racing_de_Santander",
+            "http://dbpedia.org/resource/CD_Alcoyano",
+            "http://dbpedia.org/resource/UE_Lleida"
+        ],
+        [
+            "http://dbpedia.org/resource/Pontevedra_CF",
+            "http://dbpedia.org/resource/Real_Murcia",
+            "http://dbpedia.org/resource/Levante_UD"
+        ],
+        [
+            "http://dbpedia.org/resource/Pontevedra_CF",
+            "http://dbpedia.org/resource/RCD_Mallorca",
+            "http://dbpedia.org/resource/CE_Sabadell_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Sevilla_FC",
+            "http://dbpedia.org/resource/Celta_de_Vigo",
+            "http://dbpedia.org/resource/RCD_Mallorca"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Murcia",
+            "http://dbpedia.org/resource/Elche_CF",
+            "http://dbpedia.org/resource/Racing_de_Santander"
+        ]
+    ]
+}

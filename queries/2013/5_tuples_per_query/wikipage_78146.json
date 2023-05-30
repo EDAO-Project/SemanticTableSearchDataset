@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2004_Carolina_Challenge_Cup",
+            "http://dbpedia.org/resource/Columbus_Crew_SC",
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/Charleston_Battery",
+            "http://dbpedia.org/resource/Wilmington_Hammerheads_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Carolina_Challenge_Cup",
+            "http://dbpedia.org/resource/San_Jose_Earthquakes",
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/Columbus_Crew_SC",
+            "http://dbpedia.org/resource/Charleston_Battery"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Carolina_Challenge_Cup",
+            "http://dbpedia.org/resource/Houston_Dynamo",
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/Charleston_Battery",
+            "http://dbpedia.org/resource/New_York_Red_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Carolina_Challenge_Cup",
+            "http://dbpedia.org/resource/Houston_Dynamo",
+            "http://dbpedia.org/resource/Toronto_FC",
+            "http://dbpedia.org/resource/New_York_Red_Bulls",
+            "http://dbpedia.org/resource/Charleston_Battery"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Carolina_Challenge_Cup",
+            "http://dbpedia.org/resource/San_Jose_Earthquakes",
+            "http://dbpedia.org/resource/Charleston_Battery",
+            "http://dbpedia.org/resource/New_York_Red_Bulls",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ]
+    ]
+}

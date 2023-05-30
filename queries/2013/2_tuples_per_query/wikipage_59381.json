@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_Colorado_Rockies_season",
+            "http://dbpedia.org/resource/David_Nied",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Shea_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Colorado_Rockies_season",
+            "http://dbpedia.org/resource/Armando_Reynoso",
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/Mile_High_Stadium"
+        ]
+    ]
+}

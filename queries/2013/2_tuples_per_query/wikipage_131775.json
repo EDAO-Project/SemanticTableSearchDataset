@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2003_Kraft_Nabisco_Championship",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Patricia_Meunier-Lebouc"
+        ],
+        [
+            "http://dbpedia.org/resource/LPGA_Takefuji_Classic",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/Candie_Kung"
+        ]
+    ]
+}

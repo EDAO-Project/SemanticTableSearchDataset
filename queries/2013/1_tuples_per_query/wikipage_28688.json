@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Jake_Westbrook",
+            "http://dbpedia.org/resource/Joe_Mays",
+            "http://dbpedia.org/resource/Bob_Wickman"
+        ]
+    ]
+}

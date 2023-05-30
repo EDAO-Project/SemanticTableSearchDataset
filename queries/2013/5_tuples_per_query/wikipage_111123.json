@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bellator_Fighting_Championships:_Season_One",
+            "http://dbpedia.org/resource/Hard_Rock_Cafe",
+            "http://dbpedia.org/resource/Hollywood,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellator_Fighting_Championships:_Season_One",
+            "http://dbpedia.org/resource/Mohegan_Sun_Arena",
+            "http://dbpedia.org/resource/Uncasville,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellator_Fighting_Championships:_Season_One",
+            "http://dbpedia.org/resource/Citizens_Business_Bank_Arena",
+            "http://dbpedia.org/resource/Ontario,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellator_Fighting_Championships:_Season_One",
+            "http://dbpedia.org/resource/Monroe_Civic_Center",
+            "http://dbpedia.org/resource/Monroe,_Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellator_Fighting_Championships:_Season_One",
+            "http://dbpedia.org/resource/Central_Pavilion_Arena",
+            "http://dbpedia.org/resource/Robstown,_Texas"
+        ]
+    ]
+}

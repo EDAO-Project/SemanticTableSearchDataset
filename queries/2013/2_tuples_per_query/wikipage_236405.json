@@ -1,0 +1,22 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/15th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Ontario_general_election,_1919",
+            "http://dbpedia.org/resource/United_Farmers_of_Ontario",
+            "http://dbpedia.org/resource/Ernest_Charles_Drury",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+            "http://dbpedia.org/resource/Nelson_Parliament"
+        ],
+        [
+            "http://dbpedia.org/resource/16th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Ontario_general_election,_1923",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario",
+            "http://dbpedia.org/resource/Howard_Ferguson",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party",
+            "http://dbpedia.org/resource/United_Farmers_of_Ontario",
+            "http://dbpedia.org/resource/Joseph_Thompson"
+        ]
+    ]
+}

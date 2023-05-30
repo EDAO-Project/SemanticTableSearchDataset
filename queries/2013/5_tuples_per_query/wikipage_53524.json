@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_1_in_Pennsylvania",
+            "http://dbpedia.org/resource/Chester_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Philadelphia"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_6_in_Pennsylvania",
+            "http://dbpedia.org/resource/Crawford_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Meadville,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_11_in_Pennsylvania",
+            "http://dbpedia.org/resource/Franklin_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Harrisburg,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_15_in_Pennsylvania",
+            "http://dbpedia.org/resource/Adams_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Williamsport,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_19_in_Pennsylvania",
+            "http://dbpedia.org/resource/Greene_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Washington,_Pennsylvania"
+        ]
+    ]
+}

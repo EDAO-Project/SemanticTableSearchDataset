@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jean_Bartel",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles",
+            "http://dbpedia.org/resource/Miss_America"
+        ]
+    ]
+}

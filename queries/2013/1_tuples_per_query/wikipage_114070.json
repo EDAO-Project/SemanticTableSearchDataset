@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_Nabisco_Dinah_Shore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amy_Alcott"
+        ]
+    ]
+}

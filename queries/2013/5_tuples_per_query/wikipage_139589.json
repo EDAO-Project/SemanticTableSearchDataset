@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cleveland_Cavaliers",
+            "http://dbpedia.org/resource/Anthony_Morrow",
+            "http://dbpedia.org/resource/Mehmet_Okur",
+            "http://dbpedia.org/resource/Deron_Williams",
+            "http://dbpedia.org/resource/Quicken_Loans_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Celtics",
+            "http://dbpedia.org/resource/MarShon_Brooks",
+            "http://dbpedia.org/resource/Shelden_Williams",
+            "http://dbpedia.org/resource/Sundiata_Gaines",
+            "http://dbpedia.org/resource/TD_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Raptors",
+            "http://dbpedia.org/resource/Anthony_Morrow",
+            "http://dbpedia.org/resource/Kris_Humphries",
+            "http://dbpedia.org/resource/Deron_Williams",
+            "http://dbpedia.org/resource/Air_Canada_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami_Heat",
+            "http://dbpedia.org/resource/Kris_Humphries",
+            "http://dbpedia.org/resource/Shelden_Williams",
+            "http://dbpedia.org/resource/Deron_Williams",
+            "http://dbpedia.org/resource/Prudential_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Hawks",
+            "http://dbpedia.org/resource/Anthony_Morrow",
+            "http://dbpedia.org/resource/MarShon_Brooks",
+            "http://dbpedia.org/resource/Deron_Williams",
+            "http://dbpedia.org/resource/Prudential_Center"
+        ]
+    ]
+}

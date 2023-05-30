@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia_at_the_2012_Winter_Youth_Olympics",
+            "http://dbpedia.org/resource/Greta_Small",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_2012_Winter_Youth_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany_at_the_2012_Winter_Youth_Olympics",
+            "http://dbpedia.org/resource/Katharina_Althaus",
+            "http://dbpedia.org/resource/Ski_jumping_at_the_2012_Winter_Youth_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Britain_at_the_2012_Winter_Youth_Olympics",
+            "http://dbpedia.org/resource/Katie_Summerhayes",
+            "http://dbpedia.org/resource/Freestyle_skiing_at_the_2012_Winter_Youth_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/India_at_the_2012_Winter_Youth_Olympics",
+            "http://dbpedia.org/resource/Aanchal_Thakur",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_2012_Winter_Youth_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Cayman_Islands_at_the_2012_Winter_Youth_Olympics",
+            "http://dbpedia.org/resource/Dean_Travers",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_2012_Winter_Youth_Olympics"
+        ]
+    ]
+}

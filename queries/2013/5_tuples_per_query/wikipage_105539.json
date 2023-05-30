@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Ladies_European_Tour",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Anna_Nordqvist",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Anja_Monke"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Ladies_European_Tour",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Anna_Nordqvist",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Caroline_Masson"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Ladies_European_Tour",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Anna_Nordqvist",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Laura_Davies"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Ladies_European_Tour",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Anna_Nordqvist",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Melissa_Reid"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Ladies_European_Tour",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Anna_Nordqvist",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Karrie_Webb"
+        ]
+    ]
+}

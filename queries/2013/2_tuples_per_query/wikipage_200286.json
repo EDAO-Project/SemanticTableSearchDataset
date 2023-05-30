@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benjamin_Stoddert",
+            "http://dbpedia.org/resource/Maryland",
+            "http://dbpedia.org/resource/John_Adams"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Williams_Crowninshield",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/James_Madison"
+        ]
+    ]
+}

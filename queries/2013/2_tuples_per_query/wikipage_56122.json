@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mount_Stanley",
+            "http://dbpedia.org/resource/Rwenzori_Mountains",
+            "http://dbpedia.org/resource/Democratic_Republic_of_the_Congo"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Stanley",
+            "http://dbpedia.org/resource/Rwenzori_Mountains",
+            "http://dbpedia.org/resource/Uganda"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/44th_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/Nancy_Cartwright",
+            "http://dbpedia.org/resource/Bart_Simpson",
+            "http://dbpedia.org/resource/The_Simpsons",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/44th_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/Dan_Castellaneta",
+            "http://dbpedia.org/resource/Homer_Simpson",
+            "http://dbpedia.org/resource/The_Simpsons",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/44th_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/Julie_Kavner",
+            "http://dbpedia.org/resource/Marge_Simpson",
+            "http://dbpedia.org/resource/The_Simpsons",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/44th_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/Jackie_Mason",
+            "http://dbpedia.org/resource/List_of_recurring_The_Simpsons_characters",
+            "http://dbpedia.org/resource/The_Simpsons",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/44th_Primetime_Emmy_Awards",
+            "http://dbpedia.org/resource/Yeardley_Smith",
+            "http://dbpedia.org/resource/Lisa_Simpson",
+            "http://dbpedia.org/resource/The_Simpsons",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ]
+    ]
+}

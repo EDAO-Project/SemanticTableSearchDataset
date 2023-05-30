@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buy_Me_a_Rose",
+            "http://dbpedia.org/resource/Alison_Krauss",
+            "http://dbpedia.org/resource/Kenny_Rogers"
+        ],
+        [
+            "http://dbpedia.org/resource/Ride_wit_Me",
+            "http://dbpedia.org/resource/City_Spud",
+            "http://dbpedia.org/resource/Nelly"
+        ],
+        [
+            "http://dbpedia.org/resource/Bad_Boy_for_Life",
+            "http://dbpedia.org/resource/Black_Rob",
+            "http://dbpedia.org/resource/Sean_Combs"
+        ],
+        [
+            "http://dbpedia.org/resource/Two_Wrongs",
+            "http://dbpedia.org/resource/Claudette_Ortiz",
+            "http://dbpedia.org/resource/Wyclef_Jean"
+        ],
+        [
+            "http://dbpedia.org/resource/One_Call_Away",
+            "http://dbpedia.org/resource/Jason_Weaver",
+            "http://dbpedia.org/resource/Chingy"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Middlesex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Lowell,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_38"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Interstate_93"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_28"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/North_Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_114"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/North_Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_125"
+        ]
+    ]
+}

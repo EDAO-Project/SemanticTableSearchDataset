@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mary_McLeod_Bethune_Home",
+            "http://dbpedia.org/resource/Daytona_Beach,_Florida",
+            "http://dbpedia.org/resource/Volusia_County,_Florida",
+            "http://dbpedia.org/resource/Mary_McLeod_Bethune"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Gadsden",
+            "http://dbpedia.org/resource/Sumatra,_Florida",
+            "http://dbpedia.org/resource/Franklin_County,_Florida",
+            "http://dbpedia.org/resource/War_of_1812"
+        ],
+        [
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/Cocoa,_Florida",
+            "http://dbpedia.org/resource/Brevard_County,_Florida",
+            "http://dbpedia.org/resource/Spaceport"
+        ],
+        [
+            "http://dbpedia.org/resource/Cathedral_Basilica_of_St._Augustine",
+            "http://dbpedia.org/resource/St._Augustine,_Florida",
+            "http://dbpedia.org/resource/St._Johns_County,_Florida",
+            "http://dbpedia.org/resource/St._Augustine_Town_Plan_Historic_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Crystal_River_Archaeological_State_Park",
+            "http://dbpedia.org/resource/Crystal_River,_Florida",
+            "http://dbpedia.org/resource/Citrus_County,_Florida",
+            "http://dbpedia.org/resource/Weeden_Island_culture"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jaguar_XJR_Sportscars",
+            "http://dbpedia.org/resource/World_Sportscar_Championship",
+            "http://dbpedia.org/resource/Tony_Southgate"
+        ]
+    ]
+}

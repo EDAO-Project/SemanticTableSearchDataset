@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/LucasArts",
+            "http://dbpedia.org/resource/Totally_Games",
+            "http://dbpedia.org/resource/MS-DOS"
+        ],
+        [
+            "http://dbpedia.org/resource/Battlehawks_1942",
+            "http://dbpedia.org/resource/Totally_Games",
+            "http://dbpedia.org/resource/Amiga"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/13_Ghosts",
+            "http://dbpedia.org/resource/William_Castle",
+            "http://dbpedia.org/resource/Charles_Herbert"
+        ],
+        [
+            "http://dbpedia.org/resource/Atom_Age_Vampire",
+            "http://dbpedia.org/resource/Anton_Giulio_Majano",
+            "http://dbpedia.org/resource/Alberto_Lupo"
+        ],
+        [
+            "http://dbpedia.org/resource/Blood_and_Roses",
+            "http://dbpedia.org/resource/Roger_Vadim",
+            "http://dbpedia.org/resource/Mel_Ferrer"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Brides_of_Dracula",
+            "http://dbpedia.org/resource/Terence_Fisher",
+            "http://dbpedia.org/resource/Peter_Cushing"
+        ],
+        [
+            "http://dbpedia.org/resource/Circus_of_Horrors",
+            "http://dbpedia.org/resource/Sidney_Hayers",
+            "http://dbpedia.org/resource/Anton_Diffring"
+        ]
+    ]
+}

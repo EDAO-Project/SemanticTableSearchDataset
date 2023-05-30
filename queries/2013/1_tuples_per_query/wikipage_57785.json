@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hurricane_Katrina",
+            "http://dbpedia.org/resource/2005_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/The_Bahamas"
+        ]
+    ]
+}

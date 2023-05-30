@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Bye_Bye_Brazil",
+            "http://dbpedia.org/resource/Carlos_Diegues"
+        ],
+        [
+            "http://dbpedia.org/resource/Cameroon",
+            "http://dbpedia.org/resource/Our_Daughter",
+            "http://dbpedia.org/resource/Daniel_Kamwa"
+        ],
+        [
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/The_Latin_Immigrant",
+            "http://dbpedia.org/resource/Gustavo_Nieto_Roa"
+        ],
+        [
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Flame_Top",
+            "http://dbpedia.org/resource/Pirjo_Honkasalo"
+        ],
+        [
+            "http://dbpedia.org/resource/Israel",
+            "http://dbpedia.org/resource/The_Thin_Line",
+            "http://dbpedia.org/resource/Michal_Bat-Adam"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta_Steam",
+            "http://dbpedia.org/resource/Jacksonville_Breeze",
+            "http://dbpedia.org/resource/Jacksonville_Veterans_Memorial_Arena"
+        ]
+    ]
+}

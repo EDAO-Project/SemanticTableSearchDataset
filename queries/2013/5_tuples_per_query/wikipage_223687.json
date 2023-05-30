@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Israel_Gelfand",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Functional_analysis"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl_Ludwig_Siegel",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Number_theory"
+        ],
+        [
+            "http://dbpedia.org/resource/Jean_Leray",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Topology"
+        ],
+        [
+            "http://dbpedia.org/resource/Henri_Cartan",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Algebraic_topology"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrey_Kolmogorov",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Fourier_analysis"
+        ]
+    ]
+}

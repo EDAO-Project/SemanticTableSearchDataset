@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bridgette_Gordon",
+            "http://dbpedia.org/resource/Tennessee_Lady_Volunteers_basketball",
+            "http://dbpedia.org/resource/Basketball_positions"
+        ]
+    ]
+}

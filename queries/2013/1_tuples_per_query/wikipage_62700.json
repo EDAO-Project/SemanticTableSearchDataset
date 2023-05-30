@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Jay",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/George_Washington"
+        ]
+    ]
+}

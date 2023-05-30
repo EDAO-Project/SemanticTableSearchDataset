@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Somerset",
+            "http://dbpedia.org/resource/David_Bryant",
+            "http://dbpedia.org/resource/Yorkshire"
+        ]
+    ]
+}

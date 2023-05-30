@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_AFC_Asian_Cup_qualification",
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Malaysia_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_AFC_Asian_Cup_qualification",
+            "http://dbpedia.org/resource/Tashkent",
+            "http://dbpedia.org/resource/Malaysia_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Tashkent",
+            "http://dbpedia.org/resource/Iran_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_FIFA_World_Cup_qualification",
+            "http://dbpedia.org/resource/Manama",
+            "http://dbpedia.org/resource/Bahrain_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_FIFA_World_Cup_qualification",
+            "http://dbpedia.org/resource/Tashkent",
+            "http://dbpedia.org/resource/Japan_national_football_team"
+        ]
+    ]
+}

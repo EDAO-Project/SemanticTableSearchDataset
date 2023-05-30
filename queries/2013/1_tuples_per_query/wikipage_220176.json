@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DYCB-TV",
+            "http://dbpedia.org/resource/Cebu",
+            "http://dbpedia.org/resource/ABS-CBN_Corporation"
+        ]
+    ]
+}

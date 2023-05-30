@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sara_Badr",
+            "http://dbpedia.org/resource/Omneya_Abdel_Kawy",
+            "http://dbpedia.org/resource/Manuela_Zehnder",
+            "http://dbpedia.org/resource/Nicol_David"
+        ],
+        [
+            "http://dbpedia.org/resource/Raneem_El_Weleily",
+            "http://dbpedia.org/resource/Sara_Badr",
+            "http://dbpedia.org/resource/Michelle_Quibell",
+            "http://dbpedia.org/resource/Omneya_Abdel_Kawy"
+        ],
+        [
+            "http://dbpedia.org/resource/Shahenga_Osama",
+            "http://dbpedia.org/resource/Raneem_El_Weleily",
+            "http://dbpedia.org/resource/Kasey_Brown",
+            "http://dbpedia.org/resource/Omneya_Abdel_Kawy"
+        ],
+        [
+            "http://dbpedia.org/resource/Heba_El_Torky",
+            "http://dbpedia.org/resource/Annie_Au",
+            "http://dbpedia.org/resource/Raneem_El_Weleily",
+            "http://dbpedia.org/resource/Omneya_Abdel_Kawy"
+        ],
+        [
+            "http://dbpedia.org/resource/Nour_El_Tayeb",
+            "http://dbpedia.org/resource/Heba_El_Torky",
+            "http://dbpedia.org/resource/Raneem_El_Weleily",
+            "http://dbpedia.org/resource/Joshna_Chinappa"
+        ]
+    ]
+}

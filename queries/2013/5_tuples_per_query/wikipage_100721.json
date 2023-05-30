@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_of_Susa",
+            "http://dbpedia.org/resource/Ulric_Manfred_II_of_Turin",
+            "http://dbpedia.org/resource/Otto_I,_Count_of_Savoy"
+        ],
+        [
+            "http://dbpedia.org/resource/Agnes_of_Aquitaine,_Countess_of_Savoy",
+            "http://dbpedia.org/resource/William_VII,_Duke_of_Aquitaine",
+            "http://dbpedia.org/resource/Peter_I,_Count_of_Savoy"
+        ],
+        [
+            "http://dbpedia.org/resource/Gisela_of_Burgundy,_Marchioness_of_Montferrat",
+            "http://dbpedia.org/resource/William_I,_Count_of_Burgundy",
+            "http://dbpedia.org/resource/Humbert_II,_Count_of_Savoy"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahaut_of_Albon",
+            "http://dbpedia.org/resource/Guigues_III_of_Albon",
+            "http://dbpedia.org/resource/Amadeus_III,_Count_of_Savoy"
+        ],
+        [
+            "http://dbpedia.org/resource/Faidiva_of_Toulouse",
+            "http://dbpedia.org/resource/Alfonso_Jordan",
+            "http://dbpedia.org/resource/Humbert_III,_Count_of_Savoy"
+        ]
+    ]
+}

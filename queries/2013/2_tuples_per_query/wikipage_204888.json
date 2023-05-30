@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_NoZe_Brotherhood",
+            "http://dbpedia.org/resource/Baylor_University",
+            "http://dbpedia.org/resource/Waco,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Flat_Hat_Club",
+            "http://dbpedia.org/resource/College_of_William_&_Mary",
+            "http://dbpedia.org/resource/Williamsburg,_Virginia"
+        ]
+    ]
+}

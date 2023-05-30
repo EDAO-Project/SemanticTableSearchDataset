@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adamsdown",
+            "http://dbpedia.org/resource/Adamsdown",
+            "http://dbpedia.org/resource/Cardiff_city_centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Butetown",
+            "http://dbpedia.org/resource/Butetown",
+            "http://dbpedia.org/resource/Atlantic_Wharf"
+        ]
+    ]
+}

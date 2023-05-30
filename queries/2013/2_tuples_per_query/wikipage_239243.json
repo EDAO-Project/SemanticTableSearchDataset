@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/Taylor_Tankersley",
+            "http://dbpedia.org/resource/Scott_Linebrink",
+            "http://dbpedia.org/resource/Henry_Owens"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/Justin_Hampson",
+            "http://dbpedia.org/resource/Lee_Gardner",
+            "http://dbpedia.org/resource/Trevor_Hoffman"
+        ]
+    ]
+}

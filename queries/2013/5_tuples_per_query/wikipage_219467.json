@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Werner_Haas",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/NSU_Motorenwerke"
+        ],
+        [
+            "http://dbpedia.org/resource/Rupert_Hollaus",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/NSU_Motorenwerke"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_Baltisberger",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/NSU_Motorenwerke"
+        ],
+        [
+            "http://dbpedia.org/resource/Romolo_Ferri",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Moto_Guzzi"
+        ],
+        [
+            "http://dbpedia.org/resource/Reg_Armstrong",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/NSU_Motorenwerke"
+        ]
+    ]
+}

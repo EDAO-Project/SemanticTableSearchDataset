@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beyond_Re-Animator",
+            "http://dbpedia.org/resource/Brian_Yuzna",
+            "http://dbpedia.org/resource/Jeffrey_Combs"
+        ],
+        [
+            "http://dbpedia.org/resource/Final_Destination_2",
+            "http://dbpedia.org/resource/David_R._Ellis",
+            "http://dbpedia.org/resource/Ali_Larter"
+        ]
+    ]
+}

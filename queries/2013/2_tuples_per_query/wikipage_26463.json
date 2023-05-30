@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aces_Go_Places_IV",
+            "http://dbpedia.org/resource/Ringo_Lam",
+            "http://dbpedia.org/resource/Samuel_Hui"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Better_Tomorrow",
+            "http://dbpedia.org/resource/John_Woo",
+            "http://dbpedia.org/resource/Chow_Yun-fat"
+        ]
+    ]
+}

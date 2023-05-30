@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apo_Reef_Light",
+            "http://dbpedia.org/resource/Sablayan",
+            "http://dbpedia.org/resource/Occidental_Mindoro"
+        ],
+        [
+            "http://dbpedia.org/resource/Apo_Reef_Light",
+            "http://dbpedia.org/resource/Sablayan",
+            "http://dbpedia.org/resource/Occidental_Mindoro"
+        ]
+    ]
+}

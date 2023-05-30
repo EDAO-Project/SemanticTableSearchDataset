@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Radoslav_Velikov",
+            "http://dbpedia.org/resource/Besik_Kudukhov",
+            "http://dbpedia.org/resource/Namig_Abdullayev"
+        ],
+        [
+            "http://dbpedia.org/resource/Radoslav_Velikov",
+            "http://dbpedia.org/resource/Besik_Kudukhov",
+            "http://dbpedia.org/resource/Sammie_Henson"
+        ],
+        [
+            "http://dbpedia.org/resource/Morad_Mohammadi",
+            "http://dbpedia.org/resource/Mike_Zadick",
+            "http://dbpedia.org/resource/Mavlet_Batirov"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Zadick",
+            "http://dbpedia.org/resource/Otar_Tushishvili",
+            "http://dbpedia.org/resource/Andriy_Stadnik"
+        ],
+        [
+            "http://dbpedia.org/resource/Ibragim_Aldatov",
+            "http://dbpedia.org/resource/Ali_Asghar_Bazri",
+            "http://dbpedia.org/resource/Soslan_Tigiev"
+        ]
+    ]
+}

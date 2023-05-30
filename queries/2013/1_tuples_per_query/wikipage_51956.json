@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/K2",
+            "http://dbpedia.org/resource/Baltoro_Muztagh",
+            "http://dbpedia.org/resource/Mount_Everest"
+        ]
+    ]
+}

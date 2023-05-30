@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Empire_Strikes_Back",
+            "http://dbpedia.org/resource/Irvin_Kershner",
+            "http://dbpedia.org/resource/Mark_Hamill"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Gods_Must_Be_Crazy",
+            "http://dbpedia.org/resource/Jamie_Uys",
+            "http://dbpedia.org/resource/Marius_Weyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Herbie_Goes_Bananas",
+            "http://dbpedia.org/resource/Vincent_McEveety",
+            "http://dbpedia.org/resource/Cloris_Leachman"
+        ],
+        [
+            "http://dbpedia.org/resource/Race_for_the_Yankee_Zephyr",
+            "http://dbpedia.org/resource/David_Hemmings",
+            "http://dbpedia.org/resource/Dennis_Hunt"
+        ],
+        [
+            "http://dbpedia.org/resource/Raiders_of_the_Lost_Ark",
+            "http://dbpedia.org/resource/Steven_Spielberg",
+            "http://dbpedia.org/resource/Harrison_Ford"
+        ]
+    ]
+}

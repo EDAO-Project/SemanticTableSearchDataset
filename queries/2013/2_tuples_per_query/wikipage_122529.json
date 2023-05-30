@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Gormlie",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Belgian_Pro_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierre_Sinibaldi",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Belgian_Pro_League"
+        ]
+    ]
+}

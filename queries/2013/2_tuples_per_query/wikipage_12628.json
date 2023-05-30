@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Murcia",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Roberto_Bautista_Agut",
+            "http://dbpedia.org/resource/Fabrice_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Rabat",
+            "http://dbpedia.org/resource/Morocco",
+            "http://dbpedia.org/resource/Lamine_Ouahab",
+            "http://dbpedia.org/resource/Denis_Zivkovic"
+        ]
+    ]
+}

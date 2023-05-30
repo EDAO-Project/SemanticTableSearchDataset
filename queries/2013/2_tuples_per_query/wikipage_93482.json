@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Continental_Illinois",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Republic_Bank_Corporation",
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/Texas"
+        ]
+    ]
+}

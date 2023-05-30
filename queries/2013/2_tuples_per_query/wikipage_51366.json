@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moshe_Sharett",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Provisional_government_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Golda_Meir",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Seventh_government_of_Israel"
+        ]
+    ]
+}

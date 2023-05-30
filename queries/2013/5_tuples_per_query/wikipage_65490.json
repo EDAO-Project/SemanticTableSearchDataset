@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ATP_Auckland_Open",
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Zagreb_Indoors",
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._National_Indoor_Tennis_Championships",
+            "http://dbpedia.org/resource/Memphis,_Tennessee",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/ATP_Buenos_Aires",
+            "http://dbpedia.org/resource/Buenos_Aires",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Prix_Hassan_II",
+            "http://dbpedia.org/resource/Casablanca",
+            "http://dbpedia.org/resource/Morocco"
+        ]
+    ]
+}

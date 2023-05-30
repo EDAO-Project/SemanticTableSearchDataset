@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/IROC_I",
+            "http://dbpedia.org/resource/Mark_Donohue",
+            "http://dbpedia.org/resource/Porsche_911"
+        ],
+        [
+            "http://dbpedia.org/resource/IROC_II",
+            "http://dbpedia.org/resource/Bobby_Unser",
+            "http://dbpedia.org/resource/Chevrolet_Camaro"
+        ]
+    ]
+}

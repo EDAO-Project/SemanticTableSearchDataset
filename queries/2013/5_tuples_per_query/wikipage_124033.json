@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Golden_Gophers_football",
+            "http://dbpedia.org/resource/Wisconsin_Badgers_football",
+            "http://dbpedia.org/resource/Big_Ten_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels_football",
+            "http://dbpedia.org/resource/Virginia_Cavaliers_football",
+            "http://dbpedia.org/resource/Atlantic_Coast_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_Tigers_football",
+            "http://dbpedia.org/resource/Georgia_Bulldogs_football",
+            "http://dbpedia.org/resource/Southeastern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Oregon_Ducks_football",
+            "http://dbpedia.org/resource/Oregon_State_Beavers_football",
+            "http://dbpedia.org/resource/Pacific-12_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Purdue_Boilermakers_football",
+            "http://dbpedia.org/resource/Indiana_Hoosiers_football",
+            "http://dbpedia.org/resource/Old_Oaken_Bucket"
+        ]
+    ]
+}

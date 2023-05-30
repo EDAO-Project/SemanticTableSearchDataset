@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/College_of_Charleston_Cougars",
+            "http://dbpedia.org/resource/College_of_Charleston",
+            "http://dbpedia.org/resource/Charleston,_South_Carolina",
+            "http://dbpedia.org/resource/Colonial_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Charleston_Southern_Buccaneers",
+            "http://dbpedia.org/resource/Charleston_Southern_University",
+            "http://dbpedia.org/resource/Charleston,_South_Carolina",
+            "http://dbpedia.org/resource/Big_South_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Citadel_Bulldogs",
+            "http://dbpedia.org/resource/The_Citadel,_The_Military_College_of_South_Carolina",
+            "http://dbpedia.org/resource/Charleston,_South_Carolina",
+            "http://dbpedia.org/resource/Southern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Clemson_Tigers",
+            "http://dbpedia.org/resource/Clemson_University",
+            "http://dbpedia.org/resource/Clemson,_South_Carolina",
+            "http://dbpedia.org/resource/Atlantic_Coast_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Coastal_Carolina_Chanticleers",
+            "http://dbpedia.org/resource/Coastal_Carolina_University",
+            "http://dbpedia.org/resource/Conway,_South_Carolina",
+            "http://dbpedia.org/resource/Big_South_Conference"
+        ]
+    ]
+}

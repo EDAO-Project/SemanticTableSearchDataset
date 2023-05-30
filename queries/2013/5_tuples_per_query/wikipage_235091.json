@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Martini_Racing",
+            "http://dbpedia.org/resource/Lancia",
+            "http://dbpedia.org/resource/Lancia_Rally_037",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Jean-Claude_Andruet"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_Racing",
+            "http://dbpedia.org/resource/Lancia",
+            "http://dbpedia.org/resource/Lancia_Rally_037",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Attilio_Bettega"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_Racing",
+            "http://dbpedia.org/resource/Lancia",
+            "http://dbpedia.org/resource/Lancia_Rally_037",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Henri_Toivonen"
+        ],
+        [
+            "http://dbpedia.org/resource/Nismo",
+            "http://dbpedia.org/resource/Nissan",
+            "http://dbpedia.org/resource/Nissan_Silvia",
+            "http://dbpedia.org/resource/Dunlop_Tyres",
+            "http://dbpedia.org/resource/Timo_Salonen"
+        ],
+        [
+            "http://dbpedia.org/resource/Nismo",
+            "http://dbpedia.org/resource/Nissan",
+            "http://dbpedia.org/resource/Nissan_Silvia",
+            "http://dbpedia.org/resource/Dunlop_Tyres",
+            "http://dbpedia.org/resource/Shekhar_Mehta"
+        ]
+    ]
+}

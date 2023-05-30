@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brant_North",
+            "http://dbpedia.org/resource/Harry_Nixon",
+            "http://dbpedia.org/resource/United_Farmers_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Brant_South",
+            "http://dbpedia.org/resource/Morrison_Mann_MacBride",
+            "http://dbpedia.org/resource/Labour_candidates_and_parties_in_Canada"
+        ]
+    ]
+}

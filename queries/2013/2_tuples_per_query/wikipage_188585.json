@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_500",
+            "http://dbpedia.org/resource/Adelaide_Street_Circuit",
+            "http://dbpedia.org/resource/Adelaide"
+        ],
+        [
+            "http://dbpedia.org/resource/Tasmania_Super_Sprint",
+            "http://dbpedia.org/resource/Symmons_Plains_Raceway",
+            "http://dbpedia.org/resource/Launceston,_Tasmania"
+        ]
+    ]
+}

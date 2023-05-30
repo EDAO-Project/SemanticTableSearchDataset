@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Cheaters",
+            "http://dbpedia.org/resource/John_Stockwell",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/For_Love_or_Country:_The_Arturo_Sandoval_Story",
+            "http://dbpedia.org/resource/Joseph_Sargent",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Path_to_War",
+            "http://dbpedia.org/resource/John_Frankenheimer",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Rudy:_The_Rudy_Giuliani_Story",
+            "http://dbpedia.org/resource/Robert_Dornhelm",
+            "http://dbpedia.org/resource/USA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/And_Starring_Pancho_Villa_as_Himself",
+            "http://dbpedia.org/resource/Bruce_Beresford",
+            "http://dbpedia.org/resource/HBO"
+        ]
+    ]
+}

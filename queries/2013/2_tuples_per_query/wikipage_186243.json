@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Piz_Bernina",
+            "http://dbpedia.org/resource/Bernina_Range",
+            "http://dbpedia.org/resource/Maloja_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Piz_Roseg",
+            "http://dbpedia.org/resource/Bernina_Range",
+            "http://dbpedia.org/resource/Maloja_District"
+        ]
+    ]
+}

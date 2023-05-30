@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prime_Minister_of_Israel",
+            "http://dbpedia.org/resource/Yitzhak_Rabin",
+            "http://dbpedia.org/resource/Israeli_Labor_Party"
+        ]
+    ]
+}

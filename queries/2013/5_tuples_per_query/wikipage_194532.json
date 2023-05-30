@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jordan_Rapana",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Canberra_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/Drury_Low",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Canterbury-Bankstown_Bulldogs"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_Gelling",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Wigan_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominique_Peyroux",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/New_Zealand_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Keith_Lulia",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Bradford_Bulls"
+        ]
+    ]
+}

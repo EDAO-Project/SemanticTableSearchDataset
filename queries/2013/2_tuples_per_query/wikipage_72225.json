@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Laser_Squad",
+            "http://dbpedia.org/resource/Target_Games",
+            "http://dbpedia.org/resource/UFO:_Enemy_Unknown"
+        ],
+        [
+            "http://dbpedia.org/resource/X-COM:_Terror_from_the_Deep",
+            "http://dbpedia.org/resource/MicroProse",
+            "http://dbpedia.org/resource/UFO:_Enemy_Unknown"
+        ]
+    ]
+}

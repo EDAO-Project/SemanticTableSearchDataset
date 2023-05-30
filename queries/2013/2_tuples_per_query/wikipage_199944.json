@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bain_Commercial_Building",
+            "http://dbpedia.org/resource/Wappingers_Falls,_New_York",
+            "http://dbpedia.org/resource/Wappinger_Creek"
+        ],
+        [
+            "http://dbpedia.org/resource/Madam_Brett_Homestead",
+            "http://dbpedia.org/resource/Beacon,_New_York",
+            "http://dbpedia.org/resource/Continental_Army"
+        ]
+    ]
+}

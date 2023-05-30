@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abdullahi_Yusuf_International_Airport",
+            "http://dbpedia.org/resource/Galkayo",
+            "http://dbpedia.org/resource/Somalia",
+            "http://dbpedia.org/resource/Abdullahi_Yusuf_Ahmed"
+        ],
+        [
+            "http://dbpedia.org/resource/Abraham_Lincoln_Capital_Airport",
+            "http://dbpedia.org/resource/Springfield,_Illinois",
+            "http://dbpedia.org/resource/Illinois",
+            "http://dbpedia.org/resource/Abraham_Lincoln"
+        ]
+    ]
+}

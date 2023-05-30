@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Portopia_Serial_Murder_Case",
+            "http://dbpedia.org/resource/Mobile_phone",
+            "http://dbpedia.org/resource/Chunsoft"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Portopia_Serial_Murder_Case",
+            "http://dbpedia.org/resource/Mobile_phone",
+            "http://dbpedia.org/resource/Chunsoft"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Portopia_Serial_Murder_Case",
+            "http://dbpedia.org/resource/Mobile_phone",
+            "http://dbpedia.org/resource/Square_Enix"
+        ],
+        [
+            "http://dbpedia.org/resource/Brave_Shot",
+            "http://dbpedia.org/resource/Mobile_phone",
+            "http://dbpedia.org/resource/Square_Enix"
+        ],
+        [
+            "http://dbpedia.org/resource/Dragon_Quest",
+            "http://dbpedia.org/resource/Mobile_phone",
+            "http://dbpedia.org/resource/Square_Enix"
+        ]
+    ]
+}

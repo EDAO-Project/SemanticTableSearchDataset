@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NFC_East",
+            "http://dbpedia.org/resource/New_York_Giants",
+            "http://dbpedia.org/resource/East_Rutherford,_New_Jersey",
+            "http://dbpedia.org/resource/MetLife_Stadium"
+        ]
+    ]
+}

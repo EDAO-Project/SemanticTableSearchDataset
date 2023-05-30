@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/W._E._B._Du_Bois",
+            "http://dbpedia.org/resource/University_of_Michigan",
+            "http://dbpedia.org/resource/Niagara_Movement"
+        ]
+    ]
+}

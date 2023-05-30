@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Biathlon_World_Championships_1966",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Poland",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Biathlon_World_Championships_1967",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

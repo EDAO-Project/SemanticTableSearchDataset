@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dongguan",
+            "http://dbpedia.org/resource/Prefecture-level_city",
+            "http://dbpedia.org/resource/Guangdong"
+        ],
+        [
+            "http://dbpedia.org/resource/Foshan",
+            "http://dbpedia.org/resource/Prefecture-level_city",
+            "http://dbpedia.org/resource/Guangdong"
+        ]
+    ]
+}

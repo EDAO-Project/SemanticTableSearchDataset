@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mariusz_Pudzianowski",
+            "http://dbpedia.org/resource/Derek_Poundstone",
+            "http://dbpedia.org/resource/David_Ostlund",
+            "http://dbpedia.org/resource/Charleston,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Mariusz_Pudzianowski",
+            "http://dbpedia.org/resource/Sebastian_Wenta",
+            "http://dbpedia.org/resource/Terry_Hollands",
+            "http://dbpedia.org/resource/Anaheim,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Phil_Pfister",
+            "http://dbpedia.org/resource/Mariusz_Pudzianowski",
+            "http://dbpedia.org/resource/Don_Pope",
+            "http://dbpedia.org/resource/Sanya"
+        ],
+        [
+            "http://dbpedia.org/resource/Mariusz_Pudzianowski",
+            "http://dbpedia.org/resource/Jesse_Marunde",
+            "http://dbpedia.org/resource/Dominic_Filiou",
+            "http://dbpedia.org/resource/Chengdu"
+        ],
+        [
+            "http://dbpedia.org/resource/Svend_Karlsen",
+            "http://dbpedia.org/resource/Magnus_Samuelsson",
+            "http://dbpedia.org/resource/Janne_Virtanen",
+            "http://dbpedia.org/resource/Victoria_Falls"
+        ]
+    ]
+}

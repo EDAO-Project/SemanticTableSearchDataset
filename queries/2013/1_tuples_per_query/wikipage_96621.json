@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SK_Brann",
+            "http://dbpedia.org/resource/FK_Haugesund",
+            "http://dbpedia.org/resource/Brann_Stadion",
+            "http://dbpedia.org/resource/2010_Tippeligaen"
+        ]
+    ]
+}

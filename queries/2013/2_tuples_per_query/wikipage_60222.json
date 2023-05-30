@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DeGrazia_Gallery_in_the_Sun_Historic_District",
+            "http://dbpedia.org/resource/Tucson,_Arizona",
+            "http://dbpedia.org/resource/Ettore_DeGrazia"
+        ],
+        [
+            "http://dbpedia.org/resource/Dos_Lomitas_Ranch",
+            "http://dbpedia.org/resource/Organ_Pipe_Cactus_National_Monument",
+            "http://dbpedia.org/resource/Ajo,_Arizona"
+        ]
+    ]
+}

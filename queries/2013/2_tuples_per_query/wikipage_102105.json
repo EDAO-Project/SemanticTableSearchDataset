@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/13_Assassins",
+            "http://dbpedia.org/resource/Takashi_Miike",
+            "http://dbpedia.org/resource/Martial_arts"
+        ],
+        [
+            "http://dbpedia.org/resource/14_Blades",
+            "http://dbpedia.org/resource/Donnie_Yen",
+            "http://dbpedia.org/resource/Martial_arts"
+        ]
+    ]
+}

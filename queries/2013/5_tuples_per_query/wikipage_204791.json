@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/28th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Frankie_Yankovic",
+            "http://dbpedia.org/resource/70_Years_of_Hits",
+            "http://dbpedia.org/resource/Eddie_Blazonczyk"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Jimmy_Sturr",
+            "http://dbpedia.org/resource/I_Remember_Warsaw",
+            "http://dbpedia.org/resource/Frankie_Yankovic"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Eddie_Blazonczyk",
+            "http://dbpedia.org/resource/Another_Polka_Celebration",
+            "http://dbpedia.org/resource/Frankie_Yankovic"
+        ],
+        [
+            "http://dbpedia.org/resource/30th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Jimmy_Sturr",
+            "http://dbpedia.org/resource/A_Polka_Just_for_Me",
+            "http://dbpedia.org/resource/Eddie_Blazonczyk"
+        ],
+        [
+            "http://dbpedia.org/resource/31st_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Jimmy_Sturr",
+            "http://dbpedia.org/resource/Born_to_Polka",
+            "http://dbpedia.org/resource/Lenny_Gomulka"
+        ]
+    ]
+}

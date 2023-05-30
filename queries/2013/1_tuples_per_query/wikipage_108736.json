@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Merlene_Ottey",
+            "http://dbpedia.org/resource/Jamaica"
+        ]
+    ]
+}

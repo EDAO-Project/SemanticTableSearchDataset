@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bellwoods",
+            "http://dbpedia.org/resource/Ross_McClellan",
+            "http://dbpedia.org/resource/Ontario_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Burlington_South",
+            "http://dbpedia.org/resource/George_Albert_Kerr",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elizabeth_Arden_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Judy_Rankin"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Sarah_Coventry",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Jan_Stephenson"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarasota_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Kathy_Whitworth"
+        ],
+        [
+            "http://dbpedia.org/resource/ANA_Inspiration",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Judy_Rankin"
+        ],
+        [
+            "http://dbpedia.org/resource/Karsten-Ping_Open",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Judy_Rankin"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edward_Keating",
+            "http://dbpedia.org/resource/64th_United_States_Congress",
+            "http://dbpedia.org/resource/Pueblo,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Keating",
+            "http://dbpedia.org/resource/65th_United_States_Congress",
+            "http://dbpedia.org/resource/Pueblo,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Chenoweth",
+            "http://dbpedia.org/resource/77th_United_States_Congress",
+            "http://dbpedia.org/resource/Trinidad,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Chenoweth",
+            "http://dbpedia.org/resource/78th_United_States_Congress",
+            "http://dbpedia.org/resource/Trinidad,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Chenoweth",
+            "http://dbpedia.org/resource/79th_United_States_Congress",
+            "http://dbpedia.org/resource/Trinidad,_Colorado"
+        ]
+    ]
+}

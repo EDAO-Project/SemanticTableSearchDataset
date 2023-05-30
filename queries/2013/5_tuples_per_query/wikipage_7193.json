@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Codex_Vaticanus_2066",
+            "http://dbpedia.org/resource/Book_of_Revelation",
+            "http://dbpedia.org/resource/Vatican_Library"
+        ],
+        [
+            "http://dbpedia.org/resource/Uncial_047",
+            "http://dbpedia.org/resource/Gospel",
+            "http://dbpedia.org/resource/Princeton_University_Library"
+        ],
+        [
+            "http://dbpedia.org/resource/Codex_Vaticanus_2061",
+            "http://dbpedia.org/resource/Acts_of_the_Apostles",
+            "http://dbpedia.org/resource/Vatican_Library"
+        ],
+        [
+            "http://dbpedia.org/resource/Uncial_050",
+            "http://dbpedia.org/resource/Gospel_of_John",
+            "http://dbpedia.org/resource/National_Library_of_Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/Uncial_051",
+            "http://dbpedia.org/resource/Book_of_Revelation",
+            "http://dbpedia.org/resource/Pantokratoros_monastery"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto_Raptors",
+            "http://dbpedia.org/resource/Brook_Lopez",
+            "http://dbpedia.org/resource/Kris_Humphries",
+            "http://dbpedia.org/resource/Deron_Williams",
+            "http://dbpedia.org/resource/The_O2_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Raptors",
+            "http://dbpedia.org/resource/Brook_Lopez",
+            "http://dbpedia.org/resource/Kris_Humphries",
+            "http://dbpedia.org/resource/Deron_Williams",
+            "http://dbpedia.org/resource/The_O2_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Golden_State_Warriors",
+            "http://dbpedia.org/resource/Brook_Lopez",
+            "http://dbpedia.org/resource/Kris_Humphries",
+            "http://dbpedia.org/resource/Jordan_Farmar",
+            "http://dbpedia.org/resource/Prudential_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Celtics",
+            "http://dbpedia.org/resource/Brook_Lopez",
+            "http://dbpedia.org/resource/Kris_Humphries",
+            "http://dbpedia.org/resource/Deron_Williams",
+            "http://dbpedia.org/resource/Prudential_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Brook_Lopez",
+            "http://dbpedia.org/resource/Kris_Humphries",
+            "http://dbpedia.org/resource/Deron_Williams",
+            "http://dbpedia.org/resource/Prudential_Center"
+        ]
+    ]
+}

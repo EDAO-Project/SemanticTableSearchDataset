@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WYFB",
+            "http://dbpedia.org/resource/Religion",
+            "http://dbpedia.org/resource/Bible_Broadcasting_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/WJBT",
+            "http://dbpedia.org/resource/Urban_contemporary",
+            "http://dbpedia.org/resource/IHeartMedia"
+        ]
+    ]
+}

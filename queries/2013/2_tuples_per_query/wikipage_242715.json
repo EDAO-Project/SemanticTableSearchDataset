@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Memoirs_of_the_Twentieth_Century",
+            "http://dbpedia.org/resource/Samuel_Madden",
+            "http://dbpedia.org/resource/Guardian_angel"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Time_Machine",
+            "http://dbpedia.org/resource/H._G._Wells",
+            "http://dbpedia.org/resource/Morlock"
+        ]
+    ]
+}

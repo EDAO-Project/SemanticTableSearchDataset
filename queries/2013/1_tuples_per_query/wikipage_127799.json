@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Jackie_Joyner-Kersee",
+            "http://dbpedia.org/resource/Seoul"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Meat_Is_Murder",
+            "http://dbpedia.org/resource/The_Smiths",
+            "http://dbpedia.org/resource/1985_in_music",
+            "http://dbpedia.org/resource/Joe_Pernice"
+        ]
+    ]
+}

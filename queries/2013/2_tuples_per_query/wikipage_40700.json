@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aktobe",
+            "http://dbpedia.org/resource/Aktobe_Region",
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Aktobe_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Anapa",
+            "http://dbpedia.org/resource/Krasnodar_Krai",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Anapa_Airport"
+        ]
+    ]
+}

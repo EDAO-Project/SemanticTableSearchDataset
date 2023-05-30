@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marvin_Austin",
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels_football",
+            "http://dbpedia.org/resource/2011_New_York_Giants_season",
+            "http://dbpedia.org/resource/2011_NFL_draft"
+        ]
+    ]
+}

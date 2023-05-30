@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1930_in_baseball",
+            "http://dbpedia.org/resource/Joe_Cronin",
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Bill_Terry",
+            "http://dbpedia.org/resource/San_Francisco_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/1931_in_baseball",
+            "http://dbpedia.org/resource/Lou_Gehrig",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Chuck_Klein",
+            "http://dbpedia.org/resource/Philadelphia_Phillies"
+        ],
+        [
+            "http://dbpedia.org/resource/1932_in_baseball",
+            "http://dbpedia.org/resource/Jimmie_Foxx",
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Chuck_Klein",
+            "http://dbpedia.org/resource/Philadelphia_Phillies"
+        ],
+        [
+            "http://dbpedia.org/resource/1933_in_baseball",
+            "http://dbpedia.org/resource/Jimmie_Foxx",
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Carl_Hubbell",
+            "http://dbpedia.org/resource/San_Francisco_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/1934_in_baseball",
+            "http://dbpedia.org/resource/Lou_Gehrig",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Dizzy_Dean",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1928_Stanley_Cup_Finals",
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/Lester_Patrick",
+            "http://dbpedia.org/resource/Montreal_Maroons",
+            "http://dbpedia.org/resource/Eddie_Gerard",
+            "http://dbpedia.org/resource/Frank_Boucher"
+        ],
+        [
+            "http://dbpedia.org/resource/1930_Stanley_Cup_Finals",
+            "http://dbpedia.org/resource/Montreal_Canadiens",
+            "http://dbpedia.org/resource/Cecil_Hart",
+            "http://dbpedia.org/resource/Boston_Bruins",
+            "http://dbpedia.org/resource/Art_Ross",
+            "http://dbpedia.org/resource/Howie_Morenz"
+        ],
+        [
+            "http://dbpedia.org/resource/1931_Stanley_Cup_Finals",
+            "http://dbpedia.org/resource/Montreal_Canadiens",
+            "http://dbpedia.org/resource/Cecil_Hart",
+            "http://dbpedia.org/resource/Chicago_Blackhawks",
+            "http://dbpedia.org/resource/Dick_Irvin",
+            "http://dbpedia.org/resource/Johnny_Gagnon"
+        ],
+        [
+            "http://dbpedia.org/resource/1932_Stanley_Cup_Finals",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/Dick_Irvin",
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/Lester_Patrick",
+            "http://dbpedia.org/resource/Ace_Bailey"
+        ],
+        [
+            "http://dbpedia.org/resource/1933_Stanley_Cup_Finals",
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/Lester_Patrick",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/Dick_Irvin",
+            "http://dbpedia.org/resource/Bill_Cook"
+        ]
+    ]
+}

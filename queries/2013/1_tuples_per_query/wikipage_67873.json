@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appalachian_State_University",
+            "http://dbpedia.org/resource/Boone,_North_Carolina",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education"
+        ]
+    ]
+}

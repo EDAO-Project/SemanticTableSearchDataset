@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sociedade_Esportiva_e_Recreativa_Caxias_do_Sul",
+            "http://dbpedia.org/resource/Futebol_Clube_Santa_Cruz",
+            "http://dbpedia.org/resource/Caxias_do_Sul"
+        ],
+        [
+            "http://dbpedia.org/resource/Clube_15_de_Novembro",
+            "http://dbpedia.org/resource/Sociedade_Esportiva_e_Recreativa_Caxias_do_Sul",
+            "http://dbpedia.org/resource/Campo_Bom"
+        ],
+        [
+            "http://dbpedia.org/resource/Futebol_Clube_Santa_Cruz",
+            "http://dbpedia.org/resource/Esporte_Clube_Novo_Hamburgo",
+            "http://dbpedia.org/resource/Santa_Cruz_do_Sul"
+        ],
+        [
+            "http://dbpedia.org/resource/Esporte_Clube_Novo_Hamburgo",
+            "http://dbpedia.org/resource/Sociedade_Esportiva_e_Recreativa_Caxias_do_Sul",
+            "http://dbpedia.org/resource/Novo_Hamburgo"
+        ],
+        [
+            "http://dbpedia.org/resource/Canoas_Sport_Club",
+            "http://dbpedia.org/resource/Clube_15_de_Novembro",
+            "http://dbpedia.org/resource/Canoas"
+        ]
+    ]
+}

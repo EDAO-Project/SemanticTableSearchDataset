@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Easdale",
+            "http://dbpedia.org/resource/Slate_Islands",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Caicos",
+            "http://dbpedia.org/resource/The_Bahamas",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Falkland",
+            "http://dbpedia.org/resource/Falkland_Islands",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Linga",
+            "http://dbpedia.org/resource/Shetland",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Seal_Dog_Island",
+            "http://dbpedia.org/resource/British_Virgin_Islands",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ]
+    ]
+}

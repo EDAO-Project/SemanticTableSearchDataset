@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Douglas_Adams",
+            "http://dbpedia.org/resource/Conservation_movement",
+            "http://dbpedia.org/resource/Great_Ape_Project"
+        ],
+        [
+            "http://dbpedia.org/resource/Lady_Eve_Balfour",
+            "http://dbpedia.org/resource/Organic_movement",
+            "http://dbpedia.org/resource/The_Living_Soil"
+        ]
+    ]
+}

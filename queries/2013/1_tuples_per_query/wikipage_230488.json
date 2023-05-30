@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1971_NBA_Playoffs",
+            "http://dbpedia.org/resource/Washington_Wizards",
+            "http://dbpedia.org/resource/New_York_Knicks"
+        ]
+    ]
+}

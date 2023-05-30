@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Arizona,_1952",
+            "http://dbpedia.org/resource/Ernest_McFarland",
+            "http://dbpedia.org/resource/Barry_Goldwater"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Connecticut",
+            "http://dbpedia.org/resource/William_A._Purtell",
+            "http://dbpedia.org/resource/Prescott_Bush"
+        ]
+    ]
+}

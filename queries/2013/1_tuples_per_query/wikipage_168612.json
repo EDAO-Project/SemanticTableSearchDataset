@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1896_Summer_Olympics",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

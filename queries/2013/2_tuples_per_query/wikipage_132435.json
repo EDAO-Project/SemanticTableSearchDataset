@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1908_Summer_Olympics",
+            "http://dbpedia.org/resource/White_City_Stadium",
+            "http://dbpedia.org/resource/Archery_at_the_1908_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1924_Summer_Olympics",
+            "http://dbpedia.org/resource/Piscine_des_Tourelles",
+            "http://dbpedia.org/resource/Modern_pentathlon_at_the_1924_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Missouri_Tigers",
+            "http://dbpedia.org/resource/Oklahoma_State_Cowboys_and_Cowgirls",
+            "http://dbpedia.org/resource/Cobo_Center",
+            "http://dbpedia.org/resource/Detroit"
+        ]
+    ]
+}

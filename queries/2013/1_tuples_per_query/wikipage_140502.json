@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Juanda_International_Airport",
+            "http://dbpedia.org/resource/East_Java",
+            "http://dbpedia.org/resource/Surabaya"
+        ]
+    ]
+}

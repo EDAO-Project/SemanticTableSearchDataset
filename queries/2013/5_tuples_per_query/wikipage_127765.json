@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beqabu",
+            "http://dbpedia.org/resource/N._Chandra",
+            "http://dbpedia.org/resource/Sanjay_Kapoor"
+        ],
+        [
+            "http://dbpedia.org/resource/Auzaar",
+            "http://dbpedia.org/resource/Sohail_Khan",
+            "http://dbpedia.org/resource/Salman_Khan"
+        ],
+        [
+            "http://dbpedia.org/resource/Jab_Pyaar_Kisise_Hota_Hai",
+            "http://dbpedia.org/resource/Deepak_Sareen",
+            "http://dbpedia.org/resource/Twinkle_Khanna"
+        ],
+        [
+            "http://dbpedia.org/resource/Kachche_Dhaage",
+            "http://dbpedia.org/resource/Milan_Luthria",
+            "http://dbpedia.org/resource/Ajay_Devgan"
+        ],
+        [
+            "http://dbpedia.org/resource/Kya_Kehna",
+            "http://dbpedia.org/resource/Kundan_Shah",
+            "http://dbpedia.org/resource/Chandrachur_Singh"
+        ]
+    ]
+}

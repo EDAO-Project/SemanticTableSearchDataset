@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allegheny_Aqueduct",
+            "http://dbpedia.org/resource/Pennsylvania_Route_724",
+            "http://dbpedia.org/resource/Robeson_Township,_Berks_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Barto_Bridge",
+            "http://dbpedia.org/resource/Perkiomen_Creek",
+            "http://dbpedia.org/resource/Washington_Township,_Berks_County,_Pennsylvania"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Memphis_Redbirds",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Pacific_Coast_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville_Sounds",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Pacific_Coast_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol_Pirates",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Appalachian_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Elizabethton_Twins",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Appalachian_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Greeneville_Astros",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Appalachian_League"
+        ]
+    ]
+}

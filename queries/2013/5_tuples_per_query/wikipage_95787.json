@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Proton_Competition",
+            "http://dbpedia.org/resource/Porsche_911_GT3",
+            "http://dbpedia.org/resource/Porsche"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_F430",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_F430",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Proton_Competition",
+            "http://dbpedia.org/resource/Porsche_911_GT3",
+            "http://dbpedia.org/resource/Porsche"
+        ],
+        [
+            "http://dbpedia.org/resource/IMSA_Performance",
+            "http://dbpedia.org/resource/Porsche_911_GT3",
+            "http://dbpedia.org/resource/Porsche"
+        ]
+    ]
+}

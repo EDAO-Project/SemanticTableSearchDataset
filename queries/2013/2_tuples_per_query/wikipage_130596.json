@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HealthSouth_Inaugural",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Silvia_Bertolaccini"
+        ],
+        [
+            "http://dbpedia.org/resource/Elizabeth_Arden_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Patty_Sheehan"
+        ]
+    ]
+}

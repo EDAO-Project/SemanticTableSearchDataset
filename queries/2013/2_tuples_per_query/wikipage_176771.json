@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1956_NFL_draft",
+            "http://dbpedia.org/resource/Bill_Koman",
+            "http://dbpedia.org/resource/History_of_the_Baltimore_Colts",
+            "http://dbpedia.org/resource/1963_Pro_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_American_Football_League_draft",
+            "http://dbpedia.org/resource/Rip_Hawkins",
+            "http://dbpedia.org/resource/New_England_Patriots",
+            "http://dbpedia.org/resource/1964_Pro_Bowl"
+        ]
+    ]
+}

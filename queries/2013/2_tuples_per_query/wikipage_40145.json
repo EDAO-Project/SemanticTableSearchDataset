@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Madeleine_Albright",
+            "http://dbpedia.org/resource/Czechoslovakia",
+            "http://dbpedia.org/resource/United_States_Secretary_of_State"
+        ],
+        [
+            "http://dbpedia.org/resource/Sigurd_Anderson",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Governor_of_South_Dakota"
+        ]
+    ]
+}

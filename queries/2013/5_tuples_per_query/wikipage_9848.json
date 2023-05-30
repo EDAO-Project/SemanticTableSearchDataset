@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Obadele_Thompson",
+            "http://dbpedia.org/resource/Seun_Ogunkoya",
+            "http://dbpedia.org/resource/Dwain_Chambers"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankie_Fredericks",
+            "http://dbpedia.org/resource/Gentry_Bradley",
+            "http://dbpedia.org/resource/Troy_Douglas"
+        ],
+        [
+            "http://dbpedia.org/resource/Iwan_Thomas",
+            "http://dbpedia.org/resource/Jerome_Young",
+            "http://dbpedia.org/resource/Troy_McIntosh"
+        ],
+        [
+            "http://dbpedia.org/resource/Laban_Rotich",
+            "http://dbpedia.org/resource/Rui_Silva",
+            "http://dbpedia.org/resource/Anthony_Whiteman"
+        ],
+        [
+            "http://dbpedia.org/resource/Dieter_Baumann",
+            "http://dbpedia.org/resource/Isaac_Viciosa",
+            "http://dbpedia.org/resource/Tom_Nyariki"
+        ]
+    ]
+}

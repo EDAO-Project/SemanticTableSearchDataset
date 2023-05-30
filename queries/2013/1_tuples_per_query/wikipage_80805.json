@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acar",
+            "http://dbpedia.org/resource/Indonesian_cuisine",
+            "http://dbpedia.org/resource/Vigna_unguiculata_subsp._sesquipedalis"
+        ]
+    ]
+}

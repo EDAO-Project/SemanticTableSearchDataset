@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Chaitanya_Bharathi_Institute_of_Technology",
+            "http://dbpedia.org/resource/Osmania_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Deccan_College_of_Engineering_and_Technology",
+            "http://dbpedia.org/resource/Osmania_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Mahatma_Gandhi_Institute_of_Technology",
+            "http://dbpedia.org/resource/Jawaharlal_Nehru_Technological_University,_Hyderabad"
+        ],
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Malla_Reddy_Engineering_College",
+            "http://dbpedia.org/resource/Jawaharlal_Nehru_Technological_University,_Hyderabad"
+        ],
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Muffakham_Jah_College_of_Engineering_and_Technology",
+            "http://dbpedia.org/resource/Osmania_University"
+        ]
+    ]
+}

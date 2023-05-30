@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daegok_Station",
+            "http://dbpedia.org/resource/Gyeongui_Line",
+            "http://dbpedia.org/resource/Gyeonggi_Province",
+            "http://dbpedia.org/resource/Goyang"
+        ]
+    ]
+}

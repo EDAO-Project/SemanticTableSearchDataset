@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alma,_Colorado",
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Breckenridge,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/Albany,_Wyoming",
+            "http://dbpedia.org/resource/Wyoming",
+            "http://dbpedia.org/resource/Grand_Encampment,_Wyoming"
+        ]
+    ]
+}

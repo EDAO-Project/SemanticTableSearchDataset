@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Civil_War_Museum",
+            "http://dbpedia.org/resource/Gettysburg,_Pennsylvania",
+            "http://dbpedia.org/resource/Adams_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_Dutch_Country",
+            "http://dbpedia.org/resource/American_Civil_War"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Swedish_Historical_Museum",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Philadelphia_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Delaware_Valley",
+            "http://dbpedia.org/resource/Swedish_American"
+        ],
+        [
+            "http://dbpedia.org/resource/Fisher_Fine_Arts_Library",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Philadelphia_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Delaware_Valley",
+            "http://dbpedia.org/resource/University_of_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Betsy_Ross_House",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Philadelphia_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Delaware_Valley",
+            "http://dbpedia.org/resource/Betsy_Ross"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandywine_Battlefield",
+            "http://dbpedia.org/resource/Chadds_Ford_Township,_Delaware_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Delaware_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Delaware_Valley",
+            "http://dbpedia.org/resource/Battle_of_Brandywine"
+        ]
+    ]
+}

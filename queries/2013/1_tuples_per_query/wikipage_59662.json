@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dustin_Hermanson",
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Kent_State_University"
+        ]
+    ]
+}

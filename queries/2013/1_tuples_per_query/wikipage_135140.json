@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1926_European_Aquatics_Championships",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

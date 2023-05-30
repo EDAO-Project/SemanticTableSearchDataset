@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vito_Corleone",
+            "http://dbpedia.org/resource/Marlon_Brando",
+            "http://dbpedia.org/resource/The_Godfather"
+        ],
+        [
+            "http://dbpedia.org/resource/Go_ahead,_make_my_day",
+            "http://dbpedia.org/resource/Clint_Eastwood",
+            "http://dbpedia.org/resource/Sudden_Impact"
+        ],
+        [
+            "http://dbpedia.org/resource/Taxi_Driver",
+            "http://dbpedia.org/resource/Travis_Bickle",
+            "http://dbpedia.org/resource/Robert_De_Niro",
+            "http://dbpedia.org/resource/Taxi_Driver"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Foster_Kane",
+            "http://dbpedia.org/resource/Orson_Welles",
+            "http://dbpedia.org/resource/Citizen_Kane"
+        ],
+        [
+            "http://dbpedia.org/resource/Lou_Gehrig",
+            "http://dbpedia.org/resource/Gary_Cooper",
+            "http://dbpedia.org/resource/The_Pride_of_the_Yankees"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_League_III",
+            "http://dbpedia.org/resource/Leeds_Rhinos",
+            "http://dbpedia.org/resource/Odsal_Stadium",
+            "http://dbpedia.org/resource/Matt_Calland",
+            "http://dbpedia.org/resource/Steve_McNamara"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_III",
+            "http://dbpedia.org/resource/Sheffield_Eagles",
+            "http://dbpedia.org/resource/Don_Valley_Stadium",
+            "http://dbpedia.org/resource/Shaun_Edwards",
+            "http://dbpedia.org/resource/Steve_McNamara"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bishop_of_London",
+            "http://dbpedia.org/resource/Archdeacon_of_London",
+            "http://dbpedia.org/resource/City_of_London"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_of_Kensington",
+            "http://dbpedia.org/resource/Archdeacon_of_Middlesex",
+            "http://dbpedia.org/resource/London_Borough_of_Hammersmith_and_Fulham"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_of_Kensington",
+            "http://dbpedia.org/resource/Archdeacon_of_Middlesex",
+            "http://dbpedia.org/resource/Hampton,_London"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_of_Kensington",
+            "http://dbpedia.org/resource/Archdeacon_of_Middlesex",
+            "http://dbpedia.org/resource/London_Borough_of_Hounslow"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_of_Kensington",
+            "http://dbpedia.org/resource/Archdeacon_of_Middlesex",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Kensington"
+        ]
+    ]
+}

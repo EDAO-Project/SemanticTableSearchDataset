@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joe_Ardner",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/1884_Cleveland_Blues_season",
+            "http://dbpedia.org/resource/Germany_Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Bradley",
+            "http://dbpedia.org/resource/Utility_player",
+            "http://dbpedia.org/resource/1881_Cleveland_Blues_season",
+            "http://dbpedia.org/resource/Relief_pitcher"
+        ]
+    ]
+}

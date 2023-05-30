@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_World_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Helsinki",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Helsinki_Olympic_Stadium"
+        ]
+    ]
+}

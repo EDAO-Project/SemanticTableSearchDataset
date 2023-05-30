@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_in_film",
+            "http://dbpedia.org/resource/Hellboy:_Sword_of_Storms",
+            "http://dbpedia.org/resource/Dark_Horse_Comics",
+            "http://dbpedia.org/resource/Starz_Distribution",
+            "http://dbpedia.org/resource/Direct-to-video",
+            "http://dbpedia.org/resource/Hellboy_Animated"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_film",
+            "http://dbpedia.org/resource/Marvel_Animated_Features",
+            "http://dbpedia.org/resource/Marvel_Comics",
+            "http://dbpedia.org/resource/Lions_Gate_Entertainment",
+            "http://dbpedia.org/resource/Direct-to-video",
+            "http://dbpedia.org/resource/Marvel_Animation"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_film",
+            "http://dbpedia.org/resource/Marvel_Animated_Features",
+            "http://dbpedia.org/resource/Marvel_Comics",
+            "http://dbpedia.org/resource/Lions_Gate_Entertainment",
+            "http://dbpedia.org/resource/Direct-to-video",
+            "http://dbpedia.org/resource/Marvel_Animation"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_in_film",
+            "http://dbpedia.org/resource/Marvel_Animated_Features",
+            "http://dbpedia.org/resource/Marvel_Comics",
+            "http://dbpedia.org/resource/Lions_Gate_Entertainment",
+            "http://dbpedia.org/resource/Direct-to-video",
+            "http://dbpedia.org/resource/Marvel_Animation"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_in_film",
+            "http://dbpedia.org/resource/Hellboy:_Blood_and_Iron",
+            "http://dbpedia.org/resource/Dark_Horse_Comics",
+            "http://dbpedia.org/resource/Starz_Distribution",
+            "http://dbpedia.org/resource/Direct-to-video",
+            "http://dbpedia.org/resource/Hellboy_Animated"
+        ]
+    ]
+}

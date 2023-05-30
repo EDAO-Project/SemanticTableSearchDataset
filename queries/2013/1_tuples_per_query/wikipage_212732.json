@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_Poynton",
+            "http://dbpedia.org/resource/National_Labor_Party",
+            "http://dbpedia.org/resource/Billy_Hughes"
+        ]
+    ]
+}

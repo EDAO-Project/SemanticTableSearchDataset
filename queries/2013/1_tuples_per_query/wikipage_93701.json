@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wiesbaden",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ]
+    ]
+}

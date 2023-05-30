@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Churandy_Martina",
+            "http://dbpedia.org/resource/Netherlands_Antilles",
+            "http://dbpedia.org/resource/Athletics_at_the_2006_Central_American_and_Caribbean_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Churandy_Martina",
+            "http://dbpedia.org/resource/Netherlands_Antilles",
+            "http://dbpedia.org/resource/Athletics_at_the_2010_Central_American_and_Caribbean_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Alberto_Juantorena",
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Athletics_at_the_1978_Central_American_and_Caribbean_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/Alberto_Juantorena",
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Athletics_at_the_1982_Central_American_and_Caribbean_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Eduardo_Castro",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Athletics_at_the_1982_Central_American_and_Caribbean_Games"
+        ]
+    ]
+}

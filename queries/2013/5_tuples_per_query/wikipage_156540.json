@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany_Great_Danes",
+            "http://dbpedia.org/resource/America_East_Conference",
+            "http://dbpedia.org/resource/Katie_Abrahamson-Henderson"
+        ],
+        [
+            "http://dbpedia.org/resource/Vermont_Catamounts",
+            "http://dbpedia.org/resource/America_East_Conference",
+            "http://dbpedia.org/resource/Lori_Gear_McBride"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Bearcats",
+            "http://dbpedia.org/resource/American_Athletic_Conference",
+            "http://dbpedia.org/resource/Jamelle_Elliott"
+        ],
+        [
+            "http://dbpedia.org/resource/Louisville_Cardinals",
+            "http://dbpedia.org/resource/American_Athletic_Conference",
+            "http://dbpedia.org/resource/Jeff_Walz"
+        ],
+        [
+            "http://dbpedia.org/resource/Rutgers_Scarlet_Knights",
+            "http://dbpedia.org/resource/American_Athletic_Conference",
+            "http://dbpedia.org/resource/C._Vivian_Stringer"
+        ]
+    ]
+}

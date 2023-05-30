@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Todd_Hundley",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Robb_Nen"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Grace",
+            "http://dbpedia.org/resource/Arizona_Diamondbacks",
+            "http://dbpedia.org/resource/Tim_Worrell"
+        ],
+        [
+            "http://dbpedia.org/resource/Hee-seop_Choi",
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/Kevin_Correia"
+        ],
+        [
+            "http://dbpedia.org/resource/Corey_Patterson",
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Tyler_Walker"
+        ],
+        [
+            "http://dbpedia.org/resource/Cliff_Floyd",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Brett_Tomko"
+        ]
+    ]
+}

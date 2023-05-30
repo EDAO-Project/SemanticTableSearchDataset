@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guilford,_Maine",
+            "http://dbpedia.org/resource/Piscataquis_County,_Maine",
+            "http://dbpedia.org/resource/Maine_Supreme_Judicial_Court"
+        ]
+    ]
+}

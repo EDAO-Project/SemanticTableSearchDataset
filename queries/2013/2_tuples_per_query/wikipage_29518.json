@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/An_American_Carol",
+            "http://dbpedia.org/resource/Vivendi",
+            "http://dbpedia.org/resource/Kevin_Farley"
+        ],
+        [
+            "http://dbpedia.org/resource/Beverly_Hills_Chihuahua",
+            "http://dbpedia.org/resource/Walt_Disney_Pictures",
+            "http://dbpedia.org/resource/Drew_Barrymore"
+        ]
+    ]
+}

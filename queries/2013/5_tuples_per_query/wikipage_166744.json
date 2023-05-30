@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bagoong",
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Philippine_condiments"
+        ],
+        [
+            "http://dbpedia.org/resource/Cahuamanta",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Manta_ray"
+        ],
+        [
+            "http://dbpedia.org/resource/Camaron_rebosado",
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Tempura"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincalok",
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Krill"
+        ],
+        [
+            "http://dbpedia.org/resource/Dobin_mushi",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Matsutake"
+        ]
+    ]
+}

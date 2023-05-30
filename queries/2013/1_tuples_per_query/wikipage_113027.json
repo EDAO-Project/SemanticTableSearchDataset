@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1957_NFL_draft",
+            "http://dbpedia.org/resource/Bob_Kilcullen",
+            "http://dbpedia.org/resource/Chicago_Bears",
+            "http://dbpedia.org/resource/1963_NFL_Championship_Game"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Job_Mann",
+            "http://dbpedia.org/resource/Jacksonian_democracy",
+            "http://dbpedia.org/resource/Bedford,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Joel_Keith_Mann",
+            "http://dbpedia.org/resource/Jacksonian_democracy",
+            "http://dbpedia.org/resource/Jenkintown,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Marchand",
+            "http://dbpedia.org/resource/Democratic-Republican_Party",
+            "http://dbpedia.org/resource/Greensburg,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Philip_Swenk_Markley",
+            "http://dbpedia.org/resource/Democratic-Republican_Party",
+            "http://dbpedia.org/resource/Norristown,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Philip_Swenk_Markley",
+            "http://dbpedia.org/resource/National_Republican_Party",
+            "http://dbpedia.org/resource/Norristown,_Pennsylvania"
+        ]
+    ]
+}

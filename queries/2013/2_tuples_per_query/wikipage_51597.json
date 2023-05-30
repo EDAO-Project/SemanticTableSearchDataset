@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonas_Hiller",
+            "http://dbpedia.org/resource/Felben-Wellhausen",
+            "http://dbpedia.org/resource/Anaheim_Ducks"
+        ],
+        [
+            "http://dbpedia.org/resource/Philippe_Furrer",
+            "http://dbpedia.org/resource/Bern",
+            "http://dbpedia.org/resource/SC_Bern"
+        ]
+    ]
+}

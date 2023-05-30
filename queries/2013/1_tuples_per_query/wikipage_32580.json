@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Annmary_Brown_Memorial",
+            "http://dbpedia.org/resource/Providence,_Rhode_Island",
+            "http://dbpedia.org/resource/Providence_County,_Rhode_Island",
+            "http://dbpedia.org/resource/Art_museum",
+            "http://dbpedia.org/resource/Brown_University"
+        ]
+    ]
+}

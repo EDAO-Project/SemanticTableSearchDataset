@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_Martin",
+            "http://dbpedia.org/resource/Michael_Waltrip_Racing",
+            "http://dbpedia.org/resource/Toyota"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl_Edwards",
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ]
+    ]
+}

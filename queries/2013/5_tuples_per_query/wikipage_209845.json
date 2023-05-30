@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Weber",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ],
+        [
+            "http://dbpedia.org/resource/Shea_Weber",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Sicamous",
+            "http://dbpedia.org/resource/Nashville_Predators"
+        ],
+        [
+            "http://dbpedia.org/resource/Yannick_Weber",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Morges",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Webster",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Weekes",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Florida_Panthers"
+        ]
+    ]
+}

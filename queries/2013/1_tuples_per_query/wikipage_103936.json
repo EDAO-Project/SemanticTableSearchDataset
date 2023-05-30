@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rodney_Wilkes",
+            "http://dbpedia.org/resource/1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Weightlifting_at_the_1948_Summer_Olympics"
+        ]
+    ]
+}

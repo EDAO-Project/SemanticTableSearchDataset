@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lionel_Chevrier",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Louis_St._Laurent"
+        ]
+    ]
+}

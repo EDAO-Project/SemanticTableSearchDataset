@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sports_Authority_Field_at_Mile_High"
+        ]
+    ]
+}

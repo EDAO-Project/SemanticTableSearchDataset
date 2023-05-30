@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angelo_Alessio",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Roberto_Anzolin",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/Goalkeeper"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grand_Duchess_Anna_Petrovna_of_Russia",
+            "http://dbpedia.org/resource/Peter_the_Great",
+            "http://dbpedia.org/resource/Charles_Frederick,_Duke_of_Holstein-Gottorp"
+        ],
+        [
+            "http://dbpedia.org/resource/Elizabeth_of_Russia",
+            "http://dbpedia.org/resource/Peter_the_Great",
+            "http://dbpedia.org/resource/Alexei_Razumovsky"
+        ]
+    ]
+}

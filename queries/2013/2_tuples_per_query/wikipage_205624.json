@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abraham_Lincoln",
+            "http://dbpedia.org/resource/Abraham_Lincoln_Presidential_Library_and_Museum",
+            "http://dbpedia.org/resource/Springfield,_Illinois",
+            "http://dbpedia.org/resource/Illinois_Historic_Preservation_Agency"
+        ],
+        [
+            "http://dbpedia.org/resource/Rutherford_B._Hayes",
+            "http://dbpedia.org/resource/Rutherford_B._Hayes_Presidential_Center",
+            "http://dbpedia.org/resource/Fremont,_Ohio",
+            "http://dbpedia.org/resource/Ohio_History_Connection"
+        ]
+    ]
+}

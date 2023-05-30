@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_in_music",
+            "http://dbpedia.org/resource/Midnight_Oil",
+            "http://dbpedia.org/resource/Beds_Are_Burning"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_in_music",
+            "http://dbpedia.org/resource/Daryl_Braithwaite",
+            "http://dbpedia.org/resource/The_Horses"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1930",
+            "http://dbpedia.org/resource/Oslo",
+            "http://dbpedia.org/resource/Holmenkollen_National_Arena",
+            "http://dbpedia.org/resource/Norway"
+        ],
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1937",
+            "http://dbpedia.org/resource/Chamonix",
+            "http://dbpedia.org/resource/Le_Tremplin_Olympique_du_Mont",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

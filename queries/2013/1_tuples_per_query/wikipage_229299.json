@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russian_Empire",
+            "http://dbpedia.org/resource/Tehran",
+            "http://dbpedia.org/resource/Alexander_Griboyedov"
+        ]
+    ]
+}

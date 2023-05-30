@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/79th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Directing",
+            "http://dbpedia.org/resource/Martin_Scorsese"
+        ],
+        [
+            "http://dbpedia.org/resource/79th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Film_Editing",
+            "http://dbpedia.org/resource/Thelma_Schoonmaker"
+        ],
+        [
+            "http://dbpedia.org/resource/79th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Picture",
+            "http://dbpedia.org/resource/Graham_King"
+        ],
+        [
+            "http://dbpedia.org/resource/79th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Adapted_Screenplay",
+            "http://dbpedia.org/resource/William_Monahan"
+        ],
+        [
+            "http://dbpedia.org/resource/79th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actor",
+            "http://dbpedia.org/resource/Mark_Wahlberg"
+        ]
+    ]
+}

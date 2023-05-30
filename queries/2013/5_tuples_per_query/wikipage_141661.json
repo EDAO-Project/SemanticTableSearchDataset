@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_Asian_Club_Championship",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/G.D._Lam_Pak",
+            "http://dbpedia.org/resource/Hwang_Yeon-seok"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Asian_Club_Championship",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Pahang_FA",
+            "http://dbpedia.org/resource/Shin_Tae-yong"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Asian_Club_Championship",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Pahang_FA",
+            "http://dbpedia.org/resource/Ko_Jeong-woon"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Asian_Club_Championship",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Park_Nam-yeol"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Asian_Super_Cup",
+            "http://dbpedia.org/resource/Asian_Super_Cup",
+            "http://dbpedia.org/resource/Shonan_Bellmare",
+            "http://dbpedia.org/resource/Shin_Tae-yong"
+        ]
+    ]
+}

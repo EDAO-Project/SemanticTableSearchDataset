@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hinderton_Hall",
+            "http://dbpedia.org/resource/Neston",
+            "http://dbpedia.org/resource/Country_house"
+        ],
+        [
+            "http://dbpedia.org/resource/Hinderton_Hall",
+            "http://dbpedia.org/resource/Neston",
+            "http://dbpedia.org/resource/Sandstone"
+        ]
+    ]
+}

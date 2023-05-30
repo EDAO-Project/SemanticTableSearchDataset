@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alaska_Highway",
+            "http://dbpedia.org/resource/Fort_Nelson,_British_Columbia",
+            "http://dbpedia.org/resource/Tok,_Alaska"
+        ],
+        [
+            "http://dbpedia.org/resource/Klondike_Highway",
+            "http://dbpedia.org/resource/Skagway,_Alaska",
+            "http://dbpedia.org/resource/Whitehorse,_Yukon"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Achilles_Rink",
+            "http://dbpedia.org/resource/Schenectady,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Union_College",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ]
+    ]
+}

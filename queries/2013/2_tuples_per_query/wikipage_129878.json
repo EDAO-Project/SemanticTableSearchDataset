@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Serbin_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Fay_Crocker"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacksonville_Ladies_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Jackie_Pung"
+        ]
+    ]
+}

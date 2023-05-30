@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1974_in_film",
+            "http://dbpedia.org/resource/Marty_Feldman",
+            "http://dbpedia.org/resource/Young_Frankenstein"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_in_film",
+            "http://dbpedia.org/resource/Arte_Johnson",
+            "http://dbpedia.org/resource/Love_at_First_Bite"
+        ]
+    ]
+}

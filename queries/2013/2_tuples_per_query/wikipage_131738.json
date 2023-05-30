@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tyler_Seguin",
+            "http://dbpedia.org/resource/Jimmy_Howard",
+            "http://dbpedia.org/resource/Jonathan_Toews"
+        ],
+        [
+            "http://dbpedia.org/resource/Sidney_Crosby",
+            "http://dbpedia.org/resource/Cory_Schneider",
+            "http://dbpedia.org/resource/Brian_Elliott"
+        ]
+    ]
+}

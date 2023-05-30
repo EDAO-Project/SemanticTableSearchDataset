@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Monarchy",
+            "http://dbpedia.org/resource/Gustaf_VI_Adolf_of_Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethiopia",
+            "http://dbpedia.org/resource/Monarchy",
+            "http://dbpedia.org/resource/Haile_Selassie"
+        ],
+        [
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Republic",
+            "http://dbpedia.org/resource/Francisco_Craveiro_Lopes"
+        ],
+        [
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Monarchy",
+            "http://dbpedia.org/resource/Faisal_II_of_Iraq"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Republic",
+            "http://dbpedia.org/resource/Giovanni_Gronchi"
+        ]
+    ]
+}

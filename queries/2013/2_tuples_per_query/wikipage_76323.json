@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brigidine_College,_Indooroopilly",
+            "http://dbpedia.org/resource/Indooroopilly,_Queensland",
+            "http://dbpedia.org/resource/Catholic_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Cannon_Hill_Anglican_College",
+            "http://dbpedia.org/resource/Cannon_Hill,_Queensland",
+            "http://dbpedia.org/resource/Anglicanism"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Barbados",
+            "http://dbpedia.org/resource/Belarus",
+            "http://dbpedia.org/resource/Belize",
+            "http://dbpedia.org/resource/Benin"
+        ]
+    ]
+}

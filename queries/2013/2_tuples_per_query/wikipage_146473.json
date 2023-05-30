@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Altwiller",
+            "http://dbpedia.org/resource/Asswiller",
+            "http://dbpedia.org/resource/Baerendorf"
+        ],
+        [
+            "http://dbpedia.org/resource/Berg,_Bas-Rhin",
+            "http://dbpedia.org/resource/Bettwiller",
+            "http://dbpedia.org/resource/Birkenwald"
+        ]
+    ]
+}

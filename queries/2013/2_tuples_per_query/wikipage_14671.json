@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Duane_Ward",
+            "http://dbpedia.org/resource/Jeff_Shaw",
+            "http://dbpedia.org/resource/Tom_Henke"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Joe_Hesketh",
+            "http://dbpedia.org/resource/David_Wells",
+            "http://dbpedia.org/resource/Jeff_Reardon"
+        ]
+    ]
+}

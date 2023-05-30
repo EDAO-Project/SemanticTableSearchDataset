@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Happily_Divorced",
+            "http://dbpedia.org/resource/TV_Land",
+            "http://dbpedia.org/resource/John_Michael_Higgins",
+            "http://dbpedia.org/resource/Coming_out"
+        ],
+        [
+            "http://dbpedia.org/resource/Running_Wilde",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company",
+            "http://dbpedia.org/resource/Robert_Michael_Morris",
+            "http://dbpedia.org/resource/Will_Arnett"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lal_Bangla",
+            "http://dbpedia.org/resource/Delhi_Golf_Club",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Kos_Minar",
+            "http://dbpedia.org/resource/National_Zoological_Park_Delhi",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Sher_Shah_Suri",
+            "http://dbpedia.org/resource/Purana_Qila",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Mirza_Najaf_Khan",
+            "http://dbpedia.org/resource/Safdarjung_Airport",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Flagstaff_Tower",
+            "http://dbpedia.org/resource/Delhi_Ridge",
+            "http://dbpedia.org/resource/Delhi"
+        ]
+    ]
+}

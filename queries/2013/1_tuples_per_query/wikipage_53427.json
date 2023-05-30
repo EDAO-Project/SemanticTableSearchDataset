@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Judit_Temes",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Budapest"
+        ]
+    ]
+}

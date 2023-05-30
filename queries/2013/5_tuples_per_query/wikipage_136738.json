@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Herbert_von_Karajan",
+            "http://dbpedia.org/resource/Vienna_Philharmonic",
+            "http://dbpedia.org/resource/Elisabeth_Schwarzkopf",
+            "http://dbpedia.org/resource/EMI"
+        ],
+        [
+            "http://dbpedia.org/resource/Georg_Solti",
+            "http://dbpedia.org/resource/Chicago_Symphony_Chorus",
+            "http://dbpedia.org/resource/Kiri_Te_Kanawa",
+            "http://dbpedia.org/resource/Decca_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergiu_Celibidache",
+            "http://dbpedia.org/resource/Munich_Philharmonic",
+            "http://dbpedia.org/resource/Arleen_Auger",
+            "http://dbpedia.org/resource/EMI_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Levine",
+            "http://dbpedia.org/resource/Chicago_Symphony_Chorus",
+            "http://dbpedia.org/resource/Kathleen_Battle",
+            "http://dbpedia.org/resource/RCA"
+        ],
+        [
+            "http://dbpedia.org/resource/Klaus_Tennstedt",
+            "http://dbpedia.org/resource/London_Philharmonic_Orchestra",
+            "http://dbpedia.org/resource/Jessye_Norman",
+            "http://dbpedia.org/resource/EMI_Classics"
+        ]
+    ]
+}

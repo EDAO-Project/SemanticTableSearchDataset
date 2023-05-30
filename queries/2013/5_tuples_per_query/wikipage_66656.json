@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_De_Man",
+            "http://dbpedia.org/resource/Roda_JC_Kerkrade",
+            "http://dbpedia.org/resource/Beerschot_AC"
+        ],
+        [
+            "http://dbpedia.org/resource/Wouter_Degroote",
+            "http://dbpedia.org/resource/F.C._Verbroedering_Dender_Eendracht_Hekelgem",
+            "http://dbpedia.org/resource/SC_Eendracht_Aalst"
+        ],
+        [
+            "http://dbpedia.org/resource/Dawid_Janczyk",
+            "http://dbpedia.org/resource/PFC_CSKA_Moscow",
+            "http://dbpedia.org/resource/K.S.C._Lokeren_Oost-Vlaanderen"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Banga",
+            "http://dbpedia.org/resource/R.O.C._de_Charleroi-Marchienne",
+            "http://dbpedia.org/resource/F.C._Verbroedering_Dender_Eendracht_Hekelgem"
+        ],
+        [
+            "http://dbpedia.org/resource/Rudy_Saintini",
+            "http://dbpedia.org/resource/R.O.C._de_Charleroi-Marchienne",
+            "http://dbpedia.org/resource/F.C._Verbroedering_Dender_Eendracht_Hekelgem"
+        ]
+    ]
+}

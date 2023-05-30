@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cambridge_railway_station",
+            "http://dbpedia.org/resource/CrossCountry",
+            "http://dbpedia.org/resource/March_railway_station"
+        ]
+    ]
+}

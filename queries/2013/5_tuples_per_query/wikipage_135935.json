@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baghdad",
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Baghdad_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Burgas",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Burgas_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Chania",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Chania_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Cologne",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Cologne_Bonn_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Corfu",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Corfu_International_Airport"
+        ]
+    ]
+}

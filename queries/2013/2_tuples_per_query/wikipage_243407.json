@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Sagan",
+            "http://dbpedia.org/resource/Mark_Cavendish",
+            "http://dbpedia.org/resource/Alejandro_Valverde"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Cavendish",
+            "http://dbpedia.org/resource/Michele_Scarponi",
+            "http://dbpedia.org/resource/Bauke_Mollema"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grant_Adcox",
+            "http://dbpedia.org/resource/1974_NASCAR_Winston_Cup_Series",
+            "http://dbpedia.org/resource/1989_NASCAR_Winston_Cup_Series",
+            "http://dbpedia.org/resource/Atlanta_Motor_Speedway"
+        ]
+    ]
+}

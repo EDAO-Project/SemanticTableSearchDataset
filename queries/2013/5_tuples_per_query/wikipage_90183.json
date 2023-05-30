@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_3-D_Battles_of_WorldRunner",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Active_shutter_3D_system"
+        ],
+        [
+            "http://dbpedia.org/resource/Rad_Racer",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Active_shutter_3D_system"
+        ],
+        [
+            "http://dbpedia.org/resource/The_3-D_Battles_of_WorldRunner",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Active_shutter_3D_system"
+        ],
+        [
+            "http://dbpedia.org/resource/Falsion",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Active_shutter_3D_system"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Mario_racing_games",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Active_shutter_3D_system"
+        ]
+    ]
+}

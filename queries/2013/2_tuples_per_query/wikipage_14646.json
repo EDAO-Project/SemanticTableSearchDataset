@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Justin_Speier",
+            "http://dbpedia.org/resource/Rafael_Betancourt",
+            "http://dbpedia.org/resource/Jason_Frasor"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Rafael_Betancourt",
+            "http://dbpedia.org/resource/Kerry_Ligtenberg",
+            "http://dbpedia.org/resource/Bob_Wickman"
+        ]
+    ]
+}

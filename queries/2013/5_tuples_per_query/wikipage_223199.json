@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Unity_Chapel",
+            "http://dbpedia.org/resource/Spring_Green,_Wisconsin",
+            "http://dbpedia.org/resource/Wisconsin",
+            "http://dbpedia.org/resource/Joseph_Lyman_Silsbee"
+        ],
+        [
+            "http://dbpedia.org/resource/Louis_Sullivan_Bungalow",
+            "http://dbpedia.org/resource/Ocean_Springs,_Mississippi",
+            "http://dbpedia.org/resource/Mississippi",
+            "http://dbpedia.org/resource/Hurricane_Katrina"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Charnley_House",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Illinois",
+            "http://dbpedia.org/resource/Louis_Sullivan"
+        ],
+        [
+            "http://dbpedia.org/resource/Nathan_G._Moore_House",
+            "http://dbpedia.org/resource/Oak_Park,_Illinois",
+            "http://dbpedia.org/resource/Illinois",
+            "http://dbpedia.org/resource/List_of_Frank_Lloyd_Wright_works"
+        ],
+        [
+            "http://dbpedia.org/resource/Mosher_House",
+            "http://dbpedia.org/resource/Wellington,_Ohio",
+            "http://dbpedia.org/resource/Ohio",
+            "http://dbpedia.org/resource/Wilmette,_Illinois"
+        ]
+    ]
+}

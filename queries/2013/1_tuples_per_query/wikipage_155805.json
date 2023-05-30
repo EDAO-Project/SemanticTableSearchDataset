@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/TUI_Arena",
+            "http://dbpedia.org/resource/Hanover",
+            "http://dbpedia.org/resource/Lower_Saxony",
+            "http://dbpedia.org/resource/Hannover_Scorpions"
+        ]
+    ]
+}

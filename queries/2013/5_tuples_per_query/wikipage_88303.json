@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Warcraft_II:_Beyond_the_Dark_Portal",
+            "http://dbpedia.org/resource/Cyberlore_Studios",
+            "http://dbpedia.org/resource/Blizzard_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Where_Time_Stood_Still",
+            "http://dbpedia.org/resource/Denton_Designs",
+            "http://dbpedia.org/resource/Ocean_Software"
+        ],
+        [
+            "http://dbpedia.org/resource/Wing_Commander:_Armada",
+            "http://dbpedia.org/resource/Origin_Systems",
+            "http://dbpedia.org/resource/Electronic_Arts"
+        ],
+        [
+            "http://dbpedia.org/resource/Wing_Commander_IV:_The_Price_of_Freedom",
+            "http://dbpedia.org/resource/Origin_Systems",
+            "http://dbpedia.org/resource/Electronic_Arts"
+        ],
+        [
+            "http://dbpedia.org/resource/Wings_of_Glory",
+            "http://dbpedia.org/resource/Origin_Systems",
+            "http://dbpedia.org/resource/Electronic_Arts"
+        ]
+    ]
+}

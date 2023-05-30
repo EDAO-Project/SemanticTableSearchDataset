@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Camp_Nou",
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Wembley_Stadium",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/The_Football_Association"
+        ]
+    ]
+}

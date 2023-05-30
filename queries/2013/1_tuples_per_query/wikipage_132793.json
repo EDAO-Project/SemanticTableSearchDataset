@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agdenes",
+            "http://dbpedia.org/resource/Lensvik_Church",
+            "http://dbpedia.org/resource/Lensvik"
+        ]
+    ]
+}

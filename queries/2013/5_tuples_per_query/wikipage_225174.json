@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_College",
+            "http://dbpedia.org/resource/Chestnut_Hill,_Massachusetts",
+            "http://dbpedia.org/resource/William_P._Leahy"
+        ],
+        [
+            "http://dbpedia.org/resource/Le_Moyne_College",
+            "http://dbpedia.org/resource/Syracuse,_New_York",
+            "http://dbpedia.org/resource/Fred_Pestello"
+        ],
+        [
+            "http://dbpedia.org/resource/College_of_the_Holy_Cross",
+            "http://dbpedia.org/resource/Worcester,_Massachusetts",
+            "http://dbpedia.org/resource/Philip_Boroughs"
+        ],
+        [
+            "http://dbpedia.org/resource/Creighton_University",
+            "http://dbpedia.org/resource/Omaha,_Nebraska",
+            "http://dbpedia.org/resource/Timothy_R._Lannon"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_University",
+            "http://dbpedia.org/resource/Fairfield,_Connecticut",
+            "http://dbpedia.org/resource/Jeffrey_P._von_Arx"
+        ]
+    ]
+}

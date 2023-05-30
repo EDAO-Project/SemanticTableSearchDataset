@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pilot_Hill",
+            "http://dbpedia.org/resource/Walbury_Hill",
+            "http://dbpedia.org/resource/Hampshire_Downs",
+            "http://dbpedia.org/resource/Lists_of_mountains_and_hills_in_the_British_Isles"
+        ],
+        [
+            "http://dbpedia.org/resource/Sidown_Hill",
+            "http://dbpedia.org/resource/Walbury_Hill",
+            "http://dbpedia.org/resource/Hampshire_Downs",
+            "http://dbpedia.org/resource/Listed_building"
+        ],
+        [
+            "http://dbpedia.org/resource/Beacon_Hill,_Burghclere,_Hampshire",
+            "http://dbpedia.org/resource/Walbury_Hill",
+            "http://dbpedia.org/resource/Hampshire_Downs",
+            "http://dbpedia.org/resource/Burghclere"
+        ],
+        [
+            "http://dbpedia.org/resource/Watership_Down,_Hampshire",
+            "http://dbpedia.org/resource/Walbury_Hill",
+            "http://dbpedia.org/resource/Hampshire_Downs",
+            "http://dbpedia.org/resource/Richard_Adams"
+        ],
+        [
+            "http://dbpedia.org/resource/Ladle_Hill",
+            "http://dbpedia.org/resource/Walbury_Hill",
+            "http://dbpedia.org/resource/Hampshire_Downs",
+            "http://dbpedia.org/resource/Hill_fort"
+        ]
+    ]
+}

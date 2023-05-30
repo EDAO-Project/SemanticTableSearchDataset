@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giro_della_Provincia_di_Reggio_Calabria",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Matteo_Montaguti",
+            "http://dbpedia.org/resource/Utensilnord"
+        ],
+        [
+            "http://dbpedia.org/resource/Gran_Premio_della_Costa_Etruschi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Alessandro_Petacchi",
+            "http://dbpedia.org/resource/Lampre-Merida"
+        ]
+    ]
+}

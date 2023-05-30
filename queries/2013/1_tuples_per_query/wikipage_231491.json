@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Arellano",
+            "http://dbpedia.org/resource/Colo-Colo",
+            "http://dbpedia.org/resource/Peritonitis"
+        ]
+    ]
+}

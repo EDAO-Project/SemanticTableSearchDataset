@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Comerica_Theatre",
+            "http://dbpedia.org/resource/Megadeth"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/SAP_Center_at_San_Jose",
+            "http://dbpedia.org/resource/Megadeth"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Omloop_Het_Nieuwsblad",
+            "http://dbpedia.org/resource/Juan_Antonio_Flecha",
+            "http://dbpedia.org/resource/Heinrich_Haussler",
+            "http://dbpedia.org/resource/Tyler_Farrar"
+        ]
+    ]
+}

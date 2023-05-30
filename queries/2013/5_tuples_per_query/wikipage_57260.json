@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Tamara_Garkushina",
+            "http://dbpedia.org/resource/Raisa_Obodovskaya",
+            "http://dbpedia.org/resource/Beryl_Burton"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Raisa_Obodovskaya",
+            "http://dbpedia.org/resource/Beryl_Burton",
+            "http://dbpedia.org/resource/Keetie_van_Oosten-Hage"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Raisa_Obodovskaya",
+            "http://dbpedia.org/resource/Tamara_Garkushina",
+            "http://dbpedia.org/resource/Keetie_van_Oosten-Hage"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Tamara_Garkushina",
+            "http://dbpedia.org/resource/Raisa_Obodovskaya",
+            "http://dbpedia.org/resource/Keetie_van_Oosten-Hage"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Tamara_Garkushina",
+            "http://dbpedia.org/resource/Keetie_van_Oosten-Hage",
+            "http://dbpedia.org/resource/Lyubov_Zadorozhnaya"
+        ]
+    ]
+}

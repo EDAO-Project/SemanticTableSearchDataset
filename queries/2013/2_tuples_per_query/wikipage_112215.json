@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Churandy_Martina",
+            "http://dbpedia.org/resource/Netherlands_Antilles"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Jeremy_Wariner",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

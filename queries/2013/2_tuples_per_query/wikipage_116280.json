@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Ted_Simmons",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Southfield_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Terry_Kennedy",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Florida_State_Seminoles_baseball"
+        ]
+    ]
+}

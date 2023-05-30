@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Heinrich_Prinz_zu_Sayn-Wittgenstein",
+            "http://dbpedia.org/resource/Nachtjagdgeschwader_2",
+            "http://dbpedia.org/resource/Killed_in_action"
+        ],
+        [
+            "http://dbpedia.org/resource/Manfred_Meurer",
+            "http://dbpedia.org/resource/Nachtjagdgeschwader_1",
+            "http://dbpedia.org/resource/Killed_in_action"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battlefield_4",
+            "http://dbpedia.org/resource/First-person_shooter",
+            "http://dbpedia.org/resource/EA_DICE",
+            "http://dbpedia.org/resource/Electronic_Arts"
+        ],
+        [
+            "http://dbpedia.org/resource/Call_of_Duty:_Ghosts",
+            "http://dbpedia.org/resource/First-person_shooter",
+            "http://dbpedia.org/resource/Infinity_Ward",
+            "http://dbpedia.org/resource/Activision"
+        ]
+    ]
+}

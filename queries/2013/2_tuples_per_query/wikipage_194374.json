@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greece_at_the_1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Pyrros_Dimas",
+            "http://dbpedia.org/resource/Weightlifting_at_the_1996_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Albania_at_the_1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Mirela_Maniani",
+            "http://dbpedia.org/resource/Athletics_at_the_1996_Summer_Olympics"
+        ]
+    ]
+}

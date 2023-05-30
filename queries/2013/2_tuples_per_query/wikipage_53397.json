@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Dark_Side_of_the_Moon",
+            "http://dbpedia.org/resource/Pink_Floyd",
+            "http://dbpedia.org/resource/Harvest_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Back_to_Black",
+            "http://dbpedia.org/resource/Amy_Winehouse",
+            "http://dbpedia.org/resource/Island_Records"
+        ]
+    ]
+}

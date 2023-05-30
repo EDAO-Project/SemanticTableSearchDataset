@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beryllium",
+            "http://dbpedia.org/resource/100_picometres",
+            "http://dbpedia.org/resource/100_picometres",
+            "http://dbpedia.org/resource/100_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/100_picometres"
+        ],
+        [
+            "http://dbpedia.org/resource/Boron",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/100_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/10_picometres"
+        ],
+        [
+            "http://dbpedia.org/resource/Carbon",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/100_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/10_picometres"
+        ],
+        [
+            "http://dbpedia.org/resource/Nitrogen",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/100_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/10_picometres"
+        ],
+        [
+            "http://dbpedia.org/resource/Oxygen",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/100_picometres",
+            "http://dbpedia.org/resource/10_picometres",
+            "http://dbpedia.org/resource/10_picometres"
+        ]
+    ]
+}

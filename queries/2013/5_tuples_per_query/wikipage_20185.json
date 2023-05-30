@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Westpoort"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Westpoort"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Slotermeer"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Geuzenveld"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Osdorp"
+        ]
+    ]
+}

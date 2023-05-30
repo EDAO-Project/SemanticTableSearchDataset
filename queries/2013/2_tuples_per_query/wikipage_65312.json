@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_in_literature",
+            "http://dbpedia.org/resource/Nicola_Griffith",
+            "http://dbpedia.org/resource/Bending_the_Landscape",
+            "http://dbpedia.org/resource/The_Overlook_Press"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_film",
+            "http://dbpedia.org/resource/Bill_Condon",
+            "http://dbpedia.org/resource/Gods_and_Monsters",
+            "http://dbpedia.org/resource/Lions_Gate_Entertainment"
+        ]
+    ]
+}

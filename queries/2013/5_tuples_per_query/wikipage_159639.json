@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Lonely_Island",
+            "http://dbpedia.org/resource/Andy_Samberg",
+            "http://dbpedia.org/resource/The_Wack_Album"
+        ],
+        [
+            "http://dbpedia.org/resource/Bad_Romance",
+            "http://dbpedia.org/resource/Lady_Gaga",
+            "http://dbpedia.org/resource/The_Fame_Monster"
+        ],
+        [
+            "http://dbpedia.org/resource/Beautiful,_Dirty,_Rich",
+            "http://dbpedia.org/resource/Lady_Gaga",
+            "http://dbpedia.org/resource/The_Fame"
+        ],
+        [
+            "http://dbpedia.org/resource/Dance_in_the_Dark",
+            "http://dbpedia.org/resource/Fernando_Garibay",
+            "http://dbpedia.org/resource/The_Fame_Monster"
+        ],
+        [
+            "http://dbpedia.org/resource/Do_What_U_Want",
+            "http://dbpedia.org/resource/R._Kelly",
+            "http://dbpedia.org/resource/Artpop"
+        ]
+    ]
+}

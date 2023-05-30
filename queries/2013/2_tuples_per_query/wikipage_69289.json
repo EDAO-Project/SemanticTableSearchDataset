@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Malaysia_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Mitsuo_Ogasawara"
+        ],
+        [
+            "http://dbpedia.org/resource/ZTE_Arena",
+            "http://dbpedia.org/resource/Hungary_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Keiji_Tamada"
+        ]
+    ]
+}

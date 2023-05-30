@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Louisiana",
+            "http://dbpedia.org/resource/Huey_Long",
+            "http://dbpedia.org/resource/Rose_McConnell_Long"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Minnesota",
+            "http://dbpedia.org/resource/Thomas_D._Schall",
+            "http://dbpedia.org/resource/Elmer_Austin_Benson"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Florida",
+            "http://dbpedia.org/resource/Park_Trammell",
+            "http://dbpedia.org/resource/Scott_Loftin"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Florida",
+            "http://dbpedia.org/resource/Duncan_U._Fletcher",
+            "http://dbpedia.org/resource/William_Luther_Hill"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Iowa",
+            "http://dbpedia.org/resource/Richard_L._Murphy",
+            "http://dbpedia.org/resource/Guy_Gillette"
+        ]
+    ]
+}

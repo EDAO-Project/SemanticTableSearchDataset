@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/17th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/William_Alexander_Baird",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/18th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/William_Alexander_Baird",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/19th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/William_Alexander_Baird",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/20th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/William_Alexander_Baird",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/21st_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_A._Drew",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

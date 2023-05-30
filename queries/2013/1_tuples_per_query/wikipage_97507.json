@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miikka_Kiprusoff",
+            "http://dbpedia.org/resource/Turku",
+            "http://dbpedia.org/resource/Calgary_Flames"
+        ]
+    ]
+}

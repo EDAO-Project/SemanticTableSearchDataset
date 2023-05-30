@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_Fed_Cup",
+            "http://dbpedia.org/resource/Antalya",
+            "http://dbpedia.org/resource/Great_Britain_Fed_Cup_team",
+            "http://dbpedia.org/resource/Clay_court",
+            "http://dbpedia.org/resource/Anne_Keothavong"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Fed_Cup",
+            "http://dbpedia.org/resource/Plovdiv",
+            "http://dbpedia.org/resource/Serbia_Fed_Cup_team",
+            "http://dbpedia.org/resource/Clay_court",
+            "http://dbpedia.org/resource/Ana_Ivanovic"
+        ]
+    ]
+}

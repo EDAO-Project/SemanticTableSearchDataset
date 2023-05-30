@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1905_Wimbledon_Championships",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/May_Sutton",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Dorothea_Douglass_Lambert_Chambers"
+        ],
+        [
+            "http://dbpedia.org/resource/1906_Wimbledon_Championships",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Dorothea_Douglass_Lambert_Chambers",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/May_Sutton"
+        ]
+    ]
+}

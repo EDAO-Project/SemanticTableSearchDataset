@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gerhard_Schaar",
+            "http://dbpedia.org/resource/Kriegsmarine",
+            "http://dbpedia.org/resource/Oberleutnant_zur_See",
+            "http://dbpedia.org/resource/German_submarine_U-957"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Schacht",
+            "http://dbpedia.org/resource/Luftwaffe",
+            "http://dbpedia.org/resource/Leutnant",
+            "http://dbpedia.org/resource/Luftlande-Sturm-Regiment"
+        ]
+    ]
+}

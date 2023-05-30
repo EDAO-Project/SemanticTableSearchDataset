@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stacelita",
+            "http://dbpedia.org/resource/Jean-Claude_Rouget",
+            "http://dbpedia.org/resource/Martin_S._Schwartz"
+        ],
+        [
+            "http://dbpedia.org/resource/Perfect_Sting",
+            "http://dbpedia.org/resource/Joe_Orseno",
+            "http://dbpedia.org/resource/Stronach_Stables"
+        ],
+        [
+            "http://dbpedia.org/resource/Soaring_Softly",
+            "http://dbpedia.org/resource/James_J._Toner",
+            "http://dbpedia.org/resource/Darby_Dan_Farm"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryafan",
+            "http://dbpedia.org/resource/John_Gosden",
+            "http://dbpedia.org/resource/Khalid_ibn_Abdullah"
+        ],
+        [
+            "http://dbpedia.org/resource/Hatoof",
+            "http://dbpedia.org/resource/Criquette_Head-Maarek",
+            "http://dbpedia.org/resource/Maktoum_bin_Rashid_Al_Maktoum"
+        ]
+    ]
+}

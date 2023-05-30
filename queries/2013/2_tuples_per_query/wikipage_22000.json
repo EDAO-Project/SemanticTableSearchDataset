@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_Anaheim_Angels_season",
+            "http://dbpedia.org/resource/Ismael_Valdez",
+            "http://dbpedia.org/resource/Sean_Lowe",
+            "http://dbpedia.org/resource/Troy_Percival",
+            "http://dbpedia.org/resource/Angel_Stadium_of_Anaheim"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Seattle_Mariners_season",
+            "http://dbpedia.org/resource/Rocky_Biddle",
+            "http://dbpedia.org/resource/Kazuhiro_Sasaki",
+            "http://dbpedia.org/resource/Keith_Foulke",
+            "http://dbpedia.org/resource/Safeco_Field"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adjustable_spanner",
+            "http://dbpedia.org/resource/Adjustable_spanner",
+            "http://dbpedia.org/resource/Johan_Petter_Johansson"
+        ],
+        [
+            "http://dbpedia.org/resource/Socket_wrench",
+            "http://dbpedia.org/resource/Socket_wrench",
+            "http://dbpedia.org/resource/Universal_joint"
+        ]
+    ]
+}

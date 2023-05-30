@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bendigo_Football_Club",
+            "http://dbpedia.org/resource/Windy_Hill,_Essendon",
+            "http://dbpedia.org/resource/Bendigo"
+        ]
+    ]
+}

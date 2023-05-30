@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Silvretta_Alps",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Piz_Linard"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_Little_League_World_Series",
+            "http://dbpedia.org/resource/Kaohsiung",
+            "http://dbpedia.org/resource/Maracaibo"
+        ]
+    ]
+}

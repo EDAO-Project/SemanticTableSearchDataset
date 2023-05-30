@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ardrossan,_South_Australia",
+            "http://dbpedia.org/resource/Yorke_Peninsula",
+            "http://dbpedia.org/resource/National_Trust_of_Australia"
+        ]
+    ]
+}

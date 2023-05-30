@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/2001_Georgia_Bulldogs_football_team",
+            "http://dbpedia.org/resource/2001_Music_City_Bowl"
+        ]
+    ]
+}

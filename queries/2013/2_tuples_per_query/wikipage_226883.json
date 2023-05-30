@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Equatorial_Guinea",
+            "http://dbpedia.org/resource/Spanish_language",
+            "http://dbpedia.org/resource/Coat_of_arms_of_Equatorial_Guinea"
+        ],
+        [
+            "http://dbpedia.org/resource/Guinea",
+            "http://dbpedia.org/resource/French_language",
+            "http://dbpedia.org/resource/Coat_of_arms_of_Guinea"
+        ]
+    ]
+}

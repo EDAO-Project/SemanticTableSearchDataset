@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Western_Springs_Stadium"
+        ]
+    ]
+}

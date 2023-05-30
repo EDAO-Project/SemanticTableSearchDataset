@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Backwell_Hillfort",
+            "http://dbpedia.org/resource/Iron_Age",
+            "http://dbpedia.org/resource/Backwell",
+            "http://dbpedia.org/resource/Quarry"
+        ]
+    ]
+}

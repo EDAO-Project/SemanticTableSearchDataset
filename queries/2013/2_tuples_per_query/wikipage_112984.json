@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Putsy_Caballero",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Hick_Cady",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

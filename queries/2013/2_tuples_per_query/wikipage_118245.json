@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Columbia_River",
+            "http://dbpedia.org/resource/Pacific_Ocean",
+            "http://dbpedia.org/resource/Columbia_Lake"
+        ],
+        [
+            "http://dbpedia.org/resource/Snake_River",
+            "http://dbpedia.org/resource/Columbia_River",
+            "http://dbpedia.org/resource/Absaroka_Range"
+        ]
+    ]
+}

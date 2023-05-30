@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Timbaland",
+            "http://dbpedia.org/resource/If_We_Ever_Meet_Again",
+            "http://dbpedia.org/resource/Interscope_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Florence_and_the_Machine",
+            "http://dbpedia.org/resource/You_Got_the_Love",
+            "http://dbpedia.org/resource/Island_Records"
+        ]
+    ]
+}

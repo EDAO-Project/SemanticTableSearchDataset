@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Northern_Skirts",
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Barbara_Albert"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Orfeu",
+            "http://dbpedia.org/resource/Portuguese_language",
+            "http://dbpedia.org/resource/Carlos_Diegues"
+        ],
+        [
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/From_the_Edge_of_the_City",
+            "http://dbpedia.org/resource/Greek_language",
+            "http://dbpedia.org/resource/Constantine_Giannaris"
+        ],
+        [
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/The_Color_of_Paradise",
+            "http://dbpedia.org/resource/Persian_language",
+            "http://dbpedia.org/resource/Majid_Majidi"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Fuori_Dal_Mondo",
+            "http://dbpedia.org/resource/Italian_language",
+            "http://dbpedia.org/resource/Giuseppe_Piccioni"
+        ]
+    ]
+}

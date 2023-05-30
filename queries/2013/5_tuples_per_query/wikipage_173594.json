@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_Segunda_Division_de_Honduras",
+            "http://dbpedia.org/resource/C.D._Federal",
+            "http://dbpedia.org/resource/Social_Sol"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Maya",
+            "http://dbpedia.org/resource/Real_Comayagua",
+            "http://dbpedia.org/resource/C.D._Real_Sociedad"
+        ],
+        [
+            "http://dbpedia.org/resource/Honduras_Salzburg",
+            "http://dbpedia.org/resource/Parrillas_One",
+            "http://dbpedia.org/resource/C.D._Real_Sociedad"
+        ],
+        [
+            "http://dbpedia.org/resource/Deportes_Savio",
+            "http://dbpedia.org/resource/Social_Sol",
+            "http://dbpedia.org/resource/F.C._Municipal_Valencia"
+        ],
+        [
+            "http://dbpedia.org/resource/C.D._Lenca",
+            "http://dbpedia.org/resource/C.D._Real_Juventud",
+            "http://dbpedia.org/resource/Olimpia_Reservas"
+        ]
+    ]
+}

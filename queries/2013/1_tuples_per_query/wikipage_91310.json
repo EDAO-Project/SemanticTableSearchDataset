@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Borderlands_2",
+            "http://dbpedia.org/resource/Gearbox_Software",
+            "http://dbpedia.org/resource/2K_Games"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trey_Parker",
+            "http://dbpedia.org/resource/Stan_Marsh",
+            "http://dbpedia.org/resource/Eric_Cartman"
+        ],
+        [
+            "http://dbpedia.org/resource/Trey_Parker",
+            "http://dbpedia.org/resource/Randy_and_Sharon_Marsh",
+            "http://dbpedia.org/resource/Mr._Garrison"
+        ],
+        [
+            "http://dbpedia.org/resource/Trey_Parker",
+            "http://dbpedia.org/resource/List_of_South_Park_families",
+            "http://dbpedia.org/resource/List_of_students_at_South_Park_Elementary"
+        ],
+        [
+            "http://dbpedia.org/resource/Trey_Parker",
+            "http://dbpedia.org/resource/List_of_South_Park_Elementary_staff",
+            "http://dbpedia.org/resource/List_of_South_Park_families"
+        ],
+        [
+            "http://dbpedia.org/resource/Trey_Parker",
+            "http://dbpedia.org/resource/List_of_recurring_South_Park_characters",
+            "http://dbpedia.org/resource/List_of_South_Park_Elementary_staff"
+        ]
+    ]
+}

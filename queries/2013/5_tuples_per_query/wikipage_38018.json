@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Millstreet",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Green_Glens_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Millstreet",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Green_Glens_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Millstreet",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Green_Glens_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/3Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/3Arena"
+        ]
+    ]
+}

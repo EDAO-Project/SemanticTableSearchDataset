@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denver_Pioneers_ski_team",
+            "http://dbpedia.org/resource/Seattle_Redhawks",
+            "http://dbpedia.org/resource/University_of_Nevada,_Reno",
+            "http://dbpedia.org/resource/Reno,_Nevada"
+        ]
+    ]
+}

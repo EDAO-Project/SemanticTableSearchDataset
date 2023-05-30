@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Piero_Malvestiti",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Hallstein_Commission"
+        ],
+        [
+            "http://dbpedia.org/resource/Giuseppe_Caron",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Hallstein_Commission"
+        ],
+        [
+            "http://dbpedia.org/resource/Guido_Colonna_di_Paliano",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Hallstein_Commission"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_von_der_Groeben",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Rey_Commission"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilhelm_Haferkamp",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Malfatti_Commission"
+        ]
+    ]
+}

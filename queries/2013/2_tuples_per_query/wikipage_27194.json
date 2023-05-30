@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arnold,_Nottinghamshire",
+            "http://dbpedia.org/resource/Stapleford,_Nottinghamshire",
+            "http://dbpedia.org/resource/Bilborough"
+        ],
+        [
+            "http://dbpedia.org/resource/Beeston,_Nottinghamshire",
+            "http://dbpedia.org/resource/Chilwell",
+            "http://dbpedia.org/resource/A_roads_in_Zone_6_of_the_Great_Britain_numbering_scheme"
+        ]
+    ]
+}

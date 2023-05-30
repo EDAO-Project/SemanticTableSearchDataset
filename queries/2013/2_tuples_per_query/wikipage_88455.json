@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/We_Wai_Kai_Nation",
+            "http://dbpedia.org/resource/Kwakiutl_District_Council",
+            "http://dbpedia.org/resource/Vancouver_Island",
+            "http://dbpedia.org/resource/Hamatla_Treaty_Society"
+        ],
+        [
+            "http://dbpedia.org/resource/Halfway_River_First_Nation",
+            "http://dbpedia.org/resource/Treaty_8_Tribal_Association",
+            "http://dbpedia.org/resource/Peace_River_Country",
+            "http://dbpedia.org/resource/Treaty_8"
+        ]
+    ]
+}

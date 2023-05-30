@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Villanova_Wildcats",
+            "http://dbpedia.org/resource/Mountaineer_Field_at_Milan_Puskar_Stadium",
+            "http://dbpedia.org/resource/ESPN_Events"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Colorado_Buffaloes_football_team",
+            "http://dbpedia.org/resource/Folsom_Field",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Marshall_Thundering_Herd_football_team",
+            "http://dbpedia.org/resource/Mountaineer_Field_at_Milan_Puskar_Stadium",
+            "http://dbpedia.org/resource/ESPN_Events"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Rutgers_Scarlet_Knights_football_team",
+            "http://dbpedia.org/resource/Mountaineer_Field_at_Milan_Puskar_Stadium",
+            "http://dbpedia.org/resource/ESPN_Events"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Syracuse_Orange_football_team",
+            "http://dbpedia.org/resource/Mountaineer_Field_at_Milan_Puskar_Stadium",
+            "http://dbpedia.org/resource/ESPNU"
+        ]
+    ]
+}

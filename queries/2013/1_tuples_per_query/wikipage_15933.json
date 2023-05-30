@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Man_Called_Sledge",
+            "http://dbpedia.org/resource/Vic_Morrow",
+            "http://dbpedia.org/resource/James_Garner",
+            "http://dbpedia.org/resource/Spaghetti_Western"
+        ]
+    ]
+}

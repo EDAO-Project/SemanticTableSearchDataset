@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/1908_World_Series",
+            "http://dbpedia.org/resource/1945_Chicago_Cubs_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/1948_World_Series",
+            "http://dbpedia.org/resource/1997_American_League_Championship_Series"
+        ]
+    ]
+}

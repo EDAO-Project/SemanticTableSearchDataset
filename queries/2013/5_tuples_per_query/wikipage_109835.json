@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Ian_Palmer"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubai_Desert_Classic",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Seve_Ballesteros"
+        ],
+        [
+            "http://dbpedia.org/resource/Open_de_Baleares",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Seve_Ballesteros"
+        ],
+        [
+            "http://dbpedia.org/resource/Portuguese_Open",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Ronan_Rafferty"
+        ],
+        [
+            "http://dbpedia.org/resource/Volvo_Open_di_Firenze",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Anders_Forsbrand"
+        ]
+    ]
+}

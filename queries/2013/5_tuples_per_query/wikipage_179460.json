@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/National_Film_Award_for_Best_Actress",
+            "http://dbpedia.org/resource/Dhag",
+            "http://dbpedia.org/resource/Usha_Jadhav"
+        ],
+        [
+            "http://dbpedia.org/resource/National_Film_Award_for_Best_Supporting_Actor",
+            "http://dbpedia.org/resource/Vicky_Donor",
+            "http://dbpedia.org/resource/Annu_Kapoor"
+        ],
+        [
+            "http://dbpedia.org/resource/National_Film_Award_for_Best_Supporting_Actress",
+            "http://dbpedia.org/resource/Vicky_Donor",
+            "http://dbpedia.org/resource/Dolly_Ahluwalia"
+        ],
+        [
+            "http://dbpedia.org/resource/National_Film_Award_for_Best_Cinematography",
+            "http://dbpedia.org/resource/Mishing_language",
+            "http://dbpedia.org/resource/Camera_operator"
+        ],
+        [
+            "http://dbpedia.org/resource/National_Film_Award_for_Best_Screenplay",
+            "http://dbpedia.org/resource/Kahaani",
+            "http://dbpedia.org/resource/Sujoy_Ghosh"
+        ]
+    ]
+}

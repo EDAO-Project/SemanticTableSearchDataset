@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Jean_Dunn"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Prague",
+            "http://dbpedia.org/resource/Ferdinand_Trauttmansdorff"
+        ],
+        [
+            "http://dbpedia.org/resource/Botswana",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Roy_Blackbeard"
+        ],
+        [
+            "http://dbpedia.org/resource/Chad",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Djibrine_Abdoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Holy_See",
+            "http://dbpedia.org/resource/Prague",
+            "http://dbpedia.org/resource/Giuseppe_Leanza"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bergen",
+            "http://dbpedia.org/resource/Hordaland",
+            "http://dbpedia.org/resource/Norway"
+        ],
+        [
+            "http://dbpedia.org/resource/Tashkent",
+            "http://dbpedia.org/resource/Tashkent_Region",
+            "http://dbpedia.org/resource/Uzbekistan"
+        ],
+        [
+            "http://dbpedia.org/resource/Nantes",
+            "http://dbpedia.org/resource/Pays_de_la_Loire",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Christchurch",
+            "http://dbpedia.org/resource/Canterbury,_New_Zealand",
+            "http://dbpedia.org/resource/New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Mombasa",
+            "http://dbpedia.org/resource/Coast_Province",
+            "http://dbpedia.org/resource/Kenya"
+        ]
+    ]
+}

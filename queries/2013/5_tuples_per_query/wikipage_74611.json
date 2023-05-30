@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Badakhshan_Province",
+            "http://dbpedia.org/resource/Shah_Waliullah_Adeeb",
+            "http://dbpedia.org/resource/List_of_governors_of_Badakhshan"
+        ],
+        [
+            "http://dbpedia.org/resource/Balkh_Province",
+            "http://dbpedia.org/resource/Atta_Muhammad_Nur",
+            "http://dbpedia.org/resource/List_of_governors_of_Balkh"
+        ],
+        [
+            "http://dbpedia.org/resource/Bamyan_Province",
+            "http://dbpedia.org/resource/Habiba_Sarobi",
+            "http://dbpedia.org/resource/List_of_governors_of_Bamyan"
+        ],
+        [
+            "http://dbpedia.org/resource/Daykundi_Province",
+            "http://dbpedia.org/resource/Qurban_Ali_Oruzgani",
+            "http://dbpedia.org/resource/List_of_governors_of_Daykundi"
+        ],
+        [
+            "http://dbpedia.org/resource/Farah_Province",
+            "http://dbpedia.org/resource/Roohul_Amin",
+            "http://dbpedia.org/resource/List_of_governors_of_Farah"
+        ]
+    ]
+}

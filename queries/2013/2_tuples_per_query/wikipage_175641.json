@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbot_Pass",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Banff_National_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Argentine_Pass",
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Arapaho_National_Forest"
+        ]
+    ]
+}

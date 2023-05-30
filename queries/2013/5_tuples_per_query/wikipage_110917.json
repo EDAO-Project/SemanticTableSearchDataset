@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AS_Khroub",
+            "http://dbpedia.org/resource/El_Khroub",
+            "http://dbpedia.org/resource/Stade_Abed_Hamdani"
+        ],
+        [
+            "http://dbpedia.org/resource/ASO_Chlef",
+            "http://dbpedia.org/resource/Chlef",
+            "http://dbpedia.org/resource/Stade_Mohamed_Boumezrag"
+        ],
+        [
+            "http://dbpedia.org/resource/CA_Batna",
+            "http://dbpedia.org/resource/Batna,_Algeria",
+            "http://dbpedia.org/resource/Stade_Seffouhi"
+        ],
+        [
+            "http://dbpedia.org/resource/MC_Alger",
+            "http://dbpedia.org/resource/Algiers",
+            "http://dbpedia.org/resource/Stade_du_5_Juillet_1962"
+        ],
+        [
+            "http://dbpedia.org/resource/MC_El_Eulma",
+            "http://dbpedia.org/resource/El_Eulma",
+            "http://dbpedia.org/resource/Stade_Messaoud_Zougar"
+        ]
+    ]
+}

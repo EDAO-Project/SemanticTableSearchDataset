@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Volvo_China_Open",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Stephen_Dodd",
+            "http://dbpedia.org/resource/Asian_Tour"
+        ]
+    ]
+}

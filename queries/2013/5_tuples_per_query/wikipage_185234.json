@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barrington_Court",
+            "http://dbpedia.org/resource/Barrington,_Somerset",
+            "http://dbpedia.org/resource/Tudor_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Bath_Assembly_Rooms",
+            "http://dbpedia.org/resource/Bath,_Somerset",
+            "http://dbpedia.org/resource/John_Wood,_the_Younger"
+        ],
+        [
+            "http://dbpedia.org/resource/Brean_Down",
+            "http://dbpedia.org/resource/Mendip_Hills",
+            "http://dbpedia.org/resource/Promontory"
+        ],
+        [
+            "http://dbpedia.org/resource/Cadbury_Camp",
+            "http://dbpedia.org/resource/Tickenham",
+            "http://dbpedia.org/resource/Iron_Age"
+        ],
+        [
+            "http://dbpedia.org/resource/Cheddar_Gorge",
+            "http://dbpedia.org/resource/Cheddar",
+            "http://dbpedia.org/resource/Canyon"
+        ]
+    ]
+}

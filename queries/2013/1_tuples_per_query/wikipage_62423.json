@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/37th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Green_Day",
+            "http://dbpedia.org/resource/Dookie",
+            "http://dbpedia.org/resource/Tori_Amos"
+        ]
+    ]
+}

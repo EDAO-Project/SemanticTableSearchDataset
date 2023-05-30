@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shawn_Keough",
+            "http://dbpedia.org/resource/Sandpoint,_Idaho",
+            "http://dbpedia.org/resource/Bonner_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Vick",
+            "http://dbpedia.org/resource/Dalton_Gardens,_Idaho",
+            "http://dbpedia.org/resource/Kootenai_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Schmidt",
+            "http://dbpedia.org/resource/Moscow,_Idaho",
+            "http://dbpedia.org/resource/Benewah_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_G._Johnson",
+            "http://dbpedia.org/resource/Lewiston,_Idaho",
+            "http://dbpedia.org/resource/Lewis_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Sheryl_Nuxoll",
+            "http://dbpedia.org/resource/Cottonwood,_Idaho",
+            "http://dbpedia.org/resource/Clearwater_County,_Idaho"
+        ]
+    ]
+}

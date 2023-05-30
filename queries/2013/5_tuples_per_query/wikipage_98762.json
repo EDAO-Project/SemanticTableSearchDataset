@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chandra_Sturrup",
+            "http://dbpedia.org/resource/Angela_Williams",
+            "http://dbpedia.org/resource/Chryste_Gaines"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandie_Richards",
+            "http://dbpedia.org/resource/Olga_Kotlyarova",
+            "http://dbpedia.org/resource/Olesya_Zykina"
+        ],
+        [
+            "http://dbpedia.org/resource/Hasna_Benhassi",
+            "http://dbpedia.org/resource/Violeta_Szekely",
+            "http://dbpedia.org/resource/Natalya_Gorelova"
+        ],
+        [
+            "http://dbpedia.org/resource/Olga_Yegorova",
+            "http://dbpedia.org/resource/Gabriela_Szabo",
+            "http://dbpedia.org/resource/Yelena_Zadorozhnaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Anjanette_Kirkland",
+            "http://dbpedia.org/resource/Michelle_Freeman",
+            "http://dbpedia.org/resource/Nicole_Ramalalanirina"
+        ]
+    ]
+}

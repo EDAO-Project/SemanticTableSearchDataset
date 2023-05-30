@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Mississippi",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/Mississippi_River",
+            "http://dbpedia.org/resource/Memphis,_Tennessee"
+        ]
+    ]
+}

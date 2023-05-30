@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bulbarrow_Hill",
+            "http://dbpedia.org/resource/Lewesdon_Hill",
+            "http://dbpedia.org/resource/Dorset_Downs",
+            "http://dbpedia.org/resource/Paragliding"
+        ],
+        [
+            "http://dbpedia.org/resource/Telegraph_Hill,_Dorset",
+            "http://dbpedia.org/resource/Lewesdon_Hill",
+            "http://dbpedia.org/resource/Dorset_Downs",
+            "http://dbpedia.org/resource/Paragliding"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbury_Hill",
+            "http://dbpedia.org/resource/Win_Green_Down",
+            "http://dbpedia.org/resource/Cranborne_Chase",
+            "http://dbpedia.org/resource/Melbury_Abbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Breeze_Hill",
+            "http://dbpedia.org/resource/Win_Green_Down",
+            "http://dbpedia.org/resource/Cranborne_Chase",
+            "http://dbpedia.org/resource/Melbury_Abbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Watts_Hill",
+            "http://dbpedia.org/resource/Lewesdon_Hill",
+            "http://dbpedia.org/resource/Dorset_Downs",
+            "http://dbpedia.org/resource/Dorchester,_Dorset"
+        ]
+    ]
+}

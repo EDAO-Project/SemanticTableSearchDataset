@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/St._Louis_Rams",
+            "http://dbpedia.org/resource/San_Francisco_49ers",
+            "http://dbpedia.org/resource/Tokyo_Dome",
+            "http://dbpedia.org/resource/Tokyo"
+        ]
+    ]
+}

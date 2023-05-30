@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Son_in_Law",
+            "http://dbpedia.org/resource/Hollywood_Pictures",
+            "http://dbpedia.org/resource/Steve_Rash",
+            "http://dbpedia.org/resource/Comedy_film",
+            "http://dbpedia.org/resource/Live_action"
+        ]
+    ]
+}

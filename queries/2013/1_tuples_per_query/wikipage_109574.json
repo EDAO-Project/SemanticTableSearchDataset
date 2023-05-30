@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sumatra",
+            "http://dbpedia.org/resource/North_Sumatra",
+            "http://dbpedia.org/resource/Belmera_Toll_Road"
+        ]
+    ]
+}

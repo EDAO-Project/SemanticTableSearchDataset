@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mont_Blanc",
+            "http://dbpedia.org/resource/Mont_Blanc_massif",
+            "http://dbpedia.org/resource/Haute-Savoie"
+        ],
+        [
+            "http://dbpedia.org/resource/Finsteraarhorn",
+            "http://dbpedia.org/resource/Bernese_Alps",
+            "http://dbpedia.org/resource/Canton_of_Bern"
+        ]
+    ]
+}

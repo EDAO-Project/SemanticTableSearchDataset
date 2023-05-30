@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_Norwegian_First_Division",
+            "http://dbpedia.org/resource/SK_Brann",
+            "http://dbpedia.org/resource/Lyn_Fotball",
+            "http://dbpedia.org/resource/Skeid_Fotball"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Norwegian_First_Division",
+            "http://dbpedia.org/resource/Lyn_Fotball",
+            "http://dbpedia.org/resource/Fredrikstad_FK",
+            "http://dbpedia.org/resource/Sarpsborg_FK"
+        ]
+    ]
+}

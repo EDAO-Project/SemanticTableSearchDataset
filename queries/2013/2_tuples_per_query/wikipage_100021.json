@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sing_the_Changes",
+            "http://dbpedia.org/resource/Paul_McCartney",
+            "http://dbpedia.org/resource/Good_Evening_New_York_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Holy_Wars..._The_Punishment_Due",
+            "http://dbpedia.org/resource/Megadeth",
+            "http://dbpedia.org/resource/Rust_in_Peace"
+        ]
+    ]
+}

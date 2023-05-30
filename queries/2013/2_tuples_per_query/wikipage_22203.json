@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Endoderm",
+            "http://dbpedia.org/resource/Large_intestine",
+            "http://dbpedia.org/resource/Colorectal_polyp"
+        ],
+        [
+            "http://dbpedia.org/resource/Endoderm",
+            "http://dbpedia.org/resource/Gland",
+            "http://dbpedia.org/resource/Adenoma"
+        ]
+    ]
+}

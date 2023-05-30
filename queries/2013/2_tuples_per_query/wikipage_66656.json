@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_De_Man",
+            "http://dbpedia.org/resource/Roda_JC_Kerkrade",
+            "http://dbpedia.org/resource/Beerschot_AC"
+        ],
+        [
+            "http://dbpedia.org/resource/Wouter_Degroote",
+            "http://dbpedia.org/resource/F.C._Verbroedering_Dender_Eendracht_Hekelgem",
+            "http://dbpedia.org/resource/SC_Eendracht_Aalst"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fleming,_New_York",
+            "http://dbpedia.org/resource/Aurelius,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Route_326"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_34B",
+            "http://dbpedia.org/resource/Fleming,_New_York",
+            "http://dbpedia.org/resource/Aurelius,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn,_New_York",
+            "http://dbpedia.org/resource/Aurelius,_New_York",
+            "http://dbpedia.org/resource/Throop,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Throop,_New_York",
+            "http://dbpedia.org/resource/Sennett,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Route_5"
+        ],
+        [
+            "http://dbpedia.org/resource/Aurelius,_New_York",
+            "http://dbpedia.org/resource/Throop,_New_York",
+            "http://dbpedia.org/resource/Sennett,_New_York"
+        ]
+    ]
+}

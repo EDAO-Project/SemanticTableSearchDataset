@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leo_Esaki",
+            "http://dbpedia.org/resource/Ernst_Otto_Fischer",
+            "http://dbpedia.org/resource/Karl_von_Frisch",
+            "http://dbpedia.org/resource/Patrick_White",
+            "http://dbpedia.org/resource/Henry_Kissinger",
+            "http://dbpedia.org/resource/Wassily_Leontief"
+        ]
+    ]
+}

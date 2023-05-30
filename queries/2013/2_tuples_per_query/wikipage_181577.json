@@ -1,0 +1,17 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mont-Terrible",
+            "http://dbpedia.org/resource/Porrentruy",
+            "http://dbpedia.org/resource/Porrentruy",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Holy_Roman_Empire"
+        ],
+        [
+            "http://dbpedia.org/resource/Corcyre",
+            "http://dbpedia.org/resource/Corfu",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Republic_of_Venice"
+        ]
+    ]
+}

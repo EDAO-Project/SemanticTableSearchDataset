@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brunei",
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Sarawak"
+        ]
+    ]
+}

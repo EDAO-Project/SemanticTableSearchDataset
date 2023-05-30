@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Glenn_Turner",
+            "http://dbpedia.org/resource/New_Zealand_national_cricket_team",
+            "http://dbpedia.org/resource/East_Africa_cricket_team",
+            "http://dbpedia.org/resource/Edgbaston_Cricket_Ground"
+        ]
+    ]
+}

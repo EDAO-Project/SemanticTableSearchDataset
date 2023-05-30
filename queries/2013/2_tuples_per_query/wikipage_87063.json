@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Christine_Arron",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/1998_European_Athletics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Heike_Drechsler",
+            "http://dbpedia.org/resource/East_Germany",
+            "http://dbpedia.org/resource/1986_European_Athletics_Championships"
+        ]
+    ]
+}

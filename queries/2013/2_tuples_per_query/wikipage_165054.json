@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arunachal_Pradesh",
+            "http://dbpedia.org/resource/Gayal",
+            "http://dbpedia.org/resource/Great_hornbill",
+            "http://dbpedia.org/resource/Dipterocarpus_macrocarpus",
+            "http://dbpedia.org/resource/Cypripedioideae"
+        ],
+        [
+            "http://dbpedia.org/resource/Bihar",
+            "http://dbpedia.org/resource/Gaur",
+            "http://dbpedia.org/resource/Indian_roller",
+            "http://dbpedia.org/resource/Ficus_religiosa",
+            "http://dbpedia.org/resource/Phanera_variegata"
+        ]
+    ]
+}

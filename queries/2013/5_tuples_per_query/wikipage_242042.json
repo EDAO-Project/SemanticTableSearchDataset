@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_in_sports",
+            "http://dbpedia.org/resource/John_Pont",
+            "http://dbpedia.org/resource/Indiana_University_Bloomington"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_in_sports",
+            "http://dbpedia.org/resource/Woody_Hayes",
+            "http://dbpedia.org/resource/Ohio_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_in_sports",
+            "http://dbpedia.org/resource/Bo_Schembechler",
+            "http://dbpedia.org/resource/University_of_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_in_sports",
+            "http://dbpedia.org/resource/Joe_Paterno",
+            "http://dbpedia.org/resource/Pennsylvania_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_in_sports",
+            "http://dbpedia.org/resource/Johnny_Majors",
+            "http://dbpedia.org/resource/University_of_Pittsburgh"
+        ]
+    ]
+}

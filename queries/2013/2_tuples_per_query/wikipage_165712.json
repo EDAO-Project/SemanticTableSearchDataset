@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bobby_Labonte",
+            "http://dbpedia.org/resource/2012_Daytona_500",
+            "http://dbpedia.org/resource/Daytona_International_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Harvick",
+            "http://dbpedia.org/resource/2012_Subway_Fresh_Fit_500",
+            "http://dbpedia.org/resource/Phoenix_International_Raceway"
+        ]
+    ]
+}

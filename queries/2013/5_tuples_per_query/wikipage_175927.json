@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Royal_Farms_Arena",
+            "http://dbpedia.org/resource/Baltimore",
+            "http://dbpedia.org/resource/Baltimore_Blast"
+        ],
+        [
+            "http://dbpedia.org/resource/Allen_County_War_Memorial_Coliseum",
+            "http://dbpedia.org/resource/Fort_Wayne,_Indiana",
+            "http://dbpedia.org/resource/Fort_Wayne_Komets"
+        ],
+        [
+            "http://dbpedia.org/resource/Allstate_Arena",
+            "http://dbpedia.org/resource/Rosemont,_Illinois",
+            "http://dbpedia.org/resource/Chicago_Rush"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Airlines_Center",
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/Dallas_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Airlines_Arena",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Miami_Heat"
+        ]
+    ]
+}

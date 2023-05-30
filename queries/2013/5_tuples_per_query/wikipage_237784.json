@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/38th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Lena_Horne",
+            "http://dbpedia.org/resource/An_Evening_with_Lena_Horne",
+            "http://dbpedia.org/resource/Dee_Dee_Bridgewater"
+        ],
+        [
+            "http://dbpedia.org/resource/39th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Cassandra_Wilson",
+            "http://dbpedia.org/resource/New_Moon_Daughter",
+            "http://dbpedia.org/resource/Ernestine_Anderson"
+        ],
+        [
+            "http://dbpedia.org/resource/40th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Dee_Dee_Bridgewater",
+            "http://dbpedia.org/resource/Dear_Ella",
+            "http://dbpedia.org/resource/Kurt_Elling"
+        ],
+        [
+            "http://dbpedia.org/resource/41st_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Shirley_Horn",
+            "http://dbpedia.org/resource/I_Remember_Miles",
+            "http://dbpedia.org/resource/Kurt_Elling"
+        ],
+        [
+            "http://dbpedia.org/resource/42nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Diana_Krall",
+            "http://dbpedia.org/resource/When_I_Look_in_Your_Eyes",
+            "http://dbpedia.org/resource/Carla_Cook"
+        ]
+    ]
+}

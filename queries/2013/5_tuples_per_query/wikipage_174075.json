@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kathleen_Lonsdale",
+            "http://dbpedia.org/resource/Crystallography",
+            "http://dbpedia.org/resource/Davy_Medal"
+        ],
+        [
+            "http://dbpedia.org/resource/Mary_Cartwright",
+            "http://dbpedia.org/resource/Mathematics",
+            "http://dbpedia.org/resource/Sylvester_Medal"
+        ],
+        [
+            "http://dbpedia.org/resource/Dorothy_Hodgkin",
+            "http://dbpedia.org/resource/Biochemistry",
+            "http://dbpedia.org/resource/Royal_Medal"
+        ],
+        [
+            "http://dbpedia.org/resource/Marthe_Vogt",
+            "http://dbpedia.org/resource/Neurology",
+            "http://dbpedia.org/resource/Royal_Medal"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlotte_Auerbach",
+            "http://dbpedia.org/resource/Zoology",
+            "http://dbpedia.org/resource/Darwin_Medal"
+        ]
+    ]
+}

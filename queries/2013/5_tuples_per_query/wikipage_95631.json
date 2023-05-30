@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/19th_European_Film_Awards",
+            "http://dbpedia.org/resource/Susanne_Bier",
+            "http://dbpedia.org/resource/After_the_Wedding"
+        ],
+        [
+            "http://dbpedia.org/resource/19th_European_Film_Awards",
+            "http://dbpedia.org/resource/Emanuele_Crialese",
+            "http://dbpedia.org/resource/Nuovomondo"
+        ],
+        [
+            "http://dbpedia.org/resource/19th_European_Film_Awards",
+            "http://dbpedia.org/resource/Florian_Henckel_von_Donnersmarck",
+            "http://dbpedia.org/resource/The_Lives_of_Others"
+        ],
+        [
+            "http://dbpedia.org/resource/19th_European_Film_Awards",
+            "http://dbpedia.org/resource/Ken_Loach",
+            "http://dbpedia.org/resource/The_Wind_That_Shakes_the_Barley",
+            "http://dbpedia.org/resource/The_Wind_That_Shakes_the_Barley"
+        ],
+        [
+            "http://dbpedia.org/resource/20th_European_Film_Awards",
+            "http://dbpedia.org/resource/Cristian_Mungiu",
+            "http://dbpedia.org/resource/4_Months,_3_Weeks_and_2_Days"
+        ]
+    ]
+}

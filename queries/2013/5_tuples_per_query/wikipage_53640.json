@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bukit_Jalil_National_Stadium",
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Malaysia_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Shah_Alam_Stadium",
+            "http://dbpedia.org/resource/Shah_Alam",
+            "http://dbpedia.org/resource/Selangor_FA"
+        ],
+        [
+            "http://dbpedia.org/resource/Sultan_Mizan_Zainal_Abidin_Stadium",
+            "http://dbpedia.org/resource/Kuala_Terengganu",
+            "http://dbpedia.org/resource/Terengganu_FA"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarawak_Stadium",
+            "http://dbpedia.org/resource/Kuching",
+            "http://dbpedia.org/resource/Sarawak_FA"
+        ],
+        [
+            "http://dbpedia.org/resource/Penang_State_Stadium",
+            "http://dbpedia.org/resource/Batu_Kawan",
+            "http://dbpedia.org/resource/Penang_FA"
+        ]
+    ]
+}

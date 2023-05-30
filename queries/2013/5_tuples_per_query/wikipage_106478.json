@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Colorado",
+            "http://dbpedia.org/resource/John_F._Shafroth",
+            "http://dbpedia.org/resource/Lawrence_C._Phipps"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Georgia",
+            "http://dbpedia.org/resource/Thomas_W._Hardwick",
+            "http://dbpedia.org/resource/William_J._Harris"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Illinois",
+            "http://dbpedia.org/resource/J._Hamilton_Lewis",
+            "http://dbpedia.org/resource/Joseph_M._McCormick"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Kansas",
+            "http://dbpedia.org/resource/William_Howard_Thompson",
+            "http://dbpedia.org/resource/Arthur_Capper"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Kentucky",
+            "http://dbpedia.org/resource/George_B._Martin",
+            "http://dbpedia.org/resource/Augustus_Owsley_Stanley"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/1998_Texas_Longhorns_football_team",
+            "http://dbpedia.org/resource/Cotton_Bowl_Classic",
+            "http://dbpedia.org/resource/Mississippi_State_Bulldogs_football"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/2000_Texas_Longhorns_football_team",
+            "http://dbpedia.org/resource/2000_Holiday_Bowl",
+            "http://dbpedia.org/resource/2000_Oregon_Ducks_football_team"
+        ]
+    ]
+}

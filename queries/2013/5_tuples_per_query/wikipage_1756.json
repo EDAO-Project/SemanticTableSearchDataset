@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Fairuz_Fauzy"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Ferdinando_Monfardini"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Franck_Perera"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Kazuki_Nakajima"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_GP2_Series_season",
+            "http://dbpedia.org/resource/Dallara",
+            "http://dbpedia.org/resource/Nicolas_Lapierre"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abciximab",
+            "http://dbpedia.org/resource/Eli_Lilly",
+            "http://dbpedia.org/resource/Glycoprotein",
+            "http://dbpedia.org/resource/Cardiovascular_disease"
+        ]
+    ]
+}

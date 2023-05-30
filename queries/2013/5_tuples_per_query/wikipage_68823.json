@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Jose_Earthquakes",
+            "http://dbpedia.org/resource/Quincy_Amarikwa",
+            "http://dbpedia.org/resource/University_of_California,_Davis"
+        ],
+        [
+            "http://dbpedia.org/resource/LA_Galaxy",
+            "http://dbpedia.org/resource/Joshua_Boateng",
+            "http://dbpedia.org/resource/Liberty_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_FC",
+            "http://dbpedia.org/resource/Mike_Grella",
+            "http://dbpedia.org/resource/Duke_University"
+        ],
+        [
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/Brandon_Barklage",
+            "http://dbpedia.org/resource/Saint_Louis_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Rapids",
+            "http://dbpedia.org/resource/Steward_Ceus",
+            "http://dbpedia.org/resource/University_at_Albany,_SUNY"
+        ]
+    ]
+}

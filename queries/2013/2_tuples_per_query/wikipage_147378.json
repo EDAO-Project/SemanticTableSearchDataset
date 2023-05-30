@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Diamondbacks",
+            "http://dbpedia.org/resource/National_League_West",
+            "http://dbpedia.org/resource/Kevin_Towers",
+            "http://dbpedia.org/resource/Jerry_Dipoto"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/National_League_East",
+            "http://dbpedia.org/resource/Frank_Wren",
+            "http://dbpedia.org/resource/John_Schuerholz"
+        ]
+    ]
+}

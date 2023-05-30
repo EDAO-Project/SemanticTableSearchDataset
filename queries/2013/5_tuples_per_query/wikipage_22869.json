@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gran_Premio_della_Costa_Etruschi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Alessandro_Petacchi",
+            "http://dbpedia.org/resource/Fassa_Bortolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Vuelta_a_Mallorca",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Alejandro_Valverde",
+            "http://dbpedia.org/resource/Movistar_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Vuelta_a_Mallorca",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Alejandro_Valverde",
+            "http://dbpedia.org/resource/Movistar_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Trofeo_Laigueglia",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Kim_Kirchen",
+            "http://dbpedia.org/resource/Fassa_Bortolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Trofeo_Luis_Puig",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Alessandro_Petacchi",
+            "http://dbpedia.org/resource/Fassa_Bortolo"
+        ]
+    ]
+}

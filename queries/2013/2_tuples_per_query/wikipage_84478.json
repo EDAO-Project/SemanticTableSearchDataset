@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mush_March",
+            "http://dbpedia.org/resource/Chicago_Blackhawks",
+            "http://dbpedia.org/resource/1934_Stanley_Cup_Finals",
+            "http://dbpedia.org/resource/Wilf_Cude",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Bryan_Hextall",
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/1940_Stanley_Cup_Finals",
+            "http://dbpedia.org/resource/Turk_Broda",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs"
+        ]
+    ]
+}

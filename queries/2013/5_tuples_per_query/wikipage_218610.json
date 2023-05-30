@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Metcalf_Bowler",
+            "http://dbpedia.org/resource/Colony_of_Rhode_Island_and_Providence_Plantations",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Bryan",
+            "http://dbpedia.org/resource/Province_of_Pennsylvania",
+            "http://dbpedia.org/resource/Kingdom_of_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/Hendrick_Fisher",
+            "http://dbpedia.org/resource/Province_of_New_Jersey",
+            "http://dbpedia.org/resource/Bound_Brook,_New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Christopher_Gadsden",
+            "http://dbpedia.org/resource/Province_of_South_Carolina",
+            "http://dbpedia.org/resource/Sons_of_Liberty"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Samuel_Johnson",
+            "http://dbpedia.org/resource/Connecticut_Colony",
+            "http://dbpedia.org/resource/United_States_Constitution"
+        ]
+    ]
+}

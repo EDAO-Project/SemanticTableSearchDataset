@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Isabel_Jay",
+            "http://dbpedia.org/resource/The_Pirates_of_Penzance",
+            "http://dbpedia.org/resource/Gilbert_and_Sullivan"
+        ]
+    ]
+}

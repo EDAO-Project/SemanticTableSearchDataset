@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bellwoods",
+            "http://dbpedia.org/resource/Arthur_Roebuck",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bracondale",
+            "http://dbpedia.org/resource/Arthur_Russell_Nesbitt",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_South",
+            "http://dbpedia.org/resource/Lambert_Peter_Wigle",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Grey_North",
+            "http://dbpedia.org/resource/David_James_Taylor",
+            "http://dbpedia.org/resource/Liberal-Progressive"
+        ],
+        [
+            "http://dbpedia.org/resource/Grey_South",
+            "http://dbpedia.org/resource/Farquhar_Oliver",
+            "http://dbpedia.org/resource/United_Farmers_of_Ontario"
+        ]
+    ]
+}

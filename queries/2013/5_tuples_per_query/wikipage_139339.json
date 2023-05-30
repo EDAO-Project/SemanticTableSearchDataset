@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/MSG_Plus",
+            "http://dbpedia.org/resource/Mike_Emrick",
+            "http://dbpedia.org/resource/Peter_McNab"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/NHL_on_Fox",
+            "http://dbpedia.org/resource/Jiggs_McDonald",
+            "http://dbpedia.org/resource/Peter_McNab"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/ESPN_National_Hockey_Night",
+            "http://dbpedia.org/resource/Gary_Thorne",
+            "http://dbpedia.org/resource/Bill_Clement"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/ESPN_National_Hockey_Night",
+            "http://dbpedia.org/resource/Gary_Thorne",
+            "http://dbpedia.org/resource/Bill_Clement"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/NHL_on_NBC",
+            "http://dbpedia.org/resource/Chris_Cuthbert",
+            "http://dbpedia.org/resource/Glenn_Healy"
+        ]
+    ]
+}

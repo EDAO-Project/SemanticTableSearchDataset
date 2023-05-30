@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Read_Hall_and_Park",
+            "http://dbpedia.org/resource/Read,_Lancashire",
+            "http://dbpedia.org/resource/Country_house"
+        ],
+        [
+            "http://dbpedia.org/resource/Hutton_in_the_Forest",
+            "http://dbpedia.org/resource/Unthank,_Skelton",
+            "http://dbpedia.org/resource/Country_house"
+        ]
+    ]
+}

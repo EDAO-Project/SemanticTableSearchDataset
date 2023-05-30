@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1959_Scotch_Cup",
+            "http://dbpedia.org/resource/Falkirk",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Scotland"
+        ]
+    ]
+}

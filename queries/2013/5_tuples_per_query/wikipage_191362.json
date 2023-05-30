@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Arizona_Veterans_Memorial_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Gexa_Energy_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Austin,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Frank_Erwin_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Woodlands,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cynthia_Woods_Mitchell_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Miami_Arena"
+        ]
+    ]
+}

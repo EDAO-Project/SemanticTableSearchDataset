@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russky_Bridge",
+            "http://dbpedia.org/resource/Vladivostok",
+            "http://dbpedia.org/resource/Russia"
+        ]
+    ]
+}

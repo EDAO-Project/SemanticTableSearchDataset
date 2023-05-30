@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Tour_de_Langkawi",
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Jonathan_Monsalve",
+            "http://dbpedia.org/resource/Androni-Sidermec"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Tour_of_Qatar",
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Mark_Renshaw",
+            "http://dbpedia.org/resource/HTC-Highroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Tour_de_Mumbai",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Elia_Viviani",
+            "http://dbpedia.org/resource/Cannondale_Pro_Cycling_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Tour_of_Oman",
+            "http://dbpedia.org/resource/Oman",
+            "http://dbpedia.org/resource/Robert_Gesink",
+            "http://dbpedia.org/resource/Team_LottoNL-Jumbo"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Asian_Cycling_Championships",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Evgeny_Vakker",
+            "http://dbpedia.org/resource/Kyrgyzstan"
+        ]
+    ]
+}

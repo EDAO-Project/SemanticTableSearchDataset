@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Communist_Party_of_Denmark",
+            "http://dbpedia.org/resource/Knud_Jespersen",
+            "http://dbpedia.org/resource/Danish_general_election,_1975"
+        ]
+    ]
+}

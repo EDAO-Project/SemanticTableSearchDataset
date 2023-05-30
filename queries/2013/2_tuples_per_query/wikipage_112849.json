@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfred_Dunhill_Championship",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Anthony_Wall"
+        ],
+        [
+            "http://dbpedia.org/resource/Heineken_Classic",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Michael_Campbell"
+        ]
+    ]
+}

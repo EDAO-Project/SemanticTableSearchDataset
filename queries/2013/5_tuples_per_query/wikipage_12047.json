@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jason_Spezza",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Windsor_Spitfires"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Gleason",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Windsor_Spitfires"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_Uchevatov",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Lokomotiv_Yaroslavl"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Emery",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Sault_Ste._Marie_Greyhounds"
+        ],
+        [
+            "http://dbpedia.org/resource/Christoph_Schubert",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Munich_Barons"
+        ]
+    ]
+}

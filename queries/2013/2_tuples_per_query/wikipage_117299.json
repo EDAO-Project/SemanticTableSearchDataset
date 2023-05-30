@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maria_Marten,_or_the_Mystery_of_the_Red_Barn",
+            "http://dbpedia.org/resource/Maurice_Elvey",
+            "http://dbpedia.org/resource/Red_Barn_Murder"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Narrow_Valley",
+            "http://dbpedia.org/resource/Cecil_Hepworth",
+            "http://dbpedia.org/resource/Alma_Taylor"
+        ]
+    ]
+}

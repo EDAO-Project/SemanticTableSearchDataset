@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/1904_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/1893_All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Cork_GAA",
+            "http://dbpedia.org/resource/1890_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/1901_All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Tipperary_GAA",
+            "http://dbpedia.org/resource/1887_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/1909_All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Limerick_GAA",
+            "http://dbpedia.org/resource/1897_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/1910_All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/1889_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/1892_All-Ireland_Senior_Hurling_Championship"
+        ]
+    ]
+}

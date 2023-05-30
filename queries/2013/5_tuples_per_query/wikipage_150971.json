@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tachiguishi-Retsuden",
+            "http://dbpedia.org/resource/Mamoru_Oshii",
+            "http://dbpedia.org/resource/Production_I.G"
+        ],
+        [
+            "http://dbpedia.org/resource/Bambi_II",
+            "http://dbpedia.org/resource/Brian_Pimental",
+            "http://dbpedia.org/resource/Walt_Disney_Studios_Home_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Bleach:_Memories_of_Nobody",
+            "http://dbpedia.org/resource/Noriyuki_Abe",
+            "http://dbpedia.org/resource/Toho"
+        ],
+        [
+            "http://dbpedia.org/resource/Bratz_Babyz",
+            "http://dbpedia.org/resource/Davis_Doi",
+            "http://dbpedia.org/resource/Deluxe_Entertainment_Services_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Codename:_Kids_Next_Door_episodes",
+            "http://dbpedia.org/resource/Tom_Warburton",
+            "http://dbpedia.org/resource/Curious_Pictures"
+        ]
+    ]
+}

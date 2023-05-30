@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/27th_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/Doug",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/28th_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/Dragon_Tales",
+            "http://dbpedia.org/resource/PBS"
+        ],
+        [
+            "http://dbpedia.org/resource/28th_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/Madeline",
+            "http://dbpedia.org/resource/Disney_Channel"
+        ],
+        [
+            "http://dbpedia.org/resource/28th_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/The_Wild_Thornberrys",
+            "http://dbpedia.org/resource/Nickelodeon"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/Madeline",
+            "http://dbpedia.org/resource/Disney_Channel"
+        ]
+    ]
+}

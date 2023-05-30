@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brands_Hatch",
+            "http://dbpedia.org/resource/Leon_Haslam",
+            "http://dbpedia.org/resource/Ryuichi_Kiyonari"
+        ],
+        [
+            "http://dbpedia.org/resource/Brands_Hatch",
+            "http://dbpedia.org/resource/Leon_Haslam",
+            "http://dbpedia.org/resource/Ryuichi_Kiyonari"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chester_A._Arthur_Home",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Chester_A._Arthur"
+        ]
+    ]
+}

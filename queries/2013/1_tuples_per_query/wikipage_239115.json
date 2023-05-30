@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Daisuke_Matsuzaka",
+            "http://dbpedia.org/resource/Zack_Greinke",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ]
+    ]
+}

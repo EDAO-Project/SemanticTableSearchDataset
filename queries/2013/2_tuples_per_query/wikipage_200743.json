@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Independent_city",
+            "http://dbpedia.org/resource/Independent_city",
+            "http://dbpedia.org/resource/Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Potomac_River",
+            "http://dbpedia.org/resource/Potomac_River",
+            "http://dbpedia.org/resource/Woodrow_Wilson_Bridge",
+            "http://dbpedia.org/resource/Woodrow_Wilson_Bridge",
+            "http://dbpedia.org/resource/Woodrow_Wilson_Bridge"
+        ]
+    ]
+}

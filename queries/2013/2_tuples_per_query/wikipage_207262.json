@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama_Crimson_Tide_football",
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Tuscaloosa,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Southeastern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_Tigers_football",
+            "http://dbpedia.org/resource/Auburn_University",
+            "http://dbpedia.org/resource/Auburn,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Southeastern_Conference"
+        ]
+    ]
+}

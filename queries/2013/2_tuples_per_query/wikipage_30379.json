@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Altrincham_Interchange",
+            "http://dbpedia.org/resource/Northern_Rail",
+            "http://dbpedia.org/resource/Mid-Cheshire_Line",
+            "http://dbpedia.org/resource/Trafford"
+        ],
+        [
+            "http://dbpedia.org/resource/Ardwick_railway_station",
+            "http://dbpedia.org/resource/Northern_Rail",
+            "http://dbpedia.org/resource/Glossop_Line",
+            "http://dbpedia.org/resource/Manchester"
+        ]
+    ]
+}

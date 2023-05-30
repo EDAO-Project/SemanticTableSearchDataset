@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brunei",
+            "http://dbpedia.org/resource/Bandar_Seri_Begawan",
+            "http://dbpedia.org/resource/Brunei_dollar",
+            "http://dbpedia.org/resource/Malay_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Myanmar",
+            "http://dbpedia.org/resource/Naypyidaw",
+            "http://dbpedia.org/resource/Burmese_kyat",
+            "http://dbpedia.org/resource/Burmese_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Cambodia",
+            "http://dbpedia.org/resource/Phnom_Penh",
+            "http://dbpedia.org/resource/Cambodian_riel",
+            "http://dbpedia.org/resource/Khmer_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Jakarta",
+            "http://dbpedia.org/resource/Indonesian_rupiah",
+            "http://dbpedia.org/resource/Indonesian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Laos",
+            "http://dbpedia.org/resource/Vientiane",
+            "http://dbpedia.org/resource/Lao_kip",
+            "http://dbpedia.org/resource/Lao_language"
+        ]
+    ]
+}

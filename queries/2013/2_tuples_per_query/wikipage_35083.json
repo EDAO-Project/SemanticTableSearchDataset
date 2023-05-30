@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marcus_Bai",
+            "http://dbpedia.org/resource/Gold_Coast_Chargers",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Russell_Bawden",
+            "http://dbpedia.org/resource/Brisbane_Broncos",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ]
+    ]
+}

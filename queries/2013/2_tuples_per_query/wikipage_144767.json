@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1895_in_Argentine_football",
+            "http://dbpedia.org/resource/Lomas_Athletic_Club",
+            "http://dbpedia.org/resource/Lomas_Academy",
+            "http://dbpedia.org/resource/Flores_Athletic_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/1896_in_Argentine_football",
+            "http://dbpedia.org/resource/Lomas_Academy",
+            "http://dbpedia.org/resource/Flores_Athletic_Club",
+            "http://dbpedia.org/resource/Lomas_Athletic_Club"
+        ]
+    ]
+}

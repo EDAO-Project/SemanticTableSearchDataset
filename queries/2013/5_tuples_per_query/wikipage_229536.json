@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arkansas_State_Red_Wolves_football",
+            "http://dbpedia.org/resource/Southland_Conference",
+            "http://dbpedia.org/resource/NCAA_Division_I_FBS_independent_schools",
+            "http://dbpedia.org/resource/Sun_Belt_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Cal_Poly_Mustangs_football",
+            "http://dbpedia.org/resource/American_West_Conference",
+            "http://dbpedia.org/resource/Great_West_Conference",
+            "http://dbpedia.org/resource/Big_Sky_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Duquesne_Dukes_football",
+            "http://dbpedia.org/resource/NCAA_Division_III_independent_schools",
+            "http://dbpedia.org/resource/Metro_Atlantic_Athletic_Conference",
+            "http://dbpedia.org/resource/Northeast_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Elon_Phoenix_football",
+            "http://dbpedia.org/resource/NCAA_Division_II_independent_schools",
+            "http://dbpedia.org/resource/Big_South_Conference",
+            "http://dbpedia.org/resource/Southern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Madison_Dukes_football",
+            "http://dbpedia.org/resource/NCAA_Division_III_independent_schools",
+            "http://dbpedia.org/resource/Yankee_Conference",
+            "http://dbpedia.org/resource/Colonial_Athletic_Association"
+        ]
+    ]
+}

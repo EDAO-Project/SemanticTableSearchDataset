@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Army_Training_and_Doctrine_Command",
+            "http://dbpedia.org/resource/Robert_W._Cone",
+            "http://dbpedia.org/resource/Fort_Eustis"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Army_Materiel_Command",
+            "http://dbpedia.org/resource/Dennis_L._Via",
+            "http://dbpedia.org/resource/Redstone_Arsenal"
+        ]
+    ]
+}

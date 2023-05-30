@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_van_Dongen",
+            "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+            "http://dbpedia.org/resource/Abbotsford_South"
+        ],
+        [
+            "http://dbpedia.org/resource/John_van_Dongen",
+            "http://dbpedia.org/resource/British_Columbia_Conservative_Party",
+            "http://dbpedia.org/resource/Abbotsford_South"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_de_Jong",
+            "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+            "http://dbpedia.org/resource/Abbotsford_West"
+        ],
+        [
+            "http://dbpedia.org/resource/Randy_Hawes",
+            "http://dbpedia.org/resource/British_Columbia_Liberal_Party",
+            "http://dbpedia.org/resource/Abbotsford-Mission"
+        ],
+        [
+            "http://dbpedia.org/resource/Kathy_Corrigan",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party",
+            "http://dbpedia.org/resource/Burnaby-Deer_Lake"
+        ]
+    ]
+}

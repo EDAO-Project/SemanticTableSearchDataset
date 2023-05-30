@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CKCQ-FM",
+            "http://dbpedia.org/resource/100_Mile_House",
+            "http://dbpedia.org/resource/Vista_Broadcast_Group",
+            "http://dbpedia.org/resource/Country_music"
+        ],
+        [
+            "http://dbpedia.org/resource/CFFM-FM",
+            "http://dbpedia.org/resource/100_Mile_House",
+            "http://dbpedia.org/resource/Vista_Broadcast_Group",
+            "http://dbpedia.org/resource/Active_rock"
+        ],
+        [
+            "http://dbpedia.org/resource/CKKS-FM",
+            "http://dbpedia.org/resource/Abbotsford,_British_Columbia",
+            "http://dbpedia.org/resource/Rogers_Communications",
+            "http://dbpedia.org/resource/Contemporary_hit_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/CIVL-FM",
+            "http://dbpedia.org/resource/Abbotsford,_British_Columbia",
+            "http://dbpedia.org/resource/University_of_the_Fraser_Valley",
+            "http://dbpedia.org/resource/Campus_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/CKQC-FM",
+            "http://dbpedia.org/resource/Abbotsford,_British_Columbia",
+            "http://dbpedia.org/resource/Rogers_Communications",
+            "http://dbpedia.org/resource/Country_music"
+        ]
+    ]
+}

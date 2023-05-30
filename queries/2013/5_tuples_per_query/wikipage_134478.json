@@ -1,0 +1,28 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daytona_International_Speedway",
+            "http://dbpedia.org/resource/Ian_Baas",
+            "http://dbpedia.org/resource/Ian_Baas"
+        ],
+        [
+            "http://dbpedia.org/resource/Homestead-Miami_Speedway",
+            "http://dbpedia.org/resource/Turner_Motorsport",
+            "http://dbpedia.org/resource/Turner_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Homestead-Miami_Speedway",
+            "http://dbpedia.org/resource/Bill_Auberlen",
+            "http://dbpedia.org/resource/Bill_Auberlen"
+        ],
+        [
+            "http://dbpedia.org/resource/Homestead-Miami_Speedway",
+            "http://dbpedia.org/resource/Ian_Baas"
+        ],
+        [
+            "http://dbpedia.org/resource/Barber_Motorsports_Park",
+            "http://dbpedia.org/resource/Multimatic_Motorsports",
+            "http://dbpedia.org/resource/Multimatic_Motorsports"
+        ]
+    ]
+}

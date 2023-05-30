@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/International_Medical_and_Technological_University",
+            "http://dbpedia.org/resource/Vignan_Educational_Foundation",
+            "http://dbpedia.org/resource/Dar_es_Salaam_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Tumaini_University_Makumira",
+            "http://dbpedia.org/resource/Evangelical_Lutheran_Church_in_Tanzania",
+            "http://dbpedia.org/resource/Arusha_Region"
+        ]
+    ]
+}

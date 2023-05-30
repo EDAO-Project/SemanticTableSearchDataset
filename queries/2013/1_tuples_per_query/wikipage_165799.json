@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlantic_Motorsport_Park",
+            "http://dbpedia.org/resource/Shubenacadie,_Nova_Scotia",
+            "http://dbpedia.org/resource/Nova_Scotia",
+            "http://dbpedia.org/resource/Canadian_Superbike_Championship"
+        ]
+    ]
+}

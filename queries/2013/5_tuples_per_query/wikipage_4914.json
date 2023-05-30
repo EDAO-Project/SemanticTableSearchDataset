@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1956_in_film",
+            "http://dbpedia.org/resource/Afternoon_of_the_Bulls",
+            "http://dbpedia.org/resource/Ladislao_Vajda"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_in_film",
+            "http://dbpedia.org/resource/Calle_Mayor",
+            "http://dbpedia.org/resource/Juan_Antonio_Bardem"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_in_film",
+            "http://dbpedia.org/resource/Los_Tarantos",
+            "http://dbpedia.org/resource/Francisco_Rovira_Beleta"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_in_film",
+            "http://dbpedia.org/resource/The_Girl_in_Mourning",
+            "http://dbpedia.org/resource/Manuel_Summers"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_in_film",
+            "http://dbpedia.org/resource/Bewitched_Love",
+            "http://dbpedia.org/resource/Francisco_Rovira_Beleta"
+        ]
+    ]
+}

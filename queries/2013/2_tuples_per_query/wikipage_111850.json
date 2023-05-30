@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Martin_Biron",
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Tanguay",
+            "http://dbpedia.org/resource/Calgary_Flames",
+            "http://dbpedia.org/resource/Tampa_Bay_Lightning"
+        ]
+    ]
+}

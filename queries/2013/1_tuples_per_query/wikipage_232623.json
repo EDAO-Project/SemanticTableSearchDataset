@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fred_Akers",
+            "http://dbpedia.org/resource/University_of_Arkansas",
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+        ]
+    ]
+}

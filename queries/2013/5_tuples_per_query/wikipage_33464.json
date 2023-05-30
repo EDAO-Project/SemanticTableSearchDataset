@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sione_Mafileo",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/North_Harbour_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_Tuipulotu",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Auckland_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordan_Manihera",
+            "http://dbpedia.org/resource/Loose_forward",
+            "http://dbpedia.org/resource/North_Harbour_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Ardie_Savea",
+            "http://dbpedia.org/resource/Loose_forward",
+            "http://dbpedia.org/resource/Wellington_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Tayler_Adams",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Southland_Rugby_Football_Union"
+        ]
+    ]
+}

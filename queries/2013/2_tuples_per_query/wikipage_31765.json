@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Nina_Zhuk",
+            "http://dbpedia.org/resource/Ludmila_Belousova",
+            "http://dbpedia.org/resource/Maya_Belenkaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Nina_Zhuk",
+            "http://dbpedia.org/resource/Ludmila_Belousova",
+            "http://dbpedia.org/resource/Maya_Belenkaya"
+        ]
+    ]
+}

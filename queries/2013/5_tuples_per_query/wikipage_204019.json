@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acushnet_Center,_Massachusetts",
+            "http://dbpedia.org/resource/Acushnet,_Massachusetts",
+            "http://dbpedia.org/resource/Bristol_County,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Amherst_Center,_Massachusetts",
+            "http://dbpedia.org/resource/Amherst,_Massachusetts",
+            "http://dbpedia.org/resource/Hampshire_County,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Annisquam,_Massachusetts",
+            "http://dbpedia.org/resource/Gloucester,_Massachusetts",
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Assonet,_Massachusetts",
+            "http://dbpedia.org/resource/Freetown,_Massachusetts",
+            "http://dbpedia.org/resource/Bristol_County,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburndale,_Massachusetts",
+            "http://dbpedia.org/resource/Newton,_Massachusetts",
+            "http://dbpedia.org/resource/Middlesex_County,_Massachusetts"
+        ]
+    ]
+}

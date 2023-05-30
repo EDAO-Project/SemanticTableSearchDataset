@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WAKS",
+            "http://dbpedia.org/resource/IHeartMedia",
+            "http://dbpedia.org/resource/Top_40"
+        ],
+        [
+            "http://dbpedia.org/resource/WAKW",
+            "http://dbpedia.org/resource/Pillar_of_Fire_International",
+            "http://dbpedia.org/resource/Contemporary_Christian_music"
+        ],
+        [
+            "http://dbpedia.org/resource/WARF",
+            "http://dbpedia.org/resource/IHeartMedia",
+            "http://dbpedia.org/resource/Sports_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Family_Radio",
+            "http://dbpedia.org/resource/American_Family_Association",
+            "http://dbpedia.org/resource/Christian_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/WBBG",
+            "http://dbpedia.org/resource/IHeartMedia",
+            "http://dbpedia.org/resource/Oldies"
+        ]
+    ]
+}

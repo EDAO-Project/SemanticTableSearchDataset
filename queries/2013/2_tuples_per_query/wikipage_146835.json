@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arcon",
+            "http://dbpedia.org/resource/Balbigny",
+            "http://dbpedia.org/resource/Belleroche"
+        ],
+        [
+            "http://dbpedia.org/resource/Belmont-de-la-Loire",
+            "http://dbpedia.org/resource/Boyer,_Loire",
+            "http://dbpedia.org/resource/Briennon"
+        ]
+    ]
+}

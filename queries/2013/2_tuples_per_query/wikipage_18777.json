@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anastasia_State_Park",
+            "http://dbpedia.org/resource/St._Johns_County,_Florida",
+            "http://dbpedia.org/resource/Atlantic_Ocean",
+            "http://dbpedia.org/resource/Hurricane_Dora"
+        ],
+        [
+            "http://dbpedia.org/resource/Avalon_State_Park",
+            "http://dbpedia.org/resource/St._Lucie_County,_Florida",
+            "http://dbpedia.org/resource/Atlantic_Ocean",
+            "http://dbpedia.org/resource/Frogman"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Daniel_D._Tompkins",
+            "http://dbpedia.org/resource/Scarsdale,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Millard_Fillmore",
+            "http://dbpedia.org/resource/Summerhill,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Schuyler_Colfax",
+            "http://dbpedia.org/resource/New_York_City"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/William_A._Wheeler",
+            "http://dbpedia.org/resource/Malone,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Theodore_Roosevelt",
+            "http://dbpedia.org/resource/Theodore_Roosevelt_Birthplace_National_Historic_Site"
+        ]
+    ]
+}

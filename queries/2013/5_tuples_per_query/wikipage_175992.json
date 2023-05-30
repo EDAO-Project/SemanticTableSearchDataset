@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Mickey_Andrews",
+            "http://dbpedia.org/resource/Florida_State_Seminoles_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Jim_Herrmann",
+            "http://dbpedia.org/resource/1997_Michigan_Wolverines_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/David_Cutcliffe",
+            "http://dbpedia.org/resource/1998_Tennessee_Volunteers_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Ralph_Friedgen",
+            "http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_football"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Mark_Mangino",
+            "http://dbpedia.org/resource/2000_Oklahoma_Sooners_football_team"
+        ]
+    ]
+}

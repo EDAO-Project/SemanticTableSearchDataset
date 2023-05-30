@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angel_Taylor",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Adam_Levine"
+        ],
+        [
+            "http://dbpedia.org/resource/Beverly_McClellan",
+            "http://dbpedia.org/resource/Fort_Lauderdale,_Florida",
+            "http://dbpedia.org/resource/Christina_Aguilera"
+        ],
+        [
+            "http://dbpedia.org/resource/Bryan_Keith",
+            "http://dbpedia.org/resource/The_Bronx",
+            "http://dbpedia.org/resource/Adam_Levine"
+        ],
+        [
+            "http://dbpedia.org/resource/Casey_Desmond",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Adam_Levine"
+        ],
+        [
+            "http://dbpedia.org/resource/Casey_Weston",
+            "http://dbpedia.org/resource/Naples,_Florida",
+            "http://dbpedia.org/resource/Adam_Levine"
+        ]
+    ]
+}

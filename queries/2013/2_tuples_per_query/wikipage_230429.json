@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Constance_Wilson-Samuel",
+            "http://dbpedia.org/resource/Theresa_Weld",
+            "http://dbpedia.org/resource/Maribel_Vinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Constance_Wilson-Samuel",
+            "http://dbpedia.org/resource/Frances_Claudet",
+            "http://dbpedia.org/resource/Beatrix_Loughran"
+        ]
+    ]
+}

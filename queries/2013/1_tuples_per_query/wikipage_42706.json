@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Copenhagen",
+            "http://dbpedia.org/resource/Gentofte_Municipality"
+        ]
+    ]
+}

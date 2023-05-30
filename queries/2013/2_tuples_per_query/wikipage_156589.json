@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Limerick_GAA",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/Croke_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/Cork_GAA",
+            "http://dbpedia.org/resource/Croke_Park"
+        ]
+    ]
+}

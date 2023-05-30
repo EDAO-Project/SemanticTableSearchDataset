@@ -1,0 +1,17 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Space_Shuttle",
+            "http://dbpedia.org/resource/Space_Shuttle",
+            "http://dbpedia.org/resource/Kennedy_Space_Center",
+            "http://dbpedia.org/resource/Kennedy_Space_Center",
+            "http://dbpedia.org/resource/United_Space_Alliance",
+            "http://dbpedia.org/resource/United_Space_Alliance"
+        ],
+        [
+            "http://dbpedia.org/resource/STS-72",
+            "http://dbpedia.org/resource/NASA",
+            "http://dbpedia.org/resource/Low_Earth_orbit"
+        ]
+    ]
+}

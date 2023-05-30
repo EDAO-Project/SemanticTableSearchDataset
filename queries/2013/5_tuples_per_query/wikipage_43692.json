@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dorfold_Hall",
+            "http://dbpedia.org/resource/Acton,_Cheshire",
+            "http://dbpedia.org/resource/Jacobean_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Adlington_Hall",
+            "http://dbpedia.org/resource/Adlington,_Cheshire",
+            "http://dbpedia.org/resource/Manor_house"
+        ],
+        [
+            "http://dbpedia.org/resource/Aldford_Iron_Bridge",
+            "http://dbpedia.org/resource/Aldford",
+            "http://dbpedia.org/resource/River_Dee,_Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Beeston_Castle",
+            "http://dbpedia.org/resource/Beeston,_Cheshire",
+            "http://dbpedia.org/resource/Ranulf_de_Blondeville,_6th_Earl_of_Chester"
+        ],
+        [
+            "http://dbpedia.org/resource/Brereton_Hall",
+            "http://dbpedia.org/resource/Brereton,_Cheshire",
+            "http://dbpedia.org/resource/Cupola"
+        ]
+    ]
+}

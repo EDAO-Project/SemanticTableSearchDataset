@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/33rd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/David_Crosby",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

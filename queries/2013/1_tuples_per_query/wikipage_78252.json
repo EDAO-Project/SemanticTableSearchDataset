@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vitaphone_Racing",
+            "http://dbpedia.org/resource/Maserati_MC12",
+            "http://dbpedia.org/resource/Maserati",
+            "http://dbpedia.org/resource/Michael_Bartels"
+        ]
+    ]
+}

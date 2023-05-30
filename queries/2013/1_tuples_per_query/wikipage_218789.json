@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johannesburg",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Standard_Bank_Arena"
+        ]
+    ]
+}

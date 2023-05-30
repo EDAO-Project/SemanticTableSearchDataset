@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/D._S._Adhimoolam",
+            "http://dbpedia.org/resource/Swatantra_Party",
+            "http://dbpedia.org/resource/S._Chellapandian",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/A._Chidambaranatha_Nadar",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/S._Retnaraj",
+            "http://dbpedia.org/resource/Swatantra_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/A._R._Subbiah_Mudaliar",
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/S._M._Abdul_Majid",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/N._Kasiraman",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Ko._Si._Mani",
+            "http://dbpedia.org/resource/Dravida_Munnetra_Kazhagam"
+        ],
+        [
+            "http://dbpedia.org/resource/A._Muniyandi",
+            "http://dbpedia.org/resource/Dravida_Munnetra_Kazhagam",
+            "http://dbpedia.org/resource/A._S._Ponnammal",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ]
+    ]
+}

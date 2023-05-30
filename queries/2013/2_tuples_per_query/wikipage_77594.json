@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1980_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Garry_Templeton",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Dickie_Thon",
+            "http://dbpedia.org/resource/Houston_Astros"
+        ]
+    ]
+}

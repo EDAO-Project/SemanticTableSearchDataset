@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indianapolis_Motor_Speedway",
+            "http://dbpedia.org/resource/Speedway,_Indiana",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/IndyCar_Series"
+        ]
+    ]
+}

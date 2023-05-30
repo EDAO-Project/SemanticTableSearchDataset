@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ted_McMeekin",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party",
+            "http://dbpedia.org/resource/By-election"
+        ],
+        [
+            "http://dbpedia.org/resource/Brampton_Centre",
+            "http://dbpedia.org/resource/Joe_Spina",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

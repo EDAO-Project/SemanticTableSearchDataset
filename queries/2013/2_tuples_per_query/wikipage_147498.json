@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamidian_massacres",
+            "http://dbpedia.org/resource/Ottoman_Empire",
+            "http://dbpedia.org/resource/Abdul_Hamid_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Adana_massacre",
+            "http://dbpedia.org/resource/Adana",
+            "http://dbpedia.org/resource/Young_Turks"
+        ]
+    ]
+}

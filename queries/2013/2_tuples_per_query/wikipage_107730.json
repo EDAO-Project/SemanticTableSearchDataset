@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clifford_Roach",
+            "http://dbpedia.org/resource/West_Indies_cricket_team",
+            "http://dbpedia.org/resource/England_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Sandham",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/West_Indies_cricket_team"
+        ]
+    ]
+}

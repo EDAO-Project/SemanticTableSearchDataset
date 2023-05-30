@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_European_Super_Cup",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/AFC_Ajax",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/San_Siro"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_European_Super_Cup",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/AFC_Ajax",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/De_Meer_Stadion"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_European_Super_Cup",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/FC_Dynamo_Kyiv",
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Olimpiyskiy_National_Sports_Complex"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_European_Super_Cup",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Constant_Vanden_Stock_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_European_Super_Cup",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/FC_Porto",
+            "http://dbpedia.org/resource/AFC_Ajax",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/De_Meer_Stadion"
+        ]
+    ]
+}

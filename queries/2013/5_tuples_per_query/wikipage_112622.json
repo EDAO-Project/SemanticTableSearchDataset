@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Candle_in_the_Wind_1997",
+            "http://dbpedia.org/resource/Elton_John",
+            "http://dbpedia.org/resource/The_Rocket_Record_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/She_Loves_You",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Parlophone"
+        ],
+        [
+            "http://dbpedia.org/resource/I_Just_Called_to_Say_I_Love_You",
+            "http://dbpedia.org/resource/Stevie_Wonder",
+            "http://dbpedia.org/resource/Motown"
+        ],
+        [
+            "http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/Parlophone"
+        ],
+        [
+            "http://dbpedia.org/resource/Imagine",
+            "http://dbpedia.org/resource/John_Lennon",
+            "http://dbpedia.org/resource/Apple_Records"
+        ]
+    ]
+}

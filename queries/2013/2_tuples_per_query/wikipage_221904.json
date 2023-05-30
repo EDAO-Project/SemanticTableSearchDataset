@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alan_Warriner-Little",
+            "http://dbpedia.org/resource/Roland_Scholten",
+            "http://dbpedia.org/resource/Dublin"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Part",
+            "http://dbpedia.org/resource/Paddy_Power",
+            "http://dbpedia.org/resource/Dublin"
+        ]
+    ]
+}

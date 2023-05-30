@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/1951_British_Grand_Prix",
+            "http://dbpedia.org/resource/2013_Spanish_Grand_Prix"
+        ]
+    ]
+}

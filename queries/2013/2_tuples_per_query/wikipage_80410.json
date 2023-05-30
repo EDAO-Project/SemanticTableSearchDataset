@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angoville-sur-Ay",
+            "http://dbpedia.org/resource/Anneville-sur-Mer",
+            "http://dbpedia.org/resource/Annoville"
+        ],
+        [
+            "http://dbpedia.org/resource/Appeville",
+            "http://dbpedia.org/resource/La_Baleine",
+            "http://dbpedia.org/resource/Baudreville,_Manche"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabang_Town_Center",
+            "http://dbpedia.org/resource/Alabang",
+            "http://dbpedia.org/resource/Ace_Hardware"
+        ],
+        [
+            "http://dbpedia.org/resource/Festival_Supermall",
+            "http://dbpedia.org/resource/Alabang",
+            "http://dbpedia.org/resource/Ace_Hardware"
+        ],
+        [
+            "http://dbpedia.org/resource/Glorietta",
+            "http://dbpedia.org/resource/Ayala_Avenue",
+            "http://dbpedia.org/resource/Ace_Hardware"
+        ],
+        [
+            "http://dbpedia.org/resource/Power_Plant_Mall",
+            "http://dbpedia.org/resource/Rockwell_Center",
+            "http://dbpedia.org/resource/Armani"
+        ],
+        [
+            "http://dbpedia.org/resource/Robinsons_Galleria",
+            "http://dbpedia.org/resource/EDSA",
+            "http://dbpedia.org/resource/Automatic_Centre"
+        ]
+    ]
+}

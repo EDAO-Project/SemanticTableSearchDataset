@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Libby_Trickett",
+            "http://dbpedia.org/resource/Jodie_Henry",
+            "http://dbpedia.org/resource/Alice_Mills"
+        ],
+        [
+            "http://dbpedia.org/resource/Natalie_du_Toit",
+            "http://dbpedia.org/resource/Anne_Polinario",
+            "http://dbpedia.org/resource/Annabelle_Williams"
+        ],
+        [
+            "http://dbpedia.org/resource/Libby_Trickett",
+            "http://dbpedia.org/resource/Jodie_Henry",
+            "http://dbpedia.org/resource/Alice_Mills"
+        ],
+        [
+            "http://dbpedia.org/resource/Caitlin_McClatchey",
+            "http://dbpedia.org/resource/Libby_Trickett",
+            "http://dbpedia.org/resource/Melanie_Marshall"
+        ],
+        [
+            "http://dbpedia.org/resource/Rebecca_Cooke",
+            "http://dbpedia.org/resource/Melissa_Gorman",
+            "http://dbpedia.org/resource/Brittany_Reimer"
+        ]
+    ]
+}

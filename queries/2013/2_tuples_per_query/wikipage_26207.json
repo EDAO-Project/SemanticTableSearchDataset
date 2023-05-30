@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ABC_New_England_North_West",
+            "http://dbpedia.org/resource/Armidale,_New_South_Wales",
+            "http://dbpedia.org/resource/ABC_New_England_North_West",
+            "http://dbpedia.org/resource/2RN"
+        ],
+        [
+            "http://dbpedia.org/resource/Radio_National",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/2RN",
+            "http://dbpedia.org/resource/2RN"
+        ]
+    ]
+}

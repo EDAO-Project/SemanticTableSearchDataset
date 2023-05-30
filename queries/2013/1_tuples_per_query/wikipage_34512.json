@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/.cn",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Pinyin",
+            "http://dbpedia.org/resource/Simplified_Chinese_characters",
+            "http://dbpedia.org/resource/.cn"
+        ]
+    ]
+}

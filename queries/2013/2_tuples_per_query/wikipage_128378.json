@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zoran_Barisic",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Mario_Bazina",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

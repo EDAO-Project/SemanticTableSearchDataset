@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ford_Modular_engine",
+            "http://dbpedia.org/resource/Hot_rod",
+            "http://dbpedia.org/resource/Ford_FE_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Rover_K-series_engine",
+            "http://dbpedia.org/resource/Hot_rod",
+            "http://dbpedia.org/resource/Ford_Type_9_transmission"
+        ],
+        [
+            "http://dbpedia.org/resource/Honda_B_engine",
+            "http://dbpedia.org/resource/Honda_Civic",
+            "http://dbpedia.org/resource/Chevrolet_Corvair"
+        ],
+        [
+            "http://dbpedia.org/resource/Duramax_V8_engine",
+            "http://dbpedia.org/resource/Pickup_truck",
+            "http://dbpedia.org/resource/Turbo-Hydramatic"
+        ],
+        [
+            "http://dbpedia.org/resource/Suzuki_G_engine",
+            "http://dbpedia.org/resource/MG_Midget",
+            "http://dbpedia.org/resource/Transfer_case"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CFWH-FM",
+            "http://dbpedia.org/resource/Beaver_Creek,_Yukon",
+            "http://dbpedia.org/resource/CBC_Radio_One",
+            "http://dbpedia.org/resource/Public_broadcasting"
+        ]
+    ]
+}

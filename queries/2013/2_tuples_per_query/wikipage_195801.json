@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_African_Republic",
+            "http://dbpedia.org/resource/Bakouma",
+            "http://dbpedia.org/resource/Bakouma_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_African_Republic",
+            "http://dbpedia.org/resource/Bambari",
+            "http://dbpedia.org/resource/Bambari_Airport"
+        ]
+    ]
+}

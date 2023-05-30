@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Steve_Balboni",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Nashville_Sounds"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Mattingly",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Columbus_Clippers"
+        ]
+    ]
+}

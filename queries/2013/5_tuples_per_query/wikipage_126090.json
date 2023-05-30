@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Asad_Rauf",
+            "http://dbpedia.org/resource/Pakistan",
+            "http://dbpedia.org/resource/Elite_Panel_of_ICC_Umpires"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Bowden",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Elite_Panel_of_ICC_Umpires"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Doctrove",
+            "http://dbpedia.org/resource/West_Indies_Cricket_Board",
+            "http://dbpedia.org/resource/Elite_Panel_of_ICC_Umpires"
+        ],
+        [
+            "http://dbpedia.org/resource/Aleem_Dar",
+            "http://dbpedia.org/resource/Pakistan",
+            "http://dbpedia.org/resource/Elite_Panel_of_ICC_Umpires"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Taufel",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Elite_Panel_of_ICC_Umpires"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Melbourne_Indoor",
+            "http://dbpedia.org/resource/Vitas_Gerulaitis",
+            "http://dbpedia.org/resource/Eliot_Teltscher",
+            "http://dbpedia.org/resource/Steve_Denton",
+            "http://dbpedia.org/resource/Paul_McNamee"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne_Indoor",
+            "http://dbpedia.org/resource/Matt_Mitchell",
+            "http://dbpedia.org/resource/Syd_Ball",
+            "http://dbpedia.org/resource/Steve_Denton",
+            "http://dbpedia.org/resource/Paul_McNamee"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Custom_Credit_Australian_Indoor_Championships",
+            "http://dbpedia.org/resource/John_McEnroe",
+            "http://dbpedia.org/resource/Gene_Mayer",
+            "http://dbpedia.org/resource/Jimmy_Connors",
+            "http://dbpedia.org/resource/Eliot_Teltscher"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Custom_Credit_Australian_Indoor_Championships",
+            "http://dbpedia.org/resource/John_McEnroe",
+            "http://dbpedia.org/resource/Steve_Denton",
+            "http://dbpedia.org/resource/Jimmy_Connors",
+            "http://dbpedia.org/resource/Eliot_Teltscher"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Fischer-Grand_Prix",
+            "http://dbpedia.org/resource/Brian_Gottfried",
+            "http://dbpedia.org/resource/Bill_Scanlon",
+            "http://dbpedia.org/resource/Henri_Leconte",
+            "http://dbpedia.org/resource/Corrado_Barazzutti"
+        ]
+    ]
+}

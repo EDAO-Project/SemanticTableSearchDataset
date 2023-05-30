@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Oakland_Athletics_season",
+            "http://dbpedia.org/resource/Jarrod_Parker",
+            "http://dbpedia.org/resource/Matt_Garza",
+            "http://dbpedia.org/resource/Grant_Balfour"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Los_Angeles_Angels_of_Anaheim_season",
+            "http://dbpedia.org/resource/Yu_Darvish",
+            "http://dbpedia.org/resource/Kevin_Jepsen",
+            "http://dbpedia.org/resource/Tanner_Scheppers"
+        ]
+    ]
+}

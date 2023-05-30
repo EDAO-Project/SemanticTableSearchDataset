@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spencer_Bachus",
+            "http://dbpedia.org/resource/Michael_Bilirakis",
+            "http://dbpedia.org/resource/Rob_Bishop"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanford_Bishop",
+            "http://dbpedia.org/resource/John_Boehner",
+            "http://dbpedia.org/resource/Jo_Bonner"
+        ],
+        [
+            "http://dbpedia.org/resource/Leonard_Boswell",
+            "http://dbpedia.org/resource/Bob_Brady",
+            "http://dbpedia.org/resource/Bruce_Braley"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Burton",
+            "http://dbpedia.org/resource/G._K._Butterfield",
+            "http://dbpedia.org/resource/John_Conyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Jerry_Costello",
+            "http://dbpedia.org/resource/Elijah_Cummings",
+            "http://dbpedia.org/resource/Artur_Davis"
+        ]
+    ]
+}

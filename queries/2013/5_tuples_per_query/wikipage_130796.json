@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/16th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Oakley",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/17th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Oakley",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/18th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/George_Oakley",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/20th_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/William_Summerville",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/22nd_Parliament_of_Ontario",
+            "http://dbpedia.org/resource/Gordon_Millen",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

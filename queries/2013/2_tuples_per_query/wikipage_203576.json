@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lewis_and_Harris",
+            "http://dbpedia.org/resource/Outer_Hebrides",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/Skye",
+            "http://dbpedia.org/resource/Inner_Hebrides",
+            "http://dbpedia.org/resource/Scotland"
+        ]
+    ]
+}

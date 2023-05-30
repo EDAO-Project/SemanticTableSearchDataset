@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christianity",
+            "http://dbpedia.org/resource/Abrahamic_religions",
+            "http://dbpedia.org/resource/Western_world"
+        ]
+    ]
+}

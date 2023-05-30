@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chogolisa",
+            "http://dbpedia.org/resource/Karakoram",
+            "http://dbpedia.org/resource/Masherbrum_Mountains"
+        ],
+        [
+            "http://dbpedia.org/resource/Shispare",
+            "http://dbpedia.org/resource/Karakoram",
+            "http://dbpedia.org/resource/Batura_Muztagh"
+        ]
+    ]
+}

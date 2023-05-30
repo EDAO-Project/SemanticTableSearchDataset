@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/Kabul",
+            "http://dbpedia.org/resource/Afghan_afghani",
+            "http://dbpedia.org/resource/Persian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Baku",
+            "http://dbpedia.org/resource/Azerbaijani_manat",
+            "http://dbpedia.org/resource/Azerbaijani_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Tehran",
+            "http://dbpedia.org/resource/Iranian_rial",
+            "http://dbpedia.org/resource/Persian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Astana",
+            "http://dbpedia.org/resource/Kazakhstani_tenge",
+            "http://dbpedia.org/resource/Kazakh_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyrgyzstan",
+            "http://dbpedia.org/resource/Bishkek",
+            "http://dbpedia.org/resource/Kyrgyzstani_som",
+            "http://dbpedia.org/resource/Kyrgyz_language"
+        ]
+    ]
+}

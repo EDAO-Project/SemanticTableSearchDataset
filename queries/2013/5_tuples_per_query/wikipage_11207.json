@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Journey_into_Mystery",
+            "http://dbpedia.org/resource/Stan_Lee",
+            "http://dbpedia.org/resource/Norse_mythology"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Mutants",
+            "http://dbpedia.org/resource/Chris_Claremont",
+            "http://dbpedia.org/resource/Demon_Bear"
+        ],
+        [
+            "http://dbpedia.org/resource/X-Men",
+            "http://dbpedia.org/resource/Roy_Thomas",
+            "http://dbpedia.org/resource/Cyttorak"
+        ],
+        [
+            "http://dbpedia.org/resource/Strange_Tales",
+            "http://dbpedia.org/resource/Stan_Lee",
+            "http://dbpedia.org/resource/Dormammu"
+        ],
+        [
+            "http://dbpedia.org/resource/Strange_Tales",
+            "http://dbpedia.org/resource/Stan_Lee",
+            "http://dbpedia.org/resource/List_of_Marvel_Comics_characters:_X"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WFIE",
+            "http://dbpedia.org/resource/NBC",
+            "http://dbpedia.org/resource/Evansville,_Indiana"
+        ]
+    ]
+}

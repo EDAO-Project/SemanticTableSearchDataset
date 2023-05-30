@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ball_State_University",
+            "http://dbpedia.org/resource/Muncie,_Indiana",
+            "http://dbpedia.org/resource/Indiana",
+            "http://dbpedia.org/resource/Ball_State_Cardinals",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ]
+    ]
+}

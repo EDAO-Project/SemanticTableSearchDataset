@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rain_Man",
+            "http://dbpedia.org/resource/United_Artists",
+            "http://dbpedia.org/resource/Dustin_Hoffman",
+            "http://dbpedia.org/resource/Barry_Levinson"
+        ]
+    ]
+}

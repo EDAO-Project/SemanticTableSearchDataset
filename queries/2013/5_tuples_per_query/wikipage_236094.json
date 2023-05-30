@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ShoXC",
+            "http://dbpedia.org/resource/Horseshoe_Hammond",
+            "http://dbpedia.org/resource/Hammond,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/EliteXC:_Unfinished_Business",
+            "http://dbpedia.org/resource/Stockton_Arena",
+            "http://dbpedia.org/resource/Stockton,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/EliteXC:_Return_of_the_King",
+            "http://dbpedia.org/resource/Neal_S._Blaisdell_Center",
+            "http://dbpedia.org/resource/Oahu"
+        ],
+        [
+            "http://dbpedia.org/resource/EliteXC:_Primetime",
+            "http://dbpedia.org/resource/Prudential_Center",
+            "http://dbpedia.org/resource/Newark,_New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Strikeforce:_Shamrock_vs._Le",
+            "http://dbpedia.org/resource/SAP_Center_at_San_Jose",
+            "http://dbpedia.org/resource/San_Jose,_California"
+        ]
+    ]
+}

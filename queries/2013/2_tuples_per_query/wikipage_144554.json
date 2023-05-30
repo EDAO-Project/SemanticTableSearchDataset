@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Bullet_Vanishes",
+            "http://dbpedia.org/resource/Law_Chi-leung",
+            "http://dbpedia.org/resource/Nicholas_Tse"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnnie_To",
+            "http://dbpedia.org/resource/Louis_Koo",
+            "http://dbpedia.org/resource/Rome_Film_Festival"
+        ]
+    ]
+}

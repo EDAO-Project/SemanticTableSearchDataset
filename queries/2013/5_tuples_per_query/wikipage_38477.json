@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_shipwrecks_in_October_1942",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/German_submarine_U-604"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_shipwrecks_in_October_1942",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Convoy_HX_79"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_shipwrecks_in_October_1942",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/German_submarine_U-409"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_shipwrecks_in_October_1942",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/German_submarine_U-509"
+        ],
+        [
+            "http://dbpedia.org/resource/SS_West_Saginaw",
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Convoy_ON_154"
+        ]
+    ]
+}

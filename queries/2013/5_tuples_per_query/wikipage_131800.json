@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/River_Aire",
+            "http://dbpedia.org/resource/River_Ouse,_Yorkshire",
+            "http://dbpedia.org/resource/Malham_Tarn"
+        ],
+        [
+            "http://dbpedia.org/resource/River_Bain,_North_Yorkshire",
+            "http://dbpedia.org/resource/River_Ure",
+            "http://dbpedia.org/resource/Semerwater"
+        ],
+        [
+            "http://dbpedia.org/resource/River_Calder,_West_Yorkshire",
+            "http://dbpedia.org/resource/River_Aire",
+            "http://dbpedia.org/resource/Todmorden"
+        ],
+        [
+            "http://dbpedia.org/resource/River_Cover",
+            "http://dbpedia.org/resource/River_Ure",
+            "http://dbpedia.org/resource/Woodale"
+        ],
+        [
+            "http://dbpedia.org/resource/River_Dearne",
+            "http://dbpedia.org/resource/River_Don,_South_Yorkshire",
+            "http://dbpedia.org/resource/Denby_Dale"
+        ]
+    ]
+}

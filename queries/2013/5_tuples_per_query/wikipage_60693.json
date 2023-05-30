@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Tango_music",
+            "http://dbpedia.org/resource/Bandoneon"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Schrammelmusik",
+            "http://dbpedia.org/resource/Schrammel_accordion"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Inuit_music",
+            "http://dbpedia.org/resource/Diatonic_button_accordion"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominican_Republic",
+            "http://dbpedia.org/resource/Merengue_music",
+            "http://dbpedia.org/resource/Diatonic_button_accordion"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Morris_dance",
+            "http://dbpedia.org/resource/Diatonic_button_accordion"
+        ]
+    ]
+}

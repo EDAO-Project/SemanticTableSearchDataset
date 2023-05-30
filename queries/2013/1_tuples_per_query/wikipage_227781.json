@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daniel_Ringo",
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Zachary_Taylor"
+        ]
+    ]
+}

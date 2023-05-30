@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jake_Beckley",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/1890_Pittsburgh_Burghers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Carroll",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/1890_Pittsburgh_Burghers_season"
+        ]
+    ]
+}

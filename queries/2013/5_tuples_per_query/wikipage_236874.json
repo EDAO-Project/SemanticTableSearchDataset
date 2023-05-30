@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nate_Adcock",
+            "http://dbpedia.org/resource/Major_League_Baseball",
+            "http://dbpedia.org/resource/Elizabethtown,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Akers",
+            "http://dbpedia.org/resource/National_Football_League",
+            "http://dbpedia.org/resource/Lexington,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaun_Alexander",
+            "http://dbpedia.org/resource/National_Football_League",
+            "http://dbpedia.org/resource/Florence,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Muhammad_Ali",
+            "http://dbpedia.org/resource/Boxing",
+            "http://dbpedia.org/resource/Louisville,_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/Butch_Beard",
+            "http://dbpedia.org/resource/National_Basketball_Association",
+            "http://dbpedia.org/resource/Hardinsburg,_Kentucky"
+        ]
+    ]
+}

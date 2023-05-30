@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/To_Be_with_You",
+            "http://dbpedia.org/resource/Human_Touch",
+            "http://dbpedia.org/resource/Bruce_Springsteen"
+        ],
+        [
+            "http://dbpedia.org/resource/To_Be_with_You",
+            "http://dbpedia.org/resource/Human_Touch",
+            "http://dbpedia.org/resource/Bruce_Springsteen"
+        ],
+        [
+            "http://dbpedia.org/resource/To_Be_with_You",
+            "http://dbpedia.org/resource/Human_Touch",
+            "http://dbpedia.org/resource/Bruce_Springsteen"
+        ],
+        [
+            "http://dbpedia.org/resource/To_Be_with_You",
+            "http://dbpedia.org/resource/Human_Touch",
+            "http://dbpedia.org/resource/Bruce_Springsteen"
+        ],
+        [
+            "http://dbpedia.org/resource/Rhythm_Is_a_Dancer",
+            "http://dbpedia.org/resource/Human_Touch",
+            "http://dbpedia.org/resource/Bruce_Springsteen"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ada_Evening_News",
+            "http://dbpedia.org/resource/Ada,_Oklahoma",
+            "http://dbpedia.org/resource/Community_Newspaper_Holdings"
+        ],
+        [
+            "http://dbpedia.org/resource/Altus_Times",
+            "http://dbpedia.org/resource/Altus,_Oklahoma",
+            "http://dbpedia.org/resource/Heartland_Publications"
+        ]
+    ]
+}

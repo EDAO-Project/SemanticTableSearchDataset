@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carlos_Bilardo",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Argentina_national_football_team"
+        ]
+    ]
+}

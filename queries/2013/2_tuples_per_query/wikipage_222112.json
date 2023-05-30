@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joe_Nemechek",
+            "http://dbpedia.org/resource/Ginn_Racing",
+            "http://dbpedia.org/resource/Hollywood_Casino_400",
+            "http://dbpedia.org/resource/Kansas_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/Greg_Biffle",
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_EcoBoost_400",
+            "http://dbpedia.org/resource/Homestead-Miami_Speedway"
+        ]
+    ]
+}

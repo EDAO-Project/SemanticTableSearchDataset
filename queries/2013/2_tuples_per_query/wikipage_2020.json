@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Delaware_Valley",
+            "http://dbpedia.org/resource/Delaware_Valley",
+            "http://dbpedia.org/resource/Philadelphia_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Delaware_Valley",
+            "http://dbpedia.org/resource/Delaware_Valley",
+            "http://dbpedia.org/resource/Montgomery_County,_Pennsylvania"
+        ]
+    ]
+}

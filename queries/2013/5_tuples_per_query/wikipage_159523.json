@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_8",
+            "http://dbpedia.org/resource/Bridgewater,_New_York",
+            "http://dbpedia.org/resource/Herkimer_County,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Madison_County,_New_York",
+            "http://dbpedia.org/resource/Sangerfield,_New_York",
+            "http://dbpedia.org/resource/U.S._Route_20_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Madison_County,_New_York",
+            "http://dbpedia.org/resource/Sangerfield,_New_York",
+            "http://dbpedia.org/resource/U.S._Route_20_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Madison_County,_New_York",
+            "http://dbpedia.org/resource/Augusta,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Route_26"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_5",
+            "http://dbpedia.org/resource/Herkimer_County,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Route_31"
+        ]
+    ]
+}

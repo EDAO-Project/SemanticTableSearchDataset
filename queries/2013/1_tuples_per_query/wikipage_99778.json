@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alcoa",
+            "http://dbpedia.org/resource/Clark_County,_Washington",
+            "http://dbpedia.org/resource/Fluoride"
+        ]
+    ]
+}

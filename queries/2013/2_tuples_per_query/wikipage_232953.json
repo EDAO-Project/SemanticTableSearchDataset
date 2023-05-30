@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richfield,_Ohio",
+            "http://dbpedia.org/resource/Coliseum_at_Richfield",
+            "http://dbpedia.org/resource/The_Mega_Powers"
+        ],
+        [
+            "http://dbpedia.org/resource/Rosemont,_Illinois",
+            "http://dbpedia.org/resource/Allstate_Arena",
+            "http://dbpedia.org/resource/The_Ultimate_Warrior"
+        ]
+    ]
+}

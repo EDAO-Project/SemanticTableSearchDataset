@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1960_Australian_GT_Championship",
+            "http://dbpedia.org/resource/Australian_GT_Championship",
+            "http://dbpedia.org/resource/Leo_Geoghegan",
+            "http://dbpedia.org/resource/Lotus_Elite"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Armstrong_500",
+            "http://dbpedia.org/resource/Bathurst_1000",
+            "http://dbpedia.org/resource/Bob_Jane",
+            "http://dbpedia.org/resource/Ford_Cortina"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Armstrong_500",
+            "http://dbpedia.org/resource/Bathurst_1000",
+            "http://dbpedia.org/resource/Bob_Jane",
+            "http://dbpedia.org/resource/Ford_Cortina"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Australian_One_and_a_Half_Litre_Championship",
+            "http://dbpedia.org/resource/Australian_One_and_a_Half_Litre_Championship",
+            "http://dbpedia.org/resource/Bib_Stillwell",
+            "http://dbpedia.org/resource/Brabham"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Armstrong_500",
+            "http://dbpedia.org/resource/Bathurst_1000",
+            "http://dbpedia.org/resource/Barry_Seton",
+            "http://dbpedia.org/resource/Ford_Cortina"
+        ]
+    ]
+}

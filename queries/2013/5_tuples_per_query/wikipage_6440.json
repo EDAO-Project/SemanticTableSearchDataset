@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Arizona,_1994",
+            "http://dbpedia.org/resource/Dennis_DeConcini",
+            "http://dbpedia.org/resource/Jon_Kyl"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Maine,_1994",
+            "http://dbpedia.org/resource/George_J._Mitchell",
+            "http://dbpedia.org/resource/Olympia_Snowe"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Minnesota,_1994",
+            "http://dbpedia.org/resource/David_Durenberger",
+            "http://dbpedia.org/resource/Rod_Grams"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Missouri,_1994",
+            "http://dbpedia.org/resource/John_Danforth",
+            "http://dbpedia.org/resource/John_Ashcroft"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Ohio,_1994",
+            "http://dbpedia.org/resource/Howard_Metzenbaum",
+            "http://dbpedia.org/resource/Mike_DeWine"
+        ]
+    ]
+}

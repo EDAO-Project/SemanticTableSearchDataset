@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aeroflot",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Moscow_Exchange"
+        ]
+    ]
+}

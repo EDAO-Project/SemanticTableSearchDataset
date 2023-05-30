@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lev_Yashin",
+            "http://dbpedia.org/resource/FC_Dynamo_Moscow",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Gianni_Rivera",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

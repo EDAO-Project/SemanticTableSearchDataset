@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Carlaw",
+            "http://dbpedia.org/resource/Balmain_Tigers",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Owen_Craigie",
+            "http://dbpedia.org/resource/Newcastle_Knights",
+            "http://dbpedia.org/resource/Rugby_league_positions"
+        ]
+    ]
+}

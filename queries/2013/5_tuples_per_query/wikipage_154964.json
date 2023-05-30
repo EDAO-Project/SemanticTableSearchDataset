@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Hewitt",
+            "http://dbpedia.org/resource/Boundary-Similkameen",
+            "http://dbpedia.org/resource/British_Columbia_Social_Credit_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Raymond_Loewen",
+            "http://dbpedia.org/resource/Burnaby-Edmonds",
+            "http://dbpedia.org/resource/British_Columbia_Social_Credit_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Eileen_Dailly",
+            "http://dbpedia.org/resource/Burnaby_North",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Elwood_Veitch",
+            "http://dbpedia.org/resource/Burnaby-Willingdon",
+            "http://dbpedia.org/resource/British_Columbia_Social_Credit_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorne_Nicolson",
+            "http://dbpedia.org/resource/Nelson-Creston",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party"
+        ]
+    ]
+}

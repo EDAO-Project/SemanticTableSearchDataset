@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Augsburger_Panther",
+            "http://dbpedia.org/resource/Augsburg",
+            "http://dbpedia.org/resource/Curt_Frenzel_Stadium"
+        ]
+    ]
+}

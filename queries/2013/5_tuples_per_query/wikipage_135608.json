@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Amalie_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Palm_Beach,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Perfect_Vodka_Amphitheatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Starwood_Amphitheatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlotte,_North_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/PNC_Music_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cynthia_Woods_Mitchell_Pavilion"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bruiser_Brody",
+            "http://dbpedia.org/resource/Professional_wrestling",
+            "http://dbpedia.org/resource/NWA_Central_States_Heavyweight_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Dick_the_Bruiser",
+            "http://dbpedia.org/resource/Professional_wrestling",
+            "http://dbpedia.org/resource/NWA_Missouri_Heavyweight_Championship"
+        ]
+    ]
+}

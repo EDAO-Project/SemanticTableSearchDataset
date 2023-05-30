@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/RocketMail",
+            "http://dbpedia.org/resource/Webmail",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Yahoo!_Mail"
+        ],
+        [
+            "http://dbpedia.org/resource/Retrogaming",
+            "http://dbpedia.org/resource/Online_game",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Yahoo!_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Yoyodyne",
+            "http://dbpedia.org/resource/Direct_marketing",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Yahoo!_Search_Marketing"
+        ],
+        [
+            "http://dbpedia.org/resource/Broadcast.com",
+            "http://dbpedia.org/resource/Internet_radio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Yahoo!_Music_Radio"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthas.com",
+            "http://dbpedia.org/resource/E-commerce_payment_system",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Viaweb"
+        ]
+    ]
+}

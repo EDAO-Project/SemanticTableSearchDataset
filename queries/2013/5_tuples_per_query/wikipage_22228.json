@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alkali_Ridge",
+            "http://dbpedia.org/resource/Blanding,_Utah",
+            "http://dbpedia.org/resource/San_Juan_County,_Utah",
+            "http://dbpedia.org/resource/Archaeology"
+        ],
+        [
+            "http://dbpedia.org/resource/Bingham_Canyon_Mine",
+            "http://dbpedia.org/resource/Oquirrh_Mountains",
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah",
+            "http://dbpedia.org/resource/Open-pit_mining"
+        ],
+        [
+            "http://dbpedia.org/resource/Bryce_Canyon_Lodge",
+            "http://dbpedia.org/resource/Bryce_Canyon_National_Park",
+            "http://dbpedia.org/resource/Garfield_County,_Utah",
+            "http://dbpedia.org/resource/Union_Pacific_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Topaz_War_Relocation_Center",
+            "http://dbpedia.org/resource/Delta,_Utah",
+            "http://dbpedia.org/resource/Millard_County,_Utah",
+            "http://dbpedia.org/resource/Internment_of_Japanese_Americans"
+        ],
+        [
+            "http://dbpedia.org/resource/Danger_Cave",
+            "http://dbpedia.org/resource/Wendover,_Utah",
+            "http://dbpedia.org/resource/Tooele_County,_Utah",
+            "http://dbpedia.org/resource/Archaeology"
+        ]
+    ]
+}

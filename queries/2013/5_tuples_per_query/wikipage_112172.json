@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pittsburgh_Penguins",
+            "http://dbpedia.org/resource/Sidney_Crosby",
+            "http://dbpedia.org/resource/Consol_Energy_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville_Predators",
+            "http://dbpedia.org/resource/Zach_Bogosian",
+            "http://dbpedia.org/resource/Philips_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/Matt_Duchene",
+            "http://dbpedia.org/resource/Philips_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Islanders",
+            "http://dbpedia.org/resource/Johnny_Oduya",
+            "http://dbpedia.org/resource/Nassau_Veterans_Memorial_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottawa_Senators",
+            "http://dbpedia.org/resource/Bryan_Little",
+            "http://dbpedia.org/resource/Canadian_Tire_Centre"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arkansas_Highway_57_Bridge",
+            "http://dbpedia.org/resource/Stephens,_Arkansas",
+            "http://dbpedia.org/resource/Ouachita_County,_Arkansas",
+            "http://dbpedia.org/resource/Truss_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_Bottom_Slough_Bridge",
+            "http://dbpedia.org/resource/Magness,_Arkansas",
+            "http://dbpedia.org/resource/Independence_County,_Arkansas",
+            "http://dbpedia.org/resource/Truss_bridge"
+        ]
+    ]
+}

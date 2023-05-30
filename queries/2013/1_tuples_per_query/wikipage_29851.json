@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phoenix_Open",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Miller_Barber"
+        ]
+    ]
+}

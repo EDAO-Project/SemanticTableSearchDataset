@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wolverhampton",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Wolverhampton_Civic_Hall"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shinichi_Fukushima",
+            "http://dbpedia.org/resource/Hidenori_Nodera",
+            "http://dbpedia.org/resource/Kazuyuki_Manabe"
+        ]
+    ]
+}

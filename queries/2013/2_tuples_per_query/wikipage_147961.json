@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Southern_Cross_Aerobatic_Squadron",
+            "http://dbpedia.org/resource/Sukhoi_Su-29"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Al_Fursan",
+            "http://dbpedia.org/resource/Aermacchi_MB-339"
+        ]
+    ]
+}

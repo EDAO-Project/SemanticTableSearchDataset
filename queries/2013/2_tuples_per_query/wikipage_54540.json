@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marcus_Sears_Bell_Farm",
+            "http://dbpedia.org/resource/New_Richmond,_Wisconsin",
+            "http://dbpedia.org/resource/Italianate_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_L._Darling_House",
+            "http://dbpedia.org/resource/Hudson,_Wisconsin",
+            "http://dbpedia.org/resource/Dry_goods"
+        ]
+    ]
+}

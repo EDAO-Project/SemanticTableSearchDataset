@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rokot",
+            "http://dbpedia.org/resource/Rokot",
+            "http://dbpedia.org/resource/Plesetsk_Cosmodrome",
+            "http://dbpedia.org/resource/Plesetsk_Cosmodrome",
+            "http://dbpedia.org/resource/Russian_Aerospace_Defence_Forces",
+            "http://dbpedia.org/resource/Russian_Aerospace_Defence_Forces"
+        ],
+        [
+            "http://dbpedia.org/resource/Ground-Based_Midcourse_Defense",
+            "http://dbpedia.org/resource/Ground-Based_Midcourse_Defense",
+            "http://dbpedia.org/resource/Vandenberg_Air_Force_Base",
+            "http://dbpedia.org/resource/Vandenberg_Air_Force_Base",
+            "http://dbpedia.org/resource/Missile_Defense_Agency",
+            "http://dbpedia.org/resource/Missile_Defense_Agency"
+        ],
+        [
+            "http://dbpedia.org/resource/H-IIA",
+            "http://dbpedia.org/resource/H-IIA",
+            "http://dbpedia.org/resource/Tanegashima_Space_Center",
+            "http://dbpedia.org/resource/Tanegashima_Space_Center",
+            "http://dbpedia.org/resource/Mitsubishi_Heavy_Industries",
+            "http://dbpedia.org/resource/Mitsubishi_Heavy_Industries"
+        ],
+        [
+            "http://dbpedia.org/resource/Naro-1",
+            "http://dbpedia.org/resource/Naro-1",
+            "http://dbpedia.org/resource/Naro_Space_Center",
+            "http://dbpedia.org/resource/Naro_Space_Center",
+            "http://dbpedia.org/resource/Khrunichev_State_Research_and_Production_Space_Center",
+            "http://dbpedia.org/resource/Khrunichev_State_Research_and_Production_Space_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlas_V",
+            "http://dbpedia.org/resource/Atlas_V",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/United_Launch_Alliance",
+            "http://dbpedia.org/resource/United_Launch_Alliance"
+        ]
+    ]
+}

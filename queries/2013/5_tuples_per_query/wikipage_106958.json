@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aghanaglack",
+            "http://dbpedia.org/resource/County_Fermanagh",
+            "http://dbpedia.org/resource/Court_cairn"
+        ],
+        [
+            "http://dbpedia.org/resource/Annadorn_Dolmen",
+            "http://dbpedia.org/resource/County_Down",
+            "http://dbpedia.org/resource/Dolmen"
+        ],
+        [
+            "http://dbpedia.org/resource/Ardgroom",
+            "http://dbpedia.org/resource/County_Cork",
+            "http://dbpedia.org/resource/Stone_circle"
+        ],
+        [
+            "http://dbpedia.org/resource/Audleystown_Court_Cairn",
+            "http://dbpedia.org/resource/County_Down",
+            "http://dbpedia.org/resource/Court_cairn"
+        ],
+        [
+            "http://dbpedia.org/resource/Aughlish",
+            "http://dbpedia.org/resource/County_Londonderry",
+            "http://dbpedia.org/resource/Stone_circle"
+        ]
+    ]
+}

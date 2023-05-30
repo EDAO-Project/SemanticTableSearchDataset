@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alba_Vineyard",
+            "http://dbpedia.org/resource/Finesville,_New_Jersey",
+            "http://dbpedia.org/resource/Warren_County,_New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Amalthea_Cellars",
+            "http://dbpedia.org/resource/Atco,_New_Jersey",
+            "http://dbpedia.org/resource/Camden_County,_New_Jersey"
+        ]
+    ]
+}

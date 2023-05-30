@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andover,_Hampshire",
+            "http://dbpedia.org/resource/Test_Valley",
+            "http://dbpedia.org/resource/Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Aylesbury",
+            "http://dbpedia.org/resource/Aylesbury_Vale",
+            "http://dbpedia.org/resource/Buckinghamshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Banbury",
+            "http://dbpedia.org/resource/Cherwell_District",
+            "http://dbpedia.org/resource/Oxfordshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Bedford",
+            "http://dbpedia.org/resource/Borough_of_Bedford",
+            "http://dbpedia.org/resource/Bedfordshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Beverley",
+            "http://dbpedia.org/resource/East_Riding_of_Yorkshire",
+            "http://dbpedia.org/resource/Humberside"
+        ]
+    ]
+}

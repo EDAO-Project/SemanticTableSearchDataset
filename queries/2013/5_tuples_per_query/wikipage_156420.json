@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arminia_Bielefeld",
+            "http://dbpedia.org/resource/Bielefeld",
+            "http://dbpedia.org/resource/Bielefelder_Alm"
+        ],
+        [
+            "http://dbpedia.org/resource/VfL_Bochum",
+            "http://dbpedia.org/resource/Bochum",
+            "http://dbpedia.org/resource/Ruhrstadion"
+        ],
+        [
+            "http://dbpedia.org/resource/Dynamo_Dresden",
+            "http://dbpedia.org/resource/Dresden",
+            "http://dbpedia.org/resource/Stadion_Dresden"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Erzgebirge_Aue",
+            "http://dbpedia.org/resource/Aue",
+            "http://dbpedia.org/resource/Sparkassen-Erzgebirgsstadion"
+        ],
+        [
+            "http://dbpedia.org/resource/FSV_Frankfurt",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Stadion_am_Bornheimer_Hang"
+        ]
+    ]
+}

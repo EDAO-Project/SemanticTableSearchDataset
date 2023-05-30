@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ken_Schrader",
+            "http://dbpedia.org/resource/Talladega_Superspeedway",
+            "http://dbpedia.org/resource/Dover_International_Speedway",
+            "http://dbpedia.org/resource/Saugus_Speedway"
+        ]
+    ]
+}

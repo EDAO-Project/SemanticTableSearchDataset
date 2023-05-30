@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alain_Menu",
+            "http://dbpedia.org/resource/RML_Group",
+            "http://dbpedia.org/resource/Chevrolet_Cruze"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Huff",
+            "http://dbpedia.org/resource/RML_Group",
+            "http://dbpedia.org/resource/Chevrolet_Cruze"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Coronel",
+            "http://dbpedia.org/resource/ROAL_Motorsport",
+            "http://dbpedia.org/resource/BMW_320_TC"
+        ],
+        [
+            "http://dbpedia.org/resource/Yvan_Muller",
+            "http://dbpedia.org/resource/RML_Group",
+            "http://dbpedia.org/resource/Chevrolet_Cruze"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_MacDowall",
+            "http://dbpedia.org/resource/Craft-Bamboo_Racing",
+            "http://dbpedia.org/resource/Chevrolet_Cruze"
+        ]
+    ]
+}

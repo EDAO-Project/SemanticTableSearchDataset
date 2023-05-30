@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amy_LePeilbet",
+            "http://dbpedia.org/resource/Boston_Breakers",
+            "http://dbpedia.org/resource/NWSL_Player_Allocation"
+        ],
+        [
+            "http://dbpedia.org/resource/Keelin_Winters",
+            "http://dbpedia.org/resource/1._FFC_Turbine_Potsdam",
+            "http://dbpedia.org/resource/NWSL_Player_Allocation"
+        ]
+    ]
+}

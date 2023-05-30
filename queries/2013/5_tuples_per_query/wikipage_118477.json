@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cape_Florida_Light",
+            "http://dbpedia.org/resource/Bill_Baggs_Cape_Florida_State_Park",
+            "http://dbpedia.org/resource/Seminole"
+        ],
+        [
+            "http://dbpedia.org/resource/Carysfort_Reef_Light",
+            "http://dbpedia.org/resource/Key_Largo",
+            "http://dbpedia.org/resource/Screw-pile_lighthouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Cedar_Key_Light",
+            "http://dbpedia.org/resource/Cedar_Key,_Florida",
+            "http://dbpedia.org/resource/University_of_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Dames_Point_Light",
+            "http://dbpedia.org/resource/St._Johns_River",
+            "http://dbpedia.org/resource/Screw-pile_lighthouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Unmanned_reef_lights_of_the_Florida_Keys",
+            "http://dbpedia.org/resource/Key_Largo",
+            "http://dbpedia.org/resource/Automatic_weather_station"
+        ]
+    ]
+}

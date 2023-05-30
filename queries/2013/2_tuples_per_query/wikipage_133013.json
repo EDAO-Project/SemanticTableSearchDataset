@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Backyard_Sports_series",
+            "http://dbpedia.org/resource/Atari",
+            "http://dbpedia.org/resource/Humongous_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Conduit_2",
+            "http://dbpedia.org/resource/High_Voltage_Software",
+            "http://dbpedia.org/resource/Sega"
+        ]
+    ]
+}

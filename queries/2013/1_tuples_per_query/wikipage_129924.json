@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lake_Worth_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Marlene_Hagge"
+        ]
+    ]
+}

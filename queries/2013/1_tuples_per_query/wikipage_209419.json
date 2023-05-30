@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tour_Down_Under",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Alberto_Contador"
+        ]
+    ]
+}

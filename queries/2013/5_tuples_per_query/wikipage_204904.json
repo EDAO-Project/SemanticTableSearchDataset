@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Niclas_Alexandersson",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Diogo_Amado",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Ross_Barkley",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Barron",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Barry-Murphy",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

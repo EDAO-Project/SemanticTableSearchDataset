@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zenyatta",
+            "http://dbpedia.org/resource/John_Shirreffs",
+            "http://dbpedia.org/resource/Jerry_Moss"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghostzapper",
+            "http://dbpedia.org/resource/Robert_J._Frankel",
+            "http://dbpedia.org/resource/Frank_Stronach"
+        ],
+        [
+            "http://dbpedia.org/resource/Tiznow",
+            "http://dbpedia.org/resource/Jay_M._Robbins",
+            "http://dbpedia.org/resource/Michael_Cooper"
+        ],
+        [
+            "http://dbpedia.org/resource/Favorite_Trick",
+            "http://dbpedia.org/resource/Patrick_B._Byrne",
+            "http://dbpedia.org/resource/Joseph_LaCombe"
+        ],
+        [
+            "http://dbpedia.org/resource/Criminal_Type",
+            "http://dbpedia.org/resource/D._Wayne_Lukas",
+            "http://dbpedia.org/resource/Calumet_Farm"
+        ]
+    ]
+}

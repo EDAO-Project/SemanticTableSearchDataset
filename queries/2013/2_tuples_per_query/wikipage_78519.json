@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Canada_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/United_States_at_the_1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Germany_at_the_1928_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1932_Summer_Olympics",
+            "http://dbpedia.org/resource/United_States_at_the_1932_Summer_Olympics",
+            "http://dbpedia.org/resource/Canada_at_the_1932_Summer_Olympics",
+            "http://dbpedia.org/resource/Great_Britain_at_the_1932_Summer_Olympics"
+        ]
+    ]
+}

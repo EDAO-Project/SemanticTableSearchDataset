@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Deseret_News",
+            "http://dbpedia.org/resource/State_of_Deseret",
+            "http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+            "http://dbpedia.org/resource/Salt_Lake_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Journal_of_Discourses",
+            "http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+            "http://dbpedia.org/resource/George_D._Watt",
+            "http://dbpedia.org/resource/Liverpool"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stane_Derganc",
+            "http://dbpedia.org/resource/1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Gymnastics_at_the_1928_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivan_Gubijan",
+            "http://dbpedia.org/resource/1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1948_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allianz_Championship",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Rocco_Mediate"
+        ],
+        [
+            "http://dbpedia.org/resource/ACE_Group_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Bernhard_Langer"
+        ],
+        [
+            "http://dbpedia.org/resource/Insperity_Invitational",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Esteban_Toledo"
+        ],
+        [
+            "http://dbpedia.org/resource/Principal_Charity_Classic",
+            "http://dbpedia.org/resource/Iowa",
+            "http://dbpedia.org/resource/Russ_Cochran"
+        ],
+        [
+            "http://dbpedia.org/resource/Encompass_Championship",
+            "http://dbpedia.org/resource/Illinois",
+            "http://dbpedia.org/resource/Craig_Stadler"
+        ]
+    ]
+}

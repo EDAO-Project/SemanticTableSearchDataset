@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Star_Citizen",
+            "http://dbpedia.org/resource/Video_game",
+            "http://dbpedia.org/resource/Kickstarter",
+            "http://dbpedia.org/resource/Space_flight_simulator_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Torment:_Tides_of_Numenera",
+            "http://dbpedia.org/resource/Video_game",
+            "http://dbpedia.org/resource/Kickstarter",
+            "http://dbpedia.org/resource/Role-playing_video_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Pillars_of_Eternity",
+            "http://dbpedia.org/resource/Video_game",
+            "http://dbpedia.org/resource/Kickstarter",
+            "http://dbpedia.org/resource/Role-playing_video_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Broken_Age",
+            "http://dbpedia.org/resource/Video_game",
+            "http://dbpedia.org/resource/Kickstarter",
+            "http://dbpedia.org/resource/Graphic_adventure_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Wish_I_Was_Here",
+            "http://dbpedia.org/resource/Film",
+            "http://dbpedia.org/resource/Kickstarter",
+            "http://dbpedia.org/resource/Comedy-drama"
+        ]
+    ]
+}

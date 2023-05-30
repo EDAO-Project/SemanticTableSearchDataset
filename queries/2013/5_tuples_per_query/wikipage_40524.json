@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_British_Grand_Prix",
+            "http://dbpedia.org/resource/Peter_Revson",
+            "http://dbpedia.org/resource/Jody_Scheckter"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Spanish_Grand_Prix",
+            "http://dbpedia.org/resource/Jochen_Mass",
+            "http://dbpedia.org/resource/Rolf_Stommelen"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_British_Grand_Prix",
+            "http://dbpedia.org/resource/Niki_Lauda",
+            "http://dbpedia.org/resource/Clay_Regazzoni"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_German_Grand_Prix",
+            "http://dbpedia.org/resource/James_Hunt",
+            "http://dbpedia.org/resource/Niki_Lauda"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Italian_Grand_Prix",
+            "http://dbpedia.org/resource/Niki_Lauda",
+            "http://dbpedia.org/resource/Riccardo_Patrese"
+        ]
+    ]
+}

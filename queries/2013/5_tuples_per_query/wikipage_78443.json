@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/EMD_SW8",
+            "http://dbpedia.org/resource/AAR_wheel_arrangement",
+            "http://dbpedia.org/resource/EMD_567"
+        ],
+        [
+            "http://dbpedia.org/resource/EMD_SW9",
+            "http://dbpedia.org/resource/AAR_wheel_arrangement",
+            "http://dbpedia.org/resource/EMD_567"
+        ],
+        [
+            "http://dbpedia.org/resource/EMD_SW900",
+            "http://dbpedia.org/resource/AAR_wheel_arrangement",
+            "http://dbpedia.org/resource/EMD_567"
+        ],
+        [
+            "http://dbpedia.org/resource/EMD_SW1200",
+            "http://dbpedia.org/resource/AAR_wheel_arrangement",
+            "http://dbpedia.org/resource/EMD_567"
+        ],
+        [
+            "http://dbpedia.org/resource/EMD_SW1200",
+            "http://dbpedia.org/resource/AAR_wheel_arrangement",
+            "http://dbpedia.org/resource/EMD_567"
+        ]
+    ]
+}

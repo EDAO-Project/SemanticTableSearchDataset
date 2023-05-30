@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Beckham",
+            "http://dbpedia.org/resource/England_national_football_team",
+            "http://dbpedia.org/resource/Major_League_Soccer",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Simone_Cavalli",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/F.C._Bari_1908",
+            "http://dbpedia.org/resource/Frosinone_Calcio"
+        ]
+    ]
+}

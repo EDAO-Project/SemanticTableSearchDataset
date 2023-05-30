@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Will_Cliff",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Dwayne_Peel",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Welsh_Rugby_Union"
+        ]
+    ]
+}

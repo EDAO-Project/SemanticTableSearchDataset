@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Louis_Brandeis_House",
+            "http://dbpedia.org/resource/Chatham,_Massachusetts",
+            "http://dbpedia.org/resource/Louis_Brandeis"
+        ]
+    ]
+}

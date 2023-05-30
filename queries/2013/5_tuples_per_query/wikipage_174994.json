@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nadesja_Kibardina",
+            "http://dbpedia.org/resource/Svetlana_Bubnenkova",
+            "http://dbpedia.org/resource/Valentina_Gerasimova"
+        ],
+        [
+            "http://dbpedia.org/resource/Svetlana_Bubnenkova",
+            "http://dbpedia.org/resource/Aleksandra_Koliaseva",
+            "http://dbpedia.org/resource/Valentina_Gerasimova"
+        ],
+        [
+            "http://dbpedia.org/resource/Valentina_Polkhanova",
+            "http://dbpedia.org/resource/Zulfiya_Zabirova",
+            "http://dbpedia.org/resource/Svetlana_Bubnenkova"
+        ],
+        [
+            "http://dbpedia.org/resource/Zulfiya_Zabirova",
+            "http://dbpedia.org/resource/Valentina_Polkhanova",
+            "http://dbpedia.org/resource/Valentina_Gerasimova"
+        ],
+        [
+            "http://dbpedia.org/resource/Zulfiya_Zabirova",
+            "http://dbpedia.org/resource/Svetlana_Samokhvalova",
+            "http://dbpedia.org/resource/Valentina_Gerasimova"
+        ]
+    ]
+}

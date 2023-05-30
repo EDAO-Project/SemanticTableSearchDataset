@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuala_Lumpur_International_Airport",
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuala_Lumpur_International_Airport",
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/Kota_Kinabalu_International_Airport",
+            "http://dbpedia.org/resource/Kota_Kinabalu",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/Kota_Kinabalu_International_Airport",
+            "http://dbpedia.org/resource/Kota_Kinabalu",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuching_International_Airport",
+            "http://dbpedia.org/resource/Kuching",
+            "http://dbpedia.org/resource/Malaysia"
+        ]
+    ]
+}

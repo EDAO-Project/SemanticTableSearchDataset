@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tony_Yeboah",
+            "http://dbpedia.org/resource/Elland_Road",
+            "http://dbpedia.org/resource/Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Yeboah",
+            "http://dbpedia.org/resource/Selhurst_Park",
+            "http://dbpedia.org/resource/Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Wright",
+            "http://dbpedia.org/resource/Elland_Road",
+            "http://dbpedia.org/resource/Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Teddy_Sheringham",
+            "http://dbpedia.org/resource/Highfield_Road",
+            "http://dbpedia.org/resource/Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Shearer",
+            "http://dbpedia.org/resource/Ewood_Park",
+            "http://dbpedia.org/resource/Premier_League"
+        ]
+    ]
+}

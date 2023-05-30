@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Melbourne_Track_Classic",
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Meeting_Grand_Prix_IAAF_de_Dakar",
+            "http://dbpedia.org/resource/Dakar",
+            "http://dbpedia.org/resource/Senegal"
+        ],
+        [
+            "http://dbpedia.org/resource/Osaka_Grand_Prix",
+            "http://dbpedia.org/resource/Osaka",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Grande_Premio_Brasil_Caixa_de_Atletismo",
+            "http://dbpedia.org/resource/Rio_de_Janeiro",
+            "http://dbpedia.org/resource/Brazil"
+        ],
+        [
+            "http://dbpedia.org/resource/Fanny_Blankers-Koen_Games",
+            "http://dbpedia.org/resource/Hengelo",
+            "http://dbpedia.org/resource/Netherlands"
+        ]
+    ]
+}

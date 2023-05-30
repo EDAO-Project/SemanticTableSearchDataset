@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1954_in_sports",
+            "http://dbpedia.org/resource/Helsinki",
+            "http://dbpedia.org/resource/Finland"
+        ],
+        [
+            "http://dbpedia.org/resource/1955_in_sports",
+            "http://dbpedia.org/resource/Essen",
+            "http://dbpedia.org/resource/West_Germany"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aegrotocatellus",
+            "http://dbpedia.org/resource/Mick_Jagger",
+            "http://dbpedia.org/resource/Perirehaedulus_richardsi"
+        ],
+        [
+            "http://dbpedia.org/resource/Attenborosaurus",
+            "http://dbpedia.org/resource/David_Attenborough",
+            "http://dbpedia.org/resource/Plesiosauria"
+        ],
+        [
+            "http://dbpedia.org/resource/Bemaraha_woolly_lemur",
+            "http://dbpedia.org/resource/John_Cleese",
+            "http://dbpedia.org/resource/Woolly_lemur"
+        ],
+        [
+            "http://dbpedia.org/resource/Bagheera_kiplingi",
+            "http://dbpedia.org/resource/Rudyard_Kipling",
+            "http://dbpedia.org/resource/Bagheera"
+        ],
+        [
+            "http://dbpedia.org/resource/Cirolana_mercuryi",
+            "http://dbpedia.org/resource/Freddie_Mercury",
+            "http://dbpedia.org/resource/Isopoda"
+        ]
+    ]
+}

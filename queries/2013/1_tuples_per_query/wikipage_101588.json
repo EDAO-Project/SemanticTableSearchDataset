@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Reservoir",
+            "http://dbpedia.org/resource/Lake_Tana",
+            "http://dbpedia.org/resource/Blue_Nile"
+        ]
+    ]
+}

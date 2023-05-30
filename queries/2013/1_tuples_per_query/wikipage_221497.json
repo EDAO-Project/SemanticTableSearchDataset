@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ibiza",
+            "http://dbpedia.org/resource/Balearic_Islands",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/African_American_Civil_War_Memorial",
+            "http://dbpedia.org/resource/African-American_history",
+            "http://dbpedia.org/resource/National_Mall_and_Memorial_Parks"
+        ]
+    ]
+}

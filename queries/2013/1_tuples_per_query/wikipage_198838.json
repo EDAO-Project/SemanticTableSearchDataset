@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Norman_Jay_Coleman",
+            "http://dbpedia.org/resource/Missouri",
+            "http://dbpedia.org/resource/Grover_Cleveland"
+        ]
+    ]
+}

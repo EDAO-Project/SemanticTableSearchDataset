@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indio,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Coachella_Valley_Music_and_Arts_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Summercase"
+        ]
+    ]
+}

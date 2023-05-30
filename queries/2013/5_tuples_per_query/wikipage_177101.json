@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Air_Force",
+            "http://dbpedia.org/resource/Misawa_Air_Base",
+            "http://dbpedia.org/resource/Misawa,_Aomori"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Air_Force",
+            "http://dbpedia.org/resource/Yokota_Air_Base",
+            "http://dbpedia.org/resource/Fussa,_Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Air_Force",
+            "http://dbpedia.org/resource/Fukuoka_Airport",
+            "http://dbpedia.org/resource/Hakata-ku,_Fukuoka"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Air_Force",
+            "http://dbpedia.org/resource/Kadena_Air_Base",
+            "http://dbpedia.org/resource/Kadena,_Okinawa"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Army",
+            "http://dbpedia.org/resource/Camp_Zama",
+            "http://dbpedia.org/resource/Zama,_Kanagawa"
+        ]
+    ]
+}

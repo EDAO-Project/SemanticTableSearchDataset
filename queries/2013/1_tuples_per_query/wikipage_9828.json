@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Province_of_Bergamo",
+            "http://dbpedia.org/resource/Province_of_Biella",
+            "http://dbpedia.org/resource/Province_of_Belluno",
+            "http://dbpedia.org/resource/Province_of_Benevento",
+            "http://dbpedia.org/resource/Province_of_Bologna"
+        ]
+    ]
+}

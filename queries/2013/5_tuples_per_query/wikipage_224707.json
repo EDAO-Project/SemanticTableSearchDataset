@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NGC_4603",
+            "http://dbpedia.org/resource/Spiral_galaxy",
+            "http://dbpedia.org/resource/Centaurus"
+        ],
+        [
+            "http://dbpedia.org/resource/NGC_4605",
+            "http://dbpedia.org/resource/Spiral_galaxy",
+            "http://dbpedia.org/resource/Ursa_Major"
+        ],
+        [
+            "http://dbpedia.org/resource/NGC_4618",
+            "http://dbpedia.org/resource/Irregular_galaxy",
+            "http://dbpedia.org/resource/Canes_Venatici"
+        ],
+        [
+            "http://dbpedia.org/resource/NGC_4622",
+            "http://dbpedia.org/resource/Spiral_galaxy",
+            "http://dbpedia.org/resource/Centaurus"
+        ],
+        [
+            "http://dbpedia.org/resource/NGC_4625",
+            "http://dbpedia.org/resource/Irregular_galaxy",
+            "http://dbpedia.org/resource/Canes_Venatici"
+        ]
+    ]
+}

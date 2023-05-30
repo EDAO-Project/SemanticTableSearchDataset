@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_ICF_Canoe_Slalom_World_Championships",
+            "http://dbpedia.org/resource/Heidi_Pillwein",
+            "http://dbpedia.org/resource/Fritzi_Schwingl",
+            "http://dbpedia.org/resource/Gerti_Pertlwieser"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_ICF_Canoe_Slalom_World_Championships",
+            "http://dbpedia.org/resource/Gerti_Pertlwieser",
+            "http://dbpedia.org/resource/Fritzi_Schwingl",
+            "http://dbpedia.org/resource/Anni_Reifinger"
+        ],
+        [
+            "http://dbpedia.org/resource/1955_ICF_Canoe_Slalom_World_Championships",
+            "http://dbpedia.org/resource/Rosemarie_Biesinger",
+            "http://dbpedia.org/resource/Karin_Tietze",
+            "http://dbpedia.org/resource/Eva_Setzkorn"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_ICF_Canoe_Slalom_World_Championships",
+            "http://dbpedia.org/resource/Brigitte_Magnus",
+            "http://dbpedia.org/resource/Eva_Setzkorn",
+            "http://dbpedia.org/resource/Anneliese_Seidel"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_ICF_Canoe_Slalom_World_Championships",
+            "http://dbpedia.org/resource/Hilde_Urbaniak",
+            "http://dbpedia.org/resource/Anneliese_Bauer",
+            "http://dbpedia.org/resource/Inge_Walthemate"
+        ]
+    ]
+}

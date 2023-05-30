@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prospeed_Competition",
+            "http://dbpedia.org/resource/Porsche_911_GT3",
+            "http://dbpedia.org/resource/Porsche",
+            "http://dbpedia.org/resource/Jan_Heylen",
+            "http://dbpedia.org/resource/Michelin"
+        ],
+        [
+            "http://dbpedia.org/resource/JMB_Racing",
+            "http://dbpedia.org/resource/Ferrari_458",
+            "http://dbpedia.org/resource/Ferrari",
+            "http://dbpedia.org/resource/Nicolas_Marroc",
+            "http://dbpedia.org/resource/Michelin"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Football_League_First_Division",
+            "http://dbpedia.org/resource/Trevor_Hockey",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Fourth_Division",
+            "http://dbpedia.org/resource/Mike_Trusson",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

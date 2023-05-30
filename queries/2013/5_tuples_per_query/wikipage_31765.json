@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Nina_Zhuk",
+            "http://dbpedia.org/resource/Ludmila_Belousova",
+            "http://dbpedia.org/resource/Maya_Belenkaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Nina_Zhuk",
+            "http://dbpedia.org/resource/Ludmila_Belousova",
+            "http://dbpedia.org/resource/Maya_Belenkaya"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Nina_Zhuk",
+            "http://dbpedia.org/resource/Ludmila_Belousova",
+            "http://dbpedia.org/resource/Svetlana_Smirnova"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Nina_Zhuk",
+            "http://dbpedia.org/resource/Ludmila_Belousova",
+            "http://dbpedia.org/resource/Tatyana_Zhuk"
+        ],
+        [
+            "http://dbpedia.org/resource/Riga",
+            "http://dbpedia.org/resource/Ludmila_Belousova",
+            "http://dbpedia.org/resource/Tatyana_Zhuk",
+            "http://dbpedia.org/resource/Tamara_Moskvina"
+        ]
+    ]
+}

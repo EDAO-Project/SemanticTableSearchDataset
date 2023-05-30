@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carina_Adolfsson_Elgestam",
+            "http://dbpedia.org/resource/Swedish_Social_Democratic_Party",
+            "http://dbpedia.org/resource/Kronoberg_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Birgitta_Ahlqvist",
+            "http://dbpedia.org/resource/Swedish_Social_Democratic_Party",
+            "http://dbpedia.org/resource/Norrbotten_County"
+        ]
+    ]
+}

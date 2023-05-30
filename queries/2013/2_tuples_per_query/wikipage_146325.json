@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Bannerman",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/Melbourne_Cricket_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/W._G._Grace",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/The_Oval"
+        ]
+    ]
+}

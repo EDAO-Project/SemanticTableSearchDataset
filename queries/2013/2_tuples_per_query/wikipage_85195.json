@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adria_Bernardi",
+            "http://dbpedia.org/resource/Raffaello_Baldini",
+            "http://dbpedia.org/resource/Geoffrey_Brock"
+        ],
+        [
+            "http://dbpedia.org/resource/John_DuVal",
+            "http://dbpedia.org/resource/Trilussa",
+            "http://dbpedia.org/resource/Geoffrey_Brock"
+        ]
+    ]
+}

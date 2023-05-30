@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gstaad",
+            "http://dbpedia.org/resource/Kazuko_Sawamatsu",
+            "http://dbpedia.org/resource/Pam_Teeguarden"
+        ],
+        [
+            "http://dbpedia.org/resource/Gstaad",
+            "http://dbpedia.org/resource/Glynis_Coles",
+            "http://dbpedia.org/resource/Linky_Boshoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Gstaad",
+            "http://dbpedia.org/resource/Lesley_Hunt",
+            "http://dbpedia.org/resource/Helen_Gourlay"
+        ],
+        [
+            "http://dbpedia.org/resource/Lugano",
+            "http://dbpedia.org/resource/Chris_Evert",
+            "http://dbpedia.org/resource/Virginia_Ruzici"
+        ],
+        [
+            "http://dbpedia.org/resource/Lugano",
+            "http://dbpedia.org/resource/Bonnie_Gadusek",
+            "http://dbpedia.org/resource/Manuela_Maleeva"
+        ]
+    ]
+}

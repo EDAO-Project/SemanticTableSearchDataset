@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Walter_Whittaker",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Welsh_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_McCandless",
+            "http://dbpedia.org/resource/Northern_Ireland",
+            "http://dbpedia.org/resource/Football_League_Third_Division_South"
+        ]
+    ]
+}

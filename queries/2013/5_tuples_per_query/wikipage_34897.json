@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chaotianmen_Bridge",
+            "http://dbpedia.org/resource/Chongqing",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Lupu_Bridge",
+            "http://dbpedia.org/resource/Shanghai",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Bosideng_Bridge",
+            "http://dbpedia.org/resource/Hejiang_County",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/New_River_Gorge_Bridge",
+            "http://dbpedia.org/resource/Fayetteville,_West_Virginia",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Bayonne_Bridge",
+            "http://dbpedia.org/resource/Kill_Van_Kull",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

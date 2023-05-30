@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/007_Legends",
+            "http://dbpedia.org/resource/First-person_shooter",
+            "http://dbpedia.org/resource/Eurocom",
+            "http://dbpedia.org/resource/Activision"
+        ],
+        [
+            "http://dbpedia.org/resource/Call_of_Duty:_Black_Ops_II",
+            "http://dbpedia.org/resource/First-person_shooter",
+            "http://dbpedia.org/resource/Treyarch",
+            "http://dbpedia.org/resource/Activision"
+        ]
+    ]
+}

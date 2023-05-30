@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nottingham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/University_of_Nottingham"
+        ],
+        [
+            "http://dbpedia.org/resource/York",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/University_of_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingston_upon_Hull",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/University_of_Hull"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_upon_Tyne",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Newcastle_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Lancaster,_Lancashire",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Lancaster_University"
+        ]
+    ]
+}

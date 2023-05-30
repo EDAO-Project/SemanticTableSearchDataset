@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richie_Ashburn",
+            "http://dbpedia.org/resource/1963_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/1997_Major_League_Baseball_season"
+        ]
+    ]
+}

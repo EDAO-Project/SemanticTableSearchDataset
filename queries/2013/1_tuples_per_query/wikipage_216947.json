@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_Australian_Grand_Prix",
+            "http://dbpedia.org/resource/2001_Australian_Grand_Prix",
+            "http://dbpedia.org/resource/2002_Australian_Grand_Prix",
+            "http://dbpedia.org/resource/2003_Australian_Grand_Prix",
+            "http://dbpedia.org/resource/2004_Australian_Grand_Prix",
+            "http://dbpedia.org/resource/2005_Australian_Grand_Prix",
+            "http://dbpedia.org/resource/2006_Bahrain_Grand_Prix",
+            "http://dbpedia.org/resource/2007_Australian_Grand_Prix",
+            "http://dbpedia.org/resource/2008_Australian_Grand_Prix",
+            "http://dbpedia.org/resource/2009_Australian_Grand_Prix"
+        ]
+    ]
+}

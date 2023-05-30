@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alain_Bernard",
+            "http://dbpedia.org/resource/Yevgeny_Lagunov",
+            "http://dbpedia.org/resource/William_Meynard"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Biedermann",
+            "http://dbpedia.org/resource/Nikita_Lobintsev",
+            "http://dbpedia.org/resource/Sebastiaan_Verschuren"
+        ],
+        [
+            "http://dbpedia.org/resource/Camille_Lacourt",
+            "http://dbpedia.org/resource/Liam_Tancock",
+            "http://dbpedia.org/resource/Guy_Barnea"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanislav_Donets",
+            "http://dbpedia.org/resource/Markus_Rogan",
+            "http://dbpedia.org/resource/Benjamin_Stasiulis"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabio_Scozzoli",
+            "http://dbpedia.org/resource/List_of_Romanian_records_in_swimming",
+            "http://dbpedia.org/resource/Lennart_Stekelenburg"
+        ]
+    ]
+}

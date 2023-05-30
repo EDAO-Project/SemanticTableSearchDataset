@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Knight_International_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/NRG_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lecture_hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Comerica_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Reno,_Nevada",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Reno_Events_Center"
+        ]
+    ]
+}

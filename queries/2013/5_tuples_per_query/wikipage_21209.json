@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boring_Lava_Field",
+            "http://dbpedia.org/resource/Volcanic_field",
+            "http://dbpedia.org/resource/Pleistocene"
+        ],
+        [
+            "http://dbpedia.org/resource/Rocky_Butte",
+            "http://dbpedia.org/resource/Cinder_cone",
+            "http://dbpedia.org/resource/Pleistocene"
+        ],
+        [
+            "http://dbpedia.org/resource/Powell_Butte",
+            "http://dbpedia.org/resource/Cinder_cone",
+            "http://dbpedia.org/resource/Pleistocene"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Sylvania",
+            "http://dbpedia.org/resource/Cinder_cone",
+            "http://dbpedia.org/resource/Pleistocene"
+        ],
+        [
+            "http://dbpedia.org/resource/Three_Fingered_Jack",
+            "http://dbpedia.org/resource/Shield_volcano",
+            "http://dbpedia.org/resource/Pleistocene"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Victor_Adebowale,_Baron_Adebowale",
+            "http://dbpedia.org/resource/Crossbencher",
+            "http://dbpedia.org/resource/Life_peer",
+            "http://dbpedia.org/resource/Advisory_Council_on_the_Misuse_of_Drugs"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Alderdice,_Baron_Alderdice",
+            "http://dbpedia.org/resource/Liberal_Democrats",
+            "http://dbpedia.org/resource/Life_peer",
+            "http://dbpedia.org/resource/Northern_Ireland_Assembly"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Allan,_Baron_Allan_of_Hallam",
+            "http://dbpedia.org/resource/Liberal_Democrats",
+            "http://dbpedia.org/resource/Life_peer",
+            "http://dbpedia.org/resource/Information_Committee"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Armstrong,_Baron_Armstrong_of_Ilminster",
+            "http://dbpedia.org/resource/Crossbencher",
+            "http://dbpedia.org/resource/Life_peer",
+            "http://dbpedia.org/resource/Cabinet_Secretary"
+        ],
+        [
+            "http://dbpedia.org/resource/Amir_Bhatia,_Baron_Bhatia",
+            "http://dbpedia.org/resource/Non-affiliated_members_of_the_House_of_Lords",
+            "http://dbpedia.org/resource/Life_peer",
+            "http://dbpedia.org/resource/United_Kingdom_parliamentary_expenses_scandal"
+        ]
+    ]
+}

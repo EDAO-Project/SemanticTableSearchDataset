@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Valeriy_Borzov",
+            "http://dbpedia.org/resource/Renate_Stecher"
+        ],
+        [
+            "http://dbpedia.org/resource/Sofia",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/East_Germany"
+        ]
+    ]
+}

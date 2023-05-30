@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base",
+            "http://dbpedia.org/resource/Dick_Rutan",
+            "http://dbpedia.org/resource/Rutan_Voyager"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/Walter_E._Lees",
+            "http://dbpedia.org/resource/AviaBellanca_Aircraft"
+        ],
+        [
+            "http://dbpedia.org/resource/Dessau",
+            "http://dbpedia.org/resource/Johann_Risztics",
+            "http://dbpedia.org/resource/Junkers_W_33"
+        ],
+        [
+            "http://dbpedia.org/resource/Long_Island",
+            "http://dbpedia.org/resource/Clarence_Chamberlin",
+            "http://dbpedia.org/resource/AviaBellanca_Aircraft"
+        ],
+        [
+            "http://dbpedia.org/resource/Wright-Patterson_Air_Force_Base",
+            "http://dbpedia.org/resource/Oakley_G._Kelly",
+            "http://dbpedia.org/resource/Fokker_F.IV"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amy_Van_Dyken",
+            "http://dbpedia.org/resource/Angel_Martino",
+            "http://dbpedia.org/resource/Jenny_Thompson"
+        ],
+        [
+            "http://dbpedia.org/resource/Amy_Van_Dyken",
+            "http://dbpedia.org/resource/Angel_Martino",
+            "http://dbpedia.org/resource/Jenny_Thompson"
+        ],
+        [
+            "http://dbpedia.org/resource/Cristina_Teuscher",
+            "http://dbpedia.org/resource/Trina_Jackson",
+            "http://dbpedia.org/resource/Lisa_Jacob"
+        ],
+        [
+            "http://dbpedia.org/resource/Janet_Evans",
+            "http://dbpedia.org/resource/Cristina_Teuscher",
+            "http://dbpedia.org/resource/Trina_Jackson"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooke_Bennett",
+            "http://dbpedia.org/resource/Janet_Evans",
+            "http://dbpedia.org/resource/Trina_Jackson"
+        ]
+    ]
+}

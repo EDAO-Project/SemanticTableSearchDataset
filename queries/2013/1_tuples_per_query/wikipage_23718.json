@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aeroflot",
+            "http://dbpedia.org/resource/Common_stock",
+            "http://dbpedia.org/resource/Transport"
+        ]
+    ]
+}

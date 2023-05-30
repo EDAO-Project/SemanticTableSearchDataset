@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rio_Grande_Valley_Vipers",
+            "http://dbpedia.org/resource/Basketball",
+            "http://dbpedia.org/resource/NBA_Development_League",
+            "http://dbpedia.org/resource/State_Farm_Arena"
+        ]
+    ]
+}

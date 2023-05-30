@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amherst,_Quebec",
+            "http://dbpedia.org/resource/Les_Laurentides_Regional_County_Municipality",
+            "http://dbpedia.org/resource/Laurentides"
+        ],
+        [
+            "http://dbpedia.org/resource/Arundel,_Quebec",
+            "http://dbpedia.org/resource/Les_Laurentides_Regional_County_Municipality",
+            "http://dbpedia.org/resource/Laurentides"
+        ],
+        [
+            "http://dbpedia.org/resource/Chichester,_Quebec",
+            "http://dbpedia.org/resource/Pontiac_Regional_County_Municipality",
+            "http://dbpedia.org/resource/Outaouais"
+        ],
+        [
+            "http://dbpedia.org/resource/Gore,_Quebec",
+            "http://dbpedia.org/resource/Argenteuil_Regional_County_Municipality",
+            "http://dbpedia.org/resource/Laurentides"
+        ],
+        [
+            "http://dbpedia.org/resource/Harrington,_Quebec",
+            "http://dbpedia.org/resource/Argenteuil_Regional_County_Municipality",
+            "http://dbpedia.org/resource/Laurentides"
+        ]
+    ]
+}

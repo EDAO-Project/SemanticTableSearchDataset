@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Kimeli_Some",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Feyse_Tadese",
+            "http://dbpedia.org/resource/Ethiopia"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanley_Biwott",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Tirfi_Tsegaye",
+            "http://dbpedia.org/resource/Ethiopia"
+        ],
+        [
+            "http://dbpedia.org/resource/Vincent_Kipruto",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Atsede_Baysa",
+            "http://dbpedia.org/resource/Ethiopia"
+        ],
+        [
+            "http://dbpedia.org/resource/Tsegaye_Kebede",
+            "http://dbpedia.org/resource/Ethiopia",
+            "http://dbpedia.org/resource/Martha_Komu",
+            "http://dbpedia.org/resource/Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/Mubarak_Hassan_Shami",
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Askale_Tafa",
+            "http://dbpedia.org/resource/Ethiopia"
+        ]
+    ]
+}

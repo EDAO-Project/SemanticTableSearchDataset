@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeff_Duback",
+            "http://dbpedia.org/resource/Paul_Caligiuri",
+            "http://dbpedia.org/resource/Mark_Francis",
+            "http://dbpedia.org/resource/John_Catliff"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Meola",
+            "http://dbpedia.org/resource/Jeff_Agoos",
+            "http://dbpedia.org/resource/Henry_Gutierrez",
+            "http://dbpedia.org/resource/Scott_Benedetti"
+        ]
+    ]
+}

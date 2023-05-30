@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_Mason_Patriots",
+            "http://dbpedia.org/resource/George_Mason_University",
+            "http://dbpedia.org/resource/Fairfax,_Virginia",
+            "http://dbpedia.org/resource/Atlantic_10_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Hampton_Pirates_and_Lady_Pirates",
+            "http://dbpedia.org/resource/Hampton_University",
+            "http://dbpedia.org/resource/Hampton,_Virginia",
+            "http://dbpedia.org/resource/Mid-Eastern_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Madison_Dukes",
+            "http://dbpedia.org/resource/James_Madison_University",
+            "http://dbpedia.org/resource/Harrisonburg,_Virginia",
+            "http://dbpedia.org/resource/Colonial_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Liberty_Flames_and_Lady_Flames",
+            "http://dbpedia.org/resource/Liberty_University",
+            "http://dbpedia.org/resource/Lynchburg,_Virginia",
+            "http://dbpedia.org/resource/Big_South_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Longwood_Lancers",
+            "http://dbpedia.org/resource/Longwood_University",
+            "http://dbpedia.org/resource/Farmville,_Virginia",
+            "http://dbpedia.org/resource/Big_South_Conference"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Jack_Heidemann",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Brenham_High_School"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/Edwin_Jackson",
+            "http://dbpedia.org/resource/Randy_Wells",
+            "http://dbpedia.org/resource/Sergio_Santos"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Washington_Nationals_season",
+            "http://dbpedia.org/resource/Ryan_Mattheus",
+            "http://dbpedia.org/resource/Kerry_Wood",
+            "http://dbpedia.org/resource/Drew_Storen"
+        ]
+    ]
+}

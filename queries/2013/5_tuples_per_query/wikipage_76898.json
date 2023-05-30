@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KAPI",
+            "http://dbpedia.org/resource/Ruston,_Louisiana",
+            "http://dbpedia.org/resource/American_Family_Association",
+            "http://dbpedia.org/resource/Religious_broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Family_Radio",
+            "http://dbpedia.org/resource/Alexandria,_Louisiana",
+            "http://dbpedia.org/resource/American_Family_Association",
+            "http://dbpedia.org/resource/Religious_broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Family_Radio",
+            "http://dbpedia.org/resource/Many,_Louisiana",
+            "http://dbpedia.org/resource/American_Family_Association",
+            "http://dbpedia.org/resource/Religious_broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/KAXV",
+            "http://dbpedia.org/resource/Bastrop,_Louisiana",
+            "http://dbpedia.org/resource/American_Family_Association",
+            "http://dbpedia.org/resource/Religious_broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Family_Radio",
+            "http://dbpedia.org/resource/DeRidder,_Louisiana",
+            "http://dbpedia.org/resource/American_Family_Association",
+            "http://dbpedia.org/resource/Religious_broadcasting"
+        ]
+    ]
+}

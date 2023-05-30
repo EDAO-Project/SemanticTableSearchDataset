@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chichen_Itza",
+            "http://dbpedia.org/resource/Yucatec_Maya_language",
+            "http://dbpedia.org/resource/Itza_people",
+            "http://dbpedia.org/resource/Maya_civilization"
+        ]
+    ]
+}

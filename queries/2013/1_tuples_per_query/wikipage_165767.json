@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lal_Bangla",
+            "http://dbpedia.org/resource/Delhi_Golf_Club",
+            "http://dbpedia.org/resource/Delhi"
+        ]
+    ]
+}

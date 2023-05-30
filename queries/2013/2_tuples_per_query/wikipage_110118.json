@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nathan_MacKinnon",
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/Halifax_Mooseheads"
+        ],
+        [
+            "http://dbpedia.org/resource/Darnell_Nurse",
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Sault_Ste._Marie_Greyhounds"
+        ]
+    ]
+}

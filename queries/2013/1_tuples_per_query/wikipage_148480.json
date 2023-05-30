@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CKBA-FM",
+            "http://dbpedia.org/resource/Athabasca,_Alberta",
+            "http://dbpedia.org/resource/Newcap_Radio",
+            "http://dbpedia.org/resource/Classic_hits"
+        ]
+    ]
+}

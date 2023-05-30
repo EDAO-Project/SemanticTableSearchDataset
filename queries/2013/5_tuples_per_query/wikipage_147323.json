@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbotsleigh",
+            "http://dbpedia.org/resource/Wahroonga,_New_South_Wales",
+            "http://dbpedia.org/resource/Anglican_Diocese_of_Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Technical_Colleges",
+            "http://dbpedia.org/resource/Kings_Park,_New_South_Wales",
+            "http://dbpedia.org/resource/Anglican_Diocese_of_Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Arden_Anglican_School",
+            "http://dbpedia.org/resource/Beecroft,_New_South_Wales",
+            "http://dbpedia.org/resource/Anglican_Diocese_of_Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Arndell_Anglican_College",
+            "http://dbpedia.org/resource/Oakville,_New_South_Wales",
+            "http://dbpedia.org/resource/Anglican_Diocese_of_Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Barker_College",
+            "http://dbpedia.org/resource/Hornsby,_New_South_Wales",
+            "http://dbpedia.org/resource/Anglican_Diocese_of_Sydney"
+        ]
+    ]
+}

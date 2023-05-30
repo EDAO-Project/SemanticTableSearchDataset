@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_Nippon_Professional_Baseball_season",
+            "http://dbpedia.org/resource/Makoto_Kozuru",
+            "http://dbpedia.org/resource/Yokohama_DeNA_BayStars",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Home_run"
+        ]
+    ]
+}

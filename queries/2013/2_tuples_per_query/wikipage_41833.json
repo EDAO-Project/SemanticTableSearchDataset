@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Acquafresca",
+            "http://dbpedia.org/resource/A.C.D._Treviso_2013",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Maurizio_Anastasi",
+            "http://dbpedia.org/resource/A.C._Cesena",
+            "http://dbpedia.org/resource/Calcio_Catania"
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Illinois_campaign",
+            "http://dbpedia.org/resource/Vincennes,_Indiana",
+            "http://dbpedia.org/resource/American_Revolutionary_War",
+            "http://dbpedia.org/resource/Illinois_campaign",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Petit_Fort",
+            "http://dbpedia.org/resource/Indiana_Dunes_National_Lakeshore",
+            "http://dbpedia.org/resource/American_Revolutionary_War",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

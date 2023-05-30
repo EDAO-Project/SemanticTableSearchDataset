@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giacomo_Bassoli",
+            "http://dbpedia.org/resource/A.C._Cesena",
+            "http://dbpedia.org/resource/Bologna_F.C._1909"
+        ],
+        [
+            "http://dbpedia.org/resource/Oscar_Branzani",
+            "http://dbpedia.org/resource/A.S._Cittadella",
+            "http://dbpedia.org/resource/U.C._Sampdoria"
+        ]
+    ]
+}

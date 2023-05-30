@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kagoshima",
+            "http://dbpedia.org/resource/Kyushu",
+            "http://dbpedia.org/resource/Kagoshima_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Kurume,_Fukuoka",
+            "http://dbpedia.org/resource/Kyushu",
+            "http://dbpedia.org/resource/Fukuoka_Prefecture"
+        ]
+    ]
+}

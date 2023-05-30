@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_of_Bennelong",
+            "http://dbpedia.org/resource/John_Howard",
+            "http://dbpedia.org/resource/Maxine_McKew"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Blair",
+            "http://dbpedia.org/resource/Cameron_Thompson",
+            "http://dbpedia.org/resource/Shayne_Neumann"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Bonner",
+            "http://dbpedia.org/resource/Ross_Vasta",
+            "http://dbpedia.org/resource/Kerry_Rea"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Corangamite",
+            "http://dbpedia.org/resource/Stewart_McArthur",
+            "http://dbpedia.org/resource/Darren_Cheeseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Deakin",
+            "http://dbpedia.org/resource/Phil_Barresi",
+            "http://dbpedia.org/resource/Mike_Symon"
+        ]
+    ]
+}

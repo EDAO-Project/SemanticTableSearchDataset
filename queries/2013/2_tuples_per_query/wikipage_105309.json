@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/De_Bonte_Wever",
+            "http://dbpedia.org/resource/Annamarie_Thomas",
+            "http://dbpedia.org/resource/Tonny_de_Jong",
+            "http://dbpedia.org/resource/Carla_Zijlstra"
+        ],
+        [
+            "http://dbpedia.org/resource/De_Bonte_Wever",
+            "http://dbpedia.org/resource/Tonny_de_Jong",
+            "http://dbpedia.org/resource/Carla_Zijlstra",
+            "http://dbpedia.org/resource/Barbara_de_Loor"
+        ]
+    ]
+}

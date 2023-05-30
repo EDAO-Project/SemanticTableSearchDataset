@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roanoke,_Virginia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Berglund_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Chattanooga,_Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/McKenzie_Arena"
+        ]
+    ]
+}

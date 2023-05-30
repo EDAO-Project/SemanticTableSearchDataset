@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_American_Football_League_draft",
+            "http://dbpedia.org/resource/Kermit_Alexander",
+            "http://dbpedia.org/resource/Defensive_back",
+            "http://dbpedia.org/resource/UCLA_Bruins_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_NFL_draft",
+            "http://dbpedia.org/resource/Floyd_Little",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Syracuse_Orange"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bolton",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Bolton",
+            "http://dbpedia.org/resource/County_Borough_of_Bolton"
+        ],
+        [
+            "http://dbpedia.org/resource/Farnworth",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Bolton",
+            "http://dbpedia.org/resource/Municipal_Borough_of_Farnworth"
+        ]
+    ]
+}

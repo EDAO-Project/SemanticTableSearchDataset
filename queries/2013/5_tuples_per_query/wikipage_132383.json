@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1896_Summer_Olympics",
+            "http://dbpedia.org/resource/Marathon,_Greece",
+            "http://dbpedia.org/resource/Athletics_at_the_1896_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1908_Summer_Olympics",
+            "http://dbpedia.org/resource/White_City_Stadium",
+            "http://dbpedia.org/resource/Archery_at_the_1908_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1912_Summer_Olympics",
+            "http://dbpedia.org/resource/Liljeholmen",
+            "http://dbpedia.org/resource/Equestrian_at_the_1912_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1924_Summer_Olympics",
+            "http://dbpedia.org/resource/Stade_Olympique_Yves-du-Manoir",
+            "http://dbpedia.org/resource/Athletics_at_the_1924_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/AVUS",
+            "http://dbpedia.org/resource/Athletics_at_the_1936_Summer_Olympics"
+        ]
+    ]
+}

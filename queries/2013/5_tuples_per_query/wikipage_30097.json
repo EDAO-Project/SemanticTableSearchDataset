@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amanda_of_Honeymoon_Hill",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Anne_Hummert"
+        ],
+        [
+            "http://dbpedia.org/resource/Backstage_Wife",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Anne_Hummert"
+        ],
+        [
+            "http://dbpedia.org/resource/Betty_and_Bob",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Anne_Hummert"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Harum",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Anne_Hummert"
+        ],
+        [
+            "http://dbpedia.org/resource/Just_Plain_Bill",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Anne_Hummert"
+        ]
+    ]
+}

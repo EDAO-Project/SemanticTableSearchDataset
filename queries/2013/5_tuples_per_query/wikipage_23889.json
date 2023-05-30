@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giulio_Tremonti",
+            "http://dbpedia.org/resource/Forza_Italia",
+            "http://dbpedia.org/resource/Berlusconi_II_Cabinet"
+        ],
+        [
+            "http://dbpedia.org/resource/Silvio_Berlusconi",
+            "http://dbpedia.org/resource/Forza_Italia",
+            "http://dbpedia.org/resource/Berlusconi_II_Cabinet"
+        ],
+        [
+            "http://dbpedia.org/resource/Domenico_Siniscalco",
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/Berlusconi_II_Cabinet"
+        ],
+        [
+            "http://dbpedia.org/resource/Domenico_Siniscalco",
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/Berlusconi_III_Cabinet"
+        ],
+        [
+            "http://dbpedia.org/resource/Giulio_Tremonti",
+            "http://dbpedia.org/resource/Forza_Italia",
+            "http://dbpedia.org/resource/Berlusconi_III_Cabinet"
+        ]
+    ]
+}

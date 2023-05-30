@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Antonio_Bastardo",
+            "http://dbpedia.org/resource/Jonny_Venters",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Colorado_Rockies_season",
+            "http://dbpedia.org/resource/Chad_Durbin",
+            "http://dbpedia.org/resource/Edgmer_Escalona",
+            "http://dbpedia.org/resource/Craig_Kimbrel"
+        ]
+    ]
+}

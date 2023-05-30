@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aalborg",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Aalborg_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Aarhus",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Aarhus_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Aberdeen",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Aberdeen_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Bergen",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Bergen_Airport,_Flesland"
+        ],
+        [
+            "http://dbpedia.org/resource/Billund,_Denmark",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Billund_Airport"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Graham_Napier",
+            "http://dbpedia.org/resource/Essex_County_Cricket_Club",
+            "http://dbpedia.org/resource/Not_out",
+            "http://dbpedia.org/resource/2008_Twenty20_Cup",
+            "http://dbpedia.org/resource/Sussex_County_Cricket_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Cameron_White",
+            "http://dbpedia.org/resource/Somerset_County_Cricket_Club",
+            "http://dbpedia.org/resource/Not_out",
+            "http://dbpedia.org/resource/2006_Twenty20_Cup",
+            "http://dbpedia.org/resource/Worcestershire_County_Cricket_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Cameron_White",
+            "http://dbpedia.org/resource/Somerset_County_Cricket_Club",
+            "http://dbpedia.org/resource/Not_out",
+            "http://dbpedia.org/resource/2006_Twenty20_Cup",
+            "http://dbpedia.org/resource/Gloucestershire_County_Cricket_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Graeme_Hick",
+            "http://dbpedia.org/resource/Worcestershire_County_Cricket_Club",
+            "http://dbpedia.org/resource/Not_out",
+            "http://dbpedia.org/resource/2004_Twenty20_Cup",
+            "http://dbpedia.org/resource/Northamptonshire_County_Cricket_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Lance_Klusener",
+            "http://dbpedia.org/resource/Northamptonshire_County_Cricket_Club",
+            "http://dbpedia.org/resource/Not_out",
+            "http://dbpedia.org/resource/2007_Twenty20_Cup",
+            "http://dbpedia.org/resource/Worcestershire_County_Cricket_Club"
+        ]
+    ]
+}

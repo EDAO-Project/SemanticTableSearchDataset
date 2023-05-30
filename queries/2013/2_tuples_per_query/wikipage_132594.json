@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kabang",
+            "http://dbpedia.org/resource/Kabang_District",
+            "http://dbpedia.org/resource/Yala_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Thai_curry",
+            "http://dbpedia.org/resource/Det_Udom_District",
+            "http://dbpedia.org/resource/Ubon_Ratchathani"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Serge_Koussevitzky",
+            "http://dbpedia.org/resource/BBC_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Naxos_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Beecham",
+            "http://dbpedia.org/resource/New_York_Philharmonic",
+            "http://dbpedia.org/resource/Dutton_Vocalion"
+        ],
+        [
+            "http://dbpedia.org/resource/Sixten_Ehrling",
+            "http://dbpedia.org/resource/Royal_Stockholm_Philharmonic_Orchestra",
+            "http://dbpedia.org/resource/Finlandia"
+        ],
+        [
+            "http://dbpedia.org/resource/Herbert_von_Karajan",
+            "http://dbpedia.org/resource/Philharmonia_Orchestra",
+            "http://dbpedia.org/resource/EMI"
+        ],
+        [
+            "http://dbpedia.org/resource/Eugene_Ormandy",
+            "http://dbpedia.org/resource/Philadelphia_Orchestra",
+            "http://dbpedia.org/resource/Sony_Classical_Records"
+        ]
+    ]
+}

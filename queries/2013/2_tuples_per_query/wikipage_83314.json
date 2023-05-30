@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Second_Avenue_Subway",
+            "http://dbpedia.org/resource/Manhattan",
+            "http://dbpedia.org/resource/Proposed_expansion_of_the_New_York_City_Subway"
+        ],
+        [
+            "http://dbpedia.org/resource/IRT_Lexington_Avenue_Line",
+            "http://dbpedia.org/resource/Manhattan",
+            "http://dbpedia.org/resource/Cross-platform_interchange"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FIBT_World_Championships_1930",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

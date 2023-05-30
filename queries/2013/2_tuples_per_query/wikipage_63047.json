@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1962_Los_Angeles_Angels_season",
+            "http://dbpedia.org/resource/Eli_Grba",
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Comiskey_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Los_Angeles_Angels_season",
+            "http://dbpedia.org/resource/Ken_McBride",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Dodger_Stadium"
+        ]
+    ]
+}

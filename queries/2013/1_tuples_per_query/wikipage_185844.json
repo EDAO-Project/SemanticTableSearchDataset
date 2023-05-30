@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Monte_Rosa",
+            "http://dbpedia.org/resource/Pennine_Alps",
+            "http://dbpedia.org/resource/Valais"
+        ]
+    ]
+}

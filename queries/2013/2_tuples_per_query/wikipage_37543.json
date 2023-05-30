@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Legion_of_Honour",
+            "http://dbpedia.org/resource/French_Third_Republic",
+            "http://dbpedia.org/resource/Yarbay"
+        ],
+        [
+            "http://dbpedia.org/resource/Orders,_decorations,_and_medals_of_Bulgaria",
+            "http://dbpedia.org/resource/Ferdinand_I_of_Bulgaria",
+            "http://dbpedia.org/resource/Gallipoli_Campaign"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brady_Anderson_and_Waldemar_Ager_House",
+            "http://dbpedia.org/resource/Eau_Claire,_Wisconsin",
+            "http://dbpedia.org/resource/Victorian_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarge_Boyd_Bandshell",
+            "http://dbpedia.org/resource/Eau_Claire,_Wisconsin",
+            "http://dbpedia.org/resource/Works_Progress_Administration"
+        ]
+    ]
+}

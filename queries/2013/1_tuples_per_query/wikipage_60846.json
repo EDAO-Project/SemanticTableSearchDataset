@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alain_Bernard",
+            "http://dbpedia.org/resource/Yevgeny_Lagunov",
+            "http://dbpedia.org/resource/William_Meynard"
+        ]
+    ]
+}

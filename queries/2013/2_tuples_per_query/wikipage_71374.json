@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_Robertson_Aikman",
+            "http://dbpedia.org/resource/Bengal_Native_Infantry",
+            "http://dbpedia.org/resource/Indian_Rebellion_of_1857",
+            "http://dbpedia.org/resource/Amethi"
+        ],
+        [
+            "http://dbpedia.org/resource/Premindra_Singh_Bhagat",
+            "http://dbpedia.org/resource/Bombay_Engineer_Group",
+            "http://dbpedia.org/resource/World_War_II",
+            "http://dbpedia.org/resource/Metemma"
+        ]
+    ]
+}

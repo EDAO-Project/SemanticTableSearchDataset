@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abuja",
+            "http://dbpedia.org/resource/Nigeria",
+            "http://dbpedia.org/resource/Lagos"
+        ]
+    ]
+}

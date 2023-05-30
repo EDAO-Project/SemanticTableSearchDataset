@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Woodrow_Wilson",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/David_Lloyd_George"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_S._Truman",
+            "http://dbpedia.org/resource/Plymouth",
+            "http://dbpedia.org/resource/George_VI"
+        ],
+        [
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower",
+            "http://dbpedia.org/resource/Balmoral_Castle",
+            "http://dbpedia.org/resource/Harold_Macmillan"
+        ],
+        [
+            "http://dbpedia.org/resource/John_F._Kennedy",
+            "http://dbpedia.org/resource/Birch_Grove",
+            "http://dbpedia.org/resource/Harold_Macmillan"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Nixon",
+            "http://dbpedia.org/resource/RAF_Mildenhall",
+            "http://dbpedia.org/resource/Harold_Wilson"
+        ]
+    ]
+}

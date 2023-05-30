@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/Dari_language",
+            "http://dbpedia.org/resource/Kabul"
+        ],
+        [
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Armenian_language",
+            "http://dbpedia.org/resource/Yerevan"
+        ],
+        [
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Azerbaijani_language",
+            "http://dbpedia.org/resource/Baku"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahrain",
+            "http://dbpedia.org/resource/Arabic",
+            "http://dbpedia.org/resource/Manama"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Bengali_language",
+            "http://dbpedia.org/resource/Dhaka"
+        ]
+    ]
+}

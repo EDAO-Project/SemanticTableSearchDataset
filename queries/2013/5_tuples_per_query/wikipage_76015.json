@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pravda",
+            "http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic",
+            "http://dbpedia.org/resource/Central_Committee_of_the_Communist_Party_of_the_Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Zvyazda",
+            "http://dbpedia.org/resource/Byelorussian_Soviet_Socialist_Republic",
+            "http://dbpedia.org/resource/Communist_Party_of_Belarus"
+        ],
+        [
+            "http://dbpedia.org/resource/Neues_Deutschland",
+            "http://dbpedia.org/resource/East_Germany",
+            "http://dbpedia.org/resource/Socialist_Unity_Party_of_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Sovetskaya_Latviya",
+            "http://dbpedia.org/resource/Latvian_Soviet_Socialist_Republic",
+            "http://dbpedia.org/resource/Communist_Party_of_Latvia"
+        ],
+        [
+            "http://dbpedia.org/resource/Komsomolskaya_Pravda",
+            "http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic",
+            "http://dbpedia.org/resource/Komsomol"
+        ]
+    ]
+}

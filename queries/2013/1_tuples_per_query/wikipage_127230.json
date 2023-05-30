@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Raymond_Lemieux",
+            "http://dbpedia.org/resource/University_of_Alberta",
+            "http://dbpedia.org/resource/Chemistry"
+        ]
+    ]
+}

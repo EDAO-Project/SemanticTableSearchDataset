@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Alabama,_1996",
+            "http://dbpedia.org/resource/Howell_Heflin",
+            "http://dbpedia.org/resource/Jeff_Sessions"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Arkansas,_1996",
+            "http://dbpedia.org/resource/David_Pryor",
+            "http://dbpedia.org/resource/Tim_Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Colorado,_1996",
+            "http://dbpedia.org/resource/Hank_Brown",
+            "http://dbpedia.org/resource/Wayne_Allard"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Georgia,_1996",
+            "http://dbpedia.org/resource/Sam_Nunn",
+            "http://dbpedia.org/resource/Max_Cleland"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Kansas,_1996",
+            "http://dbpedia.org/resource/Nancy_Kassebaum",
+            "http://dbpedia.org/resource/Pat_Roberts"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agaricales",
+            "http://dbpedia.org/resource/Agaricaceae",
+            "http://dbpedia.org/resource/Agaricus"
+        ],
+        [
+            "http://dbpedia.org/resource/Polyporales",
+            "http://dbpedia.org/resource/Albatrellaceae",
+            "http://dbpedia.org/resource/Albatrellus"
+        ]
+    ]
+}

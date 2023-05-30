@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Henry_Metcalf",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/World_War_I",
+            "http://dbpedia.org/resource/Canadian_Expeditionary_Force",
+            "http://dbpedia.org/resource/Arras"
+        ],
+        [
+            "http://dbpedia.org/resource/Raphael_Zengel",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/World_War_I",
+            "http://dbpedia.org/resource/Canadian_Expeditionary_Force",
+            "http://dbpedia.org/resource/Warvillers"
+        ]
+    ]
+}

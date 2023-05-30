@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Las_Vegas_Valley",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Desert_Inn"
+        ]
+    ]
+}

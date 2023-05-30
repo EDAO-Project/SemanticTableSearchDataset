@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anne_Gust",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Jerry_Brown"
+        ],
+        [
+            "http://dbpedia.org/resource/Helen_Thorpe",
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/John_Hickenlooper"
+        ],
+        [
+            "http://dbpedia.org/resource/Nancie_Caraway",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Neil_Abercrombie"
+        ],
+        [
+            "http://dbpedia.org/resource/Lori_Otter",
+            "http://dbpedia.org/resource/Idaho",
+            "http://dbpedia.org/resource/Butch_Otter"
+        ],
+        [
+            "http://dbpedia.org/resource/Minnesota",
+            "http://dbpedia.org/resource/Mark_Dayton",
+            "http://dbpedia.org/resource/First_Ladies_and_Gentlemen_of_Minnesota"
+        ]
+    ]
+}

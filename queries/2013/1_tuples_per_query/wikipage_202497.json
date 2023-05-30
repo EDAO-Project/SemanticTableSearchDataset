@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Admiralty_Island_National_Monument",
+            "http://dbpedia.org/resource/United_States_Forest_Service",
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Admiralty_Island"
+        ]
+    ]
+}

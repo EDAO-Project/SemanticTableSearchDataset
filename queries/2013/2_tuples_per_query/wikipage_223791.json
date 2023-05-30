@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Radoslav_Velikov",
+            "http://dbpedia.org/resource/Besik_Kudukhov",
+            "http://dbpedia.org/resource/Namig_Abdullayev"
+        ],
+        [
+            "http://dbpedia.org/resource/Radoslav_Velikov",
+            "http://dbpedia.org/resource/Besik_Kudukhov",
+            "http://dbpedia.org/resource/Sammie_Henson"
+        ]
+    ]
+}

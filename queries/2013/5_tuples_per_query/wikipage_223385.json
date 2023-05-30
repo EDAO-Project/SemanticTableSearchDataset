@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mona_Sahlin",
+            "http://dbpedia.org/resource/Swedish_Social_Democratic_Party",
+            "http://dbpedia.org/resource/Stockholm_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeppe_Johnsson",
+            "http://dbpedia.org/resource/Moderate_Party",
+            "http://dbpedia.org/resource/Blekinge_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Annicka_Engblom",
+            "http://dbpedia.org/resource/Moderate_Party",
+            "http://dbpedia.org/resource/Blekinge_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Rolf_Gunnarsson",
+            "http://dbpedia.org/resource/Moderate_Party",
+            "http://dbpedia.org/resource/Dalarna_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Christer_Engelhardt",
+            "http://dbpedia.org/resource/Swedish_Social_Democratic_Party",
+            "http://dbpedia.org/resource/Gotland_County"
+        ]
+    ]
+}

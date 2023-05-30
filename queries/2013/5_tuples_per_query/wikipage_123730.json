@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Teemu_Tainio",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Morocco",
+            "http://dbpedia.org/resource/Mehdi_Ballouchy",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Dax_McCarty",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Matt_Kassel",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Dane_Richards",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

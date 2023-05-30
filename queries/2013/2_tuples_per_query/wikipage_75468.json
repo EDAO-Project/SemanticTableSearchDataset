@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aloo_pie",
+            "http://dbpedia.org/resource/Trinidad_and_Tobago",
+            "http://dbpedia.org/resource/Pastry"
+        ],
+        [
+            "http://dbpedia.org/resource/Apple_crisp",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Rhubarb"
+        ]
+    ]
+}

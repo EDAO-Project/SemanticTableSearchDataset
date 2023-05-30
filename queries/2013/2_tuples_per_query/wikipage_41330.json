@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/WGDJ",
+            "http://dbpedia.org/resource/WTMM-FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Baton_Rouge,_Louisiana",
+            "http://dbpedia.org/resource/WLRO",
+            "http://dbpedia.org/resource/WIBR"
+        ]
+    ]
+}

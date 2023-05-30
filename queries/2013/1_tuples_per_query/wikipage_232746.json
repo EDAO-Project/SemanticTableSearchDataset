@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Ericsson",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Hot_air_engine"
+        ]
+    ]
+}

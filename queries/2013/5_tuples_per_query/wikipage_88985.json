@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Moda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Tacoma,_Washington",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tacoma_Dome"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Oracle_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/SAP_Center_at_San_Jose"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Staples_Center"
+        ]
+    ]
+}

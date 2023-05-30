@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Theo_Bos",
+            "http://dbpedia.org/resource/Teun_Mulder",
+            "http://dbpedia.org/resource/Tim_Veldt"
+        ],
+        [
+            "http://dbpedia.org/resource/Theo_Bos",
+            "http://dbpedia.org/resource/Teun_Mulder",
+            "http://dbpedia.org/resource/Tim_Veldt"
+        ],
+        [
+            "http://dbpedia.org/resource/Jenning_Huizenga",
+            "http://dbpedia.org/resource/Jens_Mouris",
+            "http://dbpedia.org/resource/Wim_Stroetinga"
+        ],
+        [
+            "http://dbpedia.org/resource/Niki_Terpstra",
+            "http://dbpedia.org/resource/Wim_Stroetinga",
+            "http://dbpedia.org/resource/Jeff_Vermeulen"
+        ],
+        [
+            "http://dbpedia.org/resource/Pim_Ligthart",
+            "http://dbpedia.org/resource/Jeff_Vermeulen",
+            "http://dbpedia.org/resource/Wim_Stroetinga"
+        ]
+    ]
+}

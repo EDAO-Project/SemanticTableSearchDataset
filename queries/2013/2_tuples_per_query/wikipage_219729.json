@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auto_Club_Speedway",
+            "http://dbpedia.org/resource/Oval_track_racing",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Auto_Club_400"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol_Motor_Speedway",
+            "http://dbpedia.org/resource/Oval_track_racing",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/Food_City_500"
+        ]
+    ]
+}

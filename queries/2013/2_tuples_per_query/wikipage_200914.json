@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_Formula_One_season",
+            "http://dbpedia.org/resource/Keke_Rosberg",
+            "http://dbpedia.org/resource/Williams_Grand_Prix_Engineering",
+            "http://dbpedia.org/resource/1983_Race_of_Champions"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Formula_One_season",
+            "http://dbpedia.org/resource/Gilles_Villeneuve",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/1979_Race_of_Champions"
+        ]
+    ]
+}

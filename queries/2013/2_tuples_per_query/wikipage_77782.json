@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CFAM",
+            "http://dbpedia.org/resource/Altona,_Manitoba",
+            "http://dbpedia.org/resource/Golden_West_Broadcasting",
+            "http://dbpedia.org/resource/Easy_listening"
+        ],
+        [
+            "http://dbpedia.org/resource/CJRB",
+            "http://dbpedia.org/resource/Boissevain,_Manitoba",
+            "http://dbpedia.org/resource/Golden_West_Broadcasting",
+            "http://dbpedia.org/resource/Easy_listening"
+        ]
+    ]
+}

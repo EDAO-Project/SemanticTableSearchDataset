@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jessie_Abernathy_House",
+            "http://dbpedia.org/resource/Arkansas_Highway_14",
+            "http://dbpedia.org/resource/Marcella,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Alco_School",
+            "http://dbpedia.org/resource/Arkansas_Highway_66",
+            "http://dbpedia.org/resource/Alco,_Arkansas"
+        ]
+    ]
+}

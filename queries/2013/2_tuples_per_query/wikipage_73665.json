@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ferrari_340",
+            "http://dbpedia.org/resource/RM_Auctions",
+            "http://dbpedia.org/resource/Tivoli,_Lazio",
+            "http://dbpedia.org/resource/United_States_dollar"
+        ],
+        [
+            "http://dbpedia.org/resource/Ferrari_TR",
+            "http://dbpedia.org/resource/RM_Auctions",
+            "http://dbpedia.org/resource/Maranello",
+            "http://dbpedia.org/resource/United_States_dollar"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1970",
+            "http://dbpedia.org/resource/Minimaks",
+            "http://dbpedia.org/resource/Oliver_Mlakar"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1971",
+            "http://dbpedia.org/resource/Minimaks",
+            "http://dbpedia.org/resource/Oliver_Mlakar"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ardon,_Jura",
+            "http://dbpedia.org/resource/Aresches",
+            "http://dbpedia.org/resource/Arinthod",
+            "http://dbpedia.org/resource/Arlay"
+        ],
+        [
+            "http://dbpedia.org/resource/Aromas,_Jura",
+            "http://dbpedia.org/resource/Arsure-Arsurette",
+            "http://dbpedia.org/resource/Arthenas",
+            "http://dbpedia.org/resource/Augea"
+        ]
+    ]
+}

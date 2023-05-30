@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Ambassador"
+        ]
+    ]
+}

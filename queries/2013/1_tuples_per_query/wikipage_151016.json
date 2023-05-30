@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_Nevsky_Cathedral,_Sofia",
+            "http://dbpedia.org/resource/Sofia",
+            "http://dbpedia.org/resource/Bulgarian_Orthodox_Church",
+            "http://dbpedia.org/resource/Bulgaria"
+        ]
+    ]
+}

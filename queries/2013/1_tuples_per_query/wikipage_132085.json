@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/La_halle_de_glace_Olympique",
+            "http://dbpedia.org/resource/1992_Winter_Olympics",
+            "http://dbpedia.org/resource/Figure_skating_at_the_1992_Winter_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anzeling",
+            "http://dbpedia.org/resource/Arraincourt",
+            "http://dbpedia.org/resource/Arriance"
+        ],
+        [
+            "http://dbpedia.org/resource/Bambiderstroff",
+            "http://dbpedia.org/resource/Bannay,_Moselle",
+            "http://dbpedia.org/resource/Berviller-en-Moselle"
+        ],
+        [
+            "http://dbpedia.org/resource/Bettange",
+            "http://dbpedia.org/resource/Bibiche",
+            "http://dbpedia.org/resource/Bionville-sur-Nied"
+        ],
+        [
+            "http://dbpedia.org/resource/Bisten-en-Lorraine",
+            "http://dbpedia.org/resource/Boucheporn",
+            "http://dbpedia.org/resource/Boulay-Moselle"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouzonville",
+            "http://dbpedia.org/resource/Brettnach",
+            "http://dbpedia.org/resource/Brouck"
+        ]
+    ]
+}

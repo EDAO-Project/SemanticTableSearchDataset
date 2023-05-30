@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_All-Ireland_Senior_Football_Championship_Final",
+            "http://dbpedia.org/resource/Stephen_Cluxton",
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/Parnells_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_All-Ireland_Senior_Football_Championship_Final",
+            "http://dbpedia.org/resource/Bryan_Cullen",
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/Skerries_Harps_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_All-Ireland_Senior_Football_Championship_Final",
+            "http://dbpedia.org/resource/Graham_Canty",
+            "http://dbpedia.org/resource/Cork_GAA",
+            "http://dbpedia.org/resource/Bantry_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_All-Ireland_Senior_Football_Championship_Final",
+            "http://dbpedia.org/resource/Kieran_McGeeney",
+            "http://dbpedia.org/resource/Armagh_GAA",
+            "http://dbpedia.org/resource/Na_Fianna_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_All-Ireland_Senior_Football_Championship_Final",
+            "http://dbpedia.org/resource/Gary_Fahey",
+            "http://dbpedia.org/resource/Galway_GAA",
+            "http://dbpedia.org/resource/Killanin_GAA"
+        ]
+    ]
+}

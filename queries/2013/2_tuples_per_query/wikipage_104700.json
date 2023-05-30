@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anshan_Xincun_Station",
+            "http://dbpedia.org/resource/Line_8,_Shanghai_Metro",
+            "http://dbpedia.org/resource/Yangpu_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Anting_Station",
+            "http://dbpedia.org/resource/Line_11,_Shanghai_Metro",
+            "http://dbpedia.org/resource/Jiading_District"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Deutscher_Commercial_Internet_Exchange",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

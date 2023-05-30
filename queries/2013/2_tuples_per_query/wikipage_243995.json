@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ipoh_railway_station",
+            "http://dbpedia.org/resource/Ipoh",
+            "http://dbpedia.org/resource/KTM_ETS"
+        ],
+        [
+            "http://dbpedia.org/resource/Batu_Gajah_railway_station",
+            "http://dbpedia.org/resource/Batu_Gajah",
+            "http://dbpedia.org/resource/KTM_ETS"
+        ]
+    ]
+}

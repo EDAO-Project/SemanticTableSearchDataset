@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bakassi",
+            "http://dbpedia.org/resource/Cameroon",
+            "http://dbpedia.org/resource/Nigeria"
+        ],
+        [
+            "http://dbpedia.org/resource/Banc_du_Geyser",
+            "http://dbpedia.org/resource/Madagascar",
+            "http://dbpedia.org/resource/Scattered_Islands_in_the_Indian_Ocean"
+        ]
+    ]
+}

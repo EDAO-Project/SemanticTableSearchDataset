@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Vaudreuil",
+            "http://dbpedia.org/resource/Miami_Fusion",
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/Princeton_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Hartman",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club",
+            "http://dbpedia.org/resource/LA_Galaxy",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Maessner",
+            "http://dbpedia.org/resource/Miami_Fusion",
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/University_of_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Kris_Kelderman",
+            "http://dbpedia.org/resource/Miami_Fusion",
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/University_of_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Farrell",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club",
+            "http://dbpedia.org/resource/Columbus_Crew_SC",
+            "http://dbpedia.org/resource/Seattle_Pacific_University"
+        ]
+    ]
+}

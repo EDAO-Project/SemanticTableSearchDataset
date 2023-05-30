@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_European_Time",
+            "http://dbpedia.org/resource/A.S._Roma",
+            "http://dbpedia.org/resource/San_Siro",
+            "http://dbpedia.org/resource/Sulley_Muntari"
+        ]
+    ]
+}

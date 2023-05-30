@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Istanbul",
+            "http://dbpedia.org/resource/Isabella_Shinikova",
+            "http://dbpedia.org/resource/Fatma_Al-Nabhani"
+        ],
+        [
+            "http://dbpedia.org/resource/Gaziantep",
+            "http://dbpedia.org/resource/Ani_Amiraghyan",
+            "http://dbpedia.org/resource/Daniella_Jeflea"
+        ],
+        [
+            "http://dbpedia.org/resource/Antalya",
+            "http://dbpedia.org/resource/Ilona_Kremen",
+            "http://dbpedia.org/resource/Gioia_Barbieri"
+        ],
+        [
+            "http://dbpedia.org/resource/Istanbul",
+            "http://dbpedia.org/resource/Melis_Sezer",
+            "http://dbpedia.org/resource/Fatma_Al-Nabhani"
+        ],
+        [
+            "http://dbpedia.org/resource/Heraklion",
+            "http://dbpedia.org/resource/Abbie_Myers",
+            "http://dbpedia.org/resource/Borislava_Botusharova"
+        ]
+    ]
+}

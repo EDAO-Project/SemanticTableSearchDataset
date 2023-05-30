@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Albert",
+            "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology",
+            "http://dbpedia.org/resource/Z_Communications"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Bedrick",
+            "http://dbpedia.org/resource/Babson_College",
+            "http://dbpedia.org/resource/New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Bettman",
+            "http://dbpedia.org/resource/Cornell_University",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Wolf_Blitzer",
+            "http://dbpedia.org/resource/University_at_Buffalo",
+            "http://dbpedia.org/resource/CNN"
+        ],
+        [
+            "http://dbpedia.org/resource/Myles_Brand",
+            "http://dbpedia.org/resource/Rensselaer_Polytechnic_Institute",
+            "http://dbpedia.org/resource/National_Collegiate_Athletic_Association"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tsuruhashi_Station",
+            "http://dbpedia.org/resource/Ikuno-ku,_Osaka",
+            "http://dbpedia.org/resource/Osaka_Prefecture"
+        ]
+    ]
+}

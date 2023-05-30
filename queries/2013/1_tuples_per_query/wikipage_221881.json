@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2008_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Circuito_de_Jerez",
+            "http://dbpedia.org/resource/Simone_Corsi",
+            "http://dbpedia.org/resource/Mika_Kallio",
+            "http://dbpedia.org/resource/Dani_Pedrosa",
+            "http://dbpedia.org/resource/2008_Spanish_motorcycle_Grand_Prix"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rothenthurm",
+            "http://dbpedia.org/resource/Canton_of_Zug",
+            "http://dbpedia.org/resource/Einsiedeln"
+        ],
+        [
+            "http://dbpedia.org/resource/Zugerberg",
+            "http://dbpedia.org/resource/Canton_of_Zug",
+            "http://dbpedia.org/resource/Walchwil"
+        ]
+    ]
+}

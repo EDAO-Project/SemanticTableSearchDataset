@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ana_Fidelia_Quirot",
+            "http://dbpedia.org/resource/Grit_Breuer",
+            "http://dbpedia.org/resource/Falilat_Ogunkoya"
+        ],
+        [
+            "http://dbpedia.org/resource/Ana_Fidelia_Quirot",
+            "http://dbpedia.org/resource/Sigrun_Wodars",
+            "http://dbpedia.org/resource/Doina_Melinte"
+        ]
+    ]
+}

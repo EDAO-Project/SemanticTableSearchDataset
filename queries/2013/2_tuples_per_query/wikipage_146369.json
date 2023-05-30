@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Reno,_Nevada",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Reno_Events_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Stockton,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Stockton_Arena"
+        ]
+    ]
+}

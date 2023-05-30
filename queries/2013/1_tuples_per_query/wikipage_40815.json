@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Florence_Griffith_Joyner",
+            "http://dbpedia.org/resource/United_States_at_the_1988_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1988_Summer_Olympics"
+        ]
+    ]
+}

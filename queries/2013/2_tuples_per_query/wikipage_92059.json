@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Darrel_Brown",
+            "http://dbpedia.org/resource/Marc_Burns",
+            "http://dbpedia.org/resource/Willie_Hordge"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Usain_Bolt",
+            "http://dbpedia.org/resource/Brendan_Christian",
+            "http://dbpedia.org/resource/Wes_Felix"
+        ]
+    ]
+}

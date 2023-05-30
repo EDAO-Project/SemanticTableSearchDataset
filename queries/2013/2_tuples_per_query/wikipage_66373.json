@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Smoothie_King_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Pelham,_Alabama",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Oak_Mountain_Amphitheatre"
+        ]
+    ]
+}

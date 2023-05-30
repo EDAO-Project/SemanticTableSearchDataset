@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ryan_Lochte",
+            "http://dbpedia.org/resource/Danila_Izotov",
+            "http://dbpedia.org/resource/Oussama_Mellouli"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Biedermann",
+            "http://dbpedia.org/resource/Nikita_Lobintsev",
+            "http://dbpedia.org/resource/Oussama_Mellouli"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanislav_Donets",
+            "http://dbpedia.org/resource/Camille_Lacourt",
+            "http://dbpedia.org/resource/Aschwin_Wildeboer_Faber"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Lochte",
+            "http://dbpedia.org/resource/Tyler_Clary",
+            "http://dbpedia.org/resource/Markus_Rogan"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_Subirats",
+            "http://dbpedia.org/resource/Andriy_Hovorov",
+            "http://dbpedia.org/resource/Steffen_Deibler"
+        ]
+    ]
+}

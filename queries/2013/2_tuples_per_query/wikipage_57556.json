@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arthur_Henderson",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Henry_Campbell-Bannerman"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Henderson",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/H._H._Asquith"
+        ]
+    ]
+}

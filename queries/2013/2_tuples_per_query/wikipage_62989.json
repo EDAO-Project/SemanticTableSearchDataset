@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arlanda_Central_Station",
+            "http://dbpedia.org/resource/Stockholm_Arlanda_Airport",
+            "http://dbpedia.org/resource/Sigtuna_Municipality"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlottenberg_Station",
+            "http://dbpedia.org/resource/Charlottenberg",
+            "http://dbpedia.org/resource/Eda_Municipality"
+        ]
+    ]
+}

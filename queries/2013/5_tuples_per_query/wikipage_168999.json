@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Louis_Brandeis_House",
+            "http://dbpedia.org/resource/Chatham,_Massachusetts",
+            "http://dbpedia.org/resource/Louis_Brandeis"
+        ],
+        [
+            "http://dbpedia.org/resource/George_I._Briggs_House",
+            "http://dbpedia.org/resource/Bourne,_Massachusetts",
+            "http://dbpedia.org/resource/Grover_Cleveland"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland_East_Ledge_Light",
+            "http://dbpedia.org/resource/Cape_Cod_Canal",
+            "http://dbpedia.org/resource/Falmouth,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Cotuit_Historic_District",
+            "http://dbpedia.org/resource/Nantucket_Sound",
+            "http://dbpedia.org/resource/Barnstable,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Craigville_Historic_District",
+            "http://dbpedia.org/resource/Nantucket_Sound",
+            "http://dbpedia.org/resource/Barnstable,_Massachusetts"
+        ]
+    ]
+}

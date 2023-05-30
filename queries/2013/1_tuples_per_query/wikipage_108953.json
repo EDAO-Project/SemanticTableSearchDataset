@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bobby_Clarke",
+            "http://dbpedia.org/resource/Philadelphia_Flyers",
+            "http://dbpedia.org/resource/Diabetes_mellitus_type_1"
+        ]
+    ]
+}

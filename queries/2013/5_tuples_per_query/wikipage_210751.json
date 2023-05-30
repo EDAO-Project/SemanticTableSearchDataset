@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ralph_Campney",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Vancouver_Centre",
+            "http://dbpedia.org/resource/Canadian_Army"
+        ],
+        [
+            "http://dbpedia.org/resource/Jean-Guy_Carignan",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Quebec_East",
+            "http://dbpedia.org/resource/Canadian_Army"
+        ],
+        [
+            "http://dbpedia.org/resource/W._Garfield_Case",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Canada",
+            "http://dbpedia.org/resource/Grey_North",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Cora_Taylor_Casselman",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Edmonton_East",
+            "http://dbpedia.org/resource/Canadian_Army"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_Clayton_Casselman",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Edmonton_East",
+            "http://dbpedia.org/resource/Canadian_Army"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jason_Lezak",
+            "http://dbpedia.org/resource/Anthony_Ervin",
+            "http://dbpedia.org/resource/Brett_Hawke"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Thorpe",
+            "http://dbpedia.org/resource/Ashley_Callus",
+            "http://dbpedia.org/resource/Nate_Dusing"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Thorpe",
+            "http://dbpedia.org/resource/Grant_Hackett",
+            "http://dbpedia.org/resource/Nate_Dusing"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Thorpe",
+            "http://dbpedia.org/resource/Grant_Hackett",
+            "http://dbpedia.org/resource/Klete_Keller"
+        ],
+        [
+            "http://dbpedia.org/resource/Grant_Hackett",
+            "http://dbpedia.org/resource/Erik_Vendt",
+            "http://dbpedia.org/resource/Larsen_Jensen"
+        ]
+    ]
+}

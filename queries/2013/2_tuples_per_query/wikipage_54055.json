@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allsvenskan",
+            "http://dbpedia.org/resource/Superettan",
+            "http://dbpedia.org/resource/Kalmar_FF"
+        ],
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_1",
+            "http://dbpedia.org/resource/Swedish_Football_Division_2",
+            "http://dbpedia.org/resource/Gefle_IF"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Salim_Iles",
+            "http://dbpedia.org/resource/2004_Pan_Arab_Games",
+            "http://dbpedia.org/resource/Algiers"
+        ],
+        [
+            "http://dbpedia.org/resource/Nabil_Kebbab",
+            "http://dbpedia.org/resource/Swimming_at_the_2007_All-Africa_Games",
+            "http://dbpedia.org/resource/Algiers"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahrez_Mebarek",
+            "http://dbpedia.org/resource/Swimming_at_the_2005_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Montreal"
+        ],
+        [
+            "http://dbpedia.org/resource/Mehdi_Addadi",
+            "http://dbpedia.org/resource/African_Swimming_Championships",
+            "http://dbpedia.org/resource/Cairo"
+        ],
+        [
+            "http://dbpedia.org/resource/Sofiane_Daid",
+            "http://dbpedia.org/resource/Swimming_at_the_2009_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Rome"
+        ]
+    ]
+}

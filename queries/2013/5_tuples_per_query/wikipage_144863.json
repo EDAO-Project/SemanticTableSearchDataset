@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tioga_County,_New_York",
+            "http://dbpedia.org/resource/Nichols,_New_York",
+            "http://dbpedia.org/resource/Lounsberry,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Tioga_County,_New_York",
+            "http://dbpedia.org/resource/Owego,_New_York",
+            "http://dbpedia.org/resource/New_York_State_Route_962J"
+        ],
+        [
+            "http://dbpedia.org/resource/Broome_County,_New_York",
+            "http://dbpedia.org/resource/Dickinson,_Broome_County,_New_York",
+            "http://dbpedia.org/resource/Greater_Binghamton_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Sullivan_County,_New_York",
+            "http://dbpedia.org/resource/Rockland,_New_York",
+            "http://dbpedia.org/resource/Livingston_Manor,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Sullivan_County,_New_York",
+            "http://dbpedia.org/resource/Liberty,_New_York",
+            "http://dbpedia.org/resource/Ferndale,_New_York"
+        ]
+    ]
+}

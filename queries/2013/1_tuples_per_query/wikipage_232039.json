@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Franklin_County,_Pennsylvania",
+            "http://dbpedia.org/resource/State_Line,_Franklin_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Maryland"
+        ]
+    ]
+}

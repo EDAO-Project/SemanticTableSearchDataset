@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Springfield,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Symphony_Hall,_Springfield"
+        ],
+        [
+            "http://dbpedia.org/resource/Burlington,_Vermont",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Patrick_Gym"
+        ]
+    ]
+}

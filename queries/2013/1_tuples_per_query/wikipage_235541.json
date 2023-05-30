@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Estadio_Azteca",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Mexico_national_football_team"
+        ]
+    ]
+}

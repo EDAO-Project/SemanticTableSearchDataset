@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ray_Reardon",
+            "http://dbpedia.org/resource/Graham_Miles",
+            "http://dbpedia.org/resource/Snooker_season_1975/1976"
+        ],
+        [
+            "http://dbpedia.org/resource/Doug_Mountjoy",
+            "http://dbpedia.org/resource/Ray_Reardon",
+            "http://dbpedia.org/resource/Snooker_season_1976/1977"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Higgins",
+            "http://dbpedia.org/resource/Cliff_Thorburn",
+            "http://dbpedia.org/resource/Snooker_season_1977/1978"
+        ],
+        [
+            "http://dbpedia.org/resource/Perrie_Mans",
+            "http://dbpedia.org/resource/Alex_Higgins",
+            "http://dbpedia.org/resource/Snooker_season_1978/1979"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Griffiths",
+            "http://dbpedia.org/resource/Alex_Higgins",
+            "http://dbpedia.org/resource/Snooker_season_1979/1980"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Advanced_Individual_Combat_Weapon",
+            "http://dbpedia.org/resource/Defence_Science_and_Technology_Organisation",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/FN_F2000",
+            "http://dbpedia.org/resource/FN_Herstal",
+            "http://dbpedia.org/resource/Belgium"
+        ]
+    ]
+}

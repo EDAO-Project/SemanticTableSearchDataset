@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Nick_Bierbrodt",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Millikan_High_School"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tony_Iveson",
+            "http://dbpedia.org/resource/W._Somerset_Maugham",
+            "http://dbpedia.org/resource/Vine"
+        ]
+    ]
+}

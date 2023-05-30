@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Africa_Journal_of_Evangelical_Theology",
+            "http://dbpedia.org/resource/Scott_Christian_University",
+            "http://dbpedia.org/resource/Machakos",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Evangelicalism"
+        ],
+        [
+            "http://dbpedia.org/resource/Didaskalia",
+            "http://dbpedia.org/resource/Providence_University_College_and_Theological_Seminary",
+            "http://dbpedia.org/resource/Manitoba",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Christianity"
+        ],
+        [
+            "http://dbpedia.org/resource/Ephemerides_Theologicae_Lovanienses",
+            "http://dbpedia.org/resource/Katholieke_Universiteit_Leuven",
+            "http://dbpedia.org/resource/Leuven",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Catholic_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Journal_of_Near_Eastern_Studies",
+            "http://dbpedia.org/resource/University_of_Chicago_Press",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Academia"
+        ],
+        [
+            "http://dbpedia.org/resource/Journal_of_Cuneiform_Studies",
+            "http://dbpedia.org/resource/American_Schools_of_Oriental_Research",
+            "http://dbpedia.org/resource/Baghdad",
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Academia"
+        ]
+    ]
+}

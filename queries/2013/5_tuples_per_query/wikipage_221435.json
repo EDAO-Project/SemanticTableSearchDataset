@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbasak",
+            "http://dbpedia.org/resource/Persian_Gulf",
+            "http://dbpedia.org/resource/Iran"
+        ],
+        [
+            "http://dbpedia.org/resource/Abruka",
+            "http://dbpedia.org/resource/Gulf_of_Riga",
+            "http://dbpedia.org/resource/Estonia"
+        ],
+        [
+            "http://dbpedia.org/resource/Absecon_Island",
+            "http://dbpedia.org/resource/New_Jersey",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Abu_Musa",
+            "http://dbpedia.org/resource/Persian_Gulf",
+            "http://dbpedia.org/resource/Iran"
+        ],
+        [
+            "http://dbpedia.org/resource/Acheron_Island",
+            "http://dbpedia.org/resource/Great_Palm_Island",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

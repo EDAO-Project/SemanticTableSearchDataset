@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_in_literature",
+            "http://dbpedia.org/resource/Justine_Larbalestier",
+            "http://dbpedia.org/resource/Magic_or_Madness",
+            "http://dbpedia.org/resource/Penguin_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_literature",
+            "http://dbpedia.org/resource/Megan_Whalen_Turner",
+            "http://dbpedia.org/resource/The_King_of_Attolia",
+            "http://dbpedia.org/resource/HarperCollins"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_literature",
+            "http://dbpedia.org/resource/Scott_Westerfeld",
+            "http://dbpedia.org/resource/Touching_Darkness",
+            "http://dbpedia.org/resource/HarperCollins"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_in_literature",
+            "http://dbpedia.org/resource/J._K._Rowling",
+            "http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows",
+            "http://dbpedia.org/resource/Arthur_A._Levine_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_in_literature",
+            "http://dbpedia.org/resource/Nnedi_Okorafor",
+            "http://dbpedia.org/resource/The_Shadow_Speaker",
+            "http://dbpedia.org/resource/Disney_Publishing_Worldwide"
+        ]
+    ]
+}

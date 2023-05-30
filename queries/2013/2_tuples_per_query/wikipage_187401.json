@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vicky_Bullett",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Charlotte_Sting",
+            "http://dbpedia.org/resource/University_of_Maryland,_College_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Stinson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Charlotte_Sting",
+            "http://dbpedia.org/resource/North_Carolina_State_University"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cape_Florida_Light",
+            "http://dbpedia.org/resource/Bill_Baggs_Cape_Florida_State_Park",
+            "http://dbpedia.org/resource/Seminole"
+        ]
+    ]
+}

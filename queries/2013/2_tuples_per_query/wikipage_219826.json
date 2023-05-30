@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canoeing_at_the_1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Karen_Hoff",
+            "http://dbpedia.org/resource/Alida_van_der_Anker-Doedens",
+            "http://dbpedia.org/resource/Fritzi_Schwingl"
+        ],
+        [
+            "http://dbpedia.org/resource/Canoeing_at_the_1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Sylvi_Saimo",
+            "http://dbpedia.org/resource/Gertrude_Liebhart",
+            "http://dbpedia.org/resource/Nina_Savina"
+        ]
+    ]
+}

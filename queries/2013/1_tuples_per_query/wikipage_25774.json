@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blade:_Trinity",
+            "http://dbpedia.org/resource/David_S._Goyer",
+            "http://dbpedia.org/resource/Wesley_Snipes",
+            "http://dbpedia.org/resource/Superhero_film"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minsk",
+            "http://dbpedia.org/resource/Tamara_Lazakovich",
+            "http://dbpedia.org/resource/Ludmilla_Tourischeva",
+            "http://dbpedia.org/resource/Angelika_Hellmann"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Ludmilla_Tourischeva",
+            "http://dbpedia.org/resource/Angelika_Hellmann",
+            "http://dbpedia.org/resource/Alina_Goreac"
+        ]
+    ]
+}

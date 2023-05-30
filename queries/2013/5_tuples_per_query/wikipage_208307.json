@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Belgorod_Oblast",
+            "http://dbpedia.org/resource/Prokhorovka"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Belgorod_Oblast",
+            "http://dbpedia.org/resource/Belgorod"
+        ],
+        [
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/Kharkiv_Oblast",
+            "http://dbpedia.org/resource/Urban-type_settlement"
+        ],
+        [
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/Kharkiv_Oblast",
+            "http://dbpedia.org/resource/Chuhuiv"
+        ],
+        [
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/Kharkiv_Oblast",
+            "http://dbpedia.org/resource/Tributary"
+        ]
+    ]
+}

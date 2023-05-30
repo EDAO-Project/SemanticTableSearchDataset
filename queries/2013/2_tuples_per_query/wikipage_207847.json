@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Stade_Toulousain",
+            "http://dbpedia.org/resource/1996_Heineken_Cup_Final",
+            "http://dbpedia.org/resource/Cardiff_RFC",
+            "http://dbpedia.org/resource/Wales",
+            "http://dbpedia.org/resource/Cardiff_Arms_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/CA_Brive",
+            "http://dbpedia.org/resource/1997_Heineken_Cup_Final",
+            "http://dbpedia.org/resource/Leicester_Tigers",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Cardiff_Arms_Park"
+        ]
+    ]
+}

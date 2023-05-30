@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rogers_Centre",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Canadian_Soccer_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/McMahon_Stadium",
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Calgary_Boomers"
+        ],
+        [
+            "http://dbpedia.org/resource/Percival_Molson_Memorial_Stadium",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/McGill_University"
+        ],
+        [
+            "http://dbpedia.org/resource/BMO_Field",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Saputo_Stadium",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Montreal_Impact"
+        ]
+    ]
+}

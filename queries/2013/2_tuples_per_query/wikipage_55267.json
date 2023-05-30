@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al_Chambers",
+            "http://dbpedia.org/resource/Seattle_Mariners",
+            "http://dbpedia.org/resource/Harrisburg,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Leary",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/UCLA_Bruins_baseball"
+        ]
+    ]
+}

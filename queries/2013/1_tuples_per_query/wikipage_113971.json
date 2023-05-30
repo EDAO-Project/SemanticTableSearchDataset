@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abdallah_al-Ajmi",
+            "http://dbpedia.org/resource/Kuwait",
+            "http://dbpedia.org/resource/Suicide_attack"
+        ]
+    ]
+}

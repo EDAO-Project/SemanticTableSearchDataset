@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_Ackroyd",
+            "http://dbpedia.org/resource/Royal_Berkshire_Regiment",
+            "http://dbpedia.org/resource/World_War_I",
+            "http://dbpedia.org/resource/Battle_of_Passchendaele"
+        ]
+    ]
+}

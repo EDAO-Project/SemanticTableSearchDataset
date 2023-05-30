@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ivan_III_of_Russia",
+            "http://dbpedia.org/resource/Andrey_Bolshoy",
+            "http://dbpedia.org/resource/Vasily_II_of_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivan_III_of_Russia",
+            "http://dbpedia.org/resource/Ivan_the_Young",
+            "http://dbpedia.org/resource/Vasily_II_of_Moscow"
+        ]
+    ]
+}

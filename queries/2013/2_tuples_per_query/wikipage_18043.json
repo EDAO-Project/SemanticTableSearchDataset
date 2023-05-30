@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gibson_Motorsport",
+            "http://dbpedia.org/resource/Glenn_Seton",
+            "http://dbpedia.org/resource/Nissan_Skyline"
+        ],
+        [
+            "http://dbpedia.org/resource/Gibson_Motorsport",
+            "http://dbpedia.org/resource/George_Fury",
+            "http://dbpedia.org/resource/Nissan_Skyline"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/7-Eleven",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Ahold",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Czech_Republic"
+        ]
+    ]
+}

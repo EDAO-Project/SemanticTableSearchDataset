@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Friends_Arena",
+            "http://dbpedia.org/resource/Solna_Municipality",
+            "http://dbpedia.org/resource/Sweden_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Helsinki_Olympic_Stadium",
+            "http://dbpedia.org/resource/Helsinki",
+            "http://dbpedia.org/resource/Finland_national_football_team"
+        ]
+    ]
+}

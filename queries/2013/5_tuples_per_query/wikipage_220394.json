@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1968_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Bob_Gibson",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Tom_Seaver",
+            "http://dbpedia.org/resource/New_York_Mets"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Bob_Gibson",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Ferguson_Jenkins",
+            "http://dbpedia.org/resource/Chicago_Cubs"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Steve_Carlton",
+            "http://dbpedia.org/resource/Philadelphia_Phillies"
+        ]
+    ]
+}

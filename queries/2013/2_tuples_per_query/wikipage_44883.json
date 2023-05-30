@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bridgeport_Covered_Bridge",
+            "http://dbpedia.org/resource/French_Corral,_California",
+            "http://dbpedia.org/resource/Nevada_County,_California",
+            "http://dbpedia.org/resource/Covered_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Dinkey_Creek_Bridge",
+            "http://dbpedia.org/resource/Dinkey_Creek,_California",
+            "http://dbpedia.org/resource/Fresno_County,_California",
+            "http://dbpedia.org/resource/Tied-arch_bridge"
+        ]
+    ]
+}

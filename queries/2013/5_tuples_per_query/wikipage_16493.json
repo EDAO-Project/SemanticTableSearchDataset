@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gonzales_v._Oregon",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Attorney_general"
+        ],
+        [
+            "http://dbpedia.org/resource/Rice_v._Collins",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Habeas_corpus"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_Virginia_Community_College_v._Katz",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Sovereign_immunity"
+        ],
+        [
+            "http://dbpedia.org/resource/Gonzales_v._O_Centro_Espirita_Beneficente_Uniao_do_Vegetal",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Hallucinogen"
+        ],
+        [
+            "http://dbpedia.org/resource/Buckeye_Check_Cashing,_Inc._v._Cardegna",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Arbitration"
+        ]
+    ]
+}

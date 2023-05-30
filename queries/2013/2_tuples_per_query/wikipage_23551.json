@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Josiah_Bartlett_House",
+            "http://dbpedia.org/resource/Kingston,_New_Hampshire",
+            "http://dbpedia.org/resource/Rockingham_County,_New_Hampshire",
+            "http://dbpedia.org/resource/Josiah_Bartlett"
+        ],
+        [
+            "http://dbpedia.org/resource/Canterbury_Shaker_Village",
+            "http://dbpedia.org/resource/Canterbury,_New_Hampshire",
+            "http://dbpedia.org/resource/Merrimack_County,_New_Hampshire",
+            "http://dbpedia.org/resource/Shakers"
+        ]
+    ]
+}

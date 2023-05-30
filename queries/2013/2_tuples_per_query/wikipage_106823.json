@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brian_Luckhurst",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/Australia_national_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Redpath",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/England_cricket_team"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kim_Taek-soo",
+            "http://dbpedia.org/resource/Liu_Guoliang",
+            "http://dbpedia.org/resource/Oh_Sang-eun"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Taek-soo",
+            "http://dbpedia.org/resource/Liu_Guoliang",
+            "http://dbpedia.org/resource/Kong_Linghui"
+        ]
+    ]
+}

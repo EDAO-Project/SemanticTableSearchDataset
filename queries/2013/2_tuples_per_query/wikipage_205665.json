@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aveiro_District",
+            "http://dbpedia.org/resource/Albergaria-a-Velha",
+            "http://dbpedia.org/resource/Albergaria-a-Velha"
+        ],
+        [
+            "http://dbpedia.org/resource/Aveiro_District",
+            "http://dbpedia.org/resource/Anadia,_Portugal",
+            "http://dbpedia.org/resource/Anadia,_Portugal"
+        ]
+    ]
+}

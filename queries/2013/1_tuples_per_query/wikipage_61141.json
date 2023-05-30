@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Boston_Red_Sox_season",
+            "http://dbpedia.org/resource/Jon_Lester",
+            "http://dbpedia.org/resource/Andy_Sonnanstine",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ]
+    ]
+}

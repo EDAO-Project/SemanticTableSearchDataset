@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Georg_Volkert",
+            "http://dbpedia.org/resource/Werner_Weist"
+        ],
+        [
+            "http://dbpedia.org/resource/DFB-Pokal",
+            "http://dbpedia.org/resource/Karl-Heinz_Kamp",
+            "http://dbpedia.org/resource/Klaus_Zaczyk"
+        ]
+    ]
+}

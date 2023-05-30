@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pepperdine_University",
+            "http://dbpedia.org/resource/Malibu,_California",
+            "http://dbpedia.org/resource/Pepperdine_Waves",
+            "http://dbpedia.org/resource/West_Coast_Conference"
+        ]
+    ]
+}

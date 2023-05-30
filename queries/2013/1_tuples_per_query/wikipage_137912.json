@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bari",
+            "http://dbpedia.org/resource/Apulia",
+            "http://dbpedia.org/resource/Michele_Emiliano"
+        ]
+    ]
+}

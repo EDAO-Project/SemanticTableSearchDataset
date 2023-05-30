@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michele_Allasia",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Corpo_Aeronautico_Militare"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Amantea",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Corpo_Aeronautico_Militare"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_Arnold",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Royal_Naval_Air_Service"
+        ],
+        [
+            "http://dbpedia.org/resource/Sebastiano_Bedendo",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Corpo_Aeronautico_Militare"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Benger",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ]
+    ]
+}

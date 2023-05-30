@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Detroit_Pistons",
+            "http://dbpedia.org/resource/John_Brisker",
+            "http://dbpedia.org/resource/KeyArena"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Knicks",
+            "http://dbpedia.org/resource/Spencer_Haywood",
+            "http://dbpedia.org/resource/KeyArena"
+        ]
+    ]
+}

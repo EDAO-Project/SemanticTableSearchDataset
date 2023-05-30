@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2004_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Randy_Johnson",
+            "http://dbpedia.org/resource/Vicente_Padilla",
+            "http://dbpedia.org/resource/Matt_Mantei"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_St._Louis_Cardinals_season",
+            "http://dbpedia.org/resource/Chris_Carpenter",
+            "http://dbpedia.org/resource/Brett_Myers",
+            "http://dbpedia.org/resource/Jason_Isringhausen"
+        ]
+    ]
+}

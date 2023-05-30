@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clermont_State_Historic_Site",
+            "http://dbpedia.org/resource/Clermont,_New_York",
+            "http://dbpedia.org/resource/Columbia_County,_New_York",
+            "http://dbpedia.org/resource/Capital_District",
+            "http://dbpedia.org/resource/Historic_house_museum",
+            "http://dbpedia.org/resource/Livingston_family"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederic_Remington_Art_Museum",
+            "http://dbpedia.org/resource/Ogdensburg,_New_York",
+            "http://dbpedia.org/resource/St._Lawrence_County,_New_York",
+            "http://dbpedia.org/resource/Thousand_Islands",
+            "http://dbpedia.org/resource/Art_museum",
+            "http://dbpedia.org/resource/Frederic_Remington"
+        ]
+    ]
+}

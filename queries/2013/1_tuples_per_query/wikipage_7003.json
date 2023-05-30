@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hoyt_Vandenberg",
+            "http://dbpedia.org/resource/Vice_Chief_of_Staff_of_the_United_States_Air_Force",
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/Director_of_Central_Intelligence"
+        ]
+    ]
+}

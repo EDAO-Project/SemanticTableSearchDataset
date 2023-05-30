@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kosmos_1001",
+            "http://dbpedia.org/resource/Soyuz-T",
+            "http://dbpedia.org/resource/Soyuz-U"
+        ],
+        [
+            "http://dbpedia.org/resource/Tsyklon-2",
+            "http://dbpedia.org/resource/ASAT",
+            "http://dbpedia.org/resource/Kosmos_967"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_1024",
+            "http://dbpedia.org/resource/Oko",
+            "http://dbpedia.org/resource/Molniya-M"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_1030",
+            "http://dbpedia.org/resource/Oko",
+            "http://dbpedia.org/resource/Molniya-M"
+        ],
+        [
+            "http://dbpedia.org/resource/Sfera",
+            "http://dbpedia.org/resource/Kosmos-3M",
+            "http://dbpedia.org/resource/Geodesy"
+        ]
+    ]
+}

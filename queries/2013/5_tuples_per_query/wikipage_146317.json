@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bouilly,_Marne",
+            "http://dbpedia.org/resource/Bouleuse",
+            "http://dbpedia.org/resource/Boult-sur-Suippe",
+            "http://dbpedia.org/resource/Bourgogne,_Marne"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouvancourt",
+            "http://dbpedia.org/resource/Branscourt",
+            "http://dbpedia.org/resource/Breuil,_Marne",
+            "http://dbpedia.org/resource/Brimont"
+        ],
+        [
+            "http://dbpedia.org/resource/Chenay,_Marne",
+            "http://dbpedia.org/resource/Chigny-les-Roses",
+            "http://dbpedia.org/resource/Cormicy",
+            "http://dbpedia.org/resource/Cormontreuil"
+        ],
+        [
+            "http://dbpedia.org/resource/Coulommes-la-Montagne",
+            "http://dbpedia.org/resource/Courcelles-Sapicourt",
+            "http://dbpedia.org/resource/Courcy,_Marne",
+            "http://dbpedia.org/resource/Courlandon"
+        ],
+        [
+            "http://dbpedia.org/resource/Courmas",
+            "http://dbpedia.org/resource/Courtagnon",
+            "http://dbpedia.org/resource/Courville,_Marne",
+            "http://dbpedia.org/resource/Crugny"
+        ]
+    ]
+}

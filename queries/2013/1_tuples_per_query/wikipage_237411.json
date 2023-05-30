@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agra_division",
+            "http://dbpedia.org/resource/Agra",
+            "http://dbpedia.org/resource/Agra_district"
+        ]
+    ]
+}

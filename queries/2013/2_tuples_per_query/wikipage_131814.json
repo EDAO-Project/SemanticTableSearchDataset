@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bedford_Blues",
+            "http://dbpedia.org/resource/Goldington_Road",
+            "http://dbpedia.org/resource/Bedford"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornish_Pirates",
+            "http://dbpedia.org/resource/Mennaye_Field",
+            "http://dbpedia.org/resource/Penzance"
+        ]
+    ]
+}

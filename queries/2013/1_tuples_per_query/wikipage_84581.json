@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dallas_Mavericks",
+            "http://dbpedia.org/resource/Stephen_Jackson",
+            "http://dbpedia.org/resource/Tyrus_Thomas",
+            "http://dbpedia.org/resource/Raymond_Felton",
+            "http://dbpedia.org/resource/Time_Warner_Cable_Arena"
+        ]
+    ]
+}

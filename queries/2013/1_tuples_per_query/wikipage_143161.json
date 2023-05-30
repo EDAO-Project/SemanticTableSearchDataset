@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Company_of_Wolves",
+            "http://dbpedia.org/resource/Neil_Jordan",
+            "http://dbpedia.org/resource/Angela_Lansbury"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pink_Floyd",
+            "http://dbpedia.org/resource/Roger_Waters",
+            "http://dbpedia.org/resource/Big_Ben"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Calling",
+            "http://dbpedia.org/resource/The_Clash",
+            "http://dbpedia.org/resource/Joe_Strummer"
+        ],
+        [
+            "http://dbpedia.org/resource/Pomp_and_Circumstance_Marches",
+            "http://dbpedia.org/resource/London_Symphony_Orchestra",
+            "http://dbpedia.org/resource/Edward_Elgar"
+        ],
+        [
+            "http://dbpedia.org/resource/Flower_of_Scotland",
+            "http://dbpedia.org/resource/Roy_Williamson",
+            "http://dbpedia.org/resource/Edinburgh_Castle"
+        ],
+        [
+            "http://dbpedia.org/resource/Tubular_Bells",
+            "http://dbpedia.org/resource/Mike_Oldfield",
+            "http://dbpedia.org/resource/J._K._Rowling"
+        ]
+    ]
+}

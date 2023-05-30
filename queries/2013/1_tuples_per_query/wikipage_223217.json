@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eliezer_Kaplan",
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/Provisional_government_of_Israel"
+        ]
+    ]
+}

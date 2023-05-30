@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1981_in_film",
+            "http://dbpedia.org/resource/Lawrence_Kasdan",
+            "http://dbpedia.org/resource/Raiders_of_the_Lost_Ark"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_in_film",
+            "http://dbpedia.org/resource/Melissa_Mathison",
+            "http://dbpedia.org/resource/E.T._the_Extra-Terrestrial"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_in_film",
+            "http://dbpedia.org/resource/James_Cameron",
+            "http://dbpedia.org/resource/The_Terminator"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_in_film",
+            "http://dbpedia.org/resource/Edward_Neumeier",
+            "http://dbpedia.org/resource/RoboCop"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_in_film",
+            "http://dbpedia.org/resource/Mike_Werb",
+            "http://dbpedia.org/resource/Face/Off"
+        ]
+    ]
+}

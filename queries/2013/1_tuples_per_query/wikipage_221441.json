@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Easdale",
+            "http://dbpedia.org/resource/Slate_Islands",
+            "http://dbpedia.org/resource/Scotland"
+        ]
+    ]
+}

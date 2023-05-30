@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_World_1990",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_World_1991",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_World_1992",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/The_Bahamas",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_World_1993",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_World_1994",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Cayman_Islands",
+            "http://dbpedia.org/resource/Croatia"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Bradley",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Sarachan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_in_literature",
+            "http://dbpedia.org/resource/Philip_K._Dick",
+            "http://dbpedia.org/resource/Dr._Bloodmoney,_or_How_We_Got_Along_After_the_Bomb",
+            "http://dbpedia.org/resource/Ace_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_in_literature",
+            "http://dbpedia.org/resource/Thomas_M._Disch",
+            "http://dbpedia.org/resource/The_Genocides",
+            "http://dbpedia.org/resource/Berkley_Books"
+        ]
+    ]
+}

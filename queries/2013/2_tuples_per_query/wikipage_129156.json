@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Backlund",
+            "http://dbpedia.org/resource/Harley_Race",
+            "http://dbpedia.org/resource/Verne_Gagne",
+            "http://dbpedia.org/resource/The_Iron_Sheik"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Backlund",
+            "http://dbpedia.org/resource/Ric_Flair",
+            "http://dbpedia.org/resource/Hulk_Hogan",
+            "http://dbpedia.org/resource/Jimmy_Snuka"
+        ]
+    ]
+}

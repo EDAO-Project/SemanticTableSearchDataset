@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joest_Racing",
+            "http://dbpedia.org/resource/Porsche_962",
+            "http://dbpedia.org/resource/Henri_Pescarolo",
+            "http://dbpedia.org/resource/Goodyear_Tire_and_Rubber_Company"
+        ]
+    ]
+}

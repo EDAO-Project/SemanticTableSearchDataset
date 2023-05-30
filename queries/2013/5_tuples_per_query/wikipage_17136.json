@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbeville_and_Waycross_Railroad",
+            "http://dbpedia.org/resource/Seaboard_Air_Line_Railroad",
+            "http://dbpedia.org/resource/Georgia_and_Alabama_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Alabama_Midland_Railway",
+            "http://dbpedia.org/resource/Atlantic_Coast_Line_Railroad",
+            "http://dbpedia.org/resource/Plant_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Americus,_Preston_and_Lumpkin_Railroad",
+            "http://dbpedia.org/resource/Seaboard_Air_Line_Railroad",
+            "http://dbpedia.org/resource/Savannah,_Americus_and_Montgomery_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta,_Birmingham_and_Atlantic_Railway",
+            "http://dbpedia.org/resource/Atlantic_Coast_Line_Railroad",
+            "http://dbpedia.org/resource/Atlanta,_Birmingham_and_Coast_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_and_West_Point_Railroad",
+            "http://dbpedia.org/resource/Atlantic_Coast_Line_Railroad",
+            "http://dbpedia.org/resource/Seaboard_System_Railroad"
+        ]
+    ]
+}

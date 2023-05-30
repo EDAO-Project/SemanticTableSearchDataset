@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_Fed_Cup",
+            "http://dbpedia.org/resource/Nagoya",
+            "http://dbpedia.org/resource/Japan_Fed_Cup_team",
+            "http://dbpedia.org/resource/Tennis_court",
+            "http://dbpedia.org/resource/Ai_Sugiyama"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Fed_Cup",
+            "http://dbpedia.org/resource/Nagoya",
+            "http://dbpedia.org/resource/Japan_Fed_Cup_team",
+            "http://dbpedia.org/resource/Tennis_court",
+            "http://dbpedia.org/resource/Kimiko_Date-Krumm"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Fed_Cup",
+            "http://dbpedia.org/resource/Kiawah_Island,_South_Carolina",
+            "http://dbpedia.org/resource/Netherlands_Fed_Cup_team",
+            "http://dbpedia.org/resource/Clay_court",
+            "http://dbpedia.org/resource/Miriam_Oremans"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Fed_Cup",
+            "http://dbpedia.org/resource/Kiawah_Island,_South_Carolina",
+            "http://dbpedia.org/resource/Netherlands_Fed_Cup_team",
+            "http://dbpedia.org/resource/Clay_court",
+            "http://dbpedia.org/resource/Amanda_Hopmans"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Fed_Cup",
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina",
+            "http://dbpedia.org/resource/Croatia_Fed_Cup_team",
+            "http://dbpedia.org/resource/Clay_court",
+            "http://dbpedia.org/resource/Silvija_Talaja"
+        ]
+    ]
+}

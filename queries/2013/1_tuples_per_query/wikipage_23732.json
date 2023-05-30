@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kan-Etsu_Expressway",
+            "http://dbpedia.org/resource/Fujioka,_Gunma",
+            "http://dbpedia.org/resource/Gunma_Prefecture"
+        ]
+    ]
+}

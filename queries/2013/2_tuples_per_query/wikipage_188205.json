@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/S.T.U.N._Runner",
+            "http://dbpedia.org/resource/Atari_Games",
+            "http://dbpedia.org/resource/Racing_video_game"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Francisco_Rush:_Extreme_Racing",
+            "http://dbpedia.org/resource/Atari_Games",
+            "http://dbpedia.org/resource/Racing_video_game"
+        ]
+    ]
+}

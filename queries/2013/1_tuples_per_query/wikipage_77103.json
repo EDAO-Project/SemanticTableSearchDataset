@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australian_rules_football_in_the_Northern_Territory",
+            "http://dbpedia.org/resource/Australian_rules_football_in_Tasmania",
+            "http://dbpedia.org/resource/Football_Park"
+        ]
+    ]
+}

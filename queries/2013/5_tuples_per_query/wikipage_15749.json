@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_Formula_One_season",
+            "http://dbpedia.org/resource/Offenhauser",
+            "http://dbpedia.org/resource/Cecil_Green"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_Formula_One_season",
+            "http://dbpedia.org/resource/Offenhauser",
+            "http://dbpedia.org/resource/Duke_Dinsmore"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_Formula_One_season",
+            "http://dbpedia.org/resource/Offenhauser",
+            "http://dbpedia.org/resource/Fred_Agabashian"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_Formula_One_season",
+            "http://dbpedia.org/resource/Offenhauser",
+            "http://dbpedia.org/resource/Jack_McGrath"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_Formula_One_season",
+            "http://dbpedia.org/resource/Offenhauser",
+            "http://dbpedia.org/resource/Jerry_Hoyt"
+        ]
+    ]
+}

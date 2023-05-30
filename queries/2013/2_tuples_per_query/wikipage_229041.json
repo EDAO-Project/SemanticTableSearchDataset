@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gimpo_International_Airport_Station",
+            "http://dbpedia.org/resource/Seoul_Subway_Line_9",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Gangseo_District,_Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Kkachisan_Station",
+            "http://dbpedia.org/resource/Seoul_Subway_Line_2",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Gangseo_District,_Seoul"
+        ]
+    ]
+}

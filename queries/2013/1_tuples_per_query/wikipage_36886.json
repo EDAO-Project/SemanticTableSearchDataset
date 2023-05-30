@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scottish_Football_League",
+            "http://dbpedia.org/resource/Dens_Park",
+            "http://dbpedia.org/resource/Andy_Penman",
+            "http://dbpedia.org/resource/Dennis_Gillespie"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denali_National_Park_and_Preserve",
+            "http://dbpedia.org/resource/Denali",
+            "http://dbpedia.org/resource/Alaska_Range",
+            "http://dbpedia.org/resource/Yentna_River"
+        ]
+    ]
+}

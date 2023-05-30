@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_LPGA_Tour",
+            "http://dbpedia.org/resource/LPGA_State_Farm_Classic",
+            "http://dbpedia.org/resource/Nancy_Lopez"
+        ]
+    ]
+}

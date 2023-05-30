@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jackson_Open",
+            "http://dbpedia.org/resource/Mississippi",
+            "http://dbpedia.org/resource/Jo_Ann_Prentice"
+        ],
+        [
+            "http://dbpedia.org/resource/Baton_Rouge_Ladies_Invitational",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Mickey_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/Pensacola_Ladies_Invitational",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Betsy_Rawls"
+        ],
+        [
+            "http://dbpedia.org/resource/Shreveport_Kiwanis_Invitational",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Kathy_Whitworth"
+        ],
+        [
+            "http://dbpedia.org/resource/Peach_Blossom_Open",
+            "http://dbpedia.org/resource/South_Carolina",
+            "http://dbpedia.org/resource/Marilynn_Smith"
+        ]
+    ]
+}

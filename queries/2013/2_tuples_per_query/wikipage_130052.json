@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Port_Malabar_Invitational",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Mickey_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/Palm_Beach_County_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Mickey_Wright"
+        ]
+    ]
+}

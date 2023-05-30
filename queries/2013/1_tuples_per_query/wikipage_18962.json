@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/The_Home_Song_Stories",
+            "http://dbpedia.org/resource/Cantonese",
+            "http://dbpedia.org/resource/Tony_Ayres"
+        ]
+    ]
+}

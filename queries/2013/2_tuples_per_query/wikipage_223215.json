@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_League_Angels",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Tempe,_Arizona",
+            "http://dbpedia.org/resource/Tempe_Diablo_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona_League_Brewers",
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/Maryvale_Baseball_Park"
+        ]
+    ]
+}

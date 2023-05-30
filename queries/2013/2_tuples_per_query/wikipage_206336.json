@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blackburn_with_Darwen",
+            "http://dbpedia.org/resource/Blackburn",
+            "http://dbpedia.org/resource/Belmont,_Lancashire"
+        ],
+        [
+            "http://dbpedia.org/resource/Borough_of_Burnley",
+            "http://dbpedia.org/resource/Burnley",
+            "http://dbpedia.org/resource/Padiham"
+        ]
+    ]
+}

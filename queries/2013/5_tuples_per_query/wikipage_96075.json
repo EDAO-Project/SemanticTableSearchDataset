@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/RAF_Brampton",
+            "http://dbpedia.org/resource/Cambridgeshire",
+            "http://dbpedia.org/resource/RAF_Brampton_Wyton_Henlow"
+        ],
+        [
+            "http://dbpedia.org/resource/RAF_Cranwell",
+            "http://dbpedia.org/resource/Lincolnshire",
+            "http://dbpedia.org/resource/Royal_Air_Force_College_Cranwell"
+        ],
+        [
+            "http://dbpedia.org/resource/RAF_Fylingdales",
+            "http://dbpedia.org/resource/North_Yorkshire",
+            "http://dbpedia.org/resource/Ballistic_Missile_Early_Warning_System"
+        ],
+        [
+            "http://dbpedia.org/resource/RAF_Honington",
+            "http://dbpedia.org/resource/Suffolk",
+            "http://dbpedia.org/resource/RAF_Regiment"
+        ],
+        [
+            "http://dbpedia.org/resource/RAF_Kirton_in_Lindsey",
+            "http://dbpedia.org/resource/Lincolnshire",
+            "http://dbpedia.org/resource/RAF_Scampton"
+        ]
+    ]
+}

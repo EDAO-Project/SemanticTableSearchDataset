@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greg_Chalmers",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sunshine_Coast,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Senior",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sunshine_Coast,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Allenby",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sunshine_Coast,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoff_Ogilvy",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sunshine_Coast,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Lonard",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sunshine_Coast,_Queensland"
+        ]
+    ]
+}

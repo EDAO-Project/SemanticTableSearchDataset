@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_Kansas_City_Royals_season",
+            "http://dbpedia.org/resource/Bruce_Chen",
+            "http://dbpedia.org/resource/Kevin_Millwood",
+            "http://dbpedia.org/resource/Joakim_Soria"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/Gavin_Floyd",
+            "http://dbpedia.org/resource/Jason_Berken",
+            "http://dbpedia.org/resource/J._J._Putz"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bell_X-1",
+            "http://dbpedia.org/resource/Bell_Aircraft",
+            "http://dbpedia.org/resource/Sound_barrier"
+        ],
+        [
+            "http://dbpedia.org/resource/Douglas_X-3_Stiletto",
+            "http://dbpedia.org/resource/Douglas_Aircraft_Company",
+            "http://dbpedia.org/resource/Titanium"
+        ]
+    ]
+}

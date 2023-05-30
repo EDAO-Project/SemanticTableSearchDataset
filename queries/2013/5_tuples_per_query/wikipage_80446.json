@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alda_of_Alania",
+            "http://dbpedia.org/resource/Alania",
+            "http://dbpedia.org/resource/George_I_of_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Helena_Argyre",
+            "http://dbpedia.org/resource/Basil_Argyros",
+            "http://dbpedia.org/resource/Bagrat_IV_of_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Borena_of_Alania",
+            "http://dbpedia.org/resource/Alania",
+            "http://dbpedia.org/resource/Bagrat_IV_of_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Family_of_David_IV_of_Georgia",
+            "http://dbpedia.org/resource/Otrok",
+            "http://dbpedia.org/resource/David_IV_of_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Yury_Bogolyubsky",
+            "http://dbpedia.org/resource/Andrey_Bogolyubsky",
+            "http://dbpedia.org/resource/Tamar_of_Georgia"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Sloten,_Amsterdam"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Haarlemmermeer",
+            "http://dbpedia.org/resource/Amsterdam_Airport_Schiphol"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Northeastern_Huskies",
+            "http://dbpedia.org/resource/Canisius_College",
+            "http://dbpedia.org/resource/Mark_Halsel",
+            "http://dbpedia.org/resource/Matthews_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Northeastern_Huskies",
+            "http://dbpedia.org/resource/Boston_University_Terriers",
+            "http://dbpedia.org/resource/Reggie_Lewis",
+            "http://dbpedia.org/resource/Matthews_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Northeastern_Huskies",
+            "http://dbpedia.org/resource/Boston_University_Terriers",
+            "http://dbpedia.org/resource/Reggie_Lewis",
+            "http://dbpedia.org/resource/Matthews_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Drexel_Dragons",
+            "http://dbpedia.org/resource/Maine_Black_Bears",
+            "http://dbpedia.org/resource/Malik_Rose",
+            "http://dbpedia.org/resource/Daskalakis_Athletic_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Drexel_Dragons",
+            "http://dbpedia.org/resource/Northeastern_Huskies",
+            "http://dbpedia.org/resource/Malik_Rose",
+            "http://dbpedia.org/resource/Daskalakis_Athletic_Center"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_Fort_Worth_tornado",
+            "http://dbpedia.org/resource/Southern_United_States",
+            "http://dbpedia.org/resource/Fort_Worth,_Texas"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bawdsey_Manor",
+            "http://dbpedia.org/resource/Bawdsey",
+            "http://dbpedia.org/resource/Suffolk_Coastal",
+            "http://dbpedia.org/resource/RAF_Bawdsey"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Centre_for_Computing_History",
+            "http://dbpedia.org/resource/Haverhill,_Suffolk",
+            "http://dbpedia.org/resource/St_Edmundsbury",
+            "http://dbpedia.org/resource/Information_Age"
+        ]
+    ]
+}

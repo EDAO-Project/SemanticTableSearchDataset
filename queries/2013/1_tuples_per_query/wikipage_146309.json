@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balnot-la-Grange",
+            "http://dbpedia.org/resource/Balnot-sur-Laignes",
+            "http://dbpedia.org/resource/Bar-sur-Seine",
+            "http://dbpedia.org/resource/Barberey-Saint-Sulpice"
+        ]
+    ]
+}

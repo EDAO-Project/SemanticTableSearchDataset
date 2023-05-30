@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zerach_Warhaftig",
+            "http://dbpedia.org/resource/Hapoel_HaMizrachi",
+            "http://dbpedia.org/resource/Fourth_government_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Zerach_Warhaftig",
+            "http://dbpedia.org/resource/Hapoel_HaMizrachi",
+            "http://dbpedia.org/resource/Seventh_government_of_Israel"
+        ]
+    ]
+}

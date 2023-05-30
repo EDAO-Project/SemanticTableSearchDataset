@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amblainville",
+            "http://dbpedia.org/resource/Andeville",
+            "http://dbpedia.org/resource/Anserville",
+            "http://dbpedia.org/resource/Auchy-la-Montagne"
+        ],
+        [
+            "http://dbpedia.org/resource/Blargies",
+            "http://dbpedia.org/resource/Blicourt",
+            "http://dbpedia.org/resource/Boissy-le-Bois",
+            "http://dbpedia.org/resource/Bonlier"
+        ],
+        [
+            "http://dbpedia.org/resource/Boury-en-Vexin",
+            "http://dbpedia.org/resource/Boutavent",
+            "http://dbpedia.org/resource/Boutencourt",
+            "http://dbpedia.org/resource/Bouvresse"
+        ],
+        [
+            "http://dbpedia.org/resource/Bresles",
+            "http://dbpedia.org/resource/Briot",
+            "http://dbpedia.org/resource/Brombos",
+            "http://dbpedia.org/resource/Broquiers"
+        ],
+        [
+            "http://dbpedia.org/resource/Cauvigny",
+            "http://dbpedia.org/resource/Cempuis",
+            "http://dbpedia.org/resource/Chambors",
+            "http://dbpedia.org/resource/Chaumont-en-Vexin"
+        ]
+    ]
+}

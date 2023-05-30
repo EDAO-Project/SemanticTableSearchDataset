@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/El_bosque_del_lobo",
+            "http://dbpedia.org/resource/Pedro_Olea",
+            "http://dbpedia.org/resource/Amparo_Soler_Leal"
+        ],
+        [
+            "http://dbpedia.org/resource/And_Soon_the_Darkness",
+            "http://dbpedia.org/resource/Robert_Fuest",
+            "http://dbpedia.org/resource/Pamela_Franklin"
+        ]
+    ]
+}

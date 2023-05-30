@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baoshuiqu_Station",
+            "http://dbpedia.org/resource/Line_3,_Dalian_Metro",
+            "http://dbpedia.org/resource/Jinzhou_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Dalian_Railway_Station",
+            "http://dbpedia.org/resource/Line_3,_Dalian_Metro",
+            "http://dbpedia.org/resource/Xigang_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Dalianwan_Station",
+            "http://dbpedia.org/resource/Line_3,_Dalian_Metro",
+            "http://dbpedia.org/resource/Ganjingzi_District"
+        ],
+        [
+            "http://dbpedia.org/resource/DD_Port_Station",
+            "http://dbpedia.org/resource/Line_3,_Dalian_Metro",
+            "http://dbpedia.org/resource/Jinzhou_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Dongshanlu_Station",
+            "http://dbpedia.org/resource/Dalian_Metro",
+            "http://dbpedia.org/resource/Jinzhou_District"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/22nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Paul_McCartney",
+            "http://dbpedia.org/resource/Rockestra_Theme",
+            "http://dbpedia.org/resource/Dixie_Dregs"
+        ],
+        [
+            "http://dbpedia.org/resource/24th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/The_Police",
+            "http://dbpedia.org/resource/Behind_My_Camel",
+            "http://dbpedia.org/resource/Dixie_Dregs"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arthur-Lucien_Beaubien",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/William_Lyon_Mackenzie_King"
+        ]
+    ]
+}

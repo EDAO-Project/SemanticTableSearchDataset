@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tim_Tolman",
+            "http://dbpedia.org/resource/USC_Trojans_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Francona",
+            "http://dbpedia.org/resource/Arizona_Wildcats_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Alvin_Davis",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Oddibe_McDowell",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_McGwire",
+            "http://dbpedia.org/resource/USC_Trojans_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ]
+    ]
+}

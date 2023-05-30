@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avelesges",
+            "http://dbpedia.org/resource/Avesnes-Chaussoy",
+            "http://dbpedia.org/resource/Bacouel-sur-Selle",
+            "http://dbpedia.org/resource/Baizieux"
+        ],
+        [
+            "http://dbpedia.org/resource/Barly,_Somme",
+            "http://dbpedia.org/resource/Bavelincourt",
+            "http://dbpedia.org/resource/Bayencourt",
+            "http://dbpedia.org/resource/Beaucamps-le-Jeune"
+        ],
+        [
+            "http://dbpedia.org/resource/Bergicourt",
+            "http://dbpedia.org/resource/Bermesnil",
+            "http://dbpedia.org/resource/Bernaville",
+            "http://dbpedia.org/resource/Berneuil,_Somme"
+        ],
+        [
+            "http://dbpedia.org/resource/Blangy-sous-Poix",
+            "http://dbpedia.org/resource/Boisbergues",
+            "http://dbpedia.org/resource/Bonnay,_Somme",
+            "http://dbpedia.org/resource/Bonneville,_Somme"
+        ],
+        [
+            "http://dbpedia.org/resource/Bosquel",
+            "http://dbpedia.org/resource/Bouchon,_Somme",
+            "http://dbpedia.org/resource/Bougainville,_Somme",
+            "http://dbpedia.org/resource/Bouquemaison"
+        ]
+    ]
+}

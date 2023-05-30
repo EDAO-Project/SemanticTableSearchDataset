@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jason_Rutledge",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Southland_Rugby_Football_Union",
+            "http://dbpedia.org/resource/New_Zealand_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Nick_Barrett",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Southland_Rugby_Football_Union",
+            "http://dbpedia.org/resource/New_Zealand_Rugby_Union"
+        ]
+    ]
+}

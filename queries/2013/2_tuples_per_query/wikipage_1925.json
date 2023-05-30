@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_in_film",
+            "http://dbpedia.org/resource/Bicycle_Thieves",
+            "http://dbpedia.org/resource/Vittorio_De_Sica"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_in_film",
+            "http://dbpedia.org/resource/La_Strada",
+            "http://dbpedia.org/resource/Federico_Fellini"
+        ]
+    ]
+}

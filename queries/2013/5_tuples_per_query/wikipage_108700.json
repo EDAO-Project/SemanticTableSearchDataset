@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manly_Warringah_Sea_Eagles",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Blake_Ayshford",
+            "http://dbpedia.org/resource/Benji_Marshall"
+        ],
+        [
+            "http://dbpedia.org/resource/Canberra_Raiders",
+            "http://dbpedia.org/resource/Canberra_Stadium",
+            "http://dbpedia.org/resource/Liam_Fulton",
+            "http://dbpedia.org/resource/Benji_Marshall"
+        ],
+        [
+            "http://dbpedia.org/resource/Penrith_Panthers",
+            "http://dbpedia.org/resource/Penrith_Stadium",
+            "http://dbpedia.org/resource/Mark_Flanagan",
+            "http://dbpedia.org/resource/Benji_Marshall"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Roosters",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Chris_Heighington",
+            "http://dbpedia.org/resource/Benji_Marshall"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_Knights",
+            "http://dbpedia.org/resource/Newcastle_International_Sports_Centre",
+            "http://dbpedia.org/resource/Geoff_Daniela",
+            "http://dbpedia.org/resource/Benji_Marshall"
+        ]
+    ]
+}

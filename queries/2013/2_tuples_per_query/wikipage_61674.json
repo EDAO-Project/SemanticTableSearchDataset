@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Judea",
+            "http://dbpedia.org/resource/Pontius_Pilate",
+            "http://dbpedia.org/resource/Jews"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Peterloo_Massacre",
+            "http://dbpedia.org/resource/Suffrage"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/Gravesend,_Brooklyn",
+            "http://dbpedia.org/resource/Cropsey_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/Gravesend,_Brooklyn",
+            "http://dbpedia.org/resource/Coney_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/Sheepshead_Bay,_Brooklyn",
+            "http://dbpedia.org/resource/Coney_Island_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/Floyd_Bennett_Field",
+            "http://dbpedia.org/resource/Flatbush_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/Canarsie,_Brooklyn",
+            "http://dbpedia.org/resource/Rockaway_Parkway"
+        ]
+    ]
+}

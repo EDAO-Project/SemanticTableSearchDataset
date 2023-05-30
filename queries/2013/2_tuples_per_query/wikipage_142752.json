@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Times",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Tribune_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose_Mercury_News",
+            "http://dbpedia.org/resource/San_Jose,_California",
+            "http://dbpedia.org/resource/MediaNews_Group"
+        ]
+    ]
+}

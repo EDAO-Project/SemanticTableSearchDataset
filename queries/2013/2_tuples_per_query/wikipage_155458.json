@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nerima_Interchange",
+            "http://dbpedia.org/resource/Nerima",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo_Gaikan_Expressway",
+            "http://dbpedia.org/resource/Nerima",
+            "http://dbpedia.org/resource/Tokyo"
+        ]
+    ]
+}

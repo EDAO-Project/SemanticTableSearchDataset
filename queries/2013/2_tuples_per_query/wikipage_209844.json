@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Matt_Zaba",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Yorkton",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Miles_Zaharko",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Mannville,_Alberta",
+            "http://dbpedia.org/resource/Atlanta_Flames"
+        ]
+    ]
+}

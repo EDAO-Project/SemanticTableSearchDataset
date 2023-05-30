@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_NRL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos",
+            "http://dbpedia.org/resource/Canterbury-Bankstown_Bulldogs",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Gorden_Tallis"
+        ]
+    ]
+}

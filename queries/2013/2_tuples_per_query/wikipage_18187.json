@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Classe_Tous_Risques",
+            "http://dbpedia.org/resource/Claude_Sautet",
+            "http://dbpedia.org/resource/Lino_Ventura"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Dead_Eyes_of_London",
+            "http://dbpedia.org/resource/Alfred_Vohrer",
+            "http://dbpedia.org/resource/Joachim_Fuchsberger"
+        ]
+    ]
+}

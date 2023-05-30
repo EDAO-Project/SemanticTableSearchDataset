@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bay_City_Recreation_Area",
+            "http://dbpedia.org/resource/Bay_City,_Michigan",
+            "http://dbpedia.org/resource/Bay_County,_Michigan",
+            "http://dbpedia.org/resource/Flint/Tri-Cities"
+        ]
+    ]
+}

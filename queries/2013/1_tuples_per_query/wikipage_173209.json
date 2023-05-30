@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australian_Grand_Prix",
+            "http://dbpedia.org/resource/Melbourne_Grand_Prix_Circuit",
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Jenson_Button"
+        ]
+    ]
+}

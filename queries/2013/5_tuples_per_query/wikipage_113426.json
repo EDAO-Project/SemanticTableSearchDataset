@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_J._Matheussen",
+            "http://dbpedia.org/resource/Sean_F._Dalton",
+            "http://dbpedia.org/resource/George_Geist"
+        ],
+        [
+            "http://dbpedia.org/resource/John_J._Matheussen",
+            "http://dbpedia.org/resource/Sean_F._Dalton",
+            "http://dbpedia.org/resource/George_Geist"
+        ],
+        [
+            "http://dbpedia.org/resource/John_J._Matheussen",
+            "http://dbpedia.org/resource/George_Geist",
+            "http://dbpedia.org/resource/Gerald_Luongo"
+        ],
+        [
+            "http://dbpedia.org/resource/John_J._Matheussen",
+            "http://dbpedia.org/resource/George_Geist",
+            "http://dbpedia.org/resource/Robert_J._Smith_II"
+        ],
+        [
+            "http://dbpedia.org/resource/John_J._Matheussen",
+            "http://dbpedia.org/resource/George_Geist",
+            "http://dbpedia.org/resource/Robert_J._Smith_II"
+        ]
+    ]
+}

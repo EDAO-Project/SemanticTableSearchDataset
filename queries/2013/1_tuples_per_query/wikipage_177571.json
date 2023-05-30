@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joe_Agler",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/1914_Buffalo_Buffeds_season"
+        ]
+    ]
+}

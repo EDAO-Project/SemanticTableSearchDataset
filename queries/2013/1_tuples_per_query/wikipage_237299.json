@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AK-47",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ]
+    ]
+}

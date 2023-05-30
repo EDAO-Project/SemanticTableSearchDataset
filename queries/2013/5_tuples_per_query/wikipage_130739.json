@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tomislav_Erceg",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HNK_Hajduk_Split",
+            "http://dbpedia.org/resource/NK_Pazinka"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomislav_Erceg",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HNK_Hajduk_Split",
+            "http://dbpedia.org/resource/NK_Istra"
+        ],
+        [
+            "http://dbpedia.org/resource/Alen_Peternac",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HNK_Segesta",
+            "http://dbpedia.org/resource/NK_Dubrava"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomislav_Erceg",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HNK_Hajduk_Split",
+            "http://dbpedia.org/resource/NK_Radnik_Velika_Gorica"
+        ],
+        [
+            "http://dbpedia.org/resource/Alen_Peternac",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HNK_Segesta",
+            "http://dbpedia.org/resource/NK_Osijek"
+        ]
+    ]
+}

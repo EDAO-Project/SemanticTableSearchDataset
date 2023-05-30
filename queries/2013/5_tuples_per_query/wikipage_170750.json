@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bank_of_the_Philippine_Islands",
+            "http://dbpedia.org/resource/Makati",
+            "http://dbpedia.org/resource/Ayala_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/Manila_Elks_Club",
+            "http://dbpedia.org/resource/Manila",
+            "http://dbpedia.org/resource/Roxas_Boulevard"
+        ],
+        [
+            "http://dbpedia.org/resource/Manila_Metropolitan_Theater",
+            "http://dbpedia.org/resource/Manila",
+            "http://dbpedia.org/resource/Padre_Burgos_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/Rizal_Monument",
+            "http://dbpedia.org/resource/Manila",
+            "http://dbpedia.org/resource/Rizal_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Rizal_Shrine",
+            "http://dbpedia.org/resource/Manila",
+            "http://dbpedia.org/resource/Fort_Santiago"
+        ]
+    ]
+}

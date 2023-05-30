@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angus",
+            "http://dbpedia.org/resource/Brechin",
+            "http://dbpedia.org/resource/Tayside"
+        ]
+    ]
+}

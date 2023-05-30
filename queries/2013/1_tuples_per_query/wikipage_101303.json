@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Malcolm_McColm",
+            "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+            "http://dbpedia.org/resource/Australian_federal_election,_1949"
+        ]
+    ]
+}

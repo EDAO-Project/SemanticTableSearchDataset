@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Ljubljana",
+            "http://dbpedia.org/resource/Ludmilla_Tourischeva",
+            "http://dbpedia.org/resource/Olga_Karasyova",
+            "http://dbpedia.org/resource/Zinaida_Voronina"
+        ]
+    ]
+}

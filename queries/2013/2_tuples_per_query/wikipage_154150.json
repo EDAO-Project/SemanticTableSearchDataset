@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Distratto",
+            "http://dbpedia.org/resource/Francesca_Michielin",
+            "http://dbpedia.org/resource/Tiziano_Ferro"
+        ],
+        [
+            "http://dbpedia.org/resource/Somebody_That_I_Used_to_Know",
+            "http://dbpedia.org/resource/Gotye",
+            "http://dbpedia.org/resource/Vasco_Rossi"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Key_103",
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Greater_Manchester",
+            "http://dbpedia.org/resource/Key_2"
+        ]
+    ]
+}

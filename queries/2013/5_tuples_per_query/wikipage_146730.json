@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bosset",
+            "http://dbpedia.org/resource/Bouillac,_Dordogne",
+            "http://dbpedia.org/resource/Bouniagues",
+            "http://dbpedia.org/resource/Bourniquel"
+        ],
+        [
+            "http://dbpedia.org/resource/Douville",
+            "http://dbpedia.org/resource/Eymet",
+            "http://dbpedia.org/resource/Faurilles",
+            "http://dbpedia.org/resource/Faux,_Dordogne"
+        ],
+        [
+            "http://dbpedia.org/resource/Flaugeac",
+            "http://dbpedia.org/resource/Fonroque",
+            "http://dbpedia.org/resource/Fougueyrolles",
+            "http://dbpedia.org/resource/Fraisse"
+        ],
+        [
+            "http://dbpedia.org/resource/Gageac-et-Rouillac",
+            "http://dbpedia.org/resource/Gardonne",
+            "http://dbpedia.org/resource/Gaugeac",
+            "http://dbpedia.org/resource/Ginestet"
+        ],
+        [
+            "http://dbpedia.org/resource/Issac",
+            "http://dbpedia.org/resource/Issigeac",
+            "http://dbpedia.org/resource/La_Force,_Dordogne",
+            "http://dbpedia.org/resource/Labouquerie"
+        ]
+    ]
+}

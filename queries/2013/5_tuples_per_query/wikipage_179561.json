@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nicholas_Fitzgerald",
+            "http://dbpedia.org/resource/Brisbane_Roar_FC",
+            "http://dbpedia.org/resource/Central_Coast_Mariners_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Iain_Ramsay",
+            "http://dbpedia.org/resource/Adelaide_United_FC",
+            "http://dbpedia.org/resource/Melbourne_City_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Eli_Babalj",
+            "http://dbpedia.org/resource/Melbourne_City_FC",
+            "http://dbpedia.org/resource/AZ_Alkmaar"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Jurman",
+            "http://dbpedia.org/resource/Brisbane_Roar_FC",
+            "http://dbpedia.org/resource/Sydney_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Cameron_Edwards",
+            "http://dbpedia.org/resource/Melbourne_City_FC",
+            "http://dbpedia.org/resource/Perth_Glory_FC"
+        ]
+    ]
+}

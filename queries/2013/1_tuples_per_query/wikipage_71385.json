@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hardyville_Cemetery",
+            "http://dbpedia.org/resource/Arizona_State_Route_95",
+            "http://dbpedia.org/resource/Bullhead_City,_Arizona"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Timberwolves",
+            "http://dbpedia.org/resource/Damian_Lillard",
+            "http://dbpedia.org/resource/JJ_Hickson",
+            "http://dbpedia.org/resource/Eric_Maynor",
+            "http://dbpedia.org/resource/Moda_Center"
+        ]
+    ]
+}

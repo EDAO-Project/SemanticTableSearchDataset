@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pennsylvania_House_of_Representatives,_District_1",
+            "http://dbpedia.org/resource/Pat_Harkins",
+            "http://dbpedia.org/resource/Erie,_Pennsylvania",
+            "http://dbpedia.org/resource/Erie_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Pennsylvania_House_of_Representatives,_District_5",
+            "http://dbpedia.org/resource/Greg_Lucas",
+            "http://dbpedia.org/resource/Edinboro,_Pennsylvania",
+            "http://dbpedia.org/resource/Crawford_County,_Pennsylvania"
+        ]
+    ]
+}

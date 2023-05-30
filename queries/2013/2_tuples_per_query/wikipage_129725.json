@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edwin_de_Graaf",
+            "http://dbpedia.org/resource/Free_agent",
+            "http://dbpedia.org/resource/S.B.V._Excelsior"
+        ],
+        [
+            "http://dbpedia.org/resource/Andreas_Lasnik",
+            "http://dbpedia.org/resource/Free_agent",
+            "http://dbpedia.org/resource/NAC_Breda"
+        ]
+    ]
+}

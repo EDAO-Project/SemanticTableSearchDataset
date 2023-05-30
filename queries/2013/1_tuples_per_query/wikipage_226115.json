@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ingalls_Shipbuilding",
+            "http://dbpedia.org/resource/Pascagoula,_Mississippi",
+            "http://dbpedia.org/resource/Thomaston-class_dock_landing_ship"
+        ]
+    ]
+}

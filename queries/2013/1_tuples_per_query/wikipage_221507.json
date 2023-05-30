@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saaremaa",
+            "http://dbpedia.org/resource/West_Estonian_archipelago",
+            "http://dbpedia.org/resource/Estonia"
+        ]
+    ]
+}

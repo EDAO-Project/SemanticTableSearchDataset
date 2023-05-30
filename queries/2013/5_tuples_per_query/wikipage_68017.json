@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/King_Baudouin_Stadium",
+            "http://dbpedia.org/resource/Belgium_national_football_team",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/List_of_national_stadiums"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Breydel_Stadium",
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/Bruges",
+            "http://dbpedia.org/resource/Belgian_Pro_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Constant_Vanden_Stock_Stadium",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/Anderlecht",
+            "http://dbpedia.org/resource/Belgian_Pro_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Cristal_Arena",
+            "http://dbpedia.org/resource/K.R.C._Genk",
+            "http://dbpedia.org/resource/Genk",
+            "http://dbpedia.org/resource/Belgian_Pro_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghelamco_Arena",
+            "http://dbpedia.org/resource/K.A.A._Gent",
+            "http://dbpedia.org/resource/Ghent",
+            "http://dbpedia.org/resource/Belgian_Pro_League"
+        ]
+    ]
+}

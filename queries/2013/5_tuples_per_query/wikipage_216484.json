@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Burning_Train",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Mohammed_Rafi"
+        ],
+        [
+            "http://dbpedia.org/resource/Chambal_Ki_Kasam",
+            "http://dbpedia.org/resource/Mohammed_Zahur_Khayyam",
+            "http://dbpedia.org/resource/Mohammed_Rafi"
+        ],
+        [
+            "http://dbpedia.org/resource/Kudrat",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Kishore_Kumar"
+        ],
+        [
+            "http://dbpedia.org/resource/Kudrat",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Lata_Mangeshkar"
+        ],
+        [
+            "http://dbpedia.org/resource/Chhookar_Mere_Man_Ko_Kiya_Toone_Kya_Ishaara",
+            "http://dbpedia.org/resource/Rajesh_Roshan",
+            "http://dbpedia.org/resource/Kishore_Kumar"
+        ]
+    ]
+}

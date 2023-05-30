@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joseph_Hopkinson",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_John_Quincy_Adams"
+        ],
+        [
+            "http://dbpedia.org/resource/Archibald_Randall",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/John_Tyler"
+        ],
+        [
+            "http://dbpedia.org/resource/John_K._Kane",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_James_K._Polk"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Bayard_McPherson",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_William_McKinley"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Buchanan_Holland",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Theodore_Roosevelt"
+        ]
+    ]
+}

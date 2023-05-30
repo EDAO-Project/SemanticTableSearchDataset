@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1982",
+            "http://dbpedia.org/resource/Anna_Vissi",
+            "http://dbpedia.org/resource/Mono_I_Agapi"
+        ]
+    ]
+}

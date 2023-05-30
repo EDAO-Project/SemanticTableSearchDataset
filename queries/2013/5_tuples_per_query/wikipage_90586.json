@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Carlo_Galetti",
+            "http://dbpedia.org/resource/Bianchi_cycling_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Gaetano_Belloni",
+            "http://dbpedia.org/resource/Bianchi_cycling_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Fausto_Coppi",
+            "http://dbpedia.org/resource/Bianchi_cycling_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Fausto_Coppi",
+            "http://dbpedia.org/resource/Bianchi_cycling_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Fausto_Coppi",
+            "http://dbpedia.org/resource/Bianchi_cycling_team"
+        ]
+    ]
+}

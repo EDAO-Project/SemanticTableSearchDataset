@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Oakland_Athletics_season",
+            "http://dbpedia.org/resource/C._J._Wilson",
+            "http://dbpedia.org/resource/Tommy_Milone",
+            "http://dbpedia.org/resource/Ernesto_Frieri"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/Michael_Kohn",
+            "http://dbpedia.org/resource/Dylan_Axelrod",
+            "http://dbpedia.org/resource/Ernesto_Frieri"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Kansas_City_Royals_season",
+            "http://dbpedia.org/resource/Luis_Mendoza",
+            "http://dbpedia.org/resource/Joe_Blanton",
+            "http://dbpedia.org/resource/Luke_Hochevar"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/Matt_Lindstrom",
+            "http://dbpedia.org/resource/Dane_De_La_Rosa",
+            "http://dbpedia.org/resource/Addison_Reed"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Chicago_White_Sox_season",
+            "http://dbpedia.org/resource/Chris_Sale",
+            "http://dbpedia.org/resource/C._J._Wilson",
+            "http://dbpedia.org/resource/Addison_Reed"
+        ]
+    ]
+}

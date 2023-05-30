@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AMT_AutoMag_II",
+            "http://dbpedia.org/resource/Arcadia_Machine_&_Tool",
+            "http://dbpedia.org/resource/.22_Winchester_Magnum_Rimfire",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/AMT_AutoMag_III",
+            "http://dbpedia.org/resource/Arcadia_Machine_&_Tool",
+            "http://dbpedia.org/resource/.30_Carbine",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/AMT_AutoMag_IV",
+            "http://dbpedia.org/resource/Arcadia_Machine_&_Tool",
+            "http://dbpedia.org/resource/.45_Magnum",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/AMT_AutoMag_V",
+            "http://dbpedia.org/resource/Arcadia_Machine_&_Tool",
+            "http://dbpedia.org/resource/.50_Action_Express",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/AMT_Hardballer",
+            "http://dbpedia.org/resource/Arcadia_Machine_&_Tool",
+            "http://dbpedia.org/resource/.45_ACP",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jon_Conway",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club",
+            "http://dbpedia.org/resource/LA_Galaxy"
+        ]
+    ]
+}

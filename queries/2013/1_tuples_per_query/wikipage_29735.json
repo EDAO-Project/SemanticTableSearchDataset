@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cousin_Cousine",
+            "http://dbpedia.org/resource/Jean-Charles_Tacchella",
+            "http://dbpedia.org/resource/Marie-Christine_Barrault"
+        ]
+    ]
+}

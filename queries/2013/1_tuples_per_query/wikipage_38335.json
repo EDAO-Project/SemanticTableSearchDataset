@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbeydorney_railway_station",
+            "http://dbpedia.org/resource/County_Kerry",
+            "http://dbpedia.org/resource/Great_Southern_and_Western_Railway"
+        ]
+    ]
+}

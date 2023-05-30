@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guadalajara",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Estadio_Tres_de_Marzo"
+        ],
+        [
+            "http://dbpedia.org/resource/Guadalajara",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Estadio_Tres_de_Marzo"
+        ]
+    ]
+}

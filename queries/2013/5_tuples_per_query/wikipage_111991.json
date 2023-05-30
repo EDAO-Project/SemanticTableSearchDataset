@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hunted_Down",
+            "http://dbpedia.org/resource/Soundgarden",
+            "http://dbpedia.org/resource/Telephantasm"
+        ],
+        [
+            "http://dbpedia.org/resource/Outshined",
+            "http://dbpedia.org/resource/Soundgarden",
+            "http://dbpedia.org/resource/Telephantasm"
+        ],
+        [
+            "http://dbpedia.org/resource/Rusty_Cage",
+            "http://dbpedia.org/resource/Soundgarden",
+            "http://dbpedia.org/resource/Telephantasm"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Hole_Sun",
+            "http://dbpedia.org/resource/Soundgarden",
+            "http://dbpedia.org/resource/Telephantasm"
+        ],
+        [
+            "http://dbpedia.org/resource/Spoonman",
+            "http://dbpedia.org/resource/Soundgarden",
+            "http://dbpedia.org/resource/Telephantasm"
+        ]
+    ]
+}

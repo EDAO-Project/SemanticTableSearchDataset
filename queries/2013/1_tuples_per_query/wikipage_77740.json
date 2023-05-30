@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chiba,_Chiba",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

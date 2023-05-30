@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/VMM-161",
+            "http://dbpedia.org/resource/Marine_Aircraft_Group_16",
+            "http://dbpedia.org/resource/Marine_Corps_Air_Station_Miramar"
+        ],
+        [
+            "http://dbpedia.org/resource/VMM-162",
+            "http://dbpedia.org/resource/Marine_Aircraft_Group_29",
+            "http://dbpedia.org/resource/Marine_Corps_Air_Station_New_River"
+        ],
+        [
+            "http://dbpedia.org/resource/VMM-163",
+            "http://dbpedia.org/resource/Marine_Aircraft_Group_16",
+            "http://dbpedia.org/resource/Marine_Corps_Air_Station_Miramar"
+        ],
+        [
+            "http://dbpedia.org/resource/VMM-165",
+            "http://dbpedia.org/resource/Marine_Aircraft_Group_16",
+            "http://dbpedia.org/resource/Marine_Corps_Air_Station_Miramar"
+        ],
+        [
+            "http://dbpedia.org/resource/VMM-166",
+            "http://dbpedia.org/resource/Marine_Aircraft_Group_16",
+            "http://dbpedia.org/resource/Marine_Corps_Air_Station_Miramar"
+        ]
+    ]
+}

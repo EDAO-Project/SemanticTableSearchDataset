@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rocky_II",
+            "http://dbpedia.org/resource/Larry_Siegel",
+            "http://dbpedia.org/resource/Angelo_Torres"
+        ],
+        [
+            "http://dbpedia.org/resource/Apocalypse_Now",
+            "http://dbpedia.org/resource/Larry_Siegel",
+            "http://dbpedia.org/resource/Mort_Drucker"
+        ]
+    ]
+}

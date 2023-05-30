@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baltimore_Ravens",
+            "http://dbpedia.org/resource/John_Harbaugh",
+            "http://dbpedia.org/resource/2008_NFL_season",
+            "http://dbpedia.org/resource/List_of_Super_Bowl_champions",
+            "http://dbpedia.org/resource/Brian_Billick"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Bengals",
+            "http://dbpedia.org/resource/Marvin_Lewis",
+            "http://dbpedia.org/resource/2003_NFL_season",
+            "http://dbpedia.org/resource/AFC_North",
+            "http://dbpedia.org/resource/Dick_LeBeau"
+        ]
+    ]
+}

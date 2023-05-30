@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Achaemenid_Empire",
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Pasargadae",
+            "http://dbpedia.org/resource/Classical_antiquity"
+        ]
+    ]
+}

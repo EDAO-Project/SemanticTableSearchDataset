@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Warcraft_II:_Beyond_the_Dark_Portal",
+            "http://dbpedia.org/resource/Cyberlore_Studios",
+            "http://dbpedia.org/resource/Blizzard_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Where_Time_Stood_Still",
+            "http://dbpedia.org/resource/Denton_Designs",
+            "http://dbpedia.org/resource/Ocean_Software"
+        ]
+    ]
+}

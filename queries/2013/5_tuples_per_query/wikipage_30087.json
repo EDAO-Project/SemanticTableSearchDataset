@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Han_Pil-hwa",
+            "http://dbpedia.org/resource/1964_Winter_Olympics",
+            "http://dbpedia.org/resource/Speed_skating_at_the_1964_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ri_Ho-jun",
+            "http://dbpedia.org/resource/1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Shooting_at_the_1972_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_U-gil",
+            "http://dbpedia.org/resource/1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1972_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ri_Chun-ok",
+            "http://dbpedia.org/resource/1972_Summer_Olympics",
+            "http://dbpedia.org/resource/Volleyball_at_the_1972_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Gu_Yong-ju",
+            "http://dbpedia.org/resource/1976_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1976_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amanita_arocheae",
+            "http://dbpedia.org/resource/Amatoxin",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/Amanita_bisporigera",
+            "http://dbpedia.org/resource/Amatoxin",
+            "http://dbpedia.org/resource/Agaricus_silvicola"
+        ]
+    ]
+}

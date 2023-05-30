@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spencer_Bachus",
+            "http://dbpedia.org/resource/Michael_Bilirakis",
+            "http://dbpedia.org/resource/Rob_Bishop"
+        ]
+    ]
+}

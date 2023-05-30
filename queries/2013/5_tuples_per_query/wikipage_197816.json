@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_IV_of_the_United_Kingdom",
+            "http://dbpedia.org/resource/United_Kingdom_general_election,_1826",
+            "http://dbpedia.org/resource/List_of_MPs_elected_in_the_United_Kingdom_general_election,_1826",
+            "http://dbpedia.org/resource/George_Canning"
+        ],
+        [
+            "http://dbpedia.org/resource/William_IV_of_the_United_Kingdom",
+            "http://dbpedia.org/resource/United_Kingdom_general_election,_1830",
+            "http://dbpedia.org/resource/List_of_MPs_elected_in_the_United_Kingdom_general_election,_1830",
+            "http://dbpedia.org/resource/Charles_Grey,_2nd_Earl_Grey"
+        ],
+        [
+            "http://dbpedia.org/resource/William_IV_of_the_United_Kingdom",
+            "http://dbpedia.org/resource/United_Kingdom_general_election,_1832",
+            "http://dbpedia.org/resource/List_of_MPs_elected_in_the_United_Kingdom_general_election,_1832",
+            "http://dbpedia.org/resource/William_Lamb,_2nd_Viscount_Melbourne"
+        ],
+        [
+            "http://dbpedia.org/resource/Queen_Victoria",
+            "http://dbpedia.org/resource/United_Kingdom_general_election,_1852",
+            "http://dbpedia.org/resource/List_of_MPs_elected_in_the_United_Kingdom_general_election,_1852",
+            "http://dbpedia.org/resource/Edward_Smith-Stanley,_14th_Earl_of_Derby"
+        ],
+        [
+            "http://dbpedia.org/resource/Queen_Victoria",
+            "http://dbpedia.org/resource/United_Kingdom_general_election,_1857",
+            "http://dbpedia.org/resource/List_of_MPs_elected_in_the_United_Kingdom_general_election,_1857",
+            "http://dbpedia.org/resource/Henry_John_Temple,_3rd_Viscount_Palmerston"
+        ]
+    ]
+}

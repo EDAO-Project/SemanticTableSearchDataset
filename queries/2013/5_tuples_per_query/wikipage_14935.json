@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1947_NFL_draft",
+            "http://dbpedia.org/resource/Tom_Nichols",
+            "http://dbpedia.org/resource/Washington_Redskins"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_NFL_draft",
+            "http://dbpedia.org/resource/Lou_Wacker",
+            "http://dbpedia.org/resource/Detroit_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_NFL_draft",
+            "http://dbpedia.org/resource/Fred_Wilt",
+            "http://dbpedia.org/resource/Washington_Redskins"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_NFL_draft",
+            "http://dbpedia.org/resource/Joe_Biscaha",
+            "http://dbpedia.org/resource/New_York_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/1960_NFL_draft",
+            "http://dbpedia.org/resource/Dave_Ames",
+            "http://dbpedia.org/resource/Pittsburgh_Steelers"
+        ]
+    ]
+}

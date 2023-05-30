@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aduana_Stars",
+            "http://dbpedia.org/resource/Dormaa_Ahenkro",
+            "http://dbpedia.org/resource/Agyeman_Badu_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Amidaus_Professionals_FC",
+            "http://dbpedia.org/resource/Tema",
+            "http://dbpedia.org/resource/Tema_Sports_Stadium"
+        ]
+    ]
+}

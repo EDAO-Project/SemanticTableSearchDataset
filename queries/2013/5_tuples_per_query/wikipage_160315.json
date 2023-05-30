@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Wolfgang_Frank",
+            "http://dbpedia.org/resource/1975_Intertoto_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Wolfgang_Frank",
+            "http://dbpedia.org/resource/1976_Intertoto_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Harald_Nickel",
+            "http://dbpedia.org/resource/1978_Intertoto_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Ronald_Worm",
+            "http://dbpedia.org/resource/1979_Intertoto_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Peter_Lux",
+            "http://dbpedia.org/resource/1983_Intertoto_Cup"
+        ]
+    ]
+}

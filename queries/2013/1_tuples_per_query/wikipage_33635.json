@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newcastle_upon_Tyne",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Metro_Radio_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_A._Flavell",
+            "http://dbpedia.org/resource/Outline_of_health_sciences",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlos_Bustamante",
+            "http://dbpedia.org/resource/Outline_of_health_sciences",
+            "http://dbpedia.org/resource/Peru"
+        ]
+    ]
+}

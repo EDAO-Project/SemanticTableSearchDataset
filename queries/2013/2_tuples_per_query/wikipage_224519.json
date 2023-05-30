@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Dhaka",
+            "http://dbpedia.org/resource/Shahjalal_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Cairo_International_Airport"
+        ]
+    ]
+}

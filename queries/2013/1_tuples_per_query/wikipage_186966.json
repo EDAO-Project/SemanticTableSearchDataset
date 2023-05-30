@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1961_Bandy_World_Championship",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Soviet_Union_national_bandy_team",
+            "http://dbpedia.org/resource/Sweden_national_bandy_team",
+            "http://dbpedia.org/resource/Finland_national_bandy_team",
+            "http://dbpedia.org/resource/Norway_national_bandy_team"
+        ]
+    ]
+}

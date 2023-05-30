@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clermont_County,_Ohio",
+            "http://dbpedia.org/resource/Goshen,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Route_132"
+        ],
+        [
+            "http://dbpedia.org/resource/Warren_County,_Ohio",
+            "http://dbpedia.org/resource/Hopkinsville,_Ohio",
+            "http://dbpedia.org/resource/U.S._Route_22"
+        ]
+    ]
+}

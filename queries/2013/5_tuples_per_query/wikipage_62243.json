@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emil_von_Behring",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Blood_plasma"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronald_Ross",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Malaria"
+        ],
+        [
+            "http://dbpedia.org/resource/Niels_Ryberg_Finsen",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Lupus_vulgaris"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivan_Pavlov",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Human_digestive_system"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Koch",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Tuberculosis"
+        ]
+    ]
+}

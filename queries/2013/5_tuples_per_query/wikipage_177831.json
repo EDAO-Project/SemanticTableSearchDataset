@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Punjab_Warriors",
+            "http://dbpedia.org/resource/Surjit_Hockey_Stadium",
+            "http://dbpedia.org/resource/2013_Hockey_India_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Delhi_Waveriders",
+            "http://dbpedia.org/resource/Dhyan_Chand_Astroturf_Stadium",
+            "http://dbpedia.org/resource/2013_Hockey_India_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Ranchi_Rhinos",
+            "http://dbpedia.org/resource/Dhyan_Chand_Astroturf_Stadium",
+            "http://dbpedia.org/resource/2013_Hockey_India_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Punjab_Warriors",
+            "http://dbpedia.org/resource/Surjit_Hockey_Stadium",
+            "http://dbpedia.org/resource/2013_Hockey_India_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Ranchi_Rhinos",
+            "http://dbpedia.org/resource/Birsa_Munda_Hockey_Stadium",
+            "http://dbpedia.org/resource/2013_Hockey_India_League"
+        ]
+    ]
+}

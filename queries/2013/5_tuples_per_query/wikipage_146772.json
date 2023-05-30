@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antichan-de-Frontignes",
+            "http://dbpedia.org/resource/Antignac,_Haute-Garonne",
+            "http://dbpedia.org/resource/Arbas",
+            "http://dbpedia.org/resource/Arbon,_Haute-Garonne"
+        ],
+        [
+            "http://dbpedia.org/resource/Arnaud-Guilhem",
+            "http://dbpedia.org/resource/Artigue",
+            "http://dbpedia.org/resource/Aspet,_Haute-Garonne",
+            "http://dbpedia.org/resource/Aspret-Sarrat"
+        ],
+        [
+            "http://dbpedia.org/resource/Aulon,_Haute-Garonne",
+            "http://dbpedia.org/resource/Aurignac",
+            "http://dbpedia.org/resource/Ausseing",
+            "http://dbpedia.org/resource/Ausson"
+        ],
+        [
+            "http://dbpedia.org/resource/Auzas",
+            "http://dbpedia.org/resource/Bachas",
+            "http://dbpedia.org/resource/Bachos",
+            "http://dbpedia.org/resource/Bagiry"
+        ],
+        [
+            "http://dbpedia.org/resource/Cazaunous",
+            "http://dbpedia.org/resource/Cazaux-Layrisse",
+            "http://dbpedia.org/resource/Cazeaux-de-Larboust",
+            "http://dbpedia.org/resource/Cazeneuve-Montaut"
+        ]
+    ]
+}

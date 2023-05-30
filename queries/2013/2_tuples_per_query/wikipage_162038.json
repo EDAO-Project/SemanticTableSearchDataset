@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberdeenshire",
+            "http://dbpedia.org/resource/Grampian",
+            "http://dbpedia.org/resource/Aberdeen"
+        ],
+        [
+            "http://dbpedia.org/resource/Argyll",
+            "http://dbpedia.org/resource/Strathclyde",
+            "http://dbpedia.org/resource/Argyll_and_Bute"
+        ]
+    ]
+}

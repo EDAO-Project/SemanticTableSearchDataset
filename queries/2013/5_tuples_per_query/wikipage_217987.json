@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Congee",
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Porridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Arroz_con_pollo",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Pilaf"
+        ],
+        [
+            "http://dbpedia.org/resource/Arroz_de_lisa",
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/Heliconia_bihai"
+        ],
+        [
+            "http://dbpedia.org/resource/Ba-wan",
+            "http://dbpedia.org/resource/Taiwan",
+            "http://dbpedia.org/resource/Shiitake"
+        ],
+        [
+            "http://dbpedia.org/resource/Bibingka",
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Coconut"
+        ]
+    ]
+}

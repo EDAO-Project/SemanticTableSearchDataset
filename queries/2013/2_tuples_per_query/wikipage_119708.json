@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kerry_GAA",
+            "http://dbpedia.org/resource/1903_All-Ireland_Senior_Football_Championship",
+            "http://dbpedia.org/resource/1902_All-Ireland_Senior_Football_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/1891_All-Ireland_Senior_Football_Championship",
+            "http://dbpedia.org/resource/1896_All-Ireland_Senior_Football_Championship"
+        ]
+    ]
+}

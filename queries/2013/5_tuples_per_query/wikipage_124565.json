@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Achaemenid_Empire",
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Pasargadae",
+            "http://dbpedia.org/resource/Classical_antiquity"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingdom_of_Aksum",
+            "http://dbpedia.org/resource/Ethiopia",
+            "http://dbpedia.org/resource/Axum",
+            "http://dbpedia.org/resource/Ethiopian_Empire"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajuran_Sultanate",
+            "http://dbpedia.org/resource/Somalia",
+            "http://dbpedia.org/resource/Mareeg",
+            "http://dbpedia.org/resource/Hydraulic_empire"
+        ],
+        [
+            "http://dbpedia.org/resource/Austrian_Empire",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Holy_Roman_Empire"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria-Hungary",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Austrian_Empire"
+        ]
+    ]
+}

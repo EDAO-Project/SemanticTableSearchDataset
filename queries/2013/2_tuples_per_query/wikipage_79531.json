@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Les_Agites",
+            "http://dbpedia.org/resource/Vaud",
+            "http://dbpedia.org/resource/Yvorne"
+        ],
+        [
+            "http://dbpedia.org/resource/Balmberg_Pass",
+            "http://dbpedia.org/resource/Canton_of_Solothurn",
+            "http://dbpedia.org/resource/Welschenrohr"
+        ]
+    ]
+}

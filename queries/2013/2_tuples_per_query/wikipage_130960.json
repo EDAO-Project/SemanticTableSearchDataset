@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/GNK_Dinamo_Zagreb",
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/HNK_Hajduk_Split",
+            "http://dbpedia.org/resource/Split,_Croatia",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Croatia"
+        ]
+    ]
+}

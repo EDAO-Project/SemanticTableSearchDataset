@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jaffna_District",
+            "http://dbpedia.org/resource/Jaffna_Central_College",
+            "http://dbpedia.org/resource/Jaffna",
+            "http://dbpedia.org/resource/Tamil_language"
+        ]
+    ]
+}

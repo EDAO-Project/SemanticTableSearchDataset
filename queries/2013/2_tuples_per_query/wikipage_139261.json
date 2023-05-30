@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hangzhou_East_Railway_Station",
+            "http://dbpedia.org/resource/Hangzhou",
+            "http://dbpedia.org/resource/Zhejiang"
+        ],
+        [
+            "http://dbpedia.org/resource/Hangzhou_South_Railway_Station",
+            "http://dbpedia.org/resource/Hangzhou",
+            "http://dbpedia.org/resource/Zhejiang"
+        ]
+    ]
+}

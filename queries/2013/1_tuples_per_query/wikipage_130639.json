@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Accra",
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Kotoka_International_Airport"
+        ]
+    ]
+}

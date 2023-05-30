@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Skerton_Bridge",
+            "http://dbpedia.org/resource/Lancaster,_Lancashire",
+            "http://dbpedia.org/resource/River_Lune"
+        ],
+        [
+            "http://dbpedia.org/resource/Harrington_Bridge",
+            "http://dbpedia.org/resource/Sawley,_Derbyshire",
+            "http://dbpedia.org/resource/River_Trent"
+        ],
+        [
+            "http://dbpedia.org/resource/Chester_Castle",
+            "http://dbpedia.org/resource/Chester",
+            "http://dbpedia.org/resource/River_Dee,_Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Mausoleum",
+            "http://dbpedia.org/resource/Gosford_House",
+            "http://dbpedia.org/resource/Francis_Wemyss-Charteris"
+        ],
+        [
+            "http://dbpedia.org/resource/Chester_Castle",
+            "http://dbpedia.org/resource/Chester",
+            "http://dbpedia.org/resource/Propylaea"
+        ]
+    ]
+}

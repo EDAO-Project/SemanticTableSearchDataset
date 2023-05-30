@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_NFL_season",
+            "http://dbpedia.org/resource/History_of_the_Houston_Oilers",
+            "http://dbpedia.org/resource/American_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_NFL_season",
+            "http://dbpedia.org/resource/Minnesota_Vikings",
+            "http://dbpedia.org/resource/NFC_North"
+        ]
+    ]
+}

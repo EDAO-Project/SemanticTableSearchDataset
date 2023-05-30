@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1992_Belarusian_First_League",
+            "http://dbpedia.org/resource/FC_Dinamo-93_Minsk",
+            "http://dbpedia.org/resource/FC_Belshina_Bobruisk",
+            "http://dbpedia.org/resource/FC_Volna_Pinsk"
+        ]
+    ]
+}

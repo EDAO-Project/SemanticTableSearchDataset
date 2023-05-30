@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_H._Arnold",
+            "http://dbpedia.org/resource/United_States_Army_Air_Forces",
+            "http://dbpedia.org/resource/List_of_United_States_Air_Force_four-star_generals"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_T._McNarney",
+            "http://dbpedia.org/resource/Vice_Chief_of_Staff_of_the_United_States_Army",
+            "http://dbpedia.org/resource/List_of_United_States_Air_Force_four-star_generals"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl_Andrew_Spaatz",
+            "http://dbpedia.org/resource/Twelfth_Air_Force",
+            "http://dbpedia.org/resource/List_of_United_States_Air_Force_four-star_generals"
+        ],
+        [
+            "http://dbpedia.org/resource/Ira_C._Eaker",
+            "http://dbpedia.org/resource/Eighth_Air_Force",
+            "http://dbpedia.org/resource/List_of_United_States_Air_Force_four-star_generals"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Doolittle",
+            "http://dbpedia.org/resource/Eighth_Air_Force",
+            "http://dbpedia.org/resource/List_of_United_States_Air_Force_four-star_generals"
+        ]
+    ]
+}

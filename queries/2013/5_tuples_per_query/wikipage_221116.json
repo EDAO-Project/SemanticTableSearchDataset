@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1975_Skate_Canada_International",
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/Susanna_Driano",
+            "http://dbpedia.org/resource/Kath_Malmberg",
+            "http://dbpedia.org/resource/Emi_Watanabe"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Skate_Canada_International",
+            "http://dbpedia.org/resource/Moncton",
+            "http://dbpedia.org/resource/Linda_Fratianne",
+            "http://dbpedia.org/resource/Lisa-Marie_Allen",
+            "http://dbpedia.org/resource/Heather_Kemkaran"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Skate_Canada_International",
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/Lisa-Marie_Allen",
+            "http://dbpedia.org/resource/Claudia_Kristofics-Binder",
+            "http://dbpedia.org/resource/Kristiina_Wegelius"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Skate_Canada_International",
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Elaine_Zayak",
+            "http://dbpedia.org/resource/Tracey_Wainman",
+            "http://dbpedia.org/resource/Claudia_Kristofics-Binder"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Skate_Canada_International",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Tracey_Wainman",
+            "http://dbpedia.org/resource/Rosalynn_Sumners",
+            "http://dbpedia.org/resource/Kira_Ivanova"
+        ]
+    ]
+}

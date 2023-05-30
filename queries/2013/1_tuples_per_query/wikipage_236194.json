@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Tabriz",
+            "http://dbpedia.org/resource/Tabriz",
+            "http://dbpedia.org/resource/East_Azerbaijan_Province"
+        ]
+    ]
+}

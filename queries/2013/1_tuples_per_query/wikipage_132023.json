@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grande_Raccordo_Anulare",
+            "http://dbpedia.org/resource/1960_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1960_Summer_Olympics"
+        ]
+    ]
+}

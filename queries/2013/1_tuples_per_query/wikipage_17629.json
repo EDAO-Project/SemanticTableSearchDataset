@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tripoli_Grand_Prix",
+            "http://dbpedia.org/resource/Tripoli",
+            "http://dbpedia.org/resource/Tazio_Nuvolari",
+            "http://dbpedia.org/resource/Bugatti"
+        ]
+    ]
+}

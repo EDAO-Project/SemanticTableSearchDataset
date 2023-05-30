@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Korneuburg",
+            "http://dbpedia.org/resource/Yulia_Raskina",
+            "http://dbpedia.org/resource/Alina_Kabaeva",
+            "http://dbpedia.org/resource/Yulia_Barsukova"
+        ]
+    ]
+}

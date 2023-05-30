@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Antonio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/San_Antonio_Station"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bayou_Music_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Prairie,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Verizon_Theatre_at_Grand_Prairie"
+        ],
+        [
+            "http://dbpedia.org/resource/Albuquerque,_New_Mexico",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sunshine_Building"
+        ],
+        [
+            "http://dbpedia.org/resource/Tucson,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kino_Veterans_Memorial_Stadium"
+        ]
+    ]
+}

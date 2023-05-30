@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moscow_Philharmonic_Orchestra",
+            "http://dbpedia.org/resource/Kirill_Kondrashin",
+            "http://dbpedia.org/resource/Melodiya"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow_Philharmonic_Orchestra",
+            "http://dbpedia.org/resource/Kirill_Kondrashin",
+            "http://dbpedia.org/resource/Melodiya"
+        ],
+        [
+            "http://dbpedia.org/resource/Philharmonia_Orchestra",
+            "http://dbpedia.org/resource/Gennady_Rozhdestvensky",
+            "http://dbpedia.org/resource/BBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow_Philharmonic_Orchestra",
+            "http://dbpedia.org/resource/Kirill_Kondrashin",
+            "http://dbpedia.org/resource/Melodiya"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Orchestra",
+            "http://dbpedia.org/resource/Eugene_Ormandy",
+            "http://dbpedia.org/resource/Sony_Classical_Records"
+        ]
+    ]
+}

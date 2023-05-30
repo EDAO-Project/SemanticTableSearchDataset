@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Vienna_International_Airport",
+            "http://dbpedia.org/resource/Austrian_Airlines"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Gatwick_Airport",
+            "http://dbpedia.org/resource/British_Airways"
+        ]
+    ]
+}

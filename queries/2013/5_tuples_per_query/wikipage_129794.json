@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2003_in_music",
+            "http://dbpedia.org/resource/Hikaru_Utada",
+            "http://dbpedia.org/resource/Sakura_Drops"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_music",
+            "http://dbpedia.org/resource/Jennifer_Lopez",
+            "http://dbpedia.org/resource/Jenny_from_the_Block"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_music",
+            "http://dbpedia.org/resource/Misia",
+            "http://dbpedia.org/resource/Back_Blocks"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_music",
+            "http://dbpedia.org/resource/Mika_Nakashima",
+            "http://dbpedia.org/resource/Yuki_no_Hana"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_music",
+            "http://dbpedia.org/resource/Britney_Spears",
+            "http://dbpedia.org/resource/Me_Against_the_Music"
+        ]
+    ]
+}

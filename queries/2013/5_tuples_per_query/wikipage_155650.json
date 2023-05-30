@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Biz_Mackey",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Indianapolis_ABCs"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Malarcher",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Indianapolis_ABCs"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Manning",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Newark_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/Oliver_Marcelle",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Brooklyn_Royal_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/Armando_Marsans",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/All_Cubans"
+        ]
+    ]
+}

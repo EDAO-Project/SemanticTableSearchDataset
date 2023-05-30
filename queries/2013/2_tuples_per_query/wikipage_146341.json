@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arvillers",
+            "http://dbpedia.org/resource/Assainvillers",
+            "http://dbpedia.org/resource/Aubercourt"
+        ],
+        [
+            "http://dbpedia.org/resource/Bayonvillers",
+            "http://dbpedia.org/resource/Beaucourt-en-Santerre",
+            "http://dbpedia.org/resource/Beaufort-en-Santerre"
+        ]
+    ]
+}

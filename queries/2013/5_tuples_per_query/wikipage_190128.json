@@ -1,0 +1,31 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/De_Balie"
+        ],
+        [
+            "http://dbpedia.org/resource/Den_Burg",
+            "http://dbpedia.org/resource/Texel",
+            "http://dbpedia.org/resource/North_Holland"
+        ],
+        [
+            "http://dbpedia.org/resource/Drachten",
+            "http://dbpedia.org/resource/Smallingerland",
+            "http://dbpedia.org/resource/Friesland"
+        ],
+        [
+            "http://dbpedia.org/resource/Emmeloord",
+            "http://dbpedia.org/resource/Noordoostpolder",
+            "http://dbpedia.org/resource/Flevoland"
+        ],
+        [
+            "http://dbpedia.org/resource/Haarlem",
+            "http://dbpedia.org/resource/Haarlem",
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Toneelschuur"
+        ]
+    ]
+}

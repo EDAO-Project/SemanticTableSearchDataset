@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nacionalista_Party",
+            "http://dbpedia.org/resource/Manuel_L._Quezon",
+            "http://dbpedia.org/resource/Commonwealth_of_the_Philippines"
+        ]
+    ]
+}

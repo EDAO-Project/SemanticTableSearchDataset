@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sukhoi_Su-25",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Close_air_support"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikoyan-Gurevich_MiG-21",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Fighter_aircraft"
+        ]
+    ]
+}

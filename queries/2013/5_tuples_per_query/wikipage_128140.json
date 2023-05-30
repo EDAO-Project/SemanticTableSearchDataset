@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/83rd_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Costume_Design",
+            "http://dbpedia.org/resource/Jenny_Beavan"
+        ],
+        [
+            "http://dbpedia.org/resource/83rd_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Sound",
+            "http://dbpedia.org/resource/Paul_Hamblin"
+        ],
+        [
+            "http://dbpedia.org/resource/83rd_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Actor",
+            "http://dbpedia.org/resource/Colin_Firth"
+        ],
+        [
+            "http://dbpedia.org/resource/83rd_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Directing",
+            "http://dbpedia.org/resource/Tom_Hooper"
+        ],
+        [
+            "http://dbpedia.org/resource/83rd_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actor",
+            "http://dbpedia.org/resource/Geoffrey_Rush"
+        ]
+    ]
+}

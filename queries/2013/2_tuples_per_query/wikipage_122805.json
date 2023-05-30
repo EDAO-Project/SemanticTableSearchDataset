@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Domestication",
+            "http://dbpedia.org/resource/Neolithic_Revolution",
+            "http://dbpedia.org/resource/Neolithic_founder_crops"
+        ],
+        [
+            "http://dbpedia.org/resource/Domestication",
+            "http://dbpedia.org/resource/Neolithic_Revolution",
+            "http://dbpedia.org/resource/History_of_the_domestic_sheep"
+        ]
+    ]
+}

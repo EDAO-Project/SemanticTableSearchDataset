@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Biblisheim",
+            "http://dbpedia.org/resource/Buhl,_Bas-Rhin",
+            "http://dbpedia.org/resource/Cleebourg"
+        ],
+        [
+            "http://dbpedia.org/resource/Drachenbronn-Birlenbach",
+            "http://dbpedia.org/resource/Durrenbach",
+            "http://dbpedia.org/resource/Eberbach-Seltz"
+        ],
+        [
+            "http://dbpedia.org/resource/Hegeney",
+            "http://dbpedia.org/resource/Hoffen",
+            "http://dbpedia.org/resource/Hunspach"
+        ],
+        [
+            "http://dbpedia.org/resource/Ingolsheim",
+            "http://dbpedia.org/resource/Keffenach",
+            "http://dbpedia.org/resource/Kesseldorf"
+        ],
+        [
+            "http://dbpedia.org/resource/Kutzenhausen,_Bas-Rhin",
+            "http://dbpedia.org/resource/Lampertsloch",
+            "http://dbpedia.org/resource/Langensoultzbach"
+        ]
+    ]
+}

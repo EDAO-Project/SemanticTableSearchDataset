@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allentown,_Pennsylvania",
+            "http://dbpedia.org/resource/Tiberias",
+            "http://dbpedia.org/resource/Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Allentown,_Pennsylvania",
+            "http://dbpedia.org/resource/Vinci,_Tuscany",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Ambler,_Pennsylvania",
+            "http://dbpedia.org/resource/Maida,_Calabria",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Bethlehem,_Pennsylvania",
+            "http://dbpedia.org/resource/Murska_Sobota",
+            "http://dbpedia.org/resource/Slovenia"
+        ],
+        [
+            "http://dbpedia.org/resource/Bethlehem,_Pennsylvania",
+            "http://dbpedia.org/resource/Tondabayashi,_Osaka",
+            "http://dbpedia.org/resource/Japan"
+        ]
+    ]
+}

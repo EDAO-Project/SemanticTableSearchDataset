@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Estadio_Azteca",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Mexico_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Camp_Nou",
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Azadi_Stadium",
+            "http://dbpedia.org/resource/Tehran",
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Iran_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/FNB_Stadium",
+            "http://dbpedia.org/resource/Johannesburg",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/South_Africa_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Wembley_Stadium",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/England_national_football_team"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/African_American_Museum_and_Library_at_Oakland",
+            "http://dbpedia.org/resource/Oakland,_California",
+            "http://dbpedia.org/resource/California"
+        ],
+        [
+            "http://dbpedia.org/resource/The_African_American_Museum_in_Cleveland",
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/African_American_Museum_in_Philadelphia",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/African_American_Museum_of_Iowa",
+            "http://dbpedia.org/resource/Cedar_Rapids,_Iowa",
+            "http://dbpedia.org/resource/Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/African_American_Museum_of_the_Arts",
+            "http://dbpedia.org/resource/DeLand,_Florida",
+            "http://dbpedia.org/resource/Florida"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Kingston",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Edmund_Barton"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Fisher",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Chris_Watson"
+        ]
+    ]
+}

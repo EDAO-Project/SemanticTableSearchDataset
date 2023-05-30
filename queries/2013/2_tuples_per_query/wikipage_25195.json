@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agardhfjellet_Formation",
+            "http://dbpedia.org/resource/Tithonian",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Colymbosaurus"
+        ],
+        [
+            "http://dbpedia.org/resource/Bearpaw_Formation",
+            "http://dbpedia.org/resource/Campanian",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Albertonectes"
+        ]
+    ]
+}

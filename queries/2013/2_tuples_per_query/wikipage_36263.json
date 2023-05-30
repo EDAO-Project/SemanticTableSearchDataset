@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chandni_Chowk_to_China",
+            "http://dbpedia.org/resource/Nikhil_Advani",
+            "http://dbpedia.org/resource/Akshay_Kumar",
+            "http://dbpedia.org/resource/Action_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Raaz:_The_Mystery_Continues",
+            "http://dbpedia.org/resource/Mohit_Suri",
+            "http://dbpedia.org/resource/Emraan_Hashmi",
+            "http://dbpedia.org/resource/Horror_film"
+        ]
+    ]
+}

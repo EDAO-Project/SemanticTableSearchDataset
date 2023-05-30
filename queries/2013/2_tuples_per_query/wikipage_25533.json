@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benton_County,_Oregon",
+            "http://dbpedia.org/resource/Wren,_Oregon",
+            "http://dbpedia.org/resource/Marys_River",
+            "http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Hayden_Bridge",
+            "http://dbpedia.org/resource/Benton_County,_Oregon",
+            "http://dbpedia.org/resource/Alsea,_Oregon",
+            "http://dbpedia.org/resource/Alsea_River"
+        ]
+    ]
+}

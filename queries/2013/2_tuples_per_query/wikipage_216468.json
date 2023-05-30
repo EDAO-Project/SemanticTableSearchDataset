@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/GM_High_Feature_engine",
+            "http://dbpedia.org/resource/GM_4L60-E_transmission",
+            "http://dbpedia.org/resource/Petrol_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/GM_High_Feature_engine",
+            "http://dbpedia.org/resource/GM_4L60-E_transmission",
+            "http://dbpedia.org/resource/Petrol_engine"
+        ]
+    ]
+}

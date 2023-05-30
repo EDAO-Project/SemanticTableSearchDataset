@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aurangabad_district,_Maharashtra",
+            "http://dbpedia.org/resource/Yajurvedi",
+            "http://dbpedia.org/resource/Kashyapa",
+            "http://dbpedia.org/resource/Bhavani",
+            "http://dbpedia.org/resource/Tuljapur"
+        ],
+        [
+            "http://dbpedia.org/resource/Deshpande",
+            "http://dbpedia.org/resource/Rigveda",
+            "http://dbpedia.org/resource/Vishvamitra",
+            "http://dbpedia.org/resource/Venkateswara",
+            "http://dbpedia.org/resource/Vijayanagara"
+        ]
+    ]
+}

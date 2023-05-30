@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robina_Higgins",
+            "http://dbpedia.org/resource/Track_and_field",
+            "http://dbpedia.org/resource/Javelin_throw"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbara_Ann_Scott",
+            "http://dbpedia.org/resource/Figure_skating",
+            "http://dbpedia.org/resource/1948_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobbie_Rosenfeld",
+            "http://dbpedia.org/resource/Track_and_field",
+            "http://dbpedia.org/resource/1928_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Marlene_Streit",
+            "http://dbpedia.org/resource/Golf",
+            "http://dbpedia.org/resource/British_Ladies_Amateur_Golf_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Anne_Heggtveit",
+            "http://dbpedia.org/resource/Alpine_skiing",
+            "http://dbpedia.org/resource/1960_Winter_Olympics"
+        ]
+    ]
+}

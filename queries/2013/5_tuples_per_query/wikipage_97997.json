@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_Eliteserien",
+            "http://dbpedia.org/resource/IL_Sandviken",
+            "http://dbpedia.org/resource/Asker_Fotball"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Eliteserien",
+            "http://dbpedia.org/resource/Asker_Fotball",
+            "http://dbpedia.org/resource/Klepp_IL"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Eliteserien",
+            "http://dbpedia.org/resource/Asker_Fotball",
+            "http://dbpedia.org/resource/Athene_Moss"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Eliteserien",
+            "http://dbpedia.org/resource/Asker_Fotball",
+            "http://dbpedia.org/resource/Klepp_IL"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Toppserien",
+            "http://dbpedia.org/resource/Asker_Fotball",
+            "http://dbpedia.org/resource/Kolbotn_Fotball"
+        ]
+    ]
+}

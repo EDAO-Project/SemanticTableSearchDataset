@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aunay-sous-Auneau",
+            "http://dbpedia.org/resource/Auneau",
+            "http://dbpedia.org/resource/Baignolet",
+            "http://dbpedia.org/resource/Bailleau-Armenonville"
+        ],
+        [
+            "http://dbpedia.org/resource/Cernay,_Eure-et-Loir",
+            "http://dbpedia.org/resource/Challet",
+            "http://dbpedia.org/resource/Champhol",
+            "http://dbpedia.org/resource/Champseru"
+        ],
+        [
+            "http://dbpedia.org/resource/Charonville",
+            "http://dbpedia.org/resource/Chartainvilliers",
+            "http://dbpedia.org/resource/Chartres",
+            "http://dbpedia.org/resource/Chauffours"
+        ],
+        [
+            "http://dbpedia.org/resource/Coltainville",
+            "http://dbpedia.org/resource/Corancez",
+            "http://dbpedia.org/resource/Courville-sur-Eure",
+            "http://dbpedia.org/resource/Dammarie,_Eure-et-Loir"
+        ],
+        [
+            "http://dbpedia.org/resource/Dangers",
+            "http://dbpedia.org/resource/Denonville",
+            "http://dbpedia.org/resource/Droue-sur-Drouette",
+            "http://dbpedia.org/resource/Ermenonville-la-Grande"
+        ]
+    ]
+}

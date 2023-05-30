@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/World_record_progression_100_metres_freestyle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Ken_Walsh",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Zac_Zorn",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Swimming_at_the_1968_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Fairbank",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Swimming_at_the_1972_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Bottom",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Concord,_California"
+        ]
+    ]
+}

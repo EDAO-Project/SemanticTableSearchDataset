@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indianapolis_Colts",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/University_of_Oregon"
+        ]
+    ]
+}

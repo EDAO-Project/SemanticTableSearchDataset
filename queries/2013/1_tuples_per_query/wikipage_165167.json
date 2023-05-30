@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dance_Suomi",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/So_You_Think_You_Can_Dance"
+        ]
+    ]
+}

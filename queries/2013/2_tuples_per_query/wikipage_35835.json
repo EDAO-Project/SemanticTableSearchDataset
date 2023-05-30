@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dushore,_Pennsylvania",
+            "http://dbpedia.org/resource/Aristide_Aubert_Du_Petit_Thouars",
+            "http://dbpedia.org/resource/Cherry_Township,_Sullivan_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Eagles_Mere,_Pennsylvania",
+            "http://dbpedia.org/resource/Bald_eagle",
+            "http://dbpedia.org/resource/Shrewsbury_Township,_Sullivan_County,_Pennsylvania"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_Formula_One_season",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Jack_Brabham"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Formula_One_season",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Denny_Hulme"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Formula_One_season",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Denny_Hulme"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Formula_One_season",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Jack_Brabham"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Formula_One_season",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Guy_Ligier"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aaj_Tak",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/Bell_Fibe_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaj_Tak",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/Cogeco"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaj_Tak",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/Rogers_Cable"
+        ],
+        [
+            "http://dbpedia.org/resource/ATN_Aastha_TV",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/Bell_Fibe_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/ATN_Aastha_TV",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/Cogeco"
+        ]
+    ]
+}

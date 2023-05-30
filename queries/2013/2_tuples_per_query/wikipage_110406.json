@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ed_Abbaticchio",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Abbott",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

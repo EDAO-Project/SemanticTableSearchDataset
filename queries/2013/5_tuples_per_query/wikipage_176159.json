@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Golden_Globe_Award",
+            "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Director",
+            "http://dbpedia.org/resource/Close_Encounters_of_the_Third_Kind"
+        ],
+        [
+            "http://dbpedia.org/resource/Golden_Globe_Award",
+            "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Screenplay",
+            "http://dbpedia.org/resource/Close_Encounters_of_the_Third_Kind"
+        ],
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Directing",
+            "http://dbpedia.org/resource/Raiders_of_the_Lost_Ark"
+        ],
+        [
+            "http://dbpedia.org/resource/Golden_Globe_Award",
+            "http://dbpedia.org/resource/Golden_Globe_Award_for_Best_Director",
+            "http://dbpedia.org/resource/Raiders_of_the_Lost_Ark"
+        ],
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Directing",
+            "http://dbpedia.org/resource/E.T._the_Extra-Terrestrial"
+        ]
+    ]
+}

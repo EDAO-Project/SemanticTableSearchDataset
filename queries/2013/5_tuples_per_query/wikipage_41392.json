@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Will_Geer",
+            "http://dbpedia.org/resource/George_Washington",
+            "http://dbpedia.org/resource/Bewitched"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelsey_Grammer",
+            "http://dbpedia.org/resource/George_Washington",
+            "http://dbpedia.org/resource/Benedict_Arnold:_A_Question_of_Honor"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Grizzard",
+            "http://dbpedia.org/resource/John_Adams",
+            "http://dbpedia.org/resource/The_Adams_Chronicles"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Russell_Beale",
+            "http://dbpedia.org/resource/John_Adams",
+            "http://dbpedia.org/resource/PBS"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Birney",
+            "http://dbpedia.org/resource/John_Quincy_Adams",
+            "http://dbpedia.org/resource/The_Adams_Chronicles"
+        ]
+    ]
+}

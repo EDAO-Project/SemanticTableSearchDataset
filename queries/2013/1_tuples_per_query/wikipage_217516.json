@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ]
+    ]
+}

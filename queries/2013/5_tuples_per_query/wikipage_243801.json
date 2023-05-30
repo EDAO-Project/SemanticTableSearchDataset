@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Network_Ten",
+            "http://dbpedia.org/resource/Mal_Walden"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Network_Ten",
+            "http://dbpedia.org/resource/Tony_Barber"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Vtm",
+            "http://dbpedia.org/resource/Luc_Appermont"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Rede_Globo",
+            "http://dbpedia.org/resource/Silvio_Santos"
+        ],
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/TF1",
+            "http://dbpedia.org/resource/Philippe_Risoli"
+        ]
+    ]
+}

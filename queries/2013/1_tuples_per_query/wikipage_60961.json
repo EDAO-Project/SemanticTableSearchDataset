@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Valentino_Rossi",
+            "http://dbpedia.org/resource/1996_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/1996_Czech_Republic_motorcycle_Grand_Prix",
+            "http://dbpedia.org/resource/2013_Dutch_TT"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aspero",
+            "http://dbpedia.org/resource/Lima_Region",
+            "http://dbpedia.org/resource/Norte_Chico_civilization",
+            "http://dbpedia.org/resource/Anno_Domini"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Brujo",
+            "http://dbpedia.org/resource/La_Libertad_Region",
+            "http://dbpedia.org/resource/Moche_culture",
+            "http://dbpedia.org/resource/Anno_Domini"
+        ]
+    ]
+}

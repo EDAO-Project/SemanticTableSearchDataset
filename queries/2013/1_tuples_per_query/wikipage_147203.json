@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_San_Francisco_Giants_season",
+            "http://dbpedia.org/resource/Jon_Niese",
+            "http://dbpedia.org/resource/Matt_Cain",
+            "http://dbpedia.org/resource/Bobby_Parnell"
+        ]
+    ]
+}

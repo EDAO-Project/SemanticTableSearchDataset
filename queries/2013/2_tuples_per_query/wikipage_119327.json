@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antlia",
+            "http://dbpedia.org/resource/Nicolas_Louis_de_Lacaille",
+            "http://dbpedia.org/resource/Air_pump",
+            "http://dbpedia.org/resource/Alpha_Antliae"
+        ],
+        [
+            "http://dbpedia.org/resource/Apus",
+            "http://dbpedia.org/resource/Uranometria",
+            "http://dbpedia.org/resource/Bird-of-paradise",
+            "http://dbpedia.org/resource/Alpha_Apodis"
+        ]
+    ]
+}

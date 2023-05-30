@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_Muhlenberg",
+            "http://dbpedia.org/resource/Anti-Administration_party",
+            "http://dbpedia.org/resource/3rd_United_States_Congress"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Job_Mann",
+            "http://dbpedia.org/resource/Jacksonian_democracy",
+            "http://dbpedia.org/resource/Bedford,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Joel_Keith_Mann",
+            "http://dbpedia.org/resource/Jacksonian_democracy",
+            "http://dbpedia.org/resource/Jenkintown,_Pennsylvania"
+        ]
+    ]
+}

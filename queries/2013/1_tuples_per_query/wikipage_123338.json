@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/S.L._Benfica",
+            "http://dbpedia.org/resource/1961_European_Cup_Final",
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Wankdorf_Stadium"
+        ]
+    ]
+}

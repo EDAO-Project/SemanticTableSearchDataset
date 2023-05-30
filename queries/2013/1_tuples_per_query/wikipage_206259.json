@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dmitrovsky_District,_Moscow_Oblast",
+            "http://dbpedia.org/resource/Dmitrov",
+            "http://dbpedia.org/resource/Yakhroma"
+        ]
+    ]
+}

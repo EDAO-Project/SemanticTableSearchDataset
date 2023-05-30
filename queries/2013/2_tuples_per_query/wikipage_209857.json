@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Veisor",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Chicago_Blackhawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Darren_Veitch",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Saskatoon",
+            "http://dbpedia.org/resource/Washington_Capitals"
+        ]
+    ]
+}

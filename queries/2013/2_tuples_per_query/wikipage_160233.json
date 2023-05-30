@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_1948_Winter_Olympics",
+            "http://dbpedia.org/resource/Gretchen_Fraser",
+            "http://dbpedia.org/resource/Antoinette_Meyer",
+            "http://dbpedia.org/resource/Erika_Mahringer"
+        ],
+        [
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_1952_Winter_Olympics",
+            "http://dbpedia.org/resource/Andrea_Mead_Lawrence",
+            "http://dbpedia.org/resource/Ossi_Reichert",
+            "http://dbpedia.org/resource/Annemarie_Buchner"
+        ]
+    ]
+}

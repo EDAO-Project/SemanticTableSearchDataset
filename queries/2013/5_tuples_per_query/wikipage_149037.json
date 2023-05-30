@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bakassi",
+            "http://dbpedia.org/resource/Cameroon",
+            "http://dbpedia.org/resource/Nigeria"
+        ],
+        [
+            "http://dbpedia.org/resource/Banc_du_Geyser",
+            "http://dbpedia.org/resource/Madagascar",
+            "http://dbpedia.org/resource/Scattered_Islands_in_the_Indian_Ocean"
+        ],
+        [
+            "http://dbpedia.org/resource/Bassas_da_India",
+            "http://dbpedia.org/resource/Madagascar",
+            "http://dbpedia.org/resource/French_Southern_and_Antarctic_Lands"
+        ],
+        [
+            "http://dbpedia.org/resource/Bir_Tawil",
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/De_jure"
+        ],
+        [
+            "http://dbpedia.org/resource/Chagos_Archipelago",
+            "http://dbpedia.org/resource/Mauritius",
+            "http://dbpedia.org/resource/British_Indian_Ocean_Territory"
+        ]
+    ]
+}

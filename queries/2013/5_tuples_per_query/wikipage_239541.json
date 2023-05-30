@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Adam_Wainwright",
+            "http://dbpedia.org/resource/Woody_Williams",
+            "http://dbpedia.org/resource/Jason_Isringhausen"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Braden_Looper",
+            "http://dbpedia.org/resource/Chris_Sampson",
+            "http://dbpedia.org/resource/Jason_Isringhausen"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Rockies",
+            "http://dbpedia.org/resource/Zach_McClellan",
+            "http://dbpedia.org/resource/Brian_Falkenborg",
+            "http://dbpedia.org/resource/Brian_Fuentes"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Justin_Germano",
+            "http://dbpedia.org/resource/Anthony_Reyes",
+            "http://dbpedia.org/resource/Trevor_Hoffman"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Brad_Thompson",
+            "http://dbpedia.org/resource/Brett_Tomko",
+            "http://dbpedia.org/resource/Jason_Isringhausen"
+        ]
+    ]
+}

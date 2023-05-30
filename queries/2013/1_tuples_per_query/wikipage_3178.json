@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_in_sports",
+            "http://dbpedia.org/resource/Lindsay_Davenport",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Martina_Hingis"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Erika_Brown",
+            "http://dbpedia.org/resource/Debbie_McCormick",
+            "http://dbpedia.org/resource/Jessica_Schultz",
+            "http://dbpedia.org/resource/Ann_Swisshelm",
+            "http://dbpedia.org/resource/Madison,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/Chelsea_Carey",
+            "http://dbpedia.org/resource/Kristy_McDonald",
+            "http://dbpedia.org/resource/Kristen_Foster",
+            "http://dbpedia.org/resource/Lindsay_Titheridge",
+            "http://dbpedia.org/resource/Morden,_Manitoba"
+        ],
+        [
+            "http://dbpedia.org/resource/Rachel_Homan",
+            "http://dbpedia.org/resource/Emma_Miskew",
+            "http://dbpedia.org/resource/Alison_Kreviazuk",
+            "http://dbpedia.org/resource/Lisa_Weagle",
+            "http://dbpedia.org/resource/Ottawa"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaitlyn_Lawes",
+            "http://dbpedia.org/resource/Kirsten_Wall",
+            "http://dbpedia.org/resource/Jill_Officer",
+            "http://dbpedia.org/resource/Dawn_McEwen",
+            "http://dbpedia.org/resource/Winnipeg"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefanie_Lawton",
+            "http://dbpedia.org/resource/Sherry_Anderson",
+            "http://dbpedia.org/resource/Sherri_Singler",
+            "http://dbpedia.org/resource/Marliese_Kasner",
+            "http://dbpedia.org/resource/Saskatoon"
+        ]
+    ]
+}

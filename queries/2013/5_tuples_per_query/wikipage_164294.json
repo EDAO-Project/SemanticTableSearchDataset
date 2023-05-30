@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aduana_Stars",
+            "http://dbpedia.org/resource/Dormaa_Ahenkro",
+            "http://dbpedia.org/resource/Agyeman_Badu_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Amidaus_Professionals_FC",
+            "http://dbpedia.org/resource/Tema",
+            "http://dbpedia.org/resource/Tema_Sports_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Asante_Kotoko_SC",
+            "http://dbpedia.org/resource/Kumasi",
+            "http://dbpedia.org/resource/Baba_Yara_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashanti_Gold_SC",
+            "http://dbpedia.org/resource/Obuasi",
+            "http://dbpedia.org/resource/Len_Clay_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Berekum_Arsenal",
+            "http://dbpedia.org/resource/Berekum",
+            "http://dbpedia.org/resource/Berekum_Sports_Stadium"
+        ]
+    ]
+}

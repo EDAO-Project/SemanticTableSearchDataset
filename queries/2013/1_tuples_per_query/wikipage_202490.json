@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edward_Keating",
+            "http://dbpedia.org/resource/64th_United_States_Congress",
+            "http://dbpedia.org/resource/Pueblo,_Colorado"
+        ]
+    ]
+}

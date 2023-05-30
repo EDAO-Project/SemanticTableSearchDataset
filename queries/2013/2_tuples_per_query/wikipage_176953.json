@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Permian",
+            "http://dbpedia.org/resource/Acanthodes",
+            "http://dbpedia.org/resource/Acanthodes"
+        ],
+        [
+            "http://dbpedia.org/resource/Permian",
+            "http://dbpedia.org/resource/Extinction_event",
+            "http://dbpedia.org/resource/Extinction_event",
+            "http://dbpedia.org/resource/Extinction_event"
+        ]
+    ]
+}

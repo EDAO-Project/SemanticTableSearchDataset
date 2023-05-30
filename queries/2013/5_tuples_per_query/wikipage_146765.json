@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auterive,_Gers",
+            "http://dbpedia.org/resource/Barran",
+            "http://dbpedia.org/resource/Bazian",
+            "http://dbpedia.org/resource/Beaupuy,_Gers"
+        ],
+        [
+            "http://dbpedia.org/resource/Belmont,_Gers",
+            "http://dbpedia.org/resource/Betcave-Aguin",
+            "http://dbpedia.org/resource/Biran,_Gers",
+            "http://dbpedia.org/resource/Blanquefort,_Gers"
+        ],
+        [
+            "http://dbpedia.org/resource/Cadeillan",
+            "http://dbpedia.org/resource/Caillavet,_Gers",
+            "http://dbpedia.org/resource/Callian,_Gers",
+            "http://dbpedia.org/resource/Castelnau-Barbarens"
+        ],
+        [
+            "http://dbpedia.org/resource/Cologne,_Gers",
+            "http://dbpedia.org/resource/Crastes",
+            "http://dbpedia.org/resource/Duran,_Gers",
+            "http://dbpedia.org/resource/Durban,_Gers"
+        ],
+        [
+            "http://dbpedia.org/resource/Gaujan",
+            "http://dbpedia.org/resource/Gimont",
+            "http://dbpedia.org/resource/Giscaro",
+            "http://dbpedia.org/resource/Haulies"
+        ]
+    ]
+}

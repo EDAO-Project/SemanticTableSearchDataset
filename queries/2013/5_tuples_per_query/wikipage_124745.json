@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Gexa_Energy_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sam_Houston_Race_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Las_Cruces,_New_Mexico",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/New_Mexico_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Pomona,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Fairplex"
+        ],
+        [
+            "http://dbpedia.org/resource/Mountain_View,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Shoreline_Amphitheatre"
+        ]
+    ]
+}

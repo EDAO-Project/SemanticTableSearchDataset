@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grambling_State_Tigers",
+            "http://dbpedia.org/resource/Grambling_State_University",
+            "http://dbpedia.org/resource/Grambling,_Louisiana",
+            "http://dbpedia.org/resource/Southwestern_Athletic_Conference"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/60_metres",
+            "http://dbpedia.org/resource/Andre_Cason",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Frankie_Fredericks",
+            "http://dbpedia.org/resource/Namibia"
+        ]
+    ]
+}

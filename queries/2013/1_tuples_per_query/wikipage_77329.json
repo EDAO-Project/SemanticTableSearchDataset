@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baden_Masters",
+            "http://dbpedia.org/resource/Baden,_Switzerland",
+            "http://dbpedia.org/resource/Thomas_Ulsrud",
+            "http://dbpedia.org/resource/David_Murdoch"
+        ]
+    ]
+}

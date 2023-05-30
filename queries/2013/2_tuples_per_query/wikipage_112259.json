@@ -1,0 +1,19 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Tour_de_France",
+            "http://dbpedia.org/resource/2013_Tour_de_France",
+            "http://dbpedia.org/resource/Gap,_Hautes-Alpes",
+            "http://dbpedia.org/resource/Christophe_Riblon",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Chris_Froome"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Tour_de_France",
+            "http://dbpedia.org/resource/2011_Tour_de_France,_Stage_12_to_Stage_21",
+            "http://dbpedia.org/resource/Modane",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Andy_Schleck"
+        ]
+    ]
+}

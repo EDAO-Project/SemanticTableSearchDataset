@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_C._Power",
+            "http://dbpedia.org/resource/51st_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1888"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_C._Power",
+            "http://dbpedia.org/resource/52nd_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1888"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_C._Power",
+            "http://dbpedia.org/resource/53rd_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1888"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_H._Carter",
+            "http://dbpedia.org/resource/54th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1894"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_H._Carter",
+            "http://dbpedia.org/resource/55th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1894"
+        ]
+    ]
+}

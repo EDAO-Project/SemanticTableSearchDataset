@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thorn_Commission",
+            "http://dbpedia.org/resource/Dries_van_Agt",
+            "http://dbpedia.org/resource/Simone_Veil",
+            "http://dbpedia.org/resource/Josse_Mertens_de_Wilmars"
+        ]
+    ]
+}

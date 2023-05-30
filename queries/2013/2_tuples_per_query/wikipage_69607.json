@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_and_Liberal_Arts_Halls",
+            "http://dbpedia.org/resource/Davis_&_Elkins_College",
+            "http://dbpedia.org/resource/Elkins,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Beverly_Historic_District",
+            "http://dbpedia.org/resource/U.S._Route_219",
+            "http://dbpedia.org/resource/Beverly,_West_Virginia"
+        ]
+    ]
+}

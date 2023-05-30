@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gilberto_Agustoni",
+            "http://dbpedia.org/resource/Apostolic_Signatura",
+            "http://dbpedia.org/resource/Pope_John_Paul_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Fiorenzo_Angelini",
+            "http://dbpedia.org/resource/Pontifical_Council_for_the_Pastoral_Care_of_Health_Care_Workers",
+            "http://dbpedia.org/resource/Pope_John_Paul_II"
+        ]
+    ]
+}

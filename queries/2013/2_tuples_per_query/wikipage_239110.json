@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/Jason_Frasor",
+            "http://dbpedia.org/resource/Fernando_Rodney",
+            "http://dbpedia.org/resource/B._J._Ryan"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/Nate_Robertson",
+            "http://dbpedia.org/resource/A._J._Burnett",
+            "http://dbpedia.org/resource/Todd_Jones"
+        ]
+    ]
+}

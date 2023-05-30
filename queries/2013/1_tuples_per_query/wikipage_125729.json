@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bologna_Centrale_railway_station",
+            "http://dbpedia.org/resource/Eurostar_Italia",
+            "http://dbpedia.org/resource/Venezia_Mestre_railway_station"
+        ]
+    ]
+}

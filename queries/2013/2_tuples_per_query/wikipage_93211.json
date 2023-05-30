@@ -1,0 +1,13 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atorvastatin",
+            "http://dbpedia.org/resource/Atorvastatin",
+            "http://dbpedia.org/resource/Pfizer"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunitinib",
+            "http://dbpedia.org/resource/Pfizer"
+        ]
+    ]
+}

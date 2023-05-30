@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_Genie_Awards",
+            "http://dbpedia.org/resource/Kate_Reid",
+            "http://dbpedia.org/resource/Colleen_Dewhurst"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Genie_Awards",
+            "http://dbpedia.org/resource/Linda_Sorenson",
+            "http://dbpedia.org/resource/Jackie_Burroughs"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Genie_Awards",
+            "http://dbpedia.org/resource/Linda_Sorenson",
+            "http://dbpedia.org/resource/Lally_Cadeau"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Genie_Awards",
+            "http://dbpedia.org/resource/Louise_Portal",
+            "http://dbpedia.org/resource/Lucie_Laurier"
+        ],
+        [
+            "http://dbpedia.org/resource/9th_Genie_Awards",
+            "http://dbpedia.org/resource/Paule_Baillargeon",
+            "http://dbpedia.org/resource/Jayne_Eastwood"
+        ]
+    ]
+}

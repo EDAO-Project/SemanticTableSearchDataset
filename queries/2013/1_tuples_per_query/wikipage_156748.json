@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1956_NFL_draft",
+            "http://dbpedia.org/resource/Ron_Nery",
+            "http://dbpedia.org/resource/New_York_Giants",
+            "http://dbpedia.org/resource/American_Football_League"
+        ]
+    ]
+}

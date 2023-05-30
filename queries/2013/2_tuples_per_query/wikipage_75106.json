@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/K._S._Sethumadhavan",
+            "http://dbpedia.org/resource/Panitheeratha_Veedu",
+            "http://dbpedia.org/resource/Bahadoor"
+        ],
+        [
+            "http://dbpedia.org/resource/M._T._Vasudevan_Nair",
+            "http://dbpedia.org/resource/Nirmaalyam",
+            "http://dbpedia.org/resource/P._J._Antony"
+        ]
+    ]
+}

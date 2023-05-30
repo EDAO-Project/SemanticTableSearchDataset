@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chip_Ganassi_Racing",
+            "http://dbpedia.org/resource/Dodge_Charger",
+            "http://dbpedia.org/resource/Juan_Pablo_Montoya",
+            "http://dbpedia.org/resource/Texaco",
+            "http://dbpedia.org/resource/Donnie_Wingo"
+        ]
+    ]
+}

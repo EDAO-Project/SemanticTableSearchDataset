@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stadion_Poljud",
+            "http://dbpedia.org/resource/HNK_Rijeka",
+            "http://dbpedia.org/resource/Penalty_kick"
+        ],
+        [
+            "http://dbpedia.org/resource/Banja_Luka_City_Stadium",
+            "http://dbpedia.org/resource/FK_Borac_Banja_Luka",
+            "http://dbpedia.org/resource/Ardian_Kozniku"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Maksimir",
+            "http://dbpedia.org/resource/GNK_Dinamo_Zagreb",
+            "http://dbpedia.org/resource/Penalty_kick"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Poljud",
+            "http://dbpedia.org/resource/Red_Star_Belgrade",
+            "http://dbpedia.org/resource/Penalty_kick"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Poljud",
+            "http://dbpedia.org/resource/Penalty_kick",
+            "http://dbpedia.org/resource/Mario_Osibov"
+        ]
+    ]
+}

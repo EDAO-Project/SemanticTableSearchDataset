@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kornelia_Ender",
+            "http://dbpedia.org/resource/Shirley_Babashoff",
+            "http://dbpedia.org/resource/Enith_Brigitha"
+        ],
+        [
+            "http://dbpedia.org/resource/Keena_Rothhammer",
+            "http://dbpedia.org/resource/Shirley_Babashoff",
+            "http://dbpedia.org/resource/Andrea_Eife"
+        ],
+        [
+            "http://dbpedia.org/resource/Heather_Greenwood",
+            "http://dbpedia.org/resource/Keena_Rothhammer",
+            "http://dbpedia.org/resource/Novella_Calligaris"
+        ],
+        [
+            "http://dbpedia.org/resource/Novella_Calligaris",
+            "http://dbpedia.org/resource/Jo_Harshbarger",
+            "http://dbpedia.org/resource/Gudrun_Wegner"
+        ],
+        [
+            "http://dbpedia.org/resource/Ulrike_Richter",
+            "http://dbpedia.org/resource/Melissa_Belote",
+            "http://dbpedia.org/resource/Wendy_Hogg"
+        ]
+    ]
+}

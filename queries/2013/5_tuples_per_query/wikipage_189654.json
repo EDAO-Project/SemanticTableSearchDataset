@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Northern_Trust_Open",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Phil_Rodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/Farmers_Insurance_Open",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Tommy_Jacobs"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucky_International_Open",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Gene_Littler"
+        ],
+        [
+            "http://dbpedia.org/resource/Humana_Challenge",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Arnold_Palmer"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix_Open",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Arnold_Palmer"
+        ]
+    ]
+}

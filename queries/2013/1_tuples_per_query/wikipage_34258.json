@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Norm_Abram",
+            "http://dbpedia.org/resource/University_of_Massachusetts_Amherst",
+            "http://dbpedia.org/resource/PBS"
+        ]
+    ]
+}

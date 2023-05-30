@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Jay",
+            "http://dbpedia.org/resource/Federalist_Party",
+            "http://dbpedia.org/resource/Stephen_Van_Rensselaer"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbotsleigh",
+            "http://dbpedia.org/resource/Wahroonga,_New_South_Wales",
+            "http://dbpedia.org/resource/Anglicanism"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Amanah_College",
+            "http://dbpedia.org/resource/Liverpool,_New_South_Wales",
+            "http://dbpedia.org/resource/Islam"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_Catholic_Boys_College",
+            "http://dbpedia.org/resource/Liverpool,_New_South_Wales",
+            "http://dbpedia.org/resource/Catholicism"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_Catholic_Senior_College",
+            "http://dbpedia.org/resource/Casula,_New_South_Wales",
+            "http://dbpedia.org/resource/Catholicism"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_College,_Maitland",
+            "http://dbpedia.org/resource/Maitland,_New_South_Wales",
+            "http://dbpedia.org/resource/Catholicism"
+        ]
+    ]
+}

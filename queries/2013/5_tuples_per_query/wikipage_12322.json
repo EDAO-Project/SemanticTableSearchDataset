@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_E._Cramer",
+            "http://dbpedia.org/resource/Methodism",
+            "http://dbpedia.org/resource/Madison_County,_Alabama",
+            "http://dbpedia.org/resource/University_of_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Ed_Pastor",
+            "http://dbpedia.org/resource/Catholic_Church",
+            "http://dbpedia.org/resource/Maricopa_County,_Arizona",
+            "http://dbpedia.org/resource/Arizona_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Vic_Snyder",
+            "http://dbpedia.org/resource/Methodism",
+            "http://dbpedia.org/resource/Arkansas_Senate",
+            "http://dbpedia.org/resource/Willamette_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Wally_Herger",
+            "http://dbpedia.org/resource/The_Church_of_Jesus_Christ_of_Latter-day_Saints",
+            "http://dbpedia.org/resource/California_State_Assembly",
+            "http://dbpedia.org/resource/California_State_University,_Sacramento"
+        ],
+        [
+            "http://dbpedia.org/resource/Lynn_Woolsey",
+            "http://dbpedia.org/resource/Presbyterianism",
+            "http://dbpedia.org/resource/Petaluma,_California",
+            "http://dbpedia.org/resource/University_of_Washington"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Will_Clark",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Mississippi_State_Bulldogs_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Horner",
+            "http://dbpedia.org/resource/Infielder",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball"
+        ]
+    ]
+}

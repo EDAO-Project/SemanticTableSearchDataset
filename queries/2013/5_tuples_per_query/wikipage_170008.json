@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuusamo",
+            "http://dbpedia.org/resource/Nikita_Kriukov",
+            "http://dbpedia.org/resource/Petter_Northug",
+            "http://dbpedia.org/resource/Eirik_Brandsdal"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuusamo",
+            "http://dbpedia.org/resource/Alexander_Legkov",
+            "http://dbpedia.org/resource/Petter_Northug",
+            "http://dbpedia.org/resource/Maurice_Manificat"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuusamo",
+            "http://dbpedia.org/resource/Maxim_Vylegzhanin",
+            "http://dbpedia.org/resource/Dario_Cologna",
+            "http://dbpedia.org/resource/Martin_Johnsrud_Sundby"
+        ],
+        [
+            "http://dbpedia.org/resource/Oberhof,_Germany",
+            "http://dbpedia.org/resource/Petter_Northug",
+            "http://dbpedia.org/resource/Marcus_Hellner",
+            "http://dbpedia.org/resource/Alexander_Legkov"
+        ],
+        [
+            "http://dbpedia.org/resource/Oberhof,_Germany",
+            "http://dbpedia.org/resource/Maxim_Vylegzhanin",
+            "http://dbpedia.org/resource/Alexander_Legkov",
+            "http://dbpedia.org/resource/Petter_Northug"
+        ]
+    ]
+}

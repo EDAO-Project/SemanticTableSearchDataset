@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/Hugh_Greer",
+            "http://dbpedia.org/resource/United_States_Naval_Academy"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornell_University",
+            "http://dbpedia.org/resource/Royner_Greene",
+            "http://dbpedia.org/resource/North_Carolina_State_University"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aap_Ki_Kasam",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Lata_Mangeshkar"
+        ],
+        [
+            "http://dbpedia.org/resource/Chor_Machaye_Shor",
+            "http://dbpedia.org/resource/Ravindra_Jain",
+            "http://dbpedia.org/resource/Asha_Bhosle"
+        ],
+        [
+            "http://dbpedia.org/resource/Hawas",
+            "http://dbpedia.org/resource/Usha_Khanna",
+            "http://dbpedia.org/resource/Mohammed_Rafi"
+        ],
+        [
+            "http://dbpedia.org/resource/Yaadon_Ki_Baaraat",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Mohammed_Rafi"
+        ],
+        [
+            "http://dbpedia.org/resource/Prem_Parvat",
+            "http://dbpedia.org/resource/Jaidev",
+            "http://dbpedia.org/resource/Lata_Mangeshkar"
+        ]
+    ]
+}

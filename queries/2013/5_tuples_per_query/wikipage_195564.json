@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SSV_Jahn_Regensburg",
+            "http://dbpedia.org/resource/Franciszek_Smuda",
+            "http://dbpedia.org/resource/Thomas_Stratos"
+        ],
+        [
+            "http://dbpedia.org/resource/SV_Werder_Bremen",
+            "http://dbpedia.org/resource/Thomas_Schaaf",
+            "http://dbpedia.org/resource/Robin_Dutt"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/Jupp_Heynckes",
+            "http://dbpedia.org/resource/Pep_Guardiola"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Ingolstadt_04",
+            "http://dbpedia.org/resource/Tomas_Oral",
+            "http://dbpedia.org/resource/Marco_Kurz"
+        ],
+        [
+            "http://dbpedia.org/resource/F.C._Hansa_Rostock",
+            "http://dbpedia.org/resource/Marc_Fascher",
+            "http://dbpedia.org/resource/Andreas_Bergmann"
+        ]
+    ]
+}

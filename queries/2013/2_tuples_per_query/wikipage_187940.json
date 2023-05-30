@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Irvine,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/KROQ-FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Sonisphere_Festival"
+        ]
+    ]
+}

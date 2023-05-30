@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/EMLL_6th_Anniversary_Show",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/Mexican_National_Welterweight_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/EMLL_7th_Anniversary_Show",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/NWA_World_Middleweight_Championship"
+        ]
+    ]
+}

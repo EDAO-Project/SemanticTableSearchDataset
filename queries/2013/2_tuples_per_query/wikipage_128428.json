@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alcide_De_Gasperi",
+            "http://dbpedia.org/resource/Christian_democracy",
+            "http://dbpedia.org/resource/De_Gasperi_II_Cabinet"
+        ],
+        [
+            "http://dbpedia.org/resource/Pietro_Nenni",
+            "http://dbpedia.org/resource/Italian_Socialist_Party",
+            "http://dbpedia.org/resource/De_Gasperi_II_Cabinet"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eugene_Cloonan",
+            "http://dbpedia.org/resource/Galway_GAA",
+            "http://dbpedia.org/resource/Down_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Shefflin",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/Galway_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Shefflin",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/Dublin_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Griffin",
+            "http://dbpedia.org/resource/Clare_GAA",
+            "http://dbpedia.org/resource/Laois_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Niall_Gilligan",
+            "http://dbpedia.org/resource/Clare_GAA",
+            "http://dbpedia.org/resource/Offaly_GAA"
+        ]
+    ]
+}

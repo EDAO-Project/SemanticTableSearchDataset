@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_NASCAR_Winston_Cup_Series",
+            "http://dbpedia.org/resource/Darrell_Waltrip",
+            "http://dbpedia.org/resource/Gatorade",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_NASCAR_Winston_Cup_Series",
+            "http://dbpedia.org/resource/Donnie_Allison",
+            "http://dbpedia.org/resource/Hawaiian_Tropic",
+            "http://dbpedia.org/resource/Chevrolet"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Het_Nieuwsblad",
+            "http://dbpedia.org/resource/Belg_der_Belgen",
+            "http://dbpedia.org/resource/Father_Damien"
+        ],
+        [
+            "http://dbpedia.org/resource/Flanders",
+            "http://dbpedia.org/resource/Vlaamse_Radio-_en_Televisieomroeporganisatie",
+            "http://dbpedia.org/resource/De_Grootste_Belg",
+            "http://dbpedia.org/resource/Father_Damien"
+        ],
+        [
+            "http://dbpedia.org/resource/Wallonia",
+            "http://dbpedia.org/resource/RTBF",
+            "http://dbpedia.org/resource/Les_plus_grands_Belges",
+            "http://dbpedia.org/resource/Jacques_Brel"
+        ],
+        [
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/BNT_1",
+            "http://dbpedia.org/resource/Velikite_Balgari",
+            "http://dbpedia.org/resource/Vasil_Levski"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Canadian_Broadcasting_Corporation",
+            "http://dbpedia.org/resource/The_Greatest_Canadian",
+            "http://dbpedia.org/resource/Tommy_Douglas"
+        ]
+    ]
+}

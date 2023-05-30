@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Crime_against_peace",
+            "http://dbpedia.org/resource/Kenji_Doihara",
+            "http://dbpedia.org/resource/International_Military_Tribunal_for_the_Far_East"
+        ]
+    ]
+}

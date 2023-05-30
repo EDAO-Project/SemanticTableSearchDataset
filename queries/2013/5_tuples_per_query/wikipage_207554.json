@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Kay_Ivey",
+            "http://dbpedia.org/resource/List_of_lieutenant_governors_of_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Mead_Treadwell",
+            "http://dbpedia.org/resource/List_of_lieutenant_governors_of_Alaska"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Mark_Darr",
+            "http://dbpedia.org/resource/Lieutenant_Governor_of_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Gavin_Newsom",
+            "http://dbpedia.org/resource/Lieutenant_Governor_of_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Nancy_Wyman",
+            "http://dbpedia.org/resource/List_of_lieutenant_governors_of_Connecticut"
+        ]
+    ]
+}

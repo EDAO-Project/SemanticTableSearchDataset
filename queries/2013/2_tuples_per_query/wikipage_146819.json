@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antraigues-sur-Volane",
+            "http://dbpedia.org/resource/Asperjoc",
+            "http://dbpedia.org/resource/Aubenas"
+        ],
+        [
+            "http://dbpedia.org/resource/Aubignas",
+            "http://dbpedia.org/resource/Baix",
+            "http://dbpedia.org/resource/Beauchastel"
+        ]
+    ]
+}

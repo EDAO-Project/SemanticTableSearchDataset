@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Majed_Abdullah",
+            "http://dbpedia.org/resource/Saudi_Arabia",
+            "http://dbpedia.org/resource/Al-Nassr_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Fritz_Abromeit",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Rot-Weiss_Essen"
+        ]
+    ]
+}

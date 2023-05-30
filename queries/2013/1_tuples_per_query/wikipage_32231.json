@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ms._Jackson",
+            "http://dbpedia.org/resource/Outkast",
+            "http://dbpedia.org/resource/No_Angel"
+        ]
+    ]
+}

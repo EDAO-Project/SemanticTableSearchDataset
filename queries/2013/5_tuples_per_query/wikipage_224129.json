@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Calhoun,_Georgia",
+            "http://dbpedia.org/resource/Gordon_County,_Georgia",
+            "http://dbpedia.org/resource/Sugar_Valley,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Anchor,_Illinois",
+            "http://dbpedia.org/resource/McLean_County,_Illinois",
+            "http://dbpedia.org/resource/Multiple-vortex_tornado"
+        ],
+        [
+            "http://dbpedia.org/resource/Tolono,_Illinois",
+            "http://dbpedia.org/resource/Champaign_County,_Illinois",
+            "http://dbpedia.org/resource/Philo,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Lebanon,_Tennessee",
+            "http://dbpedia.org/resource/Wilson_County,_Tennessee",
+            "http://dbpedia.org/resource/Dixon_Springs,_Tennessee"
+        ],
+        [
+            "http://dbpedia.org/resource/Viola,_Tennessee",
+            "http://dbpedia.org/resource/Warren_County,_Tennessee",
+            "http://dbpedia.org/resource/Shiloh,_Tennessee"
+        ]
+    ]
+}

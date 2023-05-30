@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Social_Democratic_Party_of_Austria",
+            "http://dbpedia.org/resource/Party_of_European_Socialists"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Socialistische_Partij_Anders",
+            "http://dbpedia.org/resource/Party_of_European_Socialists"
+        ],
+        [
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Bulgarian_Socialist_Party",
+            "http://dbpedia.org/resource/Party_of_European_Socialists"
+        ],
+        [
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Social_Democratic_Party_of_Croatia",
+            "http://dbpedia.org/resource/Party_of_European_Socialists"
+        ],
+        [
+            "http://dbpedia.org/resource/Cyprus",
+            "http://dbpedia.org/resource/Movement_for_Social_Democracy",
+            "http://dbpedia.org/resource/Party_of_European_Socialists"
+        ]
+    ]
+}

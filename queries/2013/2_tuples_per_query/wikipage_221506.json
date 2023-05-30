@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rabbit_Island,_New_Zealand",
+            "http://dbpedia.org/resource/Tasman_Bay",
+            "http://dbpedia.org/resource/New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Rakino_Island",
+            "http://dbpedia.org/resource/Hauraki_Gulf",
+            "http://dbpedia.org/resource/New_Zealand"
+        ]
+    ]
+}

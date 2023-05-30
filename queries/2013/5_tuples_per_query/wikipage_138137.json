@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1979_in_sports",
+            "http://dbpedia.org/resource/Ingemar_Stenmark",
+            "http://dbpedia.org/resource/Alpine_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_in_sports",
+            "http://dbpedia.org/resource/Linda_Haglund",
+            "http://dbpedia.org/resource/Track_and_field"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_in_sports",
+            "http://dbpedia.org/resource/Tomas_Gustafson",
+            "http://dbpedia.org/resource/Speed_skating"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_in_sports",
+            "http://dbpedia.org/resource/Stig_Strand",
+            "http://dbpedia.org/resource/Alpine_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_in_sports",
+            "http://dbpedia.org/resource/Gunde_Svan",
+            "http://dbpedia.org/resource/Cross-country_skiing"
+        ]
+    ]
+}

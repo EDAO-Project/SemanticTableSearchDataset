@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jerry_West",
+            "http://dbpedia.org/resource/Los_Angeles_Lakers",
+            "http://dbpedia.org/resource/1965_NBA_Playoffs",
+            "http://dbpedia.org/resource/Washington_Wizards"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Jordan",
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/1988_NBA_Playoffs",
+            "http://dbpedia.org/resource/Cleveland_Cavaliers"
+        ]
+    ]
+}

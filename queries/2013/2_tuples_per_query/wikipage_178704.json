@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ambrose_A._Call_State_Park",
+            "http://dbpedia.org/resource/Kossuth_County,_Iowa",
+            "http://dbpedia.org/resource/Algona,_Iowa",
+            "http://dbpedia.org/resource/Des_Moines_River",
+            "http://dbpedia.org/resource/Log_cabin"
+        ],
+        [
+            "http://dbpedia.org/resource/Backbone_State_Park",
+            "http://dbpedia.org/resource/Delaware_County,_Iowa",
+            "http://dbpedia.org/resource/Strawberry_Point,_Iowa",
+            "http://dbpedia.org/resource/Maquoketa_River",
+            "http://dbpedia.org/resource/Civilian_Conservation_Corps"
+        ]
+    ]
+}

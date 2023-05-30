@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Horst_Faas",
+            "http://dbpedia.org/resource/Vietnam_War",
+            "http://dbpedia.org/resource/Associated_Press"
+        ],
+        [
+            "http://dbpedia.org/resource/Luc_Delahaye",
+            "http://dbpedia.org/resource/Siege_of_Sarajevo",
+            "http://dbpedia.org/resource/Sipa_Press"
+        ]
+    ]
+}

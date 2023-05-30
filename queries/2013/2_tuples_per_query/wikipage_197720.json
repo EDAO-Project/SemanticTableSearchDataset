@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Bartlett",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1960",
+            "http://dbpedia.org/resource/87th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1958"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Bartlett",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1960",
+            "http://dbpedia.org/resource/88th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1962"
+        ]
+    ]
+}

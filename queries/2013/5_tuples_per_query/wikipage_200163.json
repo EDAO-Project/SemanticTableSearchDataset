@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Abbott",
+            "http://dbpedia.org/resource/Bachelor_of_Civil_Law",
+            "http://dbpedia.org/resource/McGill_University"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Abbott",
+            "http://dbpedia.org/resource/Doctor_of_Civil_Law",
+            "http://dbpedia.org/resource/McGill_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Tupper",
+            "http://dbpedia.org/resource/Doctor_of_Medicine",
+            "http://dbpedia.org/resource/University_of_Edinburgh"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilfrid_Laurier",
+            "http://dbpedia.org/resource/Bachelor_of_Civil_Law",
+            "http://dbpedia.org/resource/McGill_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Meighen",
+            "http://dbpedia.org/resource/Bachelor_of_Arts",
+            "http://dbpedia.org/resource/University_of_Toronto"
+        ]
+    ]
+}

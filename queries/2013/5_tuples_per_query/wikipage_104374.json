@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anastasija_Sevastova",
+            "http://dbpedia.org/resource/Svetlana_Kuznetsova",
+            "http://dbpedia.org/resource/Maria_Sharapova",
+            "http://dbpedia.org/resource/Victoria_Azarenka"
+        ],
+        [
+            "http://dbpedia.org/resource/Vania_King",
+            "http://dbpedia.org/resource/Alberta_Brianti",
+            "http://dbpedia.org/resource/Yanina_Wickmayer",
+            "http://dbpedia.org/resource/Marion_Bartoli"
+        ],
+        [
+            "http://dbpedia.org/resource/Elena_Baltacha",
+            "http://dbpedia.org/resource/Arantxa_Rus",
+            "http://dbpedia.org/resource/Tsvetana_Pironkova",
+            "http://dbpedia.org/resource/Rebecca_Marino"
+        ],
+        [
+            "http://dbpedia.org/resource/Sania_Mirza",
+            "http://dbpedia.org/resource/Jamie_Hampton",
+            "http://dbpedia.org/resource/Bethanie_Mattek-Sands",
+            "http://dbpedia.org/resource/Alison_Riske"
+        ],
+        [
+            "http://dbpedia.org/resource/Pauline_Parmentier",
+            "http://dbpedia.org/resource/Timea_Bacsinszky",
+            "http://dbpedia.org/resource/Junri_Namigata",
+            "http://dbpedia.org/resource/Arantxa_Parra_Santonja"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alps",
+            "http://dbpedia.org/resource/Zugspitze",
+            "http://dbpedia.org/resource/Bavaria"
+        ],
+        [
+            "http://dbpedia.org/resource/Bavarian_Alps",
+            "http://dbpedia.org/resource/Zugspitze",
+            "http://dbpedia.org/resource/Bavaria"
+        ]
+    ]
+}

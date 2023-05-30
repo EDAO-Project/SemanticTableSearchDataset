@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Poland",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/East_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Poland",
+            "http://dbpedia.org/resource/Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/East_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Germany",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/East_Germany",
+            "http://dbpedia.org/resource/Poland"
+        ]
+    ]
+}

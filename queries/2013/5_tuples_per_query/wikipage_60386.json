@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Helena_Rakoczy",
+            "http://dbpedia.org/resource/Marja_Nutti",
+            "http://dbpedia.org/resource/Licia_Macchini"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Larisa_Latynina",
+            "http://dbpedia.org/resource/Sofia_Muratova",
+            "http://dbpedia.org/resource/Keiko_Tanaka-Ikeda"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Ljubljana",
+            "http://dbpedia.org/resource/Erika_Zuchold",
+            "http://dbpedia.org/resource/Cathy_Rigby",
+            "http://dbpedia.org/resource/Christine_Schmitt"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Varna",
+            "http://dbpedia.org/resource/Ludmilla_Tourischeva",
+            "http://dbpedia.org/resource/Olga_Korbut",
+            "http://dbpedia.org/resource/Nellie_Kim"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Fort_Worth,_Texas",
+            "http://dbpedia.org/resource/Vera_Cerna",
+            "http://dbpedia.org/resource/Nellie_Kim",
+            "http://dbpedia.org/resource/Regina_Grabolle"
+        ]
+    ]
+}

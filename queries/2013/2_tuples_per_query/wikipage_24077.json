@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Javier_Sotomayor",
+            "http://dbpedia.org/resource/Salamanca"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyrgyzstan",
+            "http://dbpedia.org/resource/Igor_Paklin",
+            "http://dbpedia.org/resource/Kobe"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Amsterdam_Airport_Schiphol"
+        ],
+        [
+            "http://dbpedia.org/resource/Cologne",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Cologne_Bonn_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Dortmund",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Dortmund_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubrovnik",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Dubrovnik_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Frankfurt_Airport"
+        ]
+    ]
+}

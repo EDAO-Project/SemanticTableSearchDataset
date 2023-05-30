@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Horace_Armitage",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Istanbul_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Adil_Giray",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Istanbul_Football_League"
+        ]
+    ]
+}

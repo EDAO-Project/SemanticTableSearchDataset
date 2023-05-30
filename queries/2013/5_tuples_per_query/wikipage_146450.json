@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bacourt",
+            "http://dbpedia.org/resource/Bassing",
+            "http://dbpedia.org/resource/Baudrecourt,_Moselle",
+            "http://dbpedia.org/resource/Bellange,_Moselle"
+        ],
+        [
+            "http://dbpedia.org/resource/Bermering",
+            "http://dbpedia.org/resource/Bezange-la-Petite",
+            "http://dbpedia.org/resource/Bidestroff",
+            "http://dbpedia.org/resource/Bioncourt"
+        ],
+        [
+            "http://dbpedia.org/resource/Conthil",
+            "http://dbpedia.org/resource/Craincourt",
+            "http://dbpedia.org/resource/Cutting,_Moselle",
+            "http://dbpedia.org/resource/Dalhain"
+        ],
+        [
+            "http://dbpedia.org/resource/Donnelay",
+            "http://dbpedia.org/resource/Fonteny",
+            "http://dbpedia.org/resource/Fossieux",
+            "http://dbpedia.org/resource/Francaltroff"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannocourt",
+            "http://dbpedia.org/resource/Haraucourt-sur-Seille",
+            "http://dbpedia.org/resource/Honskirch",
+            "http://dbpedia.org/resource/Insming"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Airlines_Theatre",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/American_Airlines"
+        ],
+        [
+            "http://dbpedia.org/resource/Blue_Hills_Bank_Pavilion",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Bank_of_America"
+        ],
+        [
+            "http://dbpedia.org/resource/Bank_of_America_Theatre",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Bank_of_America"
+        ],
+        [
+            "http://dbpedia.org/resource/PlayStation_Theater",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Best_Buy"
+        ],
+        [
+            "http://dbpedia.org/resource/Cadillac_Palace_Theatre",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Cadillac"
+        ]
+    ]
+}

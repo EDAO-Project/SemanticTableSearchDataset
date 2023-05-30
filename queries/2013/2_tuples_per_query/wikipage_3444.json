@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Genie_Awards",
+            "http://dbpedia.org/resource/Gordon_Pinsent",
+            "http://dbpedia.org/resource/Harvey_Atkin"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Genie_Awards",
+            "http://dbpedia.org/resource/Germain_Houde",
+            "http://dbpedia.org/resource/Gabriel_Arcand"
+        ]
+    ]
+}

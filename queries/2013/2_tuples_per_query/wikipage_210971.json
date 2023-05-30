@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California_elections,_1992",
+            "http://dbpedia.org/resource/United_States_presidential_election_in_California,_1992",
+            "http://dbpedia.org/resource/George_H._W._Bush"
+        ],
+        [
+            "http://dbpedia.org/resource/California_elections,_1992",
+            "http://dbpedia.org/resource/United_States_Senate_election_in_California,_1992",
+            "http://dbpedia.org/resource/Bruce_Herschensohn"
+        ]
+    ]
+}

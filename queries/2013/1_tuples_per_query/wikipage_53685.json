@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eiffel_Tower",
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

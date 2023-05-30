@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bay_City_Recreation_Area",
+            "http://dbpedia.org/resource/Bay_City,_Michigan",
+            "http://dbpedia.org/resource/Bay_County,_Michigan",
+            "http://dbpedia.org/resource/Flint/Tri-Cities"
+        ],
+        [
+            "http://dbpedia.org/resource/Boardman_River_Nature_Center",
+            "http://dbpedia.org/resource/Traverse_City,_Michigan",
+            "http://dbpedia.org/resource/Grand_Traverse_County,_Michigan",
+            "http://dbpedia.org/resource/Northern_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Rapids,_Michigan",
+            "http://dbpedia.org/resource/Kent_County,_Michigan",
+            "http://dbpedia.org/resource/West_Michigan",
+            "http://dbpedia.org/resource/Calvin_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Chippewa_Nature_Center",
+            "http://dbpedia.org/resource/Midland,_Michigan",
+            "http://dbpedia.org/resource/Midland_County,_Michigan",
+            "http://dbpedia.org/resource/Flint/Tri-Cities"
+        ],
+        [
+            "http://dbpedia.org/resource/Waterloo_State_Recreation_Area",
+            "http://dbpedia.org/resource/Chelsea,_Michigan",
+            "http://dbpedia.org/resource/Jackson_County,_Michigan",
+            "http://dbpedia.org/resource/Central_Michigan"
+        ]
+    ]
+}

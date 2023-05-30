@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edmund_Barton",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Division_of_Hunter",
+            "http://dbpedia.org/resource/Protectionist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Watson",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Division_of_Bland",
+            "http://dbpedia.org/resource/Australian_Labor_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Fisher",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/Division_of_Wide_Bay",
+            "http://dbpedia.org/resource/Australian_Labor_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_Cook",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Division_of_Parramatta",
+            "http://dbpedia.org/resource/Commonwealth_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Hughes",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Division_of_West_Sydney",
+            "http://dbpedia.org/resource/Australian_Labor_Party"
+        ]
+    ]
+}

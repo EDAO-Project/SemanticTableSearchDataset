@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bramall_Hall",
+            "http://dbpedia.org/resource/Bramhall",
+            "http://dbpedia.org/resource/Greater_Manchester"
+        ]
+    ]
+}

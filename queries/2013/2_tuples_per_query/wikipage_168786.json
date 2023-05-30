@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ernest_Borgnine",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Conway",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy",
+            "http://dbpedia.org/resource/Mermaid_Man_and_Barnacle_Boy"
+        ]
+    ]
+}

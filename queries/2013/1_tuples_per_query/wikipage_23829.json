@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jayme_Cramer",
+            "http://dbpedia.org/resource/Dan_Ketchum",
+            "http://dbpedia.org/resource/George_Bovell"
+        ]
+    ]
+}

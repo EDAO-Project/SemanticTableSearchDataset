@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vannevar_Bush",
+            "http://dbpedia.org/resource/James_Forrestal",
+            "http://dbpedia.org/resource/Harry_S._Truman"
+        ],
+        [
+            "http://dbpedia.org/resource/Karl_Taylor_Compton",
+            "http://dbpedia.org/resource/James_Forrestal",
+            "http://dbpedia.org/resource/Harry_S._Truman"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_A._Quarles",
+            "http://dbpedia.org/resource/Charles_Erwin_Wilson",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Clifford_C._Furnas",
+            "http://dbpedia.org/resource/Charles_Erwin_Wilson",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/Herbert_York",
+            "http://dbpedia.org/resource/Neil_H._McElroy",
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower"
+        ]
+    ]
+}

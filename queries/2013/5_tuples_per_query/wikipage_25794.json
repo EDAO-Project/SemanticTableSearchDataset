@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Census_Johnston",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Samoa_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaron_Liffchak",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Nick_Lloyd",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Scottish_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Mercey",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Cobus_Visagie",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/South_African_Rugby_Union"
+        ]
+    ]
+}

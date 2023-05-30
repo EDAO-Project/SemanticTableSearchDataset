@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chae_Chang",
+            "http://dbpedia.org/resource/San_Kamphaeng_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Chaem_Luang",
+            "http://dbpedia.org/resource/Galyani_Vadhana_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Chai_Chumphon",
+            "http://dbpedia.org/resource/Laplae_District",
+            "http://dbpedia.org/resource/Uttaradit"
+        ],
+        [
+            "http://dbpedia.org/resource/Chai_Sathan",
+            "http://dbpedia.org/resource/Saraphi_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Chaiyanam",
+            "http://dbpedia.org/resource/Wang_Thong_District",
+            "http://dbpedia.org/resource/Phitsanulok"
+        ]
+    ]
+}

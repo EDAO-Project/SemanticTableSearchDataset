@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Francis_Gymnasium",
+            "http://dbpedia.org/resource/Boxing_at_the_1904_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1924_Summer_Olympics",
+            "http://dbpedia.org/resource/Stade_Olympique_Yves-du-Manoir",
+            "http://dbpedia.org/resource/Athletics_at_the_1924_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1928_Summer_Olympics",
+            "http://dbpedia.org/resource/Schermzaal",
+            "http://dbpedia.org/resource/Modern_pentathlon_at_the_1928_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1932_Summer_Olympics",
+            "http://dbpedia.org/resource/160th_Regiment_State_Armory",
+            "http://dbpedia.org/resource/Modern_pentathlon_at_the_1932_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Haus_des_Deutschen_Sports",
+            "http://dbpedia.org/resource/Modern_pentathlon_at_the_1936_Summer_Olympics"
+        ]
+    ]
+}

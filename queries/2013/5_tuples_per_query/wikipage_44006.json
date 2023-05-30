@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oscar_Robertson",
+            "http://dbpedia.org/resource/Crispus_Attucks_High_School",
+            "http://dbpedia.org/resource/1960_NBA_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Rayl",
+            "http://dbpedia.org/resource/Kokomo_High_School",
+            "http://dbpedia.org/resource/1963_NBA_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Ron_Bonham",
+            "http://dbpedia.org/resource/Muncie_Central_High_School",
+            "http://dbpedia.org/resource/1964_NBA_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Van_Arsdale",
+            "http://dbpedia.org/resource/Emmerich_Manual_High_School",
+            "http://dbpedia.org/resource/1965_NBA_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Dick_Van_Arsdale",
+            "http://dbpedia.org/resource/Emmerich_Manual_High_School",
+            "http://dbpedia.org/resource/1965_NBA_draft"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/The_Edge_of_Night",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/General_Hospital",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/Days_of_Our_Lives",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/The_Young_and_the_Restless",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/Days_of_Our_Lives",
+            "http://dbpedia.org/resource/NBC"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beeson_Covered_Bridge",
+            "http://dbpedia.org/resource/Marshall,_Indiana",
+            "http://dbpedia.org/resource/Parke_County,_Indiana",
+            "http://dbpedia.org/resource/Covered_bridge"
+        ]
+    ]
+}

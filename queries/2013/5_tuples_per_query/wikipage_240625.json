@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bruce_Barclay",
+            "http://dbpedia.org/resource/New_Zealand_Labour_Party",
+            "http://dbpedia.org/resource/Christchurch_Central"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Birch",
+            "http://dbpedia.org/resource/New_Zealand_National_Party",
+            "http://dbpedia.org/resource/Rangiriri"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_MacDonell",
+            "http://dbpedia.org/resource/New_Zealand_Labour_Party",
+            "http://dbpedia.org/resource/Dunedin_Central"
+        ],
+        [
+            "http://dbpedia.org/resource/Winston_Peters",
+            "http://dbpedia.org/resource/New_Zealand_National_Party",
+            "http://dbpedia.org/resource/Hunua"
+        ],
+        [
+            "http://dbpedia.org/resource/Matiu_Rata",
+            "http://dbpedia.org/resource/New_Zealand_Labour_Party",
+            "http://dbpedia.org/resource/Northern_Maori"
+        ]
+    ]
+}

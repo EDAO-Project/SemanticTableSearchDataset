@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Corunna_High_School",
+            "http://dbpedia.org/resource/Corunna,_Michigan",
+            "http://dbpedia.org/resource/Shiawassee_County,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/DeWitt_Public_Schools",
+            "http://dbpedia.org/resource/DeWitt,_Michigan",
+            "http://dbpedia.org/resource/Clinton_County,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Lansing_High_School",
+            "http://dbpedia.org/resource/East_Lansing,_Michigan",
+            "http://dbpedia.org/resource/Ingham_County,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Haslett_High_School",
+            "http://dbpedia.org/resource/Haslett,_Michigan",
+            "http://dbpedia.org/resource/Ingham_County,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/J._W._Sexton_High_School",
+            "http://dbpedia.org/resource/Lansing,_Michigan",
+            "http://dbpedia.org/resource/Ingham_County,_Michigan"
+        ]
+    ]
+}

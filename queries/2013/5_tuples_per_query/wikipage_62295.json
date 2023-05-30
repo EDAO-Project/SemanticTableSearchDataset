@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gary_Player",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/1962_PGA_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Sam_Snead",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1942_PGA_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Dow_Finsterwald",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1958_PGA_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Jay_Hebert",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1960_PGA_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Marr",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1965_PGA_Championship"
+        ]
+    ]
+}

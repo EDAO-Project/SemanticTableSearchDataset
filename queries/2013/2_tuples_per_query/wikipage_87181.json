@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Yadier_Molina",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Bryan_LaHair",
+            "http://dbpedia.org/resource/Chicago_Cubs"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arnold_Engineering_Development_Complex",
+            "http://dbpedia.org/resource/Coffee_County,_Tennessee",
+            "http://dbpedia.org/resource/Polychlorinated_biphenyl"
+        ],
+        [
+            "http://dbpedia.org/resource/Carrier_Corporation",
+            "http://dbpedia.org/resource/Shelby_County,_Tennessee",
+            "http://dbpedia.org/resource/Trichloroethylene"
+        ]
+    ]
+}

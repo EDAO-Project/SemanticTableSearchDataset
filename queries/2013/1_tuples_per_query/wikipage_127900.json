@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Memphis_Redbirds",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Pacific_Coast_League"
+        ]
+    ]
+}

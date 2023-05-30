@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buenos_Aires",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Estadio_Monumental_Antonio_Vespucio_Liberti"
+        ],
+        [
+            "http://dbpedia.org/resource/Porto_Alegre",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Gigantinho"
+        ],
+        [
+            "http://dbpedia.org/resource/Rio_de_Janeiro",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/HSBC_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Perth",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Perth_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Adelaide",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Adelaide_500"
+        ]
+    ]
+}

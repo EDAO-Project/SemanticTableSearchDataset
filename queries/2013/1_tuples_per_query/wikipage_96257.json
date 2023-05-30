@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Crazy_in_Love",
+            "http://dbpedia.org/resource/Jay_Z",
+            "http://dbpedia.org/resource/Jake_Nava"
+        ]
+    ]
+}

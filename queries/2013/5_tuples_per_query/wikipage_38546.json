@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Egypt",
+            "http://dbpedia.org/resource/Cairo",
+            "http://dbpedia.org/resource/Cairo_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Frankfurt_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Nairobi",
+            "http://dbpedia.org/resource/Jomo_Kenyatta_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Doha",
+            "http://dbpedia.org/resource/Doha_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Saudi_Arabia",
+            "http://dbpedia.org/resource/Jeddah",
+            "http://dbpedia.org/resource/King_Abdulaziz_International_Airport"
+        ]
+    ]
+}

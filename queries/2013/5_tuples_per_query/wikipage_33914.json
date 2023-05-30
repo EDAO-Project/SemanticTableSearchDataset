@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Black_Hole_Recordings",
+            "http://dbpedia.org/resource/Compact_disc"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Black_Hole_Recordings",
+            "http://dbpedia.org/resource/Gramophone_record"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Black_Hole_Recordings",
+            "http://dbpedia.org/resource/Compact_disc"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Black_Hole_Recordings",
+            "http://dbpedia.org/resource/Gramophone_record"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Black_Hole_Recordings",
+            "http://dbpedia.org/resource/Gramophone_record"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rad_Mobile",
+            "http://dbpedia.org/resource/Sega_AM2",
+            "http://dbpedia.org/resource/Racing_video_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Radikal_Bikers",
+            "http://dbpedia.org/resource/Gaelco",
+            "http://dbpedia.org/resource/Racing_video_game"
+        ]
+    ]
+}

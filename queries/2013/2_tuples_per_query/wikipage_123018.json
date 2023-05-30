@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hangman_Jury",
+            "http://dbpedia.org/resource/Aerosmith",
+            "http://dbpedia.org/resource/Steven_Tyler"
+        ],
+        [
+            "http://dbpedia.org/resource/Leave_a_Tender_Moment_Alone",
+            "http://dbpedia.org/resource/Billy_Joel",
+            "http://dbpedia.org/resource/Toots_Thielemans"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_in_film",
+            "http://dbpedia.org/resource/Lethal_Weapon",
+            "http://dbpedia.org/resource/Richard_Donner"
+        ]
+    ]
+}

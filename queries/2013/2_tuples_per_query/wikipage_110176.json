@@ -1,0 +1,19 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Selvam_Adaikalanathan",
+            "http://dbpedia.org/resource/Vanni_Electoral_District",
+            "http://dbpedia.org/resource/Tamil_Eelam_Liberation_Organization",
+            "http://dbpedia.org/resource/Tamil_National_Alliance",
+            "http://dbpedia.org/resource/Tamil_Eelam_Liberation_Organization",
+            "http://dbpedia.org/resource/Tamil_National_Alliance"
+        ],
+        [
+            "http://dbpedia.org/resource/D._M._Jayaratne",
+            "http://dbpedia.org/resource/National_List_Member_of_Parliament",
+            "http://dbpedia.org/resource/Sri_Lanka_Freedom_Party",
+            "http://dbpedia.org/resource/Sri_Lanka_Freedom_Party",
+            "http://dbpedia.org/resource/Prime_Minister_of_Sri_Lanka"
+        ]
+    ]
+}

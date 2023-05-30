@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/European_Agency_for_Safety_and_Health_at_Work",
+            "http://dbpedia.org/resource/Bilbao",
+            "http://dbpedia.org/resource/Lists_of_member_states_of_the_European_Union"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Romance_of_the_Three_Kingdoms_III:_Dragon_of_Destiny",
+            "http://dbpedia.org/resource/Koei",
+            "http://dbpedia.org/resource/Romance_of_the_Three_Kingdoms_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire",
+            "http://dbpedia.org/resource/Koei",
+            "http://dbpedia.org/resource/Romance_of_the_Three_Kingdoms_III:_Dragon_of_Destiny"
+        ],
+        [
+            "http://dbpedia.org/resource/Sangokushi_V",
+            "http://dbpedia.org/resource/Koei",
+            "http://dbpedia.org/resource/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire"
+        ],
+        [
+            "http://dbpedia.org/resource/Romance_of_the_Three_Kingdoms_VI:_Awakening_of_the_Dragon",
+            "http://dbpedia.org/resource/Koei",
+            "http://dbpedia.org/resource/Sangokushi_V"
+        ],
+        [
+            "http://dbpedia.org/resource/Romance_of_the_Three_Kingdoms_VII",
+            "http://dbpedia.org/resource/Koei",
+            "http://dbpedia.org/resource/Romance_of_the_Three_Kingdoms_VI:_Awakening_of_the_Dragon"
+        ]
+    ]
+}

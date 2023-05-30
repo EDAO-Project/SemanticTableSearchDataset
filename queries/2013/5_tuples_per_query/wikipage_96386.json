@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_K_League_Championship",
+            "http://dbpedia.org/resource/Busan_IPark",
+            "http://dbpedia.org/resource/Jeju_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_K_League_Championship",
+            "http://dbpedia.org/resource/Pohang_Steelers",
+            "http://dbpedia.org/resource/FC_Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_K_League_Championship",
+            "http://dbpedia.org/resource/Seongnam_FC",
+            "http://dbpedia.org/resource/Pohang_Steelers"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_K_League_Championship",
+            "http://dbpedia.org/resource/Ulsan_Hyundai_FC",
+            "http://dbpedia.org/resource/Suwon_Samsung_Bluewings"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_K_League_Championship",
+            "http://dbpedia.org/resource/Suwon_Samsung_Bluewings",
+            "http://dbpedia.org/resource/Ulsan_Hyundai_FC"
+        ]
+    ]
+}

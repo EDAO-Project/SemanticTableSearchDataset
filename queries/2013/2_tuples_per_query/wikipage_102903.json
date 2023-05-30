@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sadr_al-Din_bin_Saleh",
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Iraq"
+        ],
+        [
+            "http://dbpedia.org/resource/Sheikh_Fazlollah_Noori",
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Iraq",
+            "http://dbpedia.org/resource/Iran"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kimi_ni_Todoke",
+            "http://dbpedia.org/resource/Karuho_Shiina",
+            "http://dbpedia.org/resource/Shueisha"
+        ],
+        [
+            "http://dbpedia.org/resource/Kimi_ni_Todoke",
+            "http://dbpedia.org/resource/Karuho_Shiina",
+            "http://dbpedia.org/resource/Shueisha"
+        ]
+    ]
+}

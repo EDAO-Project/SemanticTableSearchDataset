@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battle_of_Britain_Memorial_Flight",
+            "http://dbpedia.org/resource/Coningsby",
+            "http://dbpedia.org/resource/East_Lindsey",
+            "http://dbpedia.org/resource/World_War_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Belton_House",
+            "http://dbpedia.org/resource/Belton,_Lincolnshire",
+            "http://dbpedia.org/resource/South_Kesteven",
+            "http://dbpedia.org/resource/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty"
+        ]
+    ]
+}

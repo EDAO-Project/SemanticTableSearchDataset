@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fukuoka_SoftBank_Hawks",
+            "http://dbpedia.org/resource/D._J._Houlton",
+            "http://dbpedia.org/resource/Yoshinori_Tateyama",
+            "http://dbpedia.org/resource/Takahiro_Mahara"
+        ],
+        [
+            "http://dbpedia.org/resource/Saitama_Seibu_Lions",
+            "http://dbpedia.org/resource/Kazuhisa_Ishii",
+            "http://dbpedia.org/resource/Kazumasa_Kikuchi",
+            "http://dbpedia.org/resource/Chikara_Onodera"
+        ]
+    ]
+}

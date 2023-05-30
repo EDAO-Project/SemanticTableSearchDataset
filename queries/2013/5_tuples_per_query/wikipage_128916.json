@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Happily_Divorced",
+            "http://dbpedia.org/resource/TV_Land",
+            "http://dbpedia.org/resource/John_Michael_Higgins",
+            "http://dbpedia.org/resource/Coming_out"
+        ],
+        [
+            "http://dbpedia.org/resource/Running_Wilde",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company",
+            "http://dbpedia.org/resource/Robert_Michael_Morris",
+            "http://dbpedia.org/resource/Will_Arnett"
+        ],
+        [
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company",
+            "http://dbpedia.org/resource/Kurt_Hummel",
+            "http://dbpedia.org/resource/Chris_Colfer",
+            "http://dbpedia.org/resource/Preggers"
+        ],
+        [
+            "http://dbpedia.org/resource/Sordid_Lives:_The_Series",
+            "http://dbpedia.org/resource/Logo_TV",
+            "http://dbpedia.org/resource/Leslie_Jordan",
+            "http://dbpedia.org/resource/Tammy_Wynette"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Sarah_Silverman_Program",
+            "http://dbpedia.org/resource/Comedy_Central",
+            "http://dbpedia.org/resource/Brian_Posehn",
+            "http://dbpedia.org/resource/Sarah_Silverman"
+        ]
+    ]
+}

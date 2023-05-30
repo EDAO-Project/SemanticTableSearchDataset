@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Western_College",
+            "http://dbpedia.org/resource/Yuma,_Arizona",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Western_States_Football_League"
+        ]
+    ]
+}

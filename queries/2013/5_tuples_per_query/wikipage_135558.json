@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_Tejano_Music_Awards",
+            "http://dbpedia.org/resource/Selena",
+            "http://dbpedia.org/resource/Mexican_American"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Tejano_Music_Awards",
+            "http://dbpedia.org/resource/Selena",
+            "http://dbpedia.org/resource/Mexican_American"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Tejano_Music_Awards",
+            "http://dbpedia.org/resource/Selena",
+            "http://dbpedia.org/resource/Mexican_American"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_Tejano_Music_Awards",
+            "http://dbpedia.org/resource/Selena",
+            "http://dbpedia.org/resource/Mexican_American"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_Tejano_Music_Awards",
+            "http://dbpedia.org/resource/Selena",
+            "http://dbpedia.org/resource/Mexican_American"
+        ]
+    ]
+}

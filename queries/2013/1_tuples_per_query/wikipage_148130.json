@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Compact_disc",
+            "http://dbpedia.org/resource/Sony_Music_Entertainment"
+        ]
+    ]
+}

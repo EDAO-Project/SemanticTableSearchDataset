@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aloha_High_School",
+            "http://dbpedia.org/resource/Aloha,_Oregon",
+            "http://dbpedia.org/resource/Beaverton_School_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Weston-McEwen_High_School",
+            "http://dbpedia.org/resource/Athena,_Oregon",
+            "http://dbpedia.org/resource/Athena_Weston_School_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Bend_Senior_High_School",
+            "http://dbpedia.org/resource/Bend,_Oregon",
+            "http://dbpedia.org/resource/Bend-La_Pine_School_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonanza_Jr./Sr._High_School",
+            "http://dbpedia.org/resource/Bonanza,_Oregon",
+            "http://dbpedia.org/resource/Klamath_County_School_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Canby_High_School",
+            "http://dbpedia.org/resource/Canby,_Oregon",
+            "http://dbpedia.org/resource/Canby_School_District"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Graham_Hill",
+            "http://dbpedia.org/resource/Brabham",
+            "http://dbpedia.org/resource/Cosworth"
+        ]
+    ]
+}

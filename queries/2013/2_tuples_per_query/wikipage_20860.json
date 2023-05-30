@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_California",
+            "http://dbpedia.org/resource/Samuel_M._Shortridge",
+            "http://dbpedia.org/resource/William_Gibbs_McAdoo"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Colorado",
+            "http://dbpedia.org/resource/Walter_Walker",
+            "http://dbpedia.org/resource/Karl_C._Schuyler"
+        ]
+    ]
+}

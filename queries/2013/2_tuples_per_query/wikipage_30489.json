@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Namig_Abdullayev",
+            "http://dbpedia.org/resource/1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Wrestling_at_the_1996_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Zemfira_Meftahatdinova",
+            "http://dbpedia.org/resource/2000_Summer_Olympics",
+            "http://dbpedia.org/resource/Shooting_at_the_2000_Summer_Olympics"
+        ]
+    ]
+}

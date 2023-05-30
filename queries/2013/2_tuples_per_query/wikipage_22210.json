@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tokyo_Gaikan_Expressway",
+            "http://dbpedia.org/resource/Setagaya",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Tama_River",
+            "http://dbpedia.org/resource/Setagaya",
+            "http://dbpedia.org/resource/Tokyo"
+        ]
+    ]
+}

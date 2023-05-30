@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Butcher,_the_Chef_and_the_Swordsman",
+            "http://dbpedia.org/resource/Wuershan",
+            "http://dbpedia.org/resource/Masanobu_Ando"
+        ],
+        [
+            "http://dbpedia.org/resource/Chongqing_Blues",
+            "http://dbpedia.org/resource/Wang_Xiaoshuai",
+            "http://dbpedia.org/resource/2010_Cannes_Film_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Curse_of_the_Deserted",
+            "http://dbpedia.org/resource/Law_Chi-leung",
+            "http://dbpedia.org/resource/Zhang_Yuqi"
+        ],
+        [
+            "http://dbpedia.org/resource/Detective_Dee_and_the_Mystery_of_the_Phantom_Flame",
+            "http://dbpedia.org/resource/Tsui_Hark",
+            "http://dbpedia.org/resource/Andy_Lau"
+        ],
+        [
+            "http://dbpedia.org/resource/Flirting_Scholar_2",
+            "http://dbpedia.org/resource/Lee_Lik-chi",
+            "http://dbpedia.org/resource/Huang_Xiaoming"
+        ]
+    ]
+}

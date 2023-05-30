@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mathieu_Garon",
+            "http://dbpedia.org/resource/Tampa_Bay_Lightning",
+            "http://dbpedia.org/resource/Columbus_Blue_Jackets"
+        ]
+    ]
+}

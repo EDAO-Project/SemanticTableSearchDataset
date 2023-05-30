@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Theodo_of_Bavaria",
+            "http://dbpedia.org/resource/Agilolfings",
+            "http://dbpedia.org/resource/Grimoald_of_Bavaria"
+        ],
+        [
+            "http://dbpedia.org/resource/Theodbert_of_Bavaria",
+            "http://dbpedia.org/resource/Agilolfings",
+            "http://dbpedia.org/resource/Salzburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Tassilo_II_of_Bavaria",
+            "http://dbpedia.org/resource/Agilolfings",
+            "http://dbpedia.org/resource/Passau"
+        ],
+        [
+            "http://dbpedia.org/resource/Grimoald_of_Bavaria",
+            "http://dbpedia.org/resource/Agilolfings",
+            "http://dbpedia.org/resource/Freising"
+        ],
+        [
+            "http://dbpedia.org/resource/Hugbert_of_Bavaria",
+            "http://dbpedia.org/resource/Agilolfings",
+            "http://dbpedia.org/resource/Charles_Martel"
+        ]
+    ]
+}

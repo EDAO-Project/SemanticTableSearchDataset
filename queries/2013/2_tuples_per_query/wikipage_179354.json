@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chris_Matthews",
+            "http://dbpedia.org/resource/Sam_Donaldson",
+            "http://dbpedia.org/resource/John_F._Kennedy"
+        ],
+        [
+            "http://dbpedia.org/resource/Deborah_Scroggins",
+            "http://dbpedia.org/resource/Akbar_S._Ahmed",
+            "http://dbpedia.org/resource/Ayaan_Hirsi_Ali"
+        ]
+    ]
+}

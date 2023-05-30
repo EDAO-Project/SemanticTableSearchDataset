@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seattle_Mariners",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Major_League_Baseball",
+            "http://dbpedia.org/resource/Safeco_Field"
+        ]
+    ]
+}

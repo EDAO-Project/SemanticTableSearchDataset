@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_LPGA_Tour",
+            "http://dbpedia.org/resource/Yani_Tseng",
+            "http://dbpedia.org/resource/Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_LPGA_Tour",
+            "http://dbpedia.org/resource/Cristie_Kerr",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

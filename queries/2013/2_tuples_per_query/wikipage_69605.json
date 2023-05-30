@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antonio_Fassina",
+            "http://dbpedia.org/resource/Lancia_Stratos",
+            "http://dbpedia.org/resource/European_Rally_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Fassina",
+            "http://dbpedia.org/resource/Opel_Ascona",
+            "http://dbpedia.org/resource/European_Rally_Championship"
+        ]
+    ]
+}

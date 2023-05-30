@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jammi_German",
+            "http://dbpedia.org/resource/Fort_Myers_Senior_High_School",
+            "http://dbpedia.org/resource/University_of_Miami",
+            "http://dbpedia.org/resource/Atlanta_Falcons"
+        ]
+    ]
+}

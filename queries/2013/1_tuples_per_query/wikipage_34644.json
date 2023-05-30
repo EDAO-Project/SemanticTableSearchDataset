@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Bronx",
+            "http://dbpedia.org/resource/Williamsbridge,_Bronx",
+            "http://dbpedia.org/resource/Gun_Hill_Road"
+        ]
+    ]
+}

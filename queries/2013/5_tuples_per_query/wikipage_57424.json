@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ernst_Fast",
+            "http://dbpedia.org/resource/1900_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1900_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Hjalmar_Johansson",
+            "http://dbpedia.org/resource/1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Diving_at_the_1908_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ulrich_Salchow",
+            "http://dbpedia.org/resource/1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Figure_skating_at_the_1908_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Oscar_Swahn",
+            "http://dbpedia.org/resource/1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Shooting_at_the_1908_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Eric_Lemming",
+            "http://dbpedia.org/resource/1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1908_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ricardo_Zamora",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/RCD_Espanyol"
+        ]
+    ]
+}

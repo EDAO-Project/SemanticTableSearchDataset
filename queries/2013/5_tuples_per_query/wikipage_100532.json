@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darashaw_Nosherwan_Wadia",
+            "http://dbpedia.org/resource/Maharashtra",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuvempu",
+            "http://dbpedia.org/resource/Karnataka",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Rustom_Jal_Vakil",
+            "http://dbpedia.org/resource/Maharashtra",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Vijay_Anand",
+            "http://dbpedia.org/resource/Uttar_Pradesh",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Ariyakudi_Ramanuja_Iyengar",
+            "http://dbpedia.org/resource/Tamil_Nadu",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

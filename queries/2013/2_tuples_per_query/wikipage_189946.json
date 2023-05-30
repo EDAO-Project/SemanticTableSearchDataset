@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Isle_of_Man",
+            "http://dbpedia.org/resource/Outer_Hebrides",
+            "http://dbpedia.org/resource/Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Outer_Hebrides",
+            "http://dbpedia.org/resource/Jersey",
+            "http://dbpedia.org/resource/Bermuda"
+        ]
+    ]
+}

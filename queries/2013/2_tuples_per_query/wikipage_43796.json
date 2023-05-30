@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Swinburne_University_of_Technology",
+            "http://dbpedia.org/resource/Melbourne"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Chinese_University_of_Hong_Kong",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ]
+    ]
+}

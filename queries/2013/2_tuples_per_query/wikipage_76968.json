@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birch_services",
+            "http://dbpedia.org/resource/Moto_Hospitality",
+            "http://dbpedia.org/resource/M62_motorway",
+            "http://dbpedia.org/resource/Lancashire"
+        ],
+        [
+            "http://dbpedia.org/resource/Birchanger_Green_services",
+            "http://dbpedia.org/resource/Welcome_Break",
+            "http://dbpedia.org/resource/M11_motorway",
+            "http://dbpedia.org/resource/Essex"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/West_Zone_cricket_team",
+            "http://dbpedia.org/resource/South_Zone_cricket_team",
+            "http://dbpedia.org/resource/Brabourne_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Zone_cricket_team",
+            "http://dbpedia.org/resource/South_Zone_cricket_team",
+            "http://dbpedia.org/resource/Eden_Gardens"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Zone_cricket_team",
+            "http://dbpedia.org/resource/Central_Zone_cricket_team",
+            "http://dbpedia.org/resource/Brabourne_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Zone_cricket_team",
+            "http://dbpedia.org/resource/Central_Zone_cricket_team",
+            "http://dbpedia.org/resource/M._A._Chidambaram_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Zone_cricket_team",
+            "http://dbpedia.org/resource/West_Zone_cricket_team",
+            "http://dbpedia.org/resource/Brabourne_Stadium"
+        ]
+    ]
+}

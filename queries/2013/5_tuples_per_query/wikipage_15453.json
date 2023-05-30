@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stadium_Australia",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Australia_national_soccer_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Lang_Park",
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/Brisbane_Roar_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Sydney_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_International_Sports_Centre",
+            "http://dbpedia.org/resource/Newcastle,_New_South_Wales",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Newcastle_Jets_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Robina_Stadium",
+            "http://dbpedia.org/resource/Gold_Coast,_Queensland",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/Gold_Coast_United_FC"
+        ]
+    ]
+}

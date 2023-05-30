@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/O2_Academy_Birmingham"
+        ]
+    ]
+}

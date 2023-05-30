@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Delmarva_Shorebirds",
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Salisbury,_Maryland",
+            "http://dbpedia.org/resource/Arthur_W._Perdue_Stadium"
+        ]
+    ]
+}

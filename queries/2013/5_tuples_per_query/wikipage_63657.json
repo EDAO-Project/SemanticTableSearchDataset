@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Melinda_Heffernan",
+            "http://dbpedia.org/resource/Cremorne,_New_South_Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Larissa_Ramos",
+            "http://dbpedia.org/resource/Manaus"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Lateesha_Ector",
+            "http://dbpedia.org/resource/Pierrefonds"
+        ],
+        [
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/Jamillette_Gaxiola",
+            "http://dbpedia.org/resource/Havana"
+        ],
+        [
+            "http://dbpedia.org/resource/Guam",
+            "http://dbpedia.org/resource/Luisa_Santos",
+            "http://dbpedia.org/resource/Dededo"
+        ]
+    ]
+}

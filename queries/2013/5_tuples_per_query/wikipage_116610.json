@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kombank_Arena",
+            "http://dbpedia.org/resource/KK_Partizan",
+            "http://dbpedia.org/resource/Belgrade",
+            "http://dbpedia.org/resource/Serbia"
+        ],
+        [
+            "http://dbpedia.org/resource/Saitama_Super_Arena",
+            "http://dbpedia.org/resource/Saitama_Broncos",
+            "http://dbpedia.org/resource/Saitama,_Saitama",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Palace_of_Auburn_Hills",
+            "http://dbpedia.org/resource/Detroit_Pistons",
+            "http://dbpedia.org/resource/Auburn_Hills,_Michigan",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Smart_Araneta_Coliseum",
+            "http://dbpedia.org/resource/Philippine_Basketball_Association",
+            "http://dbpedia.org/resource/Quezon_City",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Center",
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

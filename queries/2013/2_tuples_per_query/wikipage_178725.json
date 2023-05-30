@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Sony_Open_Tennis",
+            "http://dbpedia.org/resource/Andy_Murray",
+            "http://dbpedia.org/resource/David_Ferrer"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Monte-Carlo_Rolex_Masters",
+            "http://dbpedia.org/resource/Novak_Djokovic",
+            "http://dbpedia.org/resource/Rafael_Nadal"
+        ]
+    ]
+}

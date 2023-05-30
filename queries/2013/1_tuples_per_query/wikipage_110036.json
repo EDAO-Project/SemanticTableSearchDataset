@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Assateague_State_Park",
+            "http://dbpedia.org/resource/Worcester_County,_Maryland",
+            "http://dbpedia.org/resource/Barrier_island"
+        ]
+    ]
+}

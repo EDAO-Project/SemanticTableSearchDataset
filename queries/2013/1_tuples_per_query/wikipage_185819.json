@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Lee_Wai_Lim",
+            "http://dbpedia.org/resource/Tai_Po_FC"
+        ]
+    ]
+}

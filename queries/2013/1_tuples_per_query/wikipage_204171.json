@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Epinephrine",
+            "http://dbpedia.org/resource/Beta-2_adrenergic_receptor",
+            "http://dbpedia.org/resource/Gs_alpha_subunit"
+        ]
+    ]
+}

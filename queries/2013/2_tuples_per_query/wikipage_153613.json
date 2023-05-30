@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/Nigerian_naira",
+            "http://dbpedia.org/resource/Nigerian_naira"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuwait",
+            "http://dbpedia.org/resource/Nigerian_naira",
+            "http://dbpedia.org/resource/Nigerian_naira"
+        ]
+    ]
+}

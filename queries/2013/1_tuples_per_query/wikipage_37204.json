@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/County_Armagh",
+            "http://dbpedia.org/resource/Orchard",
+            "http://dbpedia.org/resource/Armagh"
+        ]
+    ]
+}

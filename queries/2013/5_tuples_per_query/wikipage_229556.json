@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arkansas_Tech_University",
+            "http://dbpedia.org/resource/Russellville,_Arkansas",
+            "http://dbpedia.org/resource/Arkansas_Tech_Wonder_Boys",
+            "http://dbpedia.org/resource/Great_American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Central_Arkansas",
+            "http://dbpedia.org/resource/Conway,_Arkansas",
+            "http://dbpedia.org/resource/Central_Arkansas_Bears_and_Sugar_Bears",
+            "http://dbpedia.org/resource/Southland_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Harding_University",
+            "http://dbpedia.org/resource/Searcy,_Arkansas",
+            "http://dbpedia.org/resource/Harding_Bisons",
+            "http://dbpedia.org/resource/Great_American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Henderson_State_University",
+            "http://dbpedia.org/resource/Arkadelphia,_Arkansas",
+            "http://dbpedia.org/resource/Henderson_State_Reddies",
+            "http://dbpedia.org/resource/Great_American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacksonville_State_University",
+            "http://dbpedia.org/resource/Jacksonville,_Alabama",
+            "http://dbpedia.org/resource/Jacksonville_State_Gamecocks",
+            "http://dbpedia.org/resource/Ohio_Valley_Conference"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_WNBA_season",
+            "http://dbpedia.org/resource/Lisa_Leslie",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_WNBA_season",
+            "http://dbpedia.org/resource/Lisa_Leslie",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/29th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Steel_Pulse",
+            "http://dbpedia.org/resource/Babylon_the_Bandit",
+            "http://dbpedia.org/resource/Black_Uhuru"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Lee_Wai_Lim",
+            "http://dbpedia.org/resource/Tai_Po_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Aender_Naves_Mesquita",
+            "http://dbpedia.org/resource/Tai_Po_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Chan_Siu_Kwan",
+            "http://dbpedia.org/resource/Dreams_Metro_Gallery_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Lee_Hong_Lim",
+            "http://dbpedia.org/resource/Hong_Kong_Pegasus_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Michael_Luk",
+            "http://dbpedia.org/resource/Sun_Hei_SC"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arena_Joondalup",
+            "http://dbpedia.org/resource/Joondalup",
+            "http://dbpedia.org/resource/West_Perth_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Bassendean_Oval",
+            "http://dbpedia.org/resource/Bassendean,_Western_Australia",
+            "http://dbpedia.org/resource/Swan_Districts_Football_Club"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Fort_Wayne_Summer_Cash_Spiel",
+            "http://dbpedia.org/resource/Wang_Bingyu",
+            "http://dbpedia.org/resource/Jiang_Yilun"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Stu_Sells_Oakville_Tankard",
+            "http://dbpedia.org/resource/Sherry_Middaugh",
+            "http://dbpedia.org/resource/Cathy_Auld"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Denham_Hospitality_Summer_Classic",
+            "http://dbpedia.org/resource/Wang_Bingyu",
+            "http://dbpedia.org/resource/Valerie_Sweeting"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_The_Shoot-Out",
+            "http://dbpedia.org/resource/Crystal_Webster",
+            "http://dbpedia.org/resource/Chantelle_Eberle"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_AMJ_Campbell_Shorty_Jenkins_Classic",
+            "http://dbpedia.org/resource/Mirjam_Ott",
+            "http://dbpedia.org/resource/Rachel_Homan"
+        ]
+    ]
+}

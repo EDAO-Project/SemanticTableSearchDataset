@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_crocodile",
+            "http://dbpedia.org/resource/Caribbean_Basin",
+            "http://dbpedia.org/resource/Brackish_water"
+        ],
+        [
+            "http://dbpedia.org/resource/Slender-snouted_crocodile",
+            "http://dbpedia.org/resource/Central_Africa",
+            "http://dbpedia.org/resource/Fresh_water"
+        ],
+        [
+            "http://dbpedia.org/resource/Orinoco_crocodile",
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/Orinoco"
+        ],
+        [
+            "http://dbpedia.org/resource/Freshwater_crocodile",
+            "http://dbpedia.org/resource/Northern_Australia",
+            "http://dbpedia.org/resource/River"
+        ],
+        [
+            "http://dbpedia.org/resource/Philippine_crocodile",
+            "http://dbpedia.org/resource/Endemism",
+            "http://dbpedia.org/resource/Fresh_water"
+        ]
+    ]
+}

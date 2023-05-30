@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_Torneo_di_Viareggio",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/S.S._Lazio"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_Torneo_di_Viareggio",
+            "http://dbpedia.org/resource/U.C._Sampdoria",
+            "http://dbpedia.org/resource/A.S._Roma"
+        ]
+    ]
+}

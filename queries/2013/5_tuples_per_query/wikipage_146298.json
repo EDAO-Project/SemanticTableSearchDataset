@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auteuil,_Yvelines",
+            "http://dbpedia.org/resource/Autouillet",
+            "http://dbpedia.org/resource/Bazoches-sur-Guyonne"
+        ],
+        [
+            "http://dbpedia.org/resource/Beynes,_Yvelines",
+            "http://dbpedia.org/resource/Boinville-le-Gaillard",
+            "http://dbpedia.org/resource/Boissy-sans-Avoir"
+        ],
+        [
+            "http://dbpedia.org/resource/Cernay-la-Ville",
+            "http://dbpedia.org/resource/Chevreuse",
+            "http://dbpedia.org/resource/Choisel"
+        ],
+        [
+            "http://dbpedia.org/resource/Flexanville",
+            "http://dbpedia.org/resource/Galluis",
+            "http://dbpedia.org/resource/Gambaiseuil"
+        ],
+        [
+            "http://dbpedia.org/resource/Grosrouvre",
+            "http://dbpedia.org/resource/Hermeray",
+            "http://dbpedia.org/resource/Jouars-Pontchartrain"
+        ]
+    ]
+}

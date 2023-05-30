@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jack_Brabham",
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Brabham"
+        ]
+    ]
+}

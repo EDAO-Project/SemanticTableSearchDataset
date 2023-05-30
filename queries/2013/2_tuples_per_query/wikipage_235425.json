@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agios_Efstratios",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Saint_Eustratius"
+        ],
+        [
+            "http://dbpedia.org/resource/Alejandro_Selkirk_Island",
+            "http://dbpedia.org/resource/Chile",
+            "http://dbpedia.org/resource/Alexander_Selkirk"
+        ]
+    ]
+}

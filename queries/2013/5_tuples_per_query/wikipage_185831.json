@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dwayne_Allen",
+            "http://dbpedia.org/resource/2011_Clemson_Tigers_football_team",
+            "http://dbpedia.org/resource/2012_Indianapolis_Colts_season",
+            "http://dbpedia.org/resource/2012_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Justin_Blackmon",
+            "http://dbpedia.org/resource/2011_Oklahoma_State_Cowboys_football_team",
+            "http://dbpedia.org/resource/2012_Jacksonville_Jaguars_season",
+            "http://dbpedia.org/resource/2012_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Brockers",
+            "http://dbpedia.org/resource/2011_LSU_Tigers_football_team",
+            "http://dbpedia.org/resource/2012_St._Louis_Rams_season",
+            "http://dbpedia.org/resource/2012_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Bryce_Brown",
+            "http://dbpedia.org/resource/2011_Kansas_State_Wildcats_football_team",
+            "http://dbpedia.org/resource/2012_Philadelphia_Eagles_season",
+            "http://dbpedia.org/resource/2012_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Orson_Charles",
+            "http://dbpedia.org/resource/2011_Georgia_Bulldogs_football_team",
+            "http://dbpedia.org/resource/2012_Cincinnati_Bengals_season",
+            "http://dbpedia.org/resource/2012_NFL_draft"
+        ]
+    ]
+}

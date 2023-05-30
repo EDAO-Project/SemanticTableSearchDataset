@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lille",
+            "http://dbpedia.org/resource/Kenny_de_Schepper",
+            "http://dbpedia.org/resource/Romain_Jouan",
+            "http://dbpedia.org/resource/Christophe_Rochus",
+            "http://dbpedia.org/resource/Boy_Westerhof"
+        ]
+    ]
+}

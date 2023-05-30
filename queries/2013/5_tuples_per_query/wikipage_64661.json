@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fidel_Castro",
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/First_Secretary_of_the_Communist_Party_of_Cuba"
+        ],
+        [
+            "http://dbpedia.org/resource/Omar_Bongo",
+            "http://dbpedia.org/resource/History_of_Gabon",
+            "http://dbpedia.org/resource/List_of_heads_of_state_of_Gabon"
+        ],
+        [
+            "http://dbpedia.org/resource/Francisco_Franco",
+            "http://dbpedia.org/resource/Francoist_Spain",
+            "http://dbpedia.org/resource/Caudillo"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Biya",
+            "http://dbpedia.org/resource/Cameroon",
+            "http://dbpedia.org/resource/Prime_Minister_of_Cameroon"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Abdelaziz",
+            "http://dbpedia.org/resource/Sahrawi_Arab_Democratic_Republic",
+            "http://dbpedia.org/resource/Polisario_Front"
+        ]
+    ]
+}

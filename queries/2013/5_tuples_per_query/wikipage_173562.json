@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stephen_Barnett",
+            "http://dbpedia.org/resource/Harvard_Law_School",
+            "http://dbpedia.org/resource/Henry_Friendly"
+        ],
+        [
+            "http://dbpedia.org/resource/Owen_M._Fiss",
+            "http://dbpedia.org/resource/Harvard_Law_School",
+            "http://dbpedia.org/resource/Thurgood_Marshall"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_L._Strauss",
+            "http://dbpedia.org/resource/Yale_Law_School",
+            "http://dbpedia.org/resource/David_L._Bazelon"
+        ],
+        [
+            "http://dbpedia.org/resource/Abraham_David_Sofaer",
+            "http://dbpedia.org/resource/New_York_University_School_of_Law",
+            "http://dbpedia.org/resource/J._Skelly_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/Raymond_C._Fisher",
+            "http://dbpedia.org/resource/Stanford_Law_School",
+            "http://dbpedia.org/resource/J._Skelly_Wright"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Japanese_pottery_and_porcelain",
+            "http://dbpedia.org/resource/Bizen_ware",
+            "http://dbpedia.org/resource/Ceramic_glaze",
+            "http://dbpedia.org/resource/Okayama_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Japanese_pottery_and_porcelain",
+            "http://dbpedia.org/resource/Hagi_ware",
+            "http://dbpedia.org/resource/Chawan",
+            "http://dbpedia.org/resource/Yamaguchi_Prefecture"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/America_East_Conference",
+            "http://dbpedia.org/resource/Tommy_Brenton",
+            "http://dbpedia.org/resource/Steve_Pikiell",
+            "http://dbpedia.org/resource/SEFCU_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic_10_Conference",
+            "http://dbpedia.org/resource/Khalif_Wyatt",
+            "http://dbpedia.org/resource/Jim_Crews",
+            "http://dbpedia.org/resource/Barclays_Center"
+        ]
+    ]
+}

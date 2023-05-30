@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aimargues",
+            "http://dbpedia.org/resource/Aramon,_Gard",
+            "http://dbpedia.org/resource/Argilliers",
+            "http://dbpedia.org/resource/Arpaillargues-et-Aureillac"
+        ],
+        [
+            "http://dbpedia.org/resource/Carsan",
+            "http://dbpedia.org/resource/Castillon-du-Gard",
+            "http://dbpedia.org/resource/Caveirac",
+            "http://dbpedia.org/resource/Cavillargues"
+        ],
+        [
+            "http://dbpedia.org/resource/Chusclan",
+            "http://dbpedia.org/resource/Clarensac",
+            "http://dbpedia.org/resource/Codognan",
+            "http://dbpedia.org/resource/Codolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Collias",
+            "http://dbpedia.org/resource/Collorgues",
+            "http://dbpedia.org/resource/Combas",
+            "http://dbpedia.org/resource/Comps,_Gard"
+        ],
+        [
+            "http://dbpedia.org/resource/Gallargues-le-Montueux",
+            "http://dbpedia.org/resource/Garons",
+            "http://dbpedia.org/resource/Garrigues-Sainte-Eulalie",
+            "http://dbpedia.org/resource/Gaujac,_Gard"
+        ]
+    ]
+}

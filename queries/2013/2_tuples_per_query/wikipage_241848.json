@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_McNairy",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_George_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/Morgan_Welles_Brown",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Andrew_Jackson"
+        ]
+    ]
+}

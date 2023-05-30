@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Suvarnabhumi_Airport",
+            "http://dbpedia.org/resource/Samut_Prakan_Province",
+            "http://dbpedia.org/resource/Bangkok"
+        ]
+    ]
+}

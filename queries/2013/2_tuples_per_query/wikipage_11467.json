@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bexar_County,_Texas",
+            "http://dbpedia.org/resource/San_Antonio",
+            "http://dbpedia.org/resource/San_Antonio_Missions_National_Historical_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Bexar_County,_Texas",
+            "http://dbpedia.org/resource/San_Antonio",
+            "http://dbpedia.org/resource/Alamodome"
+        ]
+    ]
+}

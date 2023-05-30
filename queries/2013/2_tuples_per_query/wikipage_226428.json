@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_Robertson_Aikman",
+            "http://dbpedia.org/resource/Bengal_Native_Infantry",
+            "http://dbpedia.org/resource/Amethi"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_Charles_Brennan",
+            "http://dbpedia.org/resource/Royal_Artillery",
+            "http://dbpedia.org/resource/Jhansi"
+        ]
+    ]
+}

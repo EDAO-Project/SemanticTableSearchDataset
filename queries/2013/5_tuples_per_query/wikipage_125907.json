@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sacramento_Kings",
+            "http://dbpedia.org/resource/Paul_Westphal",
+            "http://dbpedia.org/resource/Omaha_Civic_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_Pistons",
+            "http://dbpedia.org/resource/Alvan_Adams",
+            "http://dbpedia.org/resource/Cobo_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_Wizards",
+            "http://dbpedia.org/resource/Paul_Westphal",
+            "http://dbpedia.org/resource/Capital_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Knicks",
+            "http://dbpedia.org/resource/Paul_Westphal",
+            "http://dbpedia.org/resource/Madison_Square_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Hawks",
+            "http://dbpedia.org/resource/Paul_Westphal",
+            "http://dbpedia.org/resource/Omni_Coliseum"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Length",
+            "http://dbpedia.org/resource/Metre",
+            "http://dbpedia.org/resource/Centimetre"
+        ],
+        [
+            "http://dbpedia.org/resource/Mass",
+            "http://dbpedia.org/resource/Kilogram",
+            "http://dbpedia.org/resource/Gram"
+        ],
+        [
+            "http://dbpedia.org/resource/Temperature",
+            "http://dbpedia.org/resource/Kelvin",
+            "http://dbpedia.org/resource/Celsius"
+        ],
+        [
+            "http://dbpedia.org/resource/Area",
+            "http://dbpedia.org/resource/Square_metre",
+            "http://dbpedia.org/resource/Hectare"
+        ],
+        [
+            "http://dbpedia.org/resource/Energy",
+            "http://dbpedia.org/resource/Joule",
+            "http://dbpedia.org/resource/Erg"
+        ]
+    ]
+}

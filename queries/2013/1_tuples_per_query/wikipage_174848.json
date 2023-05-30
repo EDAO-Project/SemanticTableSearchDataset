@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Theo_Bos",
+            "http://dbpedia.org/resource/Teun_Mulder",
+            "http://dbpedia.org/resource/Tim_Veldt"
+        ]
+    ]
+}

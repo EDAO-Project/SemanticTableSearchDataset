@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WLGH",
+            "http://dbpedia.org/resource/Leroy_Township,_Michigan",
+            "http://dbpedia.org/resource/WLGH"
+        ],
+        [
+            "http://dbpedia.org/resource/WSMF",
+            "http://dbpedia.org/resource/Monroe,_Michigan",
+            "http://dbpedia.org/resource/WSMF"
+        ],
+        [
+            "http://dbpedia.org/resource/WHYT",
+            "http://dbpedia.org/resource/Goodland_Township,_Michigan",
+            "http://dbpedia.org/resource/WHYT"
+        ],
+        [
+            "http://dbpedia.org/resource/WSFP",
+            "http://dbpedia.org/resource/Harrisville,_Michigan",
+            "http://dbpedia.org/resource/WSFP"
+        ],
+        [
+            "http://dbpedia.org/resource/WEJC",
+            "http://dbpedia.org/resource/Hay_Township,_Michigan",
+            "http://dbpedia.org/resource/WEJC"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/7th_Academy_Awards",
+            "http://dbpedia.org/resource/It_Happened_One_Night",
+            "http://dbpedia.org/resource/Irvin_S._Cobb",
+            "http://dbpedia.org/resource/Millennium_Biltmore_Hotel"
+        ],
+        [
+            "http://dbpedia.org/resource/17th_Academy_Awards",
+            "http://dbpedia.org/resource/Going_My_Way",
+            "http://dbpedia.org/resource/Bob_Hope",
+            "http://dbpedia.org/resource/TCL_Chinese_Theatre"
+        ]
+    ]
+}

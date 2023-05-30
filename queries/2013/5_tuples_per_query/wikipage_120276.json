@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Casey,_Baron_Casey",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Robert_Menzies"
+        ],
+        [
+            "http://dbpedia.org/resource/Philip_McBride",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Robert_Menzies"
+        ],
+        [
+            "http://dbpedia.org/resource/George_McLeay",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Robert_Menzies"
+        ],
+        [
+            "http://dbpedia.org/resource/George_McLeay",
+            "http://dbpedia.org/resource/United_Australia_Party",
+            "http://dbpedia.org/resource/Arthur_Fadden"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Beasley",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/John_Curtin"
+        ]
+    ]
+}

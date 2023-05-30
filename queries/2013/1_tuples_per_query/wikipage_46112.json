@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ape_Escape",
+            "http://dbpedia.org/resource/PlayStation",
+            "http://dbpedia.org/resource/Platform_game"
+        ]
+    ]
+}

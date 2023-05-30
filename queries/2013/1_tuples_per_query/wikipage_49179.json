@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carlism",
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/Community_of_Madrid"
+        ]
+    ]
+}

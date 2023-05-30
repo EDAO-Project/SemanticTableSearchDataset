@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_Florida_Marlins_season",
+            "http://dbpedia.org/resource/Rheal_Cormier",
+            "http://dbpedia.org/resource/Dontrelle_Willis",
+            "http://dbpedia.org/resource/Tom_Gordon"
+        ]
+    ]
+}

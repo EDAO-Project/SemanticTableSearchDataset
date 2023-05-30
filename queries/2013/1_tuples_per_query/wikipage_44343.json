@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Top_Gun",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Tom_Cruise",
+            "http://dbpedia.org/resource/Tony_Scott"
+        ]
+    ]
+}

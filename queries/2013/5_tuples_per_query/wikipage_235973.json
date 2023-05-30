@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Monique_Currie",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Sky",
+            "http://dbpedia.org/resource/Charlotte_Sting"
+        ],
+        [
+            "http://dbpedia.org/resource/Tangela_Smith",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Minnesota_Lynx",
+            "http://dbpedia.org/resource/Charlotte_Sting"
+        ],
+        [
+            "http://dbpedia.org/resource/Janel_McCarville",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/New_York_Liberty",
+            "http://dbpedia.org/resource/Charlotte_Sting"
+        ],
+        [
+            "http://dbpedia.org/resource/Helen_Darling",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/San_Antonio_Stars",
+            "http://dbpedia.org/resource/Charlotte_Sting"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelly_Mazzante",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Phoenix_Mercury",
+            "http://dbpedia.org/resource/Charlotte_Sting"
+        ]
+    ]
+}

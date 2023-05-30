@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frontier_City",
+            "http://dbpedia.org/resource/Oklahoma_City",
+            "http://dbpedia.org/resource/PARC_Management"
+        ],
+        [
+            "http://dbpedia.org/resource/Movieland_Wax_Museum",
+            "http://dbpedia.org/resource/Buena_Park,_California",
+            "http://dbpedia.org/resource/Wax_museum"
+        ]
+    ]
+}

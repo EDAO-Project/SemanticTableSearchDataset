@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dylan_Hartley",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Northampton_Saints"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Mears",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Bath_Rugby"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Mullan",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Worcester_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Sheridan",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Sale_Sharks"
+        ],
+        [
+            "http://dbpedia.org/resource/Julian_White",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Leicester_Tigers"
+        ]
+    ]
+}

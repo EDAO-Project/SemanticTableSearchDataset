@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/Parc_des_Princes",
+            "http://dbpedia.org/resource/George_Weah",
+            "http://dbpedia.org/resource/David_Elleray"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Spartak_Moscow",
+            "http://dbpedia.org/resource/Luzhniki_Stadium",
+            "http://dbpedia.org/resource/Paul_Le_Guen",
+            "http://dbpedia.org/resource/Bo_Karlsson"
+        ]
+    ]
+}

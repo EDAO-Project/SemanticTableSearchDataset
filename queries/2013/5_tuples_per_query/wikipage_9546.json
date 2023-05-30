@@ -1,0 +1,26 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mississippi_River",
+            "http://dbpedia.org/resource/Mississippi_River",
+            "http://dbpedia.org/resource/Helena_Bridge",
+            "http://dbpedia.org/resource/Helena_Bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Phillips_County,_Arkansas",
+            "http://dbpedia.org/resource/Helena-West_Helena,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Phillips_County,_Arkansas",
+            "http://dbpedia.org/resource/Helena-West_Helena,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Phillips_County,_Arkansas",
+            "http://dbpedia.org/resource/Helena-West_Helena,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Phillips_County,_Arkansas",
+            "http://dbpedia.org/resource/Helena-West_Helena,_Arkansas"
+        ]
+    ]
+}

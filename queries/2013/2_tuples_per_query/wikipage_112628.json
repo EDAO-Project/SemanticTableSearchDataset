@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Barre,_Massachusetts",
+            "http://dbpedia.org/resource/New_England_Interstate_Route_32"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Hubbardston,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_68"
+        ]
+    ]
+}

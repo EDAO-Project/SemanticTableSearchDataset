@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austrian_Empire",
+            "http://dbpedia.org/resource/Gott_erhalte_Franz_den_Kaiser",
+            "http://dbpedia.org/resource/Lorenz_Leopold_Haschka",
+            "http://dbpedia.org/resource/Joseph_Haydn"
+        ]
+    ]
+}

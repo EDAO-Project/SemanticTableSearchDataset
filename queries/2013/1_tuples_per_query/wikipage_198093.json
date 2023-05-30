@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Crichton",
+            "http://dbpedia.org/resource/Westworld",
+            "http://dbpedia.org/resource/Metro-Goldwyn-Mayer"
+        ]
+    ]
+}

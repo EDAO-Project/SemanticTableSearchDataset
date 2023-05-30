@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Televisa_Regional",
+            "http://dbpedia.org/resource/Televisa_Regional",
+            "http://dbpedia.org/resource/Acapulco"
+        ],
+        [
+            "http://dbpedia.org/resource/Azteca_7",
+            "http://dbpedia.org/resource/Azteca_7",
+            "http://dbpedia.org/resource/Acapulco"
+        ],
+        [
+            "http://dbpedia.org/resource/Azteca_Trece",
+            "http://dbpedia.org/resource/Azteca_Trece",
+            "http://dbpedia.org/resource/Acapulco"
+        ],
+        [
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Acapulco"
+        ],
+        [
+            "http://dbpedia.org/resource/Azteca_Trece",
+            "http://dbpedia.org/resource/Azteca_Trece",
+            "http://dbpedia.org/resource/Chilpancingo"
+        ]
+    ]
+}

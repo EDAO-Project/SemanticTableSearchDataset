@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_Alone_on_Christmas",
+            "http://dbpedia.org/resource/Darlene_Love",
+            "http://dbpedia.org/resource/Billboard_Hot_100"
+        ],
+        [
+            "http://dbpedia.org/resource/Auld_Lang_Syne",
+            "http://dbpedia.org/resource/Peerless_Quartet",
+            "http://dbpedia.org/resource/Robert_Burns"
+        ],
+        [
+            "http://dbpedia.org/resource/Back_Door_Santa",
+            "http://dbpedia.org/resource/Clarence_Carter",
+            "http://dbpedia.org/resource/Bon_Jovi"
+        ],
+        [
+            "http://dbpedia.org/resource/Christmas_All_Over_Again",
+            "http://dbpedia.org/resource/Tom_Petty_and_the_Heartbreakers",
+            "http://dbpedia.org/resource/Home_Alone_2:_Lost_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Christmas_Dream",
+            "http://dbpedia.org/resource/Perry_Como",
+            "http://dbpedia.org/resource/Billboard_Hot_100"
+        ]
+    ]
+}

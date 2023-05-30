@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kellen_Gulley",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Tristan_Bowen",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chivas_USA"
+        ]
+    ]
+}

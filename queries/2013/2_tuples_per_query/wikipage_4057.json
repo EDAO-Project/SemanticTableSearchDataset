@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sensible_Soccer",
+            "http://dbpedia.org/resource/Sensible_Software",
+            "http://dbpedia.org/resource/Sega"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahjong_solitaire",
+            "http://dbpedia.org/resource/Activision",
+            "http://dbpedia.org/resource/Sega"
+        ]
+    ]
+}

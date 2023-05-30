@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California_State_University_Northridge_Botanic_Garden",
+            "http://dbpedia.org/resource/California_State_University,_Northridge",
+            "http://dbpedia.org/resource/Northridge,_Los_Angeles"
+        ],
+        [
+            "http://dbpedia.org/resource/Eddy_Arboretum",
+            "http://dbpedia.org/resource/United_States_Forest_Service",
+            "http://dbpedia.org/resource/Placerville,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Filoli",
+            "http://dbpedia.org/resource/National_Trust_for_Historic_Preservation",
+            "http://dbpedia.org/resource/Woodside,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Arboretum_at_Fresno_State",
+            "http://dbpedia.org/resource/California_State_University,_Fresno",
+            "http://dbpedia.org/resource/Fresno,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Fullerton_Arboretum",
+            "http://dbpedia.org/resource/California_State_University,_Fullerton",
+            "http://dbpedia.org/resource/Fullerton,_California"
+        ]
+    ]
+}

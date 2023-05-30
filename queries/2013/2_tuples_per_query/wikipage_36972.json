@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kings_XI_Punjab",
+            "http://dbpedia.org/resource/Sawai_Mansingh_Stadium",
+            "http://dbpedia.org/resource/Man_of_the_match"
+        ],
+        [
+            "http://dbpedia.org/resource/Deccan_Chargers",
+            "http://dbpedia.org/resource/Rajiv_Gandhi_International_Cricket_Stadium",
+            "http://dbpedia.org/resource/Yusuf_Pathan"
+        ]
+    ]
+}

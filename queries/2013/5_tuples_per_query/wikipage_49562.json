@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saves_the_Day",
+            "http://dbpedia.org/resource/Princeton,_New_Jersey",
+            "http://dbpedia.org/resource/Pop_punk"
+        ],
+        [
+            "http://dbpedia.org/resource/Scaterd_Few",
+            "http://dbpedia.org/resource/Burbank,_California",
+            "http://dbpedia.org/resource/Christian_punk"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Screamers",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Electropunk"
+        ],
+        [
+            "http://dbpedia.org/resource/Screeching_Weasel",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Punk_rock"
+        ],
+        [
+            "http://dbpedia.org/resource/Senses_Fail",
+            "http://dbpedia.org/resource/Ridgewood,_New_Jersey",
+            "http://dbpedia.org/resource/Emo"
+        ]
+    ]
+}

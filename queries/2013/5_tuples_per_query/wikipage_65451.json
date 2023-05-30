@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dwyane_Wade",
+            "http://dbpedia.org/resource/Kobe_Bryant",
+            "http://dbpedia.org/resource/Kevin_Garnett"
+        ],
+        [
+            "http://dbpedia.org/resource/LeBron_James",
+            "http://dbpedia.org/resource/Dwyane_Wade",
+            "http://dbpedia.org/resource/Kobe_Bryant"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Bryant",
+            "http://dbpedia.org/resource/Allen_Iverson",
+            "http://dbpedia.org/resource/LeBron_James"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephon_Marbury",
+            "http://dbpedia.org/resource/Carmelo_Anthony",
+            "http://dbpedia.org/resource/Steve_Nash"
+        ],
+        [
+            "http://dbpedia.org/resource/Tracy_McGrady",
+            "http://dbpedia.org/resource/Vince_Carter",
+            "http://dbpedia.org/resource/Gilbert_Arenas"
+        ]
+    ]
+}

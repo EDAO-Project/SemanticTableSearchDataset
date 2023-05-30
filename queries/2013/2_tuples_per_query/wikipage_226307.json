@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miguel_Torga",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Poetry"
+        ],
+        [
+            "http://dbpedia.org/resource/Rachel_de_Queiroz",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Novel"
+        ]
+    ]
+}

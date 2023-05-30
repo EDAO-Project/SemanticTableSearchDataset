@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balloon_Fight",
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Platform_game"
+        ]
+    ]
+}

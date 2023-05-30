@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Queen_Victoria",
+            "http://dbpedia.org/resource/John_Hope,_1st_Marquess_of_Linlithgow",
+            "http://dbpedia.org/resource/John_Hope,_1st_Marquess_of_Linlithgow",
+            "http://dbpedia.org/resource/John_Hope,_1st_Marquess_of_Linlithgow",
+            "http://dbpedia.org/resource/John_Hope,_1st_Marquess_of_Linlithgow"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_VII",
+            "http://dbpedia.org/resource/Alexandra_of_Denmark"
+        ]
+    ]
+}

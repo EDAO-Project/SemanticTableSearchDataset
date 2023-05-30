@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Longcroft",
+            "http://dbpedia.org/resource/Montrose,_Angus",
+            "http://dbpedia.org/resource/Royal_Aircraft_Factory_B.E.2"
+        ],
+        [
+            "http://dbpedia.org/resource/Bert_Hinkler",
+            "http://dbpedia.org/resource/Croydon",
+            "http://dbpedia.org/resource/Avro_Baby"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Cobham",
+            "http://dbpedia.org/resource/Middle_East",
+            "http://dbpedia.org/resource/Airco_DH.9C"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Cobham",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/De_Havilland_DH.50"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Cobham",
+            "http://dbpedia.org/resource/Rochester_Airport,_England",
+            "http://dbpedia.org/resource/De_Havilland_DH.50"
+        ]
+    ]
+}

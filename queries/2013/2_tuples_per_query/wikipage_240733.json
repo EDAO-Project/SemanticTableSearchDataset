@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonathan_Elmer",
+            "http://dbpedia.org/resource/1st_United_States_Congress",
+            "http://dbpedia.org/resource/Philemon_Dickinson"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Rutherfurd",
+            "http://dbpedia.org/resource/2nd_United_States_Congress",
+            "http://dbpedia.org/resource/Philemon_Dickinson"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/No._2_Squadron_RAF",
+            "http://dbpedia.org/resource/Hawker_Hunter",
+            "http://dbpedia.org/resource/SEPECAT_Jaguar"
+        ],
+        [
+            "http://dbpedia.org/resource/No._6_Squadron_RAF",
+            "http://dbpedia.org/resource/English_Electric_Canberra",
+            "http://dbpedia.org/resource/SEPECAT_Jaguar"
+        ]
+    ]
+}

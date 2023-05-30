@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Belgian_Air_Component",
+            "http://dbpedia.org/resource/General_Dynamics_F-16_Fighting_Falcon"
+        ],
+        [
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Royal_Danish_Air_Force",
+            "http://dbpedia.org/resource/General_Dynamics_F-16_Fighting_Falcon"
+        ]
+    ]
+}

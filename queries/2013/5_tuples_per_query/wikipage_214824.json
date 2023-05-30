@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Air_Warrior",
+            "http://dbpedia.org/resource/1995_in_video_gaming",
+            "http://dbpedia.org/resource/Kesmai",
+            "http://dbpedia.org/resource/Konami"
+        ],
+        [
+            "http://dbpedia.org/resource/Alone_in_the_Dark",
+            "http://dbpedia.org/resource/1993_in_video_gaming",
+            "http://dbpedia.org/resource/Krisalis_Software",
+            "http://dbpedia.org/resource/Interplay_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_Chess",
+            "http://dbpedia.org/resource/1993_in_video_gaming",
+            "http://dbpedia.org/resource/Krisalis_Software",
+            "http://dbpedia.org/resource/Interplay_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/BattleSport",
+            "http://dbpedia.org/resource/1996_in_video_gaming",
+            "http://dbpedia.org/resource/Cyclone_Studios",
+            "http://dbpedia.org/resource/The_3DO_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Captain_Quazar",
+            "http://dbpedia.org/resource/1995_in_video_gaming",
+            "http://dbpedia.org/resource/Cyclone_Studios",
+            "http://dbpedia.org/resource/The_3DO_Company"
+        ]
+    ]
+}

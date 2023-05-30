@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Grafton,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_122"
+        ]
+    ]
+}

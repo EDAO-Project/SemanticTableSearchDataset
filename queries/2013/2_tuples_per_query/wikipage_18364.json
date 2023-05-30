@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Chicago_Bears_season",
+            "http://dbpedia.org/resource/2012_Green_Bay_Packers_season",
+            "http://dbpedia.org/resource/Lambeau_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_New_York_Giants_season",
+            "http://dbpedia.org/resource/2012_Carolina_Panthers_season",
+            "http://dbpedia.org/resource/Bank_of_America_Stadium"
+        ]
+    ]
+}

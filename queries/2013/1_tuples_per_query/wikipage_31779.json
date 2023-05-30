@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_State_University",
+            "http://dbpedia.org/resource/Tempe,_Arizona",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils",
+            "http://dbpedia.org/resource/Southwestern_Lacrosse_Conference"
+        ]
+    ]
+}

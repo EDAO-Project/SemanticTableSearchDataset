@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Long_Eaton_Speedway",
+            "http://dbpedia.org/resource/Edinburgh_Monarchs",
+            "http://dbpedia.org/resource/Oxford_Cheetahs",
+            "http://dbpedia.org/resource/Berwick_Bandits"
+        ],
+        [
+            "http://dbpedia.org/resource/Peterborough_Panthers",
+            "http://dbpedia.org/resource/Edinburgh_Monarchs",
+            "http://dbpedia.org/resource/Hull_Vikings",
+            "http://dbpedia.org/resource/Reading_Racers"
+        ],
+        [
+            "http://dbpedia.org/resource/Sheffield_Tigers",
+            "http://dbpedia.org/resource/Newport_Wasps",
+            "http://dbpedia.org/resource/Isle_of_Wight_Islanders",
+            "http://dbpedia.org/resource/Lakeside_Hammers"
+        ],
+        [
+            "http://dbpedia.org/resource/Sheffield_Tigers",
+            "http://dbpedia.org/resource/Isle_of_Wight_Islanders",
+            "http://dbpedia.org/resource/Swindon_Robins",
+            "http://dbpedia.org/resource/Berwick_Bandits"
+        ],
+        [
+            "http://dbpedia.org/resource/Workington_Comets",
+            "http://dbpedia.org/resource/Newcastle_Diamonds",
+            "http://dbpedia.org/resource/Sheffield_Tigers",
+            "http://dbpedia.org/resource/Isle_of_Wight_Islanders"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sugar_Loaf,_Monmouthshire",
+            "http://dbpedia.org/resource/Waun_Fach",
+            "http://dbpedia.org/resource/Pen_y_Fan"
+        ],
+        [
+            "http://dbpedia.org/resource/Ysgyryd_Fawr",
+            "http://dbpedia.org/resource/Sugar_Loaf,_Monmouthshire",
+            "http://dbpedia.org/resource/Pen_y_Fan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mynydd_Troed",
+            "http://dbpedia.org/resource/Waun_Fach",
+            "http://dbpedia.org/resource/Pen_y_Fan"
+        ],
+        [
+            "http://dbpedia.org/resource/Fan_Gyhirych",
+            "http://dbpedia.org/resource/Fan_Fawr",
+            "http://dbpedia.org/resource/Pen_y_Fan"
+        ],
+        [
+            "http://dbpedia.org/resource/Graig_Syfyrddin",
+            "http://dbpedia.org/resource/Ysgyryd_Fawr",
+            "http://dbpedia.org/resource/Pen_y_Fan"
+        ]
+    ]
+}

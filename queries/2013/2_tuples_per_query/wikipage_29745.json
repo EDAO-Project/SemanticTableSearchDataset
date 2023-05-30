@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2019,_After_the_Fall_of_New_York",
+            "http://dbpedia.org/resource/Sergio_Martino",
+            "http://dbpedia.org/resource/Michael_Sopkiw"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Belle_captive",
+            "http://dbpedia.org/resource/Alain_Robbe-Grillet",
+            "http://dbpedia.org/resource/33rd_Berlin_International_Film_Festival"
+        ]
+    ]
+}

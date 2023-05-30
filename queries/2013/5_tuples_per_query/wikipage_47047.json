@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mount_Everest",
+            "http://dbpedia.org/resource/Nepal",
+            "http://dbpedia.org/resource/Afro-Eurasia"
+        ],
+        [
+            "http://dbpedia.org/resource/Aconcagua",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Americas"
+        ],
+        [
+            "http://dbpedia.org/resource/Denali",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Aconcagua"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Kilimanjaro",
+            "http://dbpedia.org/resource/Tanzania",
+            "http://dbpedia.org/resource/Mount_Everest"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Logan",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Denali"
+        ]
+    ]
+}

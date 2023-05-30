@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Dawley",
+            "http://dbpedia.org/resource/Memphis_Chicks",
+            "http://dbpedia.org/resource/Tim_McCarver_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Dawley",
+            "http://dbpedia.org/resource/Jacksonville_Suns",
+            "http://dbpedia.org/resource/Wolfson_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Deshaies",
+            "http://dbpedia.org/resource/Orlando_Rays",
+            "http://dbpedia.org/resource/Tinker_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Terry",
+            "http://dbpedia.org/resource/Omaha_Storm_Chasers",
+            "http://dbpedia.org/resource/Herschel_Greer_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Norm_Charlton",
+            "http://dbpedia.org/resource/Indianapolis_Indians",
+            "http://dbpedia.org/resource/Herschel_Greer_Stadium"
+        ]
+    ]
+}

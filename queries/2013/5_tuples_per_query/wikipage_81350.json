@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al-Shaab_Stadium",
+            "http://dbpedia.org/resource/Baghdad",
+            "http://dbpedia.org/resource/Iraq_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Franso_Hariri_Stadium",
+            "http://dbpedia.org/resource/Erbil",
+            "http://dbpedia.org/resource/Erbil_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Duhok_Stadium",
+            "http://dbpedia.org/resource/Dohuk",
+            "http://dbpedia.org/resource/Duhok_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/An-Najaf_Stadium",
+            "http://dbpedia.org/resource/Najaf",
+            "http://dbpedia.org/resource/Najaf_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/An_Nasiriyah_Stadium",
+            "http://dbpedia.org/resource/Nasiriyah",
+            "http://dbpedia.org/resource/Nassriya_FC"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Banat_Republic",
+            "http://dbpedia.org/resource/Romania",
+            "http://dbpedia.org/resource/First_Hungarian_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Serbian-Hungarian_Baranya-Baja_Republic",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Independent_State_of_Croatia",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Nazi_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Croatian_Republic_of_Herzeg-Bosnia",
+            "http://dbpedia.org/resource/Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Croats_of_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/Republic_of_German-Austria",
+            "http://dbpedia.org/resource/Czech_Republic",
+            "http://dbpedia.org/resource/Austria-Hungary"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Chicago_Bears_season",
+            "http://dbpedia.org/resource/2012_Green_Bay_Packers_season",
+            "http://dbpedia.org/resource/Lambeau_Field"
+        ]
+    ]
+}

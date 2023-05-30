@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/RAF_Thorpe_Abbotts",
+            "http://dbpedia.org/resource/Thorpe_Abbotts",
+            "http://dbpedia.org/resource/South_Norfolk",
+            "http://dbpedia.org/resource/100th_Air_Refueling_Wing"
+        ]
+    ]
+}

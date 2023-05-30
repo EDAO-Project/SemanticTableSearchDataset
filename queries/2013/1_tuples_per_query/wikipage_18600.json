@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anchorage,_Alaska",
+            "http://dbpedia.org/resource/KTUU-TV",
+            "http://dbpedia.org/resource/NBC"
+        ]
+    ]
+}

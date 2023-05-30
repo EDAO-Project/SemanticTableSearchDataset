@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nina_Zhivanevskaya",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Madrid"
+        ],
+        [
+            "http://dbpedia.org/resource/Mai_Nakamura",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Janine_Pietsch",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/Leila_Vaziri",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/2007_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Leila_Vaziri",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/2007_World_Aquatics_Championships"
+        ]
+    ]
+}

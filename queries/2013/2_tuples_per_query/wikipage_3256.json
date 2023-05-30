@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2002_in_sports",
+            "http://dbpedia.org/resource/Sue_Bird",
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/College_basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_sports",
+            "http://dbpedia.org/resource/Diana_Taurasi",
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/College_basketball"
+        ]
+    ]
+}

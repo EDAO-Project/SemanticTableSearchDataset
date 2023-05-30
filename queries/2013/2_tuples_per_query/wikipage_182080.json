@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canberra_Raiders",
+            "http://dbpedia.org/resource/Robina_Stadium",
+            "http://dbpedia.org/resource/Albert_Kelly",
+            "http://dbpedia.org/resource/Aidan_Sezer"
+        ],
+        [
+            "http://dbpedia.org/resource/Penrith_Panthers",
+            "http://dbpedia.org/resource/Penrith_Stadium",
+            "http://dbpedia.org/resource/Kevin_Gordon",
+            "http://dbpedia.org/resource/Aidan_Sezer"
+        ]
+    ]
+}

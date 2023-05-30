@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/WSPZ",
+            "http://dbpedia.org/resource/Atlanta_Braves"
+        ]
+    ]
+}

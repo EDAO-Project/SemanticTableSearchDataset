@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benevento_Calcio",
+            "http://dbpedia.org/resource/Benevento",
+            "http://dbpedia.org/resource/Stadio_Ciro_Vigorito"
+        ],
+        [
+            "http://dbpedia.org/resource/F.C._Crotone",
+            "http://dbpedia.org/resource/Crotone",
+            "http://dbpedia.org/resource/Stadio_Ezio_Scida"
+        ]
+    ]
+}

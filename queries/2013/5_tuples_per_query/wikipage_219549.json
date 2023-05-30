@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christian_I_of_Denmark",
+            "http://dbpedia.org/resource/Oldenburg",
+            "http://dbpedia.org/resource/Dorothea_of_Brandenburg",
+            "http://dbpedia.org/resource/Copenhagen_Castle"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_II_of_Denmark",
+            "http://dbpedia.org/resource/Nyborg",
+            "http://dbpedia.org/resource/Isabella_of_Austria",
+            "http://dbpedia.org/resource/Kalundborg"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_II_of_Denmark",
+            "http://dbpedia.org/resource/Nyborg",
+            "http://dbpedia.org/resource/Isabella_of_Austria",
+            "http://dbpedia.org/resource/Kalundborg"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_I_of_Denmark",
+            "http://dbpedia.org/resource/Haderslevhus",
+            "http://dbpedia.org/resource/Anna_of_Brandenburg",
+            "http://dbpedia.org/resource/Gottorf_Castle"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_III_of_Denmark",
+            "http://dbpedia.org/resource/Gottorf_Castle",
+            "http://dbpedia.org/resource/Dorothea_of_Saxe-Lauenburg",
+            "http://dbpedia.org/resource/Koldinghus"
+        ]
+    ]
+}

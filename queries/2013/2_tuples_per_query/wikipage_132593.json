@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Haiya",
+            "http://dbpedia.org/resource/Mueang_Chiang_Mai_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Han_Kaeo",
+            "http://dbpedia.org/resource/Hang_Dong_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ]
+    ]
+}

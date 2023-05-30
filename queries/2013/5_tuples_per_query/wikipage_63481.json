@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Floyd_Bannister",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Pat_Underwood",
+            "http://dbpedia.org/resource/Detroit_Tigers",
+            "http://dbpedia.org/resource/Kokomo,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Bordley",
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Rolling_Hills_Estates,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Owchinko",
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Eastern_Michigan_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/Ken_Landreaux",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball"
+        ]
+    ]
+}

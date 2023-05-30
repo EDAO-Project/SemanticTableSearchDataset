@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angers",
+            "http://dbpedia.org/resource/Angers_tramway",
+            "http://dbpedia.org/resource/Tram"
+        ],
+        [
+            "http://dbpedia.org/resource/Bordeaux",
+            "http://dbpedia.org/resource/Bordeaux_tramway",
+            "http://dbpedia.org/resource/Tram"
+        ]
+    ]
+}

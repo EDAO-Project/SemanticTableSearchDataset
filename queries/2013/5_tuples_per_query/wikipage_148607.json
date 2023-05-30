@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aachen_Cathedral",
+            "http://dbpedia.org/resource/Aachen",
+            "http://dbpedia.org/resource/Charlemagne"
+        ],
+        [
+            "http://dbpedia.org/resource/Bauhaus",
+            "http://dbpedia.org/resource/Dessau",
+            "http://dbpedia.org/resource/Weimar"
+        ],
+        [
+            "http://dbpedia.org/resource/Belfries_of_Belgium_and_France",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Bell_tower"
+        ],
+        [
+            "http://dbpedia.org/resource/Berlin_Modernism_Housing_Estates",
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Bruno_Taut"
+        ],
+        [
+            "http://dbpedia.org/resource/Blenheim_Palace",
+            "http://dbpedia.org/resource/Woodstock,_Oxfordshire",
+            "http://dbpedia.org/resource/John_Churchill,_1st_Duke_of_Marlborough"
+        ]
+    ]
+}

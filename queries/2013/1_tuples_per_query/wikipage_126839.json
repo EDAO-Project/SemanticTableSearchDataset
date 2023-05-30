@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/C-class_cruiser",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Light_cruiser"
+        ]
+    ]
+}

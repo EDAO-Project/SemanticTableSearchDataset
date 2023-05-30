@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adrian_College",
+            "http://dbpedia.org/resource/Adrian,_Michigan",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Albion_College",
+            "http://dbpedia.org/resource/Albion,_Michigan",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ]
+    ]
+}

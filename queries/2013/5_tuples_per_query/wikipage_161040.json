@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ain_Timguenai",
+            "http://dbpedia.org/resource/Sefrou_Province",
+            "http://dbpedia.org/resource/Zaouiat_Bougrine"
+        ],
+        [
+            "http://dbpedia.org/resource/Arekmane",
+            "http://dbpedia.org/resource/Nador_Province",
+            "http://dbpedia.org/resource/Kariat_Arekmane"
+        ],
+        [
+            "http://dbpedia.org/resource/Bni_Bouifrour",
+            "http://dbpedia.org/resource/Nador_Province",
+            "http://dbpedia.org/resource/Jaadar"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouarg",
+            "http://dbpedia.org/resource/Nador_Province",
+            "http://dbpedia.org/resource/Touima"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouhmame",
+            "http://dbpedia.org/resource/El_Jadida_Province",
+            "http://dbpedia.org/resource/Karia"
+        ]
+    ]
+}

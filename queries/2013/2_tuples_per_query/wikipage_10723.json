@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Connecticut_Route_32",
+            "http://dbpedia.org/resource/New_London,_Connecticut",
+            "http://dbpedia.org/resource/Connecticut_Route_32",
+            "http://dbpedia.org/resource/Snickers_Gap"
+        ],
+        [
+            "http://dbpedia.org/resource/Connecticut_Route_14",
+            "http://dbpedia.org/resource/Norwich,_Connecticut",
+            "http://dbpedia.org/resource/Connecticut_Route_12"
+        ]
+    ]
+}

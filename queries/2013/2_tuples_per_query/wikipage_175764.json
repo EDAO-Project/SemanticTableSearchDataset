@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buenos_Aires",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Estadio_Monumental_Antonio_Vespucio_Liberti"
+        ],
+        [
+            "http://dbpedia.org/resource/Porto_Alegre",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Gigantinho"
+        ]
+    ]
+}

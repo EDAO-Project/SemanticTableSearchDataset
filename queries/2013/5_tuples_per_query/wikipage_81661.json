@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sunderland,_Tyne_and_Wear",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Stadium_of_Light",
+            "http://dbpedia.org/resource/Gary_Go"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunderland,_Tyne_and_Wear",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Stadium_of_Light",
+            "http://dbpedia.org/resource/Gary_Go"
+        ],
+        [
+            "http://dbpedia.org/resource/Coventry",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Ricoh_Arena",
+            "http://dbpedia.org/resource/Gary_Go"
+        ],
+        [
+            "http://dbpedia.org/resource/Coventry",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Ricoh_Arena",
+            "http://dbpedia.org/resource/Gary_Go"
+        ],
+        [
+            "http://dbpedia.org/resource/Coventry",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Ricoh_Arena",
+            "http://dbpedia.org/resource/Gary_Go"
+        ]
+    ]
+}

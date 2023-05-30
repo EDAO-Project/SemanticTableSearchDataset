@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guangxi",
+            "http://dbpedia.org/resource/Nanning",
+            "http://dbpedia.org/resource/Yongning_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Guangxi",
+            "http://dbpedia.org/resource/Laibin",
+            "http://dbpedia.org/resource/Xingbin_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Guangxi",
+            "http://dbpedia.org/resource/Nanning",
+            "http://dbpedia.org/resource/Wuming_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Guangxi",
+            "http://dbpedia.org/resource/Baise",
+            "http://dbpedia.org/resource/Jingxi,_Guangxi"
+        ],
+        [
+            "http://dbpedia.org/resource/Guangxi",
+            "http://dbpedia.org/resource/Guigang",
+            "http://dbpedia.org/resource/Gangbei_District"
+        ]
+    ]
+}

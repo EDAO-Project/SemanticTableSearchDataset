@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_LPGA_Tour",
+            "http://dbpedia.org/resource/LPGA_State_Farm_Classic",
+            "http://dbpedia.org/resource/Nancy_Lopez"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_LPGA_Tour",
+            "http://dbpedia.org/resource/Samsung_World_Championship",
+            "http://dbpedia.org/resource/Liselotte_Neumann"
+        ]
+    ]
+}

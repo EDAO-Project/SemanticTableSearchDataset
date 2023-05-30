@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Scaddan",
+            "http://dbpedia.org/resource/Electoral_district_of_Ivanhoe",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Scaddan_Ministry",
+            "http://dbpedia.org/resource/Western_Australian_state_election,_1914"
+        ]
+    ]
+}

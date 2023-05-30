@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1957",
+            "http://dbpedia.org/resource/Paule_Desjardins",
+            "http://dbpedia.org/resource/French_language",
+            "http://dbpedia.org/resource/La_belle_amour"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1959",
+            "http://dbpedia.org/resource/Jean_Philippe",
+            "http://dbpedia.org/resource/French_language",
+            "http://dbpedia.org/resource/Oui,_oui,_oui,_oui"
+        ]
+    ]
+}

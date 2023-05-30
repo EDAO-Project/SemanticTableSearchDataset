@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anne_of_Bohemia_and_Hungary",
+            "http://dbpedia.org/resource/Vladislaus_II_of_Hungary",
+            "http://dbpedia.org/resource/Ferdinand_I,_Holy_Roman_Emperor"
+        ],
+        [
+            "http://dbpedia.org/resource/Maria_of_Austria,_Holy_Roman_Empress",
+            "http://dbpedia.org/resource/Charles_V,_Holy_Roman_Emperor",
+            "http://dbpedia.org/resource/Maximilian_II,_Holy_Roman_Emperor"
+        ]
+    ]
+}

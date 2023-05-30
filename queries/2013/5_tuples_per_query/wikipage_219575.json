@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kerry_Collins",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/1996_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Greene",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/1996_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Kasay",
+            "http://dbpedia.org/resource/Placekicker",
+            "http://dbpedia.org/resource/1996_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Lamar_Lathon",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/1996_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Sam_Mills",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/1996_NFL_season"
+        ]
+    ]
+}

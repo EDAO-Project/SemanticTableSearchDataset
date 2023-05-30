@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denny_Walling",
+            "http://dbpedia.org/resource/Clemson_Tigers_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Brick_Smith",
+            "http://dbpedia.org/resource/Wake_Forest_Demon_Deacons_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Tracy_Woodson",
+            "http://dbpedia.org/resource/NC_State_Wolfpack_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Riccardo_Ingram",
+            "http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Kowitz",
+            "http://dbpedia.org/resource/Clemson_Tigers_baseball",
+            "http://dbpedia.org/resource/Pitcher"
+        ]
+    ]
+}

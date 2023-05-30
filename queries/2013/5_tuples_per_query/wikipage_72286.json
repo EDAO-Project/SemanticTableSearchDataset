@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1883_St._Louis_Browns_season",
+            "http://dbpedia.org/resource/Jumbo_McGinnis",
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Bank_Street_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/1887_St._Louis_Browns_season",
+            "http://dbpedia.org/resource/Dave_Foutz",
+            "http://dbpedia.org/resource/Louisville_Colonels",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1890_St._Louis_Browns_season",
+            "http://dbpedia.org/resource/Toad_Ramsey",
+            "http://dbpedia.org/resource/Louisville_Colonels",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1893_St._Louis_Browns_season",
+            "http://dbpedia.org/resource/Pink_Hawley",
+            "http://dbpedia.org/resource/Louisville_Colonels",
+            "http://dbpedia.org/resource/Robison_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/1894_St._Louis_Browns_season",
+            "http://dbpedia.org/resource/Ted_Breitenstein",
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Robison_Field"
+        ]
+    ]
+}

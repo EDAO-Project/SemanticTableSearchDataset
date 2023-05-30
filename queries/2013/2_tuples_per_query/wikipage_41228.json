@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mahela_Jayawardene",
+            "http://dbpedia.org/resource/Sri_Lanka_national_cricket_team",
+            "http://dbpedia.org/resource/South_Africa_national_cricket_team",
+            "http://dbpedia.org/resource/Colombo"
+        ],
+        [
+            "http://dbpedia.org/resource/Roshan_Mahanama",
+            "http://dbpedia.org/resource/Sri_Lanka_national_cricket_team",
+            "http://dbpedia.org/resource/India_national_cricket_team",
+            "http://dbpedia.org/resource/Colombo"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Ali_Al-Wehaibi",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Mohammed_Salem_Saleh",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Helal_Saeed",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Omar_Abdulrahman",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Saif_Mohammed_Al_Bishr",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ]
+    ]
+}

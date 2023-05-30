@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aigburth_railway_station",
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/Merseyrail"
+        ],
+        [
+            "http://dbpedia.org/resource/Ainsdale_railway_station",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Sefton",
+            "http://dbpedia.org/resource/Merseyrail"
+        ]
+    ]
+}

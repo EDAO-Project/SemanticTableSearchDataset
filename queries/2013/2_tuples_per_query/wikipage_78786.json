@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shielfield_Park",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/James_Grady"
+        ],
+        [
+            "http://dbpedia.org/resource/Cliftonhill",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Andrew_Waterworth"
+        ]
+    ]
+}

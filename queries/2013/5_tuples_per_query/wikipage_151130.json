@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Somebody_That_I_Used_to_Know",
+            "http://dbpedia.org/resource/Gotye",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Feel_So_Close",
+            "http://dbpedia.org/resource/Calvin_Harris",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Shake_It_Out",
+            "http://dbpedia.org/resource/Florence_and_the_Machine",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Jump_into_the_Fog",
+            "http://dbpedia.org/resource/The_Wombats",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Pumped_Up_Kicks",
+            "http://dbpedia.org/resource/Owl_Eyes",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

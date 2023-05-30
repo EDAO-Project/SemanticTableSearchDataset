@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/WATL",
+            "http://dbpedia.org/resource/Fox_Television_Stations"
+        ],
+        [
+            "http://dbpedia.org/resource/Bakersfield,_California",
+            "http://dbpedia.org/resource/KUVI-DT",
+            "http://dbpedia.org/resource/Buck_Owens"
+        ],
+        [
+            "http://dbpedia.org/resource/Bloomington,_Indiana",
+            "http://dbpedia.org/resource/WTTV",
+            "http://dbpedia.org/resource/River_City_Broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/WSBK-TV",
+            "http://dbpedia.org/resource/New_World_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo,_New_York",
+            "http://dbpedia.org/resource/WUTV",
+            "http://dbpedia.org/resource/Act_III_Broadcasting"
+        ]
+    ]
+}

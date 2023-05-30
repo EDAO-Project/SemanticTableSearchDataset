@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Long_Parliament",
+            "http://dbpedia.org/resource/Roundhead",
+            "http://dbpedia.org/resource/Cavalier"
+        ],
+        [
+            "http://dbpedia.org/resource/British_general_election,_1747",
+            "http://dbpedia.org/resource/John_Hobart,_2nd_Earl_of_Buckinghamshire",
+            "http://dbpedia.org/resource/Horatio_Walpole,_1st_Baron_Walpole"
+        ]
+    ]
+}

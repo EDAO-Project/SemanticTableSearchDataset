@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_J._Menza",
+            "http://dbpedia.org/resource/C._Louis_Bassano",
+            "http://dbpedia.org/resource/Frank_X._McDermott"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_E._Russo",
+            "http://dbpedia.org/resource/C._Louis_Bassano",
+            "http://dbpedia.org/resource/Chuck_Hardwick"
+        ]
+    ]
+}

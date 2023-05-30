@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_NFL_season",
+            "http://dbpedia.org/resource/New_York_Giants",
+            "http://dbpedia.org/resource/Ottawa_Rough_Riders",
+            "http://dbpedia.org/resource/Lansdowne_Park",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_NFL_season",
+            "http://dbpedia.org/resource/New_York_Giants",
+            "http://dbpedia.org/resource/Ottawa_Rough_Riders",
+            "http://dbpedia.org/resource/Lansdowne_Park",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

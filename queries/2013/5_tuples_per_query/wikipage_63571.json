@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_in_film",
+            "http://dbpedia.org/resource/The_Land_Before_Time_II:_The_Great_Valley_Adventure",
+            "http://dbpedia.org/resource/Universal_Animation_Studios",
+            "http://dbpedia.org/resource/Roy_Allen_Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_in_film",
+            "http://dbpedia.org/resource/The_Land_Before_Time_III:_The_Time_of_the_Great_Giving",
+            "http://dbpedia.org/resource/Universal_Animation_Studios",
+            "http://dbpedia.org/resource/Roy_Allen_Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_in_film",
+            "http://dbpedia.org/resource/Aladdin_and_the_King_of_Thieves",
+            "http://dbpedia.org/resource/Disney_Television_Animation",
+            "http://dbpedia.org/resource/Tad_Stones"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_in_film",
+            "http://dbpedia.org/resource/The_Land_Before_Time_IV:_Journey_Through_the_Mists",
+            "http://dbpedia.org/resource/Universal_Animation_Studios",
+            "http://dbpedia.org/resource/Roy_Allen_Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_in_film",
+            "http://dbpedia.org/resource/FernGully_2:_The_Magical_Rescue",
+            "http://dbpedia.org/resource/WildBrain",
+            "http://dbpedia.org/resource/Phil_Alden_Robinson"
+        ]
+    ]
+}

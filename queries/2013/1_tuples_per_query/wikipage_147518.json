@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/Portugal"
+        ]
+    ]
+}

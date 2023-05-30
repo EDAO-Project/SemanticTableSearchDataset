@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/XHBC-TDT",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Mexicali"
+        ],
+        [
+            "http://dbpedia.org/resource/XEWT-TDT",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Tijuana"
+        ],
+        [
+            "http://dbpedia.org/resource/Televisa_Regional",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Piedras_Negras,_Coahuila"
+        ],
+        [
+            "http://dbpedia.org/resource/Televisa_Regional",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Acapulco"
+        ],
+        [
+            "http://dbpedia.org/resource/Televisa_Regional",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas",
+            "http://dbpedia.org/resource/Guadalajara"
+        ]
+    ]
+}

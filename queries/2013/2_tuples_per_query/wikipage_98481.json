@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Coventry_Hall",
+            "http://dbpedia.org/resource/Pennsylvania_Route_23",
+            "http://dbpedia.org/resource/South_Coventry_Township,_Chester_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Coventryville_Historic_District",
+            "http://dbpedia.org/resource/Pennsylvania_Route_23",
+            "http://dbpedia.org/resource/South_Coventry_Township,_Chester_County,_Pennsylvania"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philippine_Senate_Blue_Ribbon_Committee",
+            "http://dbpedia.org/resource/TG_Guingona",
+            "http://dbpedia.org/resource/United_Nationalist_Alliance",
+            "http://dbpedia.org/resource/Nancy_Binay"
+        ],
+        [
+            "http://dbpedia.org/resource/Nacionalista_Party",
+            "http://dbpedia.org/resource/Cynthia_Villar",
+            "http://dbpedia.org/resource/United_Nationalist_Alliance",
+            "http://dbpedia.org/resource/Nancy_Binay"
+        ],
+        [
+            "http://dbpedia.org/resource/Nacionalista_Party",
+            "http://dbpedia.org/resource/Antonio_Trillanes",
+            "http://dbpedia.org/resource/United_Nationalist_Alliance",
+            "http://dbpedia.org/resource/Nancy_Binay"
+        ],
+        [
+            "http://dbpedia.org/resource/Nacionalista_Party",
+            "http://dbpedia.org/resource/Pia_Cayetano",
+            "http://dbpedia.org/resource/United_Nationalist_Alliance",
+            "http://dbpedia.org/resource/Nancy_Binay"
+        ],
+        [
+            "http://dbpedia.org/resource/PDP-Laban",
+            "http://dbpedia.org/resource/Aquilino_Pimentel_III",
+            "http://dbpedia.org/resource/United_Nationalist_Alliance",
+            "http://dbpedia.org/resource/JV_Ejercito"
+        ]
+    ]
+}

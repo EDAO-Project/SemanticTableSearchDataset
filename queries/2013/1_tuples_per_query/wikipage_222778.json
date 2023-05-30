@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brevard_County_Manatees",
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Viera,_Florida",
+            "http://dbpedia.org/resource/Space_Coast_Stadium"
+        ]
+    ]
+}

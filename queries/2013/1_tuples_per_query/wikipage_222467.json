@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_Norway_Regional_Health_Authority",
+            "http://dbpedia.org/resource/Regional_health_authority",
+            "http://dbpedia.org/resource/Ministry_of_Health_and_Care_Services"
+        ]
+    ]
+}

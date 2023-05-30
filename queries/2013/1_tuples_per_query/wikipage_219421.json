@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_World_1990",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ]
+    ]
+}

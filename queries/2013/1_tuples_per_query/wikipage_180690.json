@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russ_Johnson",
+            "http://dbpedia.org/resource/LSU_Tigers_baseball",
+            "http://dbpedia.org/resource/Shortstop"
+        ]
+    ]
+}

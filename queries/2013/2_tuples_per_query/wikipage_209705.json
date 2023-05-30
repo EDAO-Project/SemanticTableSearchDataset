@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alamo_Lake_State_Park",
+            "http://dbpedia.org/resource/La_Paz_County,_Arizona",
+            "http://dbpedia.org/resource/Bill_Williams_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Boyce_Thompson_Arboretum_State_Park",
+            "http://dbpedia.org/resource/Pinal_County,_Arizona",
+            "http://dbpedia.org/resource/Botanical_garden"
+        ]
+    ]
+}

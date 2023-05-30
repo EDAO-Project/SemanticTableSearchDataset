@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1952_in_music",
+            "http://dbpedia.org/resource/Al_Martino",
+            "http://dbpedia.org/resource/Here_in_My_Heart"
+        ],
+        [
+            "http://dbpedia.org/resource/1953_in_music",
+            "http://dbpedia.org/resource/Frankie_Laine",
+            "http://dbpedia.org/resource/Answer_Me"
+        ],
+        [
+            "http://dbpedia.org/resource/1955_in_music",
+            "http://dbpedia.org/resource/Dickie_Valentine",
+            "http://dbpedia.org/resource/Christmas_Alphabet"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_in_music",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/I_Want_to_Hold_Your_Hand"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_in_music",
+            "http://dbpedia.org/resource/The_Beatles",
+            "http://dbpedia.org/resource/I_Feel_Fine"
+        ]
+    ]
+}

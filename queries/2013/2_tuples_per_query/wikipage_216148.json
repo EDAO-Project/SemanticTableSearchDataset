@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bai_Ling",
+            "http://dbpedia.org/resource/List_of_Buffyverse_comics",
+            "http://dbpedia.org/resource/Blooded"
+        ],
+        [
+            "http://dbpedia.org/resource/Lindsay_Crouse",
+            "http://dbpedia.org/resource/List_of_Buffyverse_comics",
+            "http://dbpedia.org/resource/Doomsday_Deck"
+        ]
+    ]
+}

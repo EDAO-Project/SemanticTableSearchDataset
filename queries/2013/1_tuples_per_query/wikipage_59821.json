@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bell_Centre",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ]
+    ]
+}

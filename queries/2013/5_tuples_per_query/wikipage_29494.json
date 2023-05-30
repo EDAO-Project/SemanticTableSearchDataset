@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tony_Street",
+            "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+            "http://dbpedia.org/resource/Malcolm_Fraser"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Macphee",
+            "http://dbpedia.org/resource/Liberal_Party_of_Australia",
+            "http://dbpedia.org/resource/Malcolm_Fraser"
+        ],
+        [
+            "http://dbpedia.org/resource/Susan_Ryan",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Bob_Hawke"
+        ],
+        [
+            "http://dbpedia.org/resource/Susan_Ryan",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Bob_Hawke"
+        ],
+        [
+            "http://dbpedia.org/resource/Margaret_Reynolds",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Bob_Hawke"
+        ]
+    ]
+}

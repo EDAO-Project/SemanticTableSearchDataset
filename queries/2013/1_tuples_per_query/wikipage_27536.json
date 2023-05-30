@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/La_sonnambula",
+            "http://dbpedia.org/resource/Antonino_Votto",
+            "http://dbpedia.org/resource/EMI_Classics"
+        ]
+    ]
+}

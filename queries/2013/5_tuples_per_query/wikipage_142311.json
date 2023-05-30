@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Symmons_Plains_Raceway",
+            "http://dbpedia.org/resource/Tasmania",
+            "http://dbpedia.org/resource/Honda_Prelude"
+        ],
+        [
+            "http://dbpedia.org/resource/Symmons_Plains_Raceway",
+            "http://dbpedia.org/resource/Tasmania",
+            "http://dbpedia.org/resource/Honda_Prelude"
+        ],
+        [
+            "http://dbpedia.org/resource/Lakeside_International_Raceway",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/Toyota_Supra"
+        ],
+        [
+            "http://dbpedia.org/resource/Lakeside_International_Raceway",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/Toyota_Supra"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Motorsport_Park",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Toyota_Supra"
+        ]
+    ]
+}

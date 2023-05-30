@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hosni_Mubarak",
+            "http://dbpedia.org/resource/President_of_Egypt",
+            "http://dbpedia.org/resource/Egypt"
+        ]
+    ]
+}

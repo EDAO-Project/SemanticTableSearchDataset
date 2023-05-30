@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Bardeen",
+            "http://dbpedia.org/resource/Physics",
+            "http://dbpedia.org/resource/Nobel_Prize_in_Physics"
+        ]
+    ]
+}

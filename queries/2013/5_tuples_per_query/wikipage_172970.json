@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Table_tennis_at_the_1958_Asian_Games",
+            "http://dbpedia.org/resource/Japan_at_the_1958_Asian_Games",
+            "http://dbpedia.org/resource/South_Korea_at_the_1958_Asian_Games",
+            "http://dbpedia.org/resource/Republic_of_China_at_the_1958_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Table_tennis_at_the_1966_Asian_Games",
+            "http://dbpedia.org/resource/Japan_at_the_1966_Asian_Games",
+            "http://dbpedia.org/resource/South_Korea_at_the_1966_Asian_Games",
+            "http://dbpedia.org/resource/Republic_of_China_at_the_1966_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Table_tennis_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/China_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/South_Korea_at_the_1974_Asian_Games",
+            "http://dbpedia.org/resource/Japan_at_the_1974_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Table_tennis_at_the_1978_Asian_Games",
+            "http://dbpedia.org/resource/China_at_the_1978_Asian_Games",
+            "http://dbpedia.org/resource/South_Korea_at_the_1978_Asian_Games",
+            "http://dbpedia.org/resource/Japan_at_the_1978_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Table_tennis_at_the_1982_Asian_Games",
+            "http://dbpedia.org/resource/China_at_the_1982_Asian_Games",
+            "http://dbpedia.org/resource/South_Korea_at_the_1982_Asian_Games",
+            "http://dbpedia.org/resource/North_Korea_at_the_1982_Asian_Games"
+        ]
+    ]
+}

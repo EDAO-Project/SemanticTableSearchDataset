@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trey_Anastasio",
+            "http://dbpedia.org/resource/Time_Turns_Elastic",
+            "http://dbpedia.org/resource/Rubber_Jungle_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Fountains_of_Wayne",
+            "http://dbpedia.org/resource/Out-of-State_Plates",
+            "http://dbpedia.org/resource/Virgin_Records"
+        ]
+    ]
+}

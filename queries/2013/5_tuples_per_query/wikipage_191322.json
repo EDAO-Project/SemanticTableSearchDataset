@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al_Ahly_SC",
+            "http://dbpedia.org/resource/1982_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/1983_African_Cup_of_Champions_Clubs"
+        ],
+        [
+            "http://dbpedia.org/resource/Zamalek_SC",
+            "http://dbpedia.org/resource/1984_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/1994_African_Cup_of_Champions_Clubs"
+        ],
+        [
+            "http://dbpedia.org/resource/TP_Mazembe",
+            "http://dbpedia.org/resource/1967_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/1969_African_Cup_of_Champions_Clubs"
+        ],
+        [
+            "http://dbpedia.org/resource/Hafia_FC",
+            "http://dbpedia.org/resource/1972_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/1976_African_Cup_of_Champions_Clubs"
+        ],
+        [
+            "http://dbpedia.org/resource/Raja_Casablanca",
+            "http://dbpedia.org/resource/1989_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/2002_CAF_Champions_League"
+        ]
+    ]
+}

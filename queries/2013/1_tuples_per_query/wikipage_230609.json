@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/R._White_Daring_Molenbeek",
+            "http://dbpedia.org/resource/AFC_Ajax",
+            "http://dbpedia.org/resource/Feyenoord",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ]
+    ]
+}

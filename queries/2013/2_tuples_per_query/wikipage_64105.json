@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Argentine_Open",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Marco_Ruiz"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenya_Open",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Iain_Pyman"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_No._1,_Alberta",
+            "http://dbpedia.org/resource/Medicine_Hat",
+            "http://dbpedia.org/resource/Cypress_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_No._2,_Alberta",
+            "http://dbpedia.org/resource/Lethbridge",
+            "http://dbpedia.org/resource/Lethbridge_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_No._3,_Alberta",
+            "http://dbpedia.org/resource/Claresholm",
+            "http://dbpedia.org/resource/Cardston_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_No._4,_Alberta",
+            "http://dbpedia.org/resource/Hanna,_Alberta",
+            "http://dbpedia.org/resource/Municipal_District_of_Acadia_No._34"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_No._5,_Alberta",
+            "http://dbpedia.org/resource/Strathmore,_Alberta",
+            "http://dbpedia.org/resource/Kneehill_County"
+        ]
+    ]
+}

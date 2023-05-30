@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bay_View,_Michigan",
+            "http://dbpedia.org/resource/Petoskey,_Michigan",
+            "http://dbpedia.org/resource/Emmet_County,_Michigan",
+            "http://dbpedia.org/resource/Methodism"
+        ]
+    ]
+}

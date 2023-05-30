@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1971_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Mike_Miley",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/East_Jefferson_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Nick_Esasky",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Miami_Carol_City_Senior_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Kurt_Stillwell",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Thousand_Oaks_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Pat_Pacillo",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Seton_Hall_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Barry_Larkin",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/University_of_Michigan"
+        ]
+    ]
+}

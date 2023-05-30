@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_1000_km_of_Mosport",
+            "http://dbpedia.org/resource/Jacky_Ickx",
+            "http://dbpedia.org/resource/Rothman",
+            "http://dbpedia.org/resource/Porsche_956",
+            "http://dbpedia.org/resource/World_Sportscar_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_1000_km_of_Mosport",
+            "http://dbpedia.org/resource/Hans-Joachim_Stuck",
+            "http://dbpedia.org/resource/Rothman",
+            "http://dbpedia.org/resource/Porsche_962",
+            "http://dbpedia.org/resource/World_Sportscar_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_IMSA_GT_Championship_season",
+            "http://dbpedia.org/resource/Pete_Halsmer",
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Mercury_Cougar",
+            "http://dbpedia.org/resource/IMSA_GT_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_IMSA_GT_Championship_season",
+            "http://dbpedia.org/resource/Pete_Halsmer",
+            "http://dbpedia.org/resource/Mazda",
+            "http://dbpedia.org/resource/Mazda_RX-7",
+            "http://dbpedia.org/resource/IMSA_GT_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Grand_Prix_of_Mosport",
+            "http://dbpedia.org/resource/Jan_Magnussen",
+            "http://dbpedia.org/resource/Panoz,_LLC",
+            "http://dbpedia.org/resource/Panoz_LMP-1_Roadster-S",
+            "http://dbpedia.org/resource/American_Le_Mans_Series"
+        ]
+    ]
+}

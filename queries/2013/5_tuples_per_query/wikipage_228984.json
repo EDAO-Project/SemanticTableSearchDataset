@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gaganachukki_and_Bharachukki_Falls",
+            "http://dbpedia.org/resource/Chamarajanagar",
+            "http://dbpedia.org/resource/Kaveri"
+        ],
+        [
+            "http://dbpedia.org/resource/Abbey_Falls",
+            "http://dbpedia.org/resource/Kodagu_district",
+            "http://dbpedia.org/resource/Madikeri"
+        ],
+        [
+            "http://dbpedia.org/resource/Barkana_Falls",
+            "http://dbpedia.org/resource/Shimoga",
+            "http://dbpedia.org/resource/Agumbe"
+        ],
+        [
+            "http://dbpedia.org/resource/Chunchanakatte_Falls",
+            "http://dbpedia.org/resource/Mysore",
+            "http://dbpedia.org/resource/Kaveri"
+        ],
+        [
+            "http://dbpedia.org/resource/Godchinamalaki_Falls",
+            "http://dbpedia.org/resource/Belgaum",
+            "http://dbpedia.org/resource/Gokak"
+        ]
+    ]
+}

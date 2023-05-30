@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Magnus_Petersson",
+            "http://dbpedia.org/resource/Michele_Frangilli",
+            "http://dbpedia.org/resource/Anton_Prylepau"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Galiazzo",
+            "http://dbpedia.org/resource/Oleksandr_Serdyuk",
+            "http://dbpedia.org/resource/Mattias_Eriksson"
+        ]
+    ]
+}

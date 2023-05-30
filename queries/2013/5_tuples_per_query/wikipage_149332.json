@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1905_college_football_season",
+            "http://dbpedia.org/resource/Bruce_Shorts",
+            "http://dbpedia.org/resource/1905_Oregon_Webfoots_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1906_college_football_season",
+            "http://dbpedia.org/resource/Hugo_Bezdek",
+            "http://dbpedia.org/resource/1906_Oregon_Webfoots_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1910_college_football_season",
+            "http://dbpedia.org/resource/Bill_Warner",
+            "http://dbpedia.org/resource/1910_Oregon_Webfoots_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1916_college_football_season",
+            "http://dbpedia.org/resource/1916_Oregon_Webfoots_football_team",
+            "http://dbpedia.org/resource/1917_Rose_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1919_college_football_season",
+            "http://dbpedia.org/resource/1919_Oregon_Webfoots_football_team",
+            "http://dbpedia.org/resource/1920_Rose_Bowl"
+        ]
+    ]
+}

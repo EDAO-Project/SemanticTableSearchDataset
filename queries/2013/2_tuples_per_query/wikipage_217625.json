@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/45th_United_States_Congress",
+            "http://dbpedia.org/resource/Gabriel_Bouck",
+            "http://dbpedia.org/resource/Oshkosh,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/47th_United_States_Congress",
+            "http://dbpedia.org/resource/Richard_W._Guenther",
+            "http://dbpedia.org/resource/Oshkosh,_Wisconsin"
+        ]
+    ]
+}

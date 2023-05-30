@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paul_Tergat",
+            "http://dbpedia.org/resource/Paul_Koech",
+            "http://dbpedia.org/resource/Assefa_Mezgebu"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Kibowen",
+            "http://dbpedia.org/resource/Daniel_Komen",
+            "http://dbpedia.org/resource/Paul_Malakwen_Kosgei"
+        ]
+    ]
+}

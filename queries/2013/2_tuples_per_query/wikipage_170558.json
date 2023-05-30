@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/68_Pages",
+            "http://dbpedia.org/resource/Sridhar_Rangayan",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok_Love_Story",
+            "http://dbpedia.org/resource/Poj_Arnon",
+            "http://dbpedia.org/resource/Thailand"
+        ]
+    ]
+}

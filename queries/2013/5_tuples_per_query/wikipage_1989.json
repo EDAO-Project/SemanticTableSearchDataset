@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Polk_County,_Florida",
+            "http://dbpedia.org/resource/Fort_Meade,_Florida",
+            "http://dbpedia.org/resource/U.S._Route_98_in_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Polk_County,_Florida",
+            "http://dbpedia.org/resource/Bartow,_Florida",
+            "http://dbpedia.org/resource/U.S._Route_98_in_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Polk_County,_Florida",
+            "http://dbpedia.org/resource/Eagle_Lake,_Florida",
+            "http://dbpedia.org/resource/Florida_State_Road_540"
+        ],
+        [
+            "http://dbpedia.org/resource/Polk_County,_Florida",
+            "http://dbpedia.org/resource/Winter_Haven,_Florida",
+            "http://dbpedia.org/resource/Florida_State_Road_540"
+        ],
+        [
+            "http://dbpedia.org/resource/Polk_County,_Florida",
+            "http://dbpedia.org/resource/Lake_Alfred,_Florida",
+            "http://dbpedia.org/resource/U.S._Route_92"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Omagh",
+            "http://dbpedia.org/resource/Tyrone_GAA",
+            "http://dbpedia.org/resource/Down_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Enniskillen",
+            "http://dbpedia.org/resource/Fermanagh_GAA",
+            "http://dbpedia.org/resource/Leitrim_GAA"
+        ]
+    ]
+}

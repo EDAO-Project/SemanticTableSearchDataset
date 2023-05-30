@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Crawford_County,_Ohio",
+            "http://dbpedia.org/resource/Auburn_Township,_Crawford_County,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Route_103"
+        ],
+        [
+            "http://dbpedia.org/resource/Crawford_County,_Ohio",
+            "http://dbpedia.org/resource/Tiro,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Route_98"
+        ],
+        [
+            "http://dbpedia.org/resource/Crawford_County,_Ohio",
+            "http://dbpedia.org/resource/Vernon_Township,_Crawford_County,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Route_598"
+        ],
+        [
+            "http://dbpedia.org/resource/Richland_County,_Ohio",
+            "http://dbpedia.org/resource/Sharon_Township,_Richland_County,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Route_96"
+        ],
+        [
+            "http://dbpedia.org/resource/Richland_County,_Ohio",
+            "http://dbpedia.org/resource/Shelby,_Ohio",
+            "http://dbpedia.org/resource/Ohio_State_Route_61"
+        ]
+    ]
+}

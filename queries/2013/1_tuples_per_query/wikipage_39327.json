@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_Bowl_I",
+            "http://dbpedia.org/resource/Bart_Starr",
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Len_Dawson",
+            "http://dbpedia.org/resource/Purdue_University"
+        ]
+    ]
+}

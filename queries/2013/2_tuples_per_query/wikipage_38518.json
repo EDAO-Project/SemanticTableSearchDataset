@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Japan_National_Route_301",
+            "http://dbpedia.org/resource/Toyota,_Aichi",
+            "http://dbpedia.org/resource/Aichi_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan_National_Route_248",
+            "http://dbpedia.org/resource/Seto,_Aichi",
+            "http://dbpedia.org/resource/Aichi_Prefecture"
+        ]
+    ]
+}

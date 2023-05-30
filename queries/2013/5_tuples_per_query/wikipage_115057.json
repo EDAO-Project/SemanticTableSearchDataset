@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Matrix_Online",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Monolith_Productions"
+        ],
+        [
+            "http://dbpedia.org/resource/Friends",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Artech_Digital_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Friends",
+            "http://dbpedia.org/resource/PlayStation_2",
+            "http://dbpedia.org/resource/Artech_Digital_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Justice_League_Heroes",
+            "http://dbpedia.org/resource/Nintendo_DS",
+            "http://dbpedia.org/resource/Sensory_Sweep_Studios"
+        ],
+        [
+            "http://dbpedia.org/resource/Justice_League_Heroes",
+            "http://dbpedia.org/resource/PlayStation_2",
+            "http://dbpedia.org/resource/Snowblind_Studios"
+        ]
+    ]
+}

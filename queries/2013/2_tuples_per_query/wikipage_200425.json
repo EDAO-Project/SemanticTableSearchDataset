@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Length",
+            "http://dbpedia.org/resource/Metre",
+            "http://dbpedia.org/resource/Centimetre"
+        ],
+        [
+            "http://dbpedia.org/resource/Mass",
+            "http://dbpedia.org/resource/Kilogram",
+            "http://dbpedia.org/resource/Gram"
+        ]
+    ]
+}

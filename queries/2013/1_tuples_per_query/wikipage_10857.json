@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Royal_Caribbean_Golf_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Bruce_Fleisher"
+        ]
+    ]
+}

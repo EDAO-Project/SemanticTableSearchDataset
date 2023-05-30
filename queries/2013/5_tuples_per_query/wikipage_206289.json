@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Cardinals",
+            "http://dbpedia.org/resource/University_of_Phoenix_Stadium",
+            "http://dbpedia.org/resource/Glendale,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Bills",
+            "http://dbpedia.org/resource/St._John_Fisher_College",
+            "http://dbpedia.org/resource/Pittsford,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Carolina_Panthers",
+            "http://dbpedia.org/resource/Wofford_College",
+            "http://dbpedia.org/resource/Spartanburg,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Bears",
+            "http://dbpedia.org/resource/Olivet_Nazarene_University",
+            "http://dbpedia.org/resource/Bourbonnais,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Bengals",
+            "http://dbpedia.org/resource/Paul_Brown_Stadium",
+            "http://dbpedia.org/resource/Cincinnati"
+        ]
+    ]
+}

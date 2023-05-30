@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/Kyle_Drabek",
+            "http://dbpedia.org/resource/Vin_Mazzaro",
+            "http://dbpedia.org/resource/Jon_Rauch"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/Luke_Hochevar",
+            "http://dbpedia.org/resource/Ricky_Romero",
+            "http://dbpedia.org/resource/Joakim_Soria"
+        ]
+    ]
+}

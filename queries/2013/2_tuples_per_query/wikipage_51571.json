@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_in_sports",
+            "http://dbpedia.org/resource/George_Benton",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_in_sports",
+            "http://dbpedia.org/resource/George_Benton",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

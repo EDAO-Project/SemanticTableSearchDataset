@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Riversleigh",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/Fossil"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Convict_Sites",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Convicts_in_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Bikini_Atoll",
+            "http://dbpedia.org/resource/Ralik_Chain",
+            "http://dbpedia.org/resource/Nuclear_weapons_testing"
+        ],
+        [
+            "http://dbpedia.org/resource/Roy_Mata",
+            "http://dbpedia.org/resource/Shefa_Province",
+            "http://dbpedia.org/resource/Efate"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Rennell",
+            "http://dbpedia.org/resource/Rennell_and_Bellona_Province",
+            "http://dbpedia.org/resource/Rennell_Island"
+        ]
+    ]
+}

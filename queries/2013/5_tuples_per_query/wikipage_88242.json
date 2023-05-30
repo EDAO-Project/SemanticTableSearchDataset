@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_Subirats",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/List_of_South_American_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Gabriel_Mangabeira",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/List_of_Brazilian_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Starke",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/List_of_German_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Takuro_Fujii",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/List_of_Asian_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Yevgeny_Korotyshkin",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/List_of_Russian_records_in_swimming"
+        ]
+    ]
+}

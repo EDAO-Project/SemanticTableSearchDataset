@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_Godwinson",
+            "http://dbpedia.org/resource/Kingdom_of_England",
+            "http://dbpedia.org/resource/House_of_Wessex",
+            "http://dbpedia.org/resource/Battle_of_Hastings"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_II_of_Denmark",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/House_of_Oldenburg",
+            "http://dbpedia.org/resource/Gustav_I_of_Sweden"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitellius",
+            "http://dbpedia.org/resource/Roman_Empire",
+            "http://dbpedia.org/resource/Year_of_the_Four_Emperors",
+            "http://dbpedia.org/resource/Vespasian"
+        ],
+        [
+            "http://dbpedia.org/resource/Louis_I_of_Spain",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/House_of_Bourbon",
+            "http://dbpedia.org/resource/Philip_V_of_Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Empress_Matilda",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/House_of_Plantagenet",
+            "http://dbpedia.org/resource/Stephen,_King_of_England"
+        ]
+    ]
+}

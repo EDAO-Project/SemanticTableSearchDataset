@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/34th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Unforgettable..._with_Love",
+            "http://dbpedia.org/resource/Natalie_Cole",
+            "http://dbpedia.org/resource/Grammy_Award_for_Album_of_the_Year"
+        ],
+        [
+            "http://dbpedia.org/resource/36th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/I_Will_Always_Love_You",
+            "http://dbpedia.org/resource/Whitney_Houston",
+            "http://dbpedia.org/resource/Grammy_Award_for_Record_of_the_Year"
+        ],
+        [
+            "http://dbpedia.org/resource/36th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/I_Have_Nothing",
+            "http://dbpedia.org/resource/Whitney_Houston",
+            "http://dbpedia.org/resource/Grammy_Award_for_Best_Song_Written_for_Visual_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/36th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/I_Have_Nothing",
+            "http://dbpedia.org/resource/Whitney_Houston",
+            "http://dbpedia.org/resource/Grammy_Award_for_Best_Arrangement,_Instrumental_and_Vocals"
+        ],
+        [
+            "http://dbpedia.org/resource/36th_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/When_I_Fall_in_Love",
+            "http://dbpedia.org/resource/Celine_Dion",
+            "http://dbpedia.org/resource/Grammy_Award_for_Best_Arrangement,_Instrumental_and_Vocals"
+        ]
+    ]
+}

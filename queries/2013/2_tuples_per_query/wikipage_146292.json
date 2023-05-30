@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balloy",
+            "http://dbpedia.org/resource/Bannost-Villegagnon",
+            "http://dbpedia.org/resource/Barbey,_Seine-et-Marne"
+        ],
+        [
+            "http://dbpedia.org/resource/Bernay-Vilbert",
+            "http://dbpedia.org/resource/Beton-Bazoches",
+            "http://dbpedia.org/resource/Bezalles"
+        ]
+    ]
+}

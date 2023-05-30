@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1958_in_film",
+            "http://dbpedia.org/resource/Iron_Gate",
+            "http://dbpedia.org/resource/Youssef_Chahine"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_in_film",
+            "http://dbpedia.org/resource/Oh_Islam",
+            "http://dbpedia.org/resource/Enrico_Bomba"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_in_film",
+            "http://dbpedia.org/resource/Chased_by_the_Dogs",
+            "http://dbpedia.org/resource/Kamal_El_Sheikh"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_in_film",
+            "http://dbpedia.org/resource/Cairo_30",
+            "http://dbpedia.org/resource/Salah_Abu_Seif"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_in_film",
+            "http://dbpedia.org/resource/The_Night_of_Counting_the_Years",
+            "http://dbpedia.org/resource/Shadi_Abdel_Salam"
+        ]
+    ]
+}

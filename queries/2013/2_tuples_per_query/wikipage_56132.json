@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nairo_Quintana",
+            "http://dbpedia.org/resource/Stefano_Pirazzi",
+            "http://dbpedia.org/resource/Nicolas_Edet"
+        ],
+        [
+            "http://dbpedia.org/resource/Mauricio_Soler",
+            "http://dbpedia.org/resource/Leonardo_Piepoli",
+            "http://dbpedia.org/resource/Denis_Menchov"
+        ]
+    ]
+}

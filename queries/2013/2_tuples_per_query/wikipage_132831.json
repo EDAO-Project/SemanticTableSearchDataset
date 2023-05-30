@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arganchy",
+            "http://dbpedia.org/resource/Arromanches-les-Bains",
+            "http://dbpedia.org/resource/Asnelles"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbeville",
+            "http://dbpedia.org/resource/Bayeux",
+            "http://dbpedia.org/resource/Bazenville"
+        ]
+    ]
+}

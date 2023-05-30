@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bagalkot_district",
+            "http://dbpedia.org/resource/Bagalkot",
+            "http://dbpedia.org/resource/Badami"
+        ],
+        [
+            "http://dbpedia.org/resource/Bengaluru_Nagara_district",
+            "http://dbpedia.org/resource/Bangalore",
+            "http://dbpedia.org/resource/Anekal"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangalore_Rural_district",
+            "http://dbpedia.org/resource/Bangalore",
+            "http://dbpedia.org/resource/Devanahalli"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgaum_district",
+            "http://dbpedia.org/resource/Belgaum",
+            "http://dbpedia.org/resource/Athani,_Karnataka"
+        ],
+        [
+            "http://dbpedia.org/resource/Chikkaballapura_district",
+            "http://dbpedia.org/resource/Chikkaballapur",
+            "http://dbpedia.org/resource/Bagepalli"
+        ]
+    ]
+}

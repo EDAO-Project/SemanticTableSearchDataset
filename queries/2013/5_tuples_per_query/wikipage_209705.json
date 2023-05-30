@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alamo_Lake_State_Park",
+            "http://dbpedia.org/resource/La_Paz_County,_Arizona",
+            "http://dbpedia.org/resource/Bill_Williams_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Boyce_Thompson_Arboretum_State_Park",
+            "http://dbpedia.org/resource/Pinal_County,_Arizona",
+            "http://dbpedia.org/resource/Botanical_garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Buckskin_Mountain_State_Park",
+            "http://dbpedia.org/resource/La_Paz,_Arizona",
+            "http://dbpedia.org/resource/Colorado_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Catalina_State_Park",
+            "http://dbpedia.org/resource/Pima_County,_Arizona",
+            "http://dbpedia.org/resource/Santa_Catalina_Mountains"
+        ],
+        [
+            "http://dbpedia.org/resource/Cattail_Cove_State_Park",
+            "http://dbpedia.org/resource/Mohave_County,_Arizona",
+            "http://dbpedia.org/resource/Lake_Havasu"
+        ]
+    ]
+}

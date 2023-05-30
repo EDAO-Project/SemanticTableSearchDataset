@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Waller_Thomas_Burns",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Theodore_Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Martin_Kennerly",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Herbert_Hoover"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Allred",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Franklin_D._Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/Allen_Burroughs_Hannay",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Franklin_D._Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Clarkson_Connally",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Harry_S._Truman"
+        ]
+    ]
+}

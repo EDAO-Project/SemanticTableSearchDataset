@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2003_Formula_One_season",
+            "http://dbpedia.org/resource/Michael_Schumacher",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Red_Bull_Ring",
+            "http://dbpedia.org/resource/2003_Austrian_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Formula_One_season",
+            "http://dbpedia.org/resource/Michael_Schumacher",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Red_Bull_Ring",
+            "http://dbpedia.org/resource/2002_Austrian_Grand_Prix"
+        ]
+    ]
+}

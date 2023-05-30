@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_NRL_season",
+            "http://dbpedia.org/resource/Glenn_Lazarus",
+            "http://dbpedia.org/resource/1998_Melbourne_Storm_season"
+        ]
+    ]
+}

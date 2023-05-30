@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Astana",
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Almaty"
+        ],
+        [
+            "http://dbpedia.org/resource/Almaty",
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Kazakh_Soviet_Socialist_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishkek",
+            "http://dbpedia.org/resource/Kyrgyzstan",
+            "http://dbpedia.org/resource/Chuy_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Osh",
+            "http://dbpedia.org/resource/Kyrgyzstan",
+            "http://dbpedia.org/resource/Osh_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Dushanbe",
+            "http://dbpedia.org/resource/Tajikistan",
+            "http://dbpedia.org/resource/Tajik_language"
+        ]
+    ]
+}

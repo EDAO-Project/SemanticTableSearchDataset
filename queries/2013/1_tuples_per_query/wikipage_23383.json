@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnson_Wax_Headquarters",
+            "http://dbpedia.org/resource/Racine,_Wisconsin",
+            "http://dbpedia.org/resource/Racine_County,_Wisconsin",
+            "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+        ]
+    ]
+}

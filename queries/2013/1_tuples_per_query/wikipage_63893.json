@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alex_Arias",
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/George_Washington_Educational_Campus"
+        ]
+    ]
+}

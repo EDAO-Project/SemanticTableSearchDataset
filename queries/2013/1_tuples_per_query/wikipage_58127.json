@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_2_in_Vermont",
+            "http://dbpedia.org/resource/Danville,_Vermont",
+            "http://dbpedia.org/resource/St._Johnsbury,_Vermont"
+        ]
+    ]
+}

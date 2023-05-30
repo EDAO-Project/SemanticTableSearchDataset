@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Whenever,_Wherever",
+            "http://dbpedia.org/resource/Shakira",
+            "http://dbpedia.org/resource/Under_Rug_Swept",
+            "http://dbpedia.org/resource/Alanis_Morissette"
+        ],
+        [
+            "http://dbpedia.org/resource/Whenever,_Wherever",
+            "http://dbpedia.org/resource/Shakira",
+            "http://dbpedia.org/resource/Under_Rug_Swept",
+            "http://dbpedia.org/resource/Alanis_Morissette"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Torpedo_Moscow",
+            "http://dbpedia.org/resource/PFC_CSKA_Moscow",
+            "http://dbpedia.org/resource/Luzhniki_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Spartak_Moscow",
+            "http://dbpedia.org/resource/PFC_CSKA_Moscow",
+            "http://dbpedia.org/resource/Luzhniki_Stadium"
+        ]
+    ]
+}

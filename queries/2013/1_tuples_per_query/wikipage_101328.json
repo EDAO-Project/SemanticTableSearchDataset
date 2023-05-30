@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1992_Korean_League_Cup",
+            "http://dbpedia.org/resource/Adidas_Cup",
+            "http://dbpedia.org/resource/Seongnam_FC",
+            "http://dbpedia.org/resource/FC_Seoul"
+        ]
+    ]
+}

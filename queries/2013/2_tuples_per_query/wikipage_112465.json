@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Tiger_Woods"
+        ],
+        [
+            "http://dbpedia.org/resource/South_African_PGA_Championship",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Tony_Johnstone"
+        ]
+    ]
+}

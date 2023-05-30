@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wests_Tigers",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Krisnan_Inu",
+            "http://dbpedia.org/resource/Luke_Burt"
+        ]
+    ]
+}

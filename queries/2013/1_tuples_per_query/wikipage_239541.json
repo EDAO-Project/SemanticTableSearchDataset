@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Adam_Wainwright",
+            "http://dbpedia.org/resource/Woody_Williams",
+            "http://dbpedia.org/resource/Jason_Isringhausen"
+        ]
+    ]
+}

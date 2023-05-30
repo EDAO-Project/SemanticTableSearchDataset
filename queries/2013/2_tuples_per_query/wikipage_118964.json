@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bavarian_State_Opera",
+            "http://dbpedia.org/resource/National_Theatre_Munich",
+            "http://dbpedia.org/resource/Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Canadian_Opera_Company",
+            "http://dbpedia.org/resource/Four_Seasons_Centre",
+            "http://dbpedia.org/resource/Toronto"
+        ]
+    ]
+}

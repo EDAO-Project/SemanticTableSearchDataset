@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kristoff_St._John",
+            "http://dbpedia.org/resource/The_Young_and_the_Restless",
+            "http://dbpedia.org/resource/Keith_Hamilton_Cobb"
+        ],
+        [
+            "http://dbpedia.org/resource/Kristoff_St._John",
+            "http://dbpedia.org/resource/The_Young_and_the_Restless",
+            "http://dbpedia.org/resource/Keith_Hamilton_Cobb"
+        ]
+    ]
+}

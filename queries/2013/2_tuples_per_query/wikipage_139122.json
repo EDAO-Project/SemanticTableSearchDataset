@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Willie_Adams",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Northwest_Territories",
+            "http://dbpedia.org/resource/Pierre_Trudeau"
+        ],
+        [
+            "http://dbpedia.org/resource/Margaret_Jean_Anderson",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/New_Brunswick",
+            "http://dbpedia.org/resource/Pierre_Trudeau"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minnesota_Vikings",
+            "http://dbpedia.org/resource/Hubert_H._Humphrey_Metrodome",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ]
+    ]
+}

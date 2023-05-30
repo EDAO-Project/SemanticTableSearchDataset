@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Poland",
+            "http://dbpedia.org/resource/2007_Warsaw_Snooker_Tour",
+            "http://dbpedia.org/resource/Torwar_Hall",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Mark_Selby"
+        ],
+        [
+            "http://dbpedia.org/resource/Wales",
+            "http://dbpedia.org/resource/Pontins",
+            "http://dbpedia.org/resource/Prestatyn",
+            "http://dbpedia.org/resource/Simon_Bedford",
+            "http://dbpedia.org/resource/Gary_Wilkinson"
+        ]
+    ]
+}

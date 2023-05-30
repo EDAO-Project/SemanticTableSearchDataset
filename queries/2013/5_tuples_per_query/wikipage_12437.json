@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Guillermo_Mota",
+            "http://dbpedia.org/resource/David_Weathers",
+            "http://dbpedia.org/resource/Bob_Wickman"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/John_Smoltz",
+            "http://dbpedia.org/resource/Aaron_Harang",
+            "http://dbpedia.org/resource/Ken_Ray"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Rockies",
+            "http://dbpedia.org/resource/Eric_Milton",
+            "http://dbpedia.org/resource/Jeff_Francis",
+            "http://dbpedia.org/resource/Eddie_Guardado"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Rockies",
+            "http://dbpedia.org/resource/Aaron_Harang",
+            "http://dbpedia.org/resource/Jason_Jennings",
+            "http://dbpedia.org/resource/Eddie_Guardado"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Pedro_Feliciano",
+            "http://dbpedia.org/resource/Gary_Majewski",
+            "http://dbpedia.org/resource/Billy_Wagner"
+        ]
+    ]
+}

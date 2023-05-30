@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Eddie_Leon",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Arizona_Wildcats_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Dick_Ruthven",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Fresno_State_Bulldogs_baseball"
+        ]
+    ]
+}

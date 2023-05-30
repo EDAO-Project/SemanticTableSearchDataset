@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Helsinki_Olympic_Stadium",
+            "http://dbpedia.org/resource/Helsinki",
+            "http://dbpedia.org/resource/Finland_national_football_team"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Long_Parliament",
+            "http://dbpedia.org/resource/Roundhead",
+            "http://dbpedia.org/resource/Cavalier"
+        ]
+    ]
+}

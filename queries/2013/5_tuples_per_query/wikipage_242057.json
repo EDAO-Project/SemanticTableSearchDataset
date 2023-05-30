@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ESPN_College_Football",
+            "http://dbpedia.org/resource/Brent_Musburger",
+            "http://dbpedia.org/resource/Kirk_Herbstreit",
+            "http://dbpedia.org/resource/Heather_Cox"
+        ],
+        [
+            "http://dbpedia.org/resource/ESPN_College_Football",
+            "http://dbpedia.org/resource/Brent_Musburger",
+            "http://dbpedia.org/resource/Kirk_Herbstreit",
+            "http://dbpedia.org/resource/Erin_Andrews"
+        ],
+        [
+            "http://dbpedia.org/resource/ESPN_College_Football",
+            "http://dbpedia.org/resource/Brent_Musburger",
+            "http://dbpedia.org/resource/Kirk_Herbstreit",
+            "http://dbpedia.org/resource/Erin_Andrews"
+        ],
+        [
+            "http://dbpedia.org/resource/ESPN_College_Football_on_ABC",
+            "http://dbpedia.org/resource/Brent_Musburger",
+            "http://dbpedia.org/resource/Kirk_Herbstreit",
+            "http://dbpedia.org/resource/Lisa_Salters"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Broadcasting_Company",
+            "http://dbpedia.org/resource/Brent_Musburger",
+            "http://dbpedia.org/resource/Kirk_Herbstreit",
+            "http://dbpedia.org/resource/Lisa_Salters"
+        ]
+    ]
+}

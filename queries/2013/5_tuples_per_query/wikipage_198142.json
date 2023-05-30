@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Hyderabad",
+            "http://dbpedia.org/resource/Telugu_language",
+            "http://dbpedia.org/resource/Urdu"
+        ],
+        [
+            "http://dbpedia.org/resource/Assam",
+            "http://dbpedia.org/resource/Dispur",
+            "http://dbpedia.org/resource/Assamese_language",
+            "http://dbpedia.org/resource/Bengali_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Bihar",
+            "http://dbpedia.org/resource/Patna",
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/Urdu"
+        ],
+        [
+            "http://dbpedia.org/resource/Chhattisgarh",
+            "http://dbpedia.org/resource/Raipur",
+            "http://dbpedia.org/resource/Chhattisgarhi_language",
+            "http://dbpedia.org/resource/Hindi"
+        ],
+        [
+            "http://dbpedia.org/resource/Haryana",
+            "http://dbpedia.org/resource/Chandigarh",
+            "http://dbpedia.org/resource/Hindi",
+            "http://dbpedia.org/resource/Punjabi_language"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Nallari_Kiran_Kumar_Reddy",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Arunachal_Pradesh",
+            "http://dbpedia.org/resource/Nabam_Tuki",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Assam",
+            "http://dbpedia.org/resource/Tarun_Gogoi",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Chhattisgarh",
+            "http://dbpedia.org/resource/Raman_Singh",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Goa",
+            "http://dbpedia.org/resource/Manohar_Parrikar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ]
+    ]
+}

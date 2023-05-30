@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_Two",
+            "http://dbpedia.org/resource/Jackie_Stewart",
+            "http://dbpedia.org/resource/Matra"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_Two",
+            "http://dbpedia.org/resource/Jochen_Rindt",
+            "http://dbpedia.org/resource/Brabham"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Jack_Brabham",
+            "http://dbpedia.org/resource/Brabham"
+        ],
+        [
+            "http://dbpedia.org/resource/Sports_car_racing",
+            "http://dbpedia.org/resource/Graham_Hill",
+            "http://dbpedia.org/resource/Scuderia_Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Jim_Clark",
+            "http://dbpedia.org/resource/Team_Lotus"
+        ]
+    ]
+}

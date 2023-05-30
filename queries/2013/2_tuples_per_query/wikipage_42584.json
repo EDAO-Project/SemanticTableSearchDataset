@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Orion_International",
+            "http://dbpedia.org/resource/Detroit_Diesel",
+            "http://dbpedia.org/resource/Pickering_Transit"
+        ],
+        [
+            "http://dbpedia.org/resource/Orion_International",
+            "http://dbpedia.org/resource/Detroit_Diesel",
+            "http://dbpedia.org/resource/Ajax_Transit"
+        ]
+    ]
+}

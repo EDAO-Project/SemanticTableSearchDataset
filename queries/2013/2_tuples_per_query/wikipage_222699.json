@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mohammed_Mourhit",
+            "http://dbpedia.org/resource/Serhiy_Lebid",
+            "http://dbpedia.org/resource/Charles_Kamathi"
+        ],
+        [
+            "http://dbpedia.org/resource/Enock_Koech",
+            "http://dbpedia.org/resource/Kenenisa_Bekele",
+            "http://dbpedia.org/resource/Benjamin_Limo"
+        ]
+    ]
+}

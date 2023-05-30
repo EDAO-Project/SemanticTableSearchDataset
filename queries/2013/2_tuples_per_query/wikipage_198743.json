@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Triple_H",
+            "http://dbpedia.org/resource/Milwaukee",
+            "http://dbpedia.org/resource/WWE_Raw",
+            "http://dbpedia.org/resource/Professional_wrestling_authority_figures"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Benoit",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/WrestleMania_XX",
+            "http://dbpedia.org/resource/Professional_wrestling_match_types"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eddie_Gormley",
+            "http://dbpedia.org/resource/Adidas",
+            "http://dbpedia.org/resource/Carlisle_Grounds"
+        ]
+    ]
+}

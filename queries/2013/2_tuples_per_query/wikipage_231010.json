@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1927",
+            "http://dbpedia.org/resource/Tore_Edman",
+            "http://dbpedia.org/resource/Willen_Dick",
+            "http://dbpedia.org/resource/Bertil_Carlsson"
+        ],
+        [
+            "http://dbpedia.org/resource/FIS_Nordic_World_Ski_Championships_1929",
+            "http://dbpedia.org/resource/Sigmund_Ruud",
+            "http://dbpedia.org/resource/Kristian_Johansson",
+            "http://dbpedia.org/resource/Hans_Kleppen"
+        ]
+    ]
+}

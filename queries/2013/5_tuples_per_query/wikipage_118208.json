@@ -1,0 +1,28 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blodpalt",
+            "http://dbpedia.org/resource/Blodpalt",
+            "http://dbpedia.org/resource/Dumpling"
+        ],
+        [
+            "http://dbpedia.org/resource/Falukorv",
+            "http://dbpedia.org/resource/Falukorv",
+            "http://dbpedia.org/resource/Falun"
+        ],
+        [
+            "http://dbpedia.org/resource/Pickled_herring",
+            "http://dbpedia.org/resource/Pickled_herring",
+            "http://dbpedia.org/resource/Herring_as_food"
+        ],
+        [
+            "http://dbpedia.org/resource/Janssons_frestelse",
+            "http://dbpedia.org/resource/Casserole"
+        ],
+        [
+            "http://dbpedia.org/resource/Christmas_ham",
+            "http://dbpedia.org/resource/Christmas_ham",
+            "http://dbpedia.org/resource/Christmas"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christ_Church,_Chatburn",
+            "http://dbpedia.org/resource/Chatburn",
+            "http://dbpedia.org/resource/Romanesque_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Holy_Trinity_Church,_Howgill",
+            "http://dbpedia.org/resource/Sedbergh",
+            "http://dbpedia.org/resource/English_Gothic_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Christ_Church,_Walmsley",
+            "http://dbpedia.org/resource/Bolton",
+            "http://dbpedia.org/resource/Chapel_of_ease"
+        ],
+        [
+            "http://dbpedia.org/resource/Holy_Trinity_Church,_Bickerton",
+            "http://dbpedia.org/resource/Bickerton,_Cheshire",
+            "http://dbpedia.org/resource/Chapel_of_ease"
+        ],
+        [
+            "http://dbpedia.org/resource/Capernwray_Chapel",
+            "http://dbpedia.org/resource/Lancaster,_Lancashire",
+            "http://dbpedia.org/resource/Capernwray_Hall"
+        ]
+    ]
+}

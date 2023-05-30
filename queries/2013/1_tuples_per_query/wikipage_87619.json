@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WPOP",
+            "http://dbpedia.org/resource/Hartford,_Connecticut",
+            "http://dbpedia.org/resource/Sports_radio"
+        ]
+    ]
+}

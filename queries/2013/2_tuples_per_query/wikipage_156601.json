@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Riho",
+            "http://dbpedia.org/resource/Saitama,_Saitama",
+            "http://dbpedia.org/resource/Nanae_Takahashi"
+        ],
+        [
+            "http://dbpedia.org/resource/Miyako_Matsumoto",
+            "http://dbpedia.org/resource/Saitama,_Saitama",
+            "http://dbpedia.org/resource/Professional_wrestling_match_types"
+        ]
+    ]
+}

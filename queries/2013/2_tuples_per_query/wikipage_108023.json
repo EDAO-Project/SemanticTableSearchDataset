@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newcastle_Knights",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium",
+            "http://dbpedia.org/resource/Lance_Hohaia",
+            "http://dbpedia.org/resource/Stacey_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Canterbury-Bankstown_Bulldogs",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium",
+            "http://dbpedia.org/resource/Lance_Hohaia",
+            "http://dbpedia.org/resource/PJ_Marsh"
+        ]
+    ]
+}

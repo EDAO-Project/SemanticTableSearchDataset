@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Naval_Air_Facility_Adak",
+            "http://dbpedia.org/resource/Adak,_Alaska",
+            "http://dbpedia.org/resource/Aleutians_West_Census_Area,_Alaska",
+            "http://dbpedia.org/resource/World_War_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Anangula_Archeological_District",
+            "http://dbpedia.org/resource/Nikolski,_Alaska",
+            "http://dbpedia.org/resource/Aleutians_West_Census_Area,_Alaska",
+            "http://dbpedia.org/resource/Aleutian_Islands"
+        ]
+    ]
+}

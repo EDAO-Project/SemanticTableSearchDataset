@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jim_Paciorek",
+            "http://dbpedia.org/resource/Michigan_Wolverines_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Steinbach",
+            "http://dbpedia.org/resource/Minnesota_Golden_Gophers_baseball",
+            "http://dbpedia.org/resource/Third_Base"
+        ]
+    ]
+}

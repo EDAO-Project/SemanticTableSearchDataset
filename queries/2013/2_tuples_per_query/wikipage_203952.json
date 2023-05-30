@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Herbie_Hancock",
+            "http://dbpedia.org/resource/The_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Tom_Petty_and_the_Heartbreakers",
+            "http://dbpedia.org/resource/Bryan_Adams"
+        ]
+    ]
+}

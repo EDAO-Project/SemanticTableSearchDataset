@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avis_Vintage_Cars",
+            "http://dbpedia.org/resource/Antique_car",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/AVPX",
+            "http://dbpedia.org/resource/Laser_tag",
+            "http://dbpedia.org/resource/Sudden_Impact!_Entertainment_Company"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Monique_Currie",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Chicago_Sky",
+            "http://dbpedia.org/resource/Charlotte_Sting"
+        ],
+        [
+            "http://dbpedia.org/resource/Tangela_Smith",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Minnesota_Lynx",
+            "http://dbpedia.org/resource/Charlotte_Sting"
+        ]
+    ]
+}

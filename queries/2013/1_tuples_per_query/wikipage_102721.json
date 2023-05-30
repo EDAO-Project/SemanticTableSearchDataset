@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amateur_wrestling",
+            "http://dbpedia.org/resource/World_Wrestling_Championships",
+            "http://dbpedia.org/resource/1969_World_Wrestling_Championships"
+        ]
+    ]
+}

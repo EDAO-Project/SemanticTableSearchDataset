@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shropshire",
+            "http://dbpedia.org/resource/History_of_Anglo-Saxon_England",
+            "http://dbpedia.org/resource/Roman_Empire"
+        ],
+        [
+            "http://dbpedia.org/resource/Holy_Trinity_Church,_Blatherwycke",
+            "http://dbpedia.org/resource/Northamptonshire",
+            "http://dbpedia.org/resource/Middle_Ages"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_Bowl_I",
+            "http://dbpedia.org/resource/Bart_Starr",
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Len_Dawson",
+            "http://dbpedia.org/resource/Purdue_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_II",
+            "http://dbpedia.org/resource/Bart_Starr",
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Daryle_Lamonica",
+            "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish_football"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_III",
+            "http://dbpedia.org/resource/Joe_Namath",
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Earl_Morrall",
+            "http://dbpedia.org/resource/Michigan_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_IV",
+            "http://dbpedia.org/resource/Len_Dawson",
+            "http://dbpedia.org/resource/Purdue_University",
+            "http://dbpedia.org/resource/Joe_Kapp",
+            "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_V",
+            "http://dbpedia.org/resource/Johnny_Unitas",
+            "http://dbpedia.org/resource/University_of_Louisville",
+            "http://dbpedia.org/resource/Craig_Morton",
+            "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        ]
+    ]
+}

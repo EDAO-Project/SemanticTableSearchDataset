@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rancho_San_Pedro",
+            "http://dbpedia.org/resource/Pedro_Fages",
+            "http://dbpedia.org/resource/Manuel_Dominguez",
+            "http://dbpedia.org/resource/San_Pedro,_Los_Angeles",
+            "http://dbpedia.org/resource/Los_Angeles_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Rancho_Los_Nietos",
+            "http://dbpedia.org/resource/Pedro_Fages",
+            "http://dbpedia.org/resource/Manuel_Nieto",
+            "http://dbpedia.org/resource/Long_Beach,_California",
+            "http://dbpedia.org/resource/Los_Angeles_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Rancho_Huerta_de_Cuati",
+            "http://dbpedia.org/resource/Juan_Bautista_Alvarado",
+            "http://dbpedia.org/resource/Hugo_Reid",
+            "http://dbpedia.org/resource/San_Marino,_California",
+            "http://dbpedia.org/resource/Los_Angeles_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Rancho_Saucelito",
+            "http://dbpedia.org/resource/Juan_Bautista_Alvarado",
+            "http://dbpedia.org/resource/William_A._Richardson",
+            "http://dbpedia.org/resource/Sausalito,_California",
+            "http://dbpedia.org/resource/Marin_County,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Rancho_Napa",
+            "http://dbpedia.org/resource/Juan_Bautista_Alvarado",
+            "http://dbpedia.org/resource/Mariano_Guadalupe_Vallejo",
+            "http://dbpedia.org/resource/Napa,_California",
+            "http://dbpedia.org/resource/Napa_County,_California"
+        ]
+    ]
+}

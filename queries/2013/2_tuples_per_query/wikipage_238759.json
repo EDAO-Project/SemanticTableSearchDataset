@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pierpont_Edwards",
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Thomas_Jefferson"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Bristol",
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_John_Quincy_Adams"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Bandit_of_Zhobe",
+            "http://dbpedia.org/resource/John_Gilling",
+            "http://dbpedia.org/resource/Victor_Mature"
+        ]
+    ]
+}

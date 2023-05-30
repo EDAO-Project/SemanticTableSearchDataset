@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dance_Suomi",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/So_You_Think_You_Can_Dance"
+        ],
+        [
+            "http://dbpedia.org/resource/Danse_avec_les_stars",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Dancing_with_the_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Dansefeber",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/So_You_Think_You_Can_Dance"
+        ],
+        [
+            "http://dbpedia.org/resource/Dansez_pentru_tine",
+            "http://dbpedia.org/resource/Romania",
+            "http://dbpedia.org/resource/Dancing_with_the_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Dance_Contest",
+            "http://dbpedia.org/resource/Europe",
+            "http://dbpedia.org/resource/European_Broadcasting_Union"
+        ]
+    ]
+}

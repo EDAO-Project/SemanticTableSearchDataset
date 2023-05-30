@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/The_Conscript",
+            "http://dbpedia.org/resource/Roland_Verhavert"
+        ],
+        [
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/The_Last_Summer",
+            "http://dbpedia.org/resource/Christo_Christov"
+        ]
+    ]
+}

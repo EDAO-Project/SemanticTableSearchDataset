@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maryland_SoccerPlex",
+            "http://dbpedia.org/resource/Washington_Freedom",
+            "http://dbpedia.org/resource/Lauren_Holiday"
+        ],
+        [
+            "http://dbpedia.org/resource/Harvard_Stadium",
+            "http://dbpedia.org/resource/Philadelphia_Independence",
+            "http://dbpedia.org/resource/Kelly_Smith"
+        ]
+    ]
+}

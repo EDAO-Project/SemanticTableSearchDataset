@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cyprus",
+            "http://dbpedia.org/resource/Cyprus_Stock_Exchange",
+            "http://dbpedia.org/resource/Nicosia"
+        ],
+        [
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Iranian_oil_bourse",
+            "http://dbpedia.org/resource/Tehran"
+        ]
+    ]
+}

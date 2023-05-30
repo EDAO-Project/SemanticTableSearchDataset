@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Helena_Rakoczy",
+            "http://dbpedia.org/resource/Marja_Nutti",
+            "http://dbpedia.org/resource/Licia_Macchini"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Larisa_Latynina",
+            "http://dbpedia.org/resource/Sofia_Muratova",
+            "http://dbpedia.org/resource/Keiko_Tanaka-Ikeda"
+        ]
+    ]
+}

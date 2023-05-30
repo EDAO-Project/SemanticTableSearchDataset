@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1982_in_sports",
+            "http://dbpedia.org/resource/Tulsa_Golden_Hurricane",
+            "http://dbpedia.org/resource/Kathy_Guadagnino"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_in_sports",
+            "http://dbpedia.org/resource/TCU_Horned_Frogs",
+            "http://dbpedia.org/resource/Penny_Hammel"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_in_sports",
+            "http://dbpedia.org/resource/Miami_Hurricanes",
+            "http://dbpedia.org/resource/Cindy_Schreyer"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_in_sports",
+            "http://dbpedia.org/resource/Florida_Gators",
+            "http://dbpedia.org/resource/Danielle_Ammaccapane"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_in_sports",
+            "http://dbpedia.org/resource/Florida_Gators",
+            "http://dbpedia.org/resource/Page_Dunlap"
+        ]
+    ]
+}

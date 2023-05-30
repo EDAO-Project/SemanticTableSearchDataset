@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HM_Prison_Manchester",
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Cruciform"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4th_Lambda_Literary_Awards",
+            "http://dbpedia.org/resource/Frank_M._Robinson",
+            "http://dbpedia.org/resource/The_Dark_Beyond_the_Stars",
+            "http://dbpedia.org/resource/Tor_Books"
+        ]
+    ]
+}

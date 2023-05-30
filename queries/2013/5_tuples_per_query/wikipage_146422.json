@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bavinchove",
+            "http://dbpedia.org/resource/Bergues",
+            "http://dbpedia.org/resource/Berthen",
+            "http://dbpedia.org/resource/Bierne"
+        ],
+        [
+            "http://dbpedia.org/resource/Bissezeele",
+            "http://dbpedia.org/resource/Blaringhem",
+            "http://dbpedia.org/resource/Boeschepe",
+            "http://dbpedia.org/resource/Bollezeele"
+        ],
+        [
+            "http://dbpedia.org/resource/Brouckerque",
+            "http://dbpedia.org/resource/Broxeele",
+            "http://dbpedia.org/resource/Buysscheure",
+            "http://dbpedia.org/resource/Cappelle-Brouck"
+        ],
+        [
+            "http://dbpedia.org/resource/Coudekerque-Village",
+            "http://dbpedia.org/resource/Craywick",
+            "http://dbpedia.org/resource/Crochte",
+            "http://dbpedia.org/resource/Drincham"
+        ],
+        [
+            "http://dbpedia.org/resource/Dunkirk",
+            "http://dbpedia.org/resource/Ebblinghem",
+            "http://dbpedia.org/resource/Eecke",
+            "http://dbpedia.org/resource/Eringhem"
+        ]
+    ]
+}

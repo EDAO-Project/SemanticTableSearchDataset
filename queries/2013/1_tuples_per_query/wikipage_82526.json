@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bart_Starr",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/Green_Bay_Packers"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Derek_and_Clive_Get_the_Horn",
+            "http://dbpedia.org/resource/Russell_Mulcahy",
+            "http://dbpedia.org/resource/Peter_Cook"
+        ],
+        [
+            "http://dbpedia.org/resource/Escape_to_Athena",
+            "http://dbpedia.org/resource/George_P._Cosmatos",
+            "http://dbpedia.org/resource/Roger_Moore"
+        ]
+    ]
+}

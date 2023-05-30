@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Morgan_Stanley",
+            "http://dbpedia.org/resource/List_of_trading_losses"
+        ]
+    ]
+}

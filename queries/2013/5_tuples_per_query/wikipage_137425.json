@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Augusto_Farfus",
+            "http://dbpedia.org/resource/N.Technology",
+            "http://dbpedia.org/resource/Alfa_Romeo_156"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicola_Larini",
+            "http://dbpedia.org/resource/RML_Group",
+            "http://dbpedia.org/resource/Daewoo_Lacetti"
+        ],
+        [
+            "http://dbpedia.org/resource/Alain_Menu",
+            "http://dbpedia.org/resource/RML_Group",
+            "http://dbpedia.org/resource/Daewoo_Lacetti"
+        ],
+        [
+            "http://dbpedia.org/resource/Adriano_de_Micheli",
+            "http://dbpedia.org/resource/JAS_Motorsport",
+            "http://dbpedia.org/resource/Honda_Accord"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Funke",
+            "http://dbpedia.org/resource/Hotfiel_Sport",
+            "http://dbpedia.org/resource/Ford_Focus"
+        ]
+    ]
+}

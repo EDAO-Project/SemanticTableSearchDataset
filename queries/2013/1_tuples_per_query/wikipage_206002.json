@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1962_Formula_One_season",
+            "http://dbpedia.org/resource/Lotus_24",
+            "http://dbpedia.org/resource/Dunlop_Tyres",
+            "http://dbpedia.org/resource/Coventry_Climax",
+            "http://dbpedia.org/resource/Jack_Brabham"
+        ]
+    ]
+}

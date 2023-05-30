@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_Ovechkin",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Washington_Capitals",
+            "http://dbpedia.org/resource/HC_Dynamo_Moscow"
+        ]
+    ]
+}

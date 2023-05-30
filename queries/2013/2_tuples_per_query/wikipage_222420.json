@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/In_Your_House_1",
+            "http://dbpedia.org/resource/Syracuse,_New_York",
+            "http://dbpedia.org/resource/Oncenter_War_Memorial_Arena",
+            "http://dbpedia.org/resource/Kevin_Nash"
+        ],
+        [
+            "http://dbpedia.org/resource/In_Your_House_2:_The_Lumberjacks",
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/Nashville_Municipal_Auditorium",
+            "http://dbpedia.org/resource/Kevin_Nash"
+        ]
+    ]
+}

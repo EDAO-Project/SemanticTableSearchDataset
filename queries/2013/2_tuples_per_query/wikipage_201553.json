@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Figure_skating_at_the_1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Madge_Syers",
+            "http://dbpedia.org/resource/Elsa_Rendschmidt",
+            "http://dbpedia.org/resource/Dorothy_Greenhough-Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/Figure_skating_at_the_1924_Winter_Olympics",
+            "http://dbpedia.org/resource/Herma_Szabo",
+            "http://dbpedia.org/resource/Beatrix_Loughran",
+            "http://dbpedia.org/resource/Ethel_Muckelt"
+        ]
+    ]
+}

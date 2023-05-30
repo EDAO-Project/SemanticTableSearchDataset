@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aldersley_Junction",
+            "http://dbpedia.org/resource/BCN_Main_Line",
+            "http://dbpedia.org/resource/Ordnance_Survey_National_Grid"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Junction",
+            "http://dbpedia.org/resource/Birmingham_and_Fazeley_Canal",
+            "http://dbpedia.org/resource/Ordnance_Survey_National_Grid"
+        ],
+        [
+            "http://dbpedia.org/resource/Autherley_Junction",
+            "http://dbpedia.org/resource/Shropshire_Union_Canal",
+            "http://dbpedia.org/resource/Ordnance_Survey_National_Grid"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbridge_Junction",
+            "http://dbpedia.org/resource/Shropshire_Union_Canal",
+            "http://dbpedia.org/resource/Ordnance_Survey_National_Grid"
+        ],
+        [
+            "http://dbpedia.org/resource/Birchills_Junction",
+            "http://dbpedia.org/resource/Walsall_Canal",
+            "http://dbpedia.org/resource/Ordnance_Survey_National_Grid"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angelo_Mosca",
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina",
+            "http://dbpedia.org/resource/House_show",
+            "http://dbpedia.org/resource/Mr._Wrestling"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Eadie",
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina",
+            "http://dbpedia.org/resource/House_show",
+            "http://dbpedia.org/resource/Blackjack_Mulligan"
+        ]
+    ]
+}

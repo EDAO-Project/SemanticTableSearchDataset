@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/RTBF",
+            "http://dbpedia.org/resource/RTBF"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/CBC_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Czech_Republic",
+            "http://dbpedia.org/resource/Czechoslovak_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Ecuador",
+            "http://dbpedia.org/resource/Ecuavisa"
+        ],
+        [
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Yle"
+        ],
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/France_3"
+        ],
+        [
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Hellenic_Broadcasting_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/TVB"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Minimax"
+        ],
+        [
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Doordarshan"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_IIHF_European_U18_Championship",
+            "http://dbpedia.org/resource/Soviet_Union_national_under-18_ice_hockey_team",
+            "http://dbpedia.org/resource/West_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_IIHF_European_U18_Championship",
+            "http://dbpedia.org/resource/Soviet_Union_national_under-18_ice_hockey_team",
+            "http://dbpedia.org/resource/Finland"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_IIHF_European_U18_Championship",
+            "http://dbpedia.org/resource/Soviet_Union_national_under-18_ice_hockey_team",
+            "http://dbpedia.org/resource/Poland"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_IIHF_European_U18_Championship",
+            "http://dbpedia.org/resource/Soviet_Union_national_under-18_ice_hockey_team",
+            "http://dbpedia.org/resource/Czechoslovakia"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_IIHF_European_U18_Championship",
+            "http://dbpedia.org/resource/Soviet_Union_national_under-18_ice_hockey_team",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ]
+    ]
+}

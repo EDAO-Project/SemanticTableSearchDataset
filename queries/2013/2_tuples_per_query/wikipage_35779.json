@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California_State_Route_99",
+            "http://dbpedia.org/resource/Sacramento,_California",
+            "http://dbpedia.org/resource/Oregon",
+            "http://dbpedia.org/resource/California_State_Route_160"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Route_99",
+            "http://dbpedia.org/resource/Sacramento,_California",
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/California_State_Route_160"
+        ]
+    ]
+}

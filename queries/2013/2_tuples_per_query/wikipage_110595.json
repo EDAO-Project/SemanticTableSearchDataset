@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Usain_Bolt",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/2003_Pan_American_Junior_Athletics_Championships",
+            "http://dbpedia.org/resource/Bridgetown"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Obea_Moore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Pan_American_Junior_Athletics_Championships",
+            "http://dbpedia.org/resource/Santiago"
+        ]
+    ]
+}

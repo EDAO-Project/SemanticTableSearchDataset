@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zenyatta",
+            "http://dbpedia.org/resource/John_Shirreffs",
+            "http://dbpedia.org/resource/Jerry_Moss"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghostzapper",
+            "http://dbpedia.org/resource/Robert_J._Frankel",
+            "http://dbpedia.org/resource/Frank_Stronach"
+        ]
+    ]
+}

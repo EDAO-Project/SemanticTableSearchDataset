@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arthur_Tonkin",
+            "http://dbpedia.org/resource/Gordon_RFC",
+            "http://dbpedia.org/resource/Rugby_union_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Trevor_Allan",
+            "http://dbpedia.org/resource/Gordon_RFC",
+            "http://dbpedia.org/resource/Rugby_union_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Howell",
+            "http://dbpedia.org/resource/Randwick_DRUFC",
+            "http://dbpedia.org/resource/Rugby_union_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Phil_Hardcastle",
+            "http://dbpedia.org/resource/Sydney_Uni_Football_Club",
+            "http://dbpedia.org/resource/Rugby_union_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Clem_Windsor",
+            "http://dbpedia.org/resource/University_of_Queensland_Rugby_Club",
+            "http://dbpedia.org/resource/Rugby_union_positions"
+        ]
+    ]
+}

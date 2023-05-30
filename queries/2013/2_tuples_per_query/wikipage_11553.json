@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Epifanio_de_los_Santos",
+            "http://dbpedia.org/resource/University_of_Santo_Tomas",
+            "http://dbpedia.org/resource/Malabon"
+        ],
+        [
+            "http://dbpedia.org/resource/Manuel_Roxas",
+            "http://dbpedia.org/resource/University_of_the_Philippines",
+            "http://dbpedia.org/resource/Roxas,_Capiz"
+        ]
+    ]
+}

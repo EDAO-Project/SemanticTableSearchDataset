@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_Cejudo",
+            "http://dbpedia.org/resource/Tomohiro_Matsunaga",
+            "http://dbpedia.org/resource/Radoslav_Velikov"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Cejudo",
+            "http://dbpedia.org/resource/Tomohiro_Matsunaga",
+            "http://dbpedia.org/resource/Besik_Kudukhov"
+        ]
+    ]
+}

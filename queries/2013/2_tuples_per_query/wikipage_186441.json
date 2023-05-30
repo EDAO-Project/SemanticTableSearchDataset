@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ortstock",
+            "http://dbpedia.org/resource/Glarus_Alps",
+            "http://dbpedia.org/resource/Schwyz_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Pfannenstock",
+            "http://dbpedia.org/resource/Glarus_Alps",
+            "http://dbpedia.org/resource/Schwyz_District"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Northern_Eagles",
+            "http://dbpedia.org/resource/Central_Coast_Stadium",
+            "http://dbpedia.org/resource/Cliff_Beverley",
+            "http://dbpedia.org/resource/Ivan_Cleary"
+        ],
+        [
+            "http://dbpedia.org/resource/Wests_Tigers",
+            "http://dbpedia.org/resource/Campbelltown_Stadium",
+            "http://dbpedia.org/resource/Wairangi_Koopu",
+            "http://dbpedia.org/resource/Ivan_Cleary"
+        ],
+        [
+            "http://dbpedia.org/resource/St._George_Illawarra_Dragons",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium",
+            "http://dbpedia.org/resource/Monty_Betham",
+            "http://dbpedia.org/resource/Ivan_Cleary"
+        ],
+        [
+            "http://dbpedia.org/resource/Parramatta_Eels",
+            "http://dbpedia.org/resource/Parramatta_Stadium",
+            "http://dbpedia.org/resource/Monty_Betham",
+            "http://dbpedia.org/resource/Ivan_Cleary"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_Knights",
+            "http://dbpedia.org/resource/Newcastle_International_Sports_Centre",
+            "http://dbpedia.org/resource/Clinton_Toopi",
+            "http://dbpedia.org/resource/Ivan_Cleary"
+        ]
+    ]
+}

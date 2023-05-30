@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeanette_Ottesen",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/List_of_Danish_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Ingvild_Snildal",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/List_of_Norwegian_records_in_swimming"
+        ]
+    ]
+}

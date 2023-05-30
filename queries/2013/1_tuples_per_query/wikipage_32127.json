@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Ballymena",
+            "http://dbpedia.org/resource/Belfast",
+            "http://dbpedia.org/resource/Ulster",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ]
+    ]
+}

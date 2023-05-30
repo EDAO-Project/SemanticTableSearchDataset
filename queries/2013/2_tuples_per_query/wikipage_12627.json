@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Delaware",
+            "http://dbpedia.org/resource/Northwestern_University",
+            "http://dbpedia.org/resource/University_of_Arkansas",
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/Auburn_University",
+            "http://dbpedia.org/resource/Arizona_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Johns_Hopkins_University",
+            "http://dbpedia.org/resource/University_of_Chicago",
+            "http://dbpedia.org/resource/Colorado_State_University",
+            "http://dbpedia.org/resource/Bowdoin_College",
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Academy_of_Art_University"
+        ]
+    ]
+}

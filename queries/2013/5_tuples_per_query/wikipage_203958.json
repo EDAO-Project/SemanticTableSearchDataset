@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Beastie_Boys",
+            "http://dbpedia.org/resource/Busta_Rhymes"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Outkast",
+            "http://dbpedia.org/resource/The_Black_Eyed_Peas"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Jennifer_Lopez",
+            "http://dbpedia.org/resource/Busta_Rhymes"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Missy_Elliott",
+            "http://dbpedia.org/resource/Busta_Rhymes"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Outkast",
+            "http://dbpedia.org/resource/The_Black_Eyed_Peas"
+        ]
+    ]
+}

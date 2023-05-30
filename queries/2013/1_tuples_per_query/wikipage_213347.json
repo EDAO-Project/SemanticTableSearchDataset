@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Catalytic_converter",
+            "http://dbpedia.org/resource/PSA_XU_engine",
+            "http://dbpedia.org/resource/Overhead_camshaft",
+            "http://dbpedia.org/resource/Carburetor"
+        ]
+    ]
+}

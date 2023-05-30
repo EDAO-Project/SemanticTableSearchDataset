@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Williamsport,_Pennsylvania",
+            "http://dbpedia.org/resource/County_seat",
+            "http://dbpedia.org/resource/Loyalsock_Township,_Lycoming_County,_Pennsylvania"
+        ]
+    ]
+}

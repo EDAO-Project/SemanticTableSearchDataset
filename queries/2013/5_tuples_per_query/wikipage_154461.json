@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colombia_Championship",
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/Skip_Kendall"
+        ],
+        [
+            "http://dbpedia.org/resource/Panama_Claro_Championship",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/Edward_Loar"
+        ],
+        [
+            "http://dbpedia.org/resource/Chile_Classic",
+            "http://dbpedia.org/resource/Chile",
+            "http://dbpedia.org/resource/Paul_Haley_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Chitimacha_Louisiana_Open",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Casey_Wittenberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Soboba_Golf_Classic",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Andres_Gonzales"
+        ]
+    ]
+}

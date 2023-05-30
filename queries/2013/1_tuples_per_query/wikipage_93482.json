@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Continental_Illinois",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Illinois"
+        ]
+    ]
+}

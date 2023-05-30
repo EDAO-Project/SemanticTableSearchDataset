@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonathan_Hoge_Walker",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_James_Monroe"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Irwin",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Andrew_Jackson"
+        ]
+    ]
+}

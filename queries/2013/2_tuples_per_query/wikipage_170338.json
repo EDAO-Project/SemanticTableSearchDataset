@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Air_1",
+            "http://dbpedia.org/resource/Educational_Media_Foundation",
+            "http://dbpedia.org/resource/Christian_rock"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Family_Radio",
+            "http://dbpedia.org/resource/American_Family_Association",
+            "http://dbpedia.org/resource/Contemporary_Christian_music"
+        ]
+    ]
+}

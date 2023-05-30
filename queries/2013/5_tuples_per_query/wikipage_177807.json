@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lauren_Holiday",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/FC_Kansas_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Abby_Wambach",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Western_New_York_Flash"
+        ],
+        [
+            "http://dbpedia.org/resource/Lianne_Sanderson",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Boston_Breakers"
+        ],
+        [
+            "http://dbpedia.org/resource/Katy_Freels",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sky_Blue_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Leigh_Ann_Robinson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/FC_Kansas_City"
+        ]
+    ]
+}

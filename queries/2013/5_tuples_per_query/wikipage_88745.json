@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billy_Bishop",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Mick_Mannock",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Raymond_Collishaw",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Royal_Naval_Air_Service"
+        ],
+        [
+            "http://dbpedia.org/resource/James_McCudden",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Beauchamp-Proctor",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Royal_Flying_Corps"
+        ]
+    ]
+}

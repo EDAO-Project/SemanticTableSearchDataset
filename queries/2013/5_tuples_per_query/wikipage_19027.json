@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cycle_sport",
+            "http://dbpedia.org/resource/UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Fabian_Cancellara"
+        ],
+        [
+            "http://dbpedia.org/resource/Cycle_sport",
+            "http://dbpedia.org/resource/UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Eddy_Merckx"
+        ],
+        [
+            "http://dbpedia.org/resource/Cycle_sport",
+            "http://dbpedia.org/resource/UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Rik_Van_Steenbergen"
+        ],
+        [
+            "http://dbpedia.org/resource/Cycle_sport",
+            "http://dbpedia.org/resource/UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Alfredo_Binda"
+        ],
+        [
+            "http://dbpedia.org/resource/Cycle_sport",
+            "http://dbpedia.org/resource/UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Arnaud_Tournant"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eric_Staal",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Carolina_Hurricanes",
+            "http://dbpedia.org/resource/Peterborough_Petes"
+        ]
+    ]
+}

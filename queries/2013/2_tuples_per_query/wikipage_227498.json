@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbeyleix",
+            "http://dbpedia.org/resource/County_Laois",
+            "http://dbpedia.org/resource/Fire_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Ardara",
+            "http://dbpedia.org/resource/County_Donegal",
+            "http://dbpedia.org/resource/Cultural_heritage"
+        ]
+    ]
+}

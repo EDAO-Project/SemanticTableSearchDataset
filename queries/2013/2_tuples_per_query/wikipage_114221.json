@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bloomington,_Minnesota",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Met_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/International_Amphitheatre"
+        ]
+    ]
+}

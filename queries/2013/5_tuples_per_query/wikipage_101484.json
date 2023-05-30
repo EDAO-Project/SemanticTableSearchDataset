@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/H._Struve_Hensel",
+            "http://dbpedia.org/resource/Franklin_D._Roosevelt",
+            "http://dbpedia.org/resource/Frank_Knox"
+        ],
+        [
+            "http://dbpedia.org/resource/W._John_Kenney",
+            "http://dbpedia.org/resource/Franklin_D._Roosevelt",
+            "http://dbpedia.org/resource/James_Forrestal"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_H._Hodgson",
+            "http://dbpedia.org/resource/Franklin_D._Roosevelt",
+            "http://dbpedia.org/resource/James_Forrestal"
+        ],
+        [
+            "http://dbpedia.org/resource/J._Henry_Neale",
+            "http://dbpedia.org/resource/Harry_S._Truman",
+            "http://dbpedia.org/resource/James_Forrestal"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Wemple",
+            "http://dbpedia.org/resource/Harry_S._Truman",
+            "http://dbpedia.org/resource/James_Forrestal"
+        ]
+    ]
+}

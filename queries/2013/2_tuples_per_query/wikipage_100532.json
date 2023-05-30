@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darashaw_Nosherwan_Wadia",
+            "http://dbpedia.org/resource/Maharashtra",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuvempu",
+            "http://dbpedia.org/resource/Karnataka",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

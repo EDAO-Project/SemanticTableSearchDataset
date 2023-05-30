@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/After_Stonewall",
+            "http://dbpedia.org/resource/John_Scagliotti",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

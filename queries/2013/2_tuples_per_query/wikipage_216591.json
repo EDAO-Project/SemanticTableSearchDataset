@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amar_Prem",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Anand_Bakshi",
+            "http://dbpedia.org/resource/Kishore_Kumar"
+        ],
+        [
+            "http://dbpedia.org/resource/Amar_Prem",
+            "http://dbpedia.org/resource/R._D._Burman",
+            "http://dbpedia.org/resource/Anand_Bakshi",
+            "http://dbpedia.org/resource/Kishore_Kumar"
+        ]
+    ]
+}

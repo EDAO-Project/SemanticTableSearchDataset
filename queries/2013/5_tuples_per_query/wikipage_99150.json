@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Les_Rohr",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Billings,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Steve_Chilcott",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Antelope_Valley_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Randy_Sterling",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Key_West,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Butch_Benton",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Amos_P._Godby_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Hubie_Brooks",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball"
+        ]
+    ]
+}

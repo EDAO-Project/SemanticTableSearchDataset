@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Racking_Horse",
+            "http://dbpedia.org/resource/Ambling"
+        ]
+    ]
+}

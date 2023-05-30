@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adaptaur",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Cattle"
+        ]
+    ]
+}

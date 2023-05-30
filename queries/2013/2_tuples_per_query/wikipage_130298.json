@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Defender_Classic",
+            "http://dbpedia.org/resource/North_Carolina",
+            "http://dbpedia.org/resource/Kathy_Whitworth"
+        ],
+        [
+            "http://dbpedia.org/resource/Elizabeth_Arden_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Sandra_Haynie"
+        ]
+    ]
+}

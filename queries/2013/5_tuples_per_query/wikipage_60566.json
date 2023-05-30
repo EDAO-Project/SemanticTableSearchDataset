@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/Asante_Kotoko_SC",
+            "http://dbpedia.org/resource/TP_Mazembe",
+            "http://dbpedia.org/resource/Baba_Yara_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/TP_Mazembe",
+            "http://dbpedia.org/resource/Asante_Kotoko_SC",
+            "http://dbpedia.org/resource/Kinshasa"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/TP_Mazembe",
+            "http://dbpedia.org/resource/Ismaily_SC",
+            "http://dbpedia.org/resource/Kinshasa"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/Ismaily_SC",
+            "http://dbpedia.org/resource/TP_Mazembe",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_African_Cup_of_Champions_Clubs",
+            "http://dbpedia.org/resource/Asante_Kotoko_SC",
+            "http://dbpedia.org/resource/TP_Mazembe",
+            "http://dbpedia.org/resource/Baba_Yara_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cape_Town",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Bellville_Velodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Cape_Town",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Bellville_Velodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Cape_Town",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Bellville_Velodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Johannesburg",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/FNB_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Perth",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Perth_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rishabha",
+            "http://dbpedia.org/resource/Ayodhya",
+            "http://dbpedia.org/resource/Ayodhya",
+            "http://dbpedia.org/resource/Ayodhya",
+            "http://dbpedia.org/resource/Mount_Kailash"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajitanatha",
+            "http://dbpedia.org/resource/Ayodhya",
+            "http://dbpedia.org/resource/Ayodhya",
+            "http://dbpedia.org/resource/Ayodhya",
+            "http://dbpedia.org/resource/Shikharji"
+        ]
+    ]
+}

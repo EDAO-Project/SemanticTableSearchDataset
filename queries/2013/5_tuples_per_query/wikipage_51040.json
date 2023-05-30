@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1888_Championship_of_Australia",
+            "http://dbpedia.org/resource/Norwood_Football_Club",
+            "http://dbpedia.org/resource/Sydney_Swans",
+            "http://dbpedia.org/resource/Kensington_Oval,_Adelaide"
+        ],
+        [
+            "http://dbpedia.org/resource/1890_Championship_of_Australia",
+            "http://dbpedia.org/resource/Port_Adelaide_Football_Club",
+            "http://dbpedia.org/resource/Sydney_Swans",
+            "http://dbpedia.org/resource/Adelaide_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/1893_Championship_of_Australia",
+            "http://dbpedia.org/resource/Essendon_Football_Club",
+            "http://dbpedia.org/resource/South_Adelaide_Football_Club",
+            "http://dbpedia.org/resource/Victoria_Park,_Melbourne"
+        ],
+        [
+            "http://dbpedia.org/resource/1907_Championship_of_Australia",
+            "http://dbpedia.org/resource/Norwood_Football_Club",
+            "http://dbpedia.org/resource/Carlton_Football_Club",
+            "http://dbpedia.org/resource/Adelaide_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/1908_Championship_of_Australia",
+            "http://dbpedia.org/resource/West_Adelaide_Football_Club",
+            "http://dbpedia.org/resource/Carlton_Football_Club",
+            "http://dbpedia.org/resource/Adelaide_Oval"
+        ]
+    ]
+}

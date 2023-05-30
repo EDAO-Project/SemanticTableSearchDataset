@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kielder_Water",
+            "http://dbpedia.org/resource/Northumbrian_Water",
+            "http://dbpedia.org/resource/Northumberland"
+        ],
+        [
+            "http://dbpedia.org/resource/Rutland_Water",
+            "http://dbpedia.org/resource/Anglian_Water",
+            "http://dbpedia.org/resource/Rutland"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/George_III_of_the_United_Kingdom",
+            "http://dbpedia.org/resource/American_Revolution"
+        ],
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Louis_XV_of_France",
+            "http://dbpedia.org/resource/French_and_Indian_War"
+        ],
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Charles_IV_of_Spain",
+            "http://dbpedia.org/resource/French_First_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/Alexander_II_of_Russia",
+            "http://dbpedia.org/resource/Alaska_Purchase"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Louis_XV_of_France",
+            "http://dbpedia.org/resource/French_and_Indian_War"
+        ]
+    ]
+}

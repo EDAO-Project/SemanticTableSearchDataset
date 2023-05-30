@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allaru_Formation",
+            "http://dbpedia.org/resource/Albian",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Argana_Formation",
+            "http://dbpedia.org/resource/Carnian",
+            "http://dbpedia.org/resource/Morocco"
+        ],
+        [
+            "http://dbpedia.org/resource/Dashuigou_Formation",
+            "http://dbpedia.org/resource/Albian",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Glen_Rose_Formation",
+            "http://dbpedia.org/resource/Albian",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Kitadani_Formation",
+            "http://dbpedia.org/resource/Albian",
+            "http://dbpedia.org/resource/Japan"
+        ]
+    ]
+}

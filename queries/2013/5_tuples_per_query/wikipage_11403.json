@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Devil_Masami",
+            "http://dbpedia.org/resource/Kawasaki,_Kanagawa",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Chigusa_Nagayo",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Aja_Kong",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Mayumi_Ozaki",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Aja_Kong",
+            "http://dbpedia.org/resource/Nagoya",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

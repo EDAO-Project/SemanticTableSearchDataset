@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indiana",
+            "http://dbpedia.org/resource/United_States_Statutes_at_Large",
+            "http://dbpedia.org/resource/Wabash_and_Erie_Canal"
+        ]
+    ]
+}

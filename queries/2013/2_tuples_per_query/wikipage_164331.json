@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Stony_Brook_Seawolves_baseball_team",
+            "http://dbpedia.org/resource/America_East_Conference",
+            "http://dbpedia.org/resource/2010_NCAA_Division_I_Baseball_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Georgia_Tech_Yellow_Jackets",
+            "http://dbpedia.org/resource/Atlantic_Coast_Conference",
+            "http://dbpedia.org/resource/2011_NCAA_Division_I_Baseball_Tournament"
+        ]
+    ]
+}

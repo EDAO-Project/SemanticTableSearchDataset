@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Essex_County,_Massachusetts",
+            "http://dbpedia.org/resource/Lawrence,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_28"
+        ]
+    ]
+}

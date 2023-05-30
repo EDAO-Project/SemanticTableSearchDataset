@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Mickey_Mantle",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Outfielder"
+        ]
+    ]
+}

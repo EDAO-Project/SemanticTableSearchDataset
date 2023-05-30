@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pisa",
+            "http://dbpedia.org/resource/Adolfo_Leoni",
+            "http://dbpedia.org/resource/Pierino_Favalli"
+        ],
+        [
+            "http://dbpedia.org/resource/Grosseto",
+            "http://dbpedia.org/resource/Adolfo_Leoni",
+            "http://dbpedia.org/resource/Pierino_Favalli"
+        ],
+        [
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Glauco_Servadei",
+            "http://dbpedia.org/resource/Pierino_Favalli"
+        ],
+        [
+            "http://dbpedia.org/resource/Naples",
+            "http://dbpedia.org/resource/Walter_Generati",
+            "http://dbpedia.org/resource/Pierino_Favalli"
+        ],
+        [
+            "http://dbpedia.org/resource/Fiuggi",
+            "http://dbpedia.org/resource/Olimpio_Bizzi",
+            "http://dbpedia.org/resource/Enrico_Mollo"
+        ]
+    ]
+}

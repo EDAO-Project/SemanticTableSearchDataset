@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guillaume_Loriot",
+            "http://dbpedia.org/resource/Le_Mans_FC",
+            "http://dbpedia.org/resource/Valenciennes_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Louhoungou",
+            "http://dbpedia.org/resource/Kocaelispor",
+            "http://dbpedia.org/resource/US_Boulogne"
+        ]
+    ]
+}

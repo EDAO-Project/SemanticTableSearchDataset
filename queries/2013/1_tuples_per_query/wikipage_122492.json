@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Vance_Worley",
+            "http://dbpedia.org/resource/Mike_Leake",
+            "http://dbpedia.org/resource/Ryan_Madson"
+        ]
+    ]
+}

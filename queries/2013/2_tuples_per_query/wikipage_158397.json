@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Duncan_Lewis"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Ismat_Jahan"
+        ]
+    ]
+}

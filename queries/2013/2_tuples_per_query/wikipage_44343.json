@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Top_Gun",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Tom_Cruise",
+            "http://dbpedia.org/resource/Tony_Scott"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Karate_Kid,_Part_II",
+            "http://dbpedia.org/resource/Columbia_Pictures",
+            "http://dbpedia.org/resource/Ralph_Macchio",
+            "http://dbpedia.org/resource/John_G._Avildsen"
+        ]
+    ]
+}

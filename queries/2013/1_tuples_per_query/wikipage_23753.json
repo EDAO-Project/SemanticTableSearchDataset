@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Octopus_card",
+            "http://dbpedia.org/resource/Octopus_Cards_Limited"
+        ]
+    ]
+}

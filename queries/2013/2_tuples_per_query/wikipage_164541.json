@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1976_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Rawly_Eastwick",
+            "http://dbpedia.org/resource/Cincinnati_Reds"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Rollie_Fingers",
+            "http://dbpedia.org/resource/San_Diego_Padres"
+        ]
+    ]
+}

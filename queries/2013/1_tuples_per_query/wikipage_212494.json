@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pleistocene",
+            "http://dbpedia.org/resource/Late_Pleistocene",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Eemian"
+        ]
+    ]
+}

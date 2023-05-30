@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ACE_Group_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Fred_Couples"
+        ],
+        [
+            "http://dbpedia.org/resource/Allianz_Championship",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Bernhard_Langer"
+        ]
+    ]
+}

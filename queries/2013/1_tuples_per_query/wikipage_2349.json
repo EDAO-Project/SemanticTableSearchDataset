@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_W._Bush",
+            "http://dbpedia.org/resource/Texas_Air_National_Guard",
+            "http://dbpedia.org/resource/First_lieutenant",
+            "http://dbpedia.org/resource/Vietnam_War"
+        ]
+    ]
+}

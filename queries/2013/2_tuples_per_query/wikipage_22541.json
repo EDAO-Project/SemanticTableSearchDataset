@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Alsop_IV_House",
+            "http://dbpedia.org/resource/Middletown,_Connecticut",
+            "http://dbpedia.org/resource/Middlesex_County,_Connecticut",
+            "http://dbpedia.org/resource/Wesleyan_University"
+        ],
+        [
+            "http://dbpedia.org/resource/A._Everett_Austin_House",
+            "http://dbpedia.org/resource/Hartford,_Connecticut",
+            "http://dbpedia.org/resource/Hartford_County,_Connecticut",
+            "http://dbpedia.org/resource/Wadsworth_Atheneum"
+        ]
+    ]
+}

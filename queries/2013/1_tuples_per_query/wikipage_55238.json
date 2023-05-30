@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acela_Express",
+            "http://dbpedia.org/resource/Amtrak",
+            "http://dbpedia.org/resource/TGV",
+            "http://dbpedia.org/resource/Alstom"
+        ]
+    ]
+}

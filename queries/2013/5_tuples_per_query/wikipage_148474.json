@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ring-A-Ding_Girl",
+            "http://dbpedia.org/resource/Ronnie_Carroll",
+            "http://dbpedia.org/resource/Philips_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/I_Love_the_Little_Things",
+            "http://dbpedia.org/resource/Matt_Monro",
+            "http://dbpedia.org/resource/Parlophone"
+        ],
+        [
+            "http://dbpedia.org/resource/I_Belong",
+            "http://dbpedia.org/resource/Kathy_Kirby",
+            "http://dbpedia.org/resource/Decca_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Puppet_on_a_String",
+            "http://dbpedia.org/resource/Sandie_Shaw",
+            "http://dbpedia.org/resource/Pye_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Beg,_Steal_or_Borrow",
+            "http://dbpedia.org/resource/The_New_Seekers",
+            "http://dbpedia.org/resource/Polydor_Records"
+        ]
+    ]
+}

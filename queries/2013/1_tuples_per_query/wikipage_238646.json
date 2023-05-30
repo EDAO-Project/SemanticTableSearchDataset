@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Proper_Education",
+            "http://dbpedia.org/resource/Eric_Prydz",
+            "http://dbpedia.org/resource/Data_Records"
+        ]
+    ]
+}

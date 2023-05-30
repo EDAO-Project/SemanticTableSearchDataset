@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gary_Player",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Johannesburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernie_Els",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Johannesburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Vijay_Singh",
+            "http://dbpedia.org/resource/Fiji",
+            "http://dbpedia.org/resource/Lautoka"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoff_Ogilvy",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Adelaide"
+        ],
+        [
+            "http://dbpedia.org/resource/Rory_Sabbatini",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Durban"
+        ]
+    ]
+}

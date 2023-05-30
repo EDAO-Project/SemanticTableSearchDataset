@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Antonio_Spurs",
+            "http://dbpedia.org/resource/Truck_Robinson",
+            "http://dbpedia.org/resource/HemisFair_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Rockets",
+            "http://dbpedia.org/resource/Paul_Westphal",
+            "http://dbpedia.org/resource/Lakewood_Church_Central_Campus"
+        ],
+        [
+            "http://dbpedia.org/resource/Utah_Jazz",
+            "http://dbpedia.org/resource/Paul_Westphal",
+            "http://dbpedia.org/resource/Arizona_Veterans_Memorial_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Denver_Nuggets",
+            "http://dbpedia.org/resource/Paul_Westphal",
+            "http://dbpedia.org/resource/McNichols_Sports_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Utah_Jazz",
+            "http://dbpedia.org/resource/Truck_Robinson",
+            "http://dbpedia.org/resource/Salt_Palace"
+        ]
+    ]
+}

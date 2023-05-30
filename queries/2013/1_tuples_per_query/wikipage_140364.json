@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlantic_City_International_Airport",
+            "http://dbpedia.org/resource/Atlantic_City,_New_Jersey",
+            "http://dbpedia.org/resource/177th_Fighter_Wing",
+            "http://dbpedia.org/resource/General_Dynamics_F-16_Fighting_Falcon"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexandra,_New_Zealand",
+            "http://dbpedia.org/resource/Otago",
+            "http://dbpedia.org/resource/Central_Otago_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Amberley,_New_Zealand",
+            "http://dbpedia.org/resource/Canterbury,_New_Zealand",
+            "http://dbpedia.org/resource/Hurunui_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Arrowtown",
+            "http://dbpedia.org/resource/Otago",
+            "http://dbpedia.org/resource/Queenstown-Lakes_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Balclutha,_New_Zealand",
+            "http://dbpedia.org/resource/Otago",
+            "http://dbpedia.org/resource/Clutha_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Bluff,_New_Zealand",
+            "http://dbpedia.org/resource/Southland,_New_Zealand",
+            "http://dbpedia.org/resource/Invercargill"
+        ]
+    ]
+}

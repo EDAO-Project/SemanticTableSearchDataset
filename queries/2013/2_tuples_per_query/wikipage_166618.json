@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brooklyn_Nets",
+            "http://dbpedia.org/resource/Marco_Belinelli",
+            "http://dbpedia.org/resource/Taj_Gibson",
+            "http://dbpedia.org/resource/Nate_Robinson",
+            "http://dbpedia.org/resource/Barclays_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Hawks",
+            "http://dbpedia.org/resource/Luol_Deng",
+            "http://dbpedia.org/resource/Taj_Gibson",
+            "http://dbpedia.org/resource/Nate_Robinson",
+            "http://dbpedia.org/resource/Philips_Arena"
+        ]
+    ]
+}

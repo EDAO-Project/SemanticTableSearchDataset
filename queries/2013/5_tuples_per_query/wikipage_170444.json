@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kana",
+            "http://dbpedia.org/resource/Syllabary",
+            "http://dbpedia.org/resource/Japanese_language",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Javanese_script",
+            "http://dbpedia.org/resource/Abugida",
+            "http://dbpedia.org/resource/Javanese_language",
+            "http://dbpedia.org/resource/Java"
+        ],
+        [
+            "http://dbpedia.org/resource/Hangul",
+            "http://dbpedia.org/resource/Alphabet",
+            "http://dbpedia.org/resource/Korean_language",
+            "http://dbpedia.org/resource/North_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/Tamil_script",
+            "http://dbpedia.org/resource/Abugida",
+            "http://dbpedia.org/resource/Tamil_language",
+            "http://dbpedia.org/resource/Tamil_Nadu"
+        ],
+        [
+            "http://dbpedia.org/resource/Telugu_script",
+            "http://dbpedia.org/resource/Abugida",
+            "http://dbpedia.org/resource/Telugu_language",
+            "http://dbpedia.org/resource/Andhra_Pradesh"
+        ]
+    ]
+}

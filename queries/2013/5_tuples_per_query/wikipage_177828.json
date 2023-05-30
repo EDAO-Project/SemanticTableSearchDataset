@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Francisco",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Shoreline_Amphitheatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Gibson_Amphitheatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Talking_Stick_Resort_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Paso,_Texas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Don_Haskins_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Toyota_Center"
+        ]
+    ]
+}

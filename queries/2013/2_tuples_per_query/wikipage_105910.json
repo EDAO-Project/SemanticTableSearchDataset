@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fez,_Morocco",
+            "http://dbpedia.org/resource/Morocco_national_football_team",
+            "http://dbpedia.org/resource/2009_African_Nations_Championship_qualification"
+        ],
+        [
+            "http://dbpedia.org/resource/Tripoli",
+            "http://dbpedia.org/resource/Libya_national_football_team",
+            "http://dbpedia.org/resource/2011_African_Nations_Championship_qualification"
+        ]
+    ]
+}

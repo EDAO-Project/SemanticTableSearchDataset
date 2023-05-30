@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Birdcage",
+            "http://dbpedia.org/resource/Mike_Nichols",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Body_Without_Soul",
+            "http://dbpedia.org/resource/Wiktor_Grodecki",
+            "http://dbpedia.org/resource/Czech_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Bound",
+            "http://dbpedia.org/resource/The_Wachowskis",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Camping_Cosmos",
+            "http://dbpedia.org/resource/Jan_Bucquoy",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Different_for_Girls",
+            "http://dbpedia.org/resource/Richard_Spence",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

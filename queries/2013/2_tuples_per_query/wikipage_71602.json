@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Felix_the_Cat",
+            "http://dbpedia.org/resource/Felix_in_Hollywood",
+            "http://dbpedia.org/resource/Otto_Messmer",
+            "http://dbpedia.org/resource/Gloria_Swanson"
+        ],
+        [
+            "http://dbpedia.org/resource/Silly_Symphony",
+            "http://dbpedia.org/resource/The_Bird_Store",
+            "http://dbpedia.org/resource/Wilfred_Jackson",
+            "http://dbpedia.org/resource/Groucho_Marx"
+        ]
+    ]
+}

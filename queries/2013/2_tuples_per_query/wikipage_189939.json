@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_Washington",
+            "http://dbpedia.org/resource/Mount_Vernon",
+            "http://dbpedia.org/resource/Mount_Vernon,_Virginia",
+            "http://dbpedia.org/resource/Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Adams",
+            "http://dbpedia.org/resource/United_First_Parish_Church",
+            "http://dbpedia.org/resource/Quincy,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts"
+        ]
+    ]
+}

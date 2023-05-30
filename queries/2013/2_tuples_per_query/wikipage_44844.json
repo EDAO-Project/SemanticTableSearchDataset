@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billerica_and_Bedford_Railroad",
+            "http://dbpedia.org/resource/Boston_and_Maine_Corporation",
+            "http://dbpedia.org/resource/Boston_and_Lowell_Railroad"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston,_Barre_and_Gardner_Railroad",
+            "http://dbpedia.org/resource/Boston_and_Maine_Corporation",
+            "http://dbpedia.org/resource/Fitchburg_Railroad"
+        ]
+    ]
+}

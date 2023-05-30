@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rasmus_Lindgren",
+            "http://dbpedia.org/resource/Free_agent",
+            "http://dbpedia.org/resource/FC_Groningen"
+        ],
+        [
+            "http://dbpedia.org/resource/Mathias_Schamp",
+            "http://dbpedia.org/resource/K.S.V._Oudenaarde",
+            "http://dbpedia.org/resource/Heracles_Almelo"
+        ]
+    ]
+}

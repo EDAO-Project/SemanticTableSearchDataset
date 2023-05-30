@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberavon_RFC",
+            "http://dbpedia.org/resource/Talbot_Athletic_Ground",
+            "http://dbpedia.org/resource/Port_Talbot"
+        ],
+        [
+            "http://dbpedia.org/resource/Bedford_Blues",
+            "http://dbpedia.org/resource/Goldington_Road",
+            "http://dbpedia.org/resource/Bedford"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgend_Ravens",
+            "http://dbpedia.org/resource/Brewery_Field",
+            "http://dbpedia.org/resource/Bridgend"
+        ],
+        [
+            "http://dbpedia.org/resource/Cardiff_RFC",
+            "http://dbpedia.org/resource/Cardiff_Arms_Park",
+            "http://dbpedia.org/resource/Cardiff"
+        ],
+        [
+            "http://dbpedia.org/resource/Carmarthen_Quins_RFC",
+            "http://dbpedia.org/resource/Carmarthen_Park",
+            "http://dbpedia.org/resource/Carmarthen"
+        ]
+    ]
+}

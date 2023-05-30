@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Illinois",
+            "http://dbpedia.org/resource/Elias_Kane",
+            "http://dbpedia.org/resource/William_Lee_D._Ewing"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Virginia",
+            "http://dbpedia.org/resource/John_Tyler",
+            "http://dbpedia.org/resource/William_Cabell_Rives"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Drums_of_the_Desert",
+            "http://dbpedia.org/resource/George_Waggner",
+            "http://dbpedia.org/resource/Ralph_Byrd"
+        ],
+        [
+            "http://dbpedia.org/resource/Flash_Gordon_Conquers_the_Universe",
+            "http://dbpedia.org/resource/Ford_Beebe",
+            "http://dbpedia.org/resource/Buster_Crabbe"
+        ]
+    ]
+}

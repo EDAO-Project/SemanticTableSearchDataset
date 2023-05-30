@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Helen_Wainwright",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethel_McGary",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Coral_Gables,_Florida"
+        ]
+    ]
+}

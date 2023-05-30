@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Football_League_First_Division",
+            "http://dbpedia.org/resource/Promotion_and_relegation",
+            "http://dbpedia.org/resource/Bill_Appleyard"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_First_Division",
+            "http://dbpedia.org/resource/Promotion_and_relegation",
+            "http://dbpedia.org/resource/Ernie_Coleman"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Andrews_Clark_Memorial_Library",
+            "http://dbpedia.org/resource/West_Adams,_Los_Angeles",
+            "http://dbpedia.org/resource/Robert_D._Farquhar"
+        ],
+        [
+            "http://dbpedia.org/resource/Birthplace_of_Adlai_E._Stevenson_II",
+            "http://dbpedia.org/resource/West_Adams,_Los_Angeles",
+            "http://dbpedia.org/resource/Adlai_Stevenson_II"
+        ]
+    ]
+}

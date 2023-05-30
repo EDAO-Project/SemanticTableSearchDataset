@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Lindsay",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Allan_Butler",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Darren_Thrupp",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Russell_Short",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Russell_Short",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Paralympics"
+        ]
+    ]
+}

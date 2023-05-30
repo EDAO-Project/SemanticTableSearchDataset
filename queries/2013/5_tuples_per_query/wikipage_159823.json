@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Constantine_I_of_Greece",
+            "http://dbpedia.org/resource/1896_Summer_Olympics",
+            "http://dbpedia.org/resource/Athens"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierre_de_Coubertin",
+            "http://dbpedia.org/resource/1900_Summer_Olympics",
+            "http://dbpedia.org/resource/Paris"
+        ],
+        [
+            "http://dbpedia.org/resource/David_R._Francis",
+            "http://dbpedia.org/resource/1904_Summer_Olympics",
+            "http://dbpedia.org/resource/St._Louis"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Battell",
+            "http://dbpedia.org/resource/1908_Summer_Olympics",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/Henri_de_Baillet-Latour",
+            "http://dbpedia.org/resource/1920_Summer_Olympics",
+            "http://dbpedia.org/resource/Antwerp"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_G._Post",
+            "http://dbpedia.org/resource/Georgetown_University_Law_Center",
+            "http://dbpedia.org/resource/Ruth_Bader_Ginsburg"
+        ]
+    ]
+}

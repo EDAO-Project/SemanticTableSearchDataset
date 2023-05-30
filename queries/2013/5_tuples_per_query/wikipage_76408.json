@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Altenmarkt_an_der_Triesting",
+            "http://dbpedia.org/resource/Kleinmariazell"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Geras,_Austria",
+            "http://dbpedia.org/resource/Geras_Abbey"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Gratwein",
+            "http://dbpedia.org/resource/Rein_Abbey,_Austria"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Graz",
+            "http://dbpedia.org/resource/Mariatrost_Basilica"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Klosterneuburg",
+            "http://dbpedia.org/resource/Klosterneuburg_Monastery"
+        ]
+    ]
+}

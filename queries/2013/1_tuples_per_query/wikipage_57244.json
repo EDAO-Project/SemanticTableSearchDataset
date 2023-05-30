@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fort_Tryon_Park",
+            "http://dbpedia.org/resource/Washington_Heights,_Manhattan",
+            "http://dbpedia.org/resource/New_York_City_Subway"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oranjestad,_Aruba",
+            "http://dbpedia.org/resource/Aruba",
+            "http://dbpedia.org/resource/Queen_Beatrix_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Kralendijk",
+            "http://dbpedia.org/resource/Bonaire",
+            "http://dbpedia.org/resource/Flamingo_International_Airport"
+        ]
+    ]
+}

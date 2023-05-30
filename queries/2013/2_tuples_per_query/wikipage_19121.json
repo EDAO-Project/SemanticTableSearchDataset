@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrea_Costa_Imola",
+            "http://dbpedia.org/resource/Imola",
+            "http://dbpedia.org/resource/Emilia-Romagna"
+        ],
+        [
+            "http://dbpedia.org/resource/A.S._Junior_Pallacanestro_Casale",
+            "http://dbpedia.org/resource/Casale_Monferrato",
+            "http://dbpedia.org/resource/Piedmont"
+        ]
+    ]
+}

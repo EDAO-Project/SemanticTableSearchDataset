@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chris_Phillips",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Ottawa_Senators",
+            "http://dbpedia.org/resource/Prince_Albert_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrei_Zyuzin",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/San_Jose_Sharks",
+            "http://dbpedia.org/resource/Salavat_Yulaev_Ufa"
+        ],
+        [
+            "http://dbpedia.org/resource/Ric_Jackman",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Dallas_Stars",
+            "http://dbpedia.org/resource/Sault_Ste._Marie_Greyhounds"
+        ],
+        [
+            "http://dbpedia.org/resource/Boyd_Devereaux",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Kitchener_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnathan_Aitken",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Boston_Bruins",
+            "http://dbpedia.org/resource/Medicine_Hat_Tigers"
+        ]
+    ]
+}

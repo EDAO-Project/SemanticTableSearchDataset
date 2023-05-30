@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Can-Am_Duel",
+            "http://dbpedia.org/resource/Daytona_International_Speedway",
+            "http://dbpedia.org/resource/Fireball_Roberts",
+            "http://dbpedia.org/resource/Cotton_Owens",
+            "http://dbpedia.org/resource/Fred_Lorenzen"
+        ],
+        [
+            "http://dbpedia.org/resource/Daytona_500",
+            "http://dbpedia.org/resource/Daytona_International_Speedway",
+            "http://dbpedia.org/resource/Junior_Johnson",
+            "http://dbpedia.org/resource/Bobby_Johns",
+            "http://dbpedia.org/resource/Richard_Petty"
+        ],
+        [
+            "http://dbpedia.org/resource/1960_Gwyn_Staley_160",
+            "http://dbpedia.org/resource/North_Wilkesboro_Speedway",
+            "http://dbpedia.org/resource/Lee_Petty",
+            "http://dbpedia.org/resource/Rex_White",
+            "http://dbpedia.org/resource/Glen_Wood"
+        ],
+        [
+            "http://dbpedia.org/resource/Toyota_Owners_400",
+            "http://dbpedia.org/resource/Richmond_International_Raceway",
+            "http://dbpedia.org/resource/Lee_Petty",
+            "http://dbpedia.org/resource/Rex_White",
+            "http://dbpedia.org/resource/Ned_Jarrett"
+        ],
+        [
+            "http://dbpedia.org/resource/Coca-Cola_600",
+            "http://dbpedia.org/resource/Charlotte_Motor_Speedway",
+            "http://dbpedia.org/resource/Joe_Lee_Johnson",
+            "http://dbpedia.org/resource/Johnny_Beauchamp",
+            "http://dbpedia.org/resource/Bobby_Johns"
+        ]
+    ]
+}

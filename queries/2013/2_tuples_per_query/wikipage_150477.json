@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fairchild_Republic_A-10_Thunderbolt_II",
+            "http://dbpedia.org/resource/Elbit_Systems",
+            "http://dbpedia.org/resource/Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/IAI_Eitan",
+            "http://dbpedia.org/resource/Israel_Aerospace_Industries",
+            "http://dbpedia.org/resource/Israel"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_British_Grand_Prix",
+            "http://dbpedia.org/resource/Peter_Revson",
+            "http://dbpedia.org/resource/Jody_Scheckter"
+        ]
+    ]
+}

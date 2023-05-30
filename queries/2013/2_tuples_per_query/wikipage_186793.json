@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lam_Hok_Hei",
+            "http://dbpedia.org/resource/Hong_Kong_Rangers_FC",
+            "http://dbpedia.org/resource/Persija_Jakarta"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Carril",
+            "http://dbpedia.org/resource/Kitchee_SC",
+            "http://dbpedia.org/resource/Southern_District_RSA"
+        ]
+    ]
+}

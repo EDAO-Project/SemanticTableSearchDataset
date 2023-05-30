@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Athleague",
+            "http://dbpedia.org/resource/Roscommon_GAA",
+            "http://dbpedia.org/resource/Fingal_hurling_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Sligo",
+            "http://dbpedia.org/resource/Sligo_GAA",
+            "http://dbpedia.org/resource/Meath_GAA"
+        ]
+    ]
+}

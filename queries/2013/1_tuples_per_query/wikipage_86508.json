@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yura_Movsisyan",
+            "http://dbpedia.org/resource/Armenia",
+            "http://dbpedia.org/resource/Major_League_Soccer",
+            "http://dbpedia.org/resource/Randers_FC"
+        ]
+    ]
+}

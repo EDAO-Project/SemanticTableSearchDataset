@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Third_Texas_Legislature",
+            "http://dbpedia.org/resource/Jesse_Grimes",
+            "http://dbpedia.org/resource/Grimes_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Ninth_Texas_Legislature",
+            "http://dbpedia.org/resource/Texas_Senate,_District_5",
+            "http://dbpedia.org/resource/Dallas_County,_Texas"
+        ]
+    ]
+}

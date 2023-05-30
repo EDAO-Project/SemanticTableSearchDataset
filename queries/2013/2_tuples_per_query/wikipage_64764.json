@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paradorn_Srichaphan",
+            "http://dbpedia.org/resource/Lee_Hyung-taik",
+            "http://dbpedia.org/resource/Oleg_Ogorodov"
+        ],
+        [
+            "http://dbpedia.org/resource/Paradorn_Srichaphan",
+            "http://dbpedia.org/resource/Lee_Hyung-taik",
+            "http://dbpedia.org/resource/Takao_Suzuki"
+        ]
+    ]
+}

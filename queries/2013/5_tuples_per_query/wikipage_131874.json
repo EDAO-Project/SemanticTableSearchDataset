@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hachioji_Velodrome",
+            "http://dbpedia.org/resource/1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Cycling_at_the_1964_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Hadleigh_Farm",
+            "http://dbpedia.org/resource/2012_Summer_Olympics",
+            "http://dbpedia.org/resource/Cycling_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Hampden_Park",
+            "http://dbpedia.org/resource/2012_Summer_Olympics",
+            "http://dbpedia.org/resource/Football_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Misari_Regatta",
+            "http://dbpedia.org/resource/1988_Summer_Olympics",
+            "http://dbpedia.org/resource/Canoeing_at_the_1988_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Hanyang_University_Gymnasium",
+            "http://dbpedia.org/resource/1988_Summer_Olympics",
+            "http://dbpedia.org/resource/Volleyball_at_the_1988_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/California_State_Superintendent_of_Public_Instruction",
+            "http://dbpedia.org/resource/Tom_Torlakson"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Florida_Department_of_Education",
+            "http://dbpedia.org/resource/Florida_Board_of_Education"
+        ]
+    ]
+}

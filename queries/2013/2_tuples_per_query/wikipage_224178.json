@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Norwich_Free_Academy",
+            "http://dbpedia.org/resource/New_London,_Connecticut",
+            "http://dbpedia.org/resource/American_football_on_Thanksgiving"
+        ],
+        [
+            "http://dbpedia.org/resource/Phillips_Academy",
+            "http://dbpedia.org/resource/Phillips_Exeter_Academy",
+            "http://dbpedia.org/resource/American_football"
+        ]
+    ]
+}

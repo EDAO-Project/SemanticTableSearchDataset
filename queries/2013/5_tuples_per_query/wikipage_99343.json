@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wisconsin_Senate,_District_1",
+            "http://dbpedia.org/resource/Brown_County,_Wisconsin",
+            "http://dbpedia.org/resource/Harrison_Carroll_Hobart"
+        ],
+        [
+            "http://dbpedia.org/resource/Wisconsin_Senate,_District_2",
+            "http://dbpedia.org/resource/Columbia_County,_Wisconsin",
+            "http://dbpedia.org/resource/Henry_Merrill"
+        ],
+        [
+            "http://dbpedia.org/resource/Wisconsin_Senate,_District_3",
+            "http://dbpedia.org/resource/Crawford_County,_Wisconsin",
+            "http://dbpedia.org/resource/Daniel_G._Fenton"
+        ],
+        [
+            "http://dbpedia.org/resource/Wisconsin_Senate,_District_4",
+            "http://dbpedia.org/resource/Fond_du_Lac_County,_Wisconsin",
+            "http://dbpedia.org/resource/Warren_Chase"
+        ],
+        [
+            "http://dbpedia.org/resource/Wisconsin_Senate,_District_5",
+            "http://dbpedia.org/resource/Iowa_County,_Wisconsin",
+            "http://dbpedia.org/resource/Henry_M._Billings"
+        ]
+    ]
+}

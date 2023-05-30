@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bacoor_Bay",
+            "http://dbpedia.org/resource/Cavite",
+            "http://dbpedia.org/resource/Bacoor"
+        ],
+        [
+            "http://dbpedia.org/resource/Batangas_Bay",
+            "http://dbpedia.org/resource/Batangas",
+            "http://dbpedia.org/resource/Batangas_City"
+        ]
+    ]
+}

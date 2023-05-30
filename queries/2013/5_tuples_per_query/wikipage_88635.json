@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Diego",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Viejas_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Talking_Stick_Resort_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Freeman_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/American_Airlines_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Lakewood_Church_Central_Campus"
+        ]
+    ]
+}

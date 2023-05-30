@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlantic_Avenue_Railroad",
+            "http://dbpedia.org/resource/Long_Island_Rail_Road",
+            "http://dbpedia.org/resource/Nassau_Electric_Railroad",
+            "http://dbpedia.org/resource/Long_Island_Rail_Road"
+        ]
+    ]
+}

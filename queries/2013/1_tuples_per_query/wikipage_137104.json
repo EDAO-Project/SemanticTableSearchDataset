@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johan_De_Muynck",
+            "http://dbpedia.org/resource/Francesco_Moser",
+            "http://dbpedia.org/resource/Ueli_Sutter",
+            "http://dbpedia.org/resource/Roberto_Visentini"
+        ]
+    ]
+}

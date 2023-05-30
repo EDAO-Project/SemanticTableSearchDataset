@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Holland",
+            "http://dbpedia.org/resource/Naarden",
+            "http://dbpedia.org/resource/Muiderberg"
+        ]
+    ]
+}

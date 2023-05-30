@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Deportes_Antofagasta",
+            "http://dbpedia.org/resource/Antofagasta",
+            "http://dbpedia.org/resource/Estadio_Regional_de_Antofagasta"
+        ],
+        [
+            "http://dbpedia.org/resource/Audax_Italiano",
+            "http://dbpedia.org/resource/Santiago",
+            "http://dbpedia.org/resource/Estadio_Bicentenario_de_La_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Cobreloa",
+            "http://dbpedia.org/resource/Calama",
+            "http://dbpedia.org/resource/Estadio_Municipal_de_Calama"
+        ],
+        [
+            "http://dbpedia.org/resource/Cobresal",
+            "http://dbpedia.org/resource/El_Salvador,_Chile",
+            "http://dbpedia.org/resource/Estadio_El_Cobre_de_El_Salvador"
+        ],
+        [
+            "http://dbpedia.org/resource/Colo-Colo",
+            "http://dbpedia.org/resource/Santiago",
+            "http://dbpedia.org/resource/Estadio_Monumental_David_Arellano"
+        ]
+    ]
+}

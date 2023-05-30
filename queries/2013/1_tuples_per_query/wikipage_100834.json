@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portuguese_Open",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Brian_Huggett"
+        ]
+    ]
+}

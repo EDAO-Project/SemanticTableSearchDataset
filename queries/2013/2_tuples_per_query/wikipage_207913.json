@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1952",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Armi_Kuusela",
+            "http://dbpedia.org/resource/Muhos"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1954",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Miriam_Stevenson",
+            "http://dbpedia.org/resource/Winnsboro"
+        ]
+    ]
+}

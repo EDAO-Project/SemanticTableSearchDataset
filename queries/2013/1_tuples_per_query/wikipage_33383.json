@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Kingston,_Jamaica",
+            "http://dbpedia.org/resource/Norman_Manley_International_Airport"
+        ]
+    ]
+}

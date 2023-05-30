@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lauryn_Williams",
+            "http://dbpedia.org/resource/Veronica_Campbell-Brown",
+            "http://dbpedia.org/resource/Christine_Arron"
+        ]
+    ]
+}

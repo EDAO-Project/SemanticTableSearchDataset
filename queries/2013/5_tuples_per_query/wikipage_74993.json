@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Heber_C._Kimball",
+            "http://dbpedia.org/resource/Preston,_Lancashire"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/William_Barratt",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Orson_Hyde",
+            "http://dbpedia.org/resource/Rotterdam"
+        ],
+        [
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Orson_Hyde",
+            "http://dbpedia.org/resource/Constantinople"
+        ],
+        [
+            "http://dbpedia.org/resource/Israel",
+            "http://dbpedia.org/resource/Orson_Hyde",
+            "http://dbpedia.org/resource/Jerusalem"
+        ]
+    ]
+}

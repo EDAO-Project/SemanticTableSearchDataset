@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Falilat_Ogunkoya",
+            "http://dbpedia.org/resource/Nigeria",
+            "http://dbpedia.org/resource/Athletics_at_the_1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Atlanta"
+        ],
+        [
+            "http://dbpedia.org/resource/Middle-distance_running",
+            "http://dbpedia.org/resource/Maria_Mutola",
+            "http://dbpedia.org/resource/Mozambique",
+            "http://dbpedia.org/resource/Memorial_Van_Damme",
+            "http://dbpedia.org/resource/Brussels"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Hassiba_Boulmerka",
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/Athletics_at_the_1992_Summer_Olympics",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Mile_run",
+            "http://dbpedia.org/resource/Gelete_Burka",
+            "http://dbpedia.org/resource/Ethiopia",
+            "http://dbpedia.org/resource/Rieti_Meeting",
+            "http://dbpedia.org/resource/Rieti"
+        ],
+        [
+            "http://dbpedia.org/resource/Middle-distance_running",
+            "http://dbpedia.org/resource/Zola_Budd",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Memorial_Van_Damme",
+            "http://dbpedia.org/resource/London"
+        ]
+    ]
+}

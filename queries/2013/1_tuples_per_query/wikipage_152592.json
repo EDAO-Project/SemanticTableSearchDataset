@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colin_Alexander",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Brisbane_Bears"
+        ]
+    ]
+}

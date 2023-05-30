@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Windsor_Lancers",
+            "http://dbpedia.org/resource/UBC_Thunderbirds",
+            "http://dbpedia.org/resource/University_of_Windsor"
+        ],
+        [
+            "http://dbpedia.org/resource/Windsor_Lancers",
+            "http://dbpedia.org/resource/Calgary_Dinos",
+            "http://dbpedia.org/resource/University_of_Calgary"
+        ],
+        [
+            "http://dbpedia.org/resource/Windsor_Lancers",
+            "http://dbpedia.org/resource/UBC_Thunderbirds",
+            "http://dbpedia.org/resource/University_of_Calgary"
+        ],
+        [
+            "http://dbpedia.org/resource/Windsor_Lancers",
+            "http://dbpedia.org/resource/Wilfrid_Laurier_Golden_Hawks",
+            "http://dbpedia.org/resource/University_of_Waterloo"
+        ],
+        [
+            "http://dbpedia.org/resource/UBC_Thunderbirds",
+            "http://dbpedia.org/resource/McMaster_Marauders",
+            "http://dbpedia.org/resource/McMaster_University"
+        ]
+    ]
+}

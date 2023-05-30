@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1957_Mestaruussarja",
+            "http://dbpedia.org/resource/Matti_Sundelin",
+            "http://dbpedia.org/resource/Turun_Palloseura"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_Mestaruussarja",
+            "http://dbpedia.org/resource/Kalevi_Lehtovirta",
+            "http://dbpedia.org/resource/Turun_Palloseura"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guillaume_Loriot",
+            "http://dbpedia.org/resource/Le_Mans_FC",
+            "http://dbpedia.org/resource/Valenciennes_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Louhoungou",
+            "http://dbpedia.org/resource/Kocaelispor",
+            "http://dbpedia.org/resource/US_Boulogne"
+        ],
+        [
+            "http://dbpedia.org/resource/Guillaume_Moullec",
+            "http://dbpedia.org/resource/FC_Nantes",
+            "http://dbpedia.org/resource/Clermont_Foot"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurent_Bonnart",
+            "http://dbpedia.org/resource/Olympique_de_Marseille",
+            "http://dbpedia.org/resource/AS_Monaco_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicolas_Seguin",
+            "http://dbpedia.org/resource/Olympique_Lyonnais",
+            "http://dbpedia.org/resource/Dijon_FCO"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Czechoslovakia"
+        ],
+        [
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Czechoslovakia"
+        ],
+        [
+            "http://dbpedia.org/resource/Stavanger",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Czechoslovakia"
+        ],
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Florence",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

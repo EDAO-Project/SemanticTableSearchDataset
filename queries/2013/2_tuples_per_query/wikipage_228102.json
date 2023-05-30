@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/August_32nd_on_Earth",
+            "http://dbpedia.org/resource/Denis_Villeneuve"
+        ],
+        [
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Festen",
+            "http://dbpedia.org/resource/Thomas_Vinterberg"
+        ]
+    ]
+}

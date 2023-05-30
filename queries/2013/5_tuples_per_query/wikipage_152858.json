@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Forest_National"
+        ],
+        [
+            "http://dbpedia.org/resource/Brighton",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Brighton_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Cardiff",
+            "http://dbpedia.org/resource/Wales",
+            "http://dbpedia.org/resource/Motorpoint_Arena_Cardiff"
+        ],
+        [
+            "http://dbpedia.org/resource/Edinburgh",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Edinburgh_Playhouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Edinburgh",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Edinburgh_Playhouse"
+        ]
+    ]
+}

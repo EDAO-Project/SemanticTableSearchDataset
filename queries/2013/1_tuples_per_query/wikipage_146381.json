@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beaune-la-Rolande",
+            "http://dbpedia.org/resource/Boiscommun",
+            "http://dbpedia.org/resource/Boisseaux",
+            "http://dbpedia.org/resource/Bondaroy"
+        ]
+    ]
+}

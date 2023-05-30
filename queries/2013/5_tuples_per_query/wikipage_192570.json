@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Olympic_Gymnastics_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Olympic_Gymnastics_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Jakarta",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Mata_Elang_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Fukuoka",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Fukuoka_Convention_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiroshima",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Nakano_Sun_Plaza"
+        ]
+    ]
+}

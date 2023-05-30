@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Palacio_de_los_Deportes"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christopher_Addison,_1st_Viscount_Addison",
+            "http://dbpedia.org/resource/Clement_Attlee",
+            "http://dbpedia.org/resource/Ernest_Bevin"
+        ]
+    ]
+}

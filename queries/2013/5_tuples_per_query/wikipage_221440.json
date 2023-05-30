@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daga_Island",
+            "http://dbpedia.org/resource/Lake_Tana",
+            "http://dbpedia.org/resource/Ethiopia"
+        ],
+        [
+            "http://dbpedia.org/resource/Dahlak_Kebir",
+            "http://dbpedia.org/resource/Dahlak_Archipelago",
+            "http://dbpedia.org/resource/Eritrea"
+        ],
+        [
+            "http://dbpedia.org/resource/Daishan_County",
+            "http://dbpedia.org/resource/Zhoushan",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhola_Island",
+            "http://dbpedia.org/resource/Meghna_River",
+            "http://dbpedia.org/resource/Bangladesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Damsay",
+            "http://dbpedia.org/resource/Orkney",
+            "http://dbpedia.org/resource/Scotland"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A._Krishnaswamy",
+            "http://dbpedia.org/resource/Dravida_Munnetra_Kazhagam",
+            "http://dbpedia.org/resource/United_Progressive_Alliance",
+            "http://dbpedia.org/resource/P._Venugopal"
+        ],
+        [
+            "http://dbpedia.org/resource/A._K._Moorthy",
+            "http://dbpedia.org/resource/Pattali_Makkal_Katchi",
+            "http://dbpedia.org/resource/United_Progressive_Alliance",
+            "http://dbpedia.org/resource/K._N._Ramachandran"
+        ],
+        [
+            "http://dbpedia.org/resource/Gingee_N._Ramachandran",
+            "http://dbpedia.org/resource/Marumalarchi_Dravida_Munnetra_Kazhagam",
+            "http://dbpedia.org/resource/United_Progressive_Alliance",
+            "http://dbpedia.org/resource/R._Rajalakshmi"
+        ],
+        [
+            "http://dbpedia.org/resource/K._Dhanaraju",
+            "http://dbpedia.org/resource/Pattali_Makkal_Katchi",
+            "http://dbpedia.org/resource/United_Progressive_Alliance",
+            "http://dbpedia.org/resource/A._Arunmozhithevan"
+        ],
+        [
+            "http://dbpedia.org/resource/K._Venkatapathy",
+            "http://dbpedia.org/resource/Dravida_Munnetra_Kazhagam",
+            "http://dbpedia.org/resource/United_Progressive_Alliance",
+            "http://dbpedia.org/resource/R._Rajendran"
+        ]
+    ]
+}

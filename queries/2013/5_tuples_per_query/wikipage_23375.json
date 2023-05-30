@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nelson_W._Aldrich_House",
+            "http://dbpedia.org/resource/Providence,_Rhode_Island",
+            "http://dbpedia.org/resource/Providence_County,_Rhode_Island",
+            "http://dbpedia.org/resource/Nelson_W._Aldrich"
+        ],
+        [
+            "http://dbpedia.org/resource/Westminster_Arcade",
+            "http://dbpedia.org/resource/Providence,_Rhode_Island",
+            "http://dbpedia.org/resource/Providence_County,_Rhode_Island",
+            "http://dbpedia.org/resource/Shopping_mall"
+        ],
+        [
+            "http://dbpedia.org/resource/Block_Island_Southeast_Light",
+            "http://dbpedia.org/resource/New_Shoreham,_Rhode_Island",
+            "http://dbpedia.org/resource/Washington_County,_Rhode_Island",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Breakers",
+            "http://dbpedia.org/resource/Newport,_Rhode_Island",
+            "http://dbpedia.org/resource/Newport_County,_Rhode_Island",
+            "http://dbpedia.org/resource/Cornelius_Vanderbilt_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Chateau-sur-Mer",
+            "http://dbpedia.org/resource/Newport,_Rhode_Island",
+            "http://dbpedia.org/resource/Newport_County,_Rhode_Island",
+            "http://dbpedia.org/resource/William_Shepard_Wetmore"
+        ]
+    ]
+}

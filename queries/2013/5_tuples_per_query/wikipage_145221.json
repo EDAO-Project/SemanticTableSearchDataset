@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wych_Cross",
+            "http://dbpedia.org/resource/Wealden",
+            "http://dbpedia.org/resource/Anglicanism",
+            "http://dbpedia.org/resource/Ashdown_Forest"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle,_East_Sussex",
+            "http://dbpedia.org/resource/Rother",
+            "http://dbpedia.org/resource/Baptists",
+            "http://dbpedia.org/resource/Reformed_Baptists"
+        ],
+        [
+            "http://dbpedia.org/resource/Bexhill-on-Sea",
+            "http://dbpedia.org/resource/Rother",
+            "http://dbpedia.org/resource/Methodism",
+            "http://dbpedia.org/resource/Primitive_Methodism"
+        ],
+        [
+            "http://dbpedia.org/resource/St_Leonards-on-Sea",
+            "http://dbpedia.org/resource/Hastings",
+            "http://dbpedia.org/resource/Anglicanism",
+            "http://dbpedia.org/resource/George_Gilbert_Scott"
+        ],
+        [
+            "http://dbpedia.org/resource/Burwash",
+            "http://dbpedia.org/resource/Rother",
+            "http://dbpedia.org/resource/Methodism",
+            "http://dbpedia.org/resource/Vernacular_architecture"
+        ]
+    ]
+}

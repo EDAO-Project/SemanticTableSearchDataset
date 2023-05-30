@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_NFL_season",
+            "http://dbpedia.org/resource/Oakland_Raiders",
+            "http://dbpedia.org/resource/Detroit_Lions"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rusty_Wallace",
+            "http://dbpedia.org/resource/Miller_Lite",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ]
+    ]
+}

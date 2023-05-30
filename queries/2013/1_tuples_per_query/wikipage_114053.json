@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Jim_Foor",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/McCluer_High_School"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canadian_Atlantic_Railway",
+            "http://dbpedia.org/resource/Canadian_Pacific_Railway",
+            "http://dbpedia.org/resource/Canadian_American_Railroad"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yunus_Qanuni",
+            "http://dbpedia.org/resource/Kabul_Province",
+            "http://dbpedia.org/resource/Cabinet_of_Afghanistan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohammad_Arif_Noorzai",
+            "http://dbpedia.org/resource/Kandahar_Province",
+            "http://dbpedia.org/resource/Hamid_Karzai"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brant_North",
+            "http://dbpedia.org/resource/William_Bruce_Wood",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Brant_South",
+            "http://dbpedia.org/resource/Arthur_Sturgis_Hardy",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_North",
+            "http://dbpedia.org/resource/John_Walter_Scott_Biggar",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornwall_and_Stormont",
+            "http://dbpedia.org/resource/William_Mack",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Dufferin_County",
+            "http://dbpedia.org/resource/Falkner_Cornwall_Stewart",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

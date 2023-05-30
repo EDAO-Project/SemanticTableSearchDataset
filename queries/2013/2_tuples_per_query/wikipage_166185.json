@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mitch_Daniels",
+            "http://dbpedia.org/resource/Indiana",
+            "http://dbpedia.org/resource/Office_of_Management_and_Budget"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahlon_Dickerson",
+            "http://dbpedia.org/resource/New_Jersey",
+            "http://dbpedia.org/resource/United_States_Secretary_of_the_Navy"
+        ]
+    ]
+}

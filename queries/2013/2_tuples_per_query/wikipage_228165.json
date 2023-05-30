@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marion_Jones",
+            "http://dbpedia.org/resource/Zhanna_Pintusevich-Block",
+            "http://dbpedia.org/resource/Savatheda_Fynes"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhanna_Pintusevich-Block",
+            "http://dbpedia.org/resource/Susanthika_Jayasinghe",
+            "http://dbpedia.org/resource/Merlene_Ottey"
+        ]
+    ]
+}

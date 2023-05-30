@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Notre_Dame",
+            "http://dbpedia.org/resource/Edmund_P._Joyce_Center",
+            "http://dbpedia.org/resource/Notre_Dame,_Indiana",
+            "http://dbpedia.org/resource/Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_California,_Santa_Barbara",
+            "http://dbpedia.org/resource/UC_Santa_Barbara_Events_Center",
+            "http://dbpedia.org/resource/Santa_Barbara,_California",
+            "http://dbpedia.org/resource/California"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Tech",
+            "http://dbpedia.org/resource/Cassell_Coliseum",
+            "http://dbpedia.org/resource/Blacksburg,_Virginia",
+            "http://dbpedia.org/resource/Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_University",
+            "http://dbpedia.org/resource/Webster_Bank_Arena",
+            "http://dbpedia.org/resource/Bridgeport,_Connecticut",
+            "http://dbpedia.org/resource/Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Montana",
+            "http://dbpedia.org/resource/Dahlberg_Arena",
+            "http://dbpedia.org/resource/Missoula,_Montana",
+            "http://dbpedia.org/resource/Montana"
+        ]
+    ]
+}

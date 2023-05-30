@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Westfalenstadion",
+            "http://dbpedia.org/resource/Dortmund",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia",
+            "http://dbpedia.org/resource/Borussia_Dortmund"
+        ],
+        [
+            "http://dbpedia.org/resource/Allianz_Arena",
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Bavaria",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Veltins-Arena",
+            "http://dbpedia.org/resource/Gelsenkirchen",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia",
+            "http://dbpedia.org/resource/FC_Schalke_04"
+        ],
+        [
+            "http://dbpedia.org/resource/Commerzbank-Arena",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Hesse",
+            "http://dbpedia.org/resource/Eintracht_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Fritz-Walter-Stadion",
+            "http://dbpedia.org/resource/Kaiserslautern",
+            "http://dbpedia.org/resource/Rhineland-Palatinate",
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern"
+        ]
+    ]
+}

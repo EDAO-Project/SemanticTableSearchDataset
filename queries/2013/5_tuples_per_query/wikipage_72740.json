@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Azerbaijani_language",
+            "http://dbpedia.org/resource/Idman_Azerbaijan_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/English_language",
+            "http://dbpedia.org/resource/Star_Sports_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhutan",
+            "http://dbpedia.org/resource/English_language",
+            "http://dbpedia.org/resource/Star_Sports_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Portuguese_language",
+            "http://dbpedia.org/resource/ESPN_Brasil"
+        ],
+        [
+            "http://dbpedia.org/resource/Brunei",
+            "http://dbpedia.org/resource/English_language",
+            "http://dbpedia.org/resource/Star_Sports_Network"
+        ]
+    ]
+}

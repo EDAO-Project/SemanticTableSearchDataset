@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Attigny,_Ardennes",
+            "http://dbpedia.org/resource/Aure,_Ardennes",
+            "http://dbpedia.org/resource/Authe"
+        ],
+        [
+            "http://dbpedia.org/resource/Autruche",
+            "http://dbpedia.org/resource/Autry",
+            "http://dbpedia.org/resource/Ballay"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Benedum_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Greenville,_South_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Greenville_Memorial_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Baltimore",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Royal_Farms_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlotte,_North_Carolina",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Charlotte_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Nashville_Municipal_Auditorium"
+        ]
+    ]
+}

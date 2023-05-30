@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nagoya_Dome",
+            "http://dbpedia.org/resource/Chunichi_Dragons",
+            "http://dbpedia.org/resource/Daisuke_Matsuzaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Seibu_Dome",
+            "http://dbpedia.org/resource/Saitama_Seibu_Lions",
+            "http://dbpedia.org/resource/Tatsuhiko_Kinjoh"
+        ]
+    ]
+}

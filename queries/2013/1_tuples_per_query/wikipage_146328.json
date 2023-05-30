@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ambleny",
+            "http://dbpedia.org/resource/Ambrief",
+            "http://dbpedia.org/resource/Ancienville"
+        ]
+    ]
+}

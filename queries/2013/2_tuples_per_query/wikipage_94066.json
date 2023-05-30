@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moline,_Illinois",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/IWireless_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Paul,_Minnesota",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Xcel_Energy_Center"
+        ]
+    ]
+}

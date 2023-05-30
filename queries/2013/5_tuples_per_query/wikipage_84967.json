@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_Heat",
+            "http://dbpedia.org/resource/Brandon_Roy",
+            "http://dbpedia.org/resource/Greg_Oden",
+            "http://dbpedia.org/resource/Andre_Miller",
+            "http://dbpedia.org/resource/Moda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Rockets",
+            "http://dbpedia.org/resource/Brandon_Roy",
+            "http://dbpedia.org/resource/Joel_Przybilla",
+            "http://dbpedia.org/resource/Andre_Miller",
+            "http://dbpedia.org/resource/Moda_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Knicks",
+            "http://dbpedia.org/resource/Brandon_Roy",
+            "http://dbpedia.org/resource/LaMarcus_Aldridge",
+            "http://dbpedia.org/resource/Steve_Blake",
+            "http://dbpedia.org/resource/Madison_Square_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Indiana_Pacers",
+            "http://dbpedia.org/resource/Brandon_Roy",
+            "http://dbpedia.org/resource/LaMarcus_Aldridge",
+            "http://dbpedia.org/resource/Steve_Blake",
+            "http://dbpedia.org/resource/Bankers_Life_Fieldhouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland_Cavaliers",
+            "http://dbpedia.org/resource/Brandon_Roy",
+            "http://dbpedia.org/resource/Joel_Przybilla",
+            "http://dbpedia.org/resource/Steve_Blake",
+            "http://dbpedia.org/resource/Quicken_Loans_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Citizen_Kane",
+            "http://dbpedia.org/resource/Orson_Welles",
+            "http://dbpedia.org/resource/RKO_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Godfather",
+            "http://dbpedia.org/resource/Francis_Ford_Coppola",
+            "http://dbpedia.org/resource/Paramount_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/Raging_Bull",
+            "http://dbpedia.org/resource/Martin_Scorsese",
+            "http://dbpedia.org/resource/United_Artists"
+        ],
+        [
+            "http://dbpedia.org/resource/City_Lights",
+            "http://dbpedia.org/resource/Charlie_Chaplin",
+            "http://dbpedia.org/resource/United_Artists"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Graduate",
+            "http://dbpedia.org/resource/Mike_Nichols",
+            "http://dbpedia.org/resource/United_Artists"
+        ]
+    ]
+}

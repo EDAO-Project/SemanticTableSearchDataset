@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Swinburne_University_of_Technology",
+            "http://dbpedia.org/resource/Melbourne"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Chinese_University_of_Hong_Kong",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/GISMA_Business_School",
+            "http://dbpedia.org/resource/Hanover"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Bundeswehr_University_Munich",
+            "http://dbpedia.org/resource/Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/EGADE_Business_School",
+            "http://dbpedia.org/resource/Monterrey"
+        ]
+    ]
+}

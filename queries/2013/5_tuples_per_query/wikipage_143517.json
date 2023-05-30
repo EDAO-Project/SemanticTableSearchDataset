@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1001_Gaussia",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Sergey_Belyavsky"
+        ],
+        [
+            "http://dbpedia.org/resource/1004_Belopolskya",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Sergey_Belyavsky"
+        ],
+        [
+            "http://dbpedia.org/resource/1013_Tombecka",
+            "http://dbpedia.org/resource/Algiers_Observatory",
+            "http://dbpedia.org/resource/Benjamin_Jekhowsky"
+        ],
+        [
+            "http://dbpedia.org/resource/1017_Jacqueline",
+            "http://dbpedia.org/resource/Algiers_Observatory",
+            "http://dbpedia.org/resource/Benjamin_Jekhowsky"
+        ],
+        [
+            "http://dbpedia.org/resource/1022_Olympiada",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Vladimir_Albitsky"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brendon_McCullum",
+            "http://dbpedia.org/resource/New_Zealand_national_cricket_team",
+            "http://dbpedia.org/resource/Bangladesh_national_cricket_team"
+        ]
+    ]
+}

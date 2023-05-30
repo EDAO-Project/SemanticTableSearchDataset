@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1981_Clemson_Tigers_football_team",
+            "http://dbpedia.org/resource/Danny_Ford",
+            "http://dbpedia.org/resource/Orange_Bowl",
+            "http://dbpedia.org/resource/1982_Orange_Bowl",
+            "http://dbpedia.org/resource/Nebraska_Cornhuskers_football"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Clemson_Tigers_football_team",
+            "http://dbpedia.org/resource/Tommy_Bowden",
+            "http://dbpedia.org/resource/Famous_Idaho_Potato_Bowl",
+            "http://dbpedia.org/resource/2001_Humanitarian_Bowl",
+            "http://dbpedia.org/resource/Louisiana_Tech_Bulldogs_football"
+        ]
+    ]
+}

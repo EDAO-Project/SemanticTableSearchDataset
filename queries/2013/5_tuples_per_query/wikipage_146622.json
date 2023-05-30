@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Artzenheim",
+            "http://dbpedia.org/resource/Balgau",
+            "http://dbpedia.org/resource/Baltzenheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Biesheim",
+            "http://dbpedia.org/resource/Bischwihr",
+            "http://dbpedia.org/resource/Breitenbach-Haut-Rhin"
+        ],
+        [
+            "http://dbpedia.org/resource/Colmar",
+            "http://dbpedia.org/resource/Dessenheim",
+            "http://dbpedia.org/resource/Durrenentzen"
+        ],
+        [
+            "http://dbpedia.org/resource/Eguisheim",
+            "http://dbpedia.org/resource/Eschbach-au-Val",
+            "http://dbpedia.org/resource/Fortschwihr"
+        ],
+        [
+            "http://dbpedia.org/resource/Geiswasser",
+            "http://dbpedia.org/resource/Griesbach-au-Val",
+            "http://dbpedia.org/resource/Grussenheim"
+        ]
+    ]
+}

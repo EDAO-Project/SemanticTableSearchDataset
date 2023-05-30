@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/European_route_E101",
+            "http://dbpedia.org/resource/Hlukhiv_Raion",
+            "http://dbpedia.org/resource/Sumy_Oblast"
+        ],
+        [
+            "http://dbpedia.org/resource/European_route_E40",
+            "http://dbpedia.org/resource/Krasnodon",
+            "http://dbpedia.org/resource/Luhansk_Oblast"
+        ],
+        [
+            "http://dbpedia.org/resource/European_route_E40",
+            "http://dbpedia.org/resource/Shehyni",
+            "http://dbpedia.org/resource/Lviv_Oblast"
+        ],
+        [
+            "http://dbpedia.org/resource/European_route_E40",
+            "http://dbpedia.org/resource/Krakovets",
+            "http://dbpedia.org/resource/Lviv_Oblast"
+        ],
+        [
+            "http://dbpedia.org/resource/European_route_E372",
+            "http://dbpedia.org/resource/Rava-Ruska",
+            "http://dbpedia.org/resource/Lviv_Oblast"
+        ]
+    ]
+}

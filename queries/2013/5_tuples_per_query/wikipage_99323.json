@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/West_Palm_Beach,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/SunFest"
+        ],
+        [
+            "http://dbpedia.org/resource/Orlando,_Florida",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Hard_Rock_Cafe"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelseyville,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Konocti_Harbor"
+        ],
+        [
+            "http://dbpedia.org/resource/Santa_Barbara,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Santa_Barbara_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Las_Vegas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ]
+    ]
+}

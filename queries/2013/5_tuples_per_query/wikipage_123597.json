@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Non-international_England_cricket_teams",
+            "http://dbpedia.org/resource/Surrey_County_Cricket_Club",
+            "http://dbpedia.org/resource/The_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Marylebone_Cricket_Club",
+            "http://dbpedia.org/resource/Oxford_University_Cricket_Club",
+            "http://dbpedia.org/resource/Magdalen_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Marylebone_Cricket_Club",
+            "http://dbpedia.org/resource/Surrey_County_Cricket_Club",
+            "http://dbpedia.org/resource/The_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/South_of_England_cricket_team",
+            "http://dbpedia.org/resource/North_of_England_cricket_team",
+            "http://dbpedia.org/resource/Bramall_Lane"
+        ],
+        [
+            "http://dbpedia.org/resource/Marylebone_Cricket_Club",
+            "http://dbpedia.org/resource/Kent_County_Cricket_Club",
+            "http://dbpedia.org/resource/St_Lawrence_Ground"
+        ]
+    ]
+}

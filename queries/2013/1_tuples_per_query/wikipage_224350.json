@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_Governors_of_Alabama",
+            "http://dbpedia.org/resource/List_of_Governors_of_Arkansas",
+            "http://dbpedia.org/resource/List_of_Governors_of_Florida",
+            "http://dbpedia.org/resource/List_of_Governors_of_Georgia",
+            "http://dbpedia.org/resource/Governor_of_Kentucky",
+            "http://dbpedia.org/resource/List_of_Governors_of_Louisiana",
+            "http://dbpedia.org/resource/List_of_Governors_of_Mississippi",
+            "http://dbpedia.org/resource/List_of_Governors_of_North_Carolina",
+            "http://dbpedia.org/resource/List_of_Governors_of_Oklahoma",
+            "http://dbpedia.org/resource/List_of_Governors_of_South_Carolina",
+            "http://dbpedia.org/resource/List_of_Governors_of_Tennessee",
+            "http://dbpedia.org/resource/List_of_Governors_of_Texas",
+            "http://dbpedia.org/resource/List_of_Governors_of_Virginia",
+            "http://dbpedia.org/resource/List_of_Governors_of_West_Virginia"
+        ]
+    ]
+}

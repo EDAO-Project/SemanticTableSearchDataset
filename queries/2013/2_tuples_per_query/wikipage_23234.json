@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Haengsin_Station",
+            "http://dbpedia.org/resource/Honam_Line",
+            "http://dbpedia.org/resource/Goyang"
+        ],
+        [
+            "http://dbpedia.org/resource/Seoul_Station",
+            "http://dbpedia.org/resource/Gyeongbu_Line",
+            "http://dbpedia.org/resource/Jung_District,_Seoul"
+        ]
+    ]
+}

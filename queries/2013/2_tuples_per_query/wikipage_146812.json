@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aranc",
+            "http://dbpedia.org/resource/Arandas,_Ain",
+            "http://dbpedia.org/resource/Arbignieu"
+        ],
+        [
+            "http://dbpedia.org/resource/Argis",
+            "http://dbpedia.org/resource/Armix",
+            "http://dbpedia.org/resource/Artemare"
+        ]
+    ]
+}

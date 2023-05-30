@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KWTU",
+            "http://dbpedia.org/resource/Classical_music",
+            "http://dbpedia.org/resource/University_of_Tulsa"
+        ],
+        [
+            "http://dbpedia.org/resource/KWGS",
+            "http://dbpedia.org/resource/NPR",
+            "http://dbpedia.org/resource/University_of_Tulsa"
+        ],
+        [
+            "http://dbpedia.org/resource/KRSC-FM",
+            "http://dbpedia.org/resource/Campus_radio",
+            "http://dbpedia.org/resource/Rogers_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/KBEZ",
+            "http://dbpedia.org/resource/Adult_hits",
+            "http://dbpedia.org/resource/Journal_Media_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/KTSO",
+            "http://dbpedia.org/resource/Classic_rock",
+            "http://dbpedia.org/resource/Times-Shamrock_Communications"
+        ]
+    ]
+}

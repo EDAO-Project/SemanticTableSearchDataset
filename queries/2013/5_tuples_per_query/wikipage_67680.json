@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Bo_Schembechler",
+            "http://dbpedia.org/resource/University_of_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Gene_Stallings",
+            "http://dbpedia.org/resource/University_of_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Terry_Bowden",
+            "http://dbpedia.org/resource/Auburn_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Gary_Barnett",
+            "http://dbpedia.org/resource/Northwestern_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/Bruce_Snyder",
+            "http://dbpedia.org/resource/Arizona_State_University"
+        ]
+    ]
+}

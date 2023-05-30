@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Genoa",
+            "http://dbpedia.org/resource/Adolfo_Leoni",
+            "http://dbpedia.org/resource/Antonio_Bevilacqua"
+        ]
+    ]
+}

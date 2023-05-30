@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abt_Electronics",
+            "http://dbpedia.org/resource/Glenview",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

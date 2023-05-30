@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Old_Kupferdreh_station",
+            "http://dbpedia.org/resource/Velbert-Nierenhof_station",
+            "http://dbpedia.org/resource/Wagonway"
+        ],
+        [
+            "http://dbpedia.org/resource/Leipzig",
+            "http://dbpedia.org/resource/Dresden",
+            "http://dbpedia.org/resource/Riesa"
+        ],
+        [
+            "http://dbpedia.org/resource/Mannheim_Hauptbahnhof",
+            "http://dbpedia.org/resource/Weil_am_Rhein",
+            "http://dbpedia.org/resource/Karlsruhe"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburg-Altona_station",
+            "http://dbpedia.org/resource/Kiel",
+            "http://dbpedia.org/resource/Altona-Kiel_Railway_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruchsal_station",
+            "http://dbpedia.org/resource/Friedrichshafen",
+            "http://dbpedia.org/resource/Stuttgart"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tokyo_Gaikan_Expressway",
+            "http://dbpedia.org/resource/Setagaya",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Tama_River",
+            "http://dbpedia.org/resource/Setagaya",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Tama_River",
+            "http://dbpedia.org/resource/Tama-ku,_Kawasaki",
+            "http://dbpedia.org/resource/Kanagawa_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Shuto_Expressway",
+            "http://dbpedia.org/resource/Tama-ku,_Kawasaki",
+            "http://dbpedia.org/resource/Kanagawa_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan_National_Route_246",
+            "http://dbpedia.org/resource/Aoba-ku,_Yokohama",
+            "http://dbpedia.org/resource/Kanagawa_Prefecture"
+        ]
+    ]
+}

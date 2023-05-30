@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Comodo_Internet_Security",
+            "http://dbpedia.org/resource/Proprietary_software",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ],
+        [
+            "http://dbpedia.org/resource/Intego",
+            "http://dbpedia.org/resource/Proprietary_software",
+            "http://dbpedia.org/resource/OS_X"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Franziska_van_Almsick",
+            "http://dbpedia.org/resource/Mette_Jacobsen",
+            "http://dbpedia.org/resource/Karen_Pickering"
+        ]
+    ]
+}

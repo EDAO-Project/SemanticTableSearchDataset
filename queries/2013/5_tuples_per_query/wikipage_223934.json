@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2004_in_golf",
+            "http://dbpedia.org/resource/Karen_Stupples",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_sports",
+            "http://dbpedia.org/resource/Wendy_Doolan",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_in_sports",
+            "http://dbpedia.org/resource/Laura_Diaz",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_sports",
+            "http://dbpedia.org/resource/Juli_Inkster",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_in_sports",
+            "http://dbpedia.org/resource/Helen_Alfredsson",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

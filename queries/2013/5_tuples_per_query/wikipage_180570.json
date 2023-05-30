@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giampiero_Boniperti",
+            "http://dbpedia.org/resource/Forza_Italia",
+            "http://dbpedia.org/resource/Forza_Europa"
+        ],
+        [
+            "http://dbpedia.org/resource/Ombretta_Colli",
+            "http://dbpedia.org/resource/Forza_Italia",
+            "http://dbpedia.org/resource/Forza_Europa"
+        ],
+        [
+            "http://dbpedia.org/resource/Giacomo_Leopardi",
+            "http://dbpedia.org/resource/Forza_Italia",
+            "http://dbpedia.org/resource/Forza_Europa"
+        ],
+        [
+            "http://dbpedia.org/resource/Giancarlo_Ligabue",
+            "http://dbpedia.org/resource/Forza_Italia",
+            "http://dbpedia.org/resource/Forza_Europa"
+        ],
+        [
+            "http://dbpedia.org/resource/Franco_Malerba",
+            "http://dbpedia.org/resource/Forza_Italia",
+            "http://dbpedia.org/resource/Forza_Europa"
+        ]
+    ]
+}

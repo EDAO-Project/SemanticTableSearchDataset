@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dominion_of_Ceylon",
+            "http://dbpedia.org/resource/President_of_the_Senate_of_Ceylon",
+            "http://dbpedia.org/resource/Abeyratne_Ratnayaka"
+        ],
+        [
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/List_of_Vice_Presidents_of_India",
+            "http://dbpedia.org/resource/Gopal_Swarup_Pathak"
+        ],
+        [
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Speaker_of_the_Lok_Sabha",
+            "http://dbpedia.org/resource/Gurdial_Singh_Dhillon"
+        ],
+        [
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Senate_of_Iran",
+            "http://dbpedia.org/resource/Jafar_Sharif-Emami"
+        ],
+        [
+            "http://dbpedia.org/resource/Israel",
+            "http://dbpedia.org/resource/List_of_Knesset_speakers",
+            "http://dbpedia.org/resource/Reuven_Barkat"
+        ]
+    ]
+}

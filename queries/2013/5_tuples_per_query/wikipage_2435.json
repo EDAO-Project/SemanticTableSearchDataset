@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mollusca",
+            "http://dbpedia.org/resource/Tunicate",
+            "http://dbpedia.org/resource/Vermes",
+            "http://dbpedia.org/resource/Flatworm"
+        ],
+        [
+            "http://dbpedia.org/resource/Crustacean",
+            "http://dbpedia.org/resource/Mollusca",
+            "http://dbpedia.org/resource/Brachiopod",
+            "http://dbpedia.org/resource/Annelid"
+        ],
+        [
+            "http://dbpedia.org/resource/Arachnid",
+            "http://dbpedia.org/resource/Brachiopod",
+            "http://dbpedia.org/resource/Bryozoa",
+            "http://dbpedia.org/resource/Conodont"
+        ],
+        [
+            "http://dbpedia.org/resource/Myriapoda",
+            "http://dbpedia.org/resource/Bryozoa",
+            "http://dbpedia.org/resource/Mollusca",
+            "http://dbpedia.org/resource/Brachiopod"
+        ],
+        [
+            "http://dbpedia.org/resource/Beetle",
+            "http://dbpedia.org/resource/Arachnid",
+            "http://dbpedia.org/resource/Trilobite",
+            "http://dbpedia.org/resource/Mollusca"
+        ]
+    ]
+}

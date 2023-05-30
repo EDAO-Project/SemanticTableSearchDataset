@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Magnus_Petersson",
+            "http://dbpedia.org/resource/Michele_Frangilli",
+            "http://dbpedia.org/resource/Anton_Prylepau"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Galiazzo",
+            "http://dbpedia.org/resource/Oleksandr_Serdyuk",
+            "http://dbpedia.org/resource/Mattias_Eriksson"
+        ],
+        [
+            "http://dbpedia.org/resource/Jang_Yong-ho",
+            "http://dbpedia.org/resource/Xue_Haifeng",
+            "http://dbpedia.org/resource/Satyadev_Prasad"
+        ],
+        [
+            "http://dbpedia.org/resource/Dmytro_Hrachov",
+            "http://dbpedia.org/resource/Yong_Fujun",
+            "http://dbpedia.org/resource/Ron_van_der_Hoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Balzhinima_Tsyrempilov",
+            "http://dbpedia.org/resource/Stanislav_Zabrodsky",
+            "http://dbpedia.org/resource/Jonathan_Ohayon"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_NHL_Amateur_Draft",
+            "http://dbpedia.org/resource/Orest_Romashyna",
+            "http://dbpedia.org/resource/West_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_NHL_Amateur_Draft",
+            "http://dbpedia.org/resource/Ken_Dryden",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

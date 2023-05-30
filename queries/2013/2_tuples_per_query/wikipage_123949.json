@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Heerenveen",
+            "http://dbpedia.org/resource/Jenny_Wolf",
+            "http://dbpedia.org/resource/Lee_Sang-hwa",
+            "http://dbpedia.org/resource/Margot_Boer"
+        ],
+        [
+            "http://dbpedia.org/resource/Heerenveen",
+            "http://dbpedia.org/resource/Jenny_Wolf",
+            "http://dbpedia.org/resource/Margot_Boer",
+            "http://dbpedia.org/resource/Nao_Kodaira"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nikki_Butterfield",
+            "http://dbpedia.org/resource/Caroline_Steffen",
+            "http://dbpedia.org/resource/Samantha_Warriner"
+        ],
+        [
+            "http://dbpedia.org/resource/Leanda_Cave",
+            "http://dbpedia.org/resource/Magali_Tisseyre",
+            "http://dbpedia.org/resource/E.K._Lidbury"
+        ],
+        [
+            "http://dbpedia.org/resource/Mary_Beth_Ellis",
+            "http://dbpedia.org/resource/Michelle_Wu",
+            "http://dbpedia.org/resource/Kate_Bevilaqua"
+        ],
+        [
+            "http://dbpedia.org/resource/Melanie_McQuaid",
+            "http://dbpedia.org/resource/Heather_Jackson",
+            "http://dbpedia.org/resource/Meredith_Kessler"
+        ],
+        [
+            "http://dbpedia.org/resource/Felicity_Sheedy-Ryan",
+            "http://dbpedia.org/resource/Kate_Bevilaqua",
+            "http://dbpedia.org/resource/Lisa_Marangon"
+        ]
+    ]
+}

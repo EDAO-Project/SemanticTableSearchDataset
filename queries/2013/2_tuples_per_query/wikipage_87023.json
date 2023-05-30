@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Panakkaran",
+            "http://dbpedia.org/resource/P._Vasu",
+            "http://dbpedia.org/resource/Rajinikanth",
+            "http://dbpedia.org/resource/Ilaiyaraaja"
+        ],
+        [
+            "http://dbpedia.org/resource/Pulan_Visaranai",
+            "http://dbpedia.org/resource/R._K._Selvamani",
+            "http://dbpedia.org/resource/Vijayakanth",
+            "http://dbpedia.org/resource/Ilaiyaraaja"
+        ]
+    ]
+}

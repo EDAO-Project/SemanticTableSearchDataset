@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bristol_County,_Massachusetts",
+            "http://dbpedia.org/resource/Seekonk,_Massachusetts",
+            "http://dbpedia.org/resource/Rhode_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/Plymouth_County,_Massachusetts",
+            "http://dbpedia.org/resource/Wareham,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_28"
+        ]
+    ]
+}

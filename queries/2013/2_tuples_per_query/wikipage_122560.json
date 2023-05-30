@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/George_Wallace",
+            "http://dbpedia.org/resource/Elvin_McCary"
+        ],
+        [
+            "http://dbpedia.org/resource/Alaska",
+            "http://dbpedia.org/resource/William_A._Egan",
+            "http://dbpedia.org/resource/Jay_Hammond"
+        ]
+    ]
+}

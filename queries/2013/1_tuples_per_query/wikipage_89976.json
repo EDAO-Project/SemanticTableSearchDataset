@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1957_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Bobby_Shantz",
+            "http://dbpedia.org/resource/New_York_Yankees"
+        ]
+    ]
+}

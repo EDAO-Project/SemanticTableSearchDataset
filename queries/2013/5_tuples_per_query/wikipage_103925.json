@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Xiamen_International_Marathon",
+            "http://dbpedia.org/resource/Marathon",
+            "http://dbpedia.org/resource/Xiamen",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubai_Marathon",
+            "http://dbpedia.org/resource/Marathon",
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo_Marathon",
+            "http://dbpedia.org/resource/Marathon",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Roma-Ostia_Half_Marathon",
+            "http://dbpedia.org/resource/Half_marathon",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Rome_Marathon",
+            "http://dbpedia.org/resource/Marathon",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

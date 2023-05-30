@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/15th_Satellite_Awards",
+            "http://dbpedia.org/resource/Biutiful",
+            "http://dbpedia.org/resource/Biutiful",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/16th_Satellite_Awards",
+            "http://dbpedia.org/resource/Mysteries_of_Lisbon",
+            "http://dbpedia.org/resource/Portugal"
+        ]
+    ]
+}

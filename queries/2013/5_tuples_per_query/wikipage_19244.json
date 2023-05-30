@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gary_Player",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/1961_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Stadler",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1982_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Raymond_Floyd",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1976_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Gay_Brewer",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1967_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Casper",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1970_Masters_Tournament"
+        ]
+    ]
+}

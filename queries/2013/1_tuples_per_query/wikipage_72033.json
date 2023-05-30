@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aerobiz_Supersonic",
+            "http://dbpedia.org/resource/Koei",
+            "http://dbpedia.org/resource/Aerobiz"
+        ]
+    ]
+}

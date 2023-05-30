@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fort_Myers,_Florida",
+            "http://dbpedia.org/resource/Naples,_Florida",
+            "http://dbpedia.org/resource/WZVN-TV",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Myers,_Florida",
+            "http://dbpedia.org/resource/Cape_Coral,_Florida",
+            "http://dbpedia.org/resource/WFTX-TV",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Myers,_Florida",
+            "http://dbpedia.org/resource/Naples,_Florida",
+            "http://dbpedia.org/resource/WXCW",
+            "http://dbpedia.org/resource/The_CW"
+        ],
+        [
+            "http://dbpedia.org/resource/Gainesville,_Florida",
+            "http://dbpedia.org/resource/Ocala,_Florida",
+            "http://dbpedia.org/resource/WOGX",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Gainesville,_Florida",
+            "http://dbpedia.org/resource/High_Springs,_Florida",
+            "http://dbpedia.org/resource/WGFL",
+            "http://dbpedia.org/resource/CBS"
+        ]
+    ]
+}

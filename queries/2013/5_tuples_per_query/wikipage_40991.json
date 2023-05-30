@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cavernario_Galindo",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Enrique_Llanes",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Mendoza",
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Santo",
+            "http://dbpedia.org/resource/Mexicali",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Enrique_Vera",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1953_Orange_Bowl",
+            "http://dbpedia.org/resource/Syracuse_Orange",
+            "http://dbpedia.org/resource/1952_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Ben_Schwartzwalder"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_Orange_Bowl",
+            "http://dbpedia.org/resource/Syracuse_Orange",
+            "http://dbpedia.org/resource/1958_Oklahoma_Sooners_football_team",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Ben_Schwartzwalder"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Multi-sport_event",
+            "http://dbpedia.org/resource/South_Asian_Games",
+            "http://dbpedia.org/resource/1987_South_Asian_Games",
+            "http://dbpedia.org/resource/Kolkata"
+        ]
+    ]
+}

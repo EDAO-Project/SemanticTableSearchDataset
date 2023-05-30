@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/803_Picka",
+            "http://dbpedia.org/resource/Vienna_Observatory",
+            "http://dbpedia.org/resource/Johann_Palisa"
+        ],
+        [
+            "http://dbpedia.org/resource/812_Adele",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Sergey_Belyavsky"
+        ],
+        [
+            "http://dbpedia.org/resource/814_Tauris",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Grigory_Neujmin"
+        ],
+        [
+            "http://dbpedia.org/resource/824_Anastasia",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Grigory_Neujmin"
+        ],
+        [
+            "http://dbpedia.org/resource/827_Wolfiana",
+            "http://dbpedia.org/resource/Vienna_Observatory",
+            "http://dbpedia.org/resource/Johann_Palisa"
+        ]
+    ]
+}

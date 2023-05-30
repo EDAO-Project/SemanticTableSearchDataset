@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dinesh_Karthik",
+            "http://dbpedia.org/resource/2008_Indian_Premier_League",
+            "http://dbpedia.org/resource/Mumbai_Indians"
+        ],
+        [
+            "http://dbpedia.org/resource/Yo_Mahesh",
+            "http://dbpedia.org/resource/2008_Indian_Premier_League",
+            "http://dbpedia.org/resource/Chennai_Super_Kings"
+        ]
+    ]
+}

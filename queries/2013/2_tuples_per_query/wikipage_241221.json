@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guy_Hebert",
+            "http://dbpedia.org/resource/Troy,_New_York",
+            "http://dbpedia.org/resource/Anaheim_Ducks"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Richter",
+            "http://dbpedia.org/resource/Abington_Township,_Montgomery_County,_Pennsylvania",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ]
+    ]
+}

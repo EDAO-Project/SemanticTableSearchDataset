@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_McBride",
+            "http://dbpedia.org/resource/9th_Parliament_of_British_Columbia",
+            "http://dbpedia.org/resource/British_Columbia_Conservative_Party"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Nelly_Furtado",
+            "http://dbpedia.org/resource/Mi_Plan_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Limp_Bizkit",
+            "http://dbpedia.org/resource/Gold_Cobra_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Paramore",
+            "http://dbpedia.org/resource/Brand_New_Eyes_World_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Backstreet_Boys",
+            "http://dbpedia.org/resource/This_Is_Us_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Avril_Lavigne",
+            "http://dbpedia.org/resource/List_of_Avril_Lavigne_concert_tours"
+        ]
+    ]
+}

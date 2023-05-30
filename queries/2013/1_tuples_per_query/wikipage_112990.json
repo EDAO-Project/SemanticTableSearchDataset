@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pete_Laforest",
+            "http://dbpedia.org/resource/Pinch_hitter",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

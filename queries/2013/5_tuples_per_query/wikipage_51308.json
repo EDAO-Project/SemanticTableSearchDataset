@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cambridge_railway_station",
+            "http://dbpedia.org/resource/CrossCountry",
+            "http://dbpedia.org/resource/March_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Cambridge_railway_station",
+            "http://dbpedia.org/resource/CrossCountry",
+            "http://dbpedia.org/resource/Manea_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Thetford_railway_station",
+            "http://dbpedia.org/resource/East_Midlands_Trains",
+            "http://dbpedia.org/resource/Peterborough_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandon_railway_station",
+            "http://dbpedia.org/resource/East_Midlands_Trains",
+            "http://dbpedia.org/resource/March_railway_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Waterbeach_railway_station",
+            "http://dbpedia.org/resource/First_Capital_Connect",
+            "http://dbpedia.org/resource/Littleport_railway_station"
+        ]
+    ]
+}

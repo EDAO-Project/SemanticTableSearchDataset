@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chandra_Sturrup",
+            "http://dbpedia.org/resource/Angela_Williams",
+            "http://dbpedia.org/resource/Chryste_Gaines"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandie_Richards",
+            "http://dbpedia.org/resource/Olga_Kotlyarova",
+            "http://dbpedia.org/resource/Olesya_Zykina"
+        ]
+    ]
+}

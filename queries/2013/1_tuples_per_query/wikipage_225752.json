@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Caldecott_Medal",
+            "http://dbpedia.org/resource/Randolph_Caldecott",
+            "http://dbpedia.org/resource/Picture_book"
+        ]
+    ]
+}

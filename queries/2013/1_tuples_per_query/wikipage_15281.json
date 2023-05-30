@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Nied",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/Colorado_Rockies"
+        ]
+    ]
+}

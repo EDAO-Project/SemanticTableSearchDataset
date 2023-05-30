@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Deidre_Hall",
+            "http://dbpedia.org/resource/Days_of_Our_Lives",
+            "http://dbpedia.org/resource/Marlena_Evans",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Deidre_Hall",
+            "http://dbpedia.org/resource/Days_of_Our_Lives",
+            "http://dbpedia.org/resource/Marlena_Evans",
+            "http://dbpedia.org/resource/NBC"
+        ]
+    ]
+}

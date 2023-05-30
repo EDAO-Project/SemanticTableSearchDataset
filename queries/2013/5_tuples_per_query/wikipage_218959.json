@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Bay_Battalion",
+            "http://dbpedia.org/resource/North_Bay",
+            "http://dbpedia.org/resource/Brampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Guelph_Storm",
+            "http://dbpedia.org/resource/Guelph",
+            "http://dbpedia.org/resource/Toronto_Marlboros"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingston_Frontenacs",
+            "http://dbpedia.org/resource/Kingston,_Ontario",
+            "http://dbpedia.org/resource/Kingston_Canadians"
+        ],
+        [
+            "http://dbpedia.org/resource/Kitchener_Rangers",
+            "http://dbpedia.org/resource/Kitchener,_Ontario",
+            "http://dbpedia.org/resource/Guelph_Biltmore_Mad_Hatters"
+        ],
+        [
+            "http://dbpedia.org/resource/Niagara_IceDogs",
+            "http://dbpedia.org/resource/St._Catharines",
+            "http://dbpedia.org/resource/Mississauga_IceDogs"
+        ]
+    ]
+}

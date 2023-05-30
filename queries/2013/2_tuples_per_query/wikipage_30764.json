@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adrenaline_Drive",
+            "http://dbpedia.org/resource/Shinobu_Yaguchi",
+            "http://dbpedia.org/resource/Masanobu_Ando"
+        ],
+        [
+            "http://dbpedia.org/resource/Away_with_Words",
+            "http://dbpedia.org/resource/Christopher_Doyle",
+            "http://dbpedia.org/resource/Tadanobu_Asano"
+        ]
+    ]
+}

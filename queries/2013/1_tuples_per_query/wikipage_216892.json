@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fencing_at_the_1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Hungary_at_the_1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Italy_at_the_1908_Summer_Olympics",
+            "http://dbpedia.org/resource/Bohemia_at_the_1908_Summer_Olympics"
+        ]
+    ]
+}

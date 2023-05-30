@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Banco_Bradesco",
+            "http://dbpedia.org/resource/Bank",
+            "http://dbpedia.org/resource/Brazil"
+        ]
+    ]
+}

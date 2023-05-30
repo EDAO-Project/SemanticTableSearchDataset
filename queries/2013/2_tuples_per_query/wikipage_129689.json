@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gill_Swerts",
+            "http://dbpedia.org/resource/AZ_Alkmaar",
+            "http://dbpedia.org/resource/Feyenoord"
+        ],
+        [
+            "http://dbpedia.org/resource/Martijn_Barto",
+            "http://dbpedia.org/resource/Harkemase_Boys",
+            "http://dbpedia.org/resource/SC_Cambuur"
+        ]
+    ]
+}

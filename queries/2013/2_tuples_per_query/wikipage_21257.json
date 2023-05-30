@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Vernon_Denney",
+            "http://dbpedia.org/resource/University_of_Nevada,_Reno",
+            "http://dbpedia.org/resource/Nebraska"
+        ],
+        [
+            "http://dbpedia.org/resource/Drew_Edmondson",
+            "http://dbpedia.org/resource/Northeastern_State_University",
+            "http://dbpedia.org/resource/Attorney_general"
+        ]
+    ]
+}

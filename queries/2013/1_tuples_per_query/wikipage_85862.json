@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London_Buses_route_49",
+            "http://dbpedia.org/resource/Clapham_Junction_railway_station",
+            "http://dbpedia.org/resource/Westfield_London",
+            "http://dbpedia.org/resource/London_United_Busways"
+        ]
+    ]
+}

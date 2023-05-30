@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arnsberg_Forest_Nature_Park",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia",
+            "http://dbpedia.org/resource/Ridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Augsburg_Western_Woods_Nature_Park",
+            "http://dbpedia.org/resource/Bavaria",
+            "http://dbpedia.org/resource/Danube"
+        ]
+    ]
+}

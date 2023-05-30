@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1902_Philadelphia_Athletics_season",
+            "http://dbpedia.org/resource/Bill_Bernhard",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Oriole_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1903_Philadelphia_Athletics_season",
+            "http://dbpedia.org/resource/Rube_Waddell",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Huntington_Avenue_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/1905_Philadelphia_Athletics_season",
+            "http://dbpedia.org/resource/Chief_Bender",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Columbia_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1907_Philadelphia_Athletics_season",
+            "http://dbpedia.org/resource/Jack_Coombs",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Columbia_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1909_Philadelphia_Athletics_season",
+            "http://dbpedia.org/resource/Eddie_Plank",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Shibe_Park"
+        ]
+    ]
+}

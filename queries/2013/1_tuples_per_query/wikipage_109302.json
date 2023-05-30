@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aldershot_Military_Museum",
+            "http://dbpedia.org/resource/Aldershot",
+            "http://dbpedia.org/resource/Rushmoor",
+            "http://dbpedia.org/resource/British_Army"
+        ]
+    ]
+}

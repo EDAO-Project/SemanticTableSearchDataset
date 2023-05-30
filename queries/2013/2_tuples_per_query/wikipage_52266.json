@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fabian_Blattman",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Joanne_Bradshaw",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics"
+        ]
+    ]
+}

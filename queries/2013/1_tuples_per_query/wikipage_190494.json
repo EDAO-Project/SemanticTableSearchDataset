@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/007_Legends",
+            "http://dbpedia.org/resource/First-person_shooter",
+            "http://dbpedia.org/resource/Eurocom",
+            "http://dbpedia.org/resource/Activision"
+        ]
+    ]
+}

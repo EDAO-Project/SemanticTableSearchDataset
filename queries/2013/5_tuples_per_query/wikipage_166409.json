@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_in_television",
+            "http://dbpedia.org/resource/Ted_Danson",
+            "http://dbpedia.org/resource/Cheers",
+            "http://dbpedia.org/resource/Sam_Malone",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_in_television",
+            "http://dbpedia.org/resource/John_Goodman",
+            "http://dbpedia.org/resource/Roseanne",
+            "http://dbpedia.org/resource/Dan_Conner",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_in_television",
+            "http://dbpedia.org/resource/Ted_Danson",
+            "http://dbpedia.org/resource/Cheers",
+            "http://dbpedia.org/resource/Sam_Malone",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_in_television",
+            "http://dbpedia.org/resource/John_Goodman",
+            "http://dbpedia.org/resource/Roseanne",
+            "http://dbpedia.org/resource/Dan_Conner",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_in_television",
+            "http://dbpedia.org/resource/Ted_Danson",
+            "http://dbpedia.org/resource/Cheers",
+            "http://dbpedia.org/resource/Sam_Malone",
+            "http://dbpedia.org/resource/NBC"
+        ]
+    ]
+}

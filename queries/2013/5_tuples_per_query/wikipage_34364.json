@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/6th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Richard_Dreyfuss",
+            "http://dbpedia.org/resource/The_Day_Reagan_Was_Shot",
+            "http://dbpedia.org/resource/Alexander_Haig"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Ben_Kingsley",
+            "http://dbpedia.org/resource/Anne_Frank:_The_Whole_Story",
+            "http://dbpedia.org/resource/Otto_Frank"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/James_Woods",
+            "http://dbpedia.org/resource/Rudy:_The_Rudy_Giuliani_Story",
+            "http://dbpedia.org/resource/Rudy_Giuliani"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Robert_Carlyle",
+            "http://dbpedia.org/resource/Hitler:_The_Rise_of_Evil",
+            "http://dbpedia.org/resource/Adolf_Hitler"
+        ],
+        [
+            "http://dbpedia.org/resource/9th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Mos_Def",
+            "http://dbpedia.org/resource/Something_the_Lord_Made",
+            "http://dbpedia.org/resource/Vivien_Thomas"
+        ]
+    ]
+}

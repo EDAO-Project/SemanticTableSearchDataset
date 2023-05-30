@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colorado_State_Highway_1",
+            "http://dbpedia.org/resource/U.S._Route_287",
+            "http://dbpedia.org/resource/Interstate_25_in_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_State_Highway_2",
+            "http://dbpedia.org/resource/U.S._Route_285",
+            "http://dbpedia.org/resource/Brighton,_Colorado"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_State_Highway_5",
+            "http://dbpedia.org/resource/Idaho_Springs,_Colorado",
+            "http://dbpedia.org/resource/Mount_Evans"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_State_Highway_8",
+            "http://dbpedia.org/resource/U.S._Route_285",
+            "http://dbpedia.org/resource/Colorado_State_Highway_121"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_State_Highway_9",
+            "http://dbpedia.org/resource/U.S._Route_50_in_Colorado",
+            "http://dbpedia.org/resource/U.S._Route_40_in_Colorado"
+        ]
+    ]
+}

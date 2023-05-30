@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bovingdon",
+            "http://dbpedia.org/resource/Dacorum",
+            "http://dbpedia.org/resource/Hemel_Hempstead_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Chipperfield",
+            "http://dbpedia.org/resource/Dacorum",
+            "http://dbpedia.org/resource/Hemel_Hempstead_Rural_District"
+        ]
+    ]
+}

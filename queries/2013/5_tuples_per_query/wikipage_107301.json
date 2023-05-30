@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stade_olympique_de_la_Pontaise",
+            "http://dbpedia.org/resource/Switzerland_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Lars_Bastrup"
+        ],
+        [
+            "http://dbpedia.org/resource/Tammela_Stadion",
+            "http://dbpedia.org/resource/Finland_national_football_team",
+            "http://dbpedia.org/resource/Nordic_Football_Championship",
+            "http://dbpedia.org/resource/John_Lauridsen"
+        ],
+        [
+            "http://dbpedia.org/resource/Ullevaal_Stadion",
+            "http://dbpedia.org/resource/Norway_national_football_team",
+            "http://dbpedia.org/resource/Nordic_Football_Championship",
+            "http://dbpedia.org/resource/Michael_Laudrup"
+        ],
+        [
+            "http://dbpedia.org/resource/Atletion",
+            "http://dbpedia.org/resource/Norway_national_football_team",
+            "http://dbpedia.org/resource/Football_at_the_1984_Summer_Olympics",
+            "http://dbpedia.org/resource/Morten_Donnerup"
+        ],
+        [
+            "http://dbpedia.org/resource/Atletion",
+            "http://dbpedia.org/resource/Norway_national_football_team",
+            "http://dbpedia.org/resource/Football_at_the_1984_Summer_Olympics",
+            "http://dbpedia.org/resource/Michael_Manniche"
+        ]
+    ]
+}

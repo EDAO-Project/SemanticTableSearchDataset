@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_24",
+            "http://dbpedia.org/resource/Kanorado,_Kansas",
+            "http://dbpedia.org/resource/Kansas_City,_Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_36",
+            "http://dbpedia.org/resource/St._Francis,_Kansas",
+            "http://dbpedia.org/resource/Elwood,_Kansas"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Martel",
+            "http://dbpedia.org/resource/Franks",
+            "http://dbpedia.org/resource/Battle_of_Tours"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlemagne",
+            "http://dbpedia.org/resource/Franks",
+            "http://dbpedia.org/resource/Western_Roman_Empire"
+        ]
+    ]
+}

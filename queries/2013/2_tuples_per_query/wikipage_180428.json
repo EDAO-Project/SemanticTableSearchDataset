@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_1000_km_of_Mosport",
+            "http://dbpedia.org/resource/Jacky_Ickx",
+            "http://dbpedia.org/resource/Rothman",
+            "http://dbpedia.org/resource/Porsche_956",
+            "http://dbpedia.org/resource/World_Sportscar_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_1000_km_of_Mosport",
+            "http://dbpedia.org/resource/Hans-Joachim_Stuck",
+            "http://dbpedia.org/resource/Rothman",
+            "http://dbpedia.org/resource/Porsche_962",
+            "http://dbpedia.org/resource/World_Sportscar_Championship"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Detroit_Tigers",
+            "http://dbpedia.org/resource/Andrew_Brown",
+            "http://dbpedia.org/resource/Nate_Robertson",
+            "http://dbpedia.org/resource/Alan_Embree"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Joe_Blanton",
+            "http://dbpedia.org/resource/Kelvim_Escobar",
+            "http://dbpedia.org/resource/Alan_Embree"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_Tigers",
+            "http://dbpedia.org/resource/Justin_Verlander",
+            "http://dbpedia.org/resource/Dan_Haren",
+            "http://dbpedia.org/resource/Todd_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Lenny_DiNardo",
+            "http://dbpedia.org/resource/Jon_Garland",
+            "http://dbpedia.org/resource/Alan_Embree"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Joe_Blanton",
+            "http://dbpedia.org/resource/Mark_Buehrle",
+            "http://dbpedia.org/resource/Huston_Street"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Superman",
+            "http://dbpedia.org/resource/Action_Comics_1",
+            "http://dbpedia.org/resource/DC_Comics"
+        ]
+    ]
+}

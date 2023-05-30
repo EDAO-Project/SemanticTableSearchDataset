@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbott_Memorial_Library",
+            "http://dbpedia.org/resource/Maine_State_Route_7",
+            "http://dbpedia.org/resource/Dexter,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/Congregational_Church_of_Medway",
+            "http://dbpedia.org/resource/Maine_State_Route_11",
+            "http://dbpedia.org/resource/Medway,_Maine"
+        ]
+    ]
+}

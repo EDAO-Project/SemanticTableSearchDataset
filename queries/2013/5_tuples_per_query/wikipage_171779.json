@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfred_State_College",
+            "http://dbpedia.org/resource/Alfred,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/NCAA_Division_III"
+        ],
+        [
+            "http://dbpedia.org/resource/Ave_Maria_University",
+            "http://dbpedia.org/resource/Ave_Maria,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/The_Sun_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlow_University",
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/Kentucky_Intercollegiate_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_Maine_Community_College",
+            "http://dbpedia.org/resource/Auburn,_Maine",
+            "http://dbpedia.org/resource/Maine",
+            "http://dbpedia.org/resource/Yankee_Small_College_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Cincinnati_Clermont_College",
+            "http://dbpedia.org/resource/Batavia,_Ohio",
+            "http://dbpedia.org/resource/Ohio",
+            "http://dbpedia.org/resource/Ohio_Collegiate_Athletic_Conference"
+        ]
+    ]
+}

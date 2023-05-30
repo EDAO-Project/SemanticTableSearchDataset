@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1947_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Fausto_Coppi",
+            "http://dbpedia.org/resource/Antonio_Bevilacqua",
+            "http://dbpedia.org/resource/Hugo_Koblet"
+        ]
+    ]
+}

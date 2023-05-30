@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chinmaya_Vidyalayas",
+            "http://dbpedia.org/resource/Anna_Nagar",
+            "http://dbpedia.org/resource/CBSE"
+        ],
+        [
+            "http://dbpedia.org/resource/C.S.I._Ewart_Matriculation_Higher_Secondary_School",
+            "http://dbpedia.org/resource/Purasawalkam",
+            "http://dbpedia.org/resource/Directorate_of_Matriculation_Schools,_Tamil_Nadu"
+        ]
+    ]
+}

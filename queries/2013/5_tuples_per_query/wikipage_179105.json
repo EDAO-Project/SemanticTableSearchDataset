@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Binkang_Road_Station",
+            "http://dbpedia.org/resource/Line_1,_Hangzhou_Metro",
+            "http://dbpedia.org/resource/Xiaoshan_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Chengzhan_Station",
+            "http://dbpedia.org/resource/Line_1,_Hangzhou_Metro",
+            "http://dbpedia.org/resource/Shangcheng_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Coach_Center_Station",
+            "http://dbpedia.org/resource/Line_1,_Hangzhou_Metro",
+            "http://dbpedia.org/resource/Jianggan_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Datieguan_Station",
+            "http://dbpedia.org/resource/Line_1,_Hangzhou_Metro",
+            "http://dbpedia.org/resource/Xiacheng_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Hangzhou_East_Railway_Station",
+            "http://dbpedia.org/resource/Line_1,_Hangzhou_Metro",
+            "http://dbpedia.org/resource/Jianggan_District"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albens",
+            "http://dbpedia.org/resource/Apremont,_Savoie",
+            "http://dbpedia.org/resource/Arbin,_Savoie",
+            "http://dbpedia.org/resource/Arith"
+        ],
+        [
+            "http://dbpedia.org/resource/Arvillard",
+            "http://dbpedia.org/resource/Attignat-Oncin",
+            "http://dbpedia.org/resource/Avressieux",
+            "http://dbpedia.org/resource/Ayn,_Savoie"
+        ]
+    ]
+}

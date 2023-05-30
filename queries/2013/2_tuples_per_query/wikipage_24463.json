@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joseph_Smith",
+            "http://dbpedia.org/resource/Sidney_Rigdon",
+            "http://dbpedia.org/resource/Jesse_Gause"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_Smith",
+            "http://dbpedia.org/resource/Sidney_Rigdon",
+            "http://dbpedia.org/resource/Frederick_G._Williams"
+        ]
+    ]
+}

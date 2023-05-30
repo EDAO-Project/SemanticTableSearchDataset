@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anaheim_Bolts",
+            "http://dbpedia.org/resource/Anaheim,_California",
+            "http://dbpedia.org/resource/Anaheim_Convention_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Kings_Indoor_Team",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/Cincinnati_Gardens"
+        ]
+    ]
+}

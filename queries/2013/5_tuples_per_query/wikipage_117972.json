@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kharkiv",
+            "http://dbpedia.org/resource/Elina_Svitolina",
+            "http://dbpedia.org/resource/Lyudmyla_Kichenok"
+        ],
+        [
+            "http://dbpedia.org/resource/Pozoblanco",
+            "http://dbpedia.org/resource/Valentyna_Ivakhnenko",
+            "http://dbpedia.org/resource/Akiko_Yonemura"
+        ],
+        [
+            "http://dbpedia.org/resource/Kharkiv",
+            "http://dbpedia.org/resource/Elina_Svitolina",
+            "http://dbpedia.org/resource/Valentyna_Ivakhnenko"
+        ],
+        [
+            "http://dbpedia.org/resource/Kharkiv",
+            "http://dbpedia.org/resource/Valentyna_Ivakhnenko",
+            "http://dbpedia.org/resource/Melanie_Klaffner"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Valentyna_Ivakhnenko",
+            "http://dbpedia.org/resource/Margarita_Gasparyan"
+        ]
+    ]
+}

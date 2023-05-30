@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tyler_Seguin",
+            "http://dbpedia.org/resource/Jimmy_Howard",
+            "http://dbpedia.org/resource/Jonathan_Toews"
+        ]
+    ]
+}

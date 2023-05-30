@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nothing_but_the_Beat",
+            "http://dbpedia.org/resource/David_Guetta",
+            "http://dbpedia.org/resource/Positiva_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Nothing_but_the_Beat",
+            "http://dbpedia.org/resource/David_Guetta",
+            "http://dbpedia.org/resource/Positiva_Records"
+        ]
+    ]
+}

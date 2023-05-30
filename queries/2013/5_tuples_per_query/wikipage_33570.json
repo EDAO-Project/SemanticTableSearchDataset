@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_World_Wrestling_Championships",
+            "http://dbpedia.org/resource/Helsinki",
+            "http://dbpedia.org/resource/Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/1954_World_Wrestling_Championships",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_World_Wrestling_Championships",
+            "http://dbpedia.org/resource/Istanbul",
+            "http://dbpedia.org/resource/Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_World_Wrestling_Championships",
+            "http://dbpedia.org/resource/Tehran",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_World_Wrestling_Championships",
+            "http://dbpedia.org/resource/Yokohama",
+            "http://dbpedia.org/resource/Iran"
+        ]
+    ]
+}

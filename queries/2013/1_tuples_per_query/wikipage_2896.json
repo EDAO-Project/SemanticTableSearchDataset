@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Classic_Voyages",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bankruptcy"
+        ]
+    ]
+}

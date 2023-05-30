@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1901_Cleveland_Bluebirds_season",
+            "http://dbpedia.org/resource/Bill_Hoffer",
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/South_Side_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1904_Cleveland_Naps_season",
+            "http://dbpedia.org/resource/Bill_Bernhard",
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/South_Side_Park"
+        ]
+    ]
+}

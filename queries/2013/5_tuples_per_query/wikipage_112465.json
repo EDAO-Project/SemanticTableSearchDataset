@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Tiger_Woods"
+        ],
+        [
+            "http://dbpedia.org/resource/South_African_PGA_Championship",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Tony_Johnstone"
+        ],
+        [
+            "http://dbpedia.org/resource/Qatar_Masters",
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Andrew_Coltart"
+        ],
+        [
+            "http://dbpedia.org/resource/Moroccan_Open",
+            "http://dbpedia.org/resource/Morocco",
+            "http://dbpedia.org/resource/Stephen_Leaney"
+        ],
+        [
+            "http://dbpedia.org/resource/Cannes_Open",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Thomas_Levet"
+        ]
+    ]
+}

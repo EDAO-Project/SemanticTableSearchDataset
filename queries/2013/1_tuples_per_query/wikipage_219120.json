@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arrowhead_Towne_Center",
+            "http://dbpedia.org/resource/Glendale,_Arizona",
+            "http://dbpedia.org/resource/Phoenix,_Arizona"
+        ]
+    ]
+}

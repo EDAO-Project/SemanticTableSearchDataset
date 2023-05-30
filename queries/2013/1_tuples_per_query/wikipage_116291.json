@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gazprom",
+            "http://dbpedia.org/resource/Fossil_fuel",
+            "http://dbpedia.org/resource/Russia"
+        ]
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Garry_Jack",
+            "http://dbpedia.org/resource/Garry_Jack",
+            "http://dbpedia.org/resource/Garry_Jack",
+            "http://dbpedia.org/resource/Jonathan_Docking"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_McGaw",
+            "http://dbpedia.org/resource/Mark_McGaw",
+            "http://dbpedia.org/resource/Brett_Kenny",
+            "http://dbpedia.org/resource/Mark_McGaw"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Ettingshausen",
+            "http://dbpedia.org/resource/Andrew_Farrar",
+            "http://dbpedia.org/resource/Andrew_Ettingshausen",
+            "http://dbpedia.org/resource/Andrew_Ettingshausen"
+        ],
+        [
+            "http://dbpedia.org/resource/Brett_Kenny",
+            "http://dbpedia.org/resource/Brett_Kenny",
+            "http://dbpedia.org/resource/Cliff_Lyons",
+            "http://dbpedia.org/resource/Cliff_Lyons"
+        ],
+        [
+            "http://dbpedia.org/resource/Les_Davidson",
+            "http://dbpedia.org/resource/Peter_Tunks",
+            "http://dbpedia.org/resource/Peter_Tunks"
+        ]
+    ]
+}

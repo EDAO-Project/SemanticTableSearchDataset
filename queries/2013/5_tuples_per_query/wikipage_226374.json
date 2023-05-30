@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brothers_Old_Boys",
+            "http://dbpedia.org/resource/Randwick_DRUFC",
+            "http://dbpedia.org/resource/Ballymore_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Randwick_DRUFC",
+            "http://dbpedia.org/resource/Brothers_Old_Boys",
+            "http://dbpedia.org/resource/Ballymore_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Randwick_DRUFC",
+            "http://dbpedia.org/resource/Brothers_Old_Boys",
+            "http://dbpedia.org/resource/Coogee_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Brothers_Old_Boys",
+            "http://dbpedia.org/resource/Randwick_DRUFC",
+            "http://dbpedia.org/resource/Coogee_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Wests_Rugby",
+            "http://dbpedia.org/resource/Parramatta_Two_Blues",
+            "http://dbpedia.org/resource/Ballymore_Stadium"
+        ]
+    ]
+}

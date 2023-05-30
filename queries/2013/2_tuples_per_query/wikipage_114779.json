@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aurora_University",
+            "http://dbpedia.org/resource/Aurora,_Illinois",
+            "http://dbpedia.org/resource/Illinois",
+            "http://dbpedia.org/resource/Northern_Athletics_Collegiate_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Beloit_College",
+            "http://dbpedia.org/resource/Beloit,_Wisconsin",
+            "http://dbpedia.org/resource/Wisconsin",
+            "http://dbpedia.org/resource/Midwest_Conference"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Addy",
+            "http://dbpedia.org/resource/Second_baseman",
+            "http://dbpedia.org/resource/1874_Hartford_Dark_Blues_season",
+            "http://dbpedia.org/resource/Games_played"
+        ]
+    ]
+}

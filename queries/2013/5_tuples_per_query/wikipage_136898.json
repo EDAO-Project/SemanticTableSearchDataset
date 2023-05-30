@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elisa_Bridges",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Glamour_photography",
+            "http://dbpedia.org/resource/Drug_overdose"
+        ],
+        [
+            "http://dbpedia.org/resource/Nafisa_Joseph",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Beauty_pageant",
+            "http://dbpedia.org/resource/Suicide"
+        ],
+        [
+            "http://dbpedia.org/resource/Murder_of_Sally_Anne_Bowman",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Fashion_photography",
+            "http://dbpedia.org/resource/Murder"
+        ],
+        [
+            "http://dbpedia.org/resource/Heather_Bratton",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Fashion_photography",
+            "http://dbpedia.org/resource/Traffic_collision"
+        ],
+        [
+            "http://dbpedia.org/resource/Luisel_Ramos",
+            "http://dbpedia.org/resource/Uruguay",
+            "http://dbpedia.org/resource/Fashion_photography",
+            "http://dbpedia.org/resource/Anorexia_nervosa"
+        ]
+    ]
+}

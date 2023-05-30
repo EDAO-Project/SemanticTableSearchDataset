@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Blackstone,_Massachusetts",
+            "http://dbpedia.org/resource/Rhode_Island_Route_122"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Uxbridge,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_146"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Uxbridge,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_16"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Grafton,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_122A"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcester_County,_Massachusetts",
+            "http://dbpedia.org/resource/Grafton,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts_Route_140"
+        ]
+    ]
+}

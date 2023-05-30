@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antrim_GAA",
+            "http://dbpedia.org/resource/Belfast",
+            "http://dbpedia.org/resource/Casement_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Armagh_GAA",
+            "http://dbpedia.org/resource/Armagh",
+            "http://dbpedia.org/resource/Athletic_Grounds"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlow_GAA",
+            "http://dbpedia.org/resource/Carlow",
+            "http://dbpedia.org/resource/Dr._Cullen_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Cavan_GAA",
+            "http://dbpedia.org/resource/Cavan",
+            "http://dbpedia.org/resource/Breffni_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Donegal_GAA",
+            "http://dbpedia.org/resource/Ballybofey",
+            "http://dbpedia.org/resource/MacCumhail_Park"
+        ]
+    ]
+}

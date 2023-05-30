@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Age_of_Empires_Online",
+            "http://dbpedia.org/resource/Microsoft",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Age_of_Empires"
+        ],
+        [
+            "http://dbpedia.org/resource/Angels_Online",
+            "http://dbpedia.org/resource/UserJoy_Technology",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Medieval_fantasy"
+        ]
+    ]
+}

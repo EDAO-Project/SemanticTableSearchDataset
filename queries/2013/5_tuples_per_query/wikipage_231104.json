@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_roads_in_Zone_4_of_the_Great_Britain_numbering_scheme",
+            "http://dbpedia.org/resource/Central_London",
+            "http://dbpedia.org/resource/The_Angel,_Islington",
+            "http://dbpedia.org/resource/Shaftesbury_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/A_roads_in_Zone_4_of_the_Great_Britain_numbering_scheme",
+            "http://dbpedia.org/resource/Harlesden",
+            "http://dbpedia.org/resource/Childs_Hill",
+            "http://dbpedia.org/resource/Willesden"
+        ],
+        [
+            "http://dbpedia.org/resource/A_roads_in_Zone_4_of_the_Great_Britain_numbering_scheme",
+            "http://dbpedia.org/resource/Harmondsworth",
+            "http://dbpedia.org/resource/Uxbridge",
+            "http://dbpedia.org/resource/Sipson"
+        ],
+        [
+            "http://dbpedia.org/resource/A422_road",
+            "http://dbpedia.org/resource/Bedford",
+            "http://dbpedia.org/resource/Worcester",
+            "http://dbpedia.org/resource/A46_road"
+        ],
+        [
+            "http://dbpedia.org/resource/A423_road",
+            "http://dbpedia.org/resource/Hinksey_Hill",
+            "http://dbpedia.org/resource/Coventry",
+            "http://dbpedia.org/resource/Maidenhead"
+        ]
+    ]
+}

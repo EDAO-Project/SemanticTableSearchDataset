@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Singapore"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Iran"
+        ],
+        [
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ]
+    ]
+}

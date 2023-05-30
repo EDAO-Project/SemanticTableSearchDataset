@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_Saints_Church,_Wordwell",
+            "http://dbpedia.org/resource/Suffolk",
+            "http://dbpedia.org/resource/Lancet_window"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_Church,_Icklingham",
+            "http://dbpedia.org/resource/Suffolk",
+            "http://dbpedia.org/resource/Norman_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_Church,_Saltfleetby",
+            "http://dbpedia.org/resource/Lincolnshire",
+            "http://dbpedia.org/resource/Pulpit"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_Church,_South_Elmham",
+            "http://dbpedia.org/resource/Suffolk",
+            "http://dbpedia.org/resource/Norman_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_Church,_Vange",
+            "http://dbpedia.org/resource/Essex",
+            "http://dbpedia.org/resource/Norman_architecture"
+        ]
+    ]
+}

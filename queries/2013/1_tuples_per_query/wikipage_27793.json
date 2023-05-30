@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nishi-Kasai_Station",
+            "http://dbpedia.org/resource/Funabori_Station",
+            "http://dbpedia.org/resource/Shin-Koiwa_Station"
+        ]
+    ]
+}

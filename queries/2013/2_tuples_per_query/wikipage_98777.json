@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_Vietnam_Film_Festival",
+            "http://dbpedia.org/resource/1973_in_film",
+            "http://dbpedia.org/resource/Hanoi"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Vietnam_Film_Festival",
+            "http://dbpedia.org/resource/1977_in_film",
+            "http://dbpedia.org/resource/Ho_Chi_Minh_City"
+        ]
+    ]
+}

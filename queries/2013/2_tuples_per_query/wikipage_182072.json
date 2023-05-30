@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bernice_State_Park",
+            "http://dbpedia.org/resource/Grove,_Oklahoma",
+            "http://dbpedia.org/resource/Delaware_County,_Oklahoma",
+            "http://dbpedia.org/resource/Green_Country"
+        ],
+        [
+            "http://dbpedia.org/resource/Chickasaw_National_Recreation_Area",
+            "http://dbpedia.org/resource/Sulphur,_Oklahoma",
+            "http://dbpedia.org/resource/Murray_County,_Oklahoma",
+            "http://dbpedia.org/resource/South_Central_Oklahoma"
+        ]
+    ]
+}

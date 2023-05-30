@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ryan_Miller",
+            "http://dbpedia.org/resource/East_Lansing,_Michigan",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Quick",
+            "http://dbpedia.org/resource/Hamden,_Connecticut",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Gleason",
+            "http://dbpedia.org/resource/Clawson,_Michigan",
+            "http://dbpedia.org/resource/Carolina_Hurricanes"
+        ],
+        [
+            "http://dbpedia.org/resource/Erik_Johnson",
+            "http://dbpedia.org/resource/Bloomington,_Minnesota",
+            "http://dbpedia.org/resource/St._Louis_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooks_Orpik",
+            "http://dbpedia.org/resource/San_Francisco",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins"
+        ]
+    ]
+}

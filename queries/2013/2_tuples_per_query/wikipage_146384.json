@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auquainville",
+            "http://dbpedia.org/resource/Auvillars",
+            "http://dbpedia.org/resource/Barneville-la-Bertran",
+            "http://dbpedia.org/resource/Basseneville"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaufour-Druval",
+            "http://dbpedia.org/resource/Beaumont-en-Auge",
+            "http://dbpedia.org/resource/Bellou",
+            "http://dbpedia.org/resource/Benerville-sur-Mer"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hyundai_Tournament_of_Champions",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Calvin_Peete"
+        ],
+        [
+            "http://dbpedia.org/resource/Humana_Challenge",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Donnie_Hammond"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix_Open",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Hal_Sutton"
+        ],
+        [
+            "http://dbpedia.org/resource/AT&T_Pebble_Beach_National_Pro-Am",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Fuzzy_Zoeller"
+        ],
+        [
+            "http://dbpedia.org/resource/Farmers_Insurance_Open",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Bob_Tway"
+        ]
+    ]
+}

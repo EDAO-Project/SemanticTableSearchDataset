@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scottsdale,_Arizona",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Scottsdale_Fashion_Square"
+        ]
+    ]
+}

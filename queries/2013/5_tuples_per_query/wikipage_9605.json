@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zell_am_Ziller",
+            "http://dbpedia.org/resource/WSG_Wattens",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Alexander_Meier"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_am_Zoo",
+            "http://dbpedia.org/resource/Wuppertaler_SV",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Ioannis_Amanatidis"
+        ],
+        [
+            "http://dbpedia.org/resource/Boppard",
+            "http://dbpedia.org/resource/TuS_Koblenz",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Alexander_Meier"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelsterbach",
+            "http://dbpedia.org/resource/1._FC_Viktoria_07_Kelsterbach",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Ioannis_Amanatidis"
+        ],
+        [
+            "http://dbpedia.org/resource/Commerzbank-Arena",
+            "http://dbpedia.org/resource/Hertha_BSC",
+            "http://dbpedia.org/resource/Bundesliga",
+            "http://dbpedia.org/resource/Ioannis_Amanatidis"
+        ]
+    ]
+}

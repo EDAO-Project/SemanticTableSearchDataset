@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Noblesville,_Indiana",
+            "http://dbpedia.org/resource/Klipsch_Music_Center",
+            "http://dbpedia.org/resource/Iggy_Pop"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Lansing,_Michigan",
+            "http://dbpedia.org/resource/Breslin_Student_Events_Center",
+            "http://dbpedia.org/resource/Iggy_Pop"
+        ],
+        [
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Bell_Centre",
+            "http://dbpedia.org/resource/Cheap_Trick"
+        ],
+        [
+            "http://dbpedia.org/resource/Auburn_Hills,_Michigan",
+            "http://dbpedia.org/resource/The_Palace_of_Auburn_Hills",
+            "http://dbpedia.org/resource/Cheap_Trick"
+        ],
+        [
+            "http://dbpedia.org/resource/Burgettstown,_Pennsylvania",
+            "http://dbpedia.org/resource/First_Niagara_Pavilion",
+            "http://dbpedia.org/resource/Iggy_Pop"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Liaquat_Ali_Khan",
+            "http://dbpedia.org/resource/All-India_Muslim_League",
+            "http://dbpedia.org/resource/Interim_Government_of_India"
+        ],
+        [
+            "http://dbpedia.org/resource/R._K._Shanmukham_Chetty",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Jawaharlal_Nehru"
+        ]
+    ]
+}

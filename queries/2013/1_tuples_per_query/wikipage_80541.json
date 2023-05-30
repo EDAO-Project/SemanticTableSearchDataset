@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allen_Academy",
+            "http://dbpedia.org/resource/Wayne_County_Regional_Educational_Service_Agency",
+            "http://dbpedia.org/resource/Wayne_County,_Michigan",
+            "http://dbpedia.org/resource/Ferris_State_University"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alderson_Bridge",
+            "http://dbpedia.org/resource/Greenbrier_River",
+            "http://dbpedia.org/resource/Alderson,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Clarence_Campbell_House",
+            "http://dbpedia.org/resource/West_Virginia_Route_3",
+            "http://dbpedia.org/resource/Union,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Gaston_Caperton,_Jr.,_House",
+            "http://dbpedia.org/resource/West_Virginia_Route_3",
+            "http://dbpedia.org/resource/Union,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Wallace_Estill,_Sr.,_House",
+            "http://dbpedia.org/resource/West_Virginia_Route_122",
+            "http://dbpedia.org/resource/Union,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Creek_Covered_Bridge",
+            "http://dbpedia.org/resource/U.S._Route_219",
+            "http://dbpedia.org/resource/Salt_Sulphur_Springs,_West_Virginia"
+        ]
+    ]
+}

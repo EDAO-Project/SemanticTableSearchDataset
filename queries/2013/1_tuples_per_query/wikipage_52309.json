@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1979_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Michel_Goulet",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

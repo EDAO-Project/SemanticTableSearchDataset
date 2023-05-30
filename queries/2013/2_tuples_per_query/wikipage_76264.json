@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Jenson_Button",
+            "http://dbpedia.org/resource/2009_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Brawn_GP",
+            "http://dbpedia.org/resource/2009_Formula_One_season"
+        ]
+    ]
+}

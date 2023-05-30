@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_Genie_Awards",
+            "http://dbpedia.org/resource/Francis_Mankiewicz",
+            "http://dbpedia.org/resource/Bob_Clark"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_Genie_Awards",
+            "http://dbpedia.org/resource/Gilles_Carle",
+            "http://dbpedia.org/resource/David_Cronenberg"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Genie_Awards",
+            "http://dbpedia.org/resource/Phillip_Borsos",
+            "http://dbpedia.org/resource/Rex_Bromfield"
+        ],
+        [
+            "http://dbpedia.org/resource/9th_Genie_Awards",
+            "http://dbpedia.org/resource/Jean-Claude_Lauzon",
+            "http://dbpedia.org/resource/Atom_Egoyan"
+        ],
+        [
+            "http://dbpedia.org/resource/10th_Genie_Awards",
+            "http://dbpedia.org/resource/David_Cronenberg",
+            "http://dbpedia.org/resource/Roger_Cardinal"
+        ]
+    ]
+}

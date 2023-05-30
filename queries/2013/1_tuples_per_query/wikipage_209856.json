@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anton_Babchuk",
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/Kiev",
+            "http://dbpedia.org/resource/Chicago_Blackhawks"
+        ]
+    ]
+}

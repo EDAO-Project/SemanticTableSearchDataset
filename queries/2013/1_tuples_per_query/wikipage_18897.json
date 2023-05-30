@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abadan,_Iran",
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Abadan_Airport"
+        ]
+    ]
+}

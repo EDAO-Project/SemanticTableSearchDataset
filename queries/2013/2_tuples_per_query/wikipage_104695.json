@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlantic_Open",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Stephen_McAllister"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubai_Desert_Classic",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Eamonn_Darcy"
+        ]
+    ]
+}

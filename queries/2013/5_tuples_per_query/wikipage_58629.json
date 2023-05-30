@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dragon_Quest_III",
+            "http://dbpedia.org/resource/Chunsoft",
+            "http://dbpedia.org/resource/Enix",
+            "http://dbpedia.org/resource/Dragon_Quest"
+        ],
+        [
+            "http://dbpedia.org/resource/Paper_Mario",
+            "http://dbpedia.org/resource/Intelligent_Systems",
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Super_Mario"
+        ],
+        [
+            "http://dbpedia.org/resource/Time_Stalkers",
+            "http://dbpedia.org/resource/Climax_Entertainment",
+            "http://dbpedia.org/resource/Sega",
+            "http://dbpedia.org/resource/Landstalker"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Ocean:_Blue_Sphere",
+            "http://dbpedia.org/resource/Tri-Ace",
+            "http://dbpedia.org/resource/Enix",
+            "http://dbpedia.org/resource/Star_Ocean"
+        ],
+        [
+            "http://dbpedia.org/resource/Wizardry:_Tale_of_the_Forsaken_Land",
+            "http://dbpedia.org/resource/Racjin",
+            "http://dbpedia.org/resource/Atlus",
+            "http://dbpedia.org/resource/Wizardry"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lionel_Messi",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ]
+    ]
+}

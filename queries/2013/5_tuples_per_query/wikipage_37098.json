@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lidia_Gueiler_Tejada",
+            "http://dbpedia.org/resource/Bolivia",
+            "http://dbpedia.org/resource/President_of_Bolivia"
+        ],
+        [
+            "http://dbpedia.org/resource/Maria_Lea_Pedini-Angelini",
+            "http://dbpedia.org/resource/San_Marino",
+            "http://dbpedia.org/resource/Captains_Regent"
+        ],
+        [
+            "http://dbpedia.org/resource/Gloriana_Ranocchini",
+            "http://dbpedia.org/resource/San_Marino",
+            "http://dbpedia.org/resource/Captains_Regent"
+        ],
+        [
+            "http://dbpedia.org/resource/Carmen_Pereira",
+            "http://dbpedia.org/resource/Guinea-Bissau",
+            "http://dbpedia.org/resource/List_of_Presidents_of_Guinea-Bissau"
+        ],
+        [
+            "http://dbpedia.org/resource/Elisabeth_Kopp",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/List_of_members_of_the_Swiss_Federal_Council"
+        ]
+    ]
+}

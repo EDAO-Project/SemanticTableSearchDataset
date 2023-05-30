@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aubepierre-Ozouer-le-Repos",
+            "http://dbpedia.org/resource/Barbizon",
+            "http://dbpedia.org/resource/Beauvoir,_Seine-et-Marne"
+        ],
+        [
+            "http://dbpedia.org/resource/Blandy,_Seine-et-Marne",
+            "http://dbpedia.org/resource/Boissettes",
+            "http://dbpedia.org/resource/Boissise-la-Bertrand"
+        ],
+        [
+            "http://dbpedia.org/resource/Champdeuil",
+            "http://dbpedia.org/resource/Champeaux,_Seine-et-Marne",
+            "http://dbpedia.org/resource/Chartrettes"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevry-Cossigny",
+            "http://dbpedia.org/resource/Clos-Fontaine",
+            "http://dbpedia.org/resource/Combs-la-Ville"
+        ],
+        [
+            "http://dbpedia.org/resource/Coubert",
+            "http://dbpedia.org/resource/Courquetaine",
+            "http://dbpedia.org/resource/Courtomer,_Seine-et-Marne"
+        ]
+    ]
+}

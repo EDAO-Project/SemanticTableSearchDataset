@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland_Trail_Blazers",
+            "http://dbpedia.org/resource/Golden_State_Warriors",
+            "http://dbpedia.org/resource/Stephen_Jackson",
+            "http://dbpedia.org/resource/Oracle_Arena"
+        ]
+    ]
+}

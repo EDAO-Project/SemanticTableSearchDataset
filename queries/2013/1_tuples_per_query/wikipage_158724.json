@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alan_Browne",
+            "http://dbpedia.org/resource/Cork_GAA",
+            "http://dbpedia.org/resource/Kerry_GAA"
+        ]
+    ]
+}

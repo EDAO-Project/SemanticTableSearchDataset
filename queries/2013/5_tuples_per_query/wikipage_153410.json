@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Koltsovo_Airport",
+            "http://dbpedia.org/resource/Sverdlovsk_Oblast",
+            "http://dbpedia.org/resource/Yekaterinburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Tolmachevo_Airport",
+            "http://dbpedia.org/resource/Novosibirsk_Oblast",
+            "http://dbpedia.org/resource/Novosibirsk"
+        ],
+        [
+            "http://dbpedia.org/resource/Krasnodar_International_Airport",
+            "http://dbpedia.org/resource/Krasnodar_Krai",
+            "http://dbpedia.org/resource/Krasnodar"
+        ],
+        [
+            "http://dbpedia.org/resource/Sochi_International_Airport",
+            "http://dbpedia.org/resource/Krasnodar_Krai",
+            "http://dbpedia.org/resource/Sochi"
+        ],
+        [
+            "http://dbpedia.org/resource/Ufa_International_Airport",
+            "http://dbpedia.org/resource/Bashkortostan",
+            "http://dbpedia.org/resource/Ufa"
+        ]
+    ]
+}

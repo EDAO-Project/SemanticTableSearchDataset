@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mapai",
+            "http://dbpedia.org/resource/David_Ben-Gurion",
+            "http://dbpedia.org/resource/Prime_Minister_of_Israel"
+        ]
+    ]
+}

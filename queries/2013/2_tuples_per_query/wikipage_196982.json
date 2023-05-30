@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/First_Texas_Legislature",
+            "http://dbpedia.org/resource/Henry_Kinney",
+            "http://dbpedia.org/resource/Goliad_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Third_Texas_Legislature",
+            "http://dbpedia.org/resource/Henry_Kinney",
+            "http://dbpedia.org/resource/Goliad_County,_Texas"
+        ]
+    ]
+}

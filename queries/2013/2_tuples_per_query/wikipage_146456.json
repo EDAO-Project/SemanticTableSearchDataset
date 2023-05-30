@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ancy-sur-Moselle",
+            "http://dbpedia.org/resource/Antilly,_Moselle",
+            "http://dbpedia.org/resource/Argancy"
+        ],
+        [
+            "http://dbpedia.org/resource/Arry,_Moselle",
+            "http://dbpedia.org/resource/Ars-Laquenexy",
+            "http://dbpedia.org/resource/Ars-sur-Moselle"
+        ]
+    ]
+}

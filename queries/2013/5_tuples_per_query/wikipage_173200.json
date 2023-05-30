@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Kelvin_Herrera",
+            "http://dbpedia.org/resource/David_Aardsma",
+            "http://dbpedia.org/resource/Greg_Holland"
+        ],
+        [
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Louis_Coleman",
+            "http://dbpedia.org/resource/Samuel_Deduno",
+            "http://dbpedia.org/resource/Greg_Holland"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Bruce_Chen",
+            "http://dbpedia.org/resource/Jon_Lester",
+            "http://dbpedia.org/resource/Luke_Hochevar"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Francisley_Bueno",
+            "http://dbpedia.org/resource/Drake_Britton",
+            "http://dbpedia.org/resource/Greg_Holland"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Brandon_Workman",
+            "http://dbpedia.org/resource/Jeremy_Guthrie",
+            "http://dbpedia.org/resource/Koji_Uehara"
+        ]
+    ]
+}

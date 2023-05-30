@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colorado_State_University",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles",
+            "http://dbpedia.org/resource/Scottsdale,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_State_University",
+            "http://dbpedia.org/resource/California_Polytechnic_State_University",
+            "http://dbpedia.org/resource/Scottsdale,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Tech",
+            "http://dbpedia.org/resource/University_of_Colorado_Boulder",
+            "http://dbpedia.org/resource/Scottsdale,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_State_University",
+            "http://dbpedia.org/resource/California_Polytechnic_State_University",
+            "http://dbpedia.org/resource/Denver"
+        ],
+        [
+            "http://dbpedia.org/resource/California_Polytechnic_State_University",
+            "http://dbpedia.org/resource/Navy_Midshipmen",
+            "http://dbpedia.org/resource/Denver"
+        ]
+    ]
+}

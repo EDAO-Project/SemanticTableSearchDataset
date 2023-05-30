@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany,_Oregon",
+            "http://dbpedia.org/resource/Linn_County,_Oregon",
+            "http://dbpedia.org/resource/Samaritan_Albany_General_Hospital"
+        ]
+    ]
+}

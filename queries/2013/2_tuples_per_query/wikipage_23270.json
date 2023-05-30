@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Intel_8008",
+            "http://dbpedia.org/resource/Intel",
+            "http://dbpedia.org/resource/PMOS_logic"
+        ],
+        [
+            "http://dbpedia.org/resource/IMP-16",
+            "http://dbpedia.org/resource/National_Semiconductor",
+            "http://dbpedia.org/resource/PMOS_logic"
+        ]
+    ]
+}

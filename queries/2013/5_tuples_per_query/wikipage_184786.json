@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aintree_Racecourse",
+            "http://dbpedia.org/resource/Merseyside",
+            "http://dbpedia.org/resource/National_Hunt_racing",
+            "http://dbpedia.org/resource/Jockey_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Bath_Racecourse",
+            "http://dbpedia.org/resource/Somerset",
+            "http://dbpedia.org/resource/Flat_racing",
+            "http://dbpedia.org/resource/Arena_Racing_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Brighton_Racecourse",
+            "http://dbpedia.org/resource/East_Sussex",
+            "http://dbpedia.org/resource/Flat_racing",
+            "http://dbpedia.org/resource/Arena_Racing_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Cheltenham_Racecourse",
+            "http://dbpedia.org/resource/Gloucestershire",
+            "http://dbpedia.org/resource/National_Hunt_racing",
+            "http://dbpedia.org/resource/Jockey_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Epsom_Downs_Racecourse",
+            "http://dbpedia.org/resource/Surrey",
+            "http://dbpedia.org/resource/Flat_racing",
+            "http://dbpedia.org/resource/Jockey_Club"
+        ]
+    ]
+}

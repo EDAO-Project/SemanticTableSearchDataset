@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hunted_Down",
+            "http://dbpedia.org/resource/Soundgarden",
+            "http://dbpedia.org/resource/Telephantasm"
+        ],
+        [
+            "http://dbpedia.org/resource/Outshined",
+            "http://dbpedia.org/resource/Soundgarden",
+            "http://dbpedia.org/resource/Telephantasm"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bob_Barr",
+            "http://dbpedia.org/resource/University_of_Southern_California",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives"
+        ],
+        [
+            "http://dbpedia.org/resource/William_K._Brewster",
+            "http://dbpedia.org/resource/Southwestern_Oklahoma_State_University",
+            "http://dbpedia.org/resource/Oklahoma"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Byrd",
+            "http://dbpedia.org/resource/George_Washington_University",
+            "http://dbpedia.org/resource/West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Quico_Canseco",
+            "http://dbpedia.org/resource/Saint_Louis_University",
+            "http://dbpedia.org/resource/Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeffrey_Paul_Hillelson",
+            "http://dbpedia.org/resource/University_of_Missouri",
+            "http://dbpedia.org/resource/Missouri"
+        ]
+    ]
+}

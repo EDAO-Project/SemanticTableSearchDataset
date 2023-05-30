@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antrim,_County_Antrim",
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Courthouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Armagh",
+            "http://dbpedia.org/resource/County_Armagh",
+            "http://dbpedia.org/resource/Learning"
+        ],
+        [
+            "http://dbpedia.org/resource/Aughnacloy,_County_Tyrone",
+            "http://dbpedia.org/resource/County_Tyrone",
+            "http://dbpedia.org/resource/Retail"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballyclare",
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Seat_of_local_government"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballymena",
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Seat_of_local_government"
+        ]
+    ]
+}

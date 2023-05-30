@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apology",
+            "http://dbpedia.org/resource/Timbaland",
+            "http://dbpedia.org/resource/Back_to_Black",
+            "http://dbpedia.org/resource/Amy_Winehouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Apology",
+            "http://dbpedia.org/resource/Timbaland",
+            "http://dbpedia.org/resource/Back_to_Black",
+            "http://dbpedia.org/resource/Amy_Winehouse"
+        ]
+    ]
+}

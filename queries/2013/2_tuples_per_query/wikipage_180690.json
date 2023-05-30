@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russ_Johnson",
+            "http://dbpedia.org/resource/LSU_Tigers_baseball",
+            "http://dbpedia.org/resource/Shortstop"
+        ],
+        [
+            "http://dbpedia.org/resource/Todd_Walker",
+            "http://dbpedia.org/resource/LSU_Tigers_baseball",
+            "http://dbpedia.org/resource/Second_baseman"
+        ]
+    ]
+}

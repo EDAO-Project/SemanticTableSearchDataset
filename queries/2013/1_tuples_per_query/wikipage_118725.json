@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Interstate_390",
+            "http://dbpedia.org/resource/New_York_State_Route_36",
+            "http://dbpedia.org/resource/New_York_State_Route_21"
+        ]
+    ]
+}

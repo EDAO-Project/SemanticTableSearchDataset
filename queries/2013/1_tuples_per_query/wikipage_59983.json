@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WEGL",
+            "http://dbpedia.org/resource/Auburn,_Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Auburn_University"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1956_Baltimore_Orioles_season",
+            "http://dbpedia.org/resource/Bill_Wight",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Fenway_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Baltimore_Orioles_season",
+            "http://dbpedia.org/resource/Milt_Pappas",
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Comiskey_Park"
+        ]
+    ]
+}

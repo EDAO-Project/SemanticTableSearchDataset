@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gregg_Olson",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Baltimore_Orioles"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Bagwell",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Houston_Astros"
+        ],
+        [
+            "http://dbpedia.org/resource/Pat_Listach",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Milwaukee_Brewers"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Piazza",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/Hideo_Nomo",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers"
+        ]
+    ]
+}

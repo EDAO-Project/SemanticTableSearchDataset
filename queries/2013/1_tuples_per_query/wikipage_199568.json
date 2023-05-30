@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/Dari_language",
+            "http://dbpedia.org/resource/Kabul"
+        ]
+    ]
+}

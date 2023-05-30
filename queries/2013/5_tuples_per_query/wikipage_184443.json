@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Coburg_Football_Club",
+            "http://dbpedia.org/resource/Harry_Kerley",
+            "http://dbpedia.org/resource/Charlie_Hardy"
+        ],
+        [
+            "http://dbpedia.org/resource/Coburg_Football_Club",
+            "http://dbpedia.org/resource/Harry_Kerley",
+            "http://dbpedia.org/resource/Charlie_Hardy"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakleigh_Football_Club",
+            "http://dbpedia.org/resource/Archie_Baxter",
+            "http://dbpedia.org/resource/George_Smeaton"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakleigh_Football_Club",
+            "http://dbpedia.org/resource/Archie_Baxter",
+            "http://dbpedia.org/resource/George_Smeaton"
+        ],
+        [
+            "http://dbpedia.org/resource/Moorabbin_Football_Club",
+            "http://dbpedia.org/resource/Max_Papley",
+            "http://dbpedia.org/resource/Graham_Dunscombe"
+        ]
+    ]
+}

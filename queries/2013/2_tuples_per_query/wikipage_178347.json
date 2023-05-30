@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Delhi_Daredevils",
+            "http://dbpedia.org/resource/Delhi",
+            "http://dbpedia.org/resource/Sachin_Tendulkar"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/Mumbai",
+            "http://dbpedia.org/resource/Sachin_Tendulkar"
+        ]
+    ]
+}

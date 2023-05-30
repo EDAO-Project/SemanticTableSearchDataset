@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Biddenham",
+            "http://dbpedia.org/resource/Borough_of_Bedford",
+            "http://dbpedia.org/resource/Bedford_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Bletsoe",
+            "http://dbpedia.org/resource/Borough_of_Bedford",
+            "http://dbpedia.org/resource/Bedford_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolnhurst_and_Keysoe",
+            "http://dbpedia.org/resource/Borough_of_Bedford",
+            "http://dbpedia.org/resource/Bedford_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Brickhill",
+            "http://dbpedia.org/resource/Borough_of_Bedford",
+            "http://dbpedia.org/resource/Bedford"
+        ],
+        [
+            "http://dbpedia.org/resource/Bromham,_Bedfordshire",
+            "http://dbpedia.org/resource/Borough_of_Bedford",
+            "http://dbpedia.org/resource/Bedford_Rural_District"
+        ]
+    ]
+}

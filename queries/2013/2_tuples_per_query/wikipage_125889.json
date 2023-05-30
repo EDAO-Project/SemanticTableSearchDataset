@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Rutledge",
+            "http://dbpedia.org/resource/Governor_of_South_Carolina",
+            "http://dbpedia.org/resource/George_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Cushing",
+            "http://dbpedia.org/resource/Chief_Justice",
+            "http://dbpedia.org/resource/George_Washington"
+        ]
+    ]
+}

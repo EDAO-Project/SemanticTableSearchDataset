@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1980_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Denis_Cyr",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

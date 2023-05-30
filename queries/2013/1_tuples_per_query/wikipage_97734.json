@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tbilisi",
+            "http://dbpedia.org/resource/Adigeni_Municipality",
+            "http://dbpedia.org/resource/Kutaisi"
+        ]
+    ]
+}

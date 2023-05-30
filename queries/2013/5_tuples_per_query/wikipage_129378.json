@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Glasgow",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Clyde_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Dundee",
+            "http://dbpedia.org/resource/Scotland",
+            "http://dbpedia.org/resource/Caird_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Oxford",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/New_Theatre_Oxford"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_upon_Tyne",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Newcastle_City_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Norwich",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/University_of_East_Anglia"
+        ]
+    ]
+}

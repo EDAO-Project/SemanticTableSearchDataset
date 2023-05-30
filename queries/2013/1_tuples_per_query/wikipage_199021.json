@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/College_Basketball_on_CBS",
+            "http://dbpedia.org/resource/Alamodome",
+            "http://dbpedia.org/resource/Jim_Nantz",
+            "http://dbpedia.org/resource/Billy_Packer",
+            "http://dbpedia.org/resource/Michele_Tafoya",
+            "http://dbpedia.org/resource/Greg_Gumbel",
+            "http://dbpedia.org/resource/Clark_Kellogg",
+            "http://dbpedia.org/resource/C._M._Newton"
+        ]
+    ]
+}

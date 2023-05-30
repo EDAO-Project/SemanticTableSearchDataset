@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thrift_Shop",
+            "http://dbpedia.org/resource/Macklemore",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

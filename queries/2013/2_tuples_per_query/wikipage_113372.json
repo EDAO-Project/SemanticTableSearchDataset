@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_L._Bass",
+            "http://dbpedia.org/resource/United_States_Navy",
+            "http://dbpedia.org/resource/Seaman"
+        ],
+        [
+            "http://dbpedia.org/resource/Philip_Bazaar",
+            "http://dbpedia.org/resource/United_States_Navy",
+            "http://dbpedia.org/resource/Ordinary_seaman"
+        ]
+    ]
+}

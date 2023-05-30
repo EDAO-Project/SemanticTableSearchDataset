@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_ICF_Canoe_Slalom_World_Championships",
+            "http://dbpedia.org/resource/Geneva",
+            "http://dbpedia.org/resource/Switzerland"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_ICF_Canoe_Slalom_World_Championships",
+            "http://dbpedia.org/resource/Steyr",
+            "http://dbpedia.org/resource/Austria"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colin_Viljoen",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Frans_Thijssen",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Brazil",
+            "http://dbpedia.org/resource/Striker",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Mariner",
+            "http://dbpedia.org/resource/Striker",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Trevor_Putney",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

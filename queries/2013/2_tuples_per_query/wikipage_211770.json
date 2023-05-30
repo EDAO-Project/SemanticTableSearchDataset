@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thexder",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System",
+            "http://dbpedia.org/resource/Game_Arts"
+        ],
+        [
+            "http://dbpedia.org/resource/Deep_Dungeon",
+            "http://dbpedia.org/resource/Family_Computer_Disk_System",
+            "http://dbpedia.org/resource/HummingBirdSoft"
+        ]
+    ]
+}

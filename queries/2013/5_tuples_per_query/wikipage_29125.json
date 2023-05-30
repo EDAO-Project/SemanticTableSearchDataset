@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kesh,_County_Fermanagh",
+            "http://dbpedia.org/resource/Cookstown",
+            "http://dbpedia.org/resource/Ederny"
+        ],
+        [
+            "http://dbpedia.org/resource/Lisburn",
+            "http://dbpedia.org/resource/Killyleagh",
+            "http://dbpedia.org/resource/Saintfield"
+        ],
+        [
+            "http://dbpedia.org/resource/Scarva",
+            "http://dbpedia.org/resource/Rathfriland",
+            "http://dbpedia.org/resource/Banbridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Coagh",
+            "http://dbpedia.org/resource/Ballymena",
+            "http://dbpedia.org/resource/Moneymore"
+        ],
+        [
+            "http://dbpedia.org/resource/Feeny",
+            "http://dbpedia.org/resource/Magherafelt",
+            "http://dbpedia.org/resource/Moneyneany"
+        ]
+    ]
+}

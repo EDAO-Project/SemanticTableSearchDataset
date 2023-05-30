@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Suzanne_Birt",
+            "http://dbpedia.org/resource/Shelly_Bradley",
+            "http://dbpedia.org/resource/Robyn_Green",
+            "http://dbpedia.org/resource/Leslie_MacDougall",
+            "http://dbpedia.org/resource/Charlottetown"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1979_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Jay_Schroeder",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Palisades_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/John_Cerutti",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Amherst_College"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Augie_Schmidt",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/New_Orleans_Privateers"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Eddie_Zosky",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Fresno_State_Bulldogs_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Steve_Karsay",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Christ_the_King_Regional_High_School"
+        ]
+    ]
+}

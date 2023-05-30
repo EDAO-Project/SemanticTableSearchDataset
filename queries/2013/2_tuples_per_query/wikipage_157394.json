@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Persegres_Gresik_United",
+            "http://dbpedia.org/resource/Gresik_Regency",
+            "http://dbpedia.org/resource/Petrokimia_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Mitra_Bola_Utama_Sidoarjo",
+            "http://dbpedia.org/resource/Sidoarjo_Regency",
+            "http://dbpedia.org/resource/Delta_Stadium"
+        ]
+    ]
+}

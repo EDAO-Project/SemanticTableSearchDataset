@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kevin_Spacey",
+            "http://dbpedia.org/resource/The_X-Presidents",
+            "http://dbpedia.org/resource/Extraterrestrial_life"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_L._Jackson",
+            "http://dbpedia.org/resource/George_Clooney",
+            "http://dbpedia.org/resource/Speed_Racer"
+        ],
+        [
+            "http://dbpedia.org/resource/Christopher_Walken",
+            "http://dbpedia.org/resource/Yogi_Bear",
+            "http://dbpedia.org/resource/Devil"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Hartnett",
+            "http://dbpedia.org/resource/Osama_bin_Laden",
+            "http://dbpedia.org/resource/The_Ambiguously_Gay_Duo"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_Stewart",
+            "http://dbpedia.org/resource/Colin_Powell",
+            "http://dbpedia.org/resource/Mike_Judge"
+        ]
+    ]
+}

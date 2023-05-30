@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Plague_of_Athens",
+            "http://dbpedia.org/resource/Typhoid_fever"
+        ],
+        [
+            "http://dbpedia.org/resource/Roman_Empire",
+            "http://dbpedia.org/resource/Antonine_Plague",
+            "http://dbpedia.org/resource/Smallpox"
+        ],
+        [
+            "http://dbpedia.org/resource/Roman_Empire",
+            "http://dbpedia.org/resource/Plague_of_Cyprian",
+            "http://dbpedia.org/resource/Smallpox"
+        ],
+        [
+            "http://dbpedia.org/resource/Byzantine_Empire",
+            "http://dbpedia.org/resource/Plague_of_Justinian",
+            "http://dbpedia.org/resource/Bubonic_plague"
+        ],
+        [
+            "http://dbpedia.org/resource/Palestine",
+            "http://dbpedia.org/resource/Plague_of_Emmaus",
+            "http://dbpedia.org/resource/Bubonic_plague"
+        ]
+    ]
+}

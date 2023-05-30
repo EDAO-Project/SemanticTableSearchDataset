@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wedding_Crashers",
+            "http://dbpedia.org/resource/New_Line_Cinema",
+            "http://dbpedia.org/resource/Owen_Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/Bad_News_Bears",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Billy_Bob_Thornton"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Skeleton_Key",
+            "http://dbpedia.org/resource/Universal_Studios",
+            "http://dbpedia.org/resource/Kate_Hudson"
+        ],
+        [
+            "http://dbpedia.org/resource/Transporter_2",
+            "http://dbpedia.org/resource/20th_Century_Fox",
+            "http://dbpedia.org/resource/Jason_Statham"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Great_Raid",
+            "http://dbpedia.org/resource/Miramax",
+            "http://dbpedia.org/resource/Benjamin_Bratt"
+        ]
+    ]
+}

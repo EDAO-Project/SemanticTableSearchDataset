@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrea_Chiurato",
+            "http://dbpedia.org/resource/Rosario_Fina",
+            "http://dbpedia.org/resource/Rossano_Brasi"
+        ],
+        [
+            "http://dbpedia.org/resource/Massimiliano_Lelli",
+            "http://dbpedia.org/resource/Andrea_Chiurato",
+            "http://dbpedia.org/resource/Luca_Scinto"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Fincato",
+            "http://dbpedia.org/resource/Fabio_Roscioli",
+            "http://dbpedia.org/resource/Massimo_Podenzana"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Velo",
+            "http://dbpedia.org/resource/Daniele_Contrini",
+            "http://dbpedia.org/resource/Diego_Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Dario_Cioni",
+            "http://dbpedia.org/resource/Andrea_Peron",
+            "http://dbpedia.org/resource/Marco_Pinotti"
+        ]
+    ]
+}

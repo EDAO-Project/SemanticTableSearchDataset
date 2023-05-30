@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Doug_Walters",
+            "http://dbpedia.org/resource/New_Zealand_national_cricket_team",
+            "http://dbpedia.org/resource/Lancaster_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Greg_Chappell",
+            "http://dbpedia.org/resource/New_Zealand_national_cricket_team",
+            "http://dbpedia.org/resource/Basin_Reserve"
+        ],
+        [
+            "http://dbpedia.org/resource/Justin_Langer",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/Adelaide_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Allan_Border",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/Adelaide_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Boon",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/WACA_Ground"
+        ]
+    ]
+}

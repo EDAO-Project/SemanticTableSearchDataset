@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1900_Summer_Olympics",
+            "http://dbpedia.org/resource/Frank_Jarvis",
+            "http://dbpedia.org/resource/Walter_Tewksbury",
+            "http://dbpedia.org/resource/Stan_Rowley"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Archie_Hahn",
+            "http://dbpedia.org/resource/Nathaniel_Cartmell",
+            "http://dbpedia.org/resource/William_Hogenson"
+        ]
+    ]
+}

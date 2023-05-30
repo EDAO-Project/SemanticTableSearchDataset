@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wisconsin_Senate,_District_1",
+            "http://dbpedia.org/resource/De_Pere,_Wisconsin",
+            "http://dbpedia.org/resource/Alan_Lasee"
+        ],
+        [
+            "http://dbpedia.org/resource/Wisconsin_Senate,_District_2",
+            "http://dbpedia.org/resource/Green_Bay,_Wisconsin",
+            "http://dbpedia.org/resource/Robert_Cowles"
+        ]
+    ]
+}

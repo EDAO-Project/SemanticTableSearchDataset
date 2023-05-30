@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Caledonian",
+            "http://dbpedia.org/resource/British_Rail",
+            "http://dbpedia.org/resource/Glasgow_Central_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Caledonian_Sleeper",
+            "http://dbpedia.org/resource/First_ScotRail",
+            "http://dbpedia.org/resource/Euston_railway_station"
+        ]
+    ]
+}

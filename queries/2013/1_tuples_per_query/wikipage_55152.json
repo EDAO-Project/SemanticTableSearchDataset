@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canterbury-Bankstown_Bulldogs",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Stadium_Australia",
+            "http://dbpedia.org/resource/1935_NSWRFL_season"
+        ]
+    ]
+}

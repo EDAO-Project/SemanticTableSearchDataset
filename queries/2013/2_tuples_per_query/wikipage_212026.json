@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_Sidney_Hamilton",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Algoma_West",
+            "http://dbpedia.org/resource/Canadian_Army"
+        ],
+        [
+            "http://dbpedia.org/resource/Richmond_Francis_Hanna",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Edmonton_Strathcona",
+            "http://dbpedia.org/resource/Royal_Canadian_Air_Force"
+        ]
+    ]
+}

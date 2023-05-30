@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Intellivision_World_Series_Baseball",
+            "http://dbpedia.org/resource/Intellivision",
+            "http://dbpedia.org/resource/Don_Daglow",
+            "http://dbpedia.org/resource/Mattel"
+        ]
+    ]
+}

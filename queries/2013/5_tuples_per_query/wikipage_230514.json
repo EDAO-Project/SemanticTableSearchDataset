@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Superettan",
+            "http://dbpedia.org/resource/Allsvenskan",
+            "http://dbpedia.org/resource/Ljungskile_SK"
+        ],
+        [
+            "http://dbpedia.org/resource/Superettan",
+            "http://dbpedia.org/resource/Allsvenskan",
+            "http://dbpedia.org/resource/GIF_Sundsvall"
+        ],
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_1",
+            "http://dbpedia.org/resource/Superettan",
+            "http://dbpedia.org/resource/Assyriska_FF"
+        ],
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_1",
+            "http://dbpedia.org/resource/Superettan",
+            "http://dbpedia.org/resource/AFC_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Swedish_Football_Division_1",
+            "http://dbpedia.org/resource/Superettan",
+            "http://dbpedia.org/resource/Qviding_FIF"
+        ]
+    ]
+}

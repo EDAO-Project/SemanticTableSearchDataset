@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hagerstown,_Maryland",
+            "http://dbpedia.org/resource/WJAL",
+            "http://dbpedia.org/resource/English_language"
+        ]
+    ]
+}

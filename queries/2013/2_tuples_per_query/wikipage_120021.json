@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Singapore_dollar",
+            "http://dbpedia.org/resource/Singapore_dollar"
+        ],
+        [
+            "http://dbpedia.org/resource/Taiwan",
+            "http://dbpedia.org/resource/United_States_dollar",
+            "http://dbpedia.org/resource/United_States_dollar"
+        ]
+    ]
+}

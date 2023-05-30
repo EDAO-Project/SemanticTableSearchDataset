@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BC_Budivelnyk",
+            "http://dbpedia.org/resource/BC_CSKA_Kyiv",
+            "http://dbpedia.org/resource/MBC_Mykolaiv"
+        ]
+    ]
+}

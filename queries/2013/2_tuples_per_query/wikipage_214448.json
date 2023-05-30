@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angelo_State_University",
+            "http://dbpedia.org/resource/Angelo_State_Rams_football",
+            "http://dbpedia.org/resource/San_Angelo,_Texas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Lone_Star_Conference",
+            "http://dbpedia.org/resource/San_Angelo_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Bemidji_State_University",
+            "http://dbpedia.org/resource/Bemidji_State_Beavers",
+            "http://dbpedia.org/resource/Bemidji,_Minnesota",
+            "http://dbpedia.org/resource/Minnesota",
+            "http://dbpedia.org/resource/Northern_Sun_Intercollegiate_Conference",
+            "http://dbpedia.org/resource/Chet_Anderson_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_of_Batman",
+            "http://dbpedia.org/resource/Sam_Benson",
+            "http://dbpedia.org/resource/Horrie_Garrick"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Bowman",
+            "http://dbpedia.org/resource/Wylie_Gibbs",
+            "http://dbpedia.org/resource/Len_Keogh"
+        ]
+    ]
+}

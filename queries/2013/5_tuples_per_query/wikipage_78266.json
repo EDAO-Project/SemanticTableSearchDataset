@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cheap_Trick",
+            "http://dbpedia.org/resource/Heaven_Tonight",
+            "http://dbpedia.org/resource/Tom_Werman"
+        ],
+        [
+            "http://dbpedia.org/resource/Ratt",
+            "http://dbpedia.org/resource/Out_of_the_Cellar",
+            "http://dbpedia.org/resource/Beau_Hill"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyuss",
+            "http://dbpedia.org/resource/Blues_for_the_Red_Sun",
+            "http://dbpedia.org/resource/Chris_Goss"
+        ],
+        [
+            "http://dbpedia.org/resource/Masters_of_Reality",
+            "http://dbpedia.org/resource/Sunrise_on_the_Sufferbus",
+            "http://dbpedia.org/resource/Ginger_Baker"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Black_Crowes",
+            "http://dbpedia.org/resource/Amorica",
+            "http://dbpedia.org/resource/Jack_Joseph_Puig"
+        ]
+    ]
+}

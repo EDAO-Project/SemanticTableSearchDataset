@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Don_January",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1967_PGA_Championship"
+        ]
+    ]
+}

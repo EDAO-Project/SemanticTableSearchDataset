@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wang_Din",
+            "http://dbpedia.org/resource/Mueang_Uttaradit_District",
+            "http://dbpedia.org/resource/Uttaradit"
+        ],
+        [
+            "http://dbpedia.org/resource/Wang_Ithok",
+            "http://dbpedia.org/resource/Bang_Rakam_District",
+            "http://dbpedia.org/resource/Phitsanulok_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Wang_Kaphi",
+            "http://dbpedia.org/resource/Mueang_Uttaradit_District",
+            "http://dbpedia.org/resource/Uttaradit"
+        ],
+        [
+            "http://dbpedia.org/resource/Wang_Nam_Khu",
+            "http://dbpedia.org/resource/Mueang_Phitsanulok_District",
+            "http://dbpedia.org/resource/Phitsanulok_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Wang_Nok_Aen",
+            "http://dbpedia.org/resource/Wang_Thong_District",
+            "http://dbpedia.org/resource/Phitsanulok_Province"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Billingshurst_Unitarian_Chapel",
+            "http://dbpedia.org/resource/Billingshurst",
+            "http://dbpedia.org/resource/Unitarianism",
+            "http://dbpedia.org/resource/Georgian_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/All_Saints_Church,_Buncton",
+            "http://dbpedia.org/resource/Buncton",
+            "http://dbpedia.org/resource/Anglicanism",
+            "http://dbpedia.org/resource/Chapel_of_ease"
+        ]
+    ]
+}

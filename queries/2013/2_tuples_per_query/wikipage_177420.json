@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Americas",
+            "http://dbpedia.org/resource/Central_America",
+            "http://dbpedia.org/resource/Costa_Rica"
+        ],
+        [
+            "http://dbpedia.org/resource/Americas",
+            "http://dbpedia.org/resource/North_America",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

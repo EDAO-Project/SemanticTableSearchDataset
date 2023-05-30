@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/State_Treasurer_of_Arizona",
+            "http://dbpedia.org/resource/Doug_Ducey",
+            "http://dbpedia.org/resource/Arizona"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1969_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Gorman_Thomas",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/James_Island,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Tommy_Bianco",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Sewanhaka_High_School"
+        ]
+    ]
+}

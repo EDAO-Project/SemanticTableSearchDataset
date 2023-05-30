@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/W._T._Cosgrave",
+            "http://dbpedia.org/resource/Irish_general_election,_1932",
+            "http://dbpedia.org/resource/Cumann_na_nGaedheal",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/W._T._Cosgrave",
+            "http://dbpedia.org/resource/Irish_general_election,_1933",
+            "http://dbpedia.org/resource/Cumann_na_nGaedheal",
+            "http://dbpedia.org/resource/Frank_MacDermot"
+        ]
+    ]
+}

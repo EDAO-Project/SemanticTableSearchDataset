@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nat_Lofthouse",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/1954_FIFA_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Eddie_Hopkinson",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/1958_FIFA_World_Cup"
+        ]
+    ]
+}

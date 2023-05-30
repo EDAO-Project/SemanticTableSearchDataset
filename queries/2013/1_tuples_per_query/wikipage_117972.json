@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kharkiv",
+            "http://dbpedia.org/resource/Elina_Svitolina",
+            "http://dbpedia.org/resource/Lyudmyla_Kichenok"
+        ]
+    ]
+}

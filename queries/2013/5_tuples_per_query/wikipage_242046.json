@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Martini_Racing",
+            "http://dbpedia.org/resource/Lancia",
+            "http://dbpedia.org/resource/Lancia_Delta_Group_A",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Juha_Kankkunen"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_Racing",
+            "http://dbpedia.org/resource/Lancia",
+            "http://dbpedia.org/resource/Lancia_Delta_Group_A",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Miki_Biasion"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_Racing",
+            "http://dbpedia.org/resource/Lancia",
+            "http://dbpedia.org/resource/Lancia_Delta_Group_A",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Bruno_Saby"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_Racing",
+            "http://dbpedia.org/resource/Lancia",
+            "http://dbpedia.org/resource/Lancia_Delta_Group_A",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Mikael_Ericsson"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_Racing",
+            "http://dbpedia.org/resource/Lancia",
+            "http://dbpedia.org/resource/Lancia_Delta_Group_A",
+            "http://dbpedia.org/resource/Pirelli",
+            "http://dbpedia.org/resource/Jorge_Recalde"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_Boyd_Baird",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Louis_St._Laurent"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Basha",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Louis_St._Laurent"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_Gordon_Bradley",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Louis_St._Laurent"
+        ],
+        [
+            "http://dbpedia.org/resource/Vincent_Burke",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Louis_St._Laurent"
+        ],
+        [
+            "http://dbpedia.org/resource/Chesley_William_Carter",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Lester_B._Pearson"
+        ]
+    ]
+}

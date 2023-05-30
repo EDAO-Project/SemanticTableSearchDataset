@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harrachov",
+            "http://dbpedia.org/resource/Gregor_Schlierenzauer",
+            "http://dbpedia.org/resource/Daiki_Ito",
+            "http://dbpedia.org/resource/Anders_Bardal",
+            "http://dbpedia.org/resource/Andreas_Kofler"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Afghanistan",
+            "http://dbpedia.org/resource/Persian_Jews",
+            "http://dbpedia.org/resource/History_of_the_Jews_in_Afghanistan",
+            "http://dbpedia.org/resource/List_of_Asian_Jews"
+        ],
+        [
+            "http://dbpedia.org/resource/Algeria",
+            "http://dbpedia.org/resource/Sephardi_Jews",
+            "http://dbpedia.org/resource/History_of_the_Jews_in_Algeria",
+            "http://dbpedia.org/resource/List_of_Jews_from_the_Arab_world"
+        ]
+    ]
+}

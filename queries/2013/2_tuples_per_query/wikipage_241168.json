@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/La_virgen_de_la_calle",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/RCTV"
+        ],
+        [
+            "http://dbpedia.org/resource/Las_Bandidas",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/RCTV"
+        ]
+    ]
+}

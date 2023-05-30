@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Hong_Kong_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Hong_Kong_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Hong_Kong_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Hong_Kong_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Hong_Kong_Coliseum"
+        ]
+    ]
+}

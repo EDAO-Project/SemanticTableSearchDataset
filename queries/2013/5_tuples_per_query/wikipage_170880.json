@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pemphigus_vulgaris",
+            "http://dbpedia.org/resource/Immunoglobulin_G",
+            "http://dbpedia.org/resource/Desmoglein-3"
+        ],
+        [
+            "http://dbpedia.org/resource/Pemphigus_vulgaris",
+            "http://dbpedia.org/resource/Immunoglobulin_G",
+            "http://dbpedia.org/resource/Desmoglein-3"
+        ],
+        [
+            "http://dbpedia.org/resource/Pemphigus_foliaceus",
+            "http://dbpedia.org/resource/Immunoglobulin_G",
+            "http://dbpedia.org/resource/Desmoglein-1"
+        ],
+        [
+            "http://dbpedia.org/resource/Paraneoplastic_pemphigus",
+            "http://dbpedia.org/resource/Immunoglobulin_G",
+            "http://dbpedia.org/resource/Desmoglein-3"
+        ],
+        [
+            "http://dbpedia.org/resource/Pemphigus",
+            "http://dbpedia.org/resource/Immunoglobulin_G",
+            "http://dbpedia.org/resource/Desmoglein-3"
+        ]
+    ]
+}

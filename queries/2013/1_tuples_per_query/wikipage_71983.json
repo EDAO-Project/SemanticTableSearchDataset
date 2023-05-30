@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Acadia_National_Park",
+            "http://dbpedia.org/resource/Maine",
+            "http://dbpedia.org/resource/Mount_Desert_Island"
+        ]
+    ]
+}

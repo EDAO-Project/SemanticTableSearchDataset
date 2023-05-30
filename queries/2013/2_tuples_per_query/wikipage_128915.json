@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/902_Probitas",
+            "http://dbpedia.org/resource/Vienna_Observatory",
+            "http://dbpedia.org/resource/Johann_Palisa"
+        ],
+        [
+            "http://dbpedia.org/resource/905_Universitas",
+            "http://dbpedia.org/resource/Hamburg_Observatory",
+            "http://dbpedia.org/resource/Friedrich_Karl_Arnold_Schwassmann"
+        ]
+    ]
+}

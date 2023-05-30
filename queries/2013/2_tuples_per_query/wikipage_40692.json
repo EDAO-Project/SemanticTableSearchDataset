@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/77_Park_Lane",
+            "http://dbpedia.org/resource/Albert_de_Courville",
+            "http://dbpedia.org/resource/Dennis_Neilson-Terry"
+        ],
+        [
+            "http://dbpedia.org/resource/Cape_Forlorn",
+            "http://dbpedia.org/resource/E._A._Dupont",
+            "http://dbpedia.org/resource/Fay_Compton"
+        ]
+    ]
+}

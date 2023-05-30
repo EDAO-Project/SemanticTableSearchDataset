@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1955_Tour_de_France",
+            "http://dbpedia.org/resource/Stan_Ockers",
+            "http://dbpedia.org/resource/Wout_Wagtmans",
+            "http://dbpedia.org/resource/Miguel_Poblet"
+        ]
+    ]
+}

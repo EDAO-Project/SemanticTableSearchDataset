@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonathon_Patton",
+            "http://dbpedia.org/resource/Eastern_Ranges",
+            "http://dbpedia.org/resource/TAC_Cup",
+            "http://dbpedia.org/resource/Greater_Western_Sydney_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_Coniglio",
+            "http://dbpedia.org/resource/Swan_Districts_Football_Club",
+            "http://dbpedia.org/resource/West_Australian_Football_League",
+            "http://dbpedia.org/resource/Greater_Western_Sydney_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/Dom_Tyson",
+            "http://dbpedia.org/resource/Oakleigh_Chargers",
+            "http://dbpedia.org/resource/TAC_Cup",
+            "http://dbpedia.org/resource/Greater_Western_Sydney_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/Will_Hoskin-Elliott",
+            "http://dbpedia.org/resource/Western_Jets",
+            "http://dbpedia.org/resource/TAC_Cup",
+            "http://dbpedia.org/resource/Greater_Western_Sydney_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Buntine",
+            "http://dbpedia.org/resource/Dandenong_Stingrays",
+            "http://dbpedia.org/resource/TAC_Cup",
+            "http://dbpedia.org/resource/Greater_Western_Sydney_Giants"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1810",
+            "http://dbpedia.org/resource/11th_United_States_Congress",
+            "http://dbpedia.org/resource/Robert_Marion",
+            "http://dbpedia.org/resource/Langdon_Cheves"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1816",
+            "http://dbpedia.org/resource/14th_United_States_Congress",
+            "http://dbpedia.org/resource/William_Mayrant",
+            "http://dbpedia.org/resource/Stephen_Decatur_Miller"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1834",
+            "http://dbpedia.org/resource/23rd_United_States_Congress",
+            "http://dbpedia.org/resource/Thomas_D._Singleton",
+            "http://dbpedia.org/resource/Robert_B._Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1834",
+            "http://dbpedia.org/resource/23rd_United_States_Congress",
+            "http://dbpedia.org/resource/George_McDuffie",
+            "http://dbpedia.org/resource/Francis_Wilkinson_Pickens"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1836",
+            "http://dbpedia.org/resource/24th_United_States_Congress",
+            "http://dbpedia.org/resource/James_Henry_Hammond",
+            "http://dbpedia.org/resource/Franklin_H._Elmore"
+        ]
+    ]
+}

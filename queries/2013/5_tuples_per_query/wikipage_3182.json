@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_in_sports",
+            "http://dbpedia.org/resource/George_Seifert",
+            "http://dbpedia.org/resource/1994_San_Francisco_49ers_season",
+            "http://dbpedia.org/resource/National_Football_League",
+            "http://dbpedia.org/resource/American_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_in_sports",
+            "http://dbpedia.org/resource/Gary_Barnett",
+            "http://dbpedia.org/resource/1995_Northwestern_Wildcats_football_team",
+            "http://dbpedia.org/resource/National_Collegiate_Athletic_Association",
+            "http://dbpedia.org/resource/American_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_in_sports",
+            "http://dbpedia.org/resource/Joe_Torre",
+            "http://dbpedia.org/resource/1996_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Major_League_Baseball",
+            "http://dbpedia.org/resource/Baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_in_sports",
+            "http://dbpedia.org/resource/Jim_Leyland",
+            "http://dbpedia.org/resource/1997_Florida_Marlins_season",
+            "http://dbpedia.org/resource/Major_League_Baseball",
+            "http://dbpedia.org/resource/Baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_in_sports",
+            "http://dbpedia.org/resource/Joe_Torre",
+            "http://dbpedia.org/resource/1998_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Major_League_Baseball",
+            "http://dbpedia.org/resource/Baseball"
+        ]
+    ]
+}

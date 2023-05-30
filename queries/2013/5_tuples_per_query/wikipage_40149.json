@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexius_of_Rome",
+            "http://dbpedia.org/resource/Russian_Orthodox_Church",
+            "http://dbpedia.org/resource/Krasnoselsky_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexius,_Metropolitan_of_Moscow",
+            "http://dbpedia.org/resource/Russian_Orthodox_Church",
+            "http://dbpedia.org/resource/Tagansky_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint",
+            "http://dbpedia.org/resource/Russian_Orthodox_Church",
+            "http://dbpedia.org/resource/Krasnoselsky_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Ambrose",
+            "http://dbpedia.org/resource/Russian_Orthodox_Church",
+            "http://dbpedia.org/resource/Khamovniki_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_the_Apostle",
+            "http://dbpedia.org/resource/Russian_Orthodox_Church",
+            "http://dbpedia.org/resource/Presnensky_District"
+        ]
+    ]
+}

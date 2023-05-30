@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_congressional_delegations_from_Arizona",
+            "http://dbpedia.org/resource/List_of_United_States_Representatives_from_Arizona",
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_congressional_delegations_from_Arkansas",
+            "http://dbpedia.org/resource/List_of_United_States_Representatives_from_Arkansas",
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Arkansas"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1974_in_film",
+            "http://dbpedia.org/resource/Marty_Feldman",
+            "http://dbpedia.org/resource/Young_Frankenstein"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_in_film",
+            "http://dbpedia.org/resource/Arte_Johnson",
+            "http://dbpedia.org/resource/Love_at_First_Bite"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_in_film",
+            "http://dbpedia.org/resource/Richard_Lynch",
+            "http://dbpedia.org/resource/The_Sword_and_the_Sorcerer"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_in_film",
+            "http://dbpedia.org/resource/John_Lithgow",
+            "http://dbpedia.org/resource/Twilight_Zone:_The_Movie"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_in_film",
+            "http://dbpedia.org/resource/Roddy_McDowall",
+            "http://dbpedia.org/resource/Fright_Night"
+        ]
+    ]
+}

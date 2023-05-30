@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tom_Habberfield",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Welsh_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Tito_Tebaldi",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Italian_Rugby_Federation"
+        ]
+    ]
+}

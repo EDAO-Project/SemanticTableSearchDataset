@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rikuzentakata,_Iwate",
+            "http://dbpedia.org/resource/Iwate_Prefecture",
+            "http://dbpedia.org/resource/Coast",
+            "http://dbpedia.org/resource/Rikuchu_Kaigan_National_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Kesennuma,_Miyagi",
+            "http://dbpedia.org/resource/Miyagi_Prefecture",
+            "http://dbpedia.org/resource/Coast",
+            "http://dbpedia.org/resource/Rikuchu_Kaigan_National_Park"
+        ]
+    ]
+}

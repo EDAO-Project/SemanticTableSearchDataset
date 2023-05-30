@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_Coastal_Carolina_Chanticleers_football_team",
+            "http://dbpedia.org/resource/Mountaineer_Field_at_Milan_Puskar_Stadium",
+            "http://dbpedia.org/resource/ESPN_Events"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Marshall_Thundering_Herd_football_team",
+            "http://dbpedia.org/resource/Joan_C._Edwards_Stadium",
+            "http://dbpedia.org/resource/ESPN"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jabr_Muadi",
+            "http://dbpedia.org/resource/Seif_el-Din_el-Zoubi",
+            "http://dbpedia.org/resource/Democratic_List_for_Israeli_Arabs"
+        ],
+        [
+            "http://dbpedia.org/resource/S._Yizhar",
+            "http://dbpedia.org/resource/Aharon_Becker",
+            "http://dbpedia.org/resource/Mapai"
+        ],
+        [
+            "http://dbpedia.org/resource/Yisrael_Kargman",
+            "http://dbpedia.org/resource/Zalman_Shazar",
+            "http://dbpedia.org/resource/Mapai"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Bar-Rav-Hai",
+            "http://dbpedia.org/resource/Senetta_Yoseftal",
+            "http://dbpedia.org/resource/Mapai"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannah_Lamdan",
+            "http://dbpedia.org/resource/Ehud_Avriel",
+            "http://dbpedia.org/resource/Mapai"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bug_Powder_Dust",
+            "http://dbpedia.org/resource/Bomb_the_Bass",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Interstate_Love_Song",
+            "http://dbpedia.org/resource/Stone_Temple_Pilots",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Hole_Sun",
+            "http://dbpedia.org/resource/Soundgarden",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Berlin_Chair",
+            "http://dbpedia.org/resource/You_Am_I",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Confide_in_Me",
+            "http://dbpedia.org/resource/Kylie_Minogue",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

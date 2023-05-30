@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chesten_Marchant",
+            "http://dbpedia.org/resource/Cornish_language",
+            "http://dbpedia.org/resource/Indo-European_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/Margaret_McMurray",
+            "http://dbpedia.org/resource/Galwegian_Gaelic",
+            "http://dbpedia.org/resource/Goidelic_languages"
+        ]
+    ]
+}

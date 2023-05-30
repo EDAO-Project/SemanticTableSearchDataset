@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sussex_Thunder",
+            "http://dbpedia.org/resource/West_Coast_Trojans",
+            "http://dbpedia.org/resource/Don_Valley_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Sheffield_Predators",
+            "http://dbpedia.org/resource/Peterborough_Saxons",
+            "http://dbpedia.org/resource/Don_Valley_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Kilbride_Pirates",
+            "http://dbpedia.org/resource/Leicester_Falcons",
+            "http://dbpedia.org/resource/Crystal_Palace_National_Sports_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Wales_Warriors",
+            "http://dbpedia.org/resource/West_Coast_Trojans",
+            "http://dbpedia.org/resource/Crystal_Palace_National_Sports_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Olympians",
+            "http://dbpedia.org/resource/Manchester_Titans",
+            "http://dbpedia.org/resource/Sixways_Stadium"
+        ]
+    ]
+}

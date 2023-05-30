@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Dallas",
+            "http://dbpedia.org/resource/Fuad_Ibrahim",
+            "http://dbpedia.org/resource/Generation_Adidas"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus_Crew_SC",
+            "http://dbpedia.org/resource/Brad_Evans",
+            "http://dbpedia.org/resource/University_of_California,_Irvine"
+        ],
+        [
+            "http://dbpedia.org/resource/LA_Galaxy",
+            "http://dbpedia.org/resource/Robbie_Findley",
+            "http://dbpedia.org/resource/Oregon_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Rapids",
+            "http://dbpedia.org/resource/Greg_Dalby",
+            "http://dbpedia.org/resource/University_of_Notre_Dame"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dallas",
+            "http://dbpedia.org/resource/Andrew_Daniels",
+            "http://dbpedia.org/resource/Brown_University"
+        ]
+    ]
+}

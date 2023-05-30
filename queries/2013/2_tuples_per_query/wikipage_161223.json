@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cimbrian_War",
+            "http://dbpedia.org/resource/Noricum",
+            "http://dbpedia.org/resource/Roman_Republic",
+            "http://dbpedia.org/resource/Cimbri"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Noreia",
+            "http://dbpedia.org/resource/Neumarkt",
+            "http://dbpedia.org/resource/Roman_Republic",
+            "http://dbpedia.org/resource/Cimbri"
+        ]
+    ]
+}

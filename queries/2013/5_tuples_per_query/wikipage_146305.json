@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Attigny,_Ardennes",
+            "http://dbpedia.org/resource/Aure,_Ardennes",
+            "http://dbpedia.org/resource/Authe"
+        ],
+        [
+            "http://dbpedia.org/resource/Autruche",
+            "http://dbpedia.org/resource/Autry",
+            "http://dbpedia.org/resource/Ballay"
+        ],
+        [
+            "http://dbpedia.org/resource/Boult-aux-Bois",
+            "http://dbpedia.org/resource/Bourcq",
+            "http://dbpedia.org/resource/Brieulles-sur-Bar"
+        ],
+        [
+            "http://dbpedia.org/resource/Cauroy",
+            "http://dbpedia.org/resource/Challerange",
+            "http://dbpedia.org/resource/Champigneulle"
+        ],
+        [
+            "http://dbpedia.org/resource/Contreuve",
+            "http://dbpedia.org/resource/Cornay",
+            "http://dbpedia.org/resource/Coulommes-et-Marqueny"
+        ]
+    ]
+}

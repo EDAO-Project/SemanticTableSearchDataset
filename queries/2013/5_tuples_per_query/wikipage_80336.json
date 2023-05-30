@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Pallacanestro_Varese",
+            "http://dbpedia.org/resource/Pallacanestro_Varese"
+        ],
+        [
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Real_Madrid_Baloncesto",
+            "http://dbpedia.org/resource/Real_Madrid_Baloncesto"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/PBC_CSKA_Moscow",
+            "http://dbpedia.org/resource/PBC_CSKA_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/KK_Split",
+            "http://dbpedia.org/resource/KK_Split"
+        ],
+        [
+            "http://dbpedia.org/resource/Latvia",
+            "http://dbpedia.org/resource/ASK_Riga",
+            "http://dbpedia.org/resource/ASK_Riga"
+        ]
+    ]
+}

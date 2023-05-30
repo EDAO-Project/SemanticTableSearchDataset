@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DeLuca_Biochemistry_Building",
+            "http://dbpedia.org/resource/Madison,_Wisconsin",
+            "http://dbpedia.org/resource/Paul_Philippe_Cret"
+        ]
+    ]
+}

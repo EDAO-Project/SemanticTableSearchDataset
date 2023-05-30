@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_Coast_Mariners_FC",
+            "http://dbpedia.org/resource/Newcastle_Jets_FC",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane_Roar_FC",
+            "http://dbpedia.org/resource/Sydney_FC",
+            "http://dbpedia.org/resource/Lang_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_FC",
+            "http://dbpedia.org/resource/Melbourne_Victory_FC",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane_Roar_FC",
+            "http://dbpedia.org/resource/Sydney_FC",
+            "http://dbpedia.org/resource/Lang_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne_Victory_FC",
+            "http://dbpedia.org/resource/Sydney_FC",
+            "http://dbpedia.org/resource/Docklands_Stadium"
+        ]
+    ]
+}

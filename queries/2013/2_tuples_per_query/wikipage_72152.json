@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saudi_detainees_at_Guantanamo_Bay",
+            "http://dbpedia.org/resource/Saudi_detainees_at_Guantanamo_Bay",
+            "http://dbpedia.org/resource/Saudi_Gazette"
+        ],
+        [
+            "http://dbpedia.org/resource/Yussef_al-Shihri",
+            "http://dbpedia.org/resource/Yussef_al-Shihri",
+            "http://dbpedia.org/resource/Said_Ali_al-Shihri"
+        ]
+    ]
+}

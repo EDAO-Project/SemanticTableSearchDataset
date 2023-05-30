@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sigismund,_Holy_Roman_Emperor",
+            "http://dbpedia.org/resource/Albert_II_of_Germany",
+            "http://dbpedia.org/resource/Frederick_II,_Elector_of_Saxony",
+            "http://dbpedia.org/resource/Louis_IV,_Elector_Palatine"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_II_of_Germany",
+            "http://dbpedia.org/resource/Frederick_III,_Holy_Roman_Emperor",
+            "http://dbpedia.org/resource/Frederick_II,_Elector_of_Saxony",
+            "http://dbpedia.org/resource/Louis_IV,_Elector_Palatine"
+        ]
+    ]
+}

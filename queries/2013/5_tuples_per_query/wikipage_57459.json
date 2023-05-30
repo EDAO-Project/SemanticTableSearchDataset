@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leopardstown_Racecourse",
+            "http://dbpedia.org/resource/Maiden_race",
+            "http://dbpedia.org/resource/Seamie_Heffernan"
+        ],
+        [
+            "http://dbpedia.org/resource/Curragh_Racecourse",
+            "http://dbpedia.org/resource/Maiden_race",
+            "http://dbpedia.org/resource/Kieren_Fallon"
+        ],
+        [
+            "http://dbpedia.org/resource/Vintage_Stakes",
+            "http://dbpedia.org/resource/Wolverhampton_Racecourse",
+            "http://dbpedia.org/resource/Michael_Kinane"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Guineas_Stakes",
+            "http://dbpedia.org/resource/Newmarket_Racecourse",
+            "http://dbpedia.org/resource/Michael_Kinane"
+        ],
+        [
+            "http://dbpedia.org/resource/Irish_2,000_Guineas",
+            "http://dbpedia.org/resource/Curragh_Racecourse",
+            "http://dbpedia.org/resource/Seamie_Heffernan"
+        ]
+    ]
+}

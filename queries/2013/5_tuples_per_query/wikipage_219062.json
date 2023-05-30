@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pieter_Sjoerds_Gerbrandy",
+            "http://dbpedia.org/resource/Anti-Revolutionary_Party",
+            "http://dbpedia.org/resource/Dirk_Jan_de_Geer"
+        ],
+        [
+            "http://dbpedia.org/resource/Johannes_van_Angeren",
+            "http://dbpedia.org/resource/Roman-Catholic_State_Party",
+            "http://dbpedia.org/resource/Pieter_Sjoerds_Gerbrandy"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerrit_Jan_van_Heuven_Goedhart",
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/Pieter_Sjoerds_Gerbrandy"
+        ],
+        [
+            "http://dbpedia.org/resource/Pieter_Sjoerds_Gerbrandy",
+            "http://dbpedia.org/resource/Anti-Revolutionary_Party",
+            "http://dbpedia.org/resource/Third_Gerbrandy_cabinet"
+        ],
+        [
+            "http://dbpedia.org/resource/Hendrik_Mulderije",
+            "http://dbpedia.org/resource/Christian_Historical_Union",
+            "http://dbpedia.org/resource/Willem_Drees"
+        ]
+    ]
+}

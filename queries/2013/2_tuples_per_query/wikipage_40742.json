@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Freestyle_swimming",
+            "http://dbpedia.org/resource/Ranomi_Kromowidjojo",
+            "http://dbpedia.org/resource/Netherlands_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Freestyle_swimming",
+            "http://dbpedia.org/resource/Ranomi_Kromowidjojo",
+            "http://dbpedia.org/resource/Netherlands_at_the_2012_Summer_Olympics"
+        ]
+    ]
+}

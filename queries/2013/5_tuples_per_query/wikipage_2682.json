@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daisy_Curwen",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Daisy_Curwen",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Birkenhead"
+        ],
+        [
+            "http://dbpedia.org/resource/Fanny_Durack",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Hamburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Fanny_Durack",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Gertrude_Ederle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Newark,_New_Jersey"
+        ]
+    ]
+}

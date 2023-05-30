@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australian_Open",
+            "http://dbpedia.org/resource/Adrian_Quist",
+            "http://dbpedia.org/resource/Margaret_Court"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Open",
+            "http://dbpedia.org/resource/Roy_Emerson",
+            "http://dbpedia.org/resource/Margaret_Court"
+        ]
+    ]
+}

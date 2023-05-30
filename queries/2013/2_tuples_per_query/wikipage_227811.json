@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1955_in_baseball",
+            "http://dbpedia.org/resource/Manila",
+            "http://dbpedia.org/resource/Chinese_Taipei_national_baseball_team",
+            "http://dbpedia.org/resource/Chinese_Taipei_national_baseball_team",
+            "http://dbpedia.org/resource/South_Korea_national_baseball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_in_baseball",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/South_Korea_national_baseball_team",
+            "http://dbpedia.org/resource/South_Korea_national_baseball_team",
+            "http://dbpedia.org/resource/Chinese_Taipei_national_baseball_team"
+        ]
+    ]
+}

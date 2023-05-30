@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buy_Me_a_Rose",
+            "http://dbpedia.org/resource/Alison_Krauss",
+            "http://dbpedia.org/resource/Kenny_Rogers"
+        ],
+        [
+            "http://dbpedia.org/resource/Ride_wit_Me",
+            "http://dbpedia.org/resource/City_Spud",
+            "http://dbpedia.org/resource/Nelly"
+        ]
+    ]
+}

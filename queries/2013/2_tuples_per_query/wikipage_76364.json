@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alphen_aan_den_Rijn",
+            "http://dbpedia.org/resource/Lesia_Tsurenko",
+            "http://dbpedia.org/resource/Darija_Jurak",
+            "http://dbpedia.org/resource/Frederica_Piedade",
+            "http://dbpedia.org/resource/Pauline_Wong"
+        ],
+        [
+            "http://dbpedia.org/resource/Innsbruck",
+            "http://dbpedia.org/resource/Evelyn_Mayr",
+            "http://dbpedia.org/resource/Irina_Buryachok",
+            "http://dbpedia.org/resource/Nicole_Riner",
+            "http://dbpedia.org/resource/Conny_Perrin"
+        ]
+    ]
+}

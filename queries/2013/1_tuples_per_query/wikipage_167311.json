@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Oxford",
+            "http://dbpedia.org/resource/Kingdom_of_England",
+            "http://dbpedia.org/resource/Oxford",
+            "http://dbpedia.org/resource/Anglosphere"
+        ]
+    ]
+}

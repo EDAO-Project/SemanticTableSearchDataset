@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stadion_Poljud",
+            "http://dbpedia.org/resource/HNK_Rijeka",
+            "http://dbpedia.org/resource/Penalty_kick"
+        ],
+        [
+            "http://dbpedia.org/resource/Banja_Luka_City_Stadium",
+            "http://dbpedia.org/resource/FK_Borac_Banja_Luka",
+            "http://dbpedia.org/resource/Ardian_Kozniku"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Killing_in_the_Name",
+            "http://dbpedia.org/resource/Rage_Against_the_Machine",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Love_Will_Tear_Us_Apart",
+            "http://dbpedia.org/resource/Joy_Division",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Paranoid_Android",
+            "http://dbpedia.org/resource/Radiohead",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Under_the_Bridge",
+            "http://dbpedia.org/resource/Red_Hot_Chili_Peppers",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Everlong",
+            "http://dbpedia.org/resource/Foo_Fighters",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

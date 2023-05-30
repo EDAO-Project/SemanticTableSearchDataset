@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oklahoma_State_Highway_1",
+            "http://dbpedia.org/resource/U.S._Route_177",
+            "http://dbpedia.org/resource/Arkansas_Highway_88"
+        ],
+        [
+            "http://dbpedia.org/resource/Oklahoma_State_Highway_2",
+            "http://dbpedia.org/resource/Oklahoma_State_Highway_3",
+            "http://dbpedia.org/resource/U.S._Route_64_in_Oklahoma"
+        ]
+    ]
+}

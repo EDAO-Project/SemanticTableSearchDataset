@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Isaka_Cernak",
+            "http://dbpedia.org/resource/Northern_Fury_FC",
+            "http://dbpedia.org/resource/Melbourne_Victory_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Justin_Pasfield",
+            "http://dbpedia.org/resource/Northern_Fury_FC",
+            "http://dbpedia.org/resource/Central_Coast_Mariners_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Osama_Malik",
+            "http://dbpedia.org/resource/Northern_Fury_FC",
+            "http://dbpedia.org/resource/Adelaide_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Payne",
+            "http://dbpedia.org/resource/Northern_Fury_FC",
+            "http://dbpedia.org/resource/Newcastle_Jets_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Vukovic",
+            "http://dbpedia.org/resource/Wellington_Phoenix_FC",
+            "http://dbpedia.org/resource/Perth_Glory_FC"
+        ]
+    ]
+}

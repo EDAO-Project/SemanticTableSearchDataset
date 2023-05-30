@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_World_Series",
+            "http://dbpedia.org/resource/Fox_Major_League_Baseball",
+            "http://dbpedia.org/resource/2013_Boston_Red_Sox_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_World_Series",
+            "http://dbpedia.org/resource/Fox_Major_League_Baseball",
+            "http://dbpedia.org/resource/2012_San_Francisco_Giants_season"
+        ]
+    ]
+}

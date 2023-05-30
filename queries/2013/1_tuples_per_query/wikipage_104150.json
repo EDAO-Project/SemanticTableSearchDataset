@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stuart_Burrows",
+            "http://dbpedia.org/resource/Oscar_Wilde",
+            "http://dbpedia.org/resource/Soap"
+        ]
+    ]
+}

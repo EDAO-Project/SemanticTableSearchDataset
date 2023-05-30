@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Massachusetts_Amherst",
+            "http://dbpedia.org/resource/Amherst,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/UMass_Minutemen_and_Minutewomen",
+            "http://dbpedia.org/resource/Atlantic_10_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/West_Point,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Army_Black_Knights",
+            "http://dbpedia.org/resource/Patriot_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Binghamton_University",
+            "http://dbpedia.org/resource/Vestal,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Binghamton_Bearcats",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_University",
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/Boston_University_Terriers",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/State_University_of_New_York_at_Brockport",
+            "http://dbpedia.org/resource/Brockport,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Brockport_Golden_Eagles",
+            "http://dbpedia.org/resource/Eastern_College_Athletic_Conference"
+        ]
+    ]
+}

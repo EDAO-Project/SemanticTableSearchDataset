@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nnamdi_Asomugha",
+            "http://dbpedia.org/resource/Cornerback",
+            "http://dbpedia.org/resource/San_Francisco_49ers",
+            "http://dbpedia.org/resource/2003_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Tully_Banta-Cain",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/New_England_Patriots",
+            "http://dbpedia.org/resource/2003_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Jahvid_Best",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Detroit_Lions",
+            "http://dbpedia.org/resource/2010_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Desmond_Bishop",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/2007_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Andre_Carter",
+            "http://dbpedia.org/resource/Defensive_end",
+            "http://dbpedia.org/resource/New_England_Patriots",
+            "http://dbpedia.org/resource/2001_NFL_draft"
+        ]
+    ]
+}

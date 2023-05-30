@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carroll_Shelby_International",
+            "http://dbpedia.org/resource/Ken_Miles",
+            "http://dbpedia.org/resource/Ford_GT40",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Porsche_in_motorsport",
+            "http://dbpedia.org/resource/Hans_Herrmann",
+            "http://dbpedia.org/resource/Porsche_906",
+            "http://dbpedia.org/resource/Porsche"
+        ],
+        [
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Ludovico_Scarfiotti",
+            "http://dbpedia.org/resource/Ferrari_P",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Carroll_Shelby_International",
+            "http://dbpedia.org/resource/Dan_Gurney",
+            "http://dbpedia.org/resource/Ford_GT40",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Mike_Parkes",
+            "http://dbpedia.org/resource/Ferrari_P",
+            "http://dbpedia.org/resource/Ferrari"
+        ]
+    ]
+}

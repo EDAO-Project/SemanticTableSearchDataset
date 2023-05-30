@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Music_download",
+            "http://dbpedia.org/resource/Warner_Music_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Music_download",
+            "http://dbpedia.org/resource/Warner_Music_Group"
+        ]
+    ]
+}

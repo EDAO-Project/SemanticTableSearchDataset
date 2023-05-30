@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sena_Jurinac",
+            "http://dbpedia.org/resource/Fritz_Busch",
+            "http://dbpedia.org/resource/EMI"
+        ],
+        [
+            "http://dbpedia.org/resource/Sena_Jurinac",
+            "http://dbpedia.org/resource/Malcolm_Sargent",
+            "http://dbpedia.org/resource/BBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Elisabeth_Schwarzkopf",
+            "http://dbpedia.org/resource/George_Szell",
+            "http://dbpedia.org/resource/EMI"
+        ],
+        [
+            "http://dbpedia.org/resource/Gundula_Janowitz",
+            "http://dbpedia.org/resource/Bernard_Haitink",
+            "http://dbpedia.org/resource/Philips"
+        ],
+        [
+            "http://dbpedia.org/resource/Leontyne_Price",
+            "http://dbpedia.org/resource/Erich_Leinsdorf",
+            "http://dbpedia.org/resource/RCA_Records"
+        ]
+    ]
+}

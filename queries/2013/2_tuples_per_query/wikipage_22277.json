@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Living_Planet",
+            "http://dbpedia.org/resource/Organism",
+            "http://dbpedia.org/resource/David_Attenborough"
+        ],
+        [
+            "http://dbpedia.org/resource/Life_in_the_Freezer",
+            "http://dbpedia.org/resource/Antarctica",
+            "http://dbpedia.org/resource/David_Attenborough"
+        ]
+    ]
+}

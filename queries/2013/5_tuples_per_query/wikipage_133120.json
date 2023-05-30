@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abidjan",
+            "http://dbpedia.org/resource/Ivory_Coast",
+            "http://dbpedia.org/resource/Port_Bouet_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Abu_Dhabi",
+            "http://dbpedia.org/resource/United_Arab_Emirates",
+            "http://dbpedia.org/resource/Abu_Dhabi_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Accra",
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Kotoka_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Athens",
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Ellinikon_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Banjul",
+            "http://dbpedia.org/resource/The_Gambia",
+            "http://dbpedia.org/resource/Banjul_International_Airport"
+        ]
+    ]
+}

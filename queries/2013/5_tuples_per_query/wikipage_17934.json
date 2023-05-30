@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/Quills",
+            "http://dbpedia.org/resource/Doug_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/The_House_of_Mirth",
+            "http://dbpedia.org/resource/Terence_Davies"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/In_the_Bedroom",
+            "http://dbpedia.org/resource/Todd_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+            "http://dbpedia.org/resource/Philippa_Boyens"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Golden_Satellite_Awards",
+            "http://dbpedia.org/resource/The_Lord_of_the_Rings:_The_Two_Towers",
+            "http://dbpedia.org/resource/Philippa_Boyens"
+        ]
+    ]
+}

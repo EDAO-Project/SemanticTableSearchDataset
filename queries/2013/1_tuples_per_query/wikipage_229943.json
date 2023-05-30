@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Juno_Awards_of_1975",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Canadian_National_Exhibition",
+            "http://dbpedia.org/resource/Paul_Anka",
+            "http://dbpedia.org/resource/CBC_Television"
+        ]
+    ]
+}

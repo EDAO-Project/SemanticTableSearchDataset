@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Curtis_Malloch",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_New_Brunswick",
+            "http://dbpedia.org/resource/Charlotte-Campobello"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Doucet",
+            "http://dbpedia.org/resource/New_Brunswick_Liberal_Association",
+            "http://dbpedia.org/resource/Fundy-The_Isles-Saint_John_West"
+        ]
+    ]
+}

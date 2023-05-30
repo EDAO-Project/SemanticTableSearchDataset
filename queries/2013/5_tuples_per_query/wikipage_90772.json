@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bridlington_Priory",
+            "http://dbpedia.org/resource/Bridlington",
+            "http://dbpedia.org/resource/George_Gilbert_Scott"
+        ],
+        [
+            "http://dbpedia.org/resource/Furness_Abbey_Hotel",
+            "http://dbpedia.org/resource/Barrow-in-Furness",
+            "http://dbpedia.org/resource/Manor_house"
+        ],
+        [
+            "http://dbpedia.org/resource/Ince_Hall",
+            "http://dbpedia.org/resource/Ince",
+            "http://dbpedia.org/resource/Stanlow_Abbey"
+        ],
+        [
+            "http://dbpedia.org/resource/Hornby_Castle,_Lancashire",
+            "http://dbpedia.org/resource/Hornby-with-Farleton",
+            "http://dbpedia.org/resource/English_Gothic_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Lancaster_Priory",
+            "http://dbpedia.org/resource/Lancaster,_Lancashire",
+            "http://dbpedia.org/resource/Box_pew"
+        ]
+    ]
+}

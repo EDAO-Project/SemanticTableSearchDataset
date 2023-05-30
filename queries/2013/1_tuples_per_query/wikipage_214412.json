@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WAKS",
+            "http://dbpedia.org/resource/IHeartMedia",
+            "http://dbpedia.org/resource/Top_40"
+        ]
+    ]
+}

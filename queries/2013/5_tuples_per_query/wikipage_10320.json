@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin",
+            "http://dbpedia.org/resource/Austin,_Texas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Big_12_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Texas_Christian_University",
+            "http://dbpedia.org/resource/Fort_Worth,_Texas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Big_12_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_F._Austin_State_University",
+            "http://dbpedia.org/resource/Nacogdoches,_Texas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Southland_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Baptist_University",
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Southland_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Texas_State_University",
+            "http://dbpedia.org/resource/San_Marcos,_Texas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Sun_Belt_Conference"
+        ]
+    ]
+}

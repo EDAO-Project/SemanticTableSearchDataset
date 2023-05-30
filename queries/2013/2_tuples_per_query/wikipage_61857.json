@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/WTC_Wharf"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahrain",
+            "http://dbpedia.org/resource/Manama",
+            "http://dbpedia.org/resource/Bahrain_World_Trade_Center"
+        ]
+    ]
+}

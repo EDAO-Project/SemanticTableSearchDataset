@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carennac",
+            "http://dbpedia.org/resource/Carlucet",
+            "http://dbpedia.org/resource/Cavagnac",
+            "http://dbpedia.org/resource/Cazillac"
+        ],
+        [
+            "http://dbpedia.org/resource/Floirac,_Lot",
+            "http://dbpedia.org/resource/Fontanes-du-Causse",
+            "http://dbpedia.org/resource/Frayssinet",
+            "http://dbpedia.org/resource/Gignac,_Lot"
+        ]
+    ]
+}

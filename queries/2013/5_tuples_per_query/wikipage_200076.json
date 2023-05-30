@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/Hugh_Greer",
+            "http://dbpedia.org/resource/New_York_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Duke_University",
+            "http://dbpedia.org/resource/Vic_Bubas",
+            "http://dbpedia.org/resource/New_York_University"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Naval_Academy",
+            "http://dbpedia.org/resource/Ben_Carnevale",
+            "http://dbpedia.org/resource/West_Virginia_University"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_University",
+            "http://dbpedia.org/resource/Lou_Rossini",
+            "http://dbpedia.org/resource/University_of_Cincinnati"
+        ],
+        [
+            "http://dbpedia.org/resource/Princeton_University",
+            "http://dbpedia.org/resource/Franklin_Cappon",
+            "http://dbpedia.org/resource/Duke_University"
+        ]
+    ]
+}

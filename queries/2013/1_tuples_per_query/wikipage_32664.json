@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pennsylvania_State_University",
+            "http://dbpedia.org/resource/Iowa_State_University",
+            "http://dbpedia.org/resource/Athens,_Ohio",
+            "http://dbpedia.org/resource/Ohio_University"
+        ]
+    ]
+}

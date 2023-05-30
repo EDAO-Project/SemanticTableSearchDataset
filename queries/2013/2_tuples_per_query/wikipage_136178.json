@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/MLS_Cup_2000",
+            "http://dbpedia.org/resource/Bob_Gansler",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sporting_Kansas_City"
+        ],
+        [
+            "http://dbpedia.org/resource/MLS_Cup_2001",
+            "http://dbpedia.org/resource/Frank_Yallop",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/San_Jose_Earthquakes"
+        ]
+    ]
+}

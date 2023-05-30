@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fordham_University",
+            "http://dbpedia.org/resource/Digger_Phelps",
+            "http://dbpedia.org/resource/University_of_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Pennsylvania",
+            "http://dbpedia.org/resource/Dick_Harter",
+            "http://dbpedia.org/resource/Villanova_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_South_Carolina",
+            "http://dbpedia.org/resource/Frank_McGuire",
+            "http://dbpedia.org/resource/Fordham_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Villanova_University",
+            "http://dbpedia.org/resource/Jack_Kraft",
+            "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Kentucky",
+            "http://dbpedia.org/resource/Adolph_Rupp",
+            "http://dbpedia.org/resource/Marquette_University"
+        ]
+    ]
+}

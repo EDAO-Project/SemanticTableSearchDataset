@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1957_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Gil_Hodges",
+            "http://dbpedia.org/resource/History_of_the_Brooklyn_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Gil_Hodges",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Gil_Hodges",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Wes_Parker",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Wes_Parker",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers"
+        ]
+    ]
+}

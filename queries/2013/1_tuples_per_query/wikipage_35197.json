@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patrick_Baxter",
+            "http://dbpedia.org/resource/Agricultural_Panel",
+            "http://dbpedia.org/resource/Clann_na_Talmhan"
+        ]
+    ]
+}

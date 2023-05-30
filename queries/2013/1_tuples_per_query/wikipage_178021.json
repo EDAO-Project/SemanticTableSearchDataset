@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfonso_Thomas",
+            "http://dbpedia.org/resource/Lasith_Malinga",
+            "http://dbpedia.org/resource/Dhaka_Gladiators"
+        ]
+    ]
+}

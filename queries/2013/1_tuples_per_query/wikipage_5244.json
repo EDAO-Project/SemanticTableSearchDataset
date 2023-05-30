@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/S.S.D._Acireale_Calcio_1946",
+            "http://dbpedia.org/resource/Acireale",
+            "http://dbpedia.org/resource/Sicily",
+            "http://dbpedia.org/resource/Stadio_Tupparello"
+        ]
+    ]
+}

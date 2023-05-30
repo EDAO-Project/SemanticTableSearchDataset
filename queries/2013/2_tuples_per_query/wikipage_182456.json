@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1987",
+            "http://dbpedia.org/resource/Dafni_Bokota",
+            "http://dbpedia.org/resource/ERT"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1988",
+            "http://dbpedia.org/resource/Dafni_Bokota",
+            "http://dbpedia.org/resource/ERT"
+        ]
+    ]
+}

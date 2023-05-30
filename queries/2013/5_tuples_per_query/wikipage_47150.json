@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Noel_Hickey",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/2000_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/2009_All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Cummins",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/1969_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/1967_All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Kavanagh",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/2000_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/2011_All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Noel_Skehan",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/1972_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/1963_All-Ireland_Senior_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackie_Tyrrell",
+            "http://dbpedia.org/resource/Kilkenny_GAA",
+            "http://dbpedia.org/resource/2006_All-Ireland_Senior_Hurling_Championship",
+            "http://dbpedia.org/resource/2003_All-Ireland_Senior_Hurling_Championship"
+        ]
+    ]
+}

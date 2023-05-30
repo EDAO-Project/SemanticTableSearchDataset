@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Gates",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Microsoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Warren_Buffett",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Berkshire_Hathaway"
+        ]
+    ]
+}

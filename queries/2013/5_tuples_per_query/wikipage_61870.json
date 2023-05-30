@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Glenn_Miller_Story",
+            "http://dbpedia.org/resource/Anthony_Mann",
+            "http://dbpedia.org/resource/James_Stewart",
+            "http://dbpedia.org/resource/Glenn_Miller_Orchestra"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Last_Waltz",
+            "http://dbpedia.org/resource/Martin_Scorsese",
+            "http://dbpedia.org/resource/The_Band",
+            "http://dbpedia.org/resource/Robbie_Robertson"
+        ],
+        [
+            "http://dbpedia.org/resource/Ladies_and_Gentlemen,_The_Fabulous_Stains",
+            "http://dbpedia.org/resource/Lou_Adler",
+            "http://dbpedia.org/resource/Diane_Lane",
+            "http://dbpedia.org/resource/Punk_rock"
+        ],
+        [
+            "http://dbpedia.org/resource/Eddie_and_the_Cruisers",
+            "http://dbpedia.org/resource/Martin_Davidson",
+            "http://dbpedia.org/resource/Ellen_Barkin",
+            "http://dbpedia.org/resource/Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/This_Is_Spinal_Tap",
+            "http://dbpedia.org/resource/Rob_Reiner",
+            "http://dbpedia.org/resource/Michael_McKean",
+            "http://dbpedia.org/resource/Heavy_metal_music"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stadion_Poljud",
+            "http://dbpedia.org/resource/NK_Marsonia",
+            "http://dbpedia.org/resource/Ivan_Leko"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Poljud",
+            "http://dbpedia.org/resource/NK_Slaven_Belupo",
+            "http://dbpedia.org/resource/Ivan_Leko"
+        ]
+    ]
+}

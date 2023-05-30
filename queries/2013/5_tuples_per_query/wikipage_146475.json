@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barr,_Bas-Rhin",
+            "http://dbpedia.org/resource/Bassemberg",
+            "http://dbpedia.org/resource/Benfeld",
+            "http://dbpedia.org/resource/Bernardswiller"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolsenheim",
+            "http://dbpedia.org/resource/Boofzheim",
+            "http://dbpedia.org/resource/Bootzheim",
+            "http://dbpedia.org/resource/Bourgheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Daubensand",
+            "http://dbpedia.org/resource/Diebolsheim",
+            "http://dbpedia.org/resource/Dieffenbach-au-Val",
+            "http://dbpedia.org/resource/Dieffenthal"
+        ],
+        [
+            "http://dbpedia.org/resource/Ebersheim,_Bas-Rhin",
+            "http://dbpedia.org/resource/Ebersmunster",
+            "http://dbpedia.org/resource/Eichhoffen",
+            "http://dbpedia.org/resource/Elsenheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Epfig",
+            "http://dbpedia.org/resource/Erstein",
+            "http://dbpedia.org/resource/Fouchy",
+            "http://dbpedia.org/resource/Friesenheim,_Bas-Rhin"
+        ]
+    ]
+}

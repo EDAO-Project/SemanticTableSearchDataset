@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beaurepaire,_Seine-Maritime",
+            "http://dbpedia.org/resource/Bec-de-Mortagne",
+            "http://dbpedia.org/resource/Bennetot",
+            "http://dbpedia.org/resource/Bermonville"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolbec",
+            "http://dbpedia.org/resource/Bolleville,_Seine-Maritime",
+            "http://dbpedia.org/resource/Bordeaux-Saint-Clair",
+            "http://dbpedia.org/resource/Bornambusc"
+        ],
+        [
+            "http://dbpedia.org/resource/Carville-Pot-de-Fer",
+            "http://dbpedia.org/resource/Cauville-sur-Mer",
+            "http://dbpedia.org/resource/Cleuville",
+            "http://dbpedia.org/resource/Cliponville"
+        ],
+        [
+            "http://dbpedia.org/resource/Envronville",
+            "http://dbpedia.org/resource/Fauville-en-Caux",
+            "http://dbpedia.org/resource/Fongueusemare",
+            "http://dbpedia.org/resource/Fontaine-la-Mallet"
+        ],
+        [
+            "http://dbpedia.org/resource/Gainneville",
+            "http://dbpedia.org/resource/Ganzeville",
+            "http://dbpedia.org/resource/Gerponville",
+            "http://dbpedia.org/resource/Gerville"
+        ]
+    ]
+}

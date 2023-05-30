@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shalrie_Joseph",
+            "http://dbpedia.org/resource/Grenada",
+            "http://dbpedia.org/resource/New_England_Revolution"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Beckham",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/LA_Galaxy"
+        ]
+    ]
+}

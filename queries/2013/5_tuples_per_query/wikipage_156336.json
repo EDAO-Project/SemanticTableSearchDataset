@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_24_Hours_of_Le_Mans",
+            "http://dbpedia.org/resource/Tom_Kristensen",
+            "http://dbpedia.org/resource/Joest_Racing",
+            "http://dbpedia.org/resource/Audi_R18",
+            "http://dbpedia.org/resource/Michelin"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_24_Hours_of_Le_Mans",
+            "http://dbpedia.org/resource/Mike_Rockenfeller",
+            "http://dbpedia.org/resource/Joest_Racing",
+            "http://dbpedia.org/resource/Audi_R15_TDI",
+            "http://dbpedia.org/resource/Michelin"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_24_Hours_of_Le_Mans",
+            "http://dbpedia.org/resource/David_Brabham",
+            "http://dbpedia.org/resource/Peugeot_Sport",
+            "http://dbpedia.org/resource/Peugeot_908_HDi_FAP",
+            "http://dbpedia.org/resource/Michelin"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_24_Hours_of_Le_Mans",
+            "http://dbpedia.org/resource/Tom_Kristensen",
+            "http://dbpedia.org/resource/Joest_Racing",
+            "http://dbpedia.org/resource/Audi_R10_TDI",
+            "http://dbpedia.org/resource/Michelin"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_24_Hours_of_Le_Mans",
+            "http://dbpedia.org/resource/Frank_Biela",
+            "http://dbpedia.org/resource/Joest_Racing",
+            "http://dbpedia.org/resource/Audi_R10_TDI",
+            "http://dbpedia.org/resource/Michelin"
+        ]
+    ]
+}

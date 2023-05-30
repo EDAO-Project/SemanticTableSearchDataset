@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paolo_Maldini",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Andriy_Shevchenko",
+            "http://dbpedia.org/resource/Ukraine",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Nesta",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Deco",
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/FC_Porto"
+        ],
+        [
+            "http://dbpedia.org/resource/Nihat_Kahveci",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Real_Sociedad"
+        ]
+    ]
+}

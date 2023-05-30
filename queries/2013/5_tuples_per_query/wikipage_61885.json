@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auderville",
+            "http://dbpedia.org/resource/Audouville-la-Hubert",
+            "http://dbpedia.org/resource/Aumeville-Lestre",
+            "http://dbpedia.org/resource/Azeville"
+        ],
+        [
+            "http://dbpedia.org/resource/Barfleur",
+            "http://dbpedia.org/resource/Barneville-Carteret",
+            "http://dbpedia.org/resource/Baubigny,_Manche",
+            "http://dbpedia.org/resource/Beaumont-Hague"
+        ],
+        [
+            "http://dbpedia.org/resource/Biniville",
+            "http://dbpedia.org/resource/Biville",
+            "http://dbpedia.org/resource/Blosville",
+            "http://dbpedia.org/resource/La_Bonneville"
+        ],
+        [
+            "http://dbpedia.org/resource/Boutteville",
+            "http://dbpedia.org/resource/Branville-Hague",
+            "http://dbpedia.org/resource/Bretteville,_Manche",
+            "http://dbpedia.org/resource/Breuville"
+        ],
+        [
+            "http://dbpedia.org/resource/Bricquebec",
+            "http://dbpedia.org/resource/Bricquebosq",
+            "http://dbpedia.org/resource/Brillevast",
+            "http://dbpedia.org/resource/Brix,_Manche"
+        ]
+    ]
+}

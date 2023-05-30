@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_Japan_Series",
+            "http://dbpedia.org/resource/Kaoru_Betto",
+            "http://dbpedia.org/resource/Chiba_Lotte_Marines",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_Japan_Series",
+            "http://dbpedia.org/resource/Yuko_Minamimura",
+            "http://dbpedia.org/resource/Yomiuri_Giants",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

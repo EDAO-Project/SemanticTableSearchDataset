@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_7th_Voyage_of_Sinbad",
+            "http://dbpedia.org/resource/Nathan_H._Juran",
+            "http://dbpedia.org/resource/Columbia_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/Murder_and_the_Android",
+            "http://dbpedia.org/resource/Alex_Segal",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/The_United_States_Steel_Hour",
+            "http://dbpedia.org/resource/Daniel_Keyes",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Day_the_Earth_Caught_Fire",
+            "http://dbpedia.org/resource/Val_Guest",
+            "http://dbpedia.org/resource/British_Lion_Films"
+        ],
+        [
+            "http://dbpedia.org/resource/Night_of_the_Eagle",
+            "http://dbpedia.org/resource/Sidney_Hayers",
+            "http://dbpedia.org/resource/Anglo-Amalgamated"
+        ]
+    ]
+}

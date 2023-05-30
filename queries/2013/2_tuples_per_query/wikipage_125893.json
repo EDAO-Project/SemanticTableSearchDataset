@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Lakers",
+            "http://dbpedia.org/resource/Neal_Walk",
+            "http://dbpedia.org/resource/Arizona_Veterans_Memorial_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Rockets",
+            "http://dbpedia.org/resource/Charlie_Scott",
+            "http://dbpedia.org/resource/Arizona_Veterans_Memorial_Coliseum"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pyrbaum",
+            "http://dbpedia.org/resource/SV_Seligenporten",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Juvhel_Tsoumou"
+        ],
+        [
+            "http://dbpedia.org/resource/Bretzfeld",
+            "http://dbpedia.org/resource/FC_Augsburg",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Nikos_Liberopoulos"
+        ]
+    ]
+}

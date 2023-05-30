@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Altaydyn_cholmony",
+            "http://dbpedia.org/resource/Gorno-Altai_Autonomous_Oblast",
+            "http://dbpedia.org/resource/Altai_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Dagestan_Autonomous_Soviet_Socialist_Republic",
+            "http://dbpedia.org/resource/Avar_language",
+            "http://dbpedia.org/resource/Hakikat"
+        ],
+        [
+            "http://dbpedia.org/resource/Birobidzhaner_Shtern",
+            "http://dbpedia.org/resource/Jewish_Autonomous_Oblast",
+            "http://dbpedia.org/resource/Yiddish_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Buryad_Unen",
+            "http://dbpedia.org/resource/Buryat_Autonomous_Soviet_Socialist_Republic",
+            "http://dbpedia.org/resource/Buryat_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Zvyazda",
+            "http://dbpedia.org/resource/Byelorussian_Soviet_Socialist_Republic",
+            "http://dbpedia.org/resource/Belarusian_language"
+        ]
+    ]
+}

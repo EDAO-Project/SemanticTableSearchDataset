@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arnold_Kruiswijk",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht",
+            "http://dbpedia.org/resource/Roda_JC_Kerkrade"
+        ],
+        [
+            "http://dbpedia.org/resource/Anduele_Pryor",
+            "http://dbpedia.org/resource/Vitesse",
+            "http://dbpedia.org/resource/K.S.V._Roeselare"
+        ]
+    ]
+}

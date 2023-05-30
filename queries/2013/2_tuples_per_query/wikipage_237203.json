@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lafayette_McLaws",
+            "http://dbpedia.org/resource/Laurence_M._Keitt",
+            "http://dbpedia.org/resource/15th_South_Carolina_Infantry_Regiment"
+        ],
+        [
+            "http://dbpedia.org/resource/Lafayette_McLaws",
+            "http://dbpedia.org/resource/Benjamin_G._Humphreys",
+            "http://dbpedia.org/resource/21st_Mississippi_Infantry_Regiment"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Red_Hill_Patrick_Henry_National_Memorial",
+            "http://dbpedia.org/resource/Brookneal,_Virginia",
+            "http://dbpedia.org/resource/Campbell_County,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Berkeley_Plantation",
+            "http://dbpedia.org/resource/Charles_City,_Virginia",
+            "http://dbpedia.org/resource/Charles_City_County,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Berry_Hill_Plantation",
+            "http://dbpedia.org/resource/South_Boston,_Virginia",
+            "http://dbpedia.org/resource/Halifax_County,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Lower_Brandon_Plantation",
+            "http://dbpedia.org/resource/Burrowsville,_Virginia",
+            "http://dbpedia.org/resource/Prince_George_County,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Bremo_Historic_District",
+            "http://dbpedia.org/resource/Bremo_Bluff,_Virginia",
+            "http://dbpedia.org/resource/Fluvanna_County,_Virginia"
+        ]
+    ]
+}

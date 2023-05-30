@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_Open_13",
+            "http://dbpedia.org/resource/Marc_Rosset",
+            "http://dbpedia.org/resource/Jan_Siemerink",
+            "http://dbpedia.org/resource/Henrik_Holm",
+            "http://dbpedia.org/resource/Gianluca_Pozzi"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_Open_13",
+            "http://dbpedia.org/resource/Arnaud_Boetsch",
+            "http://dbpedia.org/resource/Ivan_Lendl",
+            "http://dbpedia.org/resource/Henrik_Holm",
+            "http://dbpedia.org/resource/Gianluca_Pozzi"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_Volvo_Tennis_San_Francisco",
+            "http://dbpedia.org/resource/Andre_Agassi",
+            "http://dbpedia.org/resource/Brad_Gilbert",
+            "http://dbpedia.org/resource/Jeff_Tarango",
+            "http://dbpedia.org/resource/Marcos_Ondruska"
+        ],
+        [
+            "http://dbpedia.org/resource/Milan",
+            "http://dbpedia.org/resource/Boris_Becker",
+            "http://dbpedia.org/resource/Sergi_Bruguera",
+            "http://dbpedia.org/resource/Petr_Korda",
+            "http://dbpedia.org/resource/Omar_Camporese"
+        ],
+        [
+            "http://dbpedia.org/resource/Milan",
+            "http://dbpedia.org/resource/Mark_Kratzmann",
+            "http://dbpedia.org/resource/Tom_Nijssen",
+            "http://dbpedia.org/resource/Petr_Korda",
+            "http://dbpedia.org/resource/Omar_Camporese"
+        ]
+    ]
+}

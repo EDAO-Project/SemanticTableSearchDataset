@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/University_of_Arkansas"
+        ]
+    ]
+}

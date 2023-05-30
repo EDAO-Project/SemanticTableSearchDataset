@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Houston_Rockets",
+            "http://dbpedia.org/resource/Charlie_Scott",
+            "http://dbpedia.org/resource/Hofheinz_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Sacramento_Kings",
+            "http://dbpedia.org/resource/Mike_Bantom",
+            "http://dbpedia.org/resource/Omaha_Civic_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Mike_Bantom",
+            "http://dbpedia.org/resource/Arizona_Veterans_Memorial_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Trail_Blazers",
+            "http://dbpedia.org/resource/Mike_Bantom",
+            "http://dbpedia.org/resource/Arizona_Veterans_Memorial_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Knicks",
+            "http://dbpedia.org/resource/Charlie_Scott",
+            "http://dbpedia.org/resource/Madison_Square_Garden"
+        ]
+    ]
+}

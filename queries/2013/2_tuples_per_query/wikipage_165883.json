@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/MS_Zuiderdam",
+            "http://dbpedia.org/resource/Vista-class_cruise_ship",
+            "http://dbpedia.org/resource/Holland_America_Line"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Princess",
+            "http://dbpedia.org/resource/Grand-class_cruise_ship",
+            "http://dbpedia.org/resource/Princess_Cruises"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hexis_Racing",
+            "http://dbpedia.org/resource/McLaren_12C",
+            "http://dbpedia.org/resource/McLaren_Automotive",
+            "http://dbpedia.org/resource/Stef_Dusseldorp"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458",
+            "http://dbpedia.org/resource/Ferrari",
+            "http://dbpedia.org/resource/Toni_Vilander"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458",
+            "http://dbpedia.org/resource/Ferrari",
+            "http://dbpedia.org/resource/Filip_Salaquarda"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458",
+            "http://dbpedia.org/resource/Ferrari",
+            "http://dbpedia.org/resource/Francesco_Castellacci"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458",
+            "http://dbpedia.org/resource/Ferrari",
+            "http://dbpedia.org/resource/Enzo_Ide"
+        ]
+    ]
+}

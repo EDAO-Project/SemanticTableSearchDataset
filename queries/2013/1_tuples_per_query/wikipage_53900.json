@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Livingstone,_Zambia",
+            "http://dbpedia.org/resource/Southern_Province,_Zambia",
+            "http://dbpedia.org/resource/Zambia"
+        ]
+    ]
+}

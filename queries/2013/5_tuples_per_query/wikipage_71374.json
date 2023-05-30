@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_Robertson_Aikman",
+            "http://dbpedia.org/resource/Bengal_Native_Infantry",
+            "http://dbpedia.org/resource/Indian_Rebellion_of_1857",
+            "http://dbpedia.org/resource/Amethi"
+        ],
+        [
+            "http://dbpedia.org/resource/Premindra_Singh_Bhagat",
+            "http://dbpedia.org/resource/Bombay_Engineer_Group",
+            "http://dbpedia.org/resource/World_War_II",
+            "http://dbpedia.org/resource/Metemma"
+        ],
+        [
+            "http://dbpedia.org/resource/Guy_Boisragon",
+            "http://dbpedia.org/resource/Indian_Staff_Corps",
+            "http://dbpedia.org/resource/Hunza-Nagar_Campaign",
+            "http://dbpedia.org/resource/Nilt"
+        ],
+        [
+            "http://dbpedia.org/resource/Francis_David_Millet_Brown",
+            "http://dbpedia.org/resource/Royal_Munster_Fusiliers",
+            "http://dbpedia.org/resource/Indian_Rebellion_of_1857",
+            "http://dbpedia.org/resource/Narnaul"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Adair_Butler",
+            "http://dbpedia.org/resource/Royal_Munster_Fusiliers",
+            "http://dbpedia.org/resource/Indian_Rebellion_of_1857",
+            "http://dbpedia.org/resource/Lucknow"
+        ]
+    ]
+}

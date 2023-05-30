@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Helge_Meeuw",
+            "http://dbpedia.org/resource/List_of_World_Championships_records_in_swimming"
+        ]
+    ]
+}

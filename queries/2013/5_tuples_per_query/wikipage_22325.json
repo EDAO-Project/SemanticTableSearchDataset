@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brant_North",
+            "http://dbpedia.org/resource/Harry_Nixon",
+            "http://dbpedia.org/resource/United_Farmers_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Brant_South",
+            "http://dbpedia.org/resource/Morrison_Mann_MacBride",
+            "http://dbpedia.org/resource/Labour_candidates_and_parties_in_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_West",
+            "http://dbpedia.org/resource/Alexander_Patterson_Mewhinney",
+            "http://dbpedia.org/resource/Ontario_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Dufferin_County",
+            "http://dbpedia.org/resource/Charles_Robert_McKeown",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Elgin_East",
+            "http://dbpedia.org/resource/Soulidium",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Ontario"
+        ]
+    ]
+}

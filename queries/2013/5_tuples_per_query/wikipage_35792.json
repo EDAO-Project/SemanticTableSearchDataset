@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland,_Maine",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cross_Insurance_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Boston_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Springfield,_Massachusetts",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/MassMutual_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Haven,_Connecticut",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/New_Haven_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cobo_Center"
+        ]
+    ]
+}

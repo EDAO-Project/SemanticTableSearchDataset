@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kennebec_River",
+            "http://dbpedia.org/resource/Augusta,_Maine",
+            "http://dbpedia.org/resource/Franklin_County,_Maine"
+        ]
+    ]
+}

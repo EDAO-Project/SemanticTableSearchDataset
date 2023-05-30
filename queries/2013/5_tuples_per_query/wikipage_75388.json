@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anzac_biscuit",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Oatcake"
+        ],
+        [
+            "http://dbpedia.org/resource/Aachener_Printen",
+            "http://dbpedia.org/resource/Aachen",
+            "http://dbpedia.org/resource/Lebkuchen"
+        ],
+        [
+            "http://dbpedia.org/resource/Afghan_biscuit",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Cocoa_solids"
+        ],
+        [
+            "http://dbpedia.org/resource/Alfajor",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Biscuit"
+        ],
+        [
+            "http://dbpedia.org/resource/Almond_biscuit",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Macau"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pearl_S._Buck_Birthplace",
+            "http://dbpedia.org/resource/U.S._Route_219",
+            "http://dbpedia.org/resource/Hillsboro,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Camp_Bartow_Historic_District",
+            "http://dbpedia.org/resource/U.S._Route_250",
+            "http://dbpedia.org/resource/Bartow,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cass_Historic_District",
+            "http://dbpedia.org/resource/West_Virginia_Route_66",
+            "http://dbpedia.org/resource/Cass,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cass_Scenic_Railroad_State_Park",
+            "http://dbpedia.org/resource/Bald_Knob",
+            "http://dbpedia.org/resource/Cass,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Droop_Mountain_Battlefield_State_Park",
+            "http://dbpedia.org/resource/U.S._Route_219",
+            "http://dbpedia.org/resource/Marlinton,_West_Virginia"
+        ]
+    ]
+}

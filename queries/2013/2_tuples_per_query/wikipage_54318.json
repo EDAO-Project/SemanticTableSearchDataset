@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bedford_railway_station",
+            "http://dbpedia.org/resource/Bedford",
+            "http://dbpedia.org/resource/Ordnance_Survey_National_Grid",
+            "http://dbpedia.org/resource/Marston_Vale_Line"
+        ],
+        [
+            "http://dbpedia.org/resource/Kettering_railway_station",
+            "http://dbpedia.org/resource/Kettering",
+            "http://dbpedia.org/resource/Ordnance_Survey_National_Grid",
+            "http://dbpedia.org/resource/Oakham_to_Kettering_Line"
+        ]
+    ]
+}

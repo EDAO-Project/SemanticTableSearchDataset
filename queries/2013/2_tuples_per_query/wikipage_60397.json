@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Keiichiro_Nagashima",
+            "http://dbpedia.org/resource/Pekka_Koskela",
+            "http://dbpedia.org/resource/Lee_Kyou-hyuk"
+        ],
+        [
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Joji_Kato",
+            "http://dbpedia.org/resource/Yu_Fengtong",
+            "http://dbpedia.org/resource/Mika_Poutala"
+        ]
+    ]
+}

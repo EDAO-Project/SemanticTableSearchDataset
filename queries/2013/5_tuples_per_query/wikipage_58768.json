@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Steve_Balboni",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Nashville_Sounds"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Mattingly",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Columbus_Clippers"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Winters",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Greensboro_Grasshoppers"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Dayett",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Columbus_Clippers"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Pasqua",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Columbus_Clippers"
+        ]
+    ]
+}

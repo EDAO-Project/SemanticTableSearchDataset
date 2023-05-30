@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1948_Gator_Bowl",
+            "http://dbpedia.org/resource/1947_Maryland_Terrapins_football_team",
+            "http://dbpedia.org/resource/1947_Georgia_Bulldogs_football_team",
+            "http://dbpedia.org/resource/Gator_Bowl_Stadium",
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/Jim_Tatum"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_Gator_Bowl",
+            "http://dbpedia.org/resource/1949_Maryland_Terrapins_football_team",
+            "http://dbpedia.org/resource/Missouri_Tigers",
+            "http://dbpedia.org/resource/Gator_Bowl_Stadium",
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/Jim_Tatum"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_Sugar_Bowl",
+            "http://dbpedia.org/resource/1951_Maryland_Terrapins_football_team",
+            "http://dbpedia.org/resource/1951_Tennessee_Volunteers_football_team",
+            "http://dbpedia.org/resource/Tulane_Stadium",
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/Jim_Tatum"
+        ],
+        [
+            "http://dbpedia.org/resource/1954_Orange_Bowl",
+            "http://dbpedia.org/resource/1953_Maryland_Terrapins_football_team",
+            "http://dbpedia.org/resource/1953_Oklahoma_Sooners_football_team",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Jim_Tatum"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_Orange_Bowl",
+            "http://dbpedia.org/resource/1955_Maryland_Terrapins_football_team",
+            "http://dbpedia.org/resource/1955_Oklahoma_Sooners_football_team",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Jim_Tatum"
+        ]
+    ]
+}

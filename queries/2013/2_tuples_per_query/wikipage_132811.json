@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kannur",
+            "http://dbpedia.org/resource/A._P._Abdullakutty",
+            "http://dbpedia.org/resource/Kadannappalli_Ramachandran"
+        ],
+        [
+            "http://dbpedia.org/resource/Nilambur",
+            "http://dbpedia.org/resource/Aryadan_Muhammed",
+            "http://dbpedia.org/resource/M._Thomas_Mathew"
+        ]
+    ]
+}

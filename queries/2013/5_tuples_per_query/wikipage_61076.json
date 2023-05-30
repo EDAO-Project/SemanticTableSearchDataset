@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Jon_Lester",
+            "http://dbpedia.org/resource/Phil_Hughes",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Cleveland_Indians_season",
+            "http://dbpedia.org/resource/Carl_Pavano",
+            "http://dbpedia.org/resource/Justin_Masterson",
+            "http://dbpedia.org/resource/Aaron_Laffey"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Tampa_Bay_Rays_season",
+            "http://dbpedia.org/resource/Scott_Kazmir",
+            "http://dbpedia.org/resource/Jon_Lester",
+            "http://dbpedia.org/resource/Lance_Cormier"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Seattle_Mariners_season",
+            "http://dbpedia.org/resource/Chris_Jakubauskas",
+            "http://dbpedia.org/resource/Jon_Lester",
+            "http://dbpedia.org/resource/David_Aardsma"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Seattle_Mariners_season",
+            "http://dbpedia.org/resource/Josh_Beckett",
+            "http://dbpedia.org/resource/Garrett_Olson",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ]
+    ]
+}

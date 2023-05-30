@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amos_Block",
+            "http://dbpedia.org/resource/Downtown_Syracuse",
+            "http://dbpedia.org/resource/Romanesque_Revival_architecture"
+        ]
+    ]
+}

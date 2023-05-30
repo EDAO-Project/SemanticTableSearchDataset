@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Qingdao_Qianwan_Container_Terminal",
+            "http://dbpedia.org/resource/Qingdao_Port",
+            "http://dbpedia.org/resource/Asia-Pacific"
+        ],
+        [
+            "http://dbpedia.org/resource/Qingdao_Qianwan_Container_Terminal",
+            "http://dbpedia.org/resource/Qingdao_Port",
+            "http://dbpedia.org/resource/Asia-Pacific"
+        ],
+        [
+            "http://dbpedia.org/resource/Qingdao_Qianwan_Container_Terminal",
+            "http://dbpedia.org/resource/Qingdao_Port",
+            "http://dbpedia.org/resource/Asia-Pacific"
+        ],
+        [
+            "http://dbpedia.org/resource/Qingdao_Qianwan_Container_Terminal",
+            "http://dbpedia.org/resource/Qingdao_Port",
+            "http://dbpedia.org/resource/Asia-Pacific"
+        ],
+        [
+            "http://dbpedia.org/resource/Yantai",
+            "http://dbpedia.org/resource/Port_of_Yantai",
+            "http://dbpedia.org/resource/Asia-Pacific"
+        ]
+    ]
+}

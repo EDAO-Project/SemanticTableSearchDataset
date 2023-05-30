@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Girayr",
+            "http://dbpedia.org/resource/Western_Armenia",
+            "http://dbpedia.org/resource/Social_Democrat_Hunchakian_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Papken_Siuni",
+            "http://dbpedia.org/resource/Western_Armenia",
+            "http://dbpedia.org/resource/Armenian_Revolutionary_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Aghbiur_Serob",
+            "http://dbpedia.org/resource/Western_Armenia",
+            "http://dbpedia.org/resource/Armenian_Revolutionary_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Hrayr_Dzhoghk",
+            "http://dbpedia.org/resource/Western_Armenia",
+            "http://dbpedia.org/resource/Social_Democrat_Hunchakian_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevork_Chavush",
+            "http://dbpedia.org/resource/Western_Armenia",
+            "http://dbpedia.org/resource/Social_Democrat_Hunchakian_Party"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_in_sports",
+            "http://dbpedia.org/resource/Rob_Waldrop",
+            "http://dbpedia.org/resource/University_of_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_in_sports",
+            "http://dbpedia.org/resource/Warren_Sapp",
+            "http://dbpedia.org/resource/University_of_Miami"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_in_sports",
+            "http://dbpedia.org/resource/Pat_Fitzgerald",
+            "http://dbpedia.org/resource/Northwestern_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_in_sports",
+            "http://dbpedia.org/resource/Pat_Fitzgerald",
+            "http://dbpedia.org/resource/Northwestern_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_in_sports",
+            "http://dbpedia.org/resource/Charles_Woodson",
+            "http://dbpedia.org/resource/University_of_Michigan"
+        ]
+    ]
+}

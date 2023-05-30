@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Bolton",
+            "http://dbpedia.org/resource/No_overall_control",
+            "http://dbpedia.org/resource/Bolton_Council_election,_2003"
+        ],
+        [
+            "http://dbpedia.org/resource/City_of_Bradford",
+            "http://dbpedia.org/resource/No_overall_control",
+            "http://dbpedia.org/resource/No_overall_control",
+            "http://dbpedia.org/resource/City_of_Bradford_Metropolitan_District_Council_election,_2003"
+        ]
+    ]
+}

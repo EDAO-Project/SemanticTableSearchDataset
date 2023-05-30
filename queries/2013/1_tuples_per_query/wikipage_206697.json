@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Death_of_Jack_Avery",
+            "http://dbpedia.org/resource/Hyde_Park,_London",
+            "http://dbpedia.org/resource/Constable"
+        ]
+    ]
+}

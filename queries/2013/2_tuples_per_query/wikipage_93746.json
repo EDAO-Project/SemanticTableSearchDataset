@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sanya_Richards-Ross",
+            "http://dbpedia.org/resource/Debbie_Dunn",
+            "http://dbpedia.org/resource/Jessica_Beard"
+        ],
+        [
+            "http://dbpedia.org/resource/Shannon_Rowbury",
+            "http://dbpedia.org/resource/Christin_Wurth-Thomas",
+            "http://dbpedia.org/resource/Anna_Willard"
+        ]
+    ]
+}

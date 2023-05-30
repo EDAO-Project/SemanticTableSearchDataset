@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1969_NSWRFL_season",
+            "http://dbpedia.org/resource/Denis_Pittard",
+            "http://dbpedia.org/resource/Five-eighth",
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_NSWRFL_season",
+            "http://dbpedia.org/resource/Bob_Fulton",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Sydney_Roosters"
+        ]
+    ]
+}

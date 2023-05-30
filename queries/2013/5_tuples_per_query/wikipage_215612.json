@@ -1,0 +1,26 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Urgell",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Urgell",
+            "http://dbpedia.org/resource/Count_of_Foix",
+            "http://dbpedia.org/resource/Count_of_Foix"
+        ],
+        [
+            "http://dbpedia.org/resource/Guillem_of_Montcada",
+            "http://dbpedia.org/resource/Roger-Bernard_III,_Count_of_Foix"
+        ],
+        [
+            "http://dbpedia.org/resource/Guillem_of_Montcada",
+            "http://dbpedia.org/resource/Gaston_I,_Count_of_Foix"
+        ],
+        [
+            "http://dbpedia.org/resource/Galcerand_de_Vilanova",
+            "http://dbpedia.org/resource/Gaston_III,_Count_of_Foix"
+        ],
+        [
+            "http://dbpedia.org/resource/Galcerand_de_Vilanova",
+            "http://dbpedia.org/resource/Matthew,_Count_of_Foix"
+        ]
+    ]
+}

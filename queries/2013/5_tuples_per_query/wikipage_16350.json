@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chile_at_the_Pan_American_Games",
+            "http://dbpedia.org/resource/1951_Pan_American_Games",
+            "http://dbpedia.org/resource/Buenos_Aires"
+        ],
+        [
+            "http://dbpedia.org/resource/Chile_at_the_Pan_American_Games",
+            "http://dbpedia.org/resource/1955_Pan_American_Games",
+            "http://dbpedia.org/resource/Mexico_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Chile_at_the_Pan_American_Games",
+            "http://dbpedia.org/resource/1959_Pan_American_Games",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Chile_at_the_Pan_American_Games",
+            "http://dbpedia.org/resource/1967_Pan_American_Games",
+            "http://dbpedia.org/resource/Winnipeg"
+        ],
+        [
+            "http://dbpedia.org/resource/Chile_at_the_Pan_American_Games",
+            "http://dbpedia.org/resource/1971_Pan_American_Games",
+            "http://dbpedia.org/resource/Cali"
+        ]
+    ]
+}

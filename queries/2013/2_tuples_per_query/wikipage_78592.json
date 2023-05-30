@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rosemont,_Illinois",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Allstate_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Paul,_Minnesota",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Xcel_Energy_Center"
+        ]
+    ]
+}

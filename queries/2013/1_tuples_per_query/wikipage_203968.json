@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/INXS",
+            "http://dbpedia.org/resource/George_Harrison"
+        ]
+    ]
+}

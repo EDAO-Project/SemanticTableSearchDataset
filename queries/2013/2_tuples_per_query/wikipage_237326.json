@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-31",
+            "http://dbpedia.org/resource/Yuri_Gidzenko",
+            "http://dbpedia.org/resource/Expedition_1"
+        ],
+        [
+            "http://dbpedia.org/resource/STS-102",
+            "http://dbpedia.org/resource/Jim_Wetherbee",
+            "http://dbpedia.org/resource/Expedition_2"
+        ]
+    ]
+}

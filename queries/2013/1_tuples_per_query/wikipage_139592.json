@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Milwaukee_Bucks",
+            "http://dbpedia.org/resource/Al_Jefferson",
+            "http://dbpedia.org/resource/Paul_Millsap",
+            "http://dbpedia.org/resource/Earl_Watson",
+            "http://dbpedia.org/resource/EnergySolutions_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shionogi",
+            "http://dbpedia.org/resource/Masami_Kageyama",
+            "http://dbpedia.org/resource/Lola_Cars",
+            "http://dbpedia.org/resource/Mugen_Motorsports"
+        ]
+    ]
+}

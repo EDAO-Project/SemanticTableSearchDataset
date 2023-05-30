@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Alabama_Historical_Commission",
+            "http://dbpedia.org/resource/Alabama_Department_of_Archives_and_History"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Arizona_Historical_Society",
+            "http://dbpedia.org/resource/Arizona_State_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Arkansas_Historical_Association",
+            "http://dbpedia.org/resource/Historic_Arkansas_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/California_Historical_Society",
+            "http://dbpedia.org/resource/The_California_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/History_Colorado",
+            "http://dbpedia.org/resource/History_Colorado_Center"
+        ]
+    ]
+}

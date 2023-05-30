@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_in_film",
+            "http://dbpedia.org/resource/All_About_Eve",
+            "http://dbpedia.org/resource/Joseph_L._Mankiewicz",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_in_film",
+            "http://dbpedia.org/resource/The_Mystery_of_Picasso",
+            "http://dbpedia.org/resource/Henri-Georges_Clouzot",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

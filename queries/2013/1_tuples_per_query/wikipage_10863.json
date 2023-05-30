@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Asterales",
+            "http://dbpedia.org/resource/Asteraceae",
+            "http://dbpedia.org/resource/Cichorioideae",
+            "http://dbpedia.org/resource/Scolymus"
+        ]
+    ]
+}

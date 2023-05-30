@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bagerhat_District",
+            "http://dbpedia.org/resource/Bagerhat_Sadar_Upazila",
+            "http://dbpedia.org/resource/Bagerhat_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Barguna_District",
+            "http://dbpedia.org/resource/Barguna_Sadar_Upazila",
+            "http://dbpedia.org/resource/Barguna_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Barisal_District",
+            "http://dbpedia.org/resource/Barisal_Sadar_Upazila",
+            "http://dbpedia.org/resource/Barisal_Divisional_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhola_District",
+            "http://dbpedia.org/resource/Bhola_Sadar_Upazila",
+            "http://dbpedia.org/resource/Bhola_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Bogra_District",
+            "http://dbpedia.org/resource/Bogra_Sadar_Upazila",
+            "http://dbpedia.org/resource/Shaheed_Chandu_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tripoli_Grand_Prix",
+            "http://dbpedia.org/resource/Tripoli",
+            "http://dbpedia.org/resource/Tazio_Nuvolari",
+            "http://dbpedia.org/resource/Bugatti"
+        ],
+        [
+            "http://dbpedia.org/resource/French_Riviera",
+            "http://dbpedia.org/resource/Cannes",
+            "http://dbpedia.org/resource/Louis_Chiron",
+            "http://dbpedia.org/resource/Bugatti"
+        ],
+        [
+            "http://dbpedia.org/resource/Coppa_Florio",
+            "http://dbpedia.org/resource/Madonie",
+            "http://dbpedia.org/resource/Albert_Divo",
+            "http://dbpedia.org/resource/Bugatti"
+        ],
+        [
+            "http://dbpedia.org/resource/Targa_Florio",
+            "http://dbpedia.org/resource/Madonie",
+            "http://dbpedia.org/resource/Albert_Divo",
+            "http://dbpedia.org/resource/Bugatti"
+        ],
+        [
+            "http://dbpedia.org/resource/Burgundy",
+            "http://dbpedia.org/resource/Dijon",
+            "http://dbpedia.org/resource/Jannine_Jennky",
+            "http://dbpedia.org/resource/Bugatti"
+        ]
+    ]
+}

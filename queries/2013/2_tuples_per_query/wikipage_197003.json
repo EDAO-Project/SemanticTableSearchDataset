@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1940_Stanford_Indians_football_team",
+            "http://dbpedia.org/resource/1940_Nebraska_Cornhuskers_football_team",
+            "http://dbpedia.org/resource/1941_Rose_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Duke_Blue_Devils_football",
+            "http://dbpedia.org/resource/1954_Nebraska_Cornhuskers_football_team",
+            "http://dbpedia.org/resource/1955_Orange_Bowl"
+        ]
+    ]
+}

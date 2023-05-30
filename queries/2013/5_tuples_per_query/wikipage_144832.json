@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sarajevo",
+            "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia",
+            "http://dbpedia.org/resource/Olympic_Hall_Juan_Antonio_Samaranch"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgrade",
+            "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia",
+            "http://dbpedia.org/resource/Pionir_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia",
+            "http://dbpedia.org/resource/Dom_Sportova"
+        ],
+        [
+            "http://dbpedia.org/resource/Budapest",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Budapest_Sportcsarnok"
+        ],
+        [
+            "http://dbpedia.org/resource/Budapest",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Budapest_Sportcsarnok"
+        ]
+    ]
+}

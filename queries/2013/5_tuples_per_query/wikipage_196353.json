@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cairn_University",
+            "http://dbpedia.org/resource/Langhorne,_Pennsylvania",
+            "http://dbpedia.org/resource/Cairn_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Carthage_College",
+            "http://dbpedia.org/resource/Kenosha,_Wisconsin",
+            "http://dbpedia.org/resource/Carthage_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominican_University",
+            "http://dbpedia.org/resource/River_Forest,_Illinois",
+            "http://dbpedia.org/resource/Dominican_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastern_Mennonite_University",
+            "http://dbpedia.org/resource/Harrisonburg,_Virginia",
+            "http://dbpedia.org/resource/Eastern_Mennonite_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Fontbonne_University",
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/Fontbonne_University"
+        ]
+    ]
+}

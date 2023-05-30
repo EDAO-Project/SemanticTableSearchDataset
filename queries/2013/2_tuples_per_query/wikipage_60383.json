@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Basel",
+            "http://dbpedia.org/resource/Helena_Rakoczy",
+            "http://dbpedia.org/resource/Anna_Petersen",
+            "http://dbpedia.org/resource/Gertrude_Kolar"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_World_Artistic_Gymnastics_Championships",
+            "http://dbpedia.org/resource/Ljubljana",
+            "http://dbpedia.org/resource/Ludmilla_Tourischeva",
+            "http://dbpedia.org/resource/Erika_Zuchold",
+            "http://dbpedia.org/resource/Zinaida_Voronina"
+        ]
+    ]
+}

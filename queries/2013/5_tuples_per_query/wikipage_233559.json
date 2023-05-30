@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/106th_United_States_Congress",
+            "http://dbpedia.org/resource/Jerrold_Nadler",
+            "http://dbpedia.org/resource/United_States_House_Judiciary_Subcommittee_on_Immigration_and_Border_Security"
+        ],
+        [
+            "http://dbpedia.org/resource/107th_United_States_Congress",
+            "http://dbpedia.org/resource/Jerrold_Nadler",
+            "http://dbpedia.org/resource/United_States_House_Judiciary_Subcommittee_on_Immigration_and_Border_Security"
+        ],
+        [
+            "http://dbpedia.org/resource/108th_United_States_Congress",
+            "http://dbpedia.org/resource/Jerrold_Nadler",
+            "http://dbpedia.org/resource/United_States_House_Judiciary_Subcommittee_on_Immigration_and_Border_Security"
+        ],
+        [
+            "http://dbpedia.org/resource/108th_United_States_Congress",
+            "http://dbpedia.org/resource/Patrick_Leahy",
+            "http://dbpedia.org/resource/United_States_Senate_Committee_on_the_Judiciary"
+        ],
+        [
+            "http://dbpedia.org/resource/109th_United_States_Congress",
+            "http://dbpedia.org/resource/Jerrold_Nadler",
+            "http://dbpedia.org/resource/United_States_House_Judiciary_Subcommittee_on_Immigration_and_Border_Security"
+        ]
+    ]
+}

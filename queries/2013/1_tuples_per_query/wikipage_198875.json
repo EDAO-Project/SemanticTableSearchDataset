@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Sipsey_Wilderness",
+            "http://dbpedia.org/resource/Appalachian_mixed_mesophytic_forests",
+            "http://dbpedia.org/resource/Tsuga_canadensis"
+        ]
+    ]
+}

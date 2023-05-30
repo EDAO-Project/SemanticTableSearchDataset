@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Joel_Isasi",
+            "http://dbpedia.org/resource/Jorge_Aguilera"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Edgardo_Guilbe",
+            "http://dbpedia.org/resource/Junior_Cornette"
+        ]
+    ]
+}

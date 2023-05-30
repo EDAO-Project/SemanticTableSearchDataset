@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1971_NFL_season",
+            "http://dbpedia.org/resource/Alan_Page",
+            "http://dbpedia.org/resource/Minnesota_Vikings"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_NFL_season",
+            "http://dbpedia.org/resource/Dick_Anderson",
+            "http://dbpedia.org/resource/Miami_Dolphins"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_NFL_season",
+            "http://dbpedia.org/resource/Harvey_Martin",
+            "http://dbpedia.org/resource/Dallas_Cowboys"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_NFL_season",
+            "http://dbpedia.org/resource/Randy_Gradishar",
+            "http://dbpedia.org/resource/Denver_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_NFL_season",
+            "http://dbpedia.org/resource/Lee_Roy_Selmon",
+            "http://dbpedia.org/resource/Tampa_Bay_Buccaneers"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moon",
+            "http://dbpedia.org/resource/Prehistory",
+            "http://dbpedia.org/resource/Tidal_locking"
+        ]
+    ]
+}

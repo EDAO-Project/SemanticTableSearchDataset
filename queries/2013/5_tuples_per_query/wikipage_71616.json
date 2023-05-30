@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Broadway",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Broadway_theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Cooperstown,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/National_Baseball_Hall_of_Fame_and_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollywood",
+            "http://dbpedia.org/resource/District",
+            "http://dbpedia.org/resource/Cinema_of_the_United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Madison_Avenue",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Advertising"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/Country_music"
+        ]
+    ]
+}

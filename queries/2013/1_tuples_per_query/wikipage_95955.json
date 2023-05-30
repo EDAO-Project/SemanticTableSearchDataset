@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/South_Vietnam",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Iran"
+        ]
+    ]
+}

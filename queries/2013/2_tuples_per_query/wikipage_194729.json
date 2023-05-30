@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gotham_Girls_Roller_Derby",
+            "http://dbpedia.org/resource/Victorian_Roller_Derby_League",
+            "http://dbpedia.org/resource/Sac_City_Rollers"
+        ],
+        [
+            "http://dbpedia.org/resource/B.ay_A.rea_D.erby_Girls",
+            "http://dbpedia.org/resource/Toronto_Roller_Derby",
+            "http://dbpedia.org/resource/Gainesville_Roller_Rebels"
+        ]
+    ]
+}

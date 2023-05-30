@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurozone",
+            "http://dbpedia.org/resource/Norwegian_krone",
+            "http://dbpedia.org/resource/Norwegian_krone"
+        ],
+        [
+            "http://dbpedia.org/resource/Colombia",
+            "http://dbpedia.org/resource/Colombian_peso",
+            "http://dbpedia.org/resource/Colombian_peso"
+        ]
+    ]
+}

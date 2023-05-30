@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kornelia_Ender",
+            "http://dbpedia.org/resource/List_of_World_Championships_records_in_swimming",
+            "http://dbpedia.org/resource/Shirley_Babashoff",
+            "http://dbpedia.org/resource/Enith_Brigitha"
+        ],
+        [
+            "http://dbpedia.org/resource/Shirley_Babashoff",
+            "http://dbpedia.org/resource/List_of_World_Championships_records_in_swimming",
+            "http://dbpedia.org/resource/Kornelia_Ender",
+            "http://dbpedia.org/resource/Enith_Brigitha"
+        ],
+        [
+            "http://dbpedia.org/resource/Shirley_Babashoff",
+            "http://dbpedia.org/resource/List_of_World_Championships_records_in_swimming",
+            "http://dbpedia.org/resource/Jennifer_Turrall",
+            "http://dbpedia.org/resource/Kathy_Heddy"
+        ],
+        [
+            "http://dbpedia.org/resource/Jennifer_Turrall",
+            "http://dbpedia.org/resource/List_of_World_Championships_records_in_swimming",
+            "http://dbpedia.org/resource/Heather_Greenwood",
+            "http://dbpedia.org/resource/Shirley_Babashoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Ulrike_Richter",
+            "http://dbpedia.org/resource/List_of_World_Championships_records_in_swimming",
+            "http://dbpedia.org/resource/Birgit_Treiber",
+            "http://dbpedia.org/resource/Nancy_Garapick"
+        ]
+    ]
+}

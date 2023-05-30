@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bridge_between_Guilford_and_Hamilton_Townships",
+            "http://dbpedia.org/resource/Conococheague_Creek",
+            "http://dbpedia.org/resource/Guilford_Township,_Franklin_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridge_in_Metal_Township",
+            "http://dbpedia.org/resource/Conococheague_Creek",
+            "http://dbpedia.org/resource/Metal_Township,_Franklin_County,_Pennsylvania"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anatoliy_Tymoshchuk",
+            "http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg",
+            "http://dbpedia.org/resource/Greece_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Oleh_Husyev",
+            "http://dbpedia.org/resource/FC_Dynamo_Kyiv",
+            "http://dbpedia.org/resource/Greece_national_football_team"
+        ]
+    ]
+}

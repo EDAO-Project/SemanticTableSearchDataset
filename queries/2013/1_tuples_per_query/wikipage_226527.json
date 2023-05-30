@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dick_Ray",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Football_League_Second_Division"
+        ]
+    ]
+}

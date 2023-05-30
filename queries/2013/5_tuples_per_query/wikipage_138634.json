@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Glory_13:_Tokyo",
+            "http://dbpedia.org/resource/Ariake_Coliseum",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Glory_12:_New_York",
+            "http://dbpedia.org/resource/The_Theater_at_Madison_Square_Garden",
+            "http://dbpedia.org/resource/New_York_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Glory_11:_Chicago",
+            "http://dbpedia.org/resource/Sears_Centre",
+            "http://dbpedia.org/resource/Hoffman_Estates,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Glory_10:_Los_Angeles",
+            "http://dbpedia.org/resource/Citizens_Business_Bank_Arena",
+            "http://dbpedia.org/resource/Ontario,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Glory_9:_New_York",
+            "http://dbpedia.org/resource/Hammerstein_Ballroom",
+            "http://dbpedia.org/resource/New_York_City"
+        ]
+    ]
+}

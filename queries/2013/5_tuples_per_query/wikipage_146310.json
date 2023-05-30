@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aubepierre-sur-Aube",
+            "http://dbpedia.org/resource/Audeloncourt",
+            "http://dbpedia.org/resource/Autreville-sur-la-Renne"
+        ],
+        [
+            "http://dbpedia.org/resource/Bassoncourt",
+            "http://dbpedia.org/resource/Biesles",
+            "http://dbpedia.org/resource/Blaisy"
+        ],
+        [
+            "http://dbpedia.org/resource/Blessonville",
+            "http://dbpedia.org/resource/Bologne,_Haute-Marne",
+            "http://dbpedia.org/resource/Bourdons-sur-Rognon"
+        ],
+        [
+            "http://dbpedia.org/resource/Bourg-Sainte-Marie",
+            "http://dbpedia.org/resource/Bourmont",
+            "http://dbpedia.org/resource/Brainville-sur-Meuse"
+        ],
+        [
+            "http://dbpedia.org/resource/Chambroncourt",
+            "http://dbpedia.org/resource/Champigneulles-en-Bassigny",
+            "http://dbpedia.org/resource/Chantraines"
+        ]
+    ]
+}

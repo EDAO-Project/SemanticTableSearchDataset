@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kristin_Otto",
+            "http://dbpedia.org/resource/Jenna_Johnson",
+            "http://dbpedia.org/resource/Conny_van_Bentum"
+        ]
+    ]
+}

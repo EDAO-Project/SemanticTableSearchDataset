@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angola",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Domingos_Culolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Jean_Dunn"
+        ],
+        [
+            "http://dbpedia.org/resource/Botswana",
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Bernadette_Sebage_Rathedi"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Alexandra_Bugailiskis"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Xu_Jian"
+        ]
+    ]
+}

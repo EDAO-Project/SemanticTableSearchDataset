@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chad_La_Tourette",
+            "http://dbpedia.org/resource/Yury_Prilukov",
+            "http://dbpedia.org/resource/Serhiy_Fesenko"
+        ],
+        [
+            "http://dbpedia.org/resource/Chad_La_Tourette",
+            "http://dbpedia.org/resource/Serhiy_Fesenko",
+            "http://dbpedia.org/resource/Michael_Klueh"
+        ]
+    ]
+}

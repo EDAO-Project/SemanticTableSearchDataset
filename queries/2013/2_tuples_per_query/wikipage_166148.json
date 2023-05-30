@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Louis_Zutter",
+            "http://dbpedia.org/resource/1896_Summer_Olympics",
+            "http://dbpedia.org/resource/Gymnastics_at_the_1896_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Louis_Zutter",
+            "http://dbpedia.org/resource/1896_Summer_Olympics",
+            "http://dbpedia.org/resource/Gymnastics_at_the_1896_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grambling_State_Tigers",
+            "http://dbpedia.org/resource/Grambling_State_University",
+            "http://dbpedia.org/resource/Grambling,_Louisiana",
+            "http://dbpedia.org/resource/Southwestern_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Louisiana_Tech_Bulldogs_and_Lady_Techsters",
+            "http://dbpedia.org/resource/Louisiana_Tech_University",
+            "http://dbpedia.org/resource/Ruston,_Louisiana",
+            "http://dbpedia.org/resource/Conference_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/LSU_Tigers_and_Lady_Tigers",
+            "http://dbpedia.org/resource/Louisiana_State_University",
+            "http://dbpedia.org/resource/Baton_Rouge,_Louisiana",
+            "http://dbpedia.org/resource/Southeastern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/McNeese_State_Cowboys_and_Cowgirls",
+            "http://dbpedia.org/resource/McNeese_State_University",
+            "http://dbpedia.org/resource/Lake_Charles,_Louisiana",
+            "http://dbpedia.org/resource/Southland_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Orleans_Privateers",
+            "http://dbpedia.org/resource/University_of_New_Orleans",
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/Southland_Conference"
+        ]
+    ]
+}

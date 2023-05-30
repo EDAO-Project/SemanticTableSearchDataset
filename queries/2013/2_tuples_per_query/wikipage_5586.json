@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/KeyArena",
+            "http://dbpedia.org/resource/Fastbacks"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Maple_Leaf_Gardens",
+            "http://dbpedia.org/resource/Fastbacks"
+        ]
+    ]
+}

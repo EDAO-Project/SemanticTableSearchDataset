@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santa_Susanna",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Carlo_Maderno"
+        ],
+        [
+            "http://dbpedia.org/resource/Wallenstein_Palace",
+            "http://dbpedia.org/resource/Prague",
+            "http://dbpedia.org/resource/Giovanni_de_Galliano_Pieroni"
+        ]
+    ]
+}

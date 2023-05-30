@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Teotihuacan",
+            "http://dbpedia.org/resource/State_of_Mexico",
+            "http://dbpedia.org/resource/Valley_of_Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/Oraibi,_Arizona",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Hopi_Reservation"
+        ]
+    ]
+}

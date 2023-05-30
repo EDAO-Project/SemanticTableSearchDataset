@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anne,_Queen_of_Great_Britain",
+            "http://dbpedia.org/resource/Sophia_of_Hanover",
+            "http://dbpedia.org/resource/George_I_of_Great_Britain"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1940_in_film",
+            "http://dbpedia.org/resource/Ernest_Haller",
+            "http://dbpedia.org/resource/All_This,_and_Heaven_Too"
+        ],
+        [
+            "http://dbpedia.org/resource/1940_in_film",
+            "http://dbpedia.org/resource/Charles_Lang",
+            "http://dbpedia.org/resource/Arise,_My_Love"
+        ],
+        [
+            "http://dbpedia.org/resource/1940_in_film",
+            "http://dbpedia.org/resource/Gregg_Toland",
+            "http://dbpedia.org/resource/The_Long_Voyage_Home"
+        ],
+        [
+            "http://dbpedia.org/resource/1940_in_film",
+            "http://dbpedia.org/resource/Joseph_A._Valentine",
+            "http://dbpedia.org/resource/Spring_Parade"
+        ],
+        [
+            "http://dbpedia.org/resource/1940_in_film",
+            "http://dbpedia.org/resource/Leon_Shamroy",
+            "http://dbpedia.org/resource/Down_Argentine_Way"
+        ]
+    ]
+}

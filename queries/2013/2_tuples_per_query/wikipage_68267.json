@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Salazar",
+            "http://dbpedia.org/resource/United_States_Army",
+            "http://dbpedia.org/resource/Catholic_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Connie_Mack_IV",
+            "http://dbpedia.org/resource/Florida_House_of_Representatives",
+            "http://dbpedia.org/resource/Catholic_Church"
+        ]
+    ]
+}

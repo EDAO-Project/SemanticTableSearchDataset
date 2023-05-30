@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Horst_Faas",
+            "http://dbpedia.org/resource/Vietnam_War",
+            "http://dbpedia.org/resource/Associated_Press"
+        ]
+    ]
+}

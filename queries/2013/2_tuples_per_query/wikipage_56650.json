@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_Ford",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Teo_Fabi"
+        ],
+        [
+            "http://dbpedia.org/resource/European_Formula_3_Championship",
+            "http://dbpedia.org/resource/March_Engineering",
+            "http://dbpedia.org/resource/Teo_Fabi"
+        ]
+    ]
+}

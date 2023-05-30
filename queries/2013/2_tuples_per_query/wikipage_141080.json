@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indian_Harbour_Beach,_Florida",
+            "http://dbpedia.org/resource/Melinda_Czink",
+            "http://dbpedia.org/resource/Alison_Riske",
+            "http://dbpedia.org/resource/Laura_Robson",
+            "http://dbpedia.org/resource/Alexa_Glatch"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Harbour_Beach,_Florida",
+            "http://dbpedia.org/resource/Alyona_Sotnikova",
+            "http://dbpedia.org/resource/Christina_Fusano",
+            "http://dbpedia.org/resource/Laura_Robson",
+            "http://dbpedia.org/resource/Alexa_Glatch"
+        ]
+    ]
+}

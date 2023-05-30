@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Subiaco_Oval",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2012_Rugby_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Wellington_Regional_Stadium",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2011_Rugby_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Kings_Park_Stadium",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2011_Tri_Nations_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadium_Australia",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2011_Tri_Nations_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Free_State_Stadium",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/2010_Tri_Nations_Series"
+        ]
+    ]
+}

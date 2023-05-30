@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1999",
+            "http://dbpedia.org/resource/Celine_Dion",
+            "http://dbpedia.org/resource/Brandy_Norwood"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1998",
+            "http://dbpedia.org/resource/Celine_Dion",
+            "http://dbpedia.org/resource/Toni_Braxton"
+        ]
+    ]
+}

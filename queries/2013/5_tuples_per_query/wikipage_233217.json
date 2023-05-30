@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greater_Manchester",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Bury",
+            "http://dbpedia.org/resource/Bury",
+            "http://dbpedia.org/resource/Prestwich"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_Manchester",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Bolton",
+            "http://dbpedia.org/resource/Bolton",
+            "http://dbpedia.org/resource/Blackrod"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_Manchester",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Oldham",
+            "http://dbpedia.org/resource/Oldham",
+            "http://dbpedia.org/resource/Chadderton"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_Manchester",
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Rochdale",
+            "http://dbpedia.org/resource/Rochdale",
+            "http://dbpedia.org/resource/Heywood,_Greater_Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_Manchester",
+            "http://dbpedia.org/resource/City_of_Salford",
+            "http://dbpedia.org/resource/County_Borough_of_Salford",
+            "http://dbpedia.org/resource/Eccles,_Greater_Manchester"
+        ]
+    ]
+}

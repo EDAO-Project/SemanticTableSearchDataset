@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shubhodrishti",
+            "http://dbpedia.org/resource/Jeet_Gannguli",
+            "http://dbpedia.org/resource/Babul_Supriyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Shubhodrishti",
+            "http://dbpedia.org/resource/Jeet_Gannguli",
+            "http://dbpedia.org/resource/Sonu_Nigam"
+        ],
+        [
+            "http://dbpedia.org/resource/Shubhodrishti",
+            "http://dbpedia.org/resource/Jeet_Gannguli",
+            "http://dbpedia.org/resource/Babul_Supriyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuddho",
+            "http://dbpedia.org/resource/Jeet_Gannguli",
+            "http://dbpedia.org/resource/Sonu_Nigam"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuddho",
+            "http://dbpedia.org/resource/Jeet_Gannguli",
+            "http://dbpedia.org/resource/Sonu_Nigam"
+        ]
+    ]
+}

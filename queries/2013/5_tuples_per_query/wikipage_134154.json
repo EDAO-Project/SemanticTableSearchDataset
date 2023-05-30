@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dan_Bartlett",
+            "http://dbpedia.org/resource/Bachelor_of_Arts",
+            "http://dbpedia.org/resource/White_House"
+        ],
+        [
+            "http://dbpedia.org/resource/Esther_Buckley",
+            "http://dbpedia.org/resource/Bachelor_of_Science",
+            "http://dbpedia.org/resource/United_States_Commission_on_Civil_Rights"
+        ],
+        [
+            "http://dbpedia.org/resource/George_C._Butte",
+            "http://dbpedia.org/resource/Master_of_Arts",
+            "http://dbpedia.org/resource/Governor"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Kell_Cahoon",
+            "http://dbpedia.org/resource/Bachelor_of_Science",
+            "http://dbpedia.org/resource/Midland,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Liz_Carpenter",
+            "http://dbpedia.org/resource/Bachelor_of_Journalism",
+            "http://dbpedia.org/resource/Lady_Bird_Johnson"
+        ]
+    ]
+}

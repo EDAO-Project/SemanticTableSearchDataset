@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/HMNB_Portsmouth",
+            "http://dbpedia.org/resource/Portsmouth",
+            "http://dbpedia.org/resource/Majestic-class_battleship"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Armstrong_Whitworth",
+            "http://dbpedia.org/resource/Elswick,_Tyne_and_Wear",
+            "http://dbpedia.org/resource/Swordfish-class_destroyer"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Palmers_Shipbuilding_and_Iron_Company",
+            "http://dbpedia.org/resource/Jarrow",
+            "http://dbpedia.org/resource/Janus-class_destroyer"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland",
+            "http://dbpedia.org/resource/Fairfield_Shipbuilding_and_Engineering_Company",
+            "http://dbpedia.org/resource/Govan",
+            "http://dbpedia.org/resource/Handy-class_destroyer"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Kaiserliche_Werft_Kiel",
+            "http://dbpedia.org/resource/Kiel",
+            "http://dbpedia.org/resource/Odin-class_coastal_defense_ship"
+        ]
+    ]
+}

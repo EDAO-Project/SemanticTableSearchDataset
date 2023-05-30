@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_King,_2nd_Baron_King",
+            "http://dbpedia.org/resource/Sir_Henry_Northcote,_5th_Baronet",
+            "http://dbpedia.org/resource/Earl_of_Lovelace"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Lyon,_8th_Earl_of_Strathmore_and_Kinghorne",
+            "http://dbpedia.org/resource/William_Maule,_1st_Earl_Panmure",
+            "http://dbpedia.org/resource/Earl_of_Strathmore_and_Kinghorne"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Fortescue",
+            "http://dbpedia.org/resource/Gustavus_Hamilton,_2nd_Viscount_Boyne",
+            "http://dbpedia.org/resource/Baron_of_the_Exchequer"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Fergusson,_Lord_Kilkerran",
+            "http://dbpedia.org/resource/James_St_Clair",
+            "http://dbpedia.org/resource/Senator_of_the_College_of_Justice"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Talbot,_1st_Earl_Talbot",
+            "http://dbpedia.org/resource/Bussy_Mansel,_4th_Baron_Mansel",
+            "http://dbpedia.org/resource/Baron_Talbot"
+        ]
+    ]
+}

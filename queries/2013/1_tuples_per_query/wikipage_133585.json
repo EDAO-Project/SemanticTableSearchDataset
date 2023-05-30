@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_British_Academy_Television_Craft_Awards",
+            "http://dbpedia.org/resource/City_of_Westminster",
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Gabby_Logan"
+        ]
+    ]
+}

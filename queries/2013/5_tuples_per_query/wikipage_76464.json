@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Morgan_Stanley",
+            "http://dbpedia.org/resource/List_of_trading_losses"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/JPMorgan_Chase",
+            "http://dbpedia.org/resource/2012_JPMorgan_Chase_trading_loss"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Long-Term_Capital_Management",
+            "http://dbpedia.org/resource/John_Meriwether"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Sumitomo_Corporation",
+            "http://dbpedia.org/resource/Yasuo_Hamanaka"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/UBS",
+            "http://dbpedia.org/resource/Kweku_Adoboli"
+        ]
+    ]
+}

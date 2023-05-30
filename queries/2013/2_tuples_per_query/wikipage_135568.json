@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albay",
+            "http://dbpedia.org/resource/Legislative_districts_of_Albay",
+            "http://dbpedia.org/resource/Edcel_Lagman",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Albay",
+            "http://dbpedia.org/resource/Legislative_districts_of_Albay",
+            "http://dbpedia.org/resource/Al_Francis_Bichara",
+            "http://dbpedia.org/resource/Nacionalista_Party"
+        ]
+    ]
+}

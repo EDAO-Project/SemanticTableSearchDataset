@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_Asian_Games",
+            "http://dbpedia.org/resource/Cycling_at_the_1951_Asian_Games",
+            "http://dbpedia.org/resource/New_Delhi",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_Asian_Games",
+            "http://dbpedia.org/resource/Cycling_at_the_1962_Asian_Games",
+            "http://dbpedia.org/resource/Jakarta",
+            "http://dbpedia.org/resource/Indonesia"
+        ]
+    ]
+}

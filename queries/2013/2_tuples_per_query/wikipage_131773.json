@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/J_Golf_Phoenix_LPGA_International",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Rachel_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/Office_Depot_Championship",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Pak_Se-ri"
+        ]
+    ]
+}

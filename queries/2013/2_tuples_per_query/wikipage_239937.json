@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Jeff_Suppan",
+            "http://dbpedia.org/resource/Zach_Duke",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_Nationals",
+            "http://dbpedia.org/resource/Chris_Capuano",
+            "http://dbpedia.org/resource/Matt_Chico",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ]
+    ]
+}

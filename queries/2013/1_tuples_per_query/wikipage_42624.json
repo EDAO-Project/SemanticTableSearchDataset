@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sinbad:_Legend_of_the_Seven_Seas",
+            "http://dbpedia.org/resource/DreamWorks_Animation",
+            "http://dbpedia.org/resource/Brad_Pitt"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Milwaukee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Rave_/_Eagles_Club"
+        ]
+    ]
+}

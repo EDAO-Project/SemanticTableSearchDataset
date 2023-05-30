@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfred_State_College",
+            "http://dbpedia.org/resource/Alfred,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/NCAA_Division_III"
+        ],
+        [
+            "http://dbpedia.org/resource/Ave_Maria_University",
+            "http://dbpedia.org/resource/Ave_Maria,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/The_Sun_Conference"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_Norwegian_First_Division",
+            "http://dbpedia.org/resource/SK_Brann",
+            "http://dbpedia.org/resource/Lyn_Fotball",
+            "http://dbpedia.org/resource/Skeid_Fotball",
+            "http://dbpedia.org/resource/Oddvar_Hansen"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Norwegian_First_Division",
+            "http://dbpedia.org/resource/Lyn_Fotball",
+            "http://dbpedia.org/resource/Rosenborg_BK",
+            "http://dbpedia.org/resource/Viking_FK",
+            "http://dbpedia.org/resource/Knut_Osnes"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Norwegian_First_Division",
+            "http://dbpedia.org/resource/Rosenborg_BK",
+            "http://dbpedia.org/resource/Lyn_Fotball",
+            "http://dbpedia.org/resource/Viking_FK",
+            "http://dbpedia.org/resource/Nils_Arne_Eggen"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Norwegian_First_Division",
+            "http://dbpedia.org/resource/Viking_FK",
+            "http://dbpedia.org/resource/Rosenborg_BK",
+            "http://dbpedia.org/resource/IK_Start",
+            "http://dbpedia.org/resource/Sverre_Andersen"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Norwegian_First_Division",
+            "http://dbpedia.org/resource/Viking_FK",
+            "http://dbpedia.org/resource/SK_Brann",
+            "http://dbpedia.org/resource/IK_Start",
+            "http://dbpedia.org/resource/Olav_Nilsen"
+        ]
+    ]
+}

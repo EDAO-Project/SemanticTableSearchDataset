@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Florian_Mayer",
+            "http://dbpedia.org/resource/Mikhail_Youzhny",
+            "http://dbpedia.org/resource/David_Ferrer",
+            "http://dbpedia.org/resource/Philipp_Kohlschreiber"
+        ],
+        [
+            "http://dbpedia.org/resource/Viktor_Troicki",
+            "http://dbpedia.org/resource/Richard_Gasquet",
+            "http://dbpedia.org/resource/Xavier_Malisse",
+            "http://dbpedia.org/resource/Denis_Istomin"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Roddick",
+            "http://dbpedia.org/resource/Kei_Nishikori",
+            "http://dbpedia.org/resource/Sam_Querrey",
+            "http://dbpedia.org/resource/Marcos_Baghdatis"
+        ],
+        [
+            "http://dbpedia.org/resource/Guillaume_Rufin",
+            "http://dbpedia.org/resource/Ruben_Bemelmans",
+            "http://dbpedia.org/resource/Philipp_Petzschner",
+            "http://dbpedia.org/resource/Ernests_Gulbis"
+        ],
+        [
+            "http://dbpedia.org/resource/Jarkko_Nieminen",
+            "http://dbpedia.org/resource/Alexandr_Dolgopolov",
+            "http://dbpedia.org/resource/Malek_Jaziri",
+            "http://dbpedia.org/resource/Rafael_Nadal"
+        ]
+    ]
+}

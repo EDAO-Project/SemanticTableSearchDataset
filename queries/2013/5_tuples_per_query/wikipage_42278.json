@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Choi_Sang-kook",
+            "http://dbpedia.org/resource/Pohang_Steelers",
+            "http://dbpedia.org/resource/Dongdaemun_Stadium",
+            "http://dbpedia.org/resource/Jeju_United_FC",
+            "http://dbpedia.org/resource/K_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Heung-sil",
+            "http://dbpedia.org/resource/Pohang_Steelers",
+            "http://dbpedia.org/resource/Dongdaemun_Stadium",
+            "http://dbpedia.org/resource/Seongnam_FC",
+            "http://dbpedia.org/resource/K_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Kang_Deuk-soo",
+            "http://dbpedia.org/resource/FC_Seoul",
+            "http://dbpedia.org/resource/Seoul_Olympic_Stadium",
+            "http://dbpedia.org/resource/Seongnam_FC",
+            "http://dbpedia.org/resource/K_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Tae-ho",
+            "http://dbpedia.org/resource/Busan_IPark",
+            "http://dbpedia.org/resource/Busan_Gudeok_Stadium",
+            "http://dbpedia.org/resource/Pohang_Steelers",
+            "http://dbpedia.org/resource/K_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Ko_Jeong-woon",
+            "http://dbpedia.org/resource/Seongnam_FC",
+            "http://dbpedia.org/resource/Chuncheon_Civic_Stadium",
+            "http://dbpedia.org/resource/FC_Seoul",
+            "http://dbpedia.org/resource/Korean_League_Cup"
+        ]
+    ]
+}

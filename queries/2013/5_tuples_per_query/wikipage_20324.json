@@ -1,0 +1,32 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamilton_County,_Ohio",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/Brent_Spence_Bridge",
+            "http://dbpedia.org/resource/Brent_Spence_Bridge",
+            "http://dbpedia.org/resource/Brent_Spence_Bridge",
+            "http://dbpedia.org/resource/Brent_Spence_Bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamilton_County,_Ohio",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/U.S._Route_22"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamilton_County,_Ohio",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/U.S._Route_127"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamilton_County,_Ohio",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/St._Bernard,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamilton_County,_Ohio",
+            "http://dbpedia.org/resource/Cincinnati",
+            "http://dbpedia.org/resource/Elmwood_Place,_Ohio"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Comerica_Theatre",
+            "http://dbpedia.org/resource/Megadeth"
+        ]
+    ]
+}

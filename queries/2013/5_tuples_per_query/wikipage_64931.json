@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Friesland",
+            "http://dbpedia.org/resource/Zurich,_Friesland",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Friesland",
+            "http://dbpedia.org/resource/Harlingen,_Friesland",
+            "http://dbpedia.org/resource/Midlum"
+        ],
+        [
+            "http://dbpedia.org/resource/Friesland",
+            "http://dbpedia.org/resource/Franekeradeel",
+            "http://dbpedia.org/resource/Franeker"
+        ],
+        [
+            "http://dbpedia.org/resource/Friesland",
+            "http://dbpedia.org/resource/Menameradiel",
+            "http://dbpedia.org/resource/Dronrijp"
+        ],
+        [
+            "http://dbpedia.org/resource/Friesland",
+            "http://dbpedia.org/resource/Menameradiel",
+            "http://dbpedia.org/resource/Marssum"
+        ]
+    ]
+}

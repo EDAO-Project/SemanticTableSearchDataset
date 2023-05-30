@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Asad_Rauf",
+            "http://dbpedia.org/resource/Pakistan",
+            "http://dbpedia.org/resource/Elite_Panel_of_ICC_Umpires"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Bowden",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Elite_Panel_of_ICC_Umpires"
+        ]
+    ]
+}

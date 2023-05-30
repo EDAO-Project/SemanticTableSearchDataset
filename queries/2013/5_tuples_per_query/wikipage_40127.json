@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russky_Bridge",
+            "http://dbpedia.org/resource/Vladivostok",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Sutong_Yangtze_River_Bridge",
+            "http://dbpedia.org/resource/Suzhou",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Stonecutters_Bridge",
+            "http://dbpedia.org/resource/Rambler_Channel",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ],
+        [
+            "http://dbpedia.org/resource/Edong_Yangtze_River_Bridge",
+            "http://dbpedia.org/resource/Huangshi",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Tatara_Bridge",
+            "http://dbpedia.org/resource/Seto_Inland_Sea",
+            "http://dbpedia.org/resource/Japan"
+        ]
+    ]
+}

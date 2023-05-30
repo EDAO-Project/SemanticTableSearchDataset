@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santo_Domingo",
+            "http://dbpedia.org/resource/Dominican_Republic",
+            "http://dbpedia.org/resource/Estadio_Quisqueya"
+        ],
+        [
+            "http://dbpedia.org/resource/Guatemala_City",
+            "http://dbpedia.org/resource/Guatemala",
+            "http://dbpedia.org/resource/Estadio_Mateo_Flores"
+        ]
+    ]
+}

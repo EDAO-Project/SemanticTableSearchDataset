@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin",
+            "http://dbpedia.org/resource/Tom_Penders",
+            "http://dbpedia.org/resource/University_of_Louisville"
+        ]
+    ]
+}

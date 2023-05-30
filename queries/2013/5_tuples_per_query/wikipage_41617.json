@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WMBV",
+            "http://dbpedia.org/resource/Dixons_Mills,_Alabama",
+            "http://dbpedia.org/resource/Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/WRNF",
+            "http://dbpedia.org/resource/Selma,_Alabama",
+            "http://dbpedia.org/resource/Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/WMFT",
+            "http://dbpedia.org/resource/Tuscaloosa,_Alabama",
+            "http://dbpedia.org/resource/Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/WKES",
+            "http://dbpedia.org/resource/Crystal_River,_Florida",
+            "http://dbpedia.org/resource/Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/WKES",
+            "http://dbpedia.org/resource/Lakeland,_Florida",
+            "http://dbpedia.org/resource/Florida"
+        ]
+    ]
+}

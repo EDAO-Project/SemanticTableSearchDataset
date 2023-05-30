@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berstett",
+            "http://dbpedia.org/resource/Bietlenheim",
+            "http://dbpedia.org/resource/Bilwisheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Bischheim,_Bas-Rhin",
+            "http://dbpedia.org/resource/Blaesheim",
+            "http://dbpedia.org/resource/Bossendorf"
+        ]
+    ]
+}

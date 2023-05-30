@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carl_Lewis",
+            "http://dbpedia.org/resource/Leroy_Burrell",
+            "http://dbpedia.org/resource/Dennis_Mitchell"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Pettigrew",
+            "http://dbpedia.org/resource/Roger_Black",
+            "http://dbpedia.org/resource/Danny_Everett"
+        ]
+    ]
+}

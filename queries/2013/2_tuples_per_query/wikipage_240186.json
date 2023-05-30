@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1946_Pittsburgh_Steelers_season",
+            "http://dbpedia.org/resource/1946_NFL_season",
+            "http://dbpedia.org/resource/Bill_Dudley"
+        ],
+        [
+            "http://dbpedia.org/resource/1947_Pittsburgh_Steelers_season",
+            "http://dbpedia.org/resource/1947_NFL_season",
+            "http://dbpedia.org/resource/1947_Philadelphia_Eagles_season"
+        ]
+    ]
+}

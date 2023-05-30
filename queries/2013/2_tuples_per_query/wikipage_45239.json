@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eastwood_Park_Bridge",
+            "http://dbpedia.org/resource/Minot,_North_Dakota",
+            "http://dbpedia.org/resource/Ward_County,_North_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/Elliott_Bridge",
+            "http://dbpedia.org/resource/Towner,_North_Dakota",
+            "http://dbpedia.org/resource/McHenry_County,_North_Dakota"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Ivie",
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Decatur,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Dunning",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Stanford_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Barry_Foote",
+            "http://dbpedia.org/resource/Montreal_Expos",
+            "http://dbpedia.org/resource/Smithfield,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Darrell_Porter",
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Oklahoma_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Bucky_Dent",
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Miami_Dade_College"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Yuri_Gagarin",
+            "http://dbpedia.org/resource/Vostok_1"
+        ]
+    ]
+}

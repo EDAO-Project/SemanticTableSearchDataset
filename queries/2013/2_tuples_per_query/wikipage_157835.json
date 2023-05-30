@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2nd_Saskatchewan_Legislature",
+            "http://dbpedia.org/resource/Saskatchewan_general_election,_1908",
+            "http://dbpedia.org/resource/Saskatchewan_Liberal_Party",
+            "http://dbpedia.org/resource/Thomas_Walter_Scott",
+            "http://dbpedia.org/resource/Provincial_Rights_Party",
+            "http://dbpedia.org/resource/William_Charles_Sutherland"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_Saskatchewan_Legislature",
+            "http://dbpedia.org/resource/Saskatchewan_general_election,_1912",
+            "http://dbpedia.org/resource/Saskatchewan_Liberal_Party",
+            "http://dbpedia.org/resource/Thomas_Walter_Scott",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan",
+            "http://dbpedia.org/resource/John_Albert_Sheppard"
+        ]
+    ]
+}

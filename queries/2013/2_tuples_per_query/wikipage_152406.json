@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ray_Jablonski",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Jackson",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Winning_percentage"
+        ]
+    ]
+}

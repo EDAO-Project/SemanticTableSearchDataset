@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1927_college_football_season",
+            "http://dbpedia.org/resource/Rags_Matthews",
+            "http://dbpedia.org/resource/Fort_Worth,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/1929_college_football_season",
+            "http://dbpedia.org/resource/Mike_Brumbelow",
+            "http://dbpedia.org/resource/Jacksboro,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/1935_college_football_season",
+            "http://dbpedia.org/resource/Sammy_Baugh",
+            "http://dbpedia.org/resource/Sweetwater,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/1937_college_football_season",
+            "http://dbpedia.org/resource/Ki_Aldrich",
+            "http://dbpedia.org/resource/Temple,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/1938_college_football_season",
+            "http://dbpedia.org/resource/Ki_Aldrich",
+            "http://dbpedia.org/resource/Temple,_Texas"
+        ]
+    ]
+}

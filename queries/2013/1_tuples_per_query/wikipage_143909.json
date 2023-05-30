@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Zealand_Breakers",
+            "http://dbpedia.org/resource/Perth_Wildcats",
+            "http://dbpedia.org/resource/Vector_Arena"
+        ]
+    ]
+}

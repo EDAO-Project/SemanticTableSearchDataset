@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fukuoka_SoftBank_Hawks",
+            "http://dbpedia.org/resource/D._J._Houlton",
+            "http://dbpedia.org/resource/Yoshinori_Tateyama",
+            "http://dbpedia.org/resource/Takahiro_Mahara"
+        ],
+        [
+            "http://dbpedia.org/resource/Saitama_Seibu_Lions",
+            "http://dbpedia.org/resource/Kazuhisa_Ishii",
+            "http://dbpedia.org/resource/Kazumasa_Kikuchi",
+            "http://dbpedia.org/resource/Chikara_Onodera"
+        ],
+        [
+            "http://dbpedia.org/resource/Tohoku_Rakuten_Golden_Eagles",
+            "http://dbpedia.org/resource/Masahiro_Tanaka",
+            "http://dbpedia.org/resource/Yu_Darvish",
+            "http://dbpedia.org/resource/Marcus_Gwyn"
+        ],
+        [
+            "http://dbpedia.org/resource/Tohoku_Rakuten_Golden_Eagles",
+            "http://dbpedia.org/resource/Shugo_Fujii",
+            "http://dbpedia.org/resource/Satoshi_Nagai",
+            "http://dbpedia.org/resource/Hisashi_Takeda"
+        ],
+        [
+            "http://dbpedia.org/resource/Tohoku_Rakuten_Golden_Eagles",
+            "http://dbpedia.org/resource/Masaru_Takeda",
+            "http://dbpedia.org/resource/Kohei_Hasebe",
+            "http://dbpedia.org/resource/Hisashi_Takeda"
+        ]
+    ]
+}

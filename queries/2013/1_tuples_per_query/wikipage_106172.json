@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_in_architecture",
+            "http://dbpedia.org/resource/Taliesin_West",
+            "http://dbpedia.org/resource/Frank_Lloyd_Wright"
+        ]
+    ]
+}

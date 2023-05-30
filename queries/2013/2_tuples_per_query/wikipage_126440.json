@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Warren_Austin",
+            "http://dbpedia.org/resource/United_States_Ambassador_to_the_United_Nations",
+            "http://dbpedia.org/resource/Vermont",
+            "http://dbpedia.org/resource/United_States_Court_for_China"
+        ],
+        [
+            "http://dbpedia.org/resource/James_L._Buckley",
+            "http://dbpedia.org/resource/Radio_Free_Europe/Radio_Liberty",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grand_Prix_motor_racing",
+            "http://dbpedia.org/resource/Straight-eight_engine",
+            "http://dbpedia.org/resource/Diatto"
+        ],
+        [
+            "http://dbpedia.org/resource/Maserati_8C",
+            "http://dbpedia.org/resource/Grand_Prix_motor_racing",
+            "http://dbpedia.org/resource/Straight-eight_engine"
+        ]
+    ]
+}

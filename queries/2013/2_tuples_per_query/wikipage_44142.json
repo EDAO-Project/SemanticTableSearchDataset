@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Luke_Sellars",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Rob_Zepp",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

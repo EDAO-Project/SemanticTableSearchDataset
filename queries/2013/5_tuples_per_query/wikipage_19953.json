@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/EC_Red_Bull_Salzburg",
+            "http://dbpedia.org/resource/Salzburg",
+            "http://dbpedia.org/resource/Eisarena_Salzburg"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Kometa_Brno",
+            "http://dbpedia.org/resource/Brno",
+            "http://dbpedia.org/resource/DRFG_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/KalPa",
+            "http://dbpedia.org/resource/Kuopio",
+            "http://dbpedia.org/resource/Niiralan_monttu"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Slovan_Bratislava",
+            "http://dbpedia.org/resource/Bratislava",
+            "http://dbpedia.org/resource/Ondrej_Nepela_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Vienna_Capitals",
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Albert_Schultz_Eishalle"
+        ]
+    ]
+}

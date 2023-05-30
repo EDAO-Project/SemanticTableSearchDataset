@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A-Tisket,_A-Tasket",
+            "http://dbpedia.org/resource/Chick_Webb",
+            "http://dbpedia.org/resource/Decca_Records",
+            "http://dbpedia.org/resource/Jazz"
+        ]
+    ]
+}

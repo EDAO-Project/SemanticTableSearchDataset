@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Hancock",
+            "http://dbpedia.org/resource/Thomas_Cushing",
+            "http://dbpedia.org/resource/Gout"
+        ]
+    ]
+}

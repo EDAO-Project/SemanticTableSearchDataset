@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sea_Legends",
+            "http://dbpedia.org/resource/Ocean_Software",
+            "http://dbpedia.org/resource/GTE_Interactive_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/Sensible_Golf",
+            "http://dbpedia.org/resource/Sensible_Software",
+            "http://dbpedia.org/resource/Virgin_Interactive"
+        ],
+        [
+            "http://dbpedia.org/resource/Sensible_Soccer",
+            "http://dbpedia.org/resource/Sensible_Software",
+            "http://dbpedia.org/resource/Renegade_Software"
+        ],
+        [
+            "http://dbpedia.org/resource/Sensible_World_of_Soccer",
+            "http://dbpedia.org/resource/Sensible_Software",
+            "http://dbpedia.org/resource/Renegade_Software"
+        ],
+        [
+            "http://dbpedia.org/resource/Sensible_Soccer",
+            "http://dbpedia.org/resource/Sensible_Software",
+            "http://dbpedia.org/resource/Renegade_Software"
+        ]
+    ]
+}

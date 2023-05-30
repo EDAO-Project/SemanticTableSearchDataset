@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_Formula_One_season",
+            "http://dbpedia.org/resource/Alain_Prost",
+            "http://dbpedia.org/resource/Williams_Grand_Prix_Engineering",
+            "http://dbpedia.org/resource/Kyalami",
+            "http://dbpedia.org/resource/1993_South_African_Grand_Prix"
+        ]
+    ]
+}

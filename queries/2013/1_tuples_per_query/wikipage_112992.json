@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pat_Ragan",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Earned_run_average"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auquainville",
+            "http://dbpedia.org/resource/Auvillars",
+            "http://dbpedia.org/resource/Barneville-la-Bertran",
+            "http://dbpedia.org/resource/Basseneville"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaufour-Druval",
+            "http://dbpedia.org/resource/Beaumont-en-Auge",
+            "http://dbpedia.org/resource/Bellou",
+            "http://dbpedia.org/resource/Benerville-sur-Mer"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonneville-la-Louvet",
+            "http://dbpedia.org/resource/Bonneville-sur-Touques",
+            "http://dbpedia.org/resource/Bourgeauville",
+            "http://dbpedia.org/resource/Branville"
+        ],
+        [
+            "http://dbpedia.org/resource/Bretteville-sur-Dives",
+            "http://dbpedia.org/resource/Brucourt",
+            "http://dbpedia.org/resource/Cambremer",
+            "http://dbpedia.org/resource/Canapville,_Calvados"
+        ],
+        [
+            "http://dbpedia.org/resource/Castillon-en-Auge",
+            "http://dbpedia.org/resource/Cernay,_Calvados",
+            "http://dbpedia.org/resource/Cerqueux",
+            "http://dbpedia.org/resource/Cheffreville-Tonnencourt"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Bury",
+            "http://dbpedia.org/resource/Metropolitan_borough",
+            "http://dbpedia.org/resource/Greater_Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/City_of_Salford",
+            "http://dbpedia.org/resource/Metropolitan_borough",
+            "http://dbpedia.org/resource/Greater_Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Borough_of_Barnet",
+            "http://dbpedia.org/resource/London_boroughs",
+            "http://dbpedia.org/resource/Greater_London"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Borough_of_Croydon",
+            "http://dbpedia.org/resource/London_boroughs",
+            "http://dbpedia.org/resource/Greater_London"
+        ],
+        [
+            "http://dbpedia.org/resource/Metropolitan_Borough_of_Knowsley",
+            "http://dbpedia.org/resource/Metropolitan_borough",
+            "http://dbpedia.org/resource/Merseyside"
+        ]
+    ]
+}

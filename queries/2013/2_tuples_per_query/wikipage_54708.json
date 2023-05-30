@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/J._R._Richard",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Ruston,_Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Randy_Sterling",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Key_West,_Florida"
+        ]
+    ]
+}

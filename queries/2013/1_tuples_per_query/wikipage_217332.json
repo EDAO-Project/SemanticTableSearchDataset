@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Handball_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Germany_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Austria_at_the_1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Switzerland_at_the_1936_Summer_Olympics"
+        ]
+    ]
+}

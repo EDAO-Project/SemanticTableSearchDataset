@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saul_Bellow",
+            "http://dbpedia.org/resource/Nobel_Prize_in_Literature",
+            "http://dbpedia.org/resource/Humboldt_Park,_Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Subrahmanyan_Chandrasekhar",
+            "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+            "http://dbpedia.org/resource/University_of_Chicago"
+        ]
+    ]
+}

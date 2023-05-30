@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Copenhagen_Amber_Museum",
+            "http://dbpedia.org/resource/Nyhavn",
+            "http://dbpedia.org/resource/Copenhagen_Municipality",
+            "http://dbpedia.org/resource/Amber"
+        ],
+        [
+            "http://dbpedia.org/resource/Copenhagen_Zoo",
+            "http://dbpedia.org/resource/Frederiksberg",
+            "http://dbpedia.org/resource/Frederiksberg_Municipality",
+            "http://dbpedia.org/resource/Norman_Foster,_Baron_Foster_of_Thames_Bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Danish_Jewish_Museum",
+            "http://dbpedia.org/resource/Slotsholmen",
+            "http://dbpedia.org/resource/Copenhagen_Municipality",
+            "http://dbpedia.org/resource/Royal_Library,_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/DieselHouse",
+            "http://dbpedia.org/resource/Kongens_Enghave",
+            "http://dbpedia.org/resource/Copenhagen_Municipality",
+            "http://dbpedia.org/resource/Diesel_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/J.F._Willumsens_Museum",
+            "http://dbpedia.org/resource/Frederikssund",
+            "http://dbpedia.org/resource/Frederikssund_Municipality",
+            "http://dbpedia.org/resource/Jens_Ferdinand_Willumsen"
+        ]
+    ]
+}

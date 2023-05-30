@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michele_Scarponi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Lampre-Merida"
+        ],
+        [
+            "http://dbpedia.org/resource/Damiano_Cunego",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Lampre-Merida"
+        ],
+        [
+            "http://dbpedia.org/resource/Diego_Ulissi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Lampre-Merida"
+        ],
+        [
+            "http://dbpedia.org/resource/Matteo_Bono",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Lampre-Merida"
+        ],
+        [
+            "http://dbpedia.org/resource/Adriano_Malori",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Lampre-Merida"
+        ]
+    ]
+}

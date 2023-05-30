@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Choi_Minho",
+            "http://dbpedia.org/resource/Craig_Fallon",
+            "http://dbpedia.org/resource/Tadahiro_Nomura"
+        ],
+        [
+            "http://dbpedia.org/resource/Choi_Minho",
+            "http://dbpedia.org/resource/Craig_Fallon",
+            "http://dbpedia.org/resource/Anis_Lounifi"
+        ],
+        [
+            "http://dbpedia.org/resource/Arash_Miresmaeili",
+            "http://dbpedia.org/resource/Larbi_Benboudaoud",
+            "http://dbpedia.org/resource/Yordanis_Arencibia"
+        ],
+        [
+            "http://dbpedia.org/resource/Arash_Miresmaeili",
+            "http://dbpedia.org/resource/Larbi_Benboudaoud",
+            "http://dbpedia.org/resource/Magomed_Dzhafarov"
+        ],
+        [
+            "http://dbpedia.org/resource/Florian_Wanner",
+            "http://dbpedia.org/resource/Sergei_Aschwanden",
+            "http://dbpedia.org/resource/Robert_Krawczyk"
+        ]
+    ]
+}

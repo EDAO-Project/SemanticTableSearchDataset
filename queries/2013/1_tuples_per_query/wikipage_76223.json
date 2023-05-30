@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_WNBA_All-Star_Game",
+            "http://dbpedia.org/resource/Lisa_Leslie",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Los_Angeles_Sparks"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Intel_Xeon_chipsets",
+            "http://dbpedia.org/resource/Xeon",
+            "http://dbpedia.org/resource/Blackford"
+        ],
+        [
+            "http://dbpedia.org/resource/Xeon",
+            "http://dbpedia.org/resource/Pentium_III",
+            "http://dbpedia.org/resource/Cascade_Range"
+        ]
+    ]
+}

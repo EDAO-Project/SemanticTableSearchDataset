@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alejandro_Diaz",
+            "http://dbpedia.org/resource/Hiroshima_Toyo_Carp",
+            "http://dbpedia.org/resource/Cincinnati_Reds"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/New_Flemish_Alliance",
+            "http://dbpedia.org/resource/Flanders"
+        ]
+    ]
+}

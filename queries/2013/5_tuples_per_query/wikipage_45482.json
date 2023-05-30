@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Payao_Poontarat",
+            "http://dbpedia.org/resource/1976_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Dhawee_Umponmaha",
+            "http://dbpedia.org/resource/1984_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1984_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Phajol_Moolsan",
+            "http://dbpedia.org/resource/1988_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1988_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkhom_Chenglai",
+            "http://dbpedia.org/resource/1992_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1992_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Somluck_Kamsing",
+            "http://dbpedia.org/resource/1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Boxing_at_the_1996_Summer_Olympics"
+        ]
+    ]
+}

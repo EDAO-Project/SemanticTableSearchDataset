@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Innsbruck",
+            "http://dbpedia.org/resource/Herma_Szabo",
+            "http://dbpedia.org/resource/Melitta_Brunner",
+            "http://dbpedia.org/resource/Fritzi_Burger"
+        ]
+    ]
+}

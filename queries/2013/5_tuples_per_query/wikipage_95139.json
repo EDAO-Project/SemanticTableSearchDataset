@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mol,_Belgium",
+            "http://dbpedia.org/resource/Klaas_Vantornout",
+            "http://dbpedia.org/resource/Sven_Nys",
+            "http://dbpedia.org/resource/Kevin_Pauwels"
+        ],
+        [
+            "http://dbpedia.org/resource/Hooglede",
+            "http://dbpedia.org/resource/Sven_Nys",
+            "http://dbpedia.org/resource/Niels_Albert",
+            "http://dbpedia.org/resource/Rob_Peeters"
+        ],
+        [
+            "http://dbpedia.org/resource/Antwerp",
+            "http://dbpedia.org/resource/Niels_Albert",
+            "http://dbpedia.org/resource/Bart_Wellens",
+            "http://dbpedia.org/resource/Kevin_Pauwels"
+        ],
+        [
+            "http://dbpedia.org/resource/Oostmalle",
+            "http://dbpedia.org/resource/Sven_Nys",
+            "http://dbpedia.org/resource/Klaas_Vantornout",
+            "http://dbpedia.org/resource/Tom_Meeusen"
+        ],
+        [
+            "http://dbpedia.org/resource/Oostkamp",
+            "http://dbpedia.org/resource/Sven_Nys",
+            "http://dbpedia.org/resource/Niels_Albert",
+            "http://dbpedia.org/resource/Kevin_Pauwels"
+        ]
+    ]
+}

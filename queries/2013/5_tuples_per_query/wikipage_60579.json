@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miroslav_Kadlec",
+            "http://dbpedia.org/resource/Turkey_national_football_team",
+            "http://dbpedia.org/resource/Spain_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Pavel_Kuka",
+            "http://dbpedia.org/resource/Turkey_national_football_team",
+            "http://dbpedia.org/resource/Malta_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Petr_Samec",
+            "http://dbpedia.org/resource/Turkey_national_football_team",
+            "http://dbpedia.org/resource/Norway_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Horst_Siegl",
+            "http://dbpedia.org/resource/Turkey_national_football_team",
+            "http://dbpedia.org/resource/South_Korea_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Stejskal",
+            "http://dbpedia.org/resource/Turkey_national_football_team",
+            "http://dbpedia.org/resource/Lithuania_national_football_team"
+        ]
+    ]
+}

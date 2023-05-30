@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mary_Reynolds",
+            "http://dbpedia.org/resource/Irish_general_election,_1932",
+            "http://dbpedia.org/resource/Cumann_na_nGaedheal"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridget_Redmond",
+            "http://dbpedia.org/resource/Irish_general_election,_1933",
+            "http://dbpedia.org/resource/Cumann_na_nGaedheal"
+        ]
+    ]
+}

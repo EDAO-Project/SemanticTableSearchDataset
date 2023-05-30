@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Santo_Tomas_Faculties_of_Ecclesiastical_Studies",
+            "http://dbpedia.org/resource/Holy_Chalice",
+            "http://dbpedia.org/resource/Thomas_Aquinas"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Santo_Tomas_Faculties_of_Ecclesiastical_Studies",
+            "http://dbpedia.org/resource/Owl_of_Athena",
+            "http://dbpedia.org/resource/Catherine_of_Alexandria"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Santo_Tomas_Faculties_of_Ecclesiastical_Studies",
+            "http://dbpedia.org/resource/Keys_of_Heaven",
+            "http://dbpedia.org/resource/Raymond_of_Penyafort"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Santo_Tomas_Faculty_of_Civil_Law",
+            "http://dbpedia.org/resource/Weighing_scale",
+            "http://dbpedia.org/resource/Raymond_of_Penyafort"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Santo_Tomas_Faculty_of_Medicine_and_Surgery",
+            "http://dbpedia.org/resource/Rod_of_Asclepius",
+            "http://dbpedia.org/resource/Saints_Cosmas_and_Damian"
+        ]
+    ]
+}

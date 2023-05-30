@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miralem_Sulejmani",
+            "http://dbpedia.org/resource/AFC_Ajax",
+            "http://dbpedia.org/resource/S.L._Benfica"
+        ],
+        [
+            "http://dbpedia.org/resource/Rafael_Porcellis",
+            "http://dbpedia.org/resource/C.D._Santa_Clara",
+            "http://dbpedia.org/resource/S.C._Braga"
+        ]
+    ]
+}

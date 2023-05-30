@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mehdi_Pashazadeh",
+            "http://dbpedia.org/resource/Levon_Stepanyan",
+            "http://dbpedia.org/resource/Nasser_Hejazi",
+            "http://dbpedia.org/resource/Rasoul_Korbekandi"
+        ],
+        [
+            "http://dbpedia.org/resource/Farhad_Majidi",
+            "http://dbpedia.org/resource/Ahmad_Momenzadeh",
+            "http://dbpedia.org/resource/Javad_Zarincheh",
+            "http://dbpedia.org/resource/Mehdi_Monajati"
+        ]
+    ]
+}

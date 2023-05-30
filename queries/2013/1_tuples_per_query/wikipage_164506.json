@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Bob_Rule",
+            "http://dbpedia.org/resource/KeyArena"
+        ]
+    ]
+}

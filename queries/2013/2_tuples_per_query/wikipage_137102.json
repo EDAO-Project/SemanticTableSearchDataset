@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gina_Gershon",
+            "http://dbpedia.org/resource/Catwoman",
+            "http://dbpedia.org/resource/List_of_The_Batman_episodes"
+        ],
+        [
+            "http://dbpedia.org/resource/Wallace_Langham",
+            "http://dbpedia.org/resource/Golden_Age_of_Comic_Books",
+            "http://dbpedia.org/resource/List_of_The_Batman_episodes"
+        ]
+    ]
+}

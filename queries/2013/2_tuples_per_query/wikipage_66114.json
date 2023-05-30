@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cagliari",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Cagliari_Elmas_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Ibiza",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Ibiza_Airport"
+        ]
+    ]
+}

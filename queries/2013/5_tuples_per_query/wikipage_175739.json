@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1947_college_football_season",
+            "http://dbpedia.org/resource/Joe_Steffy",
+            "http://dbpedia.org/resource/United_States_Military_Academy"
+        ],
+        [
+            "http://dbpedia.org/resource/1949_college_football_season",
+            "http://dbpedia.org/resource/Ed_Bagdon",
+            "http://dbpedia.org/resource/Michigan_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_college_football_season",
+            "http://dbpedia.org/resource/Bob_Gain",
+            "http://dbpedia.org/resource/University_of_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_college_football_season",
+            "http://dbpedia.org/resource/Jim_Weatherall",
+            "http://dbpedia.org/resource/University_of_Oklahoma"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_college_football_season",
+            "http://dbpedia.org/resource/Dick_Modzelewski",
+            "http://dbpedia.org/resource/University_of_Maryland,_College_Park"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alenia_C-27J_Spartan",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Military_transport_aircraft"
+        ]
+    ]
+}

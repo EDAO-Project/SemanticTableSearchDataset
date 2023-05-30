@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Peter_Norman",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Athletics_at_the_1968_Summer_Olympics",
+            "http://dbpedia.org/resource/Mexico_City"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Darren_Clark",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Athletics_at_the_1988_Summer_Olympics",
+            "http://dbpedia.org/resource/Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Nick_Willis",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/Herculis",
+            "http://dbpedia.org/resource/Stade_Louis_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Mile_run",
+            "http://dbpedia.org/resource/Craig_Mottram",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Bislett_Games",
+            "http://dbpedia.org/resource/Oslo"
+        ],
+        [
+            "http://dbpedia.org/resource/Middle-distance_running",
+            "http://dbpedia.org/resource/Craig_Mottram",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Melbourne_Track_Classic",
+            "http://dbpedia.org/resource/Melbourne"
+        ]
+    ]
+}

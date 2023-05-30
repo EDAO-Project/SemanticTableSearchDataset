@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eredivisie",
+            "http://dbpedia.org/resource/Rob_McDonald",
+            "http://dbpedia.org/resource/Eric_Viscaal"
+        ],
+        [
+            "http://dbpedia.org/resource/Eredivisie",
+            "http://dbpedia.org/resource/Jurrie_Koolhof",
+            "http://dbpedia.org/resource/Marino_Promes"
+        ]
+    ]
+}

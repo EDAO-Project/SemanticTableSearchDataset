@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harry_Bains",
+            "http://dbpedia.org/resource/British_Columbia_New_Democratic_Party",
+            "http://dbpedia.org/resource/Surrey-Newton"
+        ]
+    ]
+}

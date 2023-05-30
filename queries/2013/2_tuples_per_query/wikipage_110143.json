@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SV_Babelsberg_03",
+            "http://dbpedia.org/resource/Potsdam",
+            "http://dbpedia.org/resource/Karl-Liebknecht-Stadion"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Carl_Zeiss_Jena",
+            "http://dbpedia.org/resource/Jena",
+            "http://dbpedia.org/resource/Ernst-Abbe-Sportfeld"
+        ]
+    ]
+}

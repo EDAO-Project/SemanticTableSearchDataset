@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_in_baseball",
+            "http://dbpedia.org/resource/Bologna",
+            "http://dbpedia.org/resource/Fortitudo_Baseball_Bologna"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_in_baseball",
+            "http://dbpedia.org/resource/Nettuno",
+            "http://dbpedia.org/resource/Fortitudo_Baseball_Bologna"
+        ]
+    ]
+}

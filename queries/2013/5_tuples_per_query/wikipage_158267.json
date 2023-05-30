@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trinity_Western_Spartans",
+            "http://dbpedia.org/resource/Montreal_Carabins",
+            "http://dbpedia.org/resource/Varsity_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Trinity_Western_Spartans",
+            "http://dbpedia.org/resource/Brock_Badgers",
+            "http://dbpedia.org/resource/Trinity_Western_University"
+        ],
+        [
+            "http://dbpedia.org/resource/CBU_Capers",
+            "http://dbpedia.org/resource/York_Lions",
+            "http://dbpedia.org/resource/Cape_Breton_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Victoria_Vikes",
+            "http://dbpedia.org/resource/Ottawa_Gee-Gees",
+            "http://dbpedia.org/resource/University_of_Alberta"
+        ],
+        [
+            "http://dbpedia.org/resource/Trinity_Western_Spartans",
+            "http://dbpedia.org/resource/McGill_Martlets",
+            "http://dbpedia.org/resource/CEPSUM"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newark_Arts_High_School",
+            "http://dbpedia.org/resource/Newark,_New_Jersey",
+            "http://dbpedia.org/resource/Colonial_Hills_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Barringer_High_School",
+            "http://dbpedia.org/resource/Newark,_New_Jersey",
+            "http://dbpedia.org/resource/Northern_New_Jersey_Interscholastic_League"
+        ]
+    ]
+}

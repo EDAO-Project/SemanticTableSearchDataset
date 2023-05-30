@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_British_Grand_Prix",
+            "http://dbpedia.org/resource/Peter_Revson",
+            "http://dbpedia.org/resource/Jody_Scheckter"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Spanish_Grand_Prix",
+            "http://dbpedia.org/resource/Jochen_Mass",
+            "http://dbpedia.org/resource/Rolf_Stommelen"
+        ]
+    ]
+}

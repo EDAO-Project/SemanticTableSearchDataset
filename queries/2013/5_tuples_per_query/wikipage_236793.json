@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Franklin_Elmore_Kennamer",
+            "http://dbpedia.org/resource/Oklahoma",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Calvin_Coolidge"
+        ],
+        [
+            "http://dbpedia.org/resource/Alfred_P._Murrah",
+            "http://dbpedia.org/resource/Oklahoma",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Franklin_D._Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/Bower_Slack_Broaddus",
+            "http://dbpedia.org/resource/Oklahoma",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Franklin_D._Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/Royce_H._Savage",
+            "http://dbpedia.org/resource/Oklahoma",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Franklin_D._Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Robert_Wallace",
+            "http://dbpedia.org/resource/Oklahoma",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Harry_S._Truman"
+        ]
+    ]
+}

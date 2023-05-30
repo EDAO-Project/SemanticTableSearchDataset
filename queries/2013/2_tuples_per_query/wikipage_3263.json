@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WEPR",
+            "http://dbpedia.org/resource/Greenville,_South_Carolina",
+            "http://dbpedia.org/resource/South_Carolina_Educational_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/WHMC-FM",
+            "http://dbpedia.org/resource/Conway,_South_Carolina",
+            "http://dbpedia.org/resource/South_Carolina_Educational_Television"
+        ]
+    ]
+}

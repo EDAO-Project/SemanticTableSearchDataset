@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Super_Destroyers",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Candido",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/The_Fabulous_Freebirds"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommy_Dreamer",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/November_to_Remember"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Can-Am_Express",
+            "http://dbpedia.org/resource/Waltham,_Massachusetts",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Balls_Mahoney",
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/November_to_Remember"
+        ]
+    ]
+}

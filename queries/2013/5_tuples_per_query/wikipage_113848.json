@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Topeka,_Kansas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Landon_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Omaha,_Nebraska",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Omaha_Civic_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Ames,_Iowa",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Hilton_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Madison,_Wisconsin",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Alliant_Energy_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Peoria,_Illinois",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Peoria_Civic_Center"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Big_Coppitt_Key,_Florida",
+            "http://dbpedia.org/resource/Monroe_County,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Waterspout"
+        ],
+        [
+            "http://dbpedia.org/resource/Summerland_Key,_Florida",
+            "http://dbpedia.org/resource/Monroe_County,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Ramrod_Key"
+        ],
+        [
+            "http://dbpedia.org/resource/Stuart,_Florida",
+            "http://dbpedia.org/resource/Martin_County,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Panel_truck"
+        ],
+        [
+            "http://dbpedia.org/resource/White_City,_Florida",
+            "http://dbpedia.org/resource/St._Lucie_County,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Fort_Pierce,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Micco,_Florida",
+            "http://dbpedia.org/resource/Brevard_County,_Florida",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Barefoot_Bay,_Florida"
+        ]
+    ]
+}

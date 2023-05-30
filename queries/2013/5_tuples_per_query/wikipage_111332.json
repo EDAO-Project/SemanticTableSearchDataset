@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bill_Davis_Racing",
+            "http://dbpedia.org/resource/Dodge_Intrepid",
+            "http://dbpedia.org/resource/Scott_Wimmer",
+            "http://dbpedia.org/resource/Caterpillar",
+            "http://dbpedia.org/resource/Bill_Davis",
+            "http://dbpedia.org/resource/Frank_Stoddard"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Davis_Racing",
+            "http://dbpedia.org/resource/Dodge_Intrepid",
+            "http://dbpedia.org/resource/Casey_Atwood",
+            "http://dbpedia.org/resource/Sirius_Satellite_Radio",
+            "http://dbpedia.org/resource/Bill_Davis",
+            "http://dbpedia.org/resource/Lee_McCall"
+        ],
+        [
+            "http://dbpedia.org/resource/Chip_Ganassi_Racing",
+            "http://dbpedia.org/resource/Dodge_Intrepid",
+            "http://dbpedia.org/resource/Jamie_McMurray",
+            "http://dbpedia.org/resource/Texaco",
+            "http://dbpedia.org/resource/Chip_Ganassi",
+            "http://dbpedia.org/resource/Donnie_Wingo"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Petty_Motorsports",
+            "http://dbpedia.org/resource/Dodge_Intrepid",
+            "http://dbpedia.org/resource/Jeremy_Mayfield",
+            "http://dbpedia.org/resource/Dodge",
+            "http://dbpedia.org/resource/Ray_Evernham",
+            "http://dbpedia.org/resource/Kenny_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Stewart-Haas_Racing",
+            "http://dbpedia.org/resource/Chevrolet_Monte_Carlo",
+            "http://dbpedia.org/resource/Ward_Burton",
+            "http://dbpedia.org/resource/NetZero",
+            "http://dbpedia.org/resource/Gene_Haas",
+            "http://dbpedia.org/resource/Bootie_Barker"
+        ]
+    ]
+}

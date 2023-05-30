@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_California",
+            "http://dbpedia.org/resource/Frank_Putnam_Flint",
+            "http://dbpedia.org/resource/John_D._Works"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Florida",
+            "http://dbpedia.org/resource/James_Taliaferro",
+            "http://dbpedia.org/resource/Nathan_Philemon_Bryan"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Indiana",
+            "http://dbpedia.org/resource/Albert_J._Beveridge",
+            "http://dbpedia.org/resource/John_W._Kern"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Maine",
+            "http://dbpedia.org/resource/Eugene_Hale",
+            "http://dbpedia.org/resource/Charles_Fletcher_Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_United_States_Senators_from_Michigan",
+            "http://dbpedia.org/resource/Julius_C._Burrows",
+            "http://dbpedia.org/resource/Charles_E._Townsend"
+        ]
+    ]
+}

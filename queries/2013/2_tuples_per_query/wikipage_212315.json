@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Windsor_Lancers",
+            "http://dbpedia.org/resource/UBC_Thunderbirds",
+            "http://dbpedia.org/resource/University_of_Windsor"
+        ],
+        [
+            "http://dbpedia.org/resource/Windsor_Lancers",
+            "http://dbpedia.org/resource/Calgary_Dinos",
+            "http://dbpedia.org/resource/University_of_Calgary"
+        ]
+    ]
+}

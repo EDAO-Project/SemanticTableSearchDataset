@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Rives",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Harry_S._Truman"
+        ],
+        [
+            "http://dbpedia.org/resource/Warren_Leroy_Jones",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Cooper_Godbold",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Lyndon_B._Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/David_W._Dyer",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Lyndon_B._Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Milton_Bryan_Simpson",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Lyndon_B._Johnson"
+        ]
+    ]
+}

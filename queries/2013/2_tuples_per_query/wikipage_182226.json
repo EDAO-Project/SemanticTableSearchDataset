@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brad_Keselowski",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Clint_Bowyer",
+            "http://dbpedia.org/resource/Michael_Waltrip_Racing",
+            "http://dbpedia.org/resource/Toyota"
+        ]
+    ]
+}

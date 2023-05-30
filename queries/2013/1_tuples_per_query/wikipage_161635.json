@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cape_Town",
+            "http://dbpedia.org/resource/Western_Cape",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/Table_Mountain_National_Park"
+        ]
+    ]
+}

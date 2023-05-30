@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rick_DiPietro",
+            "http://dbpedia.org/resource/Winthrop,_Massachusetts",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Esche",
+            "http://dbpedia.org/resource/Utica,_New_York",
+            "http://dbpedia.org/resource/Philadelphia_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Grahame",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/Tampa_Bay_Lightning"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Chelios",
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Derian_Hatcher",
+            "http://dbpedia.org/resource/Sterling_Heights,_Michigan",
+            "http://dbpedia.org/resource/Philadelphia_Flyers"
+        ]
+    ]
+}

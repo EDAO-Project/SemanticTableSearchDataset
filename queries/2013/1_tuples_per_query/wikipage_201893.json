@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_T._Barry",
+            "http://dbpedia.org/resource/Kentucky",
+            "http://dbpedia.org/resource/Andrew_Jackson"
+        ]
+    ]
+}

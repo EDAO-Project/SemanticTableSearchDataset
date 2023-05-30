@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland_Trail_Blazers",
+            "http://dbpedia.org/resource/Xavier_McDaniel",
+            "http://dbpedia.org/resource/Michael_Cage",
+            "http://dbpedia.org/resource/Gary_Payton",
+            "http://dbpedia.org/resource/KeyArena"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Celtics",
+            "http://dbpedia.org/resource/Sedale_Threatt",
+            "http://dbpedia.org/resource/Olden_Polynice",
+            "http://dbpedia.org/resource/Dana_Barros",
+            "http://dbpedia.org/resource/Boston_Garden"
+        ]
+    ]
+}

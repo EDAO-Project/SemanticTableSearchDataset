@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Laser_Squad",
+            "http://dbpedia.org/resource/Target_Games",
+            "http://dbpedia.org/resource/UFO:_Enemy_Unknown"
+        ],
+        [
+            "http://dbpedia.org/resource/X-COM:_Terror_from_the_Deep",
+            "http://dbpedia.org/resource/MicroProse",
+            "http://dbpedia.org/resource/UFO:_Enemy_Unknown"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_Isle",
+            "http://dbpedia.org/resource/Ubisoft_Blue_Byte",
+            "http://dbpedia.org/resource/Incubation:_Time_Is_Running_Out"
+        ],
+        [
+            "http://dbpedia.org/resource/Incubation:_Time_Is_Running_Out",
+            "http://dbpedia.org/resource/Ubisoft_Blue_Byte",
+            "http://dbpedia.org/resource/Battle_Isle"
+        ],
+        [
+            "http://dbpedia.org/resource/X-COM:_Apocalypse",
+            "http://dbpedia.org/resource/Mythos_Games",
+            "http://dbpedia.org/resource/X-COM:_Terror_from_the_Deep"
+        ]
+    ]
+}

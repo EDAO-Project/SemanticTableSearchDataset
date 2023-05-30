@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Central_Baptist_College",
+            "http://dbpedia.org/resource/Conway,_Arkansas",
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Midlands_Collegiate_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_Christian_College_of_Kansas",
+            "http://dbpedia.org/resource/McPherson,_Kansas",
+            "http://dbpedia.org/resource/Kansas",
+            "http://dbpedia.org/resource/Midlands_Collegiate_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Christian_University",
+            "http://dbpedia.org/resource/Lakewood,_Colorado",
+            "http://dbpedia.org/resource/Colorado",
+            "http://dbpedia.org/resource/Rocky_Mountain_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas_Baptist_University",
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Heartland_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/McMurry_University",
+            "http://dbpedia.org/resource/Abilene,_Texas",
+            "http://dbpedia.org/resource/Texas",
+            "http://dbpedia.org/resource/Heartland_Conference"
+        ]
+    ]
+}

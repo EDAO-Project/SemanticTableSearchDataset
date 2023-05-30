@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/George_VI",
+            "http://dbpedia.org/resource/Marshal_of_the_Royal_Australian_Air_Force"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh",
+            "http://dbpedia.org/resource/Marshal_of_the_Royal_Australian_Air_Force"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Reichsmarschall",
+            "http://dbpedia.org/resource/Generalfeldmarschall"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Albert_Kesselring",
+            "http://dbpedia.org/resource/Generalfeldmarschall"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Erhard_Milch",
+            "http://dbpedia.org/resource/Generalfeldmarschall"
+        ]
+    ]
+}

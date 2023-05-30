@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Tour_of_Qatar",
+            "http://dbpedia.org/resource/Qatar",
+            "http://dbpedia.org/resource/Mark_Cavendish",
+            "http://dbpedia.org/resource/Etixx-Quick_Step"
+        ]
+    ]
+}

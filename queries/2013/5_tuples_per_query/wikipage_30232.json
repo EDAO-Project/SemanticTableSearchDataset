@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ekaterini_Thanou",
+            "http://dbpedia.org/resource/Anzhela_Kravchenko",
+            "http://dbpedia.org/resource/Katia_Benth"
+        ],
+        [
+            "http://dbpedia.org/resource/Allison_Curbishley",
+            "http://dbpedia.org/resource/Olga_Kotlyarova",
+            "http://dbpedia.org/resource/Idalmis_Bonne"
+        ],
+        [
+            "http://dbpedia.org/resource/Gabriela_Szabo",
+            "http://dbpedia.org/resource/Carla_Sacramento",
+            "http://dbpedia.org/resource/Lidia_Chojecka"
+        ],
+        [
+            "http://dbpedia.org/resource/Deena_Kastor",
+            "http://dbpedia.org/resource/Lucilla_Andreucci",
+            "http://dbpedia.org/resource/Miwako_Yamanaka"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

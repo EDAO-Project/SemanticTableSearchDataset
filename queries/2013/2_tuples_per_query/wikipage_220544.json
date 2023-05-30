@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_NLL_season",
+            "http://dbpedia.org/resource/Curtis_Dickson",
+            "http://dbpedia.org/resource/Calgary_Roughnecks"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_NLL_season",
+            "http://dbpedia.org/resource/Stephan_Leblanc",
+            "http://dbpedia.org/resource/Toronto_Rock"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daniel_Carter_Beard_Boyhood_Home",
+            "http://dbpedia.org/resource/Covington,_Kentucky",
+            "http://dbpedia.org/resource/Kenton_County,_Kentucky",
+            "http://dbpedia.org/resource/Daniel_Carter_Beard"
+        ],
+        [
+            "http://dbpedia.org/resource/Churchill_Downs",
+            "http://dbpedia.org/resource/Louisville,_Kentucky",
+            "http://dbpedia.org/resource/Jefferson_County,_Kentucky",
+            "http://dbpedia.org/resource/Kentucky_Derby"
+        ]
+    ]
+}

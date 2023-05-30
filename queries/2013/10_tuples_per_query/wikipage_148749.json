@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kolkata",
+            "http://dbpedia.org/resource/Kolkata",
+            "http://dbpedia.org/resource/Kolkata_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Kalyani,_West_Bengal",
+            "http://dbpedia.org/resource/Nadia_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Rajarhat",
+            "http://dbpedia.org/resource/North_24_Parganas_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Barasat",
+            "http://dbpedia.org/resource/North_24_Parganas_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Madhyamgram",
+            "http://dbpedia.org/resource/North_24_Parganas_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Kanchrapara",
+            "http://dbpedia.org/resource/North_24_Parganas_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Halisahar",
+            "http://dbpedia.org/resource/North_24_Parganas_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Naihati",
+            "http://dbpedia.org/resource/North_24_Parganas_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhatpara",
+            "http://dbpedia.org/resource/North_24_Parganas_district"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Barrackpur",
+            "http://dbpedia.org/resource/North_24_Parganas_district"
+        ]
+    ]
+}

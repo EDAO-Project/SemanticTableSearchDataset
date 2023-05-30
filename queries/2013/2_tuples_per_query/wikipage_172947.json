@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Pittsburgh_Pirates_season",
+            "http://dbpedia.org/resource/Jonathan_Pettibone",
+            "http://dbpedia.org/resource/Brandon_Cumpton",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Pittsburgh_Pirates_season",
+            "http://dbpedia.org/resource/Jeff_Locke",
+            "http://dbpedia.org/resource/John_Lannan",
+            "http://dbpedia.org/resource/Jason_Grilli"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Astana",
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Almaty"
+        ],
+        [
+            "http://dbpedia.org/resource/Almaty",
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Kazakh_Soviet_Socialist_Republic"
+        ]
+    ]
+}

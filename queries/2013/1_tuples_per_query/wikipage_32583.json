@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clemson,_South_Carolina",
+            "http://dbpedia.org/resource/Upstate_South_Carolina",
+            "http://dbpedia.org/resource/Geology",
+            "http://dbpedia.org/resource/Clemson_University"
+        ]
+    ]
+}

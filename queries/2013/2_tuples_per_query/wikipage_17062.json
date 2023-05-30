@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amherst,_Quebec",
+            "http://dbpedia.org/resource/Les_Laurentides_Regional_County_Municipality",
+            "http://dbpedia.org/resource/Laurentides"
+        ],
+        [
+            "http://dbpedia.org/resource/Arundel,_Quebec",
+            "http://dbpedia.org/resource/Les_Laurentides_Regional_County_Municipality",
+            "http://dbpedia.org/resource/Laurentides"
+        ]
+    ]
+}

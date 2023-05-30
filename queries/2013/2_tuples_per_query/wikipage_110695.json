@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Archie_MacLaren",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/Australia_national_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Bradman",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/England_cricket_team"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seventh_Texas_Legislature",
+            "http://dbpedia.org/resource/Fletcher_Stockdale",
+            "http://dbpedia.org/resource/Calhoun_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Eighth_Texas_Legislature",
+            "http://dbpedia.org/resource/Fletcher_Stockdale",
+            "http://dbpedia.org/resource/Calhoun_County,_Texas"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Osaka",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Osaka_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Osaka",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Osaka_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Korakuen_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Korakuen_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Korakuen_Stadium"
+        ]
+    ]
+}

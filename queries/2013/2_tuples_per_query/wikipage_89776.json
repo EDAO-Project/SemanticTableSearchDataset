@@ -1,0 +1,22 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_Little_League_World_Series",
+            "http://dbpedia.org/resource/Juneau,_Alaska",
+            "http://dbpedia.org/resource/Colorado_Springs,_Colorado",
+            "http://dbpedia.org/resource/Billings,_Montana",
+            "http://dbpedia.org/resource/Salem,_Oregon",
+            "http://dbpedia.org/resource/Bainbridge_Island,_Washington",
+            "http://dbpedia.org/resource/Laramie,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Little_League_World_Series",
+            "http://dbpedia.org/resource/Anchorage,_Alaska",
+            "http://dbpedia.org/resource/Pearl_City,_Hawaii",
+            "http://dbpedia.org/resource/Boise,_Idaho",
+            "http://dbpedia.org/resource/Billings,_Montana",
+            "http://dbpedia.org/resource/Beaverton,_Oregon",
+            "http://dbpedia.org/resource/Richland,_Washington"
+        ]
+    ]
+}

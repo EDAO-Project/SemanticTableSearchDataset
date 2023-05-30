@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joanna_of_Castile",
+            "http://dbpedia.org/resource/Ferdinand_II_of_Aragon",
+            "http://dbpedia.org/resource/Philip_I_of_Castile"
+        ],
+        [
+            "http://dbpedia.org/resource/Isabella_of_Portugal",
+            "http://dbpedia.org/resource/Manuel_I_of_Portugal",
+            "http://dbpedia.org/resource/Charles_V,_Holy_Roman_Emperor"
+        ],
+        [
+            "http://dbpedia.org/resource/Mary_I_of_England",
+            "http://dbpedia.org/resource/Henry_VIII_of_England",
+            "http://dbpedia.org/resource/Philip_II_of_Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Elisabeth_of_Valois",
+            "http://dbpedia.org/resource/Henry_II_of_France",
+            "http://dbpedia.org/resource/Philip_II_of_Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Anna_of_Austria,_Queen_of_Spain",
+            "http://dbpedia.org/resource/Maximilian_II,_Holy_Roman_Emperor",
+            "http://dbpedia.org/resource/Philip_II_of_Spain"
+        ]
+    ]
+}

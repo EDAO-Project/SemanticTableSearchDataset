@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kaitlin_Sandeno",
+            "http://dbpedia.org/resource/Jennifer_Reilly",
+            "http://dbpedia.org/resource/Martha_Bowen",
+            "http://dbpedia.org/resource/Maddy_Crippen"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Phelps",
+            "http://dbpedia.org/resource/Tom_Wilkens",
+            "http://dbpedia.org/resource/Erik_Vendt",
+            "http://dbpedia.org/resource/Justin_Norris"
+        ]
+    ]
+}

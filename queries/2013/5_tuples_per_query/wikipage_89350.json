@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Koyaanisqatsi",
+            "http://dbpedia.org/resource/Godfrey_Reggio",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Drowning_by_Numbers",
+            "http://dbpedia.org/resource/Peter_Greenaway",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Dead_Poets_Society",
+            "http://dbpedia.org/resource/Peter_Weir",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Coffee_and_Cigarettes",
+            "http://dbpedia.org/resource/Jim_Jarmusch",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona_Dream",
+            "http://dbpedia.org/resource/Emir_Kusturica",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

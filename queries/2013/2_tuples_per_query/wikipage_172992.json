@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pittsburgh_Pirates",
+            "http://dbpedia.org/resource/Francisco_Liriano",
+            "http://dbpedia.org/resource/Travis_Wood",
+            "http://dbpedia.org/resource/Jason_Grilli"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Mike_Leake",
+            "http://dbpedia.org/resource/Travis_Wood",
+            "http://dbpedia.org/resource/Aroldis_Chapman"
+        ]
+    ]
+}

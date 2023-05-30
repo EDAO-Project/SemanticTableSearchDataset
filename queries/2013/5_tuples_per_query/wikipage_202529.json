@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chittenden_County,_Vermont",
+            "http://dbpedia.org/resource/Essex_Junction,_Vermont",
+            "http://dbpedia.org/resource/U.S._Route_2_in_Vermont"
+        ],
+        [
+            "http://dbpedia.org/resource/Chittenden_County,_Vermont",
+            "http://dbpedia.org/resource/Essex,_Vermont",
+            "http://dbpedia.org/resource/Vermont_Route_289"
+        ],
+        [
+            "http://dbpedia.org/resource/Chittenden_County,_Vermont",
+            "http://dbpedia.org/resource/Essex,_Vermont",
+            "http://dbpedia.org/resource/Vermont_Route_128"
+        ],
+        [
+            "http://dbpedia.org/resource/Lamoille_County,_Vermont",
+            "http://dbpedia.org/resource/Cambridge,_Vermont",
+            "http://dbpedia.org/resource/Vermont_Route_104"
+        ],
+        [
+            "http://dbpedia.org/resource/Lamoille_County,_Vermont",
+            "http://dbpedia.org/resource/Cambridge,_Vermont",
+            "http://dbpedia.org/resource/Vermont_Route_108"
+        ]
+    ]
+}

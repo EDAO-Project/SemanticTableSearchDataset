@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ada_Evening_News",
+            "http://dbpedia.org/resource/Ada,_Oklahoma",
+            "http://dbpedia.org/resource/Community_Newspaper_Holdings"
+        ]
+    ]
+}

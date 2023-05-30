@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greater_St._Louis",
+            "http://dbpedia.org/resource/Greater_St._Louis",
+            "http://dbpedia.org/resource/St._Louis_County,_Missouri"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_St._Louis",
+            "http://dbpedia.org/resource/Greater_St._Louis",
+            "http://dbpedia.org/resource/St._Charles_County,_Missouri"
+        ]
+    ]
+}

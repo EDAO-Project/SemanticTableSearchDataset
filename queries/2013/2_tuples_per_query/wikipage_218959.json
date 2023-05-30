@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Bay_Battalion",
+            "http://dbpedia.org/resource/North_Bay",
+            "http://dbpedia.org/resource/Brampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Guelph_Storm",
+            "http://dbpedia.org/resource/Guelph",
+            "http://dbpedia.org/resource/Toronto_Marlboros"
+        ]
+    ]
+}

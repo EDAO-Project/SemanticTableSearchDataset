@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buffalo_State_College",
+            "http://dbpedia.org/resource/Erie_County,_New_York",
+            "http://dbpedia.org/resource/Buffalo,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Canisius_College",
+            "http://dbpedia.org/resource/Erie_County,_New_York",
+            "http://dbpedia.org/resource/Buffalo,_New_York"
+        ]
+    ]
+}

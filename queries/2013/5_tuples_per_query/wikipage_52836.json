@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Svetoslav_Dyakov",
+            "http://dbpedia.org/resource/PFC_Pirin_Blagoevgrad",
+            "http://dbpedia.org/resource/PFC_Lokomotiv_Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexis_Bertin",
+            "http://dbpedia.org/resource/FC_Gueugnon",
+            "http://dbpedia.org/resource/PFC_Litex_Lovech"
+        ],
+        [
+            "http://dbpedia.org/resource/Tanko_Dyakov",
+            "http://dbpedia.org/resource/FC_Vihren_Sandanski",
+            "http://dbpedia.org/resource/PFC_Cherno_More_Varna"
+        ],
+        [
+            "http://dbpedia.org/resource/Kiril_Djorov",
+            "http://dbpedia.org/resource/PFC_Cherno_More_Varna",
+            "http://dbpedia.org/resource/FC_Vihren_Sandanski"
+        ],
+        [
+            "http://dbpedia.org/resource/Kostadin_Hazurov",
+            "http://dbpedia.org/resource/PFC_Litex_Lovech",
+            "http://dbpedia.org/resource/PFC_Minyor_Pernik"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cobi_Jones",
+            "http://dbpedia.org/resource/Mia_Hamm",
+            "http://dbpedia.org/resource/Josh_Wolff",
+            "http://dbpedia.org/resource/Cindy_Parlow_Cone"
+        ],
+        [
+            "http://dbpedia.org/resource/Kasey_Keller",
+            "http://dbpedia.org/resource/Michelle_Akers",
+            "http://dbpedia.org/resource/Ben_Olsen",
+            "http://dbpedia.org/resource/Lorrie_Fair"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Armas",
+            "http://dbpedia.org/resource/Tiffeny_Milbrett",
+            "http://dbpedia.org/resource/Landon_Donovan",
+            "http://dbpedia.org/resource/Aly_Wagner"
+        ],
+        [
+            "http://dbpedia.org/resource/Earnie_Stewart",
+            "http://dbpedia.org/resource/Tiffeny_Milbrett",
+            "http://dbpedia.org/resource/DaMarcus_Beasley",
+            "http://dbpedia.org/resource/Aleisha_Cramer"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Friedel",
+            "http://dbpedia.org/resource/Shannon_MacMillan",
+            "http://dbpedia.org/resource/Bobby_Convey",
+            "http://dbpedia.org/resource/Lindsay_Tarpley"
+        ]
+    ]
+}

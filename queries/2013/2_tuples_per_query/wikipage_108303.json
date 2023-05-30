@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baltic_Sea",
+            "http://dbpedia.org/resource/United_States_Navy",
+            "http://dbpedia.org/resource/Soviet_Air_Defence_Forces"
+        ],
+        [
+            "http://dbpedia.org/resource/Vladivostok",
+            "http://dbpedia.org/resource/Soviet_Naval_Aviation",
+            "http://dbpedia.org/resource/United_States_Navy"
+        ]
+    ]
+}

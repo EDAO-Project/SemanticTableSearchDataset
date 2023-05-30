@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SBS_Open_at_Turtle_Bay",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Jennifer_Rosales"
+        ],
+        [
+            "http://dbpedia.org/resource/LPGA_Takefuji_Classic",
+            "http://dbpedia.org/resource/Nevada",
+            "http://dbpedia.org/resource/Wendy_Ward"
+        ],
+        [
+            "http://dbpedia.org/resource/Franklin_American_Mortgage_Championship",
+            "http://dbpedia.org/resource/Tennessee",
+            "http://dbpedia.org/resource/Stacy_Prammanasudh"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingsmill_Championship",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/Cristie_Kerr"
+        ],
+        [
+            "http://dbpedia.org/resource/Sybase_Classic",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Paula_Creamer"
+        ]
+    ]
+}

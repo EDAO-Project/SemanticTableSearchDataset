@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ames_Laboratory",
+            "http://dbpedia.org/resource/Iowa_State_University",
+            "http://dbpedia.org/resource/Ames,_Iowa",
+            "http://dbpedia.org/resource/United_States_Department_of_Energy"
+        ],
+        [
+            "http://dbpedia.org/resource/Argonne_National_Laboratory",
+            "http://dbpedia.org/resource/University_of_Chicago",
+            "http://dbpedia.org/resource/Downers_Grove_Township,_DuPage_County,_Illinois",
+            "http://dbpedia.org/resource/United_States_Department_of_Energy"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1981_in_literature",
+            "http://dbpedia.org/resource/Dougal_Dixon",
+            "http://dbpedia.org/resource/After_Man",
+            "http://dbpedia.org/resource/Macmillan_Publishers"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_in_literature",
+            "http://dbpedia.org/resource/Samuel_R._Delany",
+            "http://dbpedia.org/resource/The_Motion_of_Light_in_Water",
+            "http://dbpedia.org/resource/Arbor_House"
+        ]
+    ]
+}

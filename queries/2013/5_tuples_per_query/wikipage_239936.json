@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Braden_Looper",
+            "http://dbpedia.org/resource/Bronson_Arroyo",
+            "http://dbpedia.org/resource/Jason_Isringhausen"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Derrick_Turnbow",
+            "http://dbpedia.org/resource/David_Weathers",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Aaron_Harang",
+            "http://dbpedia.org/resource/Kip_Wells",
+            "http://dbpedia.org/resource/David_Weathers"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Tom_Shearn",
+            "http://dbpedia.org/resource/Ben_Sheets",
+            "http://dbpedia.org/resource/Bill_Bray"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Jeff_Suppan",
+            "http://dbpedia.org/resource/Kirk_Saarloos",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ]
+    ]
+}

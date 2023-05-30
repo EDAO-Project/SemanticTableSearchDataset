@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ammadelle",
+            "http://dbpedia.org/resource/Oxford,_Mississippi",
+            "http://dbpedia.org/resource/Lafayette_County,_Mississippi",
+            "http://dbpedia.org/resource/Italianate_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Anna_Site",
+            "http://dbpedia.org/resource/Natchez,_Mississippi",
+            "http://dbpedia.org/resource/Adams_County,_Mississippi",
+            "http://dbpedia.org/resource/Plaquemine_culture"
+        ]
+    ]
+}

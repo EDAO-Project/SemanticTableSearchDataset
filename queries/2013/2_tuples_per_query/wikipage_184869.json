@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adygea",
+            "http://dbpedia.org/resource/Head_of_the_Republic_of_Adygea",
+            "http://dbpedia.org/resource/Aslan_Tkhakushinov",
+            "http://dbpedia.org/resource/United_Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Altai_Republic",
+            "http://dbpedia.org/resource/Head_of_the_Altai_Republic",
+            "http://dbpedia.org/resource/Alexander_Berdnikov",
+            "http://dbpedia.org/resource/United_Russia"
+        ]
+    ]
+}

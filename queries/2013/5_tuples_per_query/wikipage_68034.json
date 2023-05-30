@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Alabama",
+            "http://dbpedia.org/resource/Holman_Correctional_Facility",
+            "http://dbpedia.org/resource/Julia_Tutwiler_Prison_for_Women"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Arkansas",
+            "http://dbpedia.org/resource/Varner_Unit",
+            "http://dbpedia.org/resource/McPherson_Unit"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Florida",
+            "http://dbpedia.org/resource/Union_Correctional_Institution",
+            "http://dbpedia.org/resource/Lowell_Correctional_Institution"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_people_executed_in_Kansas",
+            "http://dbpedia.org/resource/El_Dorado_Correctional_Facility",
+            "http://dbpedia.org/resource/Topeka,_Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_people_executed_in_Kentucky",
+            "http://dbpedia.org/resource/Kentucky_State_Penitentiary",
+            "http://dbpedia.org/resource/Kentucky_Correctional_Institute_for_Women"
+        ]
+    ]
+}

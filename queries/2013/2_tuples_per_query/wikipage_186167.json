@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Keenan_Allen",
+            "http://dbpedia.org/resource/2012_California_Golden_Bears_football_team",
+            "http://dbpedia.org/resource/2013_San_Diego_Chargers_season",
+            "http://dbpedia.org/resource/2013_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Amerson",
+            "http://dbpedia.org/resource/2012_NC_State_Wolfpack_football_team",
+            "http://dbpedia.org/resource/2013_Washington_Redskins_season",
+            "http://dbpedia.org/resource/2013_NFL_draft"
+        ]
+    ]
+}

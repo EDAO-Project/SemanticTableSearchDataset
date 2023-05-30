@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_LPGA_Tour",
+            "http://dbpedia.org/resource/Inbee_Park",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_LPGA_Tour",
+            "http://dbpedia.org/resource/Ai_Miyazato",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_LPGA_Tour",
+            "http://dbpedia.org/resource/Jiyai_Shin",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_LPGA_Tour",
+            "http://dbpedia.org/resource/Ai_Miyazato",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_LPGA_Tour",
+            "http://dbpedia.org/resource/Helen_Alfredsson",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

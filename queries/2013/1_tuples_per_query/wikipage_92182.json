@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joe_Thornton",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Boston_Bruins",
+            "http://dbpedia.org/resource/Sault_Ste._Marie_Greyhounds"
+        ]
+    ]
+}

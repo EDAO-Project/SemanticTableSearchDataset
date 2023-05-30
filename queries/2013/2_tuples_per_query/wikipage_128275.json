@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ariane_5",
+            "http://dbpedia.org/resource/Astra_3B",
+            "http://dbpedia.org/resource/Geostationary_transfer_orbit"
+        ],
+        [
+            "http://dbpedia.org/resource/Ariane_5",
+            "http://dbpedia.org/resource/Arabsat-5A",
+            "http://dbpedia.org/resource/Geostationary_transfer_orbit"
+        ]
+    ]
+}

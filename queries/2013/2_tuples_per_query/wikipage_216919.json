@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Newmarket_Bus_Terminal",
+            "http://dbpedia.org/resource/Newmarket,_Ontario",
+            "http://dbpedia.org/resource/GO_Transit"
+        ],
+        [
+            "http://dbpedia.org/resource/Richmond_Hill_Centre_Terminal",
+            "http://dbpedia.org/resource/Richmond_Hill,_Ontario",
+            "http://dbpedia.org/resource/Viva_Purple"
+        ]
+    ]
+}

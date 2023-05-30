@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/27th_Street_Historic_District",
+            "http://dbpedia.org/resource/South_Los_Angeles",
+            "http://dbpedia.org/resource/National_Register_of_Historic_Places"
+        ]
+    ]
+}

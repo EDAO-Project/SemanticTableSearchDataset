@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/D._Pandian",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Aladi_Aruna"
+        ],
+        [
+            "http://dbpedia.org/resource/Era._Anbarasu",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/N._V._N._Somu"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Church_of_All_Hallows,_Allerton",
+            "http://dbpedia.org/resource/Allerton,_Liverpool",
+            "http://dbpedia.org/resource/Sandstone"
+        ],
+        [
+            "http://dbpedia.org/resource/Holmrook",
+            "http://dbpedia.org/resource/Cumbria",
+            "http://dbpedia.org/resource/Battlement"
+        ],
+        [
+            "http://dbpedia.org/resource/Bank_of_Liverpool",
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/Neoclassical_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Uffington_House,_Chester",
+            "http://dbpedia.org/resource/Chester",
+            "http://dbpedia.org/resource/Thomas_Hughes"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakfield_Manor",
+            "http://dbpedia.org/resource/Upton_by_Chester",
+            "http://dbpedia.org/resource/Diapering"
+        ]
+    ]
+}

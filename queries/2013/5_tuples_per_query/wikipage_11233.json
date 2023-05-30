@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeff_Gordon",
+            "http://dbpedia.org/resource/DuPont",
+            "http://dbpedia.org/resource/Hendrick_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Ricky_Craven",
+            "http://dbpedia.org/resource/Budweiser",
+            "http://dbpedia.org/resource/Hendrick_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Sterling_Marlin",
+            "http://dbpedia.org/resource/Eastman_Kodak",
+            "http://dbpedia.org/resource/Morgan-McClure_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeremy_Mayfield",
+            "http://dbpedia.org/resource/Kmart",
+            "http://dbpedia.org/resource/Michael_Kranefuss",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Ward_Burton",
+            "http://dbpedia.org/resource/MBNA",
+            "http://dbpedia.org/resource/Bill_Davis_Racing",
+            "http://dbpedia.org/resource/Pontiac"
+        ]
+    ]
+}

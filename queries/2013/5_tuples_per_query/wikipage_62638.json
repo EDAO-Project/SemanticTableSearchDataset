@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nikita_Koloff",
+            "http://dbpedia.org/resource/Fayetteville,_North_Carolina",
+            "http://dbpedia.org/resource/House_show",
+            "http://dbpedia.org/resource/Barry_Darsow"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Rude",
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/WCW_Saturday_Night",
+            "http://dbpedia.org/resource/Broadcast_delay"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Varsity_Club",
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/Clash_of_the_Champions",
+            "http://dbpedia.org/resource/Theodore_Long"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Steiner_Brothers",
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/WCW_Saturday_Night",
+            "http://dbpedia.org/resource/Broadcast_delay"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Gordy",
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/House_show",
+            "http://dbpedia.org/resource/NWA_World_Tag_Team_Championship"
+        ]
+    ]
+}

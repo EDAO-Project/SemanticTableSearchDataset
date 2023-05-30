@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christopher_Blake",
+            "http://dbpedia.org/resource/Swinburne_University_of_Technology",
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Astrophysics"
+        ],
+        [
+            "http://dbpedia.org/resource/Tanya_Monro",
+            "http://dbpedia.org/resource/University_of_Adelaide",
+            "http://dbpedia.org/resource/Adelaide",
+            "http://dbpedia.org/resource/Photonics"
+        ]
+    ]
+}

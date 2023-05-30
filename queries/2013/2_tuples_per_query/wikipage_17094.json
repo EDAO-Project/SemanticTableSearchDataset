@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Fork_Dam",
+            "http://dbpedia.org/resource/Johnstown,_Pennsylvania",
+            "http://dbpedia.org/resource/Act_of_God"
+        ],
+        [
+            "http://dbpedia.org/resource/Elan_Valley_Reservoirs",
+            "http://dbpedia.org/resource/Wales",
+            "http://dbpedia.org/resource/Operation_Chastise"
+        ]
+    ]
+}

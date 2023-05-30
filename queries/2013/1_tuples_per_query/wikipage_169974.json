@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bloomington_Edge",
+            "http://dbpedia.org/resource/Bloomington,_Illinois",
+            "http://dbpedia.org/resource/U.S._Cellular_Coliseum"
+        ]
+    ]
+}

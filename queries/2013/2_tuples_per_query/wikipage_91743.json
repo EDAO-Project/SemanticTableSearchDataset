@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alderson_Broaddus_University",
+            "http://dbpedia.org/resource/Philippi,_West_Virginia",
+            "http://dbpedia.org/resource/Great_Midwest_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Bluefield_State_College",
+            "http://dbpedia.org/resource/Bluefield,_West_Virginia",
+            "http://dbpedia.org/resource/NCAA_Division_II_independent_schools"
+        ]
+    ]
+}

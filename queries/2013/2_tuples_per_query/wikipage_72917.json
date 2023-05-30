@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_Chinese_International_Pageant_1988",
+            "http://dbpedia.org/resource/Michelle_Reis",
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/San_Francisco",
+            "http://dbpedia.org/resource/Calgary"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Chinese_International_Pageant_1991",
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Anita_Yuen",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Seattle"
+        ]
+    ]
+}

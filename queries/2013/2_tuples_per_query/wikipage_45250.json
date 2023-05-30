@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jose_Rizal_Bridge",
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/King_County,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Park_Bridge",
+            "http://dbpedia.org/resource/Seattle",
+            "http://dbpedia.org/resource/King_County,_Washington"
+        ]
+    ]
+}

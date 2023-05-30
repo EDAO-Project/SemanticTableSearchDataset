@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1958_Danish_1st_Division",
+            "http://dbpedia.org/resource/Vejle_Boldklub",
+            "http://dbpedia.org/resource/Boldklubben_Frem",
+            "http://dbpedia.org/resource/Henning_Enoksen"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_Danish_1st_Division",
+            "http://dbpedia.org/resource/Esbjerg_fB",
+            "http://dbpedia.org/resource/Boldklubben_1913",
+            "http://dbpedia.org/resource/Henning_Enoksen"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Danish_1st_Division",
+            "http://dbpedia.org/resource/Esbjerg_fB",
+            "http://dbpedia.org/resource/Boldklubben_1913",
+            "http://dbpedia.org/resource/Mogens_Haastrup"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Danish_1st_Division",
+            "http://dbpedia.org/resource/Hvidovre_IF",
+            "http://dbpedia.org/resource/Boldklubben_Frem",
+            "http://dbpedia.org/resource/Henning_Enoksen"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Danish_1st_Division",
+            "http://dbpedia.org/resource/Boldklubben_1903",
+            "http://dbpedia.org/resource/Akademisk_Boldklub",
+            "http://dbpedia.org/resource/Ole_Forsing"
+        ]
+    ]
+}

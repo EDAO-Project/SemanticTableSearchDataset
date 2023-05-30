@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_NFL_season",
+            "http://dbpedia.org/resource/O._J._Simpson",
+            "http://dbpedia.org/resource/Buffalo_Bills"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_NFL_season",
+            "http://dbpedia.org/resource/Ken_Stabler",
+            "http://dbpedia.org/resource/Oakland_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_NFL_season",
+            "http://dbpedia.org/resource/Fran_Tarkenton",
+            "http://dbpedia.org/resource/Minnesota_Vikings"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_NFL_season",
+            "http://dbpedia.org/resource/Bert_Jones",
+            "http://dbpedia.org/resource/History_of_the_Indianapolis_Colts"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_NFL_season",
+            "http://dbpedia.org/resource/Walter_Payton",
+            "http://dbpedia.org/resource/Chicago_Bears"
+        ]
+    ]
+}

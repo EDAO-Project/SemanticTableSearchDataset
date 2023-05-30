@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Last_Stop_174",
+            "http://dbpedia.org/resource/Portuguese_language",
+            "http://dbpedia.org/resource/Bruno_Barreto"
+        ],
+        [
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Zift",
+            "http://dbpedia.org/resource/Bulgarian_language",
+            "http://dbpedia.org/resource/Javor_Gardev"
+        ],
+        [
+            "http://dbpedia.org/resource/Czech_Republic",
+            "http://dbpedia.org/resource/The_Karamazovs",
+            "http://dbpedia.org/resource/Czech_language",
+            "http://dbpedia.org/resource/Petr_Zelenka"
+        ],
+        [
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/The_Home_of_Dark_Butterflies",
+            "http://dbpedia.org/resource/Finnish_language",
+            "http://dbpedia.org/resource/Dome_Karukoski"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/The_Baader_Meinhof_Complex",
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Uli_Edel"
+        ]
+    ]
+}

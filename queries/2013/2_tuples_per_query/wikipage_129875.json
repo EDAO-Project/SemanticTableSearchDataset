@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Serbin_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Betty_Jameson"
+        ],
+        [
+            "http://dbpedia.org/resource/Cross_Country_144_Hole_Weathervane",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Beverly_Hanson"
+        ]
+    ]
+}

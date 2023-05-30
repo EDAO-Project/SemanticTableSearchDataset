@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gavin_Strang",
+            "http://dbpedia.org/resource/Tony_Blair",
+            "http://dbpedia.org/resource/John_Prescott"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Reid,_Baron_Reid_of_Cardowan",
+            "http://dbpedia.org/resource/Tony_Blair",
+            "http://dbpedia.org/resource/John_Prescott"
+        ],
+        [
+            "http://dbpedia.org/resource/Helen_Liddell,_Baroness_Liddell_of_Coatdyke",
+            "http://dbpedia.org/resource/Tony_Blair",
+            "http://dbpedia.org/resource/John_Prescott"
+        ],
+        [
+            "http://dbpedia.org/resource/Gus_Macdonald",
+            "http://dbpedia.org/resource/Tony_Blair",
+            "http://dbpedia.org/resource/John_Prescott"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Spellar",
+            "http://dbpedia.org/resource/Tony_Blair",
+            "http://dbpedia.org/resource/Stephen_Byers"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FedExField",
+            "http://dbpedia.org/resource/Landover,_Maryland",
+            "http://dbpedia.org/resource/Cynodon",
+            "http://dbpedia.org/resource/Washington_Redskins"
+        ],
+        [
+            "http://dbpedia.org/resource/Lambeau_Field",
+            "http://dbpedia.org/resource/Green_Bay,_Wisconsin",
+            "http://dbpedia.org/resource/Desso_GrassMaster",
+            "http://dbpedia.org/resource/Green_Bay_Packers"
+        ],
+        [
+            "http://dbpedia.org/resource/Arrowhead_Stadium",
+            "http://dbpedia.org/resource/Kansas_City,_Missouri",
+            "http://dbpedia.org/resource/Grass",
+            "http://dbpedia.org/resource/Kansas_City_Chiefs"
+        ],
+        [
+            "http://dbpedia.org/resource/Sports_Authority_Field_at_Mile_High",
+            "http://dbpedia.org/resource/Denver",
+            "http://dbpedia.org/resource/Desso_GrassMaster",
+            "http://dbpedia.org/resource/Denver_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/Bank_of_America_Stadium",
+            "http://dbpedia.org/resource/Charlotte,_North_Carolina",
+            "http://dbpedia.org/resource/Grass",
+            "http://dbpedia.org/resource/Carolina_Panthers"
+        ]
+    ]
+}

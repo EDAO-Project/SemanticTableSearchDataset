@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Transport_for_New_South_Wales",
+            "http://dbpedia.org/resource/Gladys_Berejiklian"
+        ]
+    ]
+}

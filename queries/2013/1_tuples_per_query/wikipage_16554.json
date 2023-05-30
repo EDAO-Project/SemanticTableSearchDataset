@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_NHL_Amateur_Draft",
+            "http://dbpedia.org/resource/Serge_Bernier",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

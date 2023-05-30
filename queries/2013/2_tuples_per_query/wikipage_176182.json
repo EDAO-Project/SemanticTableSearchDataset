@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Panama_City",
+            "http://dbpedia.org/resource/Panama",
+            "http://dbpedia.org/resource/Figali_Convention_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Guatemala_City",
+            "http://dbpedia.org/resource/Guatemala",
+            "http://dbpedia.org/resource/Estadio_Mateo_Flores"
+        ]
+    ]
+}

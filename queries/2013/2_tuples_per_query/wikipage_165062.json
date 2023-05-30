@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Alameda_County,_California",
+            "http://dbpedia.org/resource/Alameda,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Alameda_County,_California",
+            "http://dbpedia.org/resource/Albany,_California"
+        ]
+    ]
+}

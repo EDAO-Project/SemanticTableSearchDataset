@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Diablerets",
+            "http://dbpedia.org/resource/Bernese_Alps",
+            "http://dbpedia.org/resource/Aigle_District"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Levy_Yulee",
+            "http://dbpedia.org/resource/29th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1844"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Levy_Yulee",
+            "http://dbpedia.org/resource/30th_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1844"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Levy_Yulee",
+            "http://dbpedia.org/resource/31st_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1844"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_Mallory",
+            "http://dbpedia.org/resource/32nd_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1850"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_Mallory",
+            "http://dbpedia.org/resource/33rd_United_States_Congress",
+            "http://dbpedia.org/resource/United_States_Senate_elections,_1850"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philadelphia_76ers",
+            "http://dbpedia.org/resource/Tayshaun_Prince",
+            "http://dbpedia.org/resource/Greg_Monroe",
+            "http://dbpedia.org/resource/Tracy_McGrady",
+            "http://dbpedia.org/resource/The_Palace_of_Auburn_Hills"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Bulls",
+            "http://dbpedia.org/resource/Tayshaun_Prince",
+            "http://dbpedia.org/resource/Greg_Monroe",
+            "http://dbpedia.org/resource/Rodney_Stuckey",
+            "http://dbpedia.org/resource/United_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Memphis_Grizzlies",
+            "http://dbpedia.org/resource/Ben_Gordon",
+            "http://dbpedia.org/resource/Greg_Monroe",
+            "http://dbpedia.org/resource/Rodney_Stuckey",
+            "http://dbpedia.org/resource/The_Palace_of_Auburn_Hills"
+        ],
+        [
+            "http://dbpedia.org/resource/Sacramento_Kings",
+            "http://dbpedia.org/resource/Tayshaun_Prince",
+            "http://dbpedia.org/resource/Greg_Monroe",
+            "http://dbpedia.org/resource/Will_Bynum",
+            "http://dbpedia.org/resource/The_Palace_of_Auburn_Hills"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Celtics",
+            "http://dbpedia.org/resource/Rodney_Stuckey",
+            "http://dbpedia.org/resource/Greg_Monroe",
+            "http://dbpedia.org/resource/Tracy_McGrady",
+            "http://dbpedia.org/resource/TD_Garden"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2004_AFC_Champions_League",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Al_Ain_FC",
+            "http://dbpedia.org/resource/Namkung_Do"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_AFC_Champions_League",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Ittihad_FC",
+            "http://dbpedia.org/resource/Raphael_Botti"
+        ]
+    ]
+}

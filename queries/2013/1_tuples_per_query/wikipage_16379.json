@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_v._Holmes_County_Board_of_Education",
+            "http://dbpedia.org/resource/United_States_Reports",
+            "http://dbpedia.org/resource/Desegregation"
+        ]
+    ]
+}

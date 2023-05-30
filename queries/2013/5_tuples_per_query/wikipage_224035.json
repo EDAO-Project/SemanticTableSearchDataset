@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/USK_Praha",
+            "http://dbpedia.org/resource/BC_Dinamo_Tbilisi"
+        ],
+        [
+            "http://dbpedia.org/resource/Thessaloniki",
+            "http://dbpedia.org/resource/Olimpia_Milano",
+            "http://dbpedia.org/resource/KK_Crvena_zvezda"
+        ],
+        [
+            "http://dbpedia.org/resource/Thessaloniki",
+            "http://dbpedia.org/resource/BC_Spartak_Saint_Petersburg",
+            "http://dbpedia.org/resource/KK_Split"
+        ],
+        [
+            "http://dbpedia.org/resource/Udine",
+            "http://dbpedia.org/resource/KK_Crvena_zvezda",
+            "http://dbpedia.org/resource/BC_Brno"
+        ],
+        [
+            "http://dbpedia.org/resource/Nantes",
+            "http://dbpedia.org/resource/BC_Spartak_Saint_Petersburg",
+            "http://dbpedia.org/resource/KK_Crvena_zvezda"
+        ]
+    ]
+}

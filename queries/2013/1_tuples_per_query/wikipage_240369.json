@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SBS_Open_at_Turtle_Bay",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/Paula_Creamer"
+        ]
+    ]
+}

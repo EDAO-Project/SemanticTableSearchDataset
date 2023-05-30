@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Griffin_III",
+            "http://dbpedia.org/resource/2011_Baylor_Bears_football_team",
+            "http://dbpedia.org/resource/2011_Alamo_Bowl",
+            "http://dbpedia.org/resource/2011_Washington_Huskies_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Cam_Newton",
+            "http://dbpedia.org/resource/2010_Auburn_Tigers_football_team",
+            "http://dbpedia.org/resource/2011_BCS_National_Championship_Game",
+            "http://dbpedia.org/resource/2010_Oregon_Ducks_football_team"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arthur_Wint",
+            "http://dbpedia.org/resource/1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1948_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Herb_McKenley",
+            "http://dbpedia.org/resource/1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1948_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Wint",
+            "http://dbpedia.org/resource/1948_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1948_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Herb_McKenley",
+            "http://dbpedia.org/resource/1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1952_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Rhoden",
+            "http://dbpedia.org/resource/1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Athletics_at_the_1952_Summer_Olympics"
+        ]
+    ]
+}

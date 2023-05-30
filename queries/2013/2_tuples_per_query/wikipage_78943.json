@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Over_United_Reformed_Church",
+            "http://dbpedia.org/resource/Over,_Cheshire",
+            "http://dbpedia.org/resource/Polychromatic"
+        ],
+        [
+            "http://dbpedia.org/resource/Presbyterian_Chapel,_Rossett",
+            "http://dbpedia.org/resource/Rossett",
+            "http://dbpedia.org/resource/Lancet_window"
+        ]
+    ]
+}

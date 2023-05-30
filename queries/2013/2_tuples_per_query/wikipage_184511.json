@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_Sydney_International",
+            "http://dbpedia.org/resource/Venus_Williams",
+            "http://dbpedia.org/resource/Amanda_Coetzer"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Australian_Open",
+            "http://dbpedia.org/resource/Venus_Williams",
+            "http://dbpedia.org/resource/Christina_Singer"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Superman",
+            "http://dbpedia.org/resource/Action_Comics_1",
+            "http://dbpedia.org/resource/DC_Comics"
+        ],
+        [
+            "http://dbpedia.org/resource/Batman",
+            "http://dbpedia.org/resource/Detective_Comics",
+            "http://dbpedia.org/resource/DC_Comics"
+        ],
+        [
+            "http://dbpedia.org/resource/Namor",
+            "http://dbpedia.org/resource/Marvel_Mystery_Comics",
+            "http://dbpedia.org/resource/Timely_Comics"
+        ],
+        [
+            "http://dbpedia.org/resource/Lex_Luthor",
+            "http://dbpedia.org/resource/Action_Comics",
+            "http://dbpedia.org/resource/DC_Comics"
+        ],
+        [
+            "http://dbpedia.org/resource/Green_Lantern",
+            "http://dbpedia.org/resource/All-American_Comics",
+            "http://dbpedia.org/resource/All-American_Publications"
+        ]
+    ]
+}

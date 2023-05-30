@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bethel_Cemetery",
+            "http://dbpedia.org/resource/Arkansas_Highway_117",
+            "http://dbpedia.org/resource/Denton,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Cache_River_Bridge",
+            "http://dbpedia.org/resource/Arkansas_Highway_25",
+            "http://dbpedia.org/resource/Walnut_Ridge,_Arkansas"
+        ]
+    ]
+}

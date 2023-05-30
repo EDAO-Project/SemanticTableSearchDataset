@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Car_Care_Plan_International",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/David_J_Russell"
+        ],
+        [
+            "http://dbpedia.org/resource/British_Masters",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Lee_Trevino"
+        ]
+    ]
+}

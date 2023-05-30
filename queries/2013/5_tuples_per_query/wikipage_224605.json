@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Waldstadion"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Antwerp",
+            "http://dbpedia.org/resource/Sportpaleis"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Leicester",
+            "http://dbpedia.org/resource/Saffron_Lane_sports_centre"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Varese",
+            "http://dbpedia.org/resource/Stadio_Franco_Ossola"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_UCI_Track_Cycling_World_Championships",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Radstadion"
+        ]
+    ]
+}

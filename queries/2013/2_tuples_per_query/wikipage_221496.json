@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chouteau_Island",
+            "http://dbpedia.org/resource/Mississippi_River",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Gabriola_Island",
+            "http://dbpedia.org/resource/Gulf_Islands",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

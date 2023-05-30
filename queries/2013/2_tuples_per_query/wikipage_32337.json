@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algoma_District_School_Board",
+            "http://dbpedia.org/resource/Sault_Ste._Marie,_Ontario",
+            "http://dbpedia.org/resource/Algoma_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Avon_Maitland_District_School_Board",
+            "http://dbpedia.org/resource/Seaforth,_Ontario",
+            "http://dbpedia.org/resource/Huron_County,_Ontario"
+        ]
+    ]
+}

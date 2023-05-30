@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Matech_Concepts",
+            "http://dbpedia.org/resource/Richard_Westbrook",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Marc_VDS_Racing_Team",
+            "http://dbpedia.org/resource/Bas_Leinders",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ]
+    ]
+}

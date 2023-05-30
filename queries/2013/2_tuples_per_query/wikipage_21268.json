@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Empire_Strikes_Back",
+            "http://dbpedia.org/resource/Irvin_Kershner",
+            "http://dbpedia.org/resource/Mark_Hamill",
+            "http://dbpedia.org/resource/Academy_Awards"
+        ],
+        [
+            "http://dbpedia.org/resource/Blade_Runner",
+            "http://dbpedia.org/resource/Ridley_Scott",
+            "http://dbpedia.org/resource/Harrison_Ford",
+            "http://dbpedia.org/resource/Hugo_Award_for_Best_Dramatic_Presentation"
+        ]
+    ]
+}

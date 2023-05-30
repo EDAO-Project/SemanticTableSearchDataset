@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arturo_Torres",
+            "http://dbpedia.org/resource/Chivas_USA",
+            "http://dbpedia.org/resource/LA_Galaxy",
+            "http://dbpedia.org/resource/Loyola_Marymount_University"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MC_Hammer",
+            "http://dbpedia.org/resource/Digital_Underground"
+        ]
+    ]
+}

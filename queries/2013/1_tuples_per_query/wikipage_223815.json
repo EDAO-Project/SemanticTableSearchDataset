@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bath_Iron_Works",
+            "http://dbpedia.org/resource/Bath,_Maine",
+            "http://dbpedia.org/resource/Forrest_Sherman-class_destroyer"
+        ]
+    ]
+}

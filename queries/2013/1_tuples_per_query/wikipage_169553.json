@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thanjavur_Medical_College",
+            "http://dbpedia.org/resource/Thanjavur",
+            "http://dbpedia.org/resource/Thanjavur_district",
+            "http://dbpedia.org/resource/Tamil_Nadu_Dr._M.G.R._Medical_University"
+        ]
+    ]
+}

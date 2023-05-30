@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nonoy_Baclao",
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Barako_Bull_Energy",
+            "http://dbpedia.org/resource/Ateneo_de_Manila_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Rabeh_Al-Hussaini",
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Barako_Bull_Energy",
+            "http://dbpedia.org/resource/Ateneo_de_Manila_University"
+        ]
+    ]
+}

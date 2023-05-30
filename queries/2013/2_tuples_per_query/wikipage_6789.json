@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1976_Trans-Am_season",
+            "http://dbpedia.org/resource/George_Follmer",
+            "http://dbpedia.org/resource/Porsche_Carrera"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Trans-Am_season",
+            "http://dbpedia.org/resource/Eppie_Wietzes",
+            "http://dbpedia.org/resource/Chevrolet_Corvette"
+        ]
+    ]
+}

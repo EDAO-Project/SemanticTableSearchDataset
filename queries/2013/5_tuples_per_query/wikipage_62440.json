@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Florida_Marlins_season",
+            "http://dbpedia.org/resource/Carlos_Zambrano",
+            "http://dbpedia.org/resource/Ricky_Nolasco",
+            "http://dbpedia.org/resource/Kevin_Gregg"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Houston_Astros_season",
+            "http://dbpedia.org/resource/Rich_Harden",
+            "http://dbpedia.org/resource/Mike_Hampton",
+            "http://dbpedia.org/resource/Kevin_Gregg"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Milwaukee_Brewers_season",
+            "http://dbpedia.org/resource/Mitch_Stetter",
+            "http://dbpedia.org/resource/Aaron_Heilman",
+            "http://dbpedia.org/resource/Trevor_Hoffman"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Milwaukee_Brewers_season",
+            "http://dbpedia.org/resource/Sean_Marshall",
+            "http://dbpedia.org/resource/Jeff_Suppan",
+            "http://dbpedia.org/resource/Kevin_Gregg"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Houston_Astros_season",
+            "http://dbpedia.org/resource/Brian_Moehler",
+            "http://dbpedia.org/resource/Rich_Harden",
+            "http://dbpedia.org/resource/Chris_Sampson"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anvil_Point_Lighthouse",
+            "http://dbpedia.org/resource/Swanage",
+            "http://dbpedia.org/resource/Purbeck_District",
+            "http://dbpedia.org/resource/Durlston_Country_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Charmouth_Heritage_Coast_Centre",
+            "http://dbpedia.org/resource/Charmouth",
+            "http://dbpedia.org/resource/West_Dorset",
+            "http://dbpedia.org/resource/Jurassic_Coast"
+        ]
+    ]
+}

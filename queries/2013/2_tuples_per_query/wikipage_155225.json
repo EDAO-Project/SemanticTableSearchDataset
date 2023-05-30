@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kepler-7b",
+            "http://dbpedia.org/resource/Kepler-7",
+            "http://dbpedia.org/resource/Lyra"
+        ],
+        [
+            "http://dbpedia.org/resource/Kepler-8b",
+            "http://dbpedia.org/resource/Kepler-8",
+            "http://dbpedia.org/resource/Lyra"
+        ]
+    ]
+}

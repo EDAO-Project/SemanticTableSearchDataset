@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrea_Alberti",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/S.S.D._Monza_1912",
+            "http://dbpedia.org/resource/Brescia_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Enrico_Alfonso",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/Inter_Milan",
+            "http://dbpedia.org/resource/A.C._Chievo_Verona"
+        ],
+        [
+            "http://dbpedia.org/resource/Ilario_Aloe",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/Ascoli_Picchio_F.C._1898",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Maycol_Andriani",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/A.C._Sambonifacese",
+            "http://dbpedia.org/resource/A.C._Chievo_Verona"
+        ],
+        [
+            "http://dbpedia.org/resource/Angelo_Antonazzo",
+            "http://dbpedia.org/resource/Italy_national_football_team",
+            "http://dbpedia.org/resource/Frosinone_Calcio",
+            "http://dbpedia.org/resource/A.C._Chievo_Verona"
+        ]
+    ]
+}

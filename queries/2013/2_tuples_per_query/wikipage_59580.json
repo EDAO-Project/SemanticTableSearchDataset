@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darren_Dreifort",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Wichita_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Wayne_Gomes",
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/Old_Dominion_University"
+        ]
+    ]
+}

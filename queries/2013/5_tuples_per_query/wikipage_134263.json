@@ -1,0 +1,33 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Canadian_Mixed_Curling_Championship",
+            "http://dbpedia.org/resource/Saskatchewan",
+            "http://dbpedia.org/resource/Saskatchewan",
+            "http://dbpedia.org/resource/Alberta"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_The_Dominion_Curling_Club_Championship",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_The_Dominion_Curling_Club_Championship",
+            "http://dbpedia.org/resource/Manitoba",
+            "http://dbpedia.org/resource/Manitoba",
+            "http://dbpedia.org/resource/Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Curling_at_the_2012_Winter_Youth_Olympics",
+            "http://dbpedia.org/resource/Switzerland_at_the_2012_Winter_Youth_Olympics",
+            "http://dbpedia.org/resource/Italy_at_the_2012_Winter_Youth_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Canadian_Junior_Curling_Championships",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Northern_Ontario"
+        ]
+    ]
+}

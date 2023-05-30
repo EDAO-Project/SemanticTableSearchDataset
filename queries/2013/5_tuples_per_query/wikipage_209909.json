@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stefan_Nystrand",
+            "http://dbpedia.org/resource/Oleksandr_Volynets",
+            "http://dbpedia.org/resource/Pieter_van_den_Hoogenband"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefan_Nystrand",
+            "http://dbpedia.org/resource/Pieter_van_den_Hoogenband",
+            "http://dbpedia.org/resource/Romain_Barnier"
+        ],
+        [
+            "http://dbpedia.org/resource/Pieter_van_den_Hoogenband",
+            "http://dbpedia.org/resource/List_of_European_records_in_swimming",
+            "http://dbpedia.org/resource/Stefan_Herbst"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Rupprath",
+            "http://dbpedia.org/resource/Stev_Theloke",
+            "http://dbpedia.org/resource/Gregor_Tait"
+        ],
+        [
+            "http://dbpedia.org/resource/Oleh_Lisohor",
+            "http://dbpedia.org/resource/Mark_Warnecke",
+            "http://dbpedia.org/resource/Darren_Mew"
+        ]
+    ]
+}

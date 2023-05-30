@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Pinophyta",
+            "http://dbpedia.org/resource/Coat_of_arms_of_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Jajce",
+            "http://dbpedia.org/resource/Coat_of_arms_of_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Chimney",
+            "http://dbpedia.org/resource/Coat_of_arms_of_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/Socialist_Republic_of_Croatia",
+            "http://dbpedia.org/resource/Wheat",
+            "http://dbpedia.org/resource/Coat_of_arms_of_Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/Socialist_Republic_of_Croatia",
+            "http://dbpedia.org/resource/Adriatic_Sea",
+            "http://dbpedia.org/resource/Coat_of_arms_of_Croatia"
+        ]
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anura_Bandaranaike",
+            "http://dbpedia.org/resource/Gampaha_Electoral_District",
+            "http://dbpedia.org/resource/United_National_Party",
+            "http://dbpedia.org/resource/United_National_Party",
+            "http://dbpedia.org/resource/United_National_Party",
+            "http://dbpedia.org/resource/United_National_Party",
+            "http://dbpedia.org/resource/Speaker_of_the_Parliament_of_Sri_Lanka"
+        ],
+        [
+            "http://dbpedia.org/resource/S._B._Dissanayake",
+            "http://dbpedia.org/resource/Nuwara_Eliya_Electoral_District",
+            "http://dbpedia.org/resource/Sri_Lanka_Freedom_Party",
+            "http://dbpedia.org/resource/United_National_Party",
+            "http://dbpedia.org/resource/United_National_Party"
+        ]
+    ]
+}

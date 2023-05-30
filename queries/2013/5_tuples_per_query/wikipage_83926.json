@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alvechurch_railway_station",
+            "http://dbpedia.org/resource/Bromsgrove_District",
+            "http://dbpedia.org/resource/London_Midland"
+        ],
+        [
+            "http://dbpedia.org/resource/Barnt_Green_railway_station",
+            "http://dbpedia.org/resource/Bromsgrove_District",
+            "http://dbpedia.org/resource/London_Midland"
+        ],
+        [
+            "http://dbpedia.org/resource/Blakedown_railway_station",
+            "http://dbpedia.org/resource/Wyre_Forest_District",
+            "http://dbpedia.org/resource/London_Midland"
+        ],
+        [
+            "http://dbpedia.org/resource/Bromsgrove_railway_station",
+            "http://dbpedia.org/resource/Bromsgrove_District",
+            "http://dbpedia.org/resource/London_Midland"
+        ],
+        [
+            "http://dbpedia.org/resource/Droitwich_Spa_railway_station",
+            "http://dbpedia.org/resource/Wychavon",
+            "http://dbpedia.org/resource/London_Midland"
+        ]
+    ]
+}

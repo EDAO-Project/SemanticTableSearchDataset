@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Davidson_College",
+            "http://dbpedia.org/resource/Terry_Holland",
+            "http://dbpedia.org/resource/St._Bonaventure_University"
+        ]
+    ]
+}

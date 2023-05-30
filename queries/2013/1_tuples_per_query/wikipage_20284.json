@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buncombe_County,_North_Carolina",
+            "http://dbpedia.org/resource/Asheville,_North_Carolina",
+            "http://dbpedia.org/resource/Blue_Ridge_Parkway"
+        ]
+    ]
+}

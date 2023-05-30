@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sumner,_Missouri",
+            "http://dbpedia.org/resource/Linn_County,_Missouri",
+            "http://dbpedia.org/resource/Tornado_family"
+        ],
+        [
+            "http://dbpedia.org/resource/Coal_Valley,_Illinois",
+            "http://dbpedia.org/resource/Henry_County,_Illinois",
+            "http://dbpedia.org/resource/Orion,_Illinois"
+        ]
+    ]
+}

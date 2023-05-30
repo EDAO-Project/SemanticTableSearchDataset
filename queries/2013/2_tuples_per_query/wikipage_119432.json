@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barcaldine_Castle",
+            "http://dbpedia.org/resource/Benderloch",
+            "http://dbpedia.org/resource/Tower_house"
+        ],
+        [
+            "http://dbpedia.org/resource/Oronsay_Priory",
+            "http://dbpedia.org/resource/Oronsay,_Inner_Hebrides",
+            "http://dbpedia.org/resource/Augustinians"
+        ]
+    ]
+}

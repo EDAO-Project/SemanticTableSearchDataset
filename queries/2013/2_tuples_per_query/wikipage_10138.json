@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rashid_Latif",
+            "http://dbpedia.org/resource/Steve_Tikolo",
+            "http://dbpedia.org/resource/Sanath_Jayasuriya",
+            "http://dbpedia.org/resource/Heath_Streak"
+        ],
+        [
+            "http://dbpedia.org/resource/Danish_Kaneria",
+            "http://dbpedia.org/resource/Alfred_Luseno",
+            "http://dbpedia.org/resource/Kumar_Dharmasena",
+            "http://dbpedia.org/resource/Sean_Ervine"
+        ]
+    ]
+}

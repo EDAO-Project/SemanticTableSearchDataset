@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ballymun_Kickhams_GAA",
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/Portlaoise_GAA",
+            "http://dbpedia.org/resource/Laois_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Kilmacud_Crokes_GAA",
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/Rhode_GAA",
+            "http://dbpedia.org/resource/Offaly_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Portlaoise_GAA",
+            "http://dbpedia.org/resource/Laois_GAA",
+            "http://dbpedia.org/resource/Garrycastle_GAA",
+            "http://dbpedia.org/resource/Westmeath_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Kilmacud_Crokes_GAA",
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/Rhode_GAA",
+            "http://dbpedia.org/resource/Offaly_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Moorefield_GAA",
+            "http://dbpedia.org/resource/Kildare_GAA",
+            "http://dbpedia.org/resource/Rhode_GAA",
+            "http://dbpedia.org/resource/Offaly_GAA"
+        ]
+    ]
+}

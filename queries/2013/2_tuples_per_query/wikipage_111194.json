@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bermuda_at_the_Pan_American_Games",
+            "http://dbpedia.org/resource/1959_Pan_American_Games",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Bermuda_at_the_Pan_American_Games",
+            "http://dbpedia.org/resource/1967_Pan_American_Games",
+            "http://dbpedia.org/resource/Winnipeg"
+        ]
+    ]
+}

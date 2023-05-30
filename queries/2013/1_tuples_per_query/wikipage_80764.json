@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gray-headed_lemur",
+            "http://dbpedia.org/resource/Alfred_Grandidier",
+            "http://dbpedia.org/resource/Endangered_species"
+        ]
+    ]
+}

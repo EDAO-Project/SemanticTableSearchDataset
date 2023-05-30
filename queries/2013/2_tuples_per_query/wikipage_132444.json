@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1904_Summer_Olympics",
+            "http://dbpedia.org/resource/Francis_Gymnasium",
+            "http://dbpedia.org/resource/Boxing_at_the_1904_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1924_Summer_Olympics",
+            "http://dbpedia.org/resource/Stade_Olympique_Yves-du-Manoir",
+            "http://dbpedia.org/resource/Athletics_at_the_1924_Summer_Olympics"
+        ]
+    ]
+}

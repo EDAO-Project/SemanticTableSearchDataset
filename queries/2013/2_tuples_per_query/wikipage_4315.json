@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clemson_University",
+            "http://dbpedia.org/resource/Littlejohn_Coliseum",
+            "http://dbpedia.org/resource/Clemson,_South_Carolina",
+            "http://dbpedia.org/resource/South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_State_University",
+            "http://dbpedia.org/resource/Tully_Gymnasium",
+            "http://dbpedia.org/resource/Tallahassee,_Florida",
+            "http://dbpedia.org/resource/Florida"
+        ]
+    ]
+}

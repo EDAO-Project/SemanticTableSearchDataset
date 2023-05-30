@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beauchamp_Day",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Perth"
+        ],
+        [
+            "http://dbpedia.org/resource/Eric_Liddell",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Paris"
+        ]
+    ]
+}

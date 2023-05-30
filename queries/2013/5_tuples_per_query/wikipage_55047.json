@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Valentino_Pascucci",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Chiba_Lotte_Marines"
+        ],
+        [
+            "http://dbpedia.org/resource/Corey_Paul",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Saitama_Seibu_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Rod_Pedraza",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Fukuoka_SoftBank_Hawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Rudy_Pemberton",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Saitama_Seibu_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Roberto_Petagine",
+            "http://dbpedia.org/resource/Infielder",
+            "http://dbpedia.org/resource/Tokyo_Yakult_Swallows"
+        ]
+    ]
+}

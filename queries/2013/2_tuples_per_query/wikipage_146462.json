@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Archettes",
+            "http://dbpedia.org/resource/Attigny,_Vosges",
+            "http://dbpedia.org/resource/Autrey,_Vosges",
+            "http://dbpedia.org/resource/Avillers,_Vosges"
+        ],
+        [
+            "http://dbpedia.org/resource/Bainville-aux-Saules",
+            "http://dbpedia.org/resource/Basse-sur-le-Rupt",
+            "http://dbpedia.org/resource/Battexey",
+            "http://dbpedia.org/resource/Bayecourt"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bavilliers",
+            "http://dbpedia.org/resource/Beaucourt",
+            "http://dbpedia.org/resource/Belfort",
+            "http://dbpedia.org/resource/Bermont"
+        ]
+    ]
+}

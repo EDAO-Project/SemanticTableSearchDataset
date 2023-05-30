@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/National_Institute_of_Technology_Agartala",
+            "http://dbpedia.org/resource/Agartala",
+            "http://dbpedia.org/resource/Tripura"
+        ],
+        [
+            "http://dbpedia.org/resource/Motilal_Nehru_National_Institute_of_Technology_Allahabad",
+            "http://dbpedia.org/resource/Allahabad",
+            "http://dbpedia.org/resource/Uttar_Pradesh"
+        ]
+    ]
+}

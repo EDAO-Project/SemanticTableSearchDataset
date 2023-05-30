@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Provisional_Government_of_Bangladesh",
+            "http://dbpedia.org/resource/Pakistan",
+            "http://dbpedia.org/resource/Kolkata"
+        ]
+    ]
+}

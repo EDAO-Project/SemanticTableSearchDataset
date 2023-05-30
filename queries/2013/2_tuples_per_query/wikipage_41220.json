@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_AFC_Cup",
+            "http://dbpedia.org/resource/South_China_AA",
+            "http://dbpedia.org/resource/Hong_Kong_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_AFC_Cup",
+            "http://dbpedia.org/resource/VB_Addu_FC",
+            "http://dbpedia.org/resource/SCG_Stadium"
+        ]
+    ]
+}

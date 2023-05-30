@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greg_Valentine",
+            "http://dbpedia.org/resource/London,_Ontario",
+            "http://dbpedia.org/resource/Maple_Leaf_Wrestling",
+            "http://dbpedia.org/resource/Broadcast_delay"
+        ]
+    ]
+}

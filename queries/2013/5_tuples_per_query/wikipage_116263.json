@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Nick_Bierbrodt",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Millikan_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Jason_Bulger",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Valdosta_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Conor_Jackson",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/California_Golden_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Carlos_Quentin",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Stanford_Cardinal_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Stephen_Drew",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Florida_State_Seminoles_baseball"
+        ]
+    ]
+}

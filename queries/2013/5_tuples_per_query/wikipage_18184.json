@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Lodger:_A_Story_of_the_London_Fog",
+            "http://dbpedia.org/resource/Alfred_Hitchcock",
+            "http://dbpedia.org/resource/Ivor_Novello"
+        ],
+        [
+            "http://dbpedia.org/resource/Spione",
+            "http://dbpedia.org/resource/Fritz_Lang",
+            "http://dbpedia.org/resource/Rudolf_Klein-Rogge"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bat_Whispers",
+            "http://dbpedia.org/resource/Roland_West",
+            "http://dbpedia.org/resource/Spencer_Charters"
+        ],
+        [
+            "http://dbpedia.org/resource/Freaks",
+            "http://dbpedia.org/resource/Tod_Browning",
+            "http://dbpedia.org/resource/Wallace_Ford"
+        ],
+        [
+            "http://dbpedia.org/resource/Number_Seventeen",
+            "http://dbpedia.org/resource/Alfred_Hitchcock",
+            "http://dbpedia.org/resource/Leon_M._Lion"
+        ]
+    ]
+}

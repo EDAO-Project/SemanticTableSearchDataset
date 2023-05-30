@@ -1,0 +1,17 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Foxhound",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/English_Foxhound",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group",
+            "http://dbpedia.org/resource/Hound_Group"
+        ]
+    ]
+}

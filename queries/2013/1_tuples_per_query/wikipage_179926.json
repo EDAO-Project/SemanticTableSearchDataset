@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cha_Woo-chan",
+            "http://dbpedia.org/resource/Samsung_Lions",
+            "http://dbpedia.org/resource/Korea_Baseball_Organization",
+            "http://dbpedia.org/resource/Gunsan"
+        ]
+    ]
+}

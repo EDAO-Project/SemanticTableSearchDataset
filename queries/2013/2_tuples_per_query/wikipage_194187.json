@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aruba",
+            "http://dbpedia.org/resource/Miss_Continente_Americano_2006",
+            "http://dbpedia.org/resource/Miss_Continente_Americano_2006",
+            "http://dbpedia.org/resource/Miss_Aruba"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolivia",
+            "http://dbpedia.org/resource/Miss_Continente_Americano_2006",
+            "http://dbpedia.org/resource/Miss_Continente_Americano_2006",
+            "http://dbpedia.org/resource/Miss_Bolivia"
+        ]
+    ]
+}

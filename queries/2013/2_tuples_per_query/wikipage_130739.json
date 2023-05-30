@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tomislav_Erceg",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HNK_Hajduk_Split",
+            "http://dbpedia.org/resource/NK_Pazinka"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomislav_Erceg",
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/HNK_Hajduk_Split",
+            "http://dbpedia.org/resource/NK_Istra"
+        ]
+    ]
+}

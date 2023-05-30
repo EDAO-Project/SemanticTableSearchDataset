@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kondaveeti_Donga",
+            "http://dbpedia.org/resource/Chiranjeevi",
+            "http://dbpedia.org/resource/Ilaiyaraaja"
+        ],
+        [
+            "http://dbpedia.org/resource/Nari_Nari_Naduma_Murari",
+            "http://dbpedia.org/resource/Nandamuri_Balakrishna",
+            "http://dbpedia.org/resource/K._V._Mahadevan"
+        ],
+        [
+            "http://dbpedia.org/resource/Aswamedham",
+            "http://dbpedia.org/resource/Nandamuri_Balakrishna",
+            "http://dbpedia.org/resource/Ilaiyaraaja"
+        ],
+        [
+            "http://dbpedia.org/resource/Gharana_Mogudu",
+            "http://dbpedia.org/resource/Chiranjeevi",
+            "http://dbpedia.org/resource/M._M._Keeravani"
+        ],
+        [
+            "http://dbpedia.org/resource/Rakshana",
+            "http://dbpedia.org/resource/Akkineni_Nagarjuna",
+            "http://dbpedia.org/resource/M._M._Keeravani"
+        ]
+    ]
+}

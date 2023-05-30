@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philippe_Gilbert",
+            "http://dbpedia.org/resource/Edvald_Boasson_Hagen",
+            "http://dbpedia.org/resource/Alejandro_Valverde"
+        ],
+        [
+            "http://dbpedia.org/resource/Etixx-Quick_Step",
+            "http://dbpedia.org/resource/BMC_Racing_Team",
+            "http://dbpedia.org/resource/Orica-GreenEDGE"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Boonen",
+            "http://dbpedia.org/resource/Alessandro_Ballan",
+            "http://dbpedia.org/resource/Sam_Bewley"
+        ],
+        [
+            "http://dbpedia.org/resource/Marianne_Vos",
+            "http://dbpedia.org/resource/Rachel_Neylan",
+            "http://dbpedia.org/resource/Elisa_Longo_Borghini"
+        ],
+        [
+            "http://dbpedia.org/resource/Judith_Arndt",
+            "http://dbpedia.org/resource/Evelyn_Stevens",
+            "http://dbpedia.org/resource/Linda_Villumsen"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albion_Parris",
+            "http://dbpedia.org/resource/20th_United_States_Congress",
+            "http://dbpedia.org/resource/John_Chandler"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/2007_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/IndyCar_Series",
+            "http://dbpedia.org/resource/Dario_Franchitti",
+            "http://dbpedia.org/resource/2007_IndyCar_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/IndyCar_Series",
+            "http://dbpedia.org/resource/Andretti_Autosport",
+            "http://dbpedia.org/resource/2007_IndyCar_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/IndyCar_Series",
+            "http://dbpedia.org/resource/Ryan_Hunter-Reay",
+            "http://dbpedia.org/resource/2007_IndyCar_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Champ_Car",
+            "http://dbpedia.org/resource/Robert_Doornbos",
+            "http://dbpedia.org/resource/2007_Champ_Car_season"
+        ]
+    ]
+}

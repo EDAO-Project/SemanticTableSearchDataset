@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Olaf_Manthey",
+            "http://dbpedia.org/resource/Marc_Lieb",
+            "http://dbpedia.org/resource/Porsche_911_GT3"
+        ],
+        [
+            "http://dbpedia.org/resource/Audi",
+            "http://dbpedia.org/resource/Marc_Basseng",
+            "http://dbpedia.org/resource/Audi_R8"
+        ],
+        [
+            "http://dbpedia.org/resource/Audi",
+            "http://dbpedia.org/resource/Frank_Stippler",
+            "http://dbpedia.org/resource/Audi_R8"
+        ],
+        [
+            "http://dbpedia.org/resource/Hankook_Tire",
+            "http://dbpedia.org/resource/Dominik_Farnbacher",
+            "http://dbpedia.org/resource/Ferrari_458"
+        ],
+        [
+            "http://dbpedia.org/resource/Audi",
+            "http://dbpedia.org/resource/Christian_Abt",
+            "http://dbpedia.org/resource/Audi_R8"
+        ]
+    ]
+}

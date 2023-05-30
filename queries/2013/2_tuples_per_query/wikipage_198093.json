@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Crichton",
+            "http://dbpedia.org/resource/Westworld",
+            "http://dbpedia.org/resource/Metro-Goldwyn-Mayer"
+        ],
+        [
+            "http://dbpedia.org/resource/Christopher_Isherwood",
+            "http://dbpedia.org/resource/Frankenstein:_The_True_Story",
+            "http://dbpedia.org/resource/NBC"
+        ]
+    ]
+}

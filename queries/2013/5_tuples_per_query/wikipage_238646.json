@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Proper_Education",
+            "http://dbpedia.org/resource/Eric_Prydz",
+            "http://dbpedia.org/resource/Data_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Proper_Education",
+            "http://dbpedia.org/resource/Eric_Prydz",
+            "http://dbpedia.org/resource/Data_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Proper_Education",
+            "http://dbpedia.org/resource/Eric_Prydz",
+            "http://dbpedia.org/resource/Data_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Dare_Me",
+            "http://dbpedia.org/resource/Junior_Jack",
+            "http://dbpedia.org/resource/Defected_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Dare_Me",
+            "http://dbpedia.org/resource/Junior_Jack",
+            "http://dbpedia.org/resource/Defected_Records"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Tiger_Woods"
+        ],
+        [
+            "http://dbpedia.org/resource/WGC-Cadillac_Match_Play_Championship",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Steve_Stricker"
+        ],
+        [
+            "http://dbpedia.org/resource/Heineken_Classic",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Michael_Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/Greg_Norman_Holden_International",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Aaron_Baddeley"
+        ],
+        [
+            "http://dbpedia.org/resource/Singapore_Masters",
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Vijay_Singh"
+        ]
+    ]
+}

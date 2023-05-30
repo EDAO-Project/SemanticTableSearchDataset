@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guillaume_Loriot",
+            "http://dbpedia.org/resource/Le_Mans_FC",
+            "http://dbpedia.org/resource/Valenciennes_FC"
+        ]
+    ]
+}

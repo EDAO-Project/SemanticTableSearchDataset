@@ -1,0 +1,13 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jefferson_County,_Iowa",
+            "http://dbpedia.org/resource/Fairfield,_Iowa",
+            "http://dbpedia.org/resource/Fairfield,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Jefferson_County,_Iowa",
+            "http://dbpedia.org/resource/Fairfield,_Iowa"
+        ]
+    ]
+}

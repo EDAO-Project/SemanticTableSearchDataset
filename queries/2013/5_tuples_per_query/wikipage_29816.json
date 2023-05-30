@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_NFL_draft",
+            "http://dbpedia.org/resource/Leslie_Kelley",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/University_of_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_NFL_draft",
+            "http://dbpedia.org/resource/Ken_Burrough",
+            "http://dbpedia.org/resource/Wide_receiver",
+            "http://dbpedia.org/resource/Texas_Southern_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_NFL_draft",
+            "http://dbpedia.org/resource/Archie_Manning",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/University_of_Mississippi"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_NFL_draft",
+            "http://dbpedia.org/resource/Larry_Burton",
+            "http://dbpedia.org/resource/Wide_receiver",
+            "http://dbpedia.org/resource/Purdue_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_NFL_draft",
+            "http://dbpedia.org/resource/Chuck_Muncie",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/University_of_California,_Berkeley"
+        ]
+    ]
+}

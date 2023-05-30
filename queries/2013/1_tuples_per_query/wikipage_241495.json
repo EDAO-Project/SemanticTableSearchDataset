@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Azumi_2:_Death_or_Love",
+            "http://dbpedia.org/resource/Azumi",
+            "http://dbpedia.org/resource/2005_in_film",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Live_action"
+        ]
+    ]
+}

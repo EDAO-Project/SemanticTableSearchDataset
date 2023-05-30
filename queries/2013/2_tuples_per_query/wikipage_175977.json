@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Tajikistan",
+            "http://dbpedia.org/resource/Armenia"
+        ],
+        [
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Tajikistan",
+            "http://dbpedia.org/resource/Uzbekistan"
+        ]
+    ]
+}

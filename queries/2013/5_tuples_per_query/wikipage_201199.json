@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shanna_Moakler",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Miss_New_York_USA",
+            "http://dbpedia.org/resource/Chelsi_Smith",
+            "http://dbpedia.org/resource/Miss_Rhode_Island_Teen_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_USA_1996",
+            "http://dbpedia.org/resource/Ali_Landry",
+            "http://dbpedia.org/resource/Breaux_Bridge,_Louisiana",
+            "http://dbpedia.org/resource/Miss_Louisiana_USA",
+            "http://dbpedia.org/resource/Miss_Louisiana_Teen_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandi_Sherwood",
+            "http://dbpedia.org/resource/Idaho_Falls,_Idaho",
+            "http://dbpedia.org/resource/Miss_Idaho_USA",
+            "http://dbpedia.org/resource/Brook_Lee",
+            "http://dbpedia.org/resource/Miss_Idaho_Teen_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_USA_1999",
+            "http://dbpedia.org/resource/Kimberly_Pressler",
+            "http://dbpedia.org/resource/Franklinville,_New_York",
+            "http://dbpedia.org/resource/Miss_New_York_USA",
+            "http://dbpedia.org/resource/Miss_New_York_Teen_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_USA_2000",
+            "http://dbpedia.org/resource/Lynnette_Cole",
+            "http://dbpedia.org/resource/Columbia,_Tennessee",
+            "http://dbpedia.org/resource/Miss_Tennessee_USA",
+            "http://dbpedia.org/resource/Miss_Tennessee_Teen_USA"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rimrunners",
+            "http://dbpedia.org/resource/Don_Maitz",
+            "http://dbpedia.org/resource/Hachette_Book_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Resnick",
+            "http://dbpedia.org/resource/Michael_Whelan",
+            "http://dbpedia.org/resource/Tor_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Renegades_of_Pern",
+            "http://dbpedia.org/resource/Michael_Whelan",
+            "http://dbpedia.org/resource/Del_Rey_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Dean_Foster",
+            "http://dbpedia.org/resource/James_Gurney",
+            "http://dbpedia.org/resource/Ace_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Stress_of_Her_Regard",
+            "http://dbpedia.org/resource/James_Gurney",
+            "http://dbpedia.org/resource/Ace_Books"
+        ]
+    ]
+}

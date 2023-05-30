@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_Safari_Rally",
+            "http://dbpedia.org/resource/Shekhar_Mehta",
+            "http://dbpedia.org/resource/Nissan_S30"
+        ],
+        [
+            "http://dbpedia.org/resource/Ove_Andersson",
+            "http://dbpedia.org/resource/Arne_Hertz",
+            "http://dbpedia.org/resource/Peugeot_504"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannu_Mikkola",
+            "http://dbpedia.org/resource/Arne_Hertz",
+            "http://dbpedia.org/resource/Audi_100"
+        ],
+        [
+            "http://dbpedia.org/resource/Miki_Biasion",
+            "http://dbpedia.org/resource/Tiziano_Siviero",
+            "http://dbpedia.org/resource/Lancia_Delta"
+        ],
+        [
+            "http://dbpedia.org/resource/Miki_Biasion",
+            "http://dbpedia.org/resource/Tiziano_Siviero",
+            "http://dbpedia.org/resource/Lancia_Delta"
+        ]
+    ]
+}

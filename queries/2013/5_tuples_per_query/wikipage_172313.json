@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arthur_and_the_Revenge_of_Maltazard",
+            "http://dbpedia.org/resource/Luc_Besson",
+            "http://dbpedia.org/resource/EuropaCorp"
+        ],
+        [
+            "http://dbpedia.org/resource/Care_Bears:_Share_Bear_Shines",
+            "http://dbpedia.org/resource/Davis_Doi",
+            "http://dbpedia.org/resource/SD_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Chico_and_Rita",
+            "http://dbpedia.org/resource/Fernando_Trueba",
+            "http://dbpedia.org/resource/Economy_of_the_Isle_of_Man"
+        ],
+        [
+            "http://dbpedia.org/resource/Despicable_Me",
+            "http://dbpedia.org/resource/Pierre_Coffin",
+            "http://dbpedia.org/resource/Illumination_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Disappearance_of_Haruhi_Suzumiya",
+            "http://dbpedia.org/resource/Tatsuya_Ishihara",
+            "http://dbpedia.org/resource/Kyoto_Animation"
+        ]
+    ]
+}

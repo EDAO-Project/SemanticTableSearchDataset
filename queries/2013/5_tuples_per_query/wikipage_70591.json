@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_WNBA_season",
+            "http://dbpedia.org/resource/Chelsea_Newton",
+            "http://dbpedia.org/resource/Sacramento_Monarchs"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_WNBA_season",
+            "http://dbpedia.org/resource/Kara_Braxton",
+            "http://dbpedia.org/resource/Detroit_Shock"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_WNBA_season",
+            "http://dbpedia.org/resource/Katie_Feenstra-Mattera",
+            "http://dbpedia.org/resource/San_Antonio_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_WNBA_season",
+            "http://dbpedia.org/resource/Tan_White",
+            "http://dbpedia.org/resource/Indiana_Fever"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_WNBA_season",
+            "http://dbpedia.org/resource/Temeka_Johnson",
+            "http://dbpedia.org/resource/Washington_Mystics"
+        ]
+    ]
+}

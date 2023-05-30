@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Changchun",
+            "http://dbpedia.org/resource/Jilin",
+            "http://dbpedia.org/resource/Northeast_China"
+        ]
+    ]
+}

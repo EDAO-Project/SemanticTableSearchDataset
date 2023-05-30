@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama_Jazz_Hall_of_Fame",
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/Jazz"
+        ],
+        [
+            "http://dbpedia.org/resource/Alabama_Rural_Heritage_Center",
+            "http://dbpedia.org/resource/Thomaston,_Alabama",
+            "http://dbpedia.org/resource/Auburn_University"
+        ]
+    ]
+}

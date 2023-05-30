@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland_Timbers",
+            "http://dbpedia.org/resource/Dax_McCarty",
+            "http://dbpedia.org/resource/FC_Dallas"
+        ]
+    ]
+}

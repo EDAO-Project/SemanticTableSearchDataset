@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Audi",
+            "http://dbpedia.org/resource/V6_engine",
+            "http://dbpedia.org/resource/List_of_Volkswagen_Group_petrol_engines",
+            "http://dbpedia.org/resource/Audi_S5"
+        ]
+    ]
+}

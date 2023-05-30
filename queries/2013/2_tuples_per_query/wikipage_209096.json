@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Files-11",
+            "http://dbpedia.org/resource/Digital_Equipment_Corporation",
+            "http://dbpedia.org/resource/RSX-11"
+        ],
+        [
+            "http://dbpedia.org/resource/File_Allocation_Table",
+            "http://dbpedia.org/resource/Marc_McDonald",
+            "http://dbpedia.org/resource/Microsoft_BASIC"
+        ]
+    ]
+}

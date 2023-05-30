@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/30_Days_of_Night:_Dark_Days",
+            "http://dbpedia.org/resource/Ben_Ketai",
+            "http://dbpedia.org/resource/Kiele_Sanchez"
+        ],
+        [
+            "http://dbpedia.org/resource/Dream_Home",
+            "http://dbpedia.org/resource/Pang_Ho-cheung",
+            "http://dbpedia.org/resource/Josie_Ho"
+        ]
+    ]
+}

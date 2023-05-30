@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bucknell_Bison",
+            "http://dbpedia.org/resource/Bucknell_University",
+            "http://dbpedia.org/resource/Lewisburg,_Pennsylvania",
+            "http://dbpedia.org/resource/Patriot_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Drexel_Dragons",
+            "http://dbpedia.org/resource/Drexel_University",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Colonial_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Duquesne_Dukes",
+            "http://dbpedia.org/resource/Duquesne_University",
+            "http://dbpedia.org/resource/Pittsburgh",
+            "http://dbpedia.org/resource/Atlantic_10_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Salle_Explorers",
+            "http://dbpedia.org/resource/La_Salle_University",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Atlantic_10_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Lafayette_Leopards",
+            "http://dbpedia.org/resource/Lafayette_College",
+            "http://dbpedia.org/resource/Easton,_Pennsylvania",
+            "http://dbpedia.org/resource/Patriot_League"
+        ]
+    ]
+}

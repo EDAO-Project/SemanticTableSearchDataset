@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bharti_Airtel",
+            "http://dbpedia.org/resource/GSM",
+            "http://dbpedia.org/resource/Bharti_Enterprises"
+        ],
+        [
+            "http://dbpedia.org/resource/Reliance_Communications",
+            "http://dbpedia.org/resource/IS-95",
+            "http://dbpedia.org/resource/Reliance_Anil_Dhirubhai_Ambani_Group"
+        ]
+    ]
+}

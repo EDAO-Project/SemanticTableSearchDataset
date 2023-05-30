@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1948_American_League_tie-breaker_game",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Fenway_Park",
+            "http://dbpedia.org/resource/1948_World_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_National_League_tie-breaker_series",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/Milwaukee_County_Stadium",
+            "http://dbpedia.org/resource/1959_World_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_National_League_tie-breaker_series",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Candlestick_Park",
+            "http://dbpedia.org/resource/1962_World_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_American_League_East_tie-breaker_game",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Fenway_Park",
+            "http://dbpedia.org/resource/1978_World_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_National_League_West_tie-breaker_game",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Dodger_Stadium",
+            "http://dbpedia.org/resource/1980_National_League_Championship_Series"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cleveland_Cavaliers",
+            "http://dbpedia.org/resource/Luol_Deng",
+            "http://dbpedia.org/resource/Joakim_Noah",
+            "http://dbpedia.org/resource/Derrick_Rose",
+            "http://dbpedia.org/resource/Quicken_Loans_Arena"
+        ]
+    ]
+}

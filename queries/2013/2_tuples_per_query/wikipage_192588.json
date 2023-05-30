@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Joe_Hockey",
+            "http://dbpedia.org/resource/Liberal_Party_of_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bahamas",
+            "http://dbpedia.org/resource/Perry_Christie",
+            "http://dbpedia.org/resource/Progressive_Liberal_Party"
+        ]
+    ]
+}

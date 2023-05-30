@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4201_Orosz",
+            "http://dbpedia.org/resource/Anderson_Mesa_Station",
+            "http://dbpedia.org/resource/Brian_A._Skiff"
+        ],
+        [
+            "http://dbpedia.org/resource/4205_David_Hughes",
+            "http://dbpedia.org/resource/Anderson_Mesa_Station",
+            "http://dbpedia.org/resource/Edward_L._G._Bowell"
+        ]
+    ]
+}

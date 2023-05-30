@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_Ewing",
+            "http://dbpedia.org/resource/Ohio",
+            "http://dbpedia.org/resource/Zachary_Taylor"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Ewing",
+            "http://dbpedia.org/resource/Ohio",
+            "http://dbpedia.org/resource/Millard_Fillmore"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_McKean_Thompson_McKennan",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/Millard_Fillmore"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Hugh_Holmes_Stuart",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/Millard_Fillmore"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacob_Thompson",
+            "http://dbpedia.org/resource/Mississippi",
+            "http://dbpedia.org/resource/James_Buchanan"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gavin_Strang",
+            "http://dbpedia.org/resource/Tony_Blair",
+            "http://dbpedia.org/resource/John_Prescott"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Karen_Kurreck",
+            "http://dbpedia.org/resource/Anne_Samplonius",
+            "http://dbpedia.org/resource/Jeannie_Longo"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Jeannie_Longo",
+            "http://dbpedia.org/resource/Clara_Hughes",
+            "http://dbpedia.org/resource/Kathy_Watt"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Jeannie_Longo",
+            "http://dbpedia.org/resource/Catherine_Marsal",
+            "http://dbpedia.org/resource/Alessandra_Cappellotto"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Jeannie_Longo",
+            "http://dbpedia.org/resource/Zulfiya_Zabirova",
+            "http://dbpedia.org/resource/Judith_Arndt"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_UCI_Road_World_Championships",
+            "http://dbpedia.org/resource/Leontien_van_Moorsel",
+            "http://dbpedia.org/resource/Zulfiya_Zabirova",
+            "http://dbpedia.org/resource/Hanka_Kupfernagel"
+        ]
+    ]
+}

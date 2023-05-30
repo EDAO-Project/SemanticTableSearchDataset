@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Christine_Nesbitt",
+            "http://dbpedia.org/resource/Shannon_Rempel",
+            "http://dbpedia.org/resource/Laurine_van_Riessen"
+        ],
+        [
+            "http://dbpedia.org/resource/Heerenveen",
+            "http://dbpedia.org/resource/Christine_Nesbitt",
+            "http://dbpedia.org/resource/Kristina_Groves",
+            "http://dbpedia.org/resource/Wang_Beixing"
+        ]
+    ]
+}

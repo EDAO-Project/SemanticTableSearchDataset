@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/XM_Satellite_Radio_Indy_200",
+            "http://dbpedia.org/resource/Phoenix_International_Raceway",
+            "http://dbpedia.org/resource/Avondale,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_500_Classic",
+            "http://dbpedia.org/resource/Atlanta_Motor_Speedway",
+            "http://dbpedia.org/resource/Hampton,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/ABC_Supply_Wisconsin_250",
+            "http://dbpedia.org/resource/Milwaukee_Mile",
+            "http://dbpedia.org/resource/West_Allis,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Prix_of_Cleveland",
+            "http://dbpedia.org/resource/Cleveland_Burke_Lakefront_Airport",
+            "http://dbpedia.org/resource/Cleveland"
+        ],
+        [
+            "http://dbpedia.org/resource/Firestone_Indy_400",
+            "http://dbpedia.org/resource/Michigan_International_Speedway",
+            "http://dbpedia.org/resource/Brooklyn,_Michigan"
+        ]
+    ]
+}

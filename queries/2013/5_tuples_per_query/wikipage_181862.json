@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Palmerston_North",
+            "http://dbpedia.org/resource/Helena_Jansson",
+            "http://dbpedia.org/resource/Ida_Bobach",
+            "http://dbpedia.org/resource/Tatiana_Ryabkina"
+        ],
+        [
+            "http://dbpedia.org/resource/Napier,_New_Zealand",
+            "http://dbpedia.org/resource/Tove_Alexandersson",
+            "http://dbpedia.org/resource/Anne_Margrethe_Hausken",
+            "http://dbpedia.org/resource/Minna_Kauppi"
+        ],
+        [
+            "http://dbpedia.org/resource/Oslo",
+            "http://dbpedia.org/resource/Simone_Niggli-Luder",
+            "http://dbpedia.org/resource/Tove_Alexandersson",
+            "http://dbpedia.org/resource/Lina_Strand"
+        ],
+        [
+            "http://dbpedia.org/resource/Oslo",
+            "http://dbpedia.org/resource/Simone_Niggli-Luder",
+            "http://dbpedia.org/resource/Tove_Alexandersson",
+            "http://dbpedia.org/resource/Mari_Fasting"
+        ],
+        [
+            "http://dbpedia.org/resource/Sigtuna",
+            "http://dbpedia.org/resource/Emma_Klingenberg",
+            "http://dbpedia.org/resource/Simone_Niggli-Luder",
+            "http://dbpedia.org/resource/Judith_Wyder"
+        ]
+    ]
+}

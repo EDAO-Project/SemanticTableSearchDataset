@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ranjal",
+            "http://dbpedia.org/resource/Yedapally",
+            "http://dbpedia.org/resource/Sadasivanagar"
+        ],
+        [
+            "http://dbpedia.org/resource/Nandipet",
+            "http://dbpedia.org/resource/Kotgiri",
+            "http://dbpedia.org/resource/Banswada"
+        ]
+    ]
+}

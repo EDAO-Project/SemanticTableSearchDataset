@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fernando_Atzori",
+            "http://dbpedia.org/resource/Artur_Olech",
+            "http://dbpedia.org/resource/Robert_Carmody"
+        ],
+        [
+            "http://dbpedia.org/resource/Fernando_Atzori",
+            "http://dbpedia.org/resource/Artur_Olech",
+            "http://dbpedia.org/resource/Stanislav_Sorokin"
+        ]
+    ]
+}

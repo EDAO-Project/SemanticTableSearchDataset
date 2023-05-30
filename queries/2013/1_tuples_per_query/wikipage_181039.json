@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Leo_Berman",
+            "http://dbpedia.org/resource/Tyler,_Texas",
+            "http://dbpedia.org/resource/Smith_County,_Texas"
+        ]
+    ]
+}

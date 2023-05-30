@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Big_Sioux_River",
+            "http://dbpedia.org/resource/Big_Sioux_River",
+            "http://dbpedia.org/resource/Iowa",
+            "http://dbpedia.org/resource/Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Plymouth_County,_Iowa",
+            "http://dbpedia.org/resource/Akron,_Iowa"
+        ]
+    ]
+}

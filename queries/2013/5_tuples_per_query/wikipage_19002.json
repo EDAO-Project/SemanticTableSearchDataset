@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vasco_Bergamaschi",
+            "http://dbpedia.org/resource/Romain_Maes",
+            "http://dbpedia.org/resource/Gustaaf_Deloor"
+        ],
+        [
+            "http://dbpedia.org/resource/Fausto_Coppi",
+            "http://dbpedia.org/resource/Jean_Robic",
+            "http://dbpedia.org/resource/Edward_Van_Dijck"
+        ],
+        [
+            "http://dbpedia.org/resource/Fiorenzo_Magni",
+            "http://dbpedia.org/resource/Gino_Bartali",
+            "http://dbpedia.org/resource/Bernardo_Ruiz"
+        ],
+        [
+            "http://dbpedia.org/resource/Fiorenzo_Magni",
+            "http://dbpedia.org/resource/Louison_Bobet",
+            "http://dbpedia.org/resource/Jean_Dotto"
+        ],
+        [
+            "http://dbpedia.org/resource/Charly_Gaul",
+            "http://dbpedia.org/resource/Roger_Walkowiak",
+            "http://dbpedia.org/resource/Angelo_Conterno"
+        ]
+    ]
+}

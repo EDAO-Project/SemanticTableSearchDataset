@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bait_3D",
+            "http://dbpedia.org/resource/Kimble_Rendall",
+            "http://dbpedia.org/resource/Xavier_Samuel"
+        ],
+        [
+            "http://dbpedia.org/resource/Blood_Stained_Shoes",
+            "http://dbpedia.org/resource/Raymond_Yip",
+            "http://dbpedia.org/resource/Ruby_Lin"
+        ]
+    ]
+}

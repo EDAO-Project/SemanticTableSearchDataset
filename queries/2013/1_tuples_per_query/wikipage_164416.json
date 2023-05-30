@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marco_Borriello",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/A.S._Roma"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Murcia",
+            "http://dbpedia.org/resource/Spain",
+            "http://dbpedia.org/resource/Roberto_Bautista_Agut",
+            "http://dbpedia.org/resource/Fabrice_Martin"
+        ]
+    ]
+}

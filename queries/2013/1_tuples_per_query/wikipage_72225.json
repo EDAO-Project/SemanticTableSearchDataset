@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Laser_Squad",
+            "http://dbpedia.org/resource/Target_Games",
+            "http://dbpedia.org/resource/UFO:_Enemy_Unknown"
+        ]
+    ]
+}

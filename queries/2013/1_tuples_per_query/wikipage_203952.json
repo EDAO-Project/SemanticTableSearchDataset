@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/Herbie_Hancock",
+            "http://dbpedia.org/resource/The_Cars"
+        ]
+    ]
+}

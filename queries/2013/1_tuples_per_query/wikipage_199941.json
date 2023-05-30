@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oliver_Bronson_House",
+            "http://dbpedia.org/resource/U.S._Route_9",
+            "http://dbpedia.org/resource/Hudson,_New_York"
+        ]
+    ]
+}

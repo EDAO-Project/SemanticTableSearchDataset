@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sicily",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Palermo"
+        ]
+    ]
+}

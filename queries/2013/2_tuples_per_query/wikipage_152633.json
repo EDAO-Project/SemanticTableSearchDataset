@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Tallinn",
+            "http://dbpedia.org/resource/Tofig_Zulfugarov"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangladesh",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Saiful_Hoque"
+        ]
+    ]
+}

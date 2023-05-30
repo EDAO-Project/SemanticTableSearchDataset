@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/USK_Praha",
+            "http://dbpedia.org/resource/BC_Dinamo_Tbilisi"
+        ]
+    ]
+}

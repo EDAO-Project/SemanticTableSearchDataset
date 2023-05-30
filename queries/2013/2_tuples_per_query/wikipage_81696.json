@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/37th_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/Mehmet_Oz",
+            "http://dbpedia.org/resource/The_Dr._Oz_Show",
+            "http://dbpedia.org/resource/Broadcast_syndication"
+        ],
+        [
+            "http://dbpedia.org/resource/37th_Daytime_Emmy_Awards",
+            "http://dbpedia.org/resource/Bonnie_Hunt",
+            "http://dbpedia.org/resource/The_Bonnie_Hunt_Show",
+            "http://dbpedia.org/resource/Broadcast_syndication"
+        ]
+    ]
+}

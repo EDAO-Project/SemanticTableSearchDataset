@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Althorne_railway_station",
+            "http://dbpedia.org/resource/Maldon_District",
+            "http://dbpedia.org/resource/Greater_Anglia"
+        ],
+        [
+            "http://dbpedia.org/resource/Audley_End_railway_station",
+            "http://dbpedia.org/resource/Uttlesford",
+            "http://dbpedia.org/resource/CrossCountry"
+        ],
+        [
+            "http://dbpedia.org/resource/Basildon_railway_station",
+            "http://dbpedia.org/resource/Borough_of_Basildon",
+            "http://dbpedia.org/resource/C2c"
+        ],
+        [
+            "http://dbpedia.org/resource/Battlesbridge_railway_station",
+            "http://dbpedia.org/resource/City_of_Chelmsford",
+            "http://dbpedia.org/resource/Greater_Anglia"
+        ],
+        [
+            "http://dbpedia.org/resource/Benfleet_railway_station",
+            "http://dbpedia.org/resource/Castle_Point",
+            "http://dbpedia.org/resource/C2c"
+        ]
+    ]
+}

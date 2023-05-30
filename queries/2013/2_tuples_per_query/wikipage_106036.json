@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Antrim_Lower",
+            "http://dbpedia.org/resource/Antrim,_County_Antrim"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Antrim_Upper",
+            "http://dbpedia.org/resource/Antrim,_County_Antrim"
+        ]
+    ]
+}

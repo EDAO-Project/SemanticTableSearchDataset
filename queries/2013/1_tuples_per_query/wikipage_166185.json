@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mitch_Daniels",
+            "http://dbpedia.org/resource/Indiana",
+            "http://dbpedia.org/resource/Office_of_Management_and_Budget"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brabourne_Stadium",
+            "http://dbpedia.org/resource/West_Indies_cricket_team",
+            "http://dbpedia.org/resource/Robin_Bynoe"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Oval",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/Brian_Luckhurst"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tight_end",
+            "http://dbpedia.org/resource/Wilmington,_Los_Angeles",
+            "http://dbpedia.org/resource/Los_Angeles_Harbor_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Athlete",
+            "http://dbpedia.org/resource/Newtown,_Bucks_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Council_Rock_High_School_North"
+        ]
+    ]
+}

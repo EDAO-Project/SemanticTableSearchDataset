@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philip_Aaberg",
+            "http://dbpedia.org/resource/Havre,_Montana",
+            "http://dbpedia.org/resource/Pianist"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Albini",
+            "http://dbpedia.org/resource/Missoula,_Montana",
+            "http://dbpedia.org/resource/Audio_engineer"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Ament",
+            "http://dbpedia.org/resource/Havre,_Montana",
+            "http://dbpedia.org/resource/Bassist"
+        ],
+        [
+            "http://dbpedia.org/resource/Eden_Atwood",
+            "http://dbpedia.org/resource/Missoula,_Montana",
+            "http://dbpedia.org/resource/Jazz"
+        ],
+        [
+            "http://dbpedia.org/resource/Hoyt_Axton",
+            "http://dbpedia.org/resource/Victor,_Montana",
+            "http://dbpedia.org/resource/Folk_music"
+        ]
+    ]
+}

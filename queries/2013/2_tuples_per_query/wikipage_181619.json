@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Crystal_Kay",
+            "http://dbpedia.org/resource/Spin_the_Music",
+            "http://dbpedia.org/resource/Epic_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/BoA",
+            "http://dbpedia.org/resource/Hurricane_Venus",
+            "http://dbpedia.org/resource/S.M._Entertainment"
+        ]
+    ]
+}

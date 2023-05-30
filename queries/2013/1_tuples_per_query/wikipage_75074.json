@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aspero",
+            "http://dbpedia.org/resource/Lima_Region",
+            "http://dbpedia.org/resource/Norte_Chico_civilization",
+            "http://dbpedia.org/resource/Anno_Domini"
+        ]
+    ]
+}

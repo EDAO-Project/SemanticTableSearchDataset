@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Tampa_Bay_Mutiny",
+            "http://dbpedia.org/resource/Tim_Hankinson"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/San_Jose_Earthquakes",
+            "http://dbpedia.org/resource/Tom_Neale"
+        ]
+    ]
+}

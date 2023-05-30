@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SPECTRA_helmet",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/French_Army"
+        ],
+        [
+            "http://dbpedia.org/resource/Advanced_Combat_Helmet",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Modular_Integrated_Communications_Helmet"
+        ]
+    ]
+}

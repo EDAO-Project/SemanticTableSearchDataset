@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_NCAA_Division_I_Field_Hockey_Championship",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Franklin_Field",
+            "http://dbpedia.org/resource/Old_Dominion_Monarchs_and_Lady_Monarchs",
+            "http://dbpedia.org/resource/Connecticut_Huskies"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_NCAA_Division_I_Field_Hockey_Championship",
+            "http://dbpedia.org/resource/Norfolk,_Virginia",
+            "http://dbpedia.org/resource/Foreman_Field",
+            "http://dbpedia.org/resource/Connecticut_Huskies",
+            "http://dbpedia.org/resource/Old_Dominion_Monarchs_and_Lady_Monarchs"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_NCAA_Division_I_Field_Hockey_Championship",
+            "http://dbpedia.org/resource/Norfolk,_Virginia",
+            "http://dbpedia.org/resource/Foreman_Field",
+            "http://dbpedia.org/resource/Iowa_Hawkeyes",
+            "http://dbpedia.org/resource/New_Hampshire_Wildcats"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_NCAA_Division_I_Field_Hockey_Championship",
+            "http://dbpedia.org/resource/Chapel_Hill,_North_Carolina",
+            "http://dbpedia.org/resource/Henry_Stadium",
+            "http://dbpedia.org/resource/Maryland_Terrapins",
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels_field_hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_NCAA_Division_I_Field_Hockey_Championship",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Franklin_Field",
+            "http://dbpedia.org/resource/Old_Dominion_Monarchs_and_Lady_Monarchs",
+            "http://dbpedia.org/resource/Iowa_Hawkeyes"
+        ]
+    ]
+}

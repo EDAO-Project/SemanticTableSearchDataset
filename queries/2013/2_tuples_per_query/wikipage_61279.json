@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1958_Formula_One_season",
+            "http://dbpedia.org/resource/Mike_Hawthorn",
+            "http://dbpedia.org/resource/Vanwall"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_Formula_One_season",
+            "http://dbpedia.org/resource/Jack_Brabham",
+            "http://dbpedia.org/resource/Cooper_Car_Company"
+        ]
+    ]
+}

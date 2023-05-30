@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chrysler_Classic_of_Tucson",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Phil_Mickelson"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix_Open",
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Phil_Mickelson"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Donald_Lippincott",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Stockholm"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackson_Scholz",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Stockholm"
+        ],
+        [
+            "http://dbpedia.org/resource/Charley_Paddock",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Redlands,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Eddie_Tolan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Copenhagen"
+        ],
+        [
+            "http://dbpedia.org/resource/Percy_Williams",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Toronto"
+        ]
+    ]
+}

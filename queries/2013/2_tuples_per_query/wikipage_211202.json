@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ogden_Driskill",
+            "http://dbpedia.org/resource/Devils_Tower",
+            "http://dbpedia.org/resource/Converse_County,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Rothfuss",
+            "http://dbpedia.org/resource/Laramie,_Wyoming",
+            "http://dbpedia.org/resource/Albany_County,_Wyoming"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aval_Appadithan",
+            "http://dbpedia.org/resource/C._Rudhraiya",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Kamal_Haasan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bairavi",
+            "http://dbpedia.org/resource/M._Bhaskar",
+            "http://dbpedia.org/resource/Ilaiyaraaja",
+            "http://dbpedia.org/resource/Rajinikanth"
+        ]
+    ]
+}

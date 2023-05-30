@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arpheuilles,_Cher",
+            "http://dbpedia.org/resource/Augy-sur-Aubois",
+            "http://dbpedia.org/resource/Bannegon",
+            "http://dbpedia.org/resource/Beddes"
+        ],
+        [
+            "http://dbpedia.org/resource/Bussy,_Cher",
+            "http://dbpedia.org/resource/Chalivoy-Milon",
+            "http://dbpedia.org/resource/Chambon,_Cher",
+            "http://dbpedia.org/resource/Charenton-du-Cher"
+        ]
+    ]
+}

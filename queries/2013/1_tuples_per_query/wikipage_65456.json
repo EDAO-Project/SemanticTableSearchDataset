@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_Venezuela_1970",
+            "http://dbpedia.org/resource/Carabobo",
+            "http://dbpedia.org/resource/Bella_La_Rosa",
+            "http://dbpedia.org/resource/Caracas"
+        ]
+    ]
+}

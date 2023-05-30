@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Michael_Schumacher",
+            "http://dbpedia.org/resource/2003_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Formula_One",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/2003_Formula_One_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Champ_Car",
+            "http://dbpedia.org/resource/Paul_Tracy",
+            "http://dbpedia.org/resource/2003_CART_season"
+        ],
+        [
+            "http://dbpedia.org/resource/IndyCar_Series",
+            "http://dbpedia.org/resource/Scott_Dixon",
+            "http://dbpedia.org/resource/2003_IndyCar_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic_Championship",
+            "http://dbpedia.org/resource/A._J._Allmendinger",
+            "http://dbpedia.org/resource/2003_Atlantic_Championship_season"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Holy_Trinity_Church,_Hoghton",
+            "http://dbpedia.org/resource/Robert_Roper",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/Charles_Barry",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Holy_Trinity_Church,_Bolton",
+            "http://dbpedia.org/resource/Philip_Hardwick",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Church_of_St_George,_Chester_Road,_Hulme",
+            "http://dbpedia.org/resource/Francis_Goodwin",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_Manchester",
+            "http://dbpedia.org/resource/Clark_Rampling",
+            "http://dbpedia.org/resource/Gothic_Revival_architecture"
+        ]
+    ]
+}

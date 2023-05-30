@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Winnebago_County,_Illinois",
+            "http://dbpedia.org/resource/Rockford,_Illinois",
+            "http://dbpedia.org/resource/Loves_Park,_Illinois"
+        ]
+    ]
+}

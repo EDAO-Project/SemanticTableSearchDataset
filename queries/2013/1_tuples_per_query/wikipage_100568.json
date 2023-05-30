@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mahendra_Singh_Dhoni",
+            "http://dbpedia.org/resource/Kumar_Sangakkara",
+            "http://dbpedia.org/resource/Shakib_Al_Hasan"
+        ]
+    ]
+}

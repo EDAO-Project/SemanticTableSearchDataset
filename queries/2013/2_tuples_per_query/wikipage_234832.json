@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fifth_and_Madison_Avenues_Line",
+            "http://dbpedia.org/resource/Harlem",
+            "http://dbpedia.org/resource/East_Village,_Manhattan"
+        ],
+        [
+            "http://dbpedia.org/resource/Fifth_and_Madison_Avenues_Line",
+            "http://dbpedia.org/resource/Harlem",
+            "http://dbpedia.org/resource/East_Village,_Manhattan"
+        ]
+    ]
+}

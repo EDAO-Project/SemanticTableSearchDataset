@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fiondella_Field",
+            "http://dbpedia.org/resource/West_Hartford,_Connecticut",
+            "http://dbpedia.org/resource/Connecticut",
+            "http://dbpedia.org/resource/Hartford_Hawks_baseball",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahaney_Diamond",
+            "http://dbpedia.org/resource/Orono,_Maine",
+            "http://dbpedia.org/resource/Maine",
+            "http://dbpedia.org/resource/Maine_Black_Bears_baseball",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_A._LeLacheur_Park",
+            "http://dbpedia.org/resource/Lowell,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/UMass_Lowell_River_Hawks_baseball",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Nathan_Field",
+            "http://dbpedia.org/resource/Stony_Brook,_New_York",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Stony_Brook_Seawolves_baseball",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Baseball_Factory_Field_at_UMBC",
+            "http://dbpedia.org/resource/Catonsville,_Maryland",
+            "http://dbpedia.org/resource/Maryland",
+            "http://dbpedia.org/resource/UMBC_Retrievers_baseball",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ]
+    ]
+}

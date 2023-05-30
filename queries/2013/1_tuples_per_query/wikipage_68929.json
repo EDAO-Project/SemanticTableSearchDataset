@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jean-Pierre_Papin",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Olympique_de_Marseille"
+        ]
+    ]
+}

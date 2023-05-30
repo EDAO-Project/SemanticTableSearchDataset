@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1964_in_sports",
+            "http://dbpedia.org/resource/Percy_Hayles",
+            "http://dbpedia.org/resource/Una_Morris"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_in_sports",
+            "http://dbpedia.org/resource/Jackie_Hendriks",
+            "http://dbpedia.org/resource/Carmen_Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_in_sports",
+            "http://dbpedia.org/resource/Don_Quarrie",
+            "http://dbpedia.org/resource/Marilyn_Neufville"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_in_sports",
+            "http://dbpedia.org/resource/Don_Quarrie",
+            "http://dbpedia.org/resource/Marilyn_Neufville"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_in_sports",
+            "http://dbpedia.org/resource/Don_Quarrie",
+            "http://dbpedia.org/resource/Vivalyn_Latty-Scott"
+        ]
+    ]
+}

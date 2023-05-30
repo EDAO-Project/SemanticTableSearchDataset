@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_Finlandia_Trophy",
+            "http://dbpedia.org/resource/Shepherd_Clark",
+            "http://dbpedia.org/resource/Szabolcs_Vidrai",
+            "http://dbpedia.org/resource/Anthony_Liu"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Finlandia_Trophy",
+            "http://dbpedia.org/resource/Alexei_Yagudin",
+            "http://dbpedia.org/resource/Oleg_Tataurov",
+            "http://dbpedia.org/resource/Evgeni_Plushenko"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_at_Albany,_SUNY",
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/Albany_Great_Danes",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ]
+    ]
+}

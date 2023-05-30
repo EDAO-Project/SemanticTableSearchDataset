@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_of_Adelaide",
+            "http://dbpedia.org/resource/Edwin_Yates",
+            "http://dbpedia.org/resource/Fred_Stacey"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Calare",
+            "http://dbpedia.org/resource/George_Gibbons",
+            "http://dbpedia.org/resource/Harold_Thorby"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Karlsplatz"
+        ],
+        [
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Grand_Kremlin_Palace"
+        ]
+    ]
+}

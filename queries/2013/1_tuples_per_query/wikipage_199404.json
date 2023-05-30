@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ascorbyl_palmitate",
+            "http://dbpedia.org/resource/Fatty_acid",
+            "http://dbpedia.org/resource/Antioxidant"
+        ]
+    ]
+}

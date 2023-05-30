@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stadion_Maksimir",
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/GNK_Dinamo_Zagreb"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Poljud",
+            "http://dbpedia.org/resource/Split,_Croatia",
+            "http://dbpedia.org/resource/HNK_Hajduk_Split"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Gradski_vrt",
+            "http://dbpedia.org/resource/Osijek",
+            "http://dbpedia.org/resource/NK_Osijek"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Kantrida",
+            "http://dbpedia.org/resource/Rijeka",
+            "http://dbpedia.org/resource/HNK_Rijeka"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Aldo_Drosina",
+            "http://dbpedia.org/resource/Pula",
+            "http://dbpedia.org/resource/NK_Istra_1961"
+        ]
+    ]
+}

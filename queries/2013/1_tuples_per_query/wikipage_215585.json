@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_Bolivarian_Games",
+            "http://dbpedia.org/resource/Caracas",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/Peru"
+        ]
+    ]
+}

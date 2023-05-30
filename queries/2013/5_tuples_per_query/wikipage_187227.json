@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/To_Hon_To",
+            "http://dbpedia.org/resource/Kitchee_SC",
+            "http://dbpedia.org/resource/Tai_Po_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Aender_Naves_Mesquita",
+            "http://dbpedia.org/resource/South_China_AA",
+            "http://dbpedia.org/resource/Tai_Po_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Jing_Teng",
+            "http://dbpedia.org/resource/Sun_Hei_SC",
+            "http://dbpedia.org/resource/Tai_Po_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Li_Hon_Ho",
+            "http://dbpedia.org/resource/Eastern_Sports_Club",
+            "http://dbpedia.org/resource/Tai_Po_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Clayton_Michel_Afonso",
+            "http://dbpedia.org/resource/Eastern_Sports_Club",
+            "http://dbpedia.org/resource/Tai_Po_FC"
+        ]
+    ]
+}

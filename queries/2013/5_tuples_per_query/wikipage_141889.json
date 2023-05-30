@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Primitive_Love",
+            "http://dbpedia.org/resource/Gloria_Estefan",
+            "http://dbpedia.org/resource/Epic_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Cuts_Both_Ways",
+            "http://dbpedia.org/resource/Gloria_Estefan",
+            "http://dbpedia.org/resource/Epic_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Amor_Prohibido",
+            "http://dbpedia.org/resource/Selena",
+            "http://dbpedia.org/resource/Capitol_Latin"
+        ],
+        [
+            "http://dbpedia.org/resource/Canciones_de_Mi_Padre",
+            "http://dbpedia.org/resource/Linda_Ronstadt",
+            "http://dbpedia.org/resource/Elektra_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Mi_Tierra",
+            "http://dbpedia.org/resource/Gloria_Estefan",
+            "http://dbpedia.org/resource/Epic_Records"
+        ]
+    ]
+}

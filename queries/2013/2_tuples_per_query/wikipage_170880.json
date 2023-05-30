@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pemphigus_vulgaris",
+            "http://dbpedia.org/resource/Immunoglobulin_G",
+            "http://dbpedia.org/resource/Desmoglein-3"
+        ],
+        [
+            "http://dbpedia.org/resource/Pemphigus_vulgaris",
+            "http://dbpedia.org/resource/Immunoglobulin_G",
+            "http://dbpedia.org/resource/Desmoglein-3"
+        ]
+    ]
+}

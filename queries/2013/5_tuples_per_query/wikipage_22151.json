@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frederick_C._Hicks",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1914",
+            "http://dbpedia.org/resource/Robert_L._Bacon"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Kissel",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1920",
+            "http://dbpedia.org/resource/George_W._Lindsay"
+        ],
+        [
+            "http://dbpedia.org/resource/Warren_I._Lee",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1920",
+            "http://dbpedia.org/resource/Charles_I._Stengle"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_J._Hogan",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1920",
+            "http://dbpedia.org/resource/John_Quayle"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_G._Bond",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1920",
+            "http://dbpedia.org/resource/William_E._Cleary"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1926_European_Aquatics_Championships",
+            "http://dbpedia.org/resource/Budapest",
+            "http://dbpedia.org/resource/Hungary"
+        ],
+        [
+            "http://dbpedia.org/resource/1927_European_Aquatics_Championships",
+            "http://dbpedia.org/resource/Bologna",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

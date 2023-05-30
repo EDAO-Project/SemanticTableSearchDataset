@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Derek_Trevis",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Mick_Mahon",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

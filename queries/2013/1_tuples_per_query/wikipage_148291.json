@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belconnen_Football_Club",
+            "http://dbpedia.org/resource/Canberra",
+            "http://dbpedia.org/resource/Manuka_Oval"
+        ]
+    ]
+}

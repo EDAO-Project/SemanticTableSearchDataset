@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Astro-Zombies",
+            "http://dbpedia.org/resource/Ted_V._Mikels",
+            "http://dbpedia.org/resource/John_Carradine"
+        ]
+    ]
+}

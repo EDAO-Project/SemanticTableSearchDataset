@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Commerzbank_Tower",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Commerzbank"
+        ],
+        [
+            "http://dbpedia.org/resource/Messeturm",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Goldman_Sachs"
+        ],
+        [
+            "http://dbpedia.org/resource/Westendstrasse_1",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/DZ_Bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Main_Tower",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Helaba"
+        ],
+        [
+            "http://dbpedia.org/resource/Tower_185",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/PricewaterhouseCoopers"
+        ]
+    ]
+}

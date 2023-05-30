@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Natalya_Pomoshchnikova-Voronova",
+            "http://dbpedia.org/resource/Andrea_Philipp",
+            "http://dbpedia.org/resource/Natallia_Safronnikava"
+        ]
+    ]
+}

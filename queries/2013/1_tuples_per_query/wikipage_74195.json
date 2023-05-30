@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuusamo",
+            "http://dbpedia.org/resource/Ola_Vigen_Hattestad",
+            "http://dbpedia.org/resource/Tor_Arne_Hetland",
+            "http://dbpedia.org/resource/John_Kristian_Dahl"
+        ]
+    ]
+}

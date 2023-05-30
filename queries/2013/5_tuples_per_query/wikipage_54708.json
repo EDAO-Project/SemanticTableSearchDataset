@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/J._R._Richard",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Ruston,_Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Randy_Sterling",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Key_West,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Bannister",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Buena_Park,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Stanhouse",
+            "http://dbpedia.org/resource/Oakland_Athletics",
+            "http://dbpedia.org/resource/Du_Quoin,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlie_Spikes",
+            "http://dbpedia.org/resource/New_York_Yankees",
+            "http://dbpedia.org/resource/Bogalusa,_Louisiana"
+        ]
+    ]
+}

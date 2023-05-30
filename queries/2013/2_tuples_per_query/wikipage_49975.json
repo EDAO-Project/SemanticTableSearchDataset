@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_in_film",
+            "http://dbpedia.org/resource/Rashomon",
+            "http://dbpedia.org/resource/Akira_Kurosawa"
+        ],
+        [
+            "http://dbpedia.org/resource/1955_in_film",
+            "http://dbpedia.org/resource/Samurai_I:_Musashi_Miyamoto",
+            "http://dbpedia.org/resource/Hiroshi_Inagaki"
+        ]
+    ]
+}

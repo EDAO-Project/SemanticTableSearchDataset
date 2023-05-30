@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama_Jubilee_Hot_Air_Balloon_Classic",
+            "http://dbpedia.org/resource/Decatur,_Alabama",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Albuquerque_International_Balloon_Fiesta",
+            "http://dbpedia.org/resource/Albuquerque,_New_Mexico",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Balloons_over_Waikato",
+            "http://dbpedia.org/resource/Hamilton,_New_Zealand",
+            "http://dbpedia.org/resource/New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Bluegrass_Balloon_Festival",
+            "http://dbpedia.org/resource/Louisville,_Kentucky",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol_International_Balloon_Fiesta",
+            "http://dbpedia.org/resource/Bristol",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ]
+    ]
+}

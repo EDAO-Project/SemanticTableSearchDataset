@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hartford,_Connecticut",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/XL_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Saratoga_Springs,_New_York",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Saratoga_Performing_Arts_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Rutherford,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Izod_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Rutherford,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Izod_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Rutherford,_New_Jersey",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Izod_Center"
+        ]
+    ]
+}

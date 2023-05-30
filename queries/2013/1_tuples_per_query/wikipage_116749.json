@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SSE_plc",
+            "http://dbpedia.org/resource/Loch_Sloy_Hydro-Electric_Scheme",
+            "http://dbpedia.org/resource/Argyll_and_Bute"
+        ]
+    ]
+}

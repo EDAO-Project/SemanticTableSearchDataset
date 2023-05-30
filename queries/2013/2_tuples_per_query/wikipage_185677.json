@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Felipe_Melo"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Turkey",
+            "http://dbpedia.org/resource/Youth_system"
+        ]
+    ]
+}

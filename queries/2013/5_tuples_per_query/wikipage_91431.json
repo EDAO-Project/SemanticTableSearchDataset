@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Golders_Green_Hippodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Leeds",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Leeds_Town_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Lancaster,_Lancashire",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Lancaster_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Liverpool_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Hanley,_Staffordshire",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Victoria_Hall,_Stoke-on-Trent"
+        ]
+    ]
+}

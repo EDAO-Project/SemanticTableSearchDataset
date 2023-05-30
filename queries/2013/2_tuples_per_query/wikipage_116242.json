@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_E._Schluter",
+            "http://dbpedia.org/resource/Chuck_Haytaian",
+            "http://dbpedia.org/resource/Leonard_Lance"
+        ],
+        [
+            "http://dbpedia.org/resource/William_E._Schluter",
+            "http://dbpedia.org/resource/Chuck_Haytaian",
+            "http://dbpedia.org/resource/Leonard_Lance"
+        ]
+    ]
+}

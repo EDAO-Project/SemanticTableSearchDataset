@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sheldon_Adelson",
+            "http://dbpedia.org/resource/Businessperson",
+            "http://dbpedia.org/resource/Las_Vegas_Sands"
+        ]
+    ]
+}

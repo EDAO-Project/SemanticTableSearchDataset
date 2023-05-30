@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elks_Building_and_Theater",
+            "http://dbpedia.org/resource/Prescott,_Arizona",
+            "http://dbpedia.org/resource/National_Register_of_Historic_Places_architectural_style_categories"
+        ]
+    ]
+}

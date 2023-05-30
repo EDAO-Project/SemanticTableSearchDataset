@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rungrado_1st_of_May_Stadium",
+            "http://dbpedia.org/resource/Pyongyang",
+            "http://dbpedia.org/resource/North_Korea",
+            "http://dbpedia.org/resource/North_Korea_national_football_team"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2012_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Vance_Worley",
+            "http://dbpedia.org/resource/Edwin_Jackson",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Philadelphia_Phillies_season",
+            "http://dbpedia.org/resource/Ross_Detwiler",
+            "http://dbpedia.org/resource/Cole_Hamels",
+            "http://dbpedia.org/resource/Tyler_Clippard"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Miami_Marlins_season",
+            "http://dbpedia.org/resource/John_Lannan",
+            "http://dbpedia.org/resource/Brad_Hand",
+            "http://dbpedia.org/resource/Tyler_Clippard"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Miami_Marlins_season",
+            "http://dbpedia.org/resource/Stephen_Strasburg",
+            "http://dbpedia.org/resource/Ricky_Nolasco",
+            "http://dbpedia.org/resource/Drew_Storen"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Houston_Astros_season",
+            "http://dbpedia.org/resource/Drew_Storen",
+            "http://dbpedia.org/resource/Mickey_Storey",
+            "http://dbpedia.org/resource/Tyler_Clippard"
+        ]
+    ]
+}

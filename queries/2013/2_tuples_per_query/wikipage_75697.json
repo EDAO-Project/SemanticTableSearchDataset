@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emanuel_Alston_House",
+            "http://dbpedia.org/resource/U.S._Route_21",
+            "http://dbpedia.org/resource/Frogmore,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._York_Bailey_House",
+            "http://dbpedia.org/resource/U.S._Route_21",
+            "http://dbpedia.org/resource/Frogmore,_South_Carolina"
+        ]
+    ]
+}

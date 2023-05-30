@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rural_Municipality_of_Aberdeen_No._373",
+            "http://dbpedia.org/resource/SARM_Division_No._5",
+            "http://dbpedia.org/resource/Division_No._15,_Saskatchewan"
+        ],
+        [
+            "http://dbpedia.org/resource/Rural_Municipality_of_Abernethy_No._186",
+            "http://dbpedia.org/resource/SARM_Division_No._1",
+            "http://dbpedia.org/resource/Division_No._6,_Saskatchewan"
+        ]
+    ]
+}

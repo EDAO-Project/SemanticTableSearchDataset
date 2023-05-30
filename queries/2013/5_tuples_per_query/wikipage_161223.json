@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cimbrian_War",
+            "http://dbpedia.org/resource/Noricum",
+            "http://dbpedia.org/resource/Roman_Republic",
+            "http://dbpedia.org/resource/Cimbri"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Noreia",
+            "http://dbpedia.org/resource/Neumarkt",
+            "http://dbpedia.org/resource/Roman_Republic",
+            "http://dbpedia.org/resource/Cimbri"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Burdigala",
+            "http://dbpedia.org/resource/Agen",
+            "http://dbpedia.org/resource/Helvetii",
+            "http://dbpedia.org/resource/Roman_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Arausio",
+            "http://dbpedia.org/resource/Orange,_Vaucluse",
+            "http://dbpedia.org/resource/Cimbri",
+            "http://dbpedia.org/resource/Roman_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Aquae_Sextiae",
+            "http://dbpedia.org/resource/Aix-en-Provence",
+            "http://dbpedia.org/resource/Teutons",
+            "http://dbpedia.org/resource/Roman_Republic"
+        ]
+    ]
+}

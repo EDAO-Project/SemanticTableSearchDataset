@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Repulsion",
+            "http://dbpedia.org/resource/Roman_Polanski",
+            "http://dbpedia.org/resource/Poland"
+        ],
+        [
+            "http://dbpedia.org/resource/No_Shooting_Time_for_Foxes",
+            "http://dbpedia.org/resource/Peter_Schamoni",
+            "http://dbpedia.org/resource/West_Germany"
+        ]
+    ]
+}

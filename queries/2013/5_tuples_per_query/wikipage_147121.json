@@ -1,0 +1,31 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Navajo_National_Monument",
+            "http://dbpedia.org/resource/Kayenta,_Arizona",
+            "http://dbpedia.org/resource/Navajo_Nation",
+            "http://dbpedia.org/resource/Navajo_National_Monument"
+        ],
+        [
+            "http://dbpedia.org/resource/Navajo_National_Monument",
+            "http://dbpedia.org/resource/Kayenta,_Arizona",
+            "http://dbpedia.org/resource/Navajo_Nation",
+            "http://dbpedia.org/resource/Navajo_National_Monument"
+        ],
+        [
+            "http://dbpedia.org/resource/Kayenta,_Arizona",
+            "http://dbpedia.org/resource/Navajo_Nation",
+            "http://dbpedia.org/resource/Navajo_National_Monument"
+        ],
+        [
+            "http://dbpedia.org/resource/Tonto_National_Monument",
+            "http://dbpedia.org/resource/Roosevelt,_Arizona",
+            "http://dbpedia.org/resource/Tonto_National_Monument_Archeological_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Tonto_National_Monument",
+            "http://dbpedia.org/resource/Roosevelt,_Arizona",
+            "http://dbpedia.org/resource/Tonto_National_Monument_Archeological_District"
+        ]
+    ]
+}

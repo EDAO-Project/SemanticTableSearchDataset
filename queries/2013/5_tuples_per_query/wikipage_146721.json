@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belluire",
+            "http://dbpedia.org/resource/Berneuil,_Charente-Maritime",
+            "http://dbpedia.org/resource/Beurlay",
+            "http://dbpedia.org/resource/Biron,_Charente-Maritime"
+        ],
+        [
+            "http://dbpedia.org/resource/Bougneau",
+            "http://dbpedia.org/resource/Boutenac-Touvent",
+            "http://dbpedia.org/resource/Brie-sous-Mortagne",
+            "http://dbpedia.org/resource/Brives-sur-Charente"
+        ],
+        [
+            "http://dbpedia.org/resource/Burie",
+            "http://dbpedia.org/resource/Bussac-sur-Charente",
+            "http://dbpedia.org/resource/Chadenac",
+            "http://dbpedia.org/resource/Chaniers"
+        ],
+        [
+            "http://dbpedia.org/resource/Cozes",
+            "http://dbpedia.org/resource/Cravans",
+            "http://dbpedia.org/resource/Crazannes",
+            "http://dbpedia.org/resource/Dompierre-sur-Charente"
+        ],
+        [
+            "http://dbpedia.org/resource/Le_Douhet",
+            "http://dbpedia.org/resource/Le_Seure",
+            "http://dbpedia.org/resource/Les_Essards,_Charente-Maritime",
+            "http://dbpedia.org/resource/Les_Gonds"
+        ]
+    ]
+}

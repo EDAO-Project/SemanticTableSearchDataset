@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1919_Tour_de_France",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Firmin_Lambot",
+            "http://dbpedia.org/resource/La_Sportive"
+        ]
+    ]
+}

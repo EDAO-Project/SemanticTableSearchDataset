@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/Duane_Ward",
+            "http://dbpedia.org/resource/Jeff_Shaw",
+            "http://dbpedia.org/resource/Tom_Henke"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jimmy_Carson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Los_Angeles_Kings",
+            "http://dbpedia.org/resource/Verdun_Junior_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/Neil_Brady",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/New_Jersey_Devils",
+            "http://dbpedia.org/resource/Medicine_Hat_Tigers"
+        ]
+    ]
+}

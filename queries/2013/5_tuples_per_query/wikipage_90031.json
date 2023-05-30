@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Markel_Irizar",
+            "http://dbpedia.org/resource/Euskaltel-Euskadi",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Amets_Txurruka",
+            "http://dbpedia.org/resource/Euskaltel-Euskadi",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Tadej_Valjavec",
+            "http://dbpedia.org/resource/AG2R_La_Mondiale",
+            "http://dbpedia.org/resource/Slovenia"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Efimkin",
+            "http://dbpedia.org/resource/AG2R_La_Mondiale",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Gadret",
+            "http://dbpedia.org/resource/AG2R_La_Mondiale",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

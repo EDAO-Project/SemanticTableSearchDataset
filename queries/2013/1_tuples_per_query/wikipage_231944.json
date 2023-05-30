@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amsterdam_Centraal_railway_station",
+            "http://dbpedia.org/resource/Intercity-Express",
+            "http://dbpedia.org/resource/Arnhem_railway_station"
+        ]
+    ]
+}

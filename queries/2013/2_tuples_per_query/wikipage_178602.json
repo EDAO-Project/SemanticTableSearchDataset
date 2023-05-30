@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Geelong_Football_Club",
+            "http://dbpedia.org/resource/Melbourne_Cricket_Ground",
+            "http://dbpedia.org/resource/Kennett_curse"
+        ],
+        [
+            "http://dbpedia.org/resource/Collingwood_Football_Club",
+            "http://dbpedia.org/resource/Melbourne_Cricket_Ground",
+            "http://dbpedia.org/resource/Taylor_Duryea"
+        ]
+    ]
+}

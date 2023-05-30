@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stadium_Australia",
+            "http://dbpedia.org/resource/British_and_Irish_Lions",
+            "http://dbpedia.org/resource/2013_British_and_Irish_Lions_tour_to_Australia"
+        ]
+    ]
+}

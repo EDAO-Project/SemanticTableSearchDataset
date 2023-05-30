@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angola",
+            "http://dbpedia.org/resource/List_of_moths_of_Angola",
+            "http://dbpedia.org/resource/List_of_butterflies_of_Angola"
+        ],
+        [
+            "http://dbpedia.org/resource/Benin",
+            "http://dbpedia.org/resource/List_of_moths_of_Benin",
+            "http://dbpedia.org/resource/List_of_butterflies_of_Benin"
+        ],
+        [
+            "http://dbpedia.org/resource/Botswana",
+            "http://dbpedia.org/resource/List_of_moths_of_Botswana",
+            "http://dbpedia.org/resource/List_of_butterflies_of_Botswana"
+        ],
+        [
+            "http://dbpedia.org/resource/Burkina_Faso",
+            "http://dbpedia.org/resource/List_of_moths_of_Burkina_Faso",
+            "http://dbpedia.org/resource/List_of_butterflies_of_Burkina_Faso"
+        ],
+        [
+            "http://dbpedia.org/resource/Burundi",
+            "http://dbpedia.org/resource/List_of_moths_of_Burundi",
+            "http://dbpedia.org/resource/List_of_butterflies_of_Burundi"
+        ]
+    ]
+}

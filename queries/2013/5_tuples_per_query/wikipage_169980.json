@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2011_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/Adrian_Lewis"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2010_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/Scott_Waites"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2010_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/James_Wade"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/2010_Grand_Slam_of_Darts",
+            "http://dbpedia.org/resource/Steve_Beaton"
+        ],
+        [
+            "http://dbpedia.org/resource/PDC_World_Darts_Championship",
+            "http://dbpedia.org/resource/2012_PDC_World_Darts_Championship",
+            "http://dbpedia.org/resource/Simon_Whitlock"
+        ]
+    ]
+}

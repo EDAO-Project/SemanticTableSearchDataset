@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Savannah,_Georgia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Savannah_Civic_Center"
+        ]
+    ]
+}

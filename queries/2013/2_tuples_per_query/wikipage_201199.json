@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shanna_Moakler",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Miss_New_York_USA",
+            "http://dbpedia.org/resource/Chelsi_Smith",
+            "http://dbpedia.org/resource/Miss_Rhode_Island_Teen_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_USA_1996",
+            "http://dbpedia.org/resource/Ali_Landry",
+            "http://dbpedia.org/resource/Breaux_Bridge,_Louisiana",
+            "http://dbpedia.org/resource/Miss_Louisiana_USA",
+            "http://dbpedia.org/resource/Miss_Louisiana_Teen_USA"
+        ]
+    ]
+}

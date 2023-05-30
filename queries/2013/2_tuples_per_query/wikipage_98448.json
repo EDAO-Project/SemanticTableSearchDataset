@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_college_football_season",
+            "http://dbpedia.org/resource/Bo_Schembechler",
+            "http://dbpedia.org/resource/Miami_RedHawks_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_college_football_season",
+            "http://dbpedia.org/resource/Bill_Doolittle",
+            "http://dbpedia.org/resource/Western_Michigan_Broncos_football"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barcaldine_Castle",
+            "http://dbpedia.org/resource/Benderloch",
+            "http://dbpedia.org/resource/Tower_house"
+        ],
+        [
+            "http://dbpedia.org/resource/Oronsay_Priory",
+            "http://dbpedia.org/resource/Oronsay,_Inner_Hebrides",
+            "http://dbpedia.org/resource/Augustinians"
+        ],
+        [
+            "http://dbpedia.org/resource/Carnasserie_Castle",
+            "http://dbpedia.org/resource/Kilmartin",
+            "http://dbpedia.org/resource/Tower_house"
+        ],
+        [
+            "http://dbpedia.org/resource/Dunderave_Castle",
+            "http://dbpedia.org/resource/Loch_Fyne",
+            "http://dbpedia.org/resource/Tower_house"
+        ],
+        [
+            "http://dbpedia.org/resource/Dunollie_Castle",
+            "http://dbpedia.org/resource/Oban",
+            "http://dbpedia.org/resource/Keep"
+        ]
+    ]
+}

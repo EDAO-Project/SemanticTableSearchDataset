@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Makaridja_Sanganoko",
+            "http://dbpedia.org/resource/Venolyn_Clarke",
+            "http://dbpedia.org/resource/Hanitriniaina_Rakotondrabe"
+        ],
+        [
+            "http://dbpedia.org/resource/Diane_Cummins",
+            "http://dbpedia.org/resource/Irina_Krakoviak-Tolstika",
+            "http://dbpedia.org/resource/Peggy_Babin"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ben_McDonald",
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Louisiana_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyle_Abbott",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/California_State_University,_Long_Beach"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yvonne_Reynders",
+            "http://dbpedia.org/resource/Beryl_Burton",
+            "http://dbpedia.org/resource/Elsy_Jacobs"
+        ],
+        [
+            "http://dbpedia.org/resource/Beryl_Burton",
+            "http://dbpedia.org/resource/Lyubov_Zadorozhnaya",
+            "http://dbpedia.org/resource/Anna_Konkina"
+        ],
+        [
+            "http://dbpedia.org/resource/Audrey_McElmury",
+            "http://dbpedia.org/resource/Bernadette_Swinnerton",
+            "http://dbpedia.org/resource/Nina_Gopova"
+        ],
+        [
+            "http://dbpedia.org/resource/Josiane_Bost",
+            "http://dbpedia.org/resource/Connie_Carpenter-Phinney",
+            "http://dbpedia.org/resource/Minie_Brinkhoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Ute_Enzenauer",
+            "http://dbpedia.org/resource/Jeannie_Longo",
+            "http://dbpedia.org/resource/Connie_Carpenter-Phinney"
+        ]
+    ]
+}

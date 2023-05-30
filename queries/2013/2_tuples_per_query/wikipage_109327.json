@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Copenhagen",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Tivoli_Gardens"
+        ],
+        [
+            "http://dbpedia.org/resource/Stockholm",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Hovet"
+        ]
+    ]
+}

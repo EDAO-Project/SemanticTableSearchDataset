@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Naval_Museum_of_Halifax",
+            "http://dbpedia.org/resource/Halifax,_Nova_Scotia",
+            "http://dbpedia.org/resource/CFB_Halifax"
+        ],
+        [
+            "http://dbpedia.org/resource/Africville",
+            "http://dbpedia.org/resource/Halifax,_Nova_Scotia",
+            "http://dbpedia.org/resource/Black_Nova_Scotians"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Graham_Bell_National_Historic_Site",
+            "http://dbpedia.org/resource/Baddeck,_Nova_Scotia",
+            "http://dbpedia.org/resource/Alexander_Graham_Bell"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaubassin",
+            "http://dbpedia.org/resource/Fort_Lawrence,_Nova_Scotia",
+            "http://dbpedia.org/resource/Acadians"
+        ],
+        [
+            "http://dbpedia.org/resource/Debert_Palaeo-Indian_Site",
+            "http://dbpedia.org/resource/Debert",
+            "http://dbpedia.org/resource/Paleo-Indians"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Star_Crusader",
+            "http://dbpedia.org/resource/DOS",
+            "http://dbpedia.org/resource/Take-Two_Interactive"
+        ],
+        [
+            "http://dbpedia.org/resource/Hell:_A_Cyberpunk_Thriller",
+            "http://dbpedia.org/resource/3DO_Interactive_Multiplayer",
+            "http://dbpedia.org/resource/GameTek"
+        ],
+        [
+            "http://dbpedia.org/resource/Hell:_A_Cyberpunk_Thriller",
+            "http://dbpedia.org/resource/DOS",
+            "http://dbpedia.org/resource/GameTek"
+        ],
+        [
+            "http://dbpedia.org/resource/Hell:_A_Cyberpunk_Thriller",
+            "http://dbpedia.org/resource/Mac_OS",
+            "http://dbpedia.org/resource/GameTek"
+        ],
+        [
+            "http://dbpedia.org/resource/Bureau_13",
+            "http://dbpedia.org/resource/DOS",
+            "http://dbpedia.org/resource/GameTek"
+        ]
+    ]
+}

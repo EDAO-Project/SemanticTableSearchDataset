@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bayou_Music_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Comerica_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Anaheim,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/City_National_Grove_of_Anaheim"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toyota_Land_Cruiser",
+            "http://dbpedia.org/resource/Toyota",
+            "http://dbpedia.org/resource/Police_car"
+        ],
+        [
+            "http://dbpedia.org/resource/Opel_Vectra",
+            "http://dbpedia.org/resource/Opel",
+            "http://dbpedia.org/resource/Police_car"
+        ],
+        [
+            "http://dbpedia.org/resource/Peugeot_406",
+            "http://dbpedia.org/resource/Peugeot",
+            "http://dbpedia.org/resource/Police_car"
+        ],
+        [
+            "http://dbpedia.org/resource/Renault_Laguna",
+            "http://dbpedia.org/resource/Renault",
+            "http://dbpedia.org/resource/Police_car"
+        ],
+        [
+            "http://dbpedia.org/resource/Honda_CR-V",
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Police_car"
+        ]
+    ]
+}

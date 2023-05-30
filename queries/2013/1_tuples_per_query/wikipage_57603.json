@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Super_Destroyers",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

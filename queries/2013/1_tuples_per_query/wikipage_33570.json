@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_World_Wrestling_Championships",
+            "http://dbpedia.org/resource/Helsinki",
+            "http://dbpedia.org/resource/Turkey"
+        ]
+    ]
+}

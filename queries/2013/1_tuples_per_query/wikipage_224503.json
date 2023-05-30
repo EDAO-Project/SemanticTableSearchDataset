@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BMS_Scuderia_Italia",
+            "http://dbpedia.org/resource/Ferrari_550",
+            "http://dbpedia.org/resource/Ferrari"
+        ]
+    ]
+}

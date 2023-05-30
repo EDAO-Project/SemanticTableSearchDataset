@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Paul_Kariya",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Nikolai_Tsulygin",
+            "http://dbpedia.org/resource/Russia"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bucknell_Bison",
+            "http://dbpedia.org/resource/Bucknell_University",
+            "http://dbpedia.org/resource/Lewisburg,_Pennsylvania",
+            "http://dbpedia.org/resource/Patriot_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Drexel_Dragons",
+            "http://dbpedia.org/resource/Drexel_University",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Colonial_Athletic_Association"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Tiger_Woods"
+        ]
+    ]
+}

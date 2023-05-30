@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/Sydney_Olympic_Park",
+            "http://dbpedia.org/resource/Feleti_Mateo",
+            "http://dbpedia.org/resource/Luke_Burt"
+        ]
+    ]
+}

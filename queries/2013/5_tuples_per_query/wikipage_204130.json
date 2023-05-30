@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Theodore_I_Laskaris",
+            "http://dbpedia.org/resource/Alexios_III_Angelos",
+            "http://dbpedia.org/resource/Empire_of_Nicaea"
+        ],
+        [
+            "http://dbpedia.org/resource/Leo_Sgouros",
+            "http://dbpedia.org/resource/Alexios_III_Angelos",
+            "http://dbpedia.org/resource/Fourth_Crusade"
+        ],
+        [
+            "http://dbpedia.org/resource/Enrico_Dandolo",
+            "http://dbpedia.org/resource/Baldwin_I,_Latin_Emperor",
+            "http://dbpedia.org/resource/Doge_of_Venice"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexius_Slav",
+            "http://dbpedia.org/resource/Henry_of_Flanders",
+            "http://dbpedia.org/resource/Rhodope_Mountains"
+        ],
+        [
+            "http://dbpedia.org/resource/Manuel_Doukas",
+            "http://dbpedia.org/resource/Theodore_Komnenos_Doukas",
+            "http://dbpedia.org/resource/Thessaloniki"
+        ]
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Orleans_Pelicans",
+            "http://dbpedia.org/resource/Jared_Dudley",
+            "http://dbpedia.org/resource/Channing_Frye",
+            "http://dbpedia.org/resource/Steve_Nash",
+            "http://dbpedia.org/resource/Talking_Stick_Resort_Arena"
+        ]
+    ]
+}

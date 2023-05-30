@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armored_Car_Robbery",
+            "http://dbpedia.org/resource/Richard_Fleischer",
+            "http://dbpedia.org/resource/Charles_McGraw"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Asphalt_Jungle",
+            "http://dbpedia.org/resource/John_Huston",
+            "http://dbpedia.org/resource/Sterling_Hayden"
+        ]
+    ]
+}

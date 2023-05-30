@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Reus_Deportiu",
+            "http://dbpedia.org/resource/CP_Vilanova"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fabian_Blattman",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Joanne_Bradshaw",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_Eaton",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Rebecca_Feldman",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Anton_Flavel",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Paralympics"
+        ]
+    ]
+}

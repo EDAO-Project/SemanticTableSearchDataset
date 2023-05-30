@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Unapologetic",
+            "http://dbpedia.org/resource/Rihanna",
+            "http://dbpedia.org/resource/Def_Jam_Recordings"
+        ],
+        [
+            "http://dbpedia.org/resource/Unapologetic",
+            "http://dbpedia.org/resource/Rihanna",
+            "http://dbpedia.org/resource/Def_Jam_Recordings"
+        ],
+        [
+            "http://dbpedia.org/resource/Long._Live._ASAP",
+            "http://dbpedia.org/resource/ASAP_Rocky",
+            "http://dbpedia.org/resource/ASAP_Mob"
+        ],
+        [
+            "http://dbpedia.org/resource/Magna_Carta_Holy_Grail",
+            "http://dbpedia.org/resource/Jay_Z",
+            "http://dbpedia.org/resource/Roc-A-Fella_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Magna_Carta_Holy_Grail",
+            "http://dbpedia.org/resource/Jay_Z",
+            "http://dbpedia.org/resource/Roc-A-Fella_Records"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/C-class_cruiser",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Light_cruiser"
+        ],
+        [
+            "http://dbpedia.org/resource/Cachalot-class_submarine",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Submarine"
+        ]
+    ]
+}

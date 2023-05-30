@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_Fed_Cup",
+            "http://dbpedia.org/resource/Antalya",
+            "http://dbpedia.org/resource/Portugal_Fed_Cup_team",
+            "http://dbpedia.org/resource/Magali_de_Lattre"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Fed_Cup",
+            "http://dbpedia.org/resource/Antalya",
+            "http://dbpedia.org/resource/Georgia_Fed_Cup_team",
+            "http://dbpedia.org/resource/Margalita_Chakhnashvili"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Fed_Cup",
+            "http://dbpedia.org/resource/Plovdiv",
+            "http://dbpedia.org/resource/Luxembourg_Fed_Cup_team",
+            "http://dbpedia.org/resource/Anne_Kremer"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Fed_Cup",
+            "http://dbpedia.org/resource/Plovdiv",
+            "http://dbpedia.org/resource/Bulgaria_Fed_Cup_team",
+            "http://dbpedia.org/resource/Tsvetana_Pironkova"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Fed_Cup",
+            "http://dbpedia.org/resource/Plovdiv",
+            "http://dbpedia.org/resource/Great_Britain_Fed_Cup_team",
+            "http://dbpedia.org/resource/Naomi_Cavaday"
+        ]
+    ]
+}

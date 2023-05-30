@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_2",
+            "http://dbpedia.org/resource/Interstate_87",
+            "http://dbpedia.org/resource/Massachusetts_Route_2",
+            "http://dbpedia.org/resource/U.S._Route_11_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_7",
+            "http://dbpedia.org/resource/Pennsylvania_Route_29",
+            "http://dbpedia.org/resource/Vermont_Route_9",
+            "http://dbpedia.org/resource/New_York_State_Route_43"
+        ]
+    ]
+}

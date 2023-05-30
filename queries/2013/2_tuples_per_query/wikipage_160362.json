@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FK_Borac_Banja_Luka",
+            "http://dbpedia.org/resource/Banja_Luka",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Bosnia_and_Herzegovina"
+        ],
+        [
+            "http://dbpedia.org/resource/HNK_Borovo",
+            "http://dbpedia.org/resource/Borovo_Naselje",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Croatia"
+        ]
+    ]
+}

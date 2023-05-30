@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lynn_Schneemeyer",
+            "http://dbpedia.org/resource/Materials_science",
+            "http://dbpedia.org/resource/Rutgers_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Herman_Sokol",
+            "http://dbpedia.org/resource/Pemetrexed",
+            "http://dbpedia.org/resource/Bristol-Myers_Squibb"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_C._Taylor",
+            "http://dbpedia.org/resource/Tetracycline",
+            "http://dbpedia.org/resource/Princeton_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_M._Sessler",
+            "http://dbpedia.org/resource/Electret_microphone",
+            "http://dbpedia.org/resource/Bell_Labs"
+        ],
+        [
+            "http://dbpedia.org/resource/Willard_Boyle",
+            "http://dbpedia.org/resource/Charge-coupled_device",
+            "http://dbpedia.org/resource/Bell_Labs"
+        ]
+    ]
+}

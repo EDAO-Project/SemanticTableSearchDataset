@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Above_All_State_Park",
+            "http://dbpedia.org/resource/Warren,_Connecticut",
+            "http://dbpedia.org/resource/Litchfield_County,_Connecticut",
+            "http://dbpedia.org/resource/Semi-Automatic_Ground_Environment"
+        ],
+        [
+            "http://dbpedia.org/resource/Becket_Hill_State_Park_Reserve",
+            "http://dbpedia.org/resource/Lyme,_Connecticut",
+            "http://dbpedia.org/resource/New_London_County,_Connecticut",
+            "http://dbpedia.org/resource/Nehantic_State_Forest"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ain",
+            "http://dbpedia.org/resource/Belley",
+            "http://dbpedia.org/resource/Arrondissement_of_Belley"
+        ]
+    ]
+}

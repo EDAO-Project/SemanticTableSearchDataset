@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kelsey_Grammer",
+            "http://dbpedia.org/resource/Sideshow_Bob",
+            "http://dbpedia.org/resource/Krusty_Gets_Busted"
+        ],
+        [
+            "http://dbpedia.org/resource/Phil_Hartman",
+            "http://dbpedia.org/resource/Lionel_Hutz",
+            "http://dbpedia.org/resource/Bart_Gets_Hit_by_a_Car"
+        ],
+        [
+            "http://dbpedia.org/resource/Phil_Hartman",
+            "http://dbpedia.org/resource/Troy_McClure",
+            "http://dbpedia.org/resource/Homer_vs._Lisa_and_the_8th_Commandment"
+        ],
+        [
+            "http://dbpedia.org/resource/Neil_Patrick_Harris",
+            "http://dbpedia.org/resource/Bart_Simpson",
+            "http://dbpedia.org/resource/Bart_the_Murderer"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Mantegna",
+            "http://dbpedia.org/resource/Fat_Tony",
+            "http://dbpedia.org/resource/Bart_the_Murderer"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Metro_Vancouver",
+            "http://dbpedia.org/resource/Surrey,_British_Columbia",
+            "http://dbpedia.org/resource/British_Columbia_Highway_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Metro_Vancouver",
+            "http://dbpedia.org/resource/Delta,_British_Columbia",
+            "http://dbpedia.org/resource/BC_Ferries"
+        ]
+    ]
+}

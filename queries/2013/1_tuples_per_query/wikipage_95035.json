@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SUNY_Adirondack",
+            "http://dbpedia.org/resource/Community_college",
+            "http://dbpedia.org/resource/Queensbury,_New_York",
+            "http://dbpedia.org/resource/State_University_of_New_York"
+        ]
+    ]
+}

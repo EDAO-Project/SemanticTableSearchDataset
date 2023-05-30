@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Apostle_Islands_Lighthouses",
+            "http://dbpedia.org/resource/Bayfield,_Wisconsin",
+            "http://dbpedia.org/resource/Lighthouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashland_Harbor_Breakwater_Light",
+            "http://dbpedia.org/resource/Ashland,_Wisconsin",
+            "http://dbpedia.org/resource/Corps_of_Engineers"
+        ]
+    ]
+}

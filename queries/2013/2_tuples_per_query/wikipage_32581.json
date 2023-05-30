@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Country_Club",
+            "http://dbpedia.org/resource/Matthew_Fitzpatrick",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Oliver_Goss"
+        ],
+        [
+            "http://dbpedia.org/resource/Erin_Hills",
+            "http://dbpedia.org/resource/Kelly_Kraft",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Patrick_Cantlay"
+        ]
+    ]
+}

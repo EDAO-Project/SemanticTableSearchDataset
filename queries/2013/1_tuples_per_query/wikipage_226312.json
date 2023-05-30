@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_recurring_The_Simpsons_characters",
+            "http://dbpedia.org/resource/George_Takei",
+            "http://dbpedia.org/resource/One_Fish,_Two_Fish,_Blowfish,_Blue_Fish"
+        ]
+    ]
+}

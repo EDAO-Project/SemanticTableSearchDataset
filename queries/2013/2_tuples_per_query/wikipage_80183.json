@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Warburton_School",
+            "http://dbpedia.org/resource/Warburton,_Greater_Manchester",
+            "http://dbpedia.org/resource/Rowland_Egerton-Warburton"
+        ],
+        [
+            "http://dbpedia.org/resource/Dutch_Tea_House,_Eaton_Hall",
+            "http://dbpedia.org/resource/Eaton_Hall,_Cheshire",
+            "http://dbpedia.org/resource/Hugh_Grosvenor,_1st_Duke_of_Westminster"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/British_Columbia",
+            "http://dbpedia.org/resource/Dawson_Creek",
+            "http://dbpedia.org/resource/British_Columbia_Highway_49"
+        ]
+    ]
+}

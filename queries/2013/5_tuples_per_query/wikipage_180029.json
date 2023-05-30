@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miralem_Sulejmani",
+            "http://dbpedia.org/resource/AFC_Ajax",
+            "http://dbpedia.org/resource/S.L._Benfica"
+        ],
+        [
+            "http://dbpedia.org/resource/Rafael_Porcellis",
+            "http://dbpedia.org/resource/C.D._Santa_Clara",
+            "http://dbpedia.org/resource/S.C._Braga"
+        ],
+        [
+            "http://dbpedia.org/resource/Jefferson_Nascimento",
+            "http://dbpedia.org/resource/G.D._Estoril_Praia",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlos_Eduardo_de_Oliveira_Alves",
+            "http://dbpedia.org/resource/G.D._Estoril_Praia",
+            "http://dbpedia.org/resource/FC_Porto"
+        ],
+        [
+            "http://dbpedia.org/resource/Babanco",
+            "http://dbpedia.org/resource/S.C._Olhanense",
+            "http://dbpedia.org/resource/G.D._Estoril_Praia"
+        ]
+    ]
+}

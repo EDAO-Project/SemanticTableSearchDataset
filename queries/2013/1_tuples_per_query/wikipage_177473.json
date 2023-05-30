@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_Anseriformes_by_population",
+            "http://dbpedia.org/resource/Laysan_duck",
+            "http://dbpedia.org/resource/Mallard"
+        ]
+    ]
+}

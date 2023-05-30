@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mexico_City",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/National_Auditorium"
+        ],
+        [
+            "http://dbpedia.org/resource/Monterrey",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Monterrey_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kings_of_Leon",
+            "http://dbpedia.org/resource/Sex_on_Fire",
+            "http://dbpedia.org/resource/Sony_BMG"
+        ],
+        [
+            "http://dbpedia.org/resource/Kings_of_Leon",
+            "http://dbpedia.org/resource/Use_Somebody",
+            "http://dbpedia.org/resource/Sony_BMG"
+        ],
+        [
+            "http://dbpedia.org/resource/Leona_Lewis",
+            "http://dbpedia.org/resource/Bleeding_Love",
+            "http://dbpedia.org/resource/Sony_BMG"
+        ],
+        [
+            "http://dbpedia.org/resource/Snow_Patrol",
+            "http://dbpedia.org/resource/Chasing_Cars",
+            "http://dbpedia.org/resource/Universal_Music_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Katy_Perry",
+            "http://dbpedia.org/resource/I_Kissed_a_Girl",
+            "http://dbpedia.org/resource/EMI"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algoma_East",
+            "http://dbpedia.org/resource/Lester_B._Pearson",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Algoma_West",
+            "http://dbpedia.org/resource/George_E._Nixon",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Essex_South",
+            "http://dbpedia.org/resource/Murray_Clark",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Grey_North",
+            "http://dbpedia.org/resource/Colin_Emerson_Bennett",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Hastings_South",
+            "http://dbpedia.org/resource/Frank_Follwell",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ]
+    ]
+}

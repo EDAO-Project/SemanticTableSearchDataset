@@ -1,0 +1,28 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1887_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/1887_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/Atlantic_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/1887_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/1887_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/1908_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/1908_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/1925_Florida_tropical_storm",
+            "http://dbpedia.org/resource/1925_Atlantic_hurricane_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1932_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/1932_Atlantic_hurricane_season",
+            "http://dbpedia.org/resource/Dominican_Republic"
+        ]
+    ]
+}

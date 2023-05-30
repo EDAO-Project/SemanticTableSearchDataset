@@ -1,0 +1,32 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/National_Reconnaissance_Office",
+            "http://dbpedia.org/resource/Sun-synchronous_orbit",
+            "http://dbpedia.org/resource/Medical_optical_imaging"
+        ],
+        [
+            "http://dbpedia.org/resource/Intelsat",
+            "http://dbpedia.org/resource/Geosynchronous_orbit",
+            "http://dbpedia.org/resource/Communications_satellite"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle",
+            "http://dbpedia.org/resource/Space_Shuttle",
+            "http://dbpedia.org/resource/Kennedy_Space_Center",
+            "http://dbpedia.org/resource/Kennedy_Space_Center",
+            "http://dbpedia.org/resource/United_Space_Alliance",
+            "http://dbpedia.org/resource/United_Space_Alliance"
+        ],
+        [
+            "http://dbpedia.org/resource/STS-3",
+            "http://dbpedia.org/resource/NASA",
+            "http://dbpedia.org/resource/Low_Earth_orbit"
+        ],
+        [
+            "http://dbpedia.org/resource/Military",
+            "http://dbpedia.org/resource/Low_Earth_orbit",
+            "http://dbpedia.org/resource/Communications_satellite"
+        ]
+    ]
+}

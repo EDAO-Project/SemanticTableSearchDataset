@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Richard_Onslow,_1st_Baron_Onslow",
+            "http://dbpedia.org/resource/Thomas_Onslow,_2nd_Baron_Onslow",
+            "http://dbpedia.org/resource/Teller_of_the_Receipt_of_the_Exchequer"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Onslow,_2nd_Baron_Onslow",
+            "http://dbpedia.org/resource/Sir_William_Clayton,_1st_Baronet",
+            "http://dbpedia.org/resource/Out-Ranger_of_Windsor_Forest"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Marsham,_1st_Baron_Romney",
+            "http://dbpedia.org/resource/Barnham_Rider",
+            "http://dbpedia.org/resource/Earl_of_Romney"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Cadogan,_1st_Earl_Cadogan",
+            "http://dbpedia.org/resource/William_Clayton,_1st_Baron_Sundon",
+            "http://dbpedia.org/resource/Earl_Cadogan"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Pitt",
+            "http://dbpedia.org/resource/Sir_William_Strickland,_3rd_Baronet",
+            "http://dbpedia.org/resource/List_of_Governors_of_Jamaica"
+        ]
+    ]
+}

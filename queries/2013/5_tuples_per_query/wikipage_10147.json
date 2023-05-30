@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_Detroit_Tigers_season",
+            "http://dbpedia.org/resource/Chien-Ming_Wang",
+            "http://dbpedia.org/resource/Nate_Robertson",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Cleveland_Indians_season",
+            "http://dbpedia.org/resource/Chien-Ming_Wang",
+            "http://dbpedia.org/resource/Cliff_Lee",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Cleveland_Indians_season",
+            "http://dbpedia.org/resource/Scott_Elarton",
+            "http://dbpedia.org/resource/Darrell_May",
+            "http://dbpedia.org/resource/Bob_Wickman"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Cleveland_Indians_season",
+            "http://dbpedia.org/resource/Randy_Johnson",
+            "http://dbpedia.org/resource/Jake_Westbrook",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Boston_Red_Sox_season",
+            "http://dbpedia.org/resource/Tom_Gordon",
+            "http://dbpedia.org/resource/Curt_Schilling",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ]
+    ]
+}

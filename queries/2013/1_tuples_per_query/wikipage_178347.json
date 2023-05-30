@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Delhi_Daredevils",
+            "http://dbpedia.org/resource/Delhi",
+            "http://dbpedia.org/resource/Sachin_Tendulkar"
+        ]
+    ]
+}

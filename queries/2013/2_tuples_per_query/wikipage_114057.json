@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1961_LPGA_Championship",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mickey_Wright",
+            "http://dbpedia.org/resource/Paradise_Palms",
+            "http://dbpedia.org/resource/Paradise,_Nevada"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_LPGA_Championship",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Judy_Kimball",
+            "http://dbpedia.org/resource/Paradise_Palms",
+            "http://dbpedia.org/resource/Paradise,_Nevada"
+        ]
+    ]
+}

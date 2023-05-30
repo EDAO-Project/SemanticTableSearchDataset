@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ron_Widby",
+            "http://dbpedia.org/resource/Tennessee_Volunteers_basketball",
+            "http://dbpedia.org/resource/Small_forward"
+        ],
+        [
+            "http://dbpedia.org/resource/Pete_Maravich",
+            "http://dbpedia.org/resource/LSU_Tigers_basketball",
+            "http://dbpedia.org/resource/Point_guard"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Werner_Haas",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/NSU_Motorenwerke"
+        ]
+    ]
+}

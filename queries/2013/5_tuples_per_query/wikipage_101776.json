@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Omloop_Het_Nieuwsblad",
+            "http://dbpedia.org/resource/Juan_Antonio_Flecha",
+            "http://dbpedia.org/resource/Heinrich_Haussler",
+            "http://dbpedia.org/resource/Tyler_Farrar"
+        ],
+        [
+            "http://dbpedia.org/resource/E3_Harelbeke",
+            "http://dbpedia.org/resource/Fabian_Cancellara",
+            "http://dbpedia.org/resource/Tom_Boonen",
+            "http://dbpedia.org/resource/Juan_Antonio_Flecha"
+        ],
+        [
+            "http://dbpedia.org/resource/Scheldeprijs",
+            "http://dbpedia.org/resource/Tyler_Farrar",
+            "http://dbpedia.org/resource/Robbie_McEwen",
+            "http://dbpedia.org/resource/Robert_Forster"
+        ],
+        [
+            "http://dbpedia.org/resource/Eschborn-Frankfurt_City_Loop",
+            "http://dbpedia.org/resource/Fabian_Wegmann",
+            "http://dbpedia.org/resource/Geert_Verheyen",
+            "http://dbpedia.org/resource/Bert_Scheirlinckx"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_International_Championship",
+            "http://dbpedia.org/resource/Matthew_Goss",
+            "http://dbpedia.org/resource/Peter_Sagan",
+            "http://dbpedia.org/resource/Alexander_Kristoff"
+        ]
+    ]
+}

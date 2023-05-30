@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benevento_Calcio",
+            "http://dbpedia.org/resource/Benevento",
+            "http://dbpedia.org/resource/Stadio_Ciro_Vigorito"
+        ]
+    ]
+}

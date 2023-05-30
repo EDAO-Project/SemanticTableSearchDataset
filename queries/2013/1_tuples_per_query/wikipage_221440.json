@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Daga_Island",
+            "http://dbpedia.org/resource/Lake_Tana",
+            "http://dbpedia.org/resource/Ethiopia"
+        ]
+    ]
+}

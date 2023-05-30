@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ernst-Happel-Stadion",
+            "http://dbpedia.org/resource/Austria_national_football_team",
+            "http://dbpedia.org/resource/Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Linzer_Stadion",
+            "http://dbpedia.org/resource/LASK_Linz",
+            "http://dbpedia.org/resource/Linz"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/SK_Rapid_Wien",
+            "http://dbpedia.org/resource/Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Pappelstadion",
+            "http://dbpedia.org/resource/SV_Mattersburg",
+            "http://dbpedia.org/resource/Mattersburg"
+        ],
+        [
+            "http://dbpedia.org/resource/UPC-Arena",
+            "http://dbpedia.org/resource/SK_Sturm_Graz",
+            "http://dbpedia.org/resource/Graz"
+        ]
+    ]
+}

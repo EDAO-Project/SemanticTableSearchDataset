@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Guber",
+            "http://dbpedia.org/resource/Film",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sony_Pictures_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbia_Pictures",
+            "http://dbpedia.org/resource/Film",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Sony_Pictures_Entertainment"
+        ]
+    ]
+}

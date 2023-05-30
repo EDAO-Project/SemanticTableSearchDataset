@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_in_baseball",
+            "http://dbpedia.org/resource/Mike_Harkey",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Chicago_Cubs"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_in_baseball",
+            "http://dbpedia.org/resource/Todd_Zeile",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_in_baseball",
+            "http://dbpedia.org/resource/Tino_Martinez",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Seattle_Mariners"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_in_baseball",
+            "http://dbpedia.org/resource/Mark_Wohlers",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Atlanta_Braves"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_in_baseball",
+            "http://dbpedia.org/resource/Carlos_Delgado",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Toronto_Blue_Jays"
+        ]
+    ]
+}

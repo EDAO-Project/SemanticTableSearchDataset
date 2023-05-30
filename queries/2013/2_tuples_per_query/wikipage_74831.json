@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carlo_Broccardi",
+            "http://dbpedia.org/resource/Carlo_Sabajno",
+            "http://dbpedia.org/resource/La_voce_del_padrone"
+        ],
+        [
+            "http://dbpedia.org/resource/Valentina_Bartolomasi",
+            "http://dbpedia.org/resource/La_Scala",
+            "http://dbpedia.org/resource/HMV"
+        ]
+    ]
+}

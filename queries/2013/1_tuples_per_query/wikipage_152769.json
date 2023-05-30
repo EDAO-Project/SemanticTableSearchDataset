@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Rachel_Maddow_Show",
+            "http://dbpedia.org/resource/Pittsburgh_City_Council",
+            "http://dbpedia.org/resource/Rachel_Maddow"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/Auckland_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotorua_International_Stadium",
+            "http://dbpedia.org/resource/Rotorua",
+            "http://dbpedia.org/resource/Bay_of_Plenty_Rugby_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Smart_Stadium",
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/New_Zealand_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Carisbrook",
+            "http://dbpedia.org/resource/Dunedin",
+            "http://dbpedia.org/resource/Otago_Rugby_Football_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Waikato_Stadium",
+            "http://dbpedia.org/resource/Hamilton,_New_Zealand",
+            "http://dbpedia.org/resource/Waikato_Rugby_Union"
+        ]
+    ]
+}

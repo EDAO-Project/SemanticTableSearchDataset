@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/North_Berwick_West_Links",
+            "http://dbpedia.org/resource/Anna_Nordqvist",
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Caroline_Hedwall"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Liverpool_Golf_Club",
+            "http://dbpedia.org/resource/Kelli_Kuehne",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Becky_Morgan"
+        ],
+        [
+            "http://dbpedia.org/resource/Old_Course_at_St_Andrews",
+            "http://dbpedia.org/resource/Brigitte_Varangot",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Belle_Robertson"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_County_Down_Golf_Club",
+            "http://dbpedia.org/resource/Brigitte_Varangot",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Philomena_Garvey"
+        ],
+        [
+            "http://dbpedia.org/resource/Gleneagles_Hotel",
+            "http://dbpedia.org/resource/Philomena_Garvey",
+            "http://dbpedia.org/resource/Republic_of_Ireland",
+            "http://dbpedia.org/resource/Jessie_Valentine"
+        ]
+    ]
+}

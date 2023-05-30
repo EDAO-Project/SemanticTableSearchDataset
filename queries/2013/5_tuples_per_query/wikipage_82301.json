@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_District_Court_for_the_Northern_District_of_Alabama",
+            "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Eleventh_Circuit",
+            "http://dbpedia.org/resource/Sharon_Lovelace_Blackburn"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_District_Court_for_the_Middle_District_of_Alabama",
+            "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Eleventh_Circuit",
+            "http://dbpedia.org/resource/William_Keith_Watkins"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_District_Court_for_the_Southern_District_of_Alabama",
+            "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Eleventh_Circuit",
+            "http://dbpedia.org/resource/William_H._Steele"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_District_Court_for_the_District_of_Alaska",
+            "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Ninth_Circuit",
+            "http://dbpedia.org/resource/Ralph_R._Beistline"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_District_Court_for_the_District_of_Arizona",
+            "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Ninth_Circuit",
+            "http://dbpedia.org/resource/Raner_Collins"
+        ]
+    ]
+}

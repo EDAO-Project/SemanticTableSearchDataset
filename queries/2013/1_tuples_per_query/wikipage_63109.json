@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manchester",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Palace_Theatre,_Manchester"
+        ]
+    ]
+}

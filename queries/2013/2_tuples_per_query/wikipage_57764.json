@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Museum_of_cacao_and_chocolate",
+            "http://dbpedia.org/resource/Brussels",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Choco-Story",
+            "http://dbpedia.org/resource/Bruges",
+            "http://dbpedia.org/resource/Belgium"
+        ]
+    ]
+}

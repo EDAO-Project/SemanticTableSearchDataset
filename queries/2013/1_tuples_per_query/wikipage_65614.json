@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dan_Adams",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/1914_Kansas_City_Packers_season"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Johnny_Cueto",
+            "http://dbpedia.org/resource/Ryan_Dempster",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ]
+    ]
+}

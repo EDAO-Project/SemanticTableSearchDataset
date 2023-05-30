@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/John_F._Kennedy_Stadium"
+        ]
+    ]
+}

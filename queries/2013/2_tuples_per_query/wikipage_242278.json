@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Legislative_districts_of_Albay",
+            "http://dbpedia.org/resource/Victor_Ziga",
+            "http://dbpedia.org/resource/United_Nationalist_Democratic_Organization"
+        ],
+        [
+            "http://dbpedia.org/resource/Legislative_districts_of_Bulacan",
+            "http://dbpedia.org/resource/Blas_Ople",
+            "http://dbpedia.org/resource/Kilusang_Bagong_Lipunan"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1953_Orange_Bowl",
+            "http://dbpedia.org/resource/1952_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/Syracuse_Orange",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Harold_Drew"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_Liberty_Bowl",
+            "http://dbpedia.org/resource/1959_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/1959_Penn_State_Nittany_Lions_football_team",
+            "http://dbpedia.org/resource/John_F._Kennedy_Stadium",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Bear_Bryant"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_Sugar_Bowl",
+            "http://dbpedia.org/resource/1961_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/1961_Arkansas_Razorbacks_football_team",
+            "http://dbpedia.org/resource/Tulane_Stadium",
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/Bear_Bryant"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Orange_Bowl",
+            "http://dbpedia.org/resource/1962_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/1962_Oklahoma_Sooners_football_team",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl",
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Bear_Bryant"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Sugar_Bowl",
+            "http://dbpedia.org/resource/1963_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/Ole_Miss_Rebels",
+            "http://dbpedia.org/resource/Tulane_Stadium",
+            "http://dbpedia.org/resource/New_Orleans",
+            "http://dbpedia.org/resource/Bear_Bryant"
+        ]
+    ]
+}

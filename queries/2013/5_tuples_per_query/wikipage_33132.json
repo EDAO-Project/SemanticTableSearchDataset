@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Magnet",
+            "http://dbpedia.org/resource/Ham",
+            "http://dbpedia.org/resource/Silver",
+            "http://dbpedia.org/resource/Crash_test_dummy"
+        ],
+        [
+            "http://dbpedia.org/resource/Curling",
+            "http://dbpedia.org/resource/Refrigerator",
+            "http://dbpedia.org/resource/Baseball_bat",
+            "http://dbpedia.org/resource/Stained_glass"
+        ],
+        [
+            "http://dbpedia.org/resource/Spirit_level",
+            "http://dbpedia.org/resource/Hot_dog",
+            "http://dbpedia.org/resource/Abrasive",
+            "http://dbpedia.org/resource/Sandpaper"
+        ],
+        [
+            "http://dbpedia.org/resource/Ice_cream",
+            "http://dbpedia.org/resource/Wood",
+            "http://dbpedia.org/resource/Aircraft",
+            "http://dbpedia.org/resource/Automotive_battery"
+        ],
+        [
+            "http://dbpedia.org/resource/Automotive_industry",
+            "http://dbpedia.org/resource/Cricket_bat",
+            "http://dbpedia.org/resource/Change_machine",
+            "http://dbpedia.org/resource/Iron"
+        ]
+    ]
+}

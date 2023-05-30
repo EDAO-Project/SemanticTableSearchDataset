@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Eddie_Pope",
+            "http://dbpedia.org/resource/D.C._United"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Robin_Fraser",
+            "http://dbpedia.org/resource/LA_Galaxy"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Peter_Vermes",
+            "http://dbpedia.org/resource/Sporting_Kansas_City"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Jeff_Agoos",
+            "http://dbpedia.org/resource/San_Jose_Earthquakes"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Major_League_Soccer_season",
+            "http://dbpedia.org/resource/Carlos_Bocanegra",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club"
+        ]
+    ]
+}

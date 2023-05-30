@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shenzhen_Open",
+            "http://dbpedia.org/resource/Shenzhen",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Li_Na"
+        ]
+    ]
+}

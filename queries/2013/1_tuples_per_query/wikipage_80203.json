@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anhui",
+            "http://dbpedia.org/resource/Hefei",
+            "http://dbpedia.org/resource/Shushan_District"
+        ]
+    ]
+}

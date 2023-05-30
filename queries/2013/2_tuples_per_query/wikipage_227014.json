@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nnamdi_Asomugha",
+            "http://dbpedia.org/resource/Cornerback",
+            "http://dbpedia.org/resource/San_Francisco_49ers",
+            "http://dbpedia.org/resource/2003_NFL_draft"
+        ],
+        [
+            "http://dbpedia.org/resource/Tully_Banta-Cain",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/New_England_Patriots",
+            "http://dbpedia.org/resource/2003_NFL_draft"
+        ]
+    ]
+}

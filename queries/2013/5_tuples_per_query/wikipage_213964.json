@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Fleetwood_Mac"
+        ],
+        [
+            "http://dbpedia.org/resource/Dijon",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Parc_des_Sports"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Crystal_Palace,_London"
+        ],
+        [
+            "http://dbpedia.org/resource/Drammen",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/Drammenshallen"
+        ],
+        [
+            "http://dbpedia.org/resource/Copenhagen",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Forum_Copenhagen"
+        ]
+    ]
+}

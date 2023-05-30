@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adelaide_Oval",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/John_Edrich"
+        ],
+        [
+            "http://dbpedia.org/resource/Old_Trafford_Cricket_Ground",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/M._J._K._Smith"
+        ]
+    ]
+}

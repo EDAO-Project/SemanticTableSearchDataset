@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Melbourne_Airport",
+            "http://dbpedia.org/resource/Jetstar_Airways"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Brisbane_Airport",
+            "http://dbpedia.org/resource/Jetstar_Airways"
+        ]
+    ]
+}

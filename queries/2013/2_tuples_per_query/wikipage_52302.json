@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Mobile,_Alabama",
+            "http://dbpedia.org/resource/Battleship_Memorial_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Little_Rock,_Arkansas",
+            "http://dbpedia.org/resource/Arkansas_Inland_Maritime_Museum"
+        ]
+    ]
+}

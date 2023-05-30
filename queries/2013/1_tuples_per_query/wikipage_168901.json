@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Ignazio_Giunti",
+            "http://dbpedia.org/resource/Ferrari_512",
+            "http://dbpedia.org/resource/Ferrari"
+        ]
+    ]
+}

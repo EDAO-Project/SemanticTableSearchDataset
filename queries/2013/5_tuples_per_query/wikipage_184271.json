@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ambalangoda_Urban_Council",
+            "http://dbpedia.org/resource/Southern_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Galle_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Ampara_Urban_Council",
+            "http://dbpedia.org/resource/Eastern_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Ampara_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Chavakachcheri_Urban_Council",
+            "http://dbpedia.org/resource/Northern_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Jaffna_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Eravur_Urban_Council",
+            "http://dbpedia.org/resource/Eastern_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Batticaloa_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Ja-Ela_Urban_Council",
+            "http://dbpedia.org/resource/Western_Province,_Sri_Lanka",
+            "http://dbpedia.org/resource/Colombo_District"
+        ]
+    ]
+}

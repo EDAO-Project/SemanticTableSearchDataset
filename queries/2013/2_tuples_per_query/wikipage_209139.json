@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_College_World_Series",
+            "http://dbpedia.org/resource/1950_Texas_Longhorns_baseball_team",
+            "http://dbpedia.org/resource/Bibb_Falk",
+            "http://dbpedia.org/resource/Washington_State_Cougars",
+            "http://dbpedia.org/resource/College_World_Series_Most_Outstanding_Player"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_College_World_Series",
+            "http://dbpedia.org/resource/1951_Oklahoma_Sooners_baseball_team",
+            "http://dbpedia.org/resource/Jack_Baer",
+            "http://dbpedia.org/resource/Tennessee_Volunteers",
+            "http://dbpedia.org/resource/Sidney_Hatfield"
+        ]
+    ]
+}

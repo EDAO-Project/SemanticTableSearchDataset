@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Montecatini_Terme",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Kuwait"
+        ]
+    ]
+}

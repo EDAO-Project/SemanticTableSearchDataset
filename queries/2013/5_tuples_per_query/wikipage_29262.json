@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfie_Darling",
+            "http://dbpedia.org/resource/Ken_Hughes",
+            "http://dbpedia.org/resource/Alan_Price"
+        ],
+        [
+            "http://dbpedia.org/resource/Barry_Lyndon",
+            "http://dbpedia.org/resource/Stanley_Kubrick",
+            "http://dbpedia.org/resource/Academy_Awards"
+        ],
+        [
+            "http://dbpedia.org/resource/Carry_On_Behind",
+            "http://dbpedia.org/resource/Gerald_Thomas",
+            "http://dbpedia.org/resource/Kenneth_Williams"
+        ],
+        [
+            "http://dbpedia.org/resource/Confessions_of_a_Pop_Performer",
+            "http://dbpedia.org/resource/Norman_Cohen",
+            "http://dbpedia.org/resource/Robin_Askwith"
+        ],
+        [
+            "http://dbpedia.org/resource/Dick_Deadeye,_or_Duty_Done",
+            "http://dbpedia.org/resource/Bill_Melendez",
+            "http://dbpedia.org/resource/Victor_Spinetti"
+        ]
+    ]
+}

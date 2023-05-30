@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Haaf_Gruney",
+            "http://dbpedia.org/resource/Shetland",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_islands_of_Hungary",
+            "http://dbpedia.org/resource/Danube",
+            "http://dbpedia.org/resource/Hungary"
+        ],
+        [
+            "http://dbpedia.org/resource/Half_Moon_Island",
+            "http://dbpedia.org/resource/South_Shetland_Islands",
+            "http://dbpedia.org/resource/Argentine_Antarctica"
+        ],
+        [
+            "http://dbpedia.org/resource/Hallig_Habel",
+            "http://dbpedia.org/resource/North_Frisian_Islands",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_Hallig",
+            "http://dbpedia.org/resource/North_Frisian_Islands",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

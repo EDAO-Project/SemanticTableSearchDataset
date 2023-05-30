@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brock_University",
+            "http://dbpedia.org/resource/Brock_Badgers",
+            "http://dbpedia.org/resource/St._Catharines",
+            "http://dbpedia.org/resource/Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Carleton_University",
+            "http://dbpedia.org/resource/Carleton_Ravens",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Guelph",
+            "http://dbpedia.org/resource/Guelph_Gryphons",
+            "http://dbpedia.org/resource/Guelph",
+            "http://dbpedia.org/resource/Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Lakehead_University",
+            "http://dbpedia.org/resource/Lakehead_Thunderwolves",
+            "http://dbpedia.org/resource/Thunder_Bay",
+            "http://dbpedia.org/resource/Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/McMaster_University",
+            "http://dbpedia.org/resource/McMaster_Marauders",
+            "http://dbpedia.org/resource/Hamilton,_Ontario",
+            "http://dbpedia.org/resource/Ontario"
+        ]
+    ]
+}

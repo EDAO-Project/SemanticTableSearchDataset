@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ash,_Sevenoaks",
+            "http://dbpedia.org/resource/Church_of_England",
+            "http://dbpedia.org/resource/Thomas_Graham_Jackson"
+        ]
+    ]
+}

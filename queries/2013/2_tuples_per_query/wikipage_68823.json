@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Jose_Earthquakes",
+            "http://dbpedia.org/resource/Quincy_Amarikwa",
+            "http://dbpedia.org/resource/University_of_California,_Davis"
+        ],
+        [
+            "http://dbpedia.org/resource/LA_Galaxy",
+            "http://dbpedia.org/resource/Joshua_Boateng",
+            "http://dbpedia.org/resource/Liberty_University"
+        ]
+    ]
+}

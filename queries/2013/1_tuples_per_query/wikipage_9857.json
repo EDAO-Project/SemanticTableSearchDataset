@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Lambeau_Field",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ]
+    ]
+}

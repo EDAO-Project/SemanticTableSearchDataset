@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_World_1981",
+            "http://dbpedia.org/resource/Royal_Albert_Hall",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Miami"
+        ]
+    ]
+}

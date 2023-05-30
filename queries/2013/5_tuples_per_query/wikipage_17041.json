@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Davidson_County,_Tennessee",
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/U.S._Route_31"
+        ],
+        [
+            "http://dbpedia.org/resource/Davidson_County,_Tennessee",
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/Nissan_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Davidson_County,_Tennessee",
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/U.S._Route_70"
+        ],
+        [
+            "http://dbpedia.org/resource/Davidson_County,_Tennessee",
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/Antioch,_Tennessee"
+        ],
+        [
+            "http://dbpedia.org/resource/Coffee_County,_Tennessee",
+            "http://dbpedia.org/resource/Manchester,_Tennessee",
+            "http://dbpedia.org/resource/Arnold_Air_Force_Base"
+        ]
+    ]
+}

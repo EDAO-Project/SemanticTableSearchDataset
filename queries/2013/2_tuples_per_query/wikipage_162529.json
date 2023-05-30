@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Olaf_Manthey",
+            "http://dbpedia.org/resource/Marc_Lieb",
+            "http://dbpedia.org/resource/Porsche_911_GT3"
+        ],
+        [
+            "http://dbpedia.org/resource/Audi",
+            "http://dbpedia.org/resource/Marc_Basseng",
+            "http://dbpedia.org/resource/Audi_R8"
+        ]
+    ]
+}

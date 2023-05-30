@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bedfordshire",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Woburn_Abbey"
+        ],
+        [
+            "http://dbpedia.org/resource/Bedfordshire",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Woburn_Abbey"
+        ]
+    ]
+}

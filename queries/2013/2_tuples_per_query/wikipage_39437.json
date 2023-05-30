@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_American_Football_League_draft",
+            "http://dbpedia.org/resource/Jim_Grabowski",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Illinois_Fighting_Illini_football"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_American_Football_League_draft",
+            "http://dbpedia.org/resource/Rick_Norton",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/Kentucky_Wildcats_football"
+        ]
+    ]
+}

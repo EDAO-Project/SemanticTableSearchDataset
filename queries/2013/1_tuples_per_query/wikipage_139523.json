@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brooklyn_Nets",
+            "http://dbpedia.org/resource/Paul_Pierce",
+            "http://dbpedia.org/resource/Kevin_Garnett",
+            "http://dbpedia.org/resource/Rajon_Rondo",
+            "http://dbpedia.org/resource/TD_Garden"
+        ]
+    ]
+}

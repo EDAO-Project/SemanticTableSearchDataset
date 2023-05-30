@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Medhi_Benatia",
+            "http://dbpedia.org/resource/Clermont_Foot",
+            "http://dbpedia.org/resource/Udinese_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Luca_Castellazzi",
+            "http://dbpedia.org/resource/U.C._Sampdoria",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mario_Yepes",
+            "http://dbpedia.org/resource/A.C._Chievo_Verona",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Almen_Abdi",
+            "http://dbpedia.org/resource/Le_Mans_FC",
+            "http://dbpedia.org/resource/Udinese_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_Irineu_de_Souza",
+            "http://dbpedia.org/resource/Frosinone_Calcio",
+            "http://dbpedia.org/resource/FC_Amkar_Perm"
+        ]
+    ]
+}

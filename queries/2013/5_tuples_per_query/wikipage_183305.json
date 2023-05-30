@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trey_Anastasio",
+            "http://dbpedia.org/resource/Time_Turns_Elastic",
+            "http://dbpedia.org/resource/Rubber_Jungle_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Fountains_of_Wayne",
+            "http://dbpedia.org/resource/Out-of-State_Plates",
+            "http://dbpedia.org/resource/Virgin_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Railroad_Earth",
+            "http://dbpedia.org/resource/Bird_in_a_House",
+            "http://dbpedia.org/resource/Sugar_Hill_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Phish",
+            "http://dbpedia.org/resource/The_Siket_Disc",
+            "http://dbpedia.org/resource/Elektra_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Guster",
+            "http://dbpedia.org/resource/Lost_and_Gone_Forever",
+            "http://dbpedia.org/resource/Aware_Records"
+        ]
+    ]
+}

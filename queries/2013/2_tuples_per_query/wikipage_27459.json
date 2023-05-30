@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belfast",
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Lisburn"
+        ],
+        [
+            "http://dbpedia.org/resource/Derry",
+            "http://dbpedia.org/resource/Newry",
+            "http://dbpedia.org/resource/Bangor,_County_Down"
+        ]
+    ]
+}

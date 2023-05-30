@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gilles_Gilbert",
+            "http://dbpedia.org/resource/Gilles_Gilbert",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Dryden",
+            "http://dbpedia.org/resource/Dave_Dryden",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Park",
+            "http://dbpedia.org/resource/Brad_Park",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Denis_Potvin",
+            "http://dbpedia.org/resource/Denis_Potvin",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Jocelyn_Guevremont",
+            "http://dbpedia.org/resource/Jocelyn_Guevremont",
+            "http://dbpedia.org/resource/Vancouver_Canucks"
+        ]
+    ]
+}

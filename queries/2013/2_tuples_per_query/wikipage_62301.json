@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jack_Nicklaus",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/1963_PGA_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Player",
+            "http://dbpedia.org/resource/South_Africa",
+            "http://dbpedia.org/resource/1962_PGA_Championship"
+        ]
+    ]
+}

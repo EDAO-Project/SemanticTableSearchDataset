@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Liverpool_Empire_Theatre"
+        ]
+    ]
+}

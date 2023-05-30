@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Melinda_Heffernan",
+            "http://dbpedia.org/resource/Cremorne,_New_South_Wales"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Larissa_Ramos",
+            "http://dbpedia.org/resource/Manaus"
+        ]
+    ]
+}

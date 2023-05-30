@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Winston_Guy",
+            "http://dbpedia.org/resource/Lexington,_Kentucky",
+            "http://dbpedia.org/resource/Seattle_Seahawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Stevie_Johnson",
+            "http://dbpedia.org/resource/San_Francisco",
+            "http://dbpedia.org/resource/Buffalo_Bills"
+        ]
+    ]
+}

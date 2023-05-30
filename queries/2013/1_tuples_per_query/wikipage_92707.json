@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christ_Church,_Ashford",
+            "http://dbpedia.org/resource/Ashford,_Kent",
+            "http://dbpedia.org/resource/Kentish_ragstone"
+        ]
+    ]
+}

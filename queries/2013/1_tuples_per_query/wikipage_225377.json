@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_of_Us",
+            "http://dbpedia.org/resource/UPN",
+            "http://dbpedia.org/resource/The_CW"
+        ]
+    ]
+}

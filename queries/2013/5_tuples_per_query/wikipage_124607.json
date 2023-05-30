@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Freddy_Adu",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/2011_Philadelphia_Union_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Carroll",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/2011_Philadelphia_Union_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Eduardo_Coudet",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/2010_Philadelphia_Union_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Cruz",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/2012_Philadelphia_Union_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Keon_Daniel",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Trinidad_and_Tobago",
+            "http://dbpedia.org/resource/2011_Philadelphia_Union_season"
+        ]
+    ]
+}

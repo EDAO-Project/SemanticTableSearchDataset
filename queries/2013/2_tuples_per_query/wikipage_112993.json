@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Solly_Salisbury",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Earned_run_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Manny_Salvo",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Earned_run_average"
+        ]
+    ]
+}

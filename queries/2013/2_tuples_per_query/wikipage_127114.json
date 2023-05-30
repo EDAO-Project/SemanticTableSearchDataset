@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cretaceous",
+            "http://dbpedia.org/resource/Early_Cretaceous",
+            "http://dbpedia.org/resource/Berriasian"
+        ],
+        [
+            "http://dbpedia.org/resource/Jurassic",
+            "http://dbpedia.org/resource/Late_Jurassic",
+            "http://dbpedia.org/resource/Tithonian"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Walther_P99",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Semi-automatic_pistol"
+        ]
+    ]
+}

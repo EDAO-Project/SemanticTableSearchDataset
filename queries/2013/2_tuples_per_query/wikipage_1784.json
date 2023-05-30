@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/International_Institute_of_Information_Technology,_Hyderabad",
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Hyderabad",
+            "http://dbpedia.org/resource/Information_technology"
+        ],
+        [
+            "http://dbpedia.org/resource/Bihar_School_of_Yoga",
+            "http://dbpedia.org/resource/Bihar",
+            "http://dbpedia.org/resource/Munger",
+            "http://dbpedia.org/resource/Yoga"
+        ]
+    ]
+}

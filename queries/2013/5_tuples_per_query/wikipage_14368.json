@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/US_Indoor_Championships",
+            "http://dbpedia.org/resource/East_Hanover_Township,_New_Jersey",
+            "http://dbpedia.org/resource/Virginia_Wade"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Indoor_Championships",
+            "http://dbpedia.org/resource/East_Hanover_Township,_New_Jersey",
+            "http://dbpedia.org/resource/Pam_Casale"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Indoor_Championships",
+            "http://dbpedia.org/resource/East_Hanover_Township,_New_Jersey",
+            "http://dbpedia.org/resource/Marcella_Mesker"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Indoor_Championships",
+            "http://dbpedia.org/resource/East_Hanover_Township,_New_Jersey",
+            "http://dbpedia.org/resource/Chris_Evert"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Virginia_Slims_Championships",
+            "http://dbpedia.org/resource/Madison_Square_Garden",
+            "http://dbpedia.org/resource/Virginia_Ruzici"
+        ]
+    ]
+}

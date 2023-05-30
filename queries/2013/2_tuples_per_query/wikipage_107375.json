@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patrick_Makau_Musyoki",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/World_Marathon_Majors"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefano_Baldini",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/European_Athletics_Championships"
+        ]
+    ]
+}

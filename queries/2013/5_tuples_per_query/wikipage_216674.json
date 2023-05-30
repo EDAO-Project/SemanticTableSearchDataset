@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Andorra",
+            "http://dbpedia.org/resource/Armenia"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Azerbaijan",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Bosnia_and_Herzegovina",
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cyprus",
+            "http://dbpedia.org/resource/Czech_Republic",
+            "http://dbpedia.org/resource/Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Estonia",
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

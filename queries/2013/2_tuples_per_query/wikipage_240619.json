@@ -1,0 +1,15 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Theodore_Foster",
+            "http://dbpedia.org/resource/7th_United_States_Congress",
+            "http://dbpedia.org/resource/7th_United_States_Congress",
+            "http://dbpedia.org/resource/Christopher_Ellery"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_J._Potter",
+            "http://dbpedia.org/resource/8th_United_States_Congress",
+            "http://dbpedia.org/resource/Christopher_Ellery"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mirinda_Carfrae",
+            "http://dbpedia.org/resource/Samantha_McGlone",
+            "http://dbpedia.org/resource/Leanda_Cave"
+        ],
+        [
+            "http://dbpedia.org/resource/Erika_Csomor",
+            "http://dbpedia.org/resource/Mirinda_Carfrae",
+            "http://dbpedia.org/resource/Leanda_Cave"
+        ]
+    ]
+}

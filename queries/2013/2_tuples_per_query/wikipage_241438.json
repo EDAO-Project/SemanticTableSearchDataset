@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Baseball",
+            "http://dbpedia.org/resource/Major_League_Baseball",
+            "http://dbpedia.org/resource/Fenway_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/New_England_Patriots",
+            "http://dbpedia.org/resource/American_football",
+            "http://dbpedia.org/resource/National_Football_League",
+            "http://dbpedia.org/resource/Gillette_Stadium"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amiens_Cathedral",
+            "http://dbpedia.org/resource/Amiens",
+            "http://dbpedia.org/resource/Somme",
+            "http://dbpedia.org/resource/Picardy"
+        ],
+        [
+            "http://dbpedia.org/resource/Bec_Abbey",
+            "http://dbpedia.org/resource/Le_Bec-Hellouin",
+            "http://dbpedia.org/resource/Eure",
+            "http://dbpedia.org/resource/Upper_Normandy"
+        ]
+    ]
+}

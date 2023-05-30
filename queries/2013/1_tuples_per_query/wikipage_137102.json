@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gina_Gershon",
+            "http://dbpedia.org/resource/Catwoman",
+            "http://dbpedia.org/resource/List_of_The_Batman_episodes"
+        ]
+    ]
+}

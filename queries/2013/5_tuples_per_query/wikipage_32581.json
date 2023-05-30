@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Country_Club",
+            "http://dbpedia.org/resource/Matthew_Fitzpatrick",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Oliver_Goss"
+        ],
+        [
+            "http://dbpedia.org/resource/Erin_Hills",
+            "http://dbpedia.org/resource/Kelly_Kraft",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Patrick_Cantlay"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakmont_Country_Club",
+            "http://dbpedia.org/resource/Nick_Flanagan",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Casey_Wittenberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland_Hills_Country_Club",
+            "http://dbpedia.org/resource/Ricky_Barnes",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Hunter_Mahan"
+        ],
+        [
+            "http://dbpedia.org/resource/Baltusrol_Golf_Club",
+            "http://dbpedia.org/resource/Jeff_Quinney",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/James_Driscoll"
+        ]
+    ]
+}

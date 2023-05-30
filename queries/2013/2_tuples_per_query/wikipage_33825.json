@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Nanan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mudanjiang",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Shandong"
+        ]
+    ]
+}

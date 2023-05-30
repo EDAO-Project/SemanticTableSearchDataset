@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_International_1968",
+            "http://dbpedia.org/resource/Nippon_Budokan",
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_International_1973",
+            "http://dbpedia.org/resource/Mielparque",
+            "http://dbpedia.org/resource/Osaka",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_International_1981",
+            "http://dbpedia.org/resource/Port_Island",
+            "http://dbpedia.org/resource/Kobe",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_International_1983",
+            "http://dbpedia.org/resource/Festival_Hall,_Osaka",
+            "http://dbpedia.org/resource/Osaka",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_International_1994",
+            "http://dbpedia.org/resource/Sun_Arena",
+            "http://dbpedia.org/resource/Ise,_Mie",
+            "http://dbpedia.org/resource/Japan"
+        ]
+    ]
+}

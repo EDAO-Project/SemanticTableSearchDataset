@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clinton_Hennessy",
+            "http://dbpedia.org/resource/Waterford_GAA",
+            "http://dbpedia.org/resource/2008_All-Ireland_Senior_Hurling_Championship"
+        ]
+    ]
+}

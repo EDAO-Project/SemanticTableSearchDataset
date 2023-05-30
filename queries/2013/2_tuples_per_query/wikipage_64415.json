@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_NECBL_season",
+            "http://dbpedia.org/resource/Central_Mass_Collegians",
+            "http://dbpedia.org/resource/Danbury_Westerners"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_NECBL_season",
+            "http://dbpedia.org/resource/North_Shore_Navigators",
+            "http://dbpedia.org/resource/New_Bedford_Bay_Sox"
+        ]
+    ]
+}

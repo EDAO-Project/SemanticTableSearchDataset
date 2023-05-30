@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1953",
+            "http://dbpedia.org/resource/Emita_Arosemena",
+            "http://dbpedia.org/resource/Los_Santos_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1987",
+            "http://dbpedia.org/resource/Gabriela_Deleuze",
+            "http://dbpedia.org/resource/Los_Santos_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1995",
+            "http://dbpedia.org/resource/Michele_Sage",
+            "http://dbpedia.org/resource/Panama_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1996",
+            "http://dbpedia.org/resource/Reyna_Royo",
+            "http://dbpedia.org/resource/Panama_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Miss_Universe_1999",
+            "http://dbpedia.org/resource/Yamani_Saied",
+            "http://dbpedia.org/resource/Panama_City"
+        ]
+    ]
+}

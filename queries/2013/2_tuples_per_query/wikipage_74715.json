@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_in_film",
+            "http://dbpedia.org/resource/Hibiscus_Town",
+            "http://dbpedia.org/resource/Xie_Jin"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_in_film",
+            "http://dbpedia.org/resource/Ju_Dou",
+            "http://dbpedia.org/resource/Zhang_Yimou"
+        ]
+    ]
+}

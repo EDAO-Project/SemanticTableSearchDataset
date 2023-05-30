@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gold_Medal_of_Military_Valour",
+            "http://dbpedia.org/resource/Jerry_D._Bailey",
+            "http://dbpedia.org/resource/Robert_J._Frankel",
+            "http://dbpedia.org/resource/Edmund_A._Gann"
+        ],
+        [
+            "http://dbpedia.org/resource/Victory_Gallop",
+            "http://dbpedia.org/resource/Jerry_D._Bailey",
+            "http://dbpedia.org/resource/W._Elliott_Walden",
+            "http://dbpedia.org/resource/WinStar_Farm"
+        ]
+    ]
+}

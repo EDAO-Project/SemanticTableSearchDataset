@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blood_Bath",
+            "http://dbpedia.org/resource/Stephanie_Rothman",
+            "http://dbpedia.org/resource/Lori_Saunders"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerald_Thomas",
+            "http://dbpedia.org/resource/Harry_H._Corbett",
+            "http://dbpedia.org/resource/Horror_comedy"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Deadly_Bees",
+            "http://dbpedia.org/resource/Freddie_Francis",
+            "http://dbpedia.org/resource/Suzanna_Leigh"
+        ],
+        [
+            "http://dbpedia.org/resource/Dracula:_Prince_of_Darkness",
+            "http://dbpedia.org/resource/Terence_Fisher",
+            "http://dbpedia.org/resource/Christopher_Lee"
+        ],
+        [
+            "http://dbpedia.org/resource/Island_of_Terror",
+            "http://dbpedia.org/resource/Terence_Fisher",
+            "http://dbpedia.org/resource/Peter_Cushing"
+        ]
+    ]
+}

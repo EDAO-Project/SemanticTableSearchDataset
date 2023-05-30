@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_Martin_Cafe",
+            "http://dbpedia.org/resource/British_Indian_Army",
+            "http://dbpedia.org/resource/Indian_Rebellion_of_1857",
+            "http://dbpedia.org/resource/Fort_Ruhya"
+        ]
+    ]
+}

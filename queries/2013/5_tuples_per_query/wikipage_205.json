@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_of_Ballarat",
+            "http://dbpedia.org/resource/Reg_Pollard",
+            "http://dbpedia.org/resource/Alan_Pittard"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Bass",
+            "http://dbpedia.org/resource/Claude_Barnard",
+            "http://dbpedia.org/resource/Bruce_Kekwick"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Corio",
+            "http://dbpedia.org/resource/John_Dedman",
+            "http://dbpedia.org/resource/Hubert_Opperman"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Darling_Downs",
+            "http://dbpedia.org/resource/Arthur_Fadden",
+            "http://dbpedia.org/resource/Reginald_Swartz"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Denison",
+            "http://dbpedia.org/resource/John_Gaha",
+            "http://dbpedia.org/resource/Athol_Townley"
+        ]
+    ]
+}

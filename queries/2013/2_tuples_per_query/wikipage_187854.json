@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Chilton_County,_Alabama",
+            "http://dbpedia.org/resource/Clanton,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Yavapai_County,_Arizona",
+            "http://dbpedia.org/resource/Prescott,_Arizona"
+        ]
+    ]
+}

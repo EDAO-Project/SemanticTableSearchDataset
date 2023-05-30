@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peshtigo_Fire",
+            "http://dbpedia.org/resource/Wisconsin",
+            "http://dbpedia.org/resource/Great_Chicago_Fire"
+        ]
+    ]
+}

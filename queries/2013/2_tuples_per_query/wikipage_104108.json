@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ball_State_Cardinals_football",
+            "http://dbpedia.org/resource/Stan_Parrish",
+            "http://dbpedia.org/resource/Pete_Lembo"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Texas_Mean_Green_football",
+            "http://dbpedia.org/resource/Mike_Canales",
+            "http://dbpedia.org/resource/Dan_McCarney"
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Delta_II",
+            "http://dbpedia.org/resource/Delta_II",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/Boeing_Defense,_Space_&_Security",
+            "http://dbpedia.org/resource/Boeing_Defense,_Space_&_Security"
+        ],
+        [
+            "http://dbpedia.org/resource/NASA",
+            "http://dbpedia.org/resource/Heliocentric_orbit",
+            "http://dbpedia.org/resource/Comet"
+        ],
+        [
+            "http://dbpedia.org/resource/Proton-M",
+            "http://dbpedia.org/resource/Proton-M",
+            "http://dbpedia.org/resource/Baikonur_Cosmodrome",
+            "http://dbpedia.org/resource/Baikonur_Cosmodrome",
+            "http://dbpedia.org/resource/International_Launch_Services",
+            "http://dbpedia.org/resource/International_Launch_Services"
+        ],
+        [
+            "http://dbpedia.org/resource/SES_Americom",
+            "http://dbpedia.org/resource/Geosynchronous_orbit",
+            "http://dbpedia.org/resource/Communications_satellite"
+        ],
+        [
+            "http://dbpedia.org/resource/Ariane_5",
+            "http://dbpedia.org/resource/Ariane_5",
+            "http://dbpedia.org/resource/Guiana_Space_Centre",
+            "http://dbpedia.org/resource/Guiana_Space_Centre",
+            "http://dbpedia.org/resource/Arianespace",
+            "http://dbpedia.org/resource/Arianespace"
+        ]
+    ]
+}

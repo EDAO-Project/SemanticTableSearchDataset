@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Finsbury",
+            "http://dbpedia.org/resource/Thomas_Hardwick",
+            "http://dbpedia.org/resource/Neoclassical_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Camberwell",
+            "http://dbpedia.org/resource/Francis_Octavius_Bedford",
+            "http://dbpedia.org/resource/Neoclassical_architecture"
+        ]
+    ]
+}

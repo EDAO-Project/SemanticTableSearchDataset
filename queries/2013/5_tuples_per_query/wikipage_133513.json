@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Juan_Pablo_Montoya",
+            "http://dbpedia.org/resource/Chip_Ganassi_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Denny_Hamlin",
+            "http://dbpedia.org/resource/Joe_Gibbs_Racing",
+            "http://dbpedia.org/resource/Toyota"
+        ],
+        [
+            "http://dbpedia.org/resource/Joey_Logano",
+            "http://dbpedia.org/resource/Joe_Gibbs_Racing",
+            "http://dbpedia.org/resource/Toyota"
+        ],
+        [
+            "http://dbpedia.org/resource/Regan_Smith",
+            "http://dbpedia.org/resource/Furniture_Row_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Stewart",
+            "http://dbpedia.org/resource/Stewart-Haas_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ]
+    ]
+}

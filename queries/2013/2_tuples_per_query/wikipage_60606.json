@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Red_Bull_Ring",
+            "http://dbpedia.org/resource/Spielberg,_Styria",
+            "http://dbpedia.org/resource/Austrian_motorcycle_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/TT_Circuit_Assen",
+            "http://dbpedia.org/resource/Assen",
+            "http://dbpedia.org/resource/Dutch_TT"
+        ]
+    ]
+}

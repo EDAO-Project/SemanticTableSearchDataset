@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_in_NASCAR",
+            "http://dbpedia.org/resource/Jeff_Burton",
+            "http://dbpedia.org/resource/Exide",
+            "http://dbpedia.org/resource/Ford_Thunderbird"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_NASCAR",
+            "http://dbpedia.org/resource/Dale_Jarrett",
+            "http://dbpedia.org/resource/United_Parcel_Service",
+            "http://dbpedia.org/resource/Ford_Taurus"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_in_NASCAR",
+            "http://dbpedia.org/resource/Matt_Kenseth",
+            "http://dbpedia.org/resource/DeWalt",
+            "http://dbpedia.org/resource/Ford_Taurus"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_NASCAR",
+            "http://dbpedia.org/resource/Ryan_Newman",
+            "http://dbpedia.org/resource/Alltel",
+            "http://dbpedia.org/resource/Dodge_Intrepid"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_in_NASCAR",
+            "http://dbpedia.org/resource/Greg_Biffle",
+            "http://dbpedia.org/resource/Post-it_note",
+            "http://dbpedia.org/resource/Ford_Taurus"
+        ]
+    ]
+}

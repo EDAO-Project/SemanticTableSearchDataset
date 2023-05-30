@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Earl_McCready",
+            "http://dbpedia.org/resource/New_Zealand",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

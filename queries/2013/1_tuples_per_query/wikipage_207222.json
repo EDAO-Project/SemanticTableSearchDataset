@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/African_Lion_Safari",
+            "http://dbpedia.org/resource/Flamborough,_Ontario",
+            "http://dbpedia.org/resource/Ontario"
+        ]
+    ]
+}

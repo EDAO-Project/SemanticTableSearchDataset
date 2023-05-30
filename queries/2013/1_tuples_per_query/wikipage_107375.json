@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Patrick_Makau_Musyoki",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/World_Marathon_Majors"
+        ]
+    ]
+}

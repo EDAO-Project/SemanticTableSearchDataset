@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/An_American_Werewolf_in_London",
+            "http://dbpedia.org/resource/John_Landis",
+            "http://dbpedia.org/resource/Jenny_Agutter"
+        ],
+        [
+            "http://dbpedia.org/resource/Chanel_Solitaire",
+            "http://dbpedia.org/resource/George_Kaczender",
+            "http://dbpedia.org/resource/Marie-France_Pisier"
+        ],
+        [
+            "http://dbpedia.org/resource/Chariots_of_Fire",
+            "http://dbpedia.org/resource/Hugh_Hudson",
+            "http://dbpedia.org/resource/Ben_Cross"
+        ],
+        [
+            "http://dbpedia.org/resource/Concert_for_Kampuchea",
+            "http://dbpedia.org/resource/Keith_McMillan",
+            "http://dbpedia.org/resource/Paul_McCartney_and_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Condorman",
+            "http://dbpedia.org/resource/Charles_Jarrott",
+            "http://dbpedia.org/resource/Michael_Crawford"
+        ]
+    ]
+}

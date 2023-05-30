@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Naval_Air_Facility_Adak",
+            "http://dbpedia.org/resource/Adak,_Alaska",
+            "http://dbpedia.org/resource/Aleutians_West_Census_Area,_Alaska",
+            "http://dbpedia.org/resource/World_War_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Anangula_Archeological_District",
+            "http://dbpedia.org/resource/Nikolski,_Alaska",
+            "http://dbpedia.org/resource/Aleutians_West_Census_Area,_Alaska",
+            "http://dbpedia.org/resource/Aleutian_Islands"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooks_River_Archeological_District",
+            "http://dbpedia.org/resource/Katmai_National_Park_and_Preserve",
+            "http://dbpedia.org/resource/Bristol_Bay_Borough,_Alaska",
+            "http://dbpedia.org/resource/Arctic_small_tool_tradition"
+        ],
+        [
+            "http://dbpedia.org/resource/Dry_Creek_Archeological_Site",
+            "http://dbpedia.org/resource/Healy,_Alaska",
+            "http://dbpedia.org/resource/Denali_Borough,_Alaska",
+            "http://dbpedia.org/resource/Beringia"
+        ],
+        [
+            "http://dbpedia.org/resource/Dutch_Harbor_Naval_Operating_Base_and_Fort_Mears,_U.S._Army",
+            "http://dbpedia.org/resource/Unalaska,_Alaska",
+            "http://dbpedia.org/resource/Aleutians_West_Census_Area,_Alaska",
+            "http://dbpedia.org/resource/Battle_of_Dutch_Harbor"
+        ]
+    ]
+}

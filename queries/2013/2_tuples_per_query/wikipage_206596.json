@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1961_Copa_Libertadores",
+            "http://dbpedia.org/resource/Osvaldo_Panzutto",
+            "http://dbpedia.org/resource/Argentina",
+            "http://dbpedia.org/resource/Independiente_Santa_Fe"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_Copa_Libertadores",
+            "http://dbpedia.org/resource/Coutinho",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Santos_FC"
+        ]
+    ]
+}

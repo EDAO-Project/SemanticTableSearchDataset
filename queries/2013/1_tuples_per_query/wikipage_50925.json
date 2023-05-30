@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chiburekki",
+            "http://dbpedia.org/resource/Central_Asia",
+            "http://dbpedia.org/resource/Turnover"
+        ]
+    ]
+}

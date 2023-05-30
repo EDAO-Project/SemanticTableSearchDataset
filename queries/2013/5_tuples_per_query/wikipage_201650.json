@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michigan_State_University",
+            "http://dbpedia.org/resource/Colorado_State_University",
+            "http://dbpedia.org/resource/Ellenton,_Florida",
+            "http://dbpedia.org/resource/California_Polytechnic_State_University",
+            "http://dbpedia.org/resource/Penn_State_Altoona"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochester_Institute_of_Technology",
+            "http://dbpedia.org/resource/Lindenwood_University",
+            "http://dbpedia.org/resource/Upland,_California",
+            "http://dbpedia.org/resource/Boston_University",
+            "http://dbpedia.org/resource/Truman_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Lindenwood_University",
+            "http://dbpedia.org/resource/Michigan_State_University",
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/Purdue_University",
+            "http://dbpedia.org/resource/University_of_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/California_State_Polytechnic_University,_Pomona",
+            "http://dbpedia.org/resource/University_of_Florida",
+            "http://dbpedia.org/resource/Feasterville-Trevose,_Pennsylvania",
+            "http://dbpedia.org/resource/Rochester_Institute_of_Technology",
+            "http://dbpedia.org/resource/Towson_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Lindenwood_University",
+            "http://dbpedia.org/resource/Pennsylvania_State_University",
+            "http://dbpedia.org/resource/Anaheim,_California",
+            "http://dbpedia.org/resource/University_of_Central_Florida",
+            "http://dbpedia.org/resource/University_of_Florida"
+        ]
+    ]
+}

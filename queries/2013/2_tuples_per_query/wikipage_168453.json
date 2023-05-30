@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kelvington-Wadena",
+            "http://dbpedia.org/resource/Bryan_Harvey_Bjarnason",
+            "http://dbpedia.org/resource/Saskatchewan_Liberal_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Moose_Jaw_North",
+            "http://dbpedia.org/resource/Gordon_Snyder",
+            "http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party"
+        ]
+    ]
+}

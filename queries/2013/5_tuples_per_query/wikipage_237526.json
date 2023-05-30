@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/4111_Lamy",
+            "http://dbpedia.org/resource/Siding_Spring_Observatory",
+            "http://dbpedia.org/resource/Schelte_J._Bus"
+        ],
+        [
+            "http://dbpedia.org/resource/4118_Sveta",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Lyudmila_Zhuravlyova"
+        ],
+        [
+            "http://dbpedia.org/resource/4121_Carlin",
+            "http://dbpedia.org/resource/Palomar_Observatory",
+            "http://dbpedia.org/resource/International_Near-Earth_Asteroid_Survey"
+        ],
+        [
+            "http://dbpedia.org/resource/4147_Lennon",
+            "http://dbpedia.org/resource/Anderson_Mesa_Station",
+            "http://dbpedia.org/resource/Brian_A._Skiff"
+        ],
+        [
+            "http://dbpedia.org/resource/4148_McCartney",
+            "http://dbpedia.org/resource/Anderson_Mesa_Station",
+            "http://dbpedia.org/resource/Edward_L._G._Bowell"
+        ]
+    ]
+}

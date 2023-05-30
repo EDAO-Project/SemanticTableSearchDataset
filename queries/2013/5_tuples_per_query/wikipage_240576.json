@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_at_Albany,_SUNY",
+            "http://dbpedia.org/resource/Albany_Great_Danes",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Military_Academy",
+            "http://dbpedia.org/resource/Army_Black_Knights",
+            "http://dbpedia.org/resource/NCAA_Division_I_FBS_independent_schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Binghamton_University",
+            "http://dbpedia.org/resource/Binghamton_Bearcats",
+            "http://dbpedia.org/resource/America_East_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/University_at_Buffalo",
+            "http://dbpedia.org/resource/Buffalo_Bulls",
+            "http://dbpedia.org/resource/Mid-American_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbia_University",
+            "http://dbpedia.org/resource/Columbia_Lions",
+            "http://dbpedia.org/resource/Ivy_League"
+        ]
+    ]
+}

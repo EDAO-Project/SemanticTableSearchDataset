@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Macau"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/South_Vietnam",
+            "http://dbpedia.org/resource/Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Manila",
+            "http://dbpedia.org/resource/South_Vietnam",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mumbai",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Taiwan"
+        ]
+    ]
+}

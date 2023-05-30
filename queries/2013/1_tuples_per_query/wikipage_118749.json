@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_State_Route_10",
+            "http://dbpedia.org/resource/New_York_State_Route_17",
+            "http://dbpedia.org/resource/New_York_State_Route_23"
+        ]
+    ]
+}

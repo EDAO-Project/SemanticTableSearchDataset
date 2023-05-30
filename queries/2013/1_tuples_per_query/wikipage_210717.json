@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_Philharmonic",
+            "http://dbpedia.org/resource/Leonard_Bernstein",
+            "http://dbpedia.org/resource/Sony_Classical_Records"
+        ]
+    ]
+}

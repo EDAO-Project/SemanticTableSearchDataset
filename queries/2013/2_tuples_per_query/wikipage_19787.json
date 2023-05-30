@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1923_VFL_season",
+            "http://dbpedia.org/resource/Victorian_State_Football_League",
+            "http://dbpedia.org/resource/Richmond_Football_Club",
+            "http://dbpedia.org/resource/Melbourne_Cricket_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/1930_VFL_season",
+            "http://dbpedia.org/resource/Victorian_State_Football_League",
+            "http://dbpedia.org/resource/Richmond_Football_Club",
+            "http://dbpedia.org/resource/Melbourne_Cricket_Ground"
+        ]
+    ]
+}

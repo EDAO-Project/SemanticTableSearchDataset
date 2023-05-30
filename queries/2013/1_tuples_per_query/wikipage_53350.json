@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clayton_Fritchey",
+            "http://dbpedia.org/resource/George_Marshall",
+            "http://dbpedia.org/resource/Harry_S._Truman"
+        ]
+    ]
+}

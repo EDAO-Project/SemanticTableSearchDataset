@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Earl_of_Crawford",
+            "http://dbpedia.org/resource/Balcarres_House",
+            "http://dbpedia.org/resource/Crawford_Castle"
+        ]
+    ]
+}

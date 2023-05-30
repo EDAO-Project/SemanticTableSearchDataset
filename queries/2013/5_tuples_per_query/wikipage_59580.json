@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darren_Dreifort",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Wichita_State_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Wayne_Gomes",
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/Old_Dominion_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Soderstrom",
+            "http://dbpedia.org/resource/San_Francisco_Giants",
+            "http://dbpedia.org/resource/California_State_University,_Fresno"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooks_Kieschnick",
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/University_of_Texas_at_Austin"
+        ],
+        [
+            "http://dbpedia.org/resource/Daron_Kirkreit",
+            "http://dbpedia.org/resource/Cleveland_Indians",
+            "http://dbpedia.org/resource/University_of_California,_Riverside"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_A._Macdonald",
+            "http://dbpedia.org/resource/Liberal-Conservative_Party",
+            "http://dbpedia.org/resource/1st_Canadian_Ministry"
+        ]
+    ]
+}

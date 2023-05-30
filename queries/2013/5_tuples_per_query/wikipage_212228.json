@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blenheim_Palace",
+            "http://dbpedia.org/resource/Woodstock,_Oxfordshire",
+            "http://dbpedia.org/resource/John_Churchill,_1st_Duke_of_Marlborough"
+        ],
+        [
+            "http://dbpedia.org/resource/Canterbury_Cathedral",
+            "http://dbpedia.org/resource/Canterbury",
+            "http://dbpedia.org/resource/Romanesque_architecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Castles_and_Town_Walls_of_King_Edward_in_Gwynedd",
+            "http://dbpedia.org/resource/Conwy",
+            "http://dbpedia.org/resource/Edward_I_of_England"
+        ],
+        [
+            "http://dbpedia.org/resource/Derwent_Valley_Mills",
+            "http://dbpedia.org/resource/Upper_Derwent_Valley",
+            "http://dbpedia.org/resource/Factory_system"
+        ],
+        [
+            "http://dbpedia.org/resource/Durham_Castle",
+            "http://dbpedia.org/resource/Durham",
+            "http://dbpedia.org/resource/Norman_architecture"
+        ]
+    ]
+}

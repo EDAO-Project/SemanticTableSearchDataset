@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Al_Gallagher",
+            "http://dbpedia.org/resource/Third_baseman",
+            "http://dbpedia.org/resource/Santa_Clara_University"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Gary_Matthews",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/San_Fernando_High_School"
+        ]
+    ]
+}

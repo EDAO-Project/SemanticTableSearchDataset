@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Uzbekistan",
+            "http://dbpedia.org/resource/Ukraine"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Uzbekistan",
+            "http://dbpedia.org/resource/Armenia"
+        ],
+        [
+            "http://dbpedia.org/resource/Mongolia",
+            "http://dbpedia.org/resource/Uzbekistan",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Mongolia",
+            "http://dbpedia.org/resource/Uzbekistan",
+            "http://dbpedia.org/resource/Kyrgyzstan"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Kyrgyzstan",
+            "http://dbpedia.org/resource/Kazakhstan"
+        ]
+    ]
+}

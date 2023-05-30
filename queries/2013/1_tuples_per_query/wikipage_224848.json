@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vigra_transmitter",
+            "http://dbpedia.org/resource/Guyed_mast",
+            "http://dbpedia.org/resource/Vigra"
+        ]
+    ]
+}

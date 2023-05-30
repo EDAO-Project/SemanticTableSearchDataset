@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Member_state_of_the_European_Union",
+            "http://dbpedia.org/resource/Schengen_Area",
+            "http://dbpedia.org/resource/Eurozone",
+            "http://dbpedia.org/resource/EU_Battlegroup"
+        ]
+    ]
+}

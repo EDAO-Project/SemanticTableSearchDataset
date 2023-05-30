@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mankada_Ravi_Varma",
+            "http://dbpedia.org/resource/Swayamvaram",
+            "http://dbpedia.org/resource/Adoor_Gopalakrishnan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mankada_Ravi_Varma",
+            "http://dbpedia.org/resource/Uttarayanam",
+            "http://dbpedia.org/resource/G._Aravindan"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramachandra_Babu",
+            "http://dbpedia.org/resource/Manimuzhakkam",
+            "http://dbpedia.org/resource/I._V._Sasi"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramachandra_Babu",
+            "http://dbpedia.org/resource/Rathinirvedam",
+            "http://dbpedia.org/resource/K._R._Mohanan"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramachandra_Babu",
+            "http://dbpedia.org/resource/Chamaram",
+            "http://dbpedia.org/resource/Bharathan"
+        ]
+    ]
+}

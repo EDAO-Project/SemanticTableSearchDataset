@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alpena_Community_College",
+            "http://dbpedia.org/resource/Alpena,_Michigan",
+            "http://dbpedia.org/resource/Michigan_Community_College_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Delta_College",
+            "http://dbpedia.org/resource/University_Center,_Michigan",
+            "http://dbpedia.org/resource/Michigan_Community_College_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Glen_Oaks_Community_College",
+            "http://dbpedia.org/resource/Centreville,_Michigan",
+            "http://dbpedia.org/resource/Michigan_Community_College_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Rapids_Community_College",
+            "http://dbpedia.org/resource/Grand_Rapids,_Michigan",
+            "http://dbpedia.org/resource/Michigan_Community_College_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Ford_College",
+            "http://dbpedia.org/resource/Dearborn,_Michigan",
+            "http://dbpedia.org/resource/Michigan_Community_College_Athletic_Association"
+        ]
+    ]
+}

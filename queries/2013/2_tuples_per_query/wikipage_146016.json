@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Piet_de_Jong",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Prime_Minister_of_the_Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Howard_Cooke",
+            "http://dbpedia.org/resource/Jamaica",
+            "http://dbpedia.org/resource/Governor-General_of_Jamaica"
+        ]
+    ]
+}

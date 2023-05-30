@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbeyleix",
+            "http://dbpedia.org/resource/County_Laois",
+            "http://dbpedia.org/resource/Fire_station"
+        ],
+        [
+            "http://dbpedia.org/resource/Ardara",
+            "http://dbpedia.org/resource/County_Donegal",
+            "http://dbpedia.org/resource/Cultural_heritage"
+        ],
+        [
+            "http://dbpedia.org/resource/Athy",
+            "http://dbpedia.org/resource/County_Kildare",
+            "http://dbpedia.org/resource/Seat_of_local_government"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballinrobe",
+            "http://dbpedia.org/resource/County_Mayo",
+            "http://dbpedia.org/resource/Courthouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballybofey",
+            "http://dbpedia.org/resource/County_Donegal",
+            "http://dbpedia.org/resource/Training"
+        ]
+    ]
+}

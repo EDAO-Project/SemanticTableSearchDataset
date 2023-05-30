@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_Ackroyd",
+            "http://dbpedia.org/resource/Royal_Army_Medical_Corps",
+            "http://dbpedia.org/resource/Ypres"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Adlam",
+            "http://dbpedia.org/resource/Bedfordshire_and_Hertfordshire_Regiment",
+            "http://dbpedia.org/resource/Thiepval"
+        ]
+    ]
+}

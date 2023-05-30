@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Airdrie,_Alberta",
+            "http://dbpedia.org/resource/CFIT-FM",
+            "http://dbpedia.org/resource/Adult_contemporary_music"
+        ],
+        [
+            "http://dbpedia.org/resource/Altona,_Manitoba",
+            "http://dbpedia.org/resource/CFAM",
+            "http://dbpedia.org/resource/Easy_listening"
+        ]
+    ]
+}

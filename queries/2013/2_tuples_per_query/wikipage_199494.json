@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frank_Lenz",
+            "http://dbpedia.org/resource/2012_in_music",
+            "http://dbpedia.org/resource/Digital_data"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Lenz",
+            "http://dbpedia.org/resource/2012_in_music",
+            "http://dbpedia.org/resource/Compact_disc"
+        ]
+    ]
+}

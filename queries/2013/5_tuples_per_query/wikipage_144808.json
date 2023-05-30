@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anguilla",
+            "http://dbpedia.org/resource/Anguilla_Football_Association",
+            "http://dbpedia.org/resource/Anguilla_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Antigua_and_Barbuda",
+            "http://dbpedia.org/resource/Antigua_and_Barbuda_Football_Association",
+            "http://dbpedia.org/resource/Antigua_and_Barbuda_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Aruba",
+            "http://dbpedia.org/resource/Aruba_Football_Federation",
+            "http://dbpedia.org/resource/Aruba_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bahamas",
+            "http://dbpedia.org/resource/Bahamas_Football_Association",
+            "http://dbpedia.org/resource/Bahamas_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbados",
+            "http://dbpedia.org/resource/Barbados_Football_Association",
+            "http://dbpedia.org/resource/Barbados_national_football_team"
+        ]
+    ]
+}

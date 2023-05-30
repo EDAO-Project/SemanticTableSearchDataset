@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roussillon_Regional_County_Municipality",
+            "http://dbpedia.org/resource/La_Prairie,_Quebec",
+            "http://dbpedia.org/resource/Candiac,_Quebec"
+        ]
+    ]
+}

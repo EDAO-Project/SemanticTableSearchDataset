@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chen-Ning_Yang",
+            "http://dbpedia.org/resource/Hefei",
+            "http://dbpedia.org/resource/Institute_for_Advanced_Study"
+        ]
+    ]
+}

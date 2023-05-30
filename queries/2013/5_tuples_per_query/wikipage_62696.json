@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1961_Washington_Senators_season",
+            "http://dbpedia.org/resource/Dick_Donovan",
+            "http://dbpedia.org/resource/Chicago_White_Sox",
+            "http://dbpedia.org/resource/Griffith_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_Washington_Senators_season",
+            "http://dbpedia.org/resource/Bennie_Daniels",
+            "http://dbpedia.org/resource/Detroit_Tigers",
+            "http://dbpedia.org/resource/Robert_F._Kennedy_Memorial_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Washington_Senators_season",
+            "http://dbpedia.org/resource/Don_Rudolph",
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Robert_F._Kennedy_Memorial_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Washington_Senators_season",
+            "http://dbpedia.org/resource/Claude_Osteen",
+            "http://dbpedia.org/resource/Los_Angeles_Angels_of_Anaheim",
+            "http://dbpedia.org/resource/Robert_F._Kennedy_Memorial_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Washington_Senators_season",
+            "http://dbpedia.org/resource/Phil_Ortega",
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Robert_F._Kennedy_Memorial_Stadium"
+        ]
+    ]
+}

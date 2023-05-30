@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bishop_of_Barking",
+            "http://dbpedia.org/resource/Archdeacons_in_the_Diocese_of_Chelmsford",
+            "http://dbpedia.org/resource/Epping_Forest"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_of_Barking",
+            "http://dbpedia.org/resource/Archdeacons_in_the_Diocese_of_Chelmsford",
+            "http://dbpedia.org/resource/Harlow"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_of_Barking",
+            "http://dbpedia.org/resource/Archdeacons_in_the_Diocese_of_Chelmsford",
+            "http://dbpedia.org/resource/Chipping_Ongar"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_of_Barking",
+            "http://dbpedia.org/resource/Archdeacon_of_West_Ham",
+            "http://dbpedia.org/resource/London_Borough_of_Newham"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_of_Barking",
+            "http://dbpedia.org/resource/Archdeacon_of_West_Ham",
+            "http://dbpedia.org/resource/London_Borough_of_Redbridge"
+        ]
+    ]
+}

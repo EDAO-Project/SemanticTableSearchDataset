@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colombo",
+            "http://dbpedia.org/resource/Sri_Lanka",
+            "http://dbpedia.org/resource/Bandaranaike_International_Airport"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chip_Peterson",
+            "http://dbpedia.org/resource/List_of_Pan_American_Games_records_in_swimming",
+            "http://dbpedia.org/resource/Ricardo_Monasterio",
+            "http://dbpedia.org/resource/Kier_Maitland"
+        ],
+        [
+            "http://dbpedia.org/resource/Randall_Bal",
+            "http://dbpedia.org/resource/List_of_Pan_American_Games_records_in_swimming",
+            "http://dbpedia.org/resource/Thiago_Pereira",
+            "http://dbpedia.org/resource/List_of_South_American_records_in_swimming"
+        ]
+    ]
+}

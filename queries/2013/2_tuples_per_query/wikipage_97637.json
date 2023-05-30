@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2004_in_tennis",
+            "http://dbpedia.org/resource/Lleyton_Hewitt",
+            "http://dbpedia.org/resource/Lindsay_Davenport"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_tennis",
+            "http://dbpedia.org/resource/Andre_Agassi",
+            "http://dbpedia.org/resource/Elena_Likhovtseva"
+        ]
+    ]
+}

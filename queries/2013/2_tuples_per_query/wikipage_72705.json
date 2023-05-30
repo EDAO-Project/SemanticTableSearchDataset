@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ghent",
+            "http://dbpedia.org/resource/East_Flanders",
+            "http://dbpedia.org/resource/Flemish_Region"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruges",
+            "http://dbpedia.org/resource/West_Flanders",
+            "http://dbpedia.org/resource/Flemish_Region"
+        ]
+    ]
+}

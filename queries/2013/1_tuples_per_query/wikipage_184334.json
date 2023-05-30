@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_Soviet_Top_League",
+            "http://dbpedia.org/resource/PFC_CSKA_Moscow",
+            "http://dbpedia.org/resource/FC_Dynamo_Moscow",
+            "http://dbpedia.org/resource/FC_Spartak_Moscow",
+            "http://dbpedia.org/resource/Givi_Nodia"
+        ]
+    ]
+}

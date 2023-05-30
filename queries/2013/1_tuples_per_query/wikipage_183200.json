@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Bernardino,_California",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/San_Manuel_Amphitheater"
+        ]
+    ]
+}

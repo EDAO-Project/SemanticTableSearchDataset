@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Neil_Cameron,_Baron_Cameron_of_Balhousie",
+            "http://dbpedia.org/resource/No._1_Squadron_RAF",
+            "http://dbpedia.org/resource/Flying_ace"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Reginald_Carey",
+            "http://dbpedia.org/resource/No._43_Squadron_RAF",
+            "http://dbpedia.org/resource/Flying_ace"
+        ],
+        [
+            "http://dbpedia.org/resource/Gordon_Cleaver",
+            "http://dbpedia.org/resource/No._610_Squadron_RAF",
+            "http://dbpedia.org/resource/Flying_ace"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_John_Cork",
+            "http://dbpedia.org/resource/No._242_Squadron_RAF",
+            "http://dbpedia.org/resource/Flying_ace"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Crew",
+            "http://dbpedia.org/resource/No._604_Squadron_RAF",
+            "http://dbpedia.org/resource/Flying_ace"
+        ]
+    ]
+}

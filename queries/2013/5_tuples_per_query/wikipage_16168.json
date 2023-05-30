@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dobongsan_Station",
+            "http://dbpedia.org/resource/Seoul_Subway_Line_1",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Dobong_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Nowon_Station",
+            "http://dbpedia.org/resource/Seoul_Subway_Line_4",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Nowon_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Taereung_Station",
+            "http://dbpedia.org/resource/Seoul_Subway_Line_6",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Nowon_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Sangbong_Station",
+            "http://dbpedia.org/resource/Jungang_Line",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Jungnang_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Gunja_Station",
+            "http://dbpedia.org/resource/Seoul_Subway_Line_5",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Gwangjin_District"
+        ]
+    ]
+}

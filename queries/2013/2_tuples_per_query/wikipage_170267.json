@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Assiniboia-Gravelbourg",
+            "http://dbpedia.org/resource/Allen_Engel",
+            "http://dbpedia.org/resource/Saskatchewan_New_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bengough-Milestone",
+            "http://dbpedia.org/resource/Robert_Hugh_Pickering",
+            "http://dbpedia.org/resource/Progressive_Conservative_Party_of_Saskatchewan"
+        ]
+    ]
+}

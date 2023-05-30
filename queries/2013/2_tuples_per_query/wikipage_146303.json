@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Auflance",
+            "http://dbpedia.org/resource/Autrecourt-et-Pourron",
+            "http://dbpedia.org/resource/Balan,_Ardennes"
+        ],
+        [
+            "http://dbpedia.org/resource/Bulson",
+            "http://dbpedia.org/resource/Carignan,_Ardennes",
+            "http://dbpedia.org/resource/Cheveuges"
+        ]
+    ]
+}

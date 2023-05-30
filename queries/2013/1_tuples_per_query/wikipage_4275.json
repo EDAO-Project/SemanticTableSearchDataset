@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rutgers_University",
+            "http://dbpedia.org/resource/Louis_Brown_Athletic_Center",
+            "http://dbpedia.org/resource/Piscataway,_New_Jersey",
+            "http://dbpedia.org/resource/New_Jersey"
+        ]
+    ]
+}

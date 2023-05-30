@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ettal",
+            "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Munich_and_Freising",
+            "http://dbpedia.org/resource/Ettal_Abbey"
+        ],
+        [
+            "http://dbpedia.org/resource/Worms,_Germany",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Mainz",
+            "http://dbpedia.org/resource/Worms_Cathedral"
+        ],
+        [
+            "http://dbpedia.org/resource/Speyer",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Speyer",
+            "http://dbpedia.org/resource/Speyer_Cathedral"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottobeuren",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Augsburg",
+            "http://dbpedia.org/resource/Ottobeuren_Abbey"
+        ],
+        [
+            "http://dbpedia.org/resource/Konstanz",
+            "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Freiburg",
+            "http://dbpedia.org/resource/Konstanz_Minster"
+        ]
+    ]
+}

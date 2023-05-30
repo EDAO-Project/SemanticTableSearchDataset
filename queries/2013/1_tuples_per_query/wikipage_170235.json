@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Uwe_Seeler",
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/West_Germany"
+        ]
+    ]
+}

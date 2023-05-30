@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Belvedere,_Vienna",
+            "http://dbpedia.org/resource/Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbados",
+            "http://dbpedia.org/resource/Morgan_Lewis_Windmill",
+            "http://dbpedia.org/resource/Saint_Andrew,_Barbados"
+        ]
+    ]
+}

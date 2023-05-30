@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/William_M._Bennett",
+            "http://dbpedia.org/resource/Brad_Sherman",
+            "http://dbpedia.org/resource/Matt_Fong",
+            "http://dbpedia.org/resource/Gray_Davis"
+        ],
+        [
+            "http://dbpedia.org/resource/William_M._Bennett",
+            "http://dbpedia.org/resource/Brad_Sherman",
+            "http://dbpedia.org/resource/Matt_Fong",
+            "http://dbpedia.org/resource/Gray_Davis"
+        ],
+        [
+            "http://dbpedia.org/resource/William_M._Bennett",
+            "http://dbpedia.org/resource/Brad_Sherman",
+            "http://dbpedia.org/resource/Matt_Fong",
+            "http://dbpedia.org/resource/Gray_Davis"
+        ],
+        [
+            "http://dbpedia.org/resource/William_M._Bennett",
+            "http://dbpedia.org/resource/Brad_Sherman",
+            "http://dbpedia.org/resource/Matt_Fong",
+            "http://dbpedia.org/resource/Gray_Davis"
+        ],
+        [
+            "http://dbpedia.org/resource/Johan_Klehs",
+            "http://dbpedia.org/resource/Dean_Andal",
+            "http://dbpedia.org/resource/Brad_Sherman",
+            "http://dbpedia.org/resource/Kathleen_Connell"
+        ]
+    ]
+}

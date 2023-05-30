@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1884_Louisville_Eclipse_season",
+            "http://dbpedia.org/resource/Guy_Hecker",
+            "http://dbpedia.org/resource/Toledo_Blue_Stockings",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/1885_Louisville_Colonels_season",
+            "http://dbpedia.org/resource/Guy_Hecker",
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Eclipse_Park"
+        ]
+    ]
+}

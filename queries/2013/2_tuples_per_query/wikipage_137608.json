@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Young_Sick_Bacchus",
+            "http://dbpedia.org/resource/1593_in_art",
+            "http://dbpedia.org/resource/Oil_painting",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Galleria_Borghese"
+        ],
+        [
+            "http://dbpedia.org/resource/Boy_with_a_Basket_of_Fruit",
+            "http://dbpedia.org/resource/1593_in_art",
+            "http://dbpedia.org/resource/Oil_painting",
+            "http://dbpedia.org/resource/Rome",
+            "http://dbpedia.org/resource/Galleria_Borghese"
+        ]
+    ]
+}

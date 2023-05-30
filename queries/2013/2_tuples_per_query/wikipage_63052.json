@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Ella_Fitzgerald",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ella_Fitzgerald_Sings_the_Irving_Berlin_Songbook",
+            "http://dbpedia.org/resource/Doris_Day"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Annual_Grammy_Awards",
+            "http://dbpedia.org/resource/Ella_Fitzgerald",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Mack_the_Knife",
+            "http://dbpedia.org/resource/Doris_Day"
+        ]
+    ]
+}

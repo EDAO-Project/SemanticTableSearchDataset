@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Mabry",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Batting_average"
+        ],
+        [
+            "http://dbpedia.org/resource/Harvey_MacDonald",
+            "http://dbpedia.org/resource/Right_fielder",
+            "http://dbpedia.org/resource/Batting_average"
+        ]
+    ]
+}

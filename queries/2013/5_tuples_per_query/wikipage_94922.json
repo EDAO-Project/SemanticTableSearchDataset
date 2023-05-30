@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beauty_of_the_Beast",
+            "http://dbpedia.org/resource/Century_Child",
+            "http://dbpedia.org/resource/Tuomas_Holopainen"
+        ],
+        [
+            "http://dbpedia.org/resource/Bless_the_Child",
+            "http://dbpedia.org/resource/Century_Child",
+            "http://dbpedia.org/resource/Tuomas_Holopainen"
+        ],
+        [
+            "http://dbpedia.org/resource/Bye_Bye_Beautiful",
+            "http://dbpedia.org/resource/Dark_Passion_Play",
+            "http://dbpedia.org/resource/Tuomas_Holopainen"
+        ],
+        [
+            "http://dbpedia.org/resource/Dead_to_the_World",
+            "http://dbpedia.org/resource/Century_Child",
+            "http://dbpedia.org/resource/Tuomas_Holopainen"
+        ],
+        [
+            "http://dbpedia.org/resource/EVA",
+            "http://dbpedia.org/resource/Dark_Passion_Play",
+            "http://dbpedia.org/resource/Tuomas_Holopainen"
+        ]
+    ]
+}

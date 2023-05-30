@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Polk_County,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Dallas_County,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Warren_County,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Madison_County,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Des_Moines_metropolitan_area",
+            "http://dbpedia.org/resource/Guthrie_County,_Iowa"
+        ]
+    ]
+}

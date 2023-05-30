@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giovanni_Battista_Re",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Congregation_for_Bishops"
+        ],
+        [
+            "http://dbpedia.org/resource/Tarcisio_Bertone",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Cardinal_Secretary_of_State"
+        ]
+    ]
+}

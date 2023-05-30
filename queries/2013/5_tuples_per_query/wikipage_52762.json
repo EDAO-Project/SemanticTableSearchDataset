@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Orleans_Privateers",
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/Mike_Quade"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Alabama_Jaguars",
+            "http://dbpedia.org/resource/Mobile,_Alabama",
+            "http://dbpedia.org/resource/Pete_Coachman"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Alabama_Jaguars",
+            "http://dbpedia.org/resource/Norfolk,_Virginia",
+            "http://dbpedia.org/resource/Mike_Maksudian"
+        ],
+        [
+            "http://dbpedia.org/resource/VCU_Rams",
+            "http://dbpedia.org/resource/Bowling_Green,_Kentucky",
+            "http://dbpedia.org/resource/Tim_Barker"
+        ],
+        [
+            "http://dbpedia.org/resource/Lamar_Cardinals_and_Lady_Cardinals",
+            "http://dbpedia.org/resource/Beaumont,_Texas",
+            "http://dbpedia.org/resource/Phil_Brassington"
+        ]
+    ]
+}

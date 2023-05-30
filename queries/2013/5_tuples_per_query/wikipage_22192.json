@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/General_of_the_Army",
+            "http://dbpedia.org/resource/General_of_the_Army",
+            "http://dbpedia.org/resource/Admiral_of_the_fleet"
+        ],
+        [
+            "http://dbpedia.org/resource/Colonel_general",
+            "http://dbpedia.org/resource/Colonel_general",
+            "http://dbpedia.org/resource/Admiral"
+        ],
+        [
+            "http://dbpedia.org/resource/Lieutenant_colonel_general",
+            "http://dbpedia.org/resource/Lieutenant_colonel_general",
+            "http://dbpedia.org/resource/Vice_admiral"
+        ],
+        [
+            "http://dbpedia.org/resource/Major_general",
+            "http://dbpedia.org/resource/Major_general",
+            "http://dbpedia.org/resource/Rear_admiral"
+        ],
+        [
+            "http://dbpedia.org/resource/Lieutenant_colonel",
+            "http://dbpedia.org/resource/Lieutenant_colonel",
+            "http://dbpedia.org/resource/Commander"
+        ]
+    ]
+}

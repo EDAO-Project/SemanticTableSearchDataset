@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gene_Short",
+            "http://dbpedia.org/resource/Jackson_State_Tigers_basketball",
+            "http://dbpedia.org/resource/Small_forward"
+        ],
+        [
+            "http://dbpedia.org/resource/Gene_Short",
+            "http://dbpedia.org/resource/Jackson_State_Tigers_basketball",
+            "http://dbpedia.org/resource/Small_forward"
+        ]
+    ]
+}

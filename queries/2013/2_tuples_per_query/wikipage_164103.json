@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mimis_Androulakis",
+            "http://dbpedia.org/resource/Athens_B",
+            "http://dbpedia.org/resource/Panhellenic_Socialist_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Pavlos_Haikalis",
+            "http://dbpedia.org/resource/Attica",
+            "http://dbpedia.org/resource/Independent_Greeks"
+        ]
+    ]
+}

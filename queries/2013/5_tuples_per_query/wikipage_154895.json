@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Djaniny",
+            "http://dbpedia.org/resource/U.D._Leiria",
+            "http://dbpedia.org/resource/S.L._Benfica"
+        ],
+        [
+            "http://dbpedia.org/resource/Salvador_Agra",
+            "http://dbpedia.org/resource/S.C._Olhanense",
+            "http://dbpedia.org/resource/Real_Betis"
+        ],
+        [
+            "http://dbpedia.org/resource/Zakaria_Labyad",
+            "http://dbpedia.org/resource/PSV_Eindhoven",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Airton_Ribeiro_Santos",
+            "http://dbpedia.org/resource/S.L._Benfica",
+            "http://dbpedia.org/resource/Clube_de_Regatas_do_Flamengo"
+        ],
+        [
+            "http://dbpedia.org/resource/Fernando_Alexandre",
+            "http://dbpedia.org/resource/S.C._Braga",
+            "http://dbpedia.org/resource/S.C._Olhanense"
+        ]
+    ]
+}

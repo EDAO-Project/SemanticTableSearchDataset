@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_I_Want_for_Christmas_Is_You",
+            "http://dbpedia.org/resource/Mariah_Carey",
+            "http://dbpedia.org/resource/Columbia_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Christmas_Eve/Sarajevo_12/24",
+            "http://dbpedia.org/resource/Trans-Siberian_Orchestra",
+            "http://dbpedia.org/resource/Lava_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Christmas_Canon",
+            "http://dbpedia.org/resource/Trans-Siberian_Orchestra",
+            "http://dbpedia.org/resource/Lava_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Chanukah_Song",
+            "http://dbpedia.org/resource/Adam_Sandler",
+            "http://dbpedia.org/resource/Warner_Bros._Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Jingle_Bell_Rock",
+            "http://dbpedia.org/resource/Bobby_Helms",
+            "http://dbpedia.org/resource/Decca_Records"
+        ]
+    ]
+}

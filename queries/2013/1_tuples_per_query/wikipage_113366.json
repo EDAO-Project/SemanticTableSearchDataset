@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/Strathcona_County"
+        ]
+    ]
+}

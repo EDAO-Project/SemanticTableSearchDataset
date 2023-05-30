@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/Bruce_Huther",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/New_Hampshire_Wildcats",
+            "http://dbpedia.org/resource/Yankee_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Denver_Broncos_season",
+            "http://dbpedia.org/resource/Ron_Egloff",
+            "http://dbpedia.org/resource/Tight_end",
+            "http://dbpedia.org/resource/1976_Wisconsin_Badgers_football_team",
+            "http://dbpedia.org/resource/Big_Ten_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Denver_Broncos_season",
+            "http://dbpedia.org/resource/Rob_Nairne",
+            "http://dbpedia.org/resource/Linebacker",
+            "http://dbpedia.org/resource/Oregon_State_Beavers",
+            "http://dbpedia.org/resource/Pacific-12_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Kansas_City_Chiefs_season",
+            "http://dbpedia.org/resource/Ed_Beckman",
+            "http://dbpedia.org/resource/Tight_end",
+            "http://dbpedia.org/resource/1976_Florida_State_Seminoles_football_team",
+            "http://dbpedia.org/resource/NCAA_Division_I_FBS_independent_schools"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Kansas_City_Chiefs_season",
+            "http://dbpedia.org/resource/Arnold_Morgado",
+            "http://dbpedia.org/resource/Running_back",
+            "http://dbpedia.org/resource/Michigan_State_Spartans",
+            "http://dbpedia.org/resource/Big_Ten_Conference"
+        ]
+    ]
+}

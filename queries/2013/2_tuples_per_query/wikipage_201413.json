@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DeLuca_Biochemistry_Building",
+            "http://dbpedia.org/resource/Madison,_Wisconsin",
+            "http://dbpedia.org/resource/Paul_Philippe_Cret"
+        ],
+        [
+            "http://dbpedia.org/resource/Allen_Centennial_Gardens",
+            "http://dbpedia.org/resource/Madison,_Wisconsin",
+            "http://dbpedia.org/resource/Queen_Anne_style_architecture_in_the_United_States"
+        ]
+    ]
+}

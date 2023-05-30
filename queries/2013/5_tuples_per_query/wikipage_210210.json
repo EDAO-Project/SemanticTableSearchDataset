@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_Canadian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/Shae-Lynn_Bourne",
+            "http://dbpedia.org/resource/Chantal_Lefebvre",
+            "http://dbpedia.org/resource/Megan_Wing"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Canadian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Hamilton,_Ontario",
+            "http://dbpedia.org/resource/Shae-Lynn_Bourne",
+            "http://dbpedia.org/resource/Chantal_Lefebvre",
+            "http://dbpedia.org/resource/Megan_Wing"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Canadian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Shae-Lynn_Bourne",
+            "http://dbpedia.org/resource/Chantal_Lefebvre",
+            "http://dbpedia.org/resource/Marie-France_Dubreuil"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Canadian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Winnipeg",
+            "http://dbpedia.org/resource/Shae-Lynn_Bourne",
+            "http://dbpedia.org/resource/Marie-France_Dubreuil",
+            "http://dbpedia.org/resource/Megan_Wing"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Canadian_Figure_Skating_Championships",
+            "http://dbpedia.org/resource/Hamilton,_Ontario",
+            "http://dbpedia.org/resource/Shae-Lynn_Bourne",
+            "http://dbpedia.org/resource/Marie-France_Dubreuil",
+            "http://dbpedia.org/resource/Megan_Wing"
+        ]
+    ]
+}

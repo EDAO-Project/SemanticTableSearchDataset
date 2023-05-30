@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Salt_Lake_City",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/EnergySolutions_Arena"
+        ]
+    ]
+}

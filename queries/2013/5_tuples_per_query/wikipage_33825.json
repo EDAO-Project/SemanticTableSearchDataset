@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Nanan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mudanjiang",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Shandong"
+        ],
+        [
+            "http://dbpedia.org/resource/Chongqing",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Sichuan"
+        ],
+        [
+            "http://dbpedia.org/resource/Hangzhou",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Zhejiang"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Shantou"
+        ]
+    ]
+}

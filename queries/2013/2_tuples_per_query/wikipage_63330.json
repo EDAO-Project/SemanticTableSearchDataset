@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nguse_Tesfaldet",
+            "http://dbpedia.org/resource/Eritrea",
+            "http://dbpedia.org/resource/Joyce_Chepkirui",
+            "http://dbpedia.org/resource/Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Nzau_Mwangangi",
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/Hilda_Kibet",
+            "http://dbpedia.org/resource/Netherlands"
+        ]
+    ]
+}

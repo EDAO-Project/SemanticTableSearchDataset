@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Israeli_Labor_Party",
+            "http://dbpedia.org/resource/David_Libai",
+            "http://dbpedia.org/resource/Eitan_Cabel"
+        ],
+        [
+            "http://dbpedia.org/resource/Israeli_Labor_Party",
+            "http://dbpedia.org/resource/Moshe_Shahal",
+            "http://dbpedia.org/resource/Rafik_Haj_Yahia"
+        ]
+    ]
+}

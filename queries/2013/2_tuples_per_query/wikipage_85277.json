@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Silverstone_Circuit",
+            "http://dbpedia.org/resource/Alan_Docking_Racing",
+            "http://dbpedia.org/resource/2010_Silverstone_Superleague_Formula_round"
+        ],
+        [
+            "http://dbpedia.org/resource/TT_Circuit_Assen",
+            "http://dbpedia.org/resource/Azerti_Motorsport",
+            "http://dbpedia.org/resource/2010_Assen_Superleague_Formula_round"
+        ]
+    ]
+}

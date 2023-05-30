@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BookLink",
+            "http://dbpedia.org/resource/Web_browser",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/NaviSoft",
+            "http://dbpedia.org/resource/Web_server",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stadium_Australia",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/New_South_Wales",
+            "http://dbpedia.org/resource/Australian_rules_football"
+        ],
+        [
+            "http://dbpedia.org/resource/Lang_Park",
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Queensland",
+            "http://dbpedia.org/resource/Rugby_league"
+        ]
+    ]
+}

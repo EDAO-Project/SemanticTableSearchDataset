@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Reiter_Engineering",
+            "http://dbpedia.org/resource/Peter_Kox",
+            "http://dbpedia.org/resource/Lamborghini"
+        ],
+        [
+            "http://dbpedia.org/resource/Reiter_Engineering",
+            "http://dbpedia.org/resource/Ricardo_Zonta",
+            "http://dbpedia.org/resource/Lamborghini"
+        ],
+        [
+            "http://dbpedia.org/resource/Hexis_Racing",
+            "http://dbpedia.org/resource/Clivio_Piccione",
+            "http://dbpedia.org/resource/Aston_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Matech_Concepts",
+            "http://dbpedia.org/resource/Thomas_Mutsch",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitaphone_Racing",
+            "http://dbpedia.org/resource/Miguel_Ramos",
+            "http://dbpedia.org/resource/Maserati"
+        ]
+    ]
+}

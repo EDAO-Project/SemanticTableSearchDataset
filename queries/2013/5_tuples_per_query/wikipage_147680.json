@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bolivia",
+            "http://dbpedia.org/resource/El_Fuerte_de_Samaipata",
+            "http://dbpedia.org/resource/Samaipata,_Bolivia"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Salvador,_Bahia",
+            "http://dbpedia.org/resource/Bahia"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Nanyue",
+            "http://dbpedia.org/resource/Guangzhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Cuba",
+            "http://dbpedia.org/resource/John_the_Baptist",
+            "http://dbpedia.org/resource/Remedios,_Cuba"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Ashanti",
+            "http://dbpedia.org/resource/Kumasi"
+        ]
+    ]
+}

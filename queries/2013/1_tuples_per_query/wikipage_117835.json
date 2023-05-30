@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chris_Phillips",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Ottawa_Senators",
+            "http://dbpedia.org/resource/Prince_Albert_Raiders"
+        ]
+    ]
+}

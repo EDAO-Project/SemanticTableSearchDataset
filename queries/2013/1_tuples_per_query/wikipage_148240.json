@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Loughgiel_Shamrocks_GAC",
+            "http://dbpedia.org/resource/Antrim_GAA",
+            "http://dbpedia.org/resource/Coolderry_GAA",
+            "http://dbpedia.org/resource/Offaly_GAA"
+        ]
+    ]
+}

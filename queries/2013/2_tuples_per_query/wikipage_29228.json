@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beware_of_Pity",
+            "http://dbpedia.org/resource/Maurice_Elvey",
+            "http://dbpedia.org/resource/Cedric_Hardwicke"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Captive_Heart",
+            "http://dbpedia.org/resource/Basil_Dearden",
+            "http://dbpedia.org/resource/Michael_Redgrave"
+        ]
+    ]
+}

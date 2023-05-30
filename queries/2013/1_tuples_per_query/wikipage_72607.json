@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Colin_Powell",
+            "http://dbpedia.org/resource/United_States_Secretary_of_State",
+            "http://dbpedia.org/resource/Presidency_of_George_W._Bush"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Snetterton_Circuit",
+            "http://dbpedia.org/resource/Mike_Conway",
+            "http://dbpedia.org/resource/Fortec_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Thruxton_Circuit",
+            "http://dbpedia.org/resource/James_Rossiter",
+            "http://dbpedia.org/resource/Fortec_Motorsport"
+        ]
+    ]
+}

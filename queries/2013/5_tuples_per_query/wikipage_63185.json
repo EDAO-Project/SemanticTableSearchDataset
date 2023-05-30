@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Isaac_Isaacs",
+            "http://dbpedia.org/resource/Protectionist_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1901"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_Tilley_Brown",
+            "http://dbpedia.org/resource/Free_Trade_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1906"
+        ],
+        [
+            "http://dbpedia.org/resource/Parker_Moloney",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1910"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornelius_Ahern",
+            "http://dbpedia.org/resource/Commonwealth_Liberal_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1913"
+        ],
+        [
+            "http://dbpedia.org/resource/Parker_Moloney",
+            "http://dbpedia.org/resource/Australian_Labor_Party",
+            "http://dbpedia.org/resource/Australian_federal_election,_1914"
+        ]
+    ]
+}

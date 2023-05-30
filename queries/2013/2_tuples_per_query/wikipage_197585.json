@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/World_Series_of_Poker",
+            "http://dbpedia.org/resource/CBS",
+            "http://dbpedia.org/resource/Lon_McEachern"
+        ],
+        [
+            "http://dbpedia.org/resource/The_United_States_Poker_Championship",
+            "http://dbpedia.org/resource/ESPN",
+            "http://dbpedia.org/resource/Lon_McEachern"
+        ]
+    ]
+}

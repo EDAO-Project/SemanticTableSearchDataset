@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shinji_Ono",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Chun-soo",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Ulsan_Hyundai_FC"
+        ]
+    ]
+}

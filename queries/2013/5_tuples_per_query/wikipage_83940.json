@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jefferson_Montero",
+            "http://dbpedia.org/resource/Independiente_del_Valle",
+            "http://dbpedia.org/resource/Villarreal_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/Alain_Nef",
+            "http://dbpedia.org/resource/Recreativo_de_Huelva",
+            "http://dbpedia.org/resource/Udinese_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Jorge_Molina_Vidal",
+            "http://dbpedia.org/resource/Polideportivo_Ejido",
+            "http://dbpedia.org/resource/Elche_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Fuster",
+            "http://dbpedia.org/resource/Elche_CF",
+            "http://dbpedia.org/resource/Villarreal_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/Pablo_Camacho",
+            "http://dbpedia.org/resource/Caracas_FC",
+            "http://dbpedia.org/resource/RCD_Espanyol"
+        ]
+    ]
+}

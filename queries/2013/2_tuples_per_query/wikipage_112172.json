@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pittsburgh_Penguins",
+            "http://dbpedia.org/resource/Sidney_Crosby",
+            "http://dbpedia.org/resource/Consol_Energy_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville_Predators",
+            "http://dbpedia.org/resource/Zach_Bogosian",
+            "http://dbpedia.org/resource/Philips_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WMBV",
+            "http://dbpedia.org/resource/Dixons_Mills,_Alabama",
+            "http://dbpedia.org/resource/Alabama"
+        ]
+    ]
+}

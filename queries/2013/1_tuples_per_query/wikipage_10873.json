@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Senior_PGA_Championship",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Gary_Player"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jacob_Levitzki",
+            "http://dbpedia.org/resource/Hard_and_soft_science",
+            "http://dbpedia.org/resource/Alexander_Levitzki"
+        ]
+    ]
+}

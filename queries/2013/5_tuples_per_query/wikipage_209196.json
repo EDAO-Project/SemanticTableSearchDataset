@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pi_Kappa_Alpha",
+            "http://dbpedia.org/resource/Florida_State_University",
+            "http://dbpedia.org/resource/Tallahassee,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Zeta_Beta_Tau",
+            "http://dbpedia.org/resource/Florida_State_University",
+            "http://dbpedia.org/resource/Tallahassee,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Phi_Kappa_Psi",
+            "http://dbpedia.org/resource/University_of_Kansas",
+            "http://dbpedia.org/resource/Lawrence,_Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Delta_Gamma",
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Tuscaloosa,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Beta_Theta_Pi",
+            "http://dbpedia.org/resource/University_of_Missouri",
+            "http://dbpedia.org/resource/Columbia,_Missouri"
+        ]
+    ]
+}

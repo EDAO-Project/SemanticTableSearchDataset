@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roanoke,_Virginia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Berglund_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Chattanooga,_Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/McKenzie_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Peoria,_Illinois",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Peoria_Civic_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Rapids,_Michigan",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Van_Andel_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville,_Tennessee",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Bridgestone_Arena"
+        ]
+    ]
+}

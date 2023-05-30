@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hangman_Jury",
+            "http://dbpedia.org/resource/Aerosmith",
+            "http://dbpedia.org/resource/Steven_Tyler"
+        ]
+    ]
+}

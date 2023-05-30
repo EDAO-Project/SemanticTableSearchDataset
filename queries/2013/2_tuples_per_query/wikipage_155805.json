@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/TUI_Arena",
+            "http://dbpedia.org/resource/Hanover",
+            "http://dbpedia.org/resource/Lower_Saxony",
+            "http://dbpedia.org/resource/Hannover_Scorpions"
+        ],
+        [
+            "http://dbpedia.org/resource/Sparkassen-Arena",
+            "http://dbpedia.org/resource/Kiel",
+            "http://dbpedia.org/resource/Schleswig-Holstein",
+            "http://dbpedia.org/resource/THW_Kiel"
+        ]
+    ]
+}

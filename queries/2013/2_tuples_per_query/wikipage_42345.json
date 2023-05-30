@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blaupunkt",
+            "http://dbpedia.org/resource/Klaus_Ludwig",
+            "http://dbpedia.org/resource/Porsche_956",
+            "http://dbpedia.org/resource/Goodyear_Tire_and_Rubber_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Silk_Cut",
+            "http://dbpedia.org/resource/Eddie_Cheever",
+            "http://dbpedia.org/resource/Jaguar_Cars",
+            "http://dbpedia.org/resource/Dunlop_Tyres"
+        ]
+    ]
+}

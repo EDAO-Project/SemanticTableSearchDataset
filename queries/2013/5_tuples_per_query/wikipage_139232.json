@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chitimacha_Louisiana_Open",
+            "http://dbpedia.org/resource/Louisiana",
+            "http://dbpedia.org/resource/Paul_Claxton"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Tee_Arkansas_Classic",
+            "http://dbpedia.org/resource/Arkansas",
+            "http://dbpedia.org/resource/Brett_Quigley"
+        ],
+        [
+            "http://dbpedia.org/resource/Rex_Hospital_Open",
+            "http://dbpedia.org/resource/North_Carolina",
+            "http://dbpedia.org/resource/John_Maginnes"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Beach_Open",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/Trevor_Dodds"
+        ],
+        [
+            "http://dbpedia.org/resource/Henrico_County_Open",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/Chad_Campbell"
+        ]
+    ]
+}

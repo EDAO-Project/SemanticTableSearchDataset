@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/St._George_Tucker",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_James_Madison"
+        ],
+        [
+            "http://dbpedia.org/resource/Philip_Pendleton_Barbour",
+            "http://dbpedia.org/resource/Virginia",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Andrew_Jackson"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuusamo",
+            "http://dbpedia.org/resource/Ola_Vigen_Hattestad",
+            "http://dbpedia.org/resource/Tor_Arne_Hetland",
+            "http://dbpedia.org/resource/John_Kristian_Dahl"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Clusaz",
+            "http://dbpedia.org/resource/Petter_Northug",
+            "http://dbpedia.org/resource/Dario_Cologna",
+            "http://dbpedia.org/resource/Alexander_Legkov"
+        ]
+    ]
+}

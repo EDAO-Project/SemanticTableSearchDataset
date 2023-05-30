@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Memorial_Cup",
+            "http://dbpedia.org/resource/Nathan_MacKinnon",
+            "http://dbpedia.org/resource/Halifax_Mooseheads"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Memorial_Cup",
+            "http://dbpedia.org/resource/Michael_Chaput",
+            "http://dbpedia.org/resource/Shawinigan_Cataractes"
+        ]
+    ]
+}

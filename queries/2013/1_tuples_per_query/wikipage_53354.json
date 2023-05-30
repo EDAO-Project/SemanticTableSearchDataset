@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/World_record_progression_100_metres_freestyle",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Tokyo"
+        ]
+    ]
+}

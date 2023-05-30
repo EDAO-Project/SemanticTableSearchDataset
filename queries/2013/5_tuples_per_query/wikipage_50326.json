@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Burj_Khalifa",
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Liberation_Tower",
+            "http://dbpedia.org/resource/Kuwait_City",
+            "http://dbpedia.org/resource/Kuwait"
+        ],
+        [
+            "http://dbpedia.org/resource/Almas_Tower",
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Emirates_Office_Tower",
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Rose_Tower",
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/United_Arab_Emirates"
+        ]
+    ]
+}

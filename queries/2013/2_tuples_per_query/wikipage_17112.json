@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/Nassau,_Bahamas",
+            "http://dbpedia.org/resource/The_Bahamas"
+        ],
+        [
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/Nijmegen",
+            "http://dbpedia.org/resource/Netherlands"
+        ]
+    ]
+}

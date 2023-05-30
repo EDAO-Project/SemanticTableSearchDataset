@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toyono_Station",
+            "http://dbpedia.org/resource/Nagano,_Nagano",
+            "http://dbpedia.org/resource/Nagano_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Shinano-Asano_Station",
+            "http://dbpedia.org/resource/Nagano,_Nagano",
+            "http://dbpedia.org/resource/Nagano_Prefecture"
+        ]
+    ]
+}

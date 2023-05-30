@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Atlanta_Braves_season",
+            "http://dbpedia.org/resource/Denny_Lemaster",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Astrodome"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Atlanta_Braves_season",
+            "http://dbpedia.org/resource/Phil_Niekro",
+            "http://dbpedia.org/resource/San_Diego_Padres",
+            "http://dbpedia.org/resource/Qualcomm_Stadium"
+        ]
+    ]
+}

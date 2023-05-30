@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mohammed_Mourhit",
+            "http://dbpedia.org/resource/Serhiy_Lebid",
+            "http://dbpedia.org/resource/Charles_Kamathi"
+        ],
+        [
+            "http://dbpedia.org/resource/Enock_Koech",
+            "http://dbpedia.org/resource/Kenenisa_Bekele",
+            "http://dbpedia.org/resource/Benjamin_Limo"
+        ],
+        [
+            "http://dbpedia.org/resource/Paula_Radcliffe",
+            "http://dbpedia.org/resource/Gete_Wami",
+            "http://dbpedia.org/resource/Lydia_Cheromei"
+        ],
+        [
+            "http://dbpedia.org/resource/Gete_Wami",
+            "http://dbpedia.org/resource/Paula_Radcliffe",
+            "http://dbpedia.org/resource/Edith_Masai"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenya",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

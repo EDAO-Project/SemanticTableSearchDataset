@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Franklin_County,_Pennsylvania",
+            "http://dbpedia.org/resource/State_Line,_Franklin_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Franklin_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Greene_Township,_Franklin_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Penn_State_Mont_Alto"
+        ]
+    ]
+}

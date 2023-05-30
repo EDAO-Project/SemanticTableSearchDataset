@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oran_Park_Raceway",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Paul_Morris_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Oran_Park_Raceway",
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Paul_Morris_Motorsport"
+        ]
+    ]
+}

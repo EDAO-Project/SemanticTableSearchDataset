@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yokohama",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Yokohama_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Yokohama",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Yokohama_Arena"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Venus_in_Furs",
+            "http://dbpedia.org/resource/Leopold_von_Sacher-Masoch"
+        ]
+    ]
+}

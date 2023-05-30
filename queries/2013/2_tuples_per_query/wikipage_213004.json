@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miao_people",
+            "http://dbpedia.org/resource/Hebei",
+            "http://dbpedia.org/resource/Hmong_people",
+            "http://dbpedia.org/resource/Miao_people",
+            "http://dbpedia.org/resource/Miao_people"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuezhi",
+            "http://dbpedia.org/resource/Kushan_Empire",
+            "http://dbpedia.org/resource/Uyghurs"
+        ]
+    ]
+}

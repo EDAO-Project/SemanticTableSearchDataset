@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Halifax,_Nova_Scotia",
+            "http://dbpedia.org/resource/Scotiabank_Centre",
+            "http://dbpedia.org/resource/Philadelphia_76ers",
+            "http://dbpedia.org/resource/Toronto_Raptors"
+        ]
+    ]
+}

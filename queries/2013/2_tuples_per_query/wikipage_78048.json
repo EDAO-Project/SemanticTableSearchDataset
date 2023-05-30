@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Copenhagen_Amber_Museum",
+            "http://dbpedia.org/resource/Nyhavn",
+            "http://dbpedia.org/resource/Copenhagen_Municipality",
+            "http://dbpedia.org/resource/Amber"
+        ],
+        [
+            "http://dbpedia.org/resource/Copenhagen_Zoo",
+            "http://dbpedia.org/resource/Frederiksberg",
+            "http://dbpedia.org/resource/Frederiksberg_Municipality",
+            "http://dbpedia.org/resource/Norman_Foster,_Baron_Foster_of_Thames_Bank"
+        ]
+    ]
+}

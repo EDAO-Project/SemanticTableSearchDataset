@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Miss_Earth_2001",
+            "http://dbpedia.org/resource/Miss_Earth_Brazil",
+            "http://dbpedia.org/resource/Priscilla_Meirelles",
+            "http://dbpedia.org/resource/Miss_Earth_2012"
+        ]
+    ]
+}

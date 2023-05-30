@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_AFC_Champions_League",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Choi_Sung-kuk"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_AFC_Champions_League",
+            "http://dbpedia.org/resource/AFC_Champions_League",
+            "http://dbpedia.org/resource/Tokyo_Verdy",
+            "http://dbpedia.org/resource/Lee_Chun-soo"
+        ]
+    ]
+}

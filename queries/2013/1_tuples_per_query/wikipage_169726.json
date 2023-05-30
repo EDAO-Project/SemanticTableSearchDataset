@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Addington,_Kent",
+            "http://dbpedia.org/resource/Church_of_England",
+            "http://dbpedia.org/resource/Norman_architecture"
+        ]
+    ]
+}

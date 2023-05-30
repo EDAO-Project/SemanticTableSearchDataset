@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_MTV_Europe_Music_Awards",
+            "http://dbpedia.org/resource/Red_Hot_Chili_Peppers",
+            "http://dbpedia.org/resource/Bon_Jovi"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_MTV_Europe_Music_Awards",
+            "http://dbpedia.org/resource/Blink-182",
+            "http://dbpedia.org/resource/Crazy_Town"
+        ]
+    ]
+}

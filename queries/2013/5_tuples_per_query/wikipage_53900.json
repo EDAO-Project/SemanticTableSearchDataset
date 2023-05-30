@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Livingstone,_Zambia",
+            "http://dbpedia.org/resource/Southern_Province,_Zambia",
+            "http://dbpedia.org/resource/Zambia"
+        ],
+        [
+            "http://dbpedia.org/resource/Honolulu_County,_Hawaii",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Maui",
+            "http://dbpedia.org/resource/Hawaii",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Oakland,_California",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Bedford,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

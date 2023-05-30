@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Istrian_Italians",
+            "http://dbpedia.org/resource/La_Voce_del_Popolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Swedish-speaking_population_of_Finland",
+            "http://dbpedia.org/resource/Hufvudstadsbladet"
+        ],
+        [
+            "http://dbpedia.org/resource/Finland",
+            "http://dbpedia.org/resource/Swedish-speaking_population_of_Finland",
+            "http://dbpedia.org/resource/Vasabladet"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Danish_minority_of_Southern_Schleswig",
+            "http://dbpedia.org/resource/Flensborg_Avis"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/South_Tyrol",
+            "http://dbpedia.org/resource/Dolomiten"
+        ]
+    ]
+}

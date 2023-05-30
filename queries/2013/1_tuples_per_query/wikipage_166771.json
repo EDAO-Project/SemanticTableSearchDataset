@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battle_of_Okehazama",
+            "http://dbpedia.org/resource/Toyoake,_Aichi",
+            "http://dbpedia.org/resource/Monuments_of_Japan"
+        ]
+    ]
+}

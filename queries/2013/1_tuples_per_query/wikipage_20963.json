@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nearctic_ecozone",
+            "http://dbpedia.org/resource/Tropical_and_subtropical_coniferous_forests",
+            "http://dbpedia.org/resource/Sierra_Madre_Occidental_pine-oak_forests",
+            "http://dbpedia.org/resource/Arizona"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kamigamo_Shrine",
+            "http://dbpedia.org/resource/Kita-ku,_Kyoto",
+            "http://dbpedia.org/resource/Twenty-Two_Shrines"
+        ],
+        [
+            "http://dbpedia.org/resource/Hirano_Shrine",
+            "http://dbpedia.org/resource/Kita-ku,_Kyoto",
+            "http://dbpedia.org/resource/Twenty-Two_Shrines"
+        ]
+    ]
+}

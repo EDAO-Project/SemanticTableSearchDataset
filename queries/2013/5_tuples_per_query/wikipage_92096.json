@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/HMS_Endeavour",
+            "http://dbpedia.org/resource/National_Library_of_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cambodia",
+            "http://dbpedia.org/resource/Tuol_Sleng_Genocide_Museum",
+            "http://dbpedia.org/resource/Phnom_Penh"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Music_of_China",
+            "http://dbpedia.org/resource/Beijing"
+        ],
+        [
+            "http://dbpedia.org/resource/Iran",
+            "http://dbpedia.org/resource/Shahnameh",
+            "http://dbpedia.org/resource/Golestan_Palace"
+        ],
+        [
+            "http://dbpedia.org/resource/Kazakhstan",
+            "http://dbpedia.org/resource/Khoja_Akhmet_Yassawi",
+            "http://dbpedia.org/resource/National_Library_of_Kazakhstan"
+        ]
+    ]
+}

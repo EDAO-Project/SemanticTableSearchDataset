@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Irish_Republican_History_Museum",
+            "http://dbpedia.org/resource/Belfast",
+            "http://dbpedia.org/resource/County_Antrim",
+            "http://dbpedia.org/resource/Provisional_Irish_Republican_Army"
+        ]
+    ]
+}

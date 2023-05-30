@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1979_Norton_Skate",
+            "http://dbpedia.org/resource/Lake_Placid,_New_York",
+            "http://dbpedia.org/resource/Lisa-Marie_Allen",
+            "http://dbpedia.org/resource/Susanna_Driano",
+            "http://dbpedia.org/resource/Sandy_Lenz"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Skate_America",
+            "http://dbpedia.org/resource/Lake_Placid,_New_York",
+            "http://dbpedia.org/resource/Vikki_de_Vries",
+            "http://dbpedia.org/resource/Elaine_Zayak",
+            "http://dbpedia.org/resource/Claudia_Kristofics-Binder"
+        ]
+    ]
+}

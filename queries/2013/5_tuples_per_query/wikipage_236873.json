@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jordan_Grand_Prix",
+            "http://dbpedia.org/resource/Reynard_Motorsport",
+            "http://dbpedia.org/resource/Mugen_Motorsports",
+            "http://dbpedia.org/resource/Emanuele_Naspetti"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordan_Grand_Prix",
+            "http://dbpedia.org/resource/Reynard_Motorsport",
+            "http://dbpedia.org/resource/Mugen_Motorsports",
+            "http://dbpedia.org/resource/Vincenzo_Sospiri"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordan_Grand_Prix",
+            "http://dbpedia.org/resource/Reynard_Motorsport",
+            "http://dbpedia.org/resource/Mugen_Motorsports",
+            "http://dbpedia.org/resource/Eddie_Irvine"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordan_Grand_Prix",
+            "http://dbpedia.org/resource/Reynard_Motorsport",
+            "http://dbpedia.org/resource/Mugen_Motorsports",
+            "http://dbpedia.org/resource/Heinz-Harald_Frentzen"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Racing",
+            "http://dbpedia.org/resource/Reynard_Motorsport",
+            "http://dbpedia.org/resource/Mugen_Motorsports",
+            "http://dbpedia.org/resource/Fabrizio_Giovanardi"
+        ]
+    ]
+}

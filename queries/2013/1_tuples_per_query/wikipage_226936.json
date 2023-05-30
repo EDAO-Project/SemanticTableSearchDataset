@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Todd_Breman",
+            "http://dbpedia.org/resource/Subiaco_Football_Club",
+            "http://dbpedia.org/resource/West_Coast_Eagles"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baher_Azmy",
+            "http://dbpedia.org/resource/Murat_Kurnaz",
+            "http://dbpedia.org/resource/Seton_Hall_University_School_of_Law"
+        ],
+        [
+            "http://dbpedia.org/resource/Erwin_Chemerinsky",
+            "http://dbpedia.org/resource/Libyan_detainees_at_Guantanamo_Bay",
+            "http://dbpedia.org/resource/University_of_California,_Irvine_School_of_Law"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adrian_College",
+            "http://dbpedia.org/resource/Adrian,_Michigan",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Albion_College",
+            "http://dbpedia.org/resource/Albion,_Michigan",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Alma_College",
+            "http://dbpedia.org/resource/Alma,_Michigan",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Alpena_Community_College",
+            "http://dbpedia.org/resource/Alpena,_Michigan",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrews_University",
+            "http://dbpedia.org/resource/Berrien_Springs,_Michigan",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education",
+            "http://dbpedia.org/resource/North_Central_Association_of_Colleges_and_Schools"
+        ]
+    ]
+}

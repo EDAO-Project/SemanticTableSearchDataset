@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Annecy-le-Vieux",
+            "http://dbpedia.org/resource/Argonay",
+            "http://dbpedia.org/resource/Aviernoz",
+            "http://dbpedia.org/resource/Bloye"
+        ],
+        [
+            "http://dbpedia.org/resource/Bluffy,_Haute-Savoie",
+            "http://dbpedia.org/resource/Boussy,_Haute-Savoie",
+            "http://dbpedia.org/resource/Chainaz-les-Frasses",
+            "http://dbpedia.org/resource/Chapeiry"
+        ],
+        [
+            "http://dbpedia.org/resource/Charvonnex",
+            "http://dbpedia.org/resource/Chavanod",
+            "http://dbpedia.org/resource/Chevaline,_Haute-Savoie",
+            "http://dbpedia.org/resource/Choisy,_Haute-Savoie"
+        ],
+        [
+            "http://dbpedia.org/resource/Cuvat",
+            "http://dbpedia.org/resource/Dingy-Saint-Clair",
+            "http://dbpedia.org/resource/Doussard",
+            "http://dbpedia.org/resource/Duingt"
+        ],
+        [
+            "http://dbpedia.org/resource/Entrevernes",
+            "http://dbpedia.org/resource/Faverges",
+            "http://dbpedia.org/resource/Giez,_Haute-Savoie",
+            "http://dbpedia.org/resource/Groisy"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_Gregan",
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/Rugby_union_positions"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Leonard",
+            "http://dbpedia.org/resource/England_national_rugby_union_team",
+            "http://dbpedia.org/resource/Rugby_union_positions"
+        ]
+    ]
+}

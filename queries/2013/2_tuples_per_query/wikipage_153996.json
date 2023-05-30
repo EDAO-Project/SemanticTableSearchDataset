@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yovon",
+            "http://dbpedia.org/resource/Khatlon_Region",
+            "http://dbpedia.org/resource/Yovon_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Hisor",
+            "http://dbpedia.org/resource/Districts_of_Republican_Subordination",
+            "http://dbpedia.org/resource/Hisor_District"
+        ]
+    ]
+}

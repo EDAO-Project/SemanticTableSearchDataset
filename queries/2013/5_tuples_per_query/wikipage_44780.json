@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amherst,_Massachusetts",
+            "http://dbpedia.org/resource/Arcachon",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Amherst,_Massachusetts",
+            "http://dbpedia.org/resource/Kanegasaki,_Iwate",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Amherst,_Massachusetts",
+            "http://dbpedia.org/resource/La_Paz_Centro",
+            "http://dbpedia.org/resource/Nicaragua"
+        ],
+        [
+            "http://dbpedia.org/resource/Andover,_Massachusetts",
+            "http://dbpedia.org/resource/Andover,_Hampshire",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Arlington,_Massachusetts",
+            "http://dbpedia.org/resource/Portarlington,_County_Laois",
+            "http://dbpedia.org/resource/Ireland"
+        ]
+    ]
+}

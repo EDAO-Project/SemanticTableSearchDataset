@@ -1,0 +1,31 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miao_people",
+            "http://dbpedia.org/resource/Hebei",
+            "http://dbpedia.org/resource/Hmong_people",
+            "http://dbpedia.org/resource/Miao_people",
+            "http://dbpedia.org/resource/Miao_people"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuezhi",
+            "http://dbpedia.org/resource/Kushan_Empire",
+            "http://dbpedia.org/resource/Uyghurs"
+        ],
+        [
+            "http://dbpedia.org/resource/Wuhuan",
+            "http://dbpedia.org/resource/Manchuria",
+            "http://dbpedia.org/resource/Han_Chinese"
+        ],
+        [
+            "http://dbpedia.org/resource/Gansu",
+            "http://dbpedia.org/resource/Oracle_bone",
+            "http://dbpedia.org/resource/Qiang_people"
+        ],
+        [
+            "http://dbpedia.org/resource/Rouran_Khaganate",
+            "http://dbpedia.org/resource/Mongolia",
+            "http://dbpedia.org/resource/Mongols"
+        ]
+    ]
+}

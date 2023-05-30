@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_Trans-Am_season",
+            "http://dbpedia.org/resource/Ford_Motor_Company",
+            "http://dbpedia.org/resource/Dorsey_Schroeder",
+            "http://dbpedia.org/resource/Ford_Mustang",
+            "http://dbpedia.org/resource/Roush_Fenway_Racing"
+        ]
+    ]
+}

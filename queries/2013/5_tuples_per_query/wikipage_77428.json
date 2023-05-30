@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cloverleaf_interchange",
+            "http://dbpedia.org/resource/Quezon_City",
+            "http://dbpedia.org/resource/Caloocan"
+        ],
+        [
+            "http://dbpedia.org/resource/Cloverleaf_interchange",
+            "http://dbpedia.org/resource/Valenzuela,_Philippines",
+            "http://dbpedia.org/resource/Navotas"
+        ],
+        [
+            "http://dbpedia.org/resource/Diamond_interchange",
+            "http://dbpedia.org/resource/Valenzuela,_Philippines",
+            "http://dbpedia.org/resource/MacArthur_Highway"
+        ],
+        [
+            "http://dbpedia.org/resource/Partial_cloverleaf_interchange",
+            "http://dbpedia.org/resource/Meycauayan",
+            "http://dbpedia.org/resource/Obando,_Bulacan"
+        ],
+        [
+            "http://dbpedia.org/resource/Partial_cloverleaf_interchange",
+            "http://dbpedia.org/resource/Marilao,_Bulacan",
+            "http://dbpedia.org/resource/San_Jose_del_Monte"
+        ]
+    ]
+}

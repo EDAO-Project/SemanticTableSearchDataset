@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wannsee",
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Modern_pentathlon_at_the_1936_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Wannsee",
+            "http://dbpedia.org/resource/1936_Summer_Olympics",
+            "http://dbpedia.org/resource/Shooting_at_the_1936_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Waseda_University",
+            "http://dbpedia.org/resource/1964_Summer_Olympics",
+            "http://dbpedia.org/resource/Fencing_at_the_1964_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Wassaw_Sound",
+            "http://dbpedia.org/resource/1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Sailing_at_the_1996_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Aquatics_Centre",
+            "http://dbpedia.org/resource/2012_Summer_Olympics",
+            "http://dbpedia.org/resource/Water_polo_at_the_Summer_Olympics"
+        ]
+    ]
+}

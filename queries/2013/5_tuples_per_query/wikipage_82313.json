@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toledo,_Ohio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Valentine_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus,_Ohio",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Newport_Music_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Des_Plaines,_Illinois",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Maine_West_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Duluth,_Minnesota",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Duluth_Entertainment_Convention_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Kiel_Auditorium"
+        ]
+    ]
+}

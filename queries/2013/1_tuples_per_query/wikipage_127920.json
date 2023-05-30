@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/OFK_Beograd",
+            "http://dbpedia.org/resource/Belgrade",
+            "http://dbpedia.org/resource/Socialist_Republic_of_Serbia"
+        ]
+    ]
+}

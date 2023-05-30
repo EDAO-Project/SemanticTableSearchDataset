@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Swallow",
+            "http://dbpedia.org/resource/East_Fremantle_Football_Club",
+            "http://dbpedia.org/resource/West_Australian_Football_League",
+            "http://dbpedia.org/resource/Gold_Coast_Football_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Harley_Bennell",
+            "http://dbpedia.org/resource/Peel_Thunder_Football_Club",
+            "http://dbpedia.org/resource/West_Australian_Football_League",
+            "http://dbpedia.org/resource/Gold_Coast_Football_Club"
+        ]
+    ]
+}

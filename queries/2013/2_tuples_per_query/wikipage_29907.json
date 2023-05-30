@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Biddenham",
+            "http://dbpedia.org/resource/Borough_of_Bedford",
+            "http://dbpedia.org/resource/Bedford_Rural_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Bletsoe",
+            "http://dbpedia.org/resource/Borough_of_Bedford",
+            "http://dbpedia.org/resource/Bedford_Rural_District"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_Subirats",
+            "http://dbpedia.org/resource/Venezuela",
+            "http://dbpedia.org/resource/List_of_South_American_records_in_swimming"
+        ],
+        [
+            "http://dbpedia.org/resource/Gabriel_Mangabeira",
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/List_of_Brazilian_records_in_swimming"
+        ]
+    ]
+}

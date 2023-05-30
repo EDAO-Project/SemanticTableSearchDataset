@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Roni_Milo",
+            "http://dbpedia.org/resource/Likud",
+            "http://dbpedia.org/resource/Twenty-third_government_of_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Yitzhak_Shamir",
+            "http://dbpedia.org/resource/Likud",
+            "http://dbpedia.org/resource/Twenty-fourth_government_of_Israel"
+        ]
+    ]
+}

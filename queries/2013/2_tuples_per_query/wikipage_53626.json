@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/3Xtrim_Aircraft_Factory",
+            "http://dbpedia.org/resource/3Xtrim_3X55_Trener",
+            "http://dbpedia.org/resource/Rotax_912",
+            "http://dbpedia.org/resource/United_States_dollar"
+        ],
+        [
+            "http://dbpedia.org/resource/Advanced_Composites_Solutions",
+            "http://dbpedia.org/resource/ACS-100_Sora",
+            "http://dbpedia.org/resource/United_States_dollar",
+            "http://dbpedia.org/resource/Homebuilt_aircraft"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/IMAGE",
+            "http://dbpedia.org/resource/Delta_II",
+            "http://dbpedia.org/resource/Vandenberg_AFB_Space_Launch_Complex_2"
+        ]
+    ]
+}

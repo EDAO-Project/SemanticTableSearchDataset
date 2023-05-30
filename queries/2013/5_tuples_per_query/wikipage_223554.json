@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Don_Valley_East",
+            "http://dbpedia.org/resource/David_Collenette",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Valley_North",
+            "http://dbpedia.org/resource/Sarkis_Assadourian",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Valley_West",
+            "http://dbpedia.org/resource/John_Godfrey",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Etobicoke_North",
+            "http://dbpedia.org/resource/Roy_Cullen",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamilton_Mountain",
+            "http://dbpedia.org/resource/Beth_Phinney",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ]
+    ]
+}

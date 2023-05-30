@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Metallurg_Magnitogorsk",
+            "http://dbpedia.org/resource/HC_Slovan_Bratislava",
+            "http://dbpedia.org/resource/Arena_Metallurg"
+        ],
+        [
+            "http://dbpedia.org/resource/Traktor_Chelyabinsk",
+            "http://dbpedia.org/resource/HC_Slovan_Bratislava",
+            "http://dbpedia.org/resource/Traktor_Ice_Arena"
+        ]
+    ]
+}

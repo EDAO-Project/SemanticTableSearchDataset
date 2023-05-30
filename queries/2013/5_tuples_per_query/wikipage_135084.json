@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alston-DeGraffenried_Plantation",
+            "http://dbpedia.org/resource/Pittsboro,_North_Carolina",
+            "http://dbpedia.org/resource/Chatham_County,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Avirett-Stephens_Plantation",
+            "http://dbpedia.org/resource/Richlands,_North_Carolina",
+            "http://dbpedia.org/resource/Onslow_County,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaver_Dam_Plantation_House",
+            "http://dbpedia.org/resource/Davidson,_North_Carolina",
+            "http://dbpedia.org/resource/Mecklenburg_County,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Belvidere_Plantation_House",
+            "http://dbpedia.org/resource/Hampstead,_North_Carolina",
+            "http://dbpedia.org/resource/Pender_County,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Bennett_Bunn_Plantation",
+            "http://dbpedia.org/resource/Zebulon,_North_Carolina",
+            "http://dbpedia.org/resource/Wake_County,_North_Carolina"
+        ]
+    ]
+}

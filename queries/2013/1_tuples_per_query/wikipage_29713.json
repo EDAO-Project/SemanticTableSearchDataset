@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blood_and_Roses",
+            "http://dbpedia.org/resource/Roger_Vadim",
+            "http://dbpedia.org/resource/Mel_Ferrer"
+        ]
+    ]
+}

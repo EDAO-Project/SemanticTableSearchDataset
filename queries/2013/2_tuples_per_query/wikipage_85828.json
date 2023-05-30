@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Britta_Steffen",
+            "http://dbpedia.org/resource/List_of_world_records_in_swimming",
+            "http://dbpedia.org/resource/Therese_Alshammar",
+            "http://dbpedia.org/resource/Cate_Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/Britta_Steffen",
+            "http://dbpedia.org/resource/List_of_world_records_in_swimming",
+            "http://dbpedia.org/resource/Fran_Halsall",
+            "http://dbpedia.org/resource/Libby_Trickett"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_College",
+            "http://dbpedia.org/resource/Dino_Martin",
+            "http://dbpedia.org/resource/University_of_Maryland,_College_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Connecticut",
+            "http://dbpedia.org/resource/Hugh_Greer",
+            "http://dbpedia.org/resource/Dartmouth_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Dartmouth_College",
+            "http://dbpedia.org/resource/Doggie_Julian",
+            "http://dbpedia.org/resource/Temple_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Maryland,_College_Park",
+            "http://dbpedia.org/resource/Bud_Millikan",
+            "http://dbpedia.org/resource/Manhattan_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Temple_University",
+            "http://dbpedia.org/resource/Harry_Litwack",
+            "http://dbpedia.org/resource/Kansas_State_University"
+        ]
+    ]
+}

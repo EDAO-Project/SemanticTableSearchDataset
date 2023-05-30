@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuusamo",
+            "http://dbpedia.org/resource/Petter_Northug",
+            "http://dbpedia.org/resource/Maxim_Vylegzhanin",
+            "http://dbpedia.org/resource/Alexander_Legkov"
+        ],
+        [
+            "http://dbpedia.org/resource/Davos",
+            "http://dbpedia.org/resource/Matti_Heikkinen",
+            "http://dbpedia.org/resource/Marcus_Hellner",
+            "http://dbpedia.org/resource/Maurice_Manificat"
+        ],
+        [
+            "http://dbpedia.org/resource/Davos",
+            "http://dbpedia.org/resource/John_Kristian_Dahl",
+            "http://dbpedia.org/resource/Petter_Northug",
+            "http://dbpedia.org/resource/Alexei_Petukhov"
+        ],
+        [
+            "http://dbpedia.org/resource/Rogla",
+            "http://dbpedia.org/resource/Petter_Northug",
+            "http://dbpedia.org/resource/Tobias_Angerer",
+            "http://dbpedia.org/resource/Jesper_Modin"
+        ],
+        [
+            "http://dbpedia.org/resource/Rogla",
+            "http://dbpedia.org/resource/Petter_Northug",
+            "http://dbpedia.org/resource/Alexander_Legkov",
+            "http://dbpedia.org/resource/Maxim_Vylegzhanin"
+        ]
+    ]
+}

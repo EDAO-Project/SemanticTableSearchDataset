@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dnipropetrovsk_Oblast",
+            "http://dbpedia.org/resource/Southern_Ukraine",
+            "http://dbpedia.org/resource/Yevhen_Morozenko",
+            "http://dbpedia.org/resource/Party_of_Regions"
+        ],
+        [
+            "http://dbpedia.org/resource/Dnipropetrovsk_Oblast",
+            "http://dbpedia.org/resource/Southern_Ukraine",
+            "http://dbpedia.org/resource/Oleg_Tsaryov",
+            "http://dbpedia.org/resource/Party_of_Regions"
+        ],
+        [
+            "http://dbpedia.org/resource/Donetsk_Oblast",
+            "http://dbpedia.org/resource/Southern_Ukraine",
+            "http://dbpedia.org/resource/Tatyana_Bakhteeva",
+            "http://dbpedia.org/resource/Party_of_Regions"
+        ],
+        [
+            "http://dbpedia.org/resource/Donetsk_Oblast",
+            "http://dbpedia.org/resource/Southern_Ukraine",
+            "http://dbpedia.org/resource/Yukhym_Zvyahilsky",
+            "http://dbpedia.org/resource/Party_of_Regions"
+        ],
+        [
+            "http://dbpedia.org/resource/Donetsk_Oblast",
+            "http://dbpedia.org/resource/Southern_Ukraine",
+            "http://dbpedia.org/resource/Serhiy_Klyuyev",
+            "http://dbpedia.org/resource/Party_of_Regions"
+        ]
+    ]
+}

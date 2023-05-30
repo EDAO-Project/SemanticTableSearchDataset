@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guadalajara_International_Airport",
+            "http://dbpedia.org/resource/Jalisco",
+            "http://dbpedia.org/resource/Guadalajara"
+        ],
+        [
+            "http://dbpedia.org/resource/Tijuana_International_Airport",
+            "http://dbpedia.org/resource/Baja_California",
+            "http://dbpedia.org/resource/Tijuana"
+        ]
+    ]
+}

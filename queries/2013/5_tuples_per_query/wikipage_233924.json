@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jerry_Rice",
+            "http://dbpedia.org/resource/Wide_receiver",
+            "http://dbpedia.org/resource/San_Francisco_49ers"
+        ],
+        [
+            "http://dbpedia.org/resource/Walter_Payton",
+            "http://dbpedia.org/resource/Chicago_Bears",
+            "http://dbpedia.org/resource/1993_in_sports"
+        ],
+        [
+            "http://dbpedia.org/resource/Barry_Sanders",
+            "http://dbpedia.org/resource/Detroit_Lions",
+            "http://dbpedia.org/resource/2004_in_sports"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcus_Allen",
+            "http://dbpedia.org/resource/Oakland_Raiders",
+            "http://dbpedia.org/resource/2003_in_sports"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Dorsett",
+            "http://dbpedia.org/resource/Dallas_Cowboys",
+            "http://dbpedia.org/resource/1994_in_sports"
+        ]
+    ]
+}

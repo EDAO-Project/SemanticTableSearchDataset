@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adam_Freier",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/New_South_Wales_Waratahs"
+        ],
+        [
+            "http://dbpedia.org/resource/Sean_Hardman",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Queensland_Reds"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Baxter",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/New_South_Wales_Waratahs"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Dunning",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/New_South_Wales_Waratahs"
+        ],
+        [
+            "http://dbpedia.org/resource/Greg_Holmes",
+            "http://dbpedia.org/resource/Rugby_union_positions",
+            "http://dbpedia.org/resource/Queensland_Reds"
+        ]
+    ]
+}

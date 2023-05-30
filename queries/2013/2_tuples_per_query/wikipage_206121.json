@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Neil_Armstrong",
+            "http://dbpedia.org/resource/Jimmy_Carter",
+            "http://dbpedia.org/resource/Apollo_11"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Borman",
+            "http://dbpedia.org/resource/Jimmy_Carter",
+            "http://dbpedia.org/resource/Apollo_8"
+        ]
+    ]
+}

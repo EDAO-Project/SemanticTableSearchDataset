@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arthur_Jonath",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Bochum"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Berger",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Amsterdam"
+        ]
+    ]
+}

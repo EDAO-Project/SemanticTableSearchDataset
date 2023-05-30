@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_in_sports",
+            "http://dbpedia.org/resource/O._J._Simpson",
+            "http://dbpedia.org/resource/University_of_Southern_California"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_in_sports",
+            "http://dbpedia.org/resource/O._J._Simpson",
+            "http://dbpedia.org/resource/University_of_Southern_California"
+        ]
+    ]
+}

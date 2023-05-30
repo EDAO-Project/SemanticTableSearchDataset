@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Suvarnabhumi_Airport",
+            "http://dbpedia.org/resource/Samut_Prakan_Province",
+            "http://dbpedia.org/resource/Bangkok"
+        ],
+        [
+            "http://dbpedia.org/resource/Chiang_Mai_International_Airport",
+            "http://dbpedia.org/resource/Chiang_Mai_Province",
+            "http://dbpedia.org/resource/Chiang_Mai"
+        ],
+        [
+            "http://dbpedia.org/resource/Hat_Yai_International_Airport",
+            "http://dbpedia.org/resource/Songkhla_Province",
+            "http://dbpedia.org/resource/Hat_Yai"
+        ],
+        [
+            "http://dbpedia.org/resource/Samui_Airport",
+            "http://dbpedia.org/resource/Surat_Thani_Province",
+            "http://dbpedia.org/resource/Ko_Samui"
+        ],
+        [
+            "http://dbpedia.org/resource/Krabi_Airport",
+            "http://dbpedia.org/resource/Krabi_Province",
+            "http://dbpedia.org/resource/Krabi"
+        ]
+    ]
+}

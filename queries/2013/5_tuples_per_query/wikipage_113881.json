@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/16th_National_Hockey_League_All-Star_Game",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/Maple_Leaf_Gardens",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Eddie_Shack"
+        ],
+        [
+            "http://dbpedia.org/resource/17th_National_Hockey_League_All-Star_Game",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/Maple_Leaf_Gardens",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Frank_Mahovlich"
+        ],
+        [
+            "http://dbpedia.org/resource/19th_National_Hockey_League_All-Star_Game",
+            "http://dbpedia.org/resource/Montreal_Canadiens",
+            "http://dbpedia.org/resource/Montreal_Forum",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Gordie_Howe"
+        ],
+        [
+            "http://dbpedia.org/resource/20th_National_Hockey_League_All-Star_Game",
+            "http://dbpedia.org/resource/Montreal_Canadiens",
+            "http://dbpedia.org/resource/Montreal_Forum",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Henri_Richard"
+        ],
+        [
+            "http://dbpedia.org/resource/21st_National_Hockey_League_All-Star_Game",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/Maple_Leaf_Gardens",
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Bruce_Gamble"
+        ]
+    ]
+}

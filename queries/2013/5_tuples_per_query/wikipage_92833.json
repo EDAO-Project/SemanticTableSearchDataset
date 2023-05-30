@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1967_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/Dave_Keon",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/Glenn_Hall",
+            "http://dbpedia.org/resource/St._Louis_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/Bob_Gainey",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/Bryan_Trottier",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/Butch_Goring",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ]
+    ]
+}

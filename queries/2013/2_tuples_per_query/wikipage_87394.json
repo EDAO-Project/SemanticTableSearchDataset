@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Olusoji_Fasuba",
+            "http://dbpedia.org/resource/Tamunosiki_Atorudibo",
+            "http://dbpedia.org/resource/Shingo_Suetsugu"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankie_Fredericks",
+            "http://dbpedia.org/resource/Gennadiy_Chernovol",
+            "http://dbpedia.org/resource/Oumar_Loum"
+        ]
+    ]
+}

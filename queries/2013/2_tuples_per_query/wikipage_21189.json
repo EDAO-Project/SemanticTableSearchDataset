@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1985_K_League",
+            "http://dbpedia.org/resource/Lee_Heung-sil",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Pohang_Steelers"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_K_League",
+            "http://dbpedia.org/resource/Hwangbo_Kwan",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Jeju_United_FC"
+        ]
+    ]
+}

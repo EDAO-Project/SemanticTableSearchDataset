@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Westfalenstadion",
+            "http://dbpedia.org/resource/Dortmund",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia",
+            "http://dbpedia.org/resource/Borussia_Dortmund"
+        ]
+    ]
+}

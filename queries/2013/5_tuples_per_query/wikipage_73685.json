@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Itumeleng_Khune",
+            "http://dbpedia.org/resource/Goalkeeper",
+            "http://dbpedia.org/resource/South_Africa"
+        ],
+        [
+            "http://dbpedia.org/resource/Siyabonga_Nomvethe",
+            "http://dbpedia.org/resource/Striker",
+            "http://dbpedia.org/resource/South_Africa"
+        ],
+        [
+            "http://dbpedia.org/resource/Thulani_Serero",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/South_Africa"
+        ],
+        [
+            "http://dbpedia.org/resource/Daine_Klate",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/South_Africa"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucas_Thwala",
+            "http://dbpedia.org/resource/Orlando_Pirates",
+            "http://dbpedia.org/resource/South_Africa"
+        ]
+    ]
+}

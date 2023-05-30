@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Landon_Donovan_MVP_Award",
+            "http://dbpedia.org/resource/Preki",
+            "http://dbpedia.org/resource/Sporting_Kansas_City"
+        ],
+        [
+            "http://dbpedia.org/resource/MLS_Golden_Boot",
+            "http://dbpedia.org/resource/Preki",
+            "http://dbpedia.org/resource/Sporting_Kansas_City"
+        ],
+        [
+            "http://dbpedia.org/resource/MLS_Defender_of_the_Year_Award",
+            "http://dbpedia.org/resource/Carlos_Bocanegra",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/MLS_Goalkeeper_of_the_Year_Award",
+            "http://dbpedia.org/resource/Pat_Onstad",
+            "http://dbpedia.org/resource/San_Jose_Earthquakes"
+        ],
+        [
+            "http://dbpedia.org/resource/MLS_Rookie_of_the_Year_Award",
+            "http://dbpedia.org/resource/Damani_Ralph",
+            "http://dbpedia.org/resource/Chicago_Fire_Soccer_Club"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bayview_Secondary_School",
+            "http://dbpedia.org/resource/Richmond_Hill,_Ontario",
+            "http://dbpedia.org/resource/International_Baccalaureate"
+        ],
+        [
+            "http://dbpedia.org/resource/Langstaff_Secondary_School",
+            "http://dbpedia.org/resource/Richmond_Hill,_Ontario",
+            "http://dbpedia.org/resource/French_immersion"
+        ],
+        [
+            "http://dbpedia.org/resource/Markham_District_High_School",
+            "http://dbpedia.org/resource/Markham,_Ontario",
+            "http://dbpedia.org/resource/Gifted_education"
+        ],
+        [
+            "http://dbpedia.org/resource/Markville_Secondary_School",
+            "http://dbpedia.org/resource/Markham,_Ontario",
+            "http://dbpedia.org/resource/Gifted_education"
+        ],
+        [
+            "http://dbpedia.org/resource/Middlefield_Collegiate_Institute",
+            "http://dbpedia.org/resource/Markham,_Ontario",
+            "http://dbpedia.org/resource/Advanced_Placement"
+        ]
+    ]
+}

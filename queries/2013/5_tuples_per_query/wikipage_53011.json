@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Josiah_Jamison",
+            "http://dbpedia.org/resource/Adekunle_Adesoji",
+            "http://dbpedia.org/resource/Yang_Yuqing"
+        ],
+        [
+            "http://dbpedia.org/resource/Roman_Pavlyk",
+            "http://dbpedia.org/resource/Ben_Rushgrove",
+            "http://dbpedia.org/resource/So_Wa_Wai"
+        ],
+        [
+            "http://dbpedia.org/resource/Fanie_van_der_Merwe",
+            "http://dbpedia.org/resource/Ma_Yuxi",
+            "http://dbpedia.org/resource/Sofiane_Hamdi"
+        ],
+        [
+            "http://dbpedia.org/resource/Oscar_Pistorius",
+            "http://dbpedia.org/resource/Jerome_Singleton",
+            "http://dbpedia.org/resource/Brian_Frasure"
+        ],
+        [
+            "http://dbpedia.org/resource/Heath_Francis",
+            "http://dbpedia.org/resource/Francis_Kompaon",
+            "http://dbpedia.org/resource/Yohansson_Nascimento"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ralph_Craig",
+            "http://dbpedia.org/resource/Alvah_Meyer",
+            "http://dbpedia.org/resource/Donald_Lippincott"
+        ],
+        [
+            "http://dbpedia.org/resource/Ralph_Craig",
+            "http://dbpedia.org/resource/Donald_Lippincott",
+            "http://dbpedia.org/resource/Willie_Applegarth"
+        ]
+    ]
+}

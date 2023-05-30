@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Diego",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Valley_View_Casino_Center"
+        ]
+    ]
+}

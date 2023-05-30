@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paleogene",
+            "http://dbpedia.org/resource/Oligocene",
+            "http://dbpedia.org/resource/Chattian"
+        ],
+        [
+            "http://dbpedia.org/resource/Paleogene",
+            "http://dbpedia.org/resource/Oligocene",
+            "http://dbpedia.org/resource/Rupelian"
+        ],
+        [
+            "http://dbpedia.org/resource/Paleogene",
+            "http://dbpedia.org/resource/Eocene",
+            "http://dbpedia.org/resource/Priabonian"
+        ],
+        [
+            "http://dbpedia.org/resource/Paleogene",
+            "http://dbpedia.org/resource/Eocene",
+            "http://dbpedia.org/resource/Bartonian"
+        ],
+        [
+            "http://dbpedia.org/resource/Paleogene",
+            "http://dbpedia.org/resource/Eocene",
+            "http://dbpedia.org/resource/Lutetian"
+        ]
+    ]
+}

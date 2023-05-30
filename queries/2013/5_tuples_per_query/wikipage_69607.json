@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_and_Liberal_Arts_Halls",
+            "http://dbpedia.org/resource/Davis_&_Elkins_College",
+            "http://dbpedia.org/resource/Elkins,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Beverly_Historic_District",
+            "http://dbpedia.org/resource/U.S._Route_219",
+            "http://dbpedia.org/resource/Beverly,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Davis_and_Elkins_Historic_District",
+            "http://dbpedia.org/resource/Davis_&_Elkins_College",
+            "http://dbpedia.org/resource/Elkins,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Day-Vandevander_Mill",
+            "http://dbpedia.org/resource/West_Virginia_Route_32",
+            "http://dbpedia.org/resource/Harman,_West_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Senator_Stephen_Benton_Elkins_House",
+            "http://dbpedia.org/resource/Davis_&_Elkins_College",
+            "http://dbpedia.org/resource/Elkins,_West_Virginia"
+        ]
+    ]
+}

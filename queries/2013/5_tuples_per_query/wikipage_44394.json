@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Empire_Strikes_Back",
+            "http://dbpedia.org/resource/Lucasfilm",
+            "http://dbpedia.org/resource/Mark_Hamill",
+            "http://dbpedia.org/resource/Irvin_Kershner"
+        ],
+        [
+            "http://dbpedia.org/resource/Smokey_and_the_Bandit_II",
+            "http://dbpedia.org/resource/Rastar",
+            "http://dbpedia.org/resource/Burt_Reynolds",
+            "http://dbpedia.org/resource/Hal_Needham"
+        ],
+        [
+            "http://dbpedia.org/resource/Ordinary_People",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/Donald_Sutherland",
+            "http://dbpedia.org/resource/Robert_Redford"
+        ],
+        [
+            "http://dbpedia.org/resource/Urban_Cowboy",
+            "http://dbpedia.org/resource/Paramount_Pictures",
+            "http://dbpedia.org/resource/John_Travolta",
+            "http://dbpedia.org/resource/James_Bridges"
+        ],
+        [
+            "http://dbpedia.org/resource/Caddyshack",
+            "http://dbpedia.org/resource/Orion_Pictures",
+            "http://dbpedia.org/resource/Chevy_Chase",
+            "http://dbpedia.org/resource/Harold_Ramis"
+        ]
+    ]
+}

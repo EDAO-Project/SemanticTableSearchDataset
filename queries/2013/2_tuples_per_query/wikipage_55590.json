@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mount_Caubvick",
+            "http://dbpedia.org/resource/Newfoundland_and_Labrador",
+            "http://dbpedia.org/resource/Torngat_Mountains"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbeau_Peak",
+            "http://dbpedia.org/resource/Nunavut",
+            "http://dbpedia.org/resource/Ellesmere_Island"
+        ]
+    ]
+}

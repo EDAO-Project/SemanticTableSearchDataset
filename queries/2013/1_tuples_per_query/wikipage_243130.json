@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Siro",
+            "http://dbpedia.org/resource/Milan",
+            "http://dbpedia.org/resource/Lombardy",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ]
+    ]
+}

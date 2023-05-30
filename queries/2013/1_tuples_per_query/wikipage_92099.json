@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania",
+            "http://dbpedia.org/resource/Codex_Beratinus",
+            "http://dbpedia.org/resource/Tirana"
+        ]
+    ]
+}

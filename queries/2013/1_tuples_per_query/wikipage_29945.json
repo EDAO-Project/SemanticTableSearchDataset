@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allesley",
+            "http://dbpedia.org/resource/Coventry",
+            "http://dbpedia.org/resource/Meriden_Rural_District"
+        ]
+    ]
+}

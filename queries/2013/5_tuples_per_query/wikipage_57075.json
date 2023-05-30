@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blisworth_Tunnel",
+            "http://dbpedia.org/resource/Grand_Union_Canal",
+            "http://dbpedia.org/resource/Northamptonshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Braunston_Tunnel",
+            "http://dbpedia.org/resource/Grand_Union_Canal",
+            "http://dbpedia.org/resource/Northamptonshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Butterley_Tunnel",
+            "http://dbpedia.org/resource/Cromford_Canal",
+            "http://dbpedia.org/resource/Derbyshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Chirk_Tunnel",
+            "http://dbpedia.org/resource/Llangollen_Canal",
+            "http://dbpedia.org/resource/Chirk"
+        ],
+        [
+            "http://dbpedia.org/resource/Dudley_Tunnel",
+            "http://dbpedia.org/resource/Birmingham_Canal_Navigations",
+            "http://dbpedia.org/resource/Dudley_Canal"
+        ]
+    ]
+}

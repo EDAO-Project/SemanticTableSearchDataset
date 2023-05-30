@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abuja",
+            "http://dbpedia.org/resource/Nigeria",
+            "http://dbpedia.org/resource/Lagos"
+        ],
+        [
+            "http://dbpedia.org/resource/Belmopan",
+            "http://dbpedia.org/resource/British_Honduras",
+            "http://dbpedia.org/resource/Belize_City"
+        ]
+    ]
+}

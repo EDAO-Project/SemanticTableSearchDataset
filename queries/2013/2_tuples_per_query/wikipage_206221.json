@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Bath",
+            "http://dbpedia.org/resource/Prince_Edward,_Earl_of_Wessex",
+            "http://dbpedia.org/resource/Glynis_Breakwell",
+            "http://dbpedia.org/resource/Lord_Chancellor"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Birmingham",
+            "http://dbpedia.org/resource/Dominic_Cadbury",
+            "http://dbpedia.org/resource/David_Eastwood",
+            "http://dbpedia.org/resource/Elizabeth_II"
+        ]
+    ]
+}

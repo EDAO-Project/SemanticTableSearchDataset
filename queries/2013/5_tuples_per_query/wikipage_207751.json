@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jacob_Levitzki",
+            "http://dbpedia.org/resource/Hard_and_soft_science",
+            "http://dbpedia.org/resource/Alexander_Levitzki"
+        ],
+        [
+            "http://dbpedia.org/resource/Sara_Hestrin-Lerner",
+            "http://dbpedia.org/resource/Medicine",
+            "http://dbpedia.org/resource/Shlomo_Hestrin"
+        ],
+        [
+            "http://dbpedia.org/resource/Shlomo_Hestrin",
+            "http://dbpedia.org/resource/Hard_and_soft_science",
+            "http://dbpedia.org/resource/Sara_Hestrin-Lerner"
+        ],
+        [
+            "http://dbpedia.org/resource/Dov_Karmi",
+            "http://dbpedia.org/resource/Architecture",
+            "http://dbpedia.org/resource/Ram_Karmi"
+        ],
+        [
+            "http://dbpedia.org/resource/Ephraim_Katzir",
+            "http://dbpedia.org/resource/List_of_life_sciences",
+            "http://dbpedia.org/resource/Aharon_Katzir"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fumio_Fujimura",
+            "http://dbpedia.org/resource/Hanshin_Tigers",
+            "http://dbpedia.org/resource/Professional_baseball_in_Japan",
+            "http://dbpedia.org/resource/Daiei_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Fumio_Fujimura",
+            "http://dbpedia.org/resource/Hanshin_Tigers",
+            "http://dbpedia.org/resource/Central_League",
+            "http://dbpedia.org/resource/Hiroshima_Toyo_Carp"
+        ]
+    ]
+}

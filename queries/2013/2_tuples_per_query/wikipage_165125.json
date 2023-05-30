@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Julian_Palmieri",
+            "http://dbpedia.org/resource/FC_Istres",
+            "http://dbpedia.org/resource/SC_Bastia"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Raggi",
+            "http://dbpedia.org/resource/Bologna_F.C._1909",
+            "http://dbpedia.org/resource/AS_Monaco_FC"
+        ]
+    ]
+}

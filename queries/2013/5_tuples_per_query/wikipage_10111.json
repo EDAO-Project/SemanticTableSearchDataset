@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antigonish,_Nova_Scotia",
+            "http://dbpedia.org/resource/CIHF-DT",
+            "http://dbpedia.org/resource/Global_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Antigonish,_Nova_Scotia",
+            "http://dbpedia.org/resource/CJCB-TV",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Bay_St._Lawrence,_Nova_Scotia",
+            "http://dbpedia.org/resource/CJCB-TV",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgetown,_Nova_Scotia",
+            "http://dbpedia.org/resource/CJCH-DT",
+            "http://dbpedia.org/resource/CTV_Television_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgewater,_Nova_Scotia",
+            "http://dbpedia.org/resource/CIHF-DT",
+            "http://dbpedia.org/resource/Global_Television_Network"
+        ]
+    ]
+}

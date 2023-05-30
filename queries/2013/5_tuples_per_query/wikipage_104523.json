@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Raisa_Smetanina",
+            "http://dbpedia.org/resource/Cross-country_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Stefania_Belmondo",
+            "http://dbpedia.org/resource/Cross-country_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Lyubov_Yegorova",
+            "http://dbpedia.org/resource/Cross-country_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Claudia_Pechstein",
+            "http://dbpedia.org/resource/Speed_skating"
+        ],
+        [
+            "http://dbpedia.org/resource/Sweden",
+            "http://dbpedia.org/resource/Sixten_Jernberg",
+            "http://dbpedia.org/resource/Cross-country_skiing"
+        ]
+    ]
+}

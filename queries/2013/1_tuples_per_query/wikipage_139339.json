@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_Stanley_Cup_playoffs",
+            "http://dbpedia.org/resource/MSG_Plus",
+            "http://dbpedia.org/resource/Mike_Emrick",
+            "http://dbpedia.org/resource/Peter_McNab"
+        ]
+    ]
+}

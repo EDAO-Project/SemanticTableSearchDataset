@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexis_de_Tocqueville",
+            "http://dbpedia.org/resource/Wim_Kok",
+            "http://dbpedia.org/resource/Ledi_Bianku"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramon_Llull",
+            "http://dbpedia.org/resource/Juan_Carlos_I_of_Spain",
+            "http://dbpedia.org/resource/Alexander_Stubb"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefan_Zweig",
+            "http://dbpedia.org/resource/Thomas_Klestil",
+            "http://dbpedia.org/resource/Geert_Van_Calster"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_IV,_Holy_Roman_Emperor",
+            "http://dbpedia.org/resource/Jacques_Santer",
+            "http://dbpedia.org/resource/Helle_Thorning-Schmidt"
+        ],
+        [
+            "http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart",
+            "http://dbpedia.org/resource/Flavio_Cotti",
+            "http://dbpedia.org/resource/Nick_Clegg"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_Tejano_Music_Awards",
+            "http://dbpedia.org/resource/Selena",
+            "http://dbpedia.org/resource/Mexican_American"
+        ]
+    ]
+}

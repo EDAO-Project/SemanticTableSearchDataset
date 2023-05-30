@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ken_Dryden",
+            "http://dbpedia.org/resource/Ken_Dryden",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/Larry_Robinson",
+            "http://dbpedia.org/resource/Larry_Robinson",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ]
+    ]
+}

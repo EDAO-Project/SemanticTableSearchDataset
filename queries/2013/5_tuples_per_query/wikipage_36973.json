@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dwayne_Bravo",
+            "http://dbpedia.org/resource/2008_Indian_Premier_League",
+            "http://dbpedia.org/resource/Chennai_Super_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/JP_Duminy",
+            "http://dbpedia.org/resource/2009_Indian_Premier_League",
+            "http://dbpedia.org/resource/Deccan_Chargers"
+        ],
+        [
+            "http://dbpedia.org/resource/Shikhar_Dhawan",
+            "http://dbpedia.org/resource/2009_Indian_Premier_League",
+            "http://dbpedia.org/resource/Deccan_Chargers"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashish_Nehra",
+            "http://dbpedia.org/resource/2008_Indian_Premier_League",
+            "http://dbpedia.org/resource/Delhi_Daredevils"
+        ],
+        [
+            "http://dbpedia.org/resource/Abhishek_Nayar",
+            "http://dbpedia.org/resource/2008_Indian_Premier_League",
+            "http://dbpedia.org/resource/Kings_XI_Punjab"
+        ]
+    ]
+}

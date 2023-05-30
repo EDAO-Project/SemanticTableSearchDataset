@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2003_in_music",
+            "http://dbpedia.org/resource/Coldplay",
+            "http://dbpedia.org/resource/In_My_Place"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_music",
+            "http://dbpedia.org/resource/Linkin_Park",
+            "http://dbpedia.org/resource/Somewhere_I_Belong"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_in_music",
+            "http://dbpedia.org/resource/Asian_Kung-Fu_Generation",
+            "http://dbpedia.org/resource/Kimi_no_Machi_Made"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_in_music",
+            "http://dbpedia.org/resource/Linkin_Park",
+            "http://dbpedia.org/resource/Breaking_the_Habit"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_music",
+            "http://dbpedia.org/resource/Asian_Kung-Fu_Generation",
+            "http://dbpedia.org/resource/World_Apart"
+        ]
+    ]
+}

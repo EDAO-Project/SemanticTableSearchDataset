@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_Australian_films_of_1978",
+            "http://dbpedia.org/resource/Newsfront",
+            "http://dbpedia.org/resource/Bob_Ellis"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Australian_films_of_1978",
+            "http://dbpedia.org/resource/The_Last_Wave",
+            "http://dbpedia.org/resource/Tony_Morphett"
+        ]
+    ]
+}

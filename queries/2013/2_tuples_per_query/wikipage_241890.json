@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Haidianhuangzhuang_Station",
+            "http://dbpedia.org/resource/Line_4,_Beijing_Subway",
+            "http://dbpedia.org/resource/Haidian_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhichunlu_Station",
+            "http://dbpedia.org/resource/Line_13,_Beijing_Subway",
+            "http://dbpedia.org/resource/Haidian_District"
+        ]
+    ]
+}

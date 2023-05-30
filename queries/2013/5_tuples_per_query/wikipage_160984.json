@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Al-Gharafa_Sports_Club",
+            "http://dbpedia.org/resource/Al_Rayyan",
+            "http://dbpedia.org/resource/Thani_bin_Jassim_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Kharaitiyat_SC",
+            "http://dbpedia.org/resource/Al_Rayyan",
+            "http://dbpedia.org/resource/Al-Khor_SC_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Al-Khor_Sports_Club",
+            "http://dbpedia.org/resource/Al_Khor",
+            "http://dbpedia.org/resource/Al-Khor_SC_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Rayyan_SC",
+            "http://dbpedia.org/resource/Al_Rayyan",
+            "http://dbpedia.org/resource/Ahmed_bin_Ali_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Sadd_SC",
+            "http://dbpedia.org/resource/Doha",
+            "http://dbpedia.org/resource/Jassim_Bin_Hamad_Stadium"
+        ]
+    ]
+}

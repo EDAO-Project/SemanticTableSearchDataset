@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hydrogen",
+            "http://dbpedia.org/resource/Nuclear_fusion",
+            "http://dbpedia.org/resource/Petrochemical"
+        ],
+        [
+            "http://dbpedia.org/resource/Helium",
+            "http://dbpedia.org/resource/Nuclear_fusion",
+            "http://dbpedia.org/resource/Cryogenics"
+        ],
+        [
+            "http://dbpedia.org/resource/Carbon",
+            "http://dbpedia.org/resource/CHON",
+            "http://dbpedia.org/resource/Fossil_fuel"
+        ],
+        [
+            "http://dbpedia.org/resource/Nitrogen",
+            "http://dbpedia.org/resource/Bacteria",
+            "http://dbpedia.org/resource/Chemical_industry"
+        ],
+        [
+            "http://dbpedia.org/resource/Oxygen",
+            "http://dbpedia.org/resource/Animal",
+            "http://dbpedia.org/resource/Metallurgy"
+        ]
+    ]
+}

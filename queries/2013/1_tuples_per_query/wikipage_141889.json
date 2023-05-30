@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Primitive_Love",
+            "http://dbpedia.org/resource/Gloria_Estefan",
+            "http://dbpedia.org/resource/Epic_Records"
+        ]
+    ]
+}

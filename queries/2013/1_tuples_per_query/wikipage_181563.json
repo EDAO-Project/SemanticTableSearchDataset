@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_Appel",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Stanford_Cardinal_baseball"
+        ]
+    ]
+}

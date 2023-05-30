@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Abraham_Park_Kenneth_Vine_Collection",
+            "http://dbpedia.org/resource/Oryu-dong",
+            "http://dbpedia.org/resource/Guro_District,_Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Art_Sonje_Center",
+            "http://dbpedia.org/resource/Sogyeok-dong",
+            "http://dbpedia.org/resource/Jongno_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Art_Center_Nabi",
+            "http://dbpedia.org/resource/Seorin-dong",
+            "http://dbpedia.org/resource/Jongno_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Bank_of_Korea_Museum",
+            "http://dbpedia.org/resource/Namdaemunno",
+            "http://dbpedia.org/resource/Jung_District,_Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Bukchon_Art_Museum",
+            "http://dbpedia.org/resource/Gahoe-dong",
+            "http://dbpedia.org/resource/Jongno_District"
+        ]
+    ]
+}

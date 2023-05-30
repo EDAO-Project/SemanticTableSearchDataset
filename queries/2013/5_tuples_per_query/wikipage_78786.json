@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shielfield_Park",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/James_Grady"
+        ],
+        [
+            "http://dbpedia.org/resource/Cliftonhill",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Andrew_Waterworth"
+        ],
+        [
+            "http://dbpedia.org/resource/Dumbarton_Football_Stadium",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Tony_Stevenson"
+        ],
+        [
+            "http://dbpedia.org/resource/Linlithgow",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Tony_Stevenson"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Douglas_Park",
+            "http://dbpedia.org/resource/Scottish_Premier_League",
+            "http://dbpedia.org/resource/Tony_Stevenson"
+        ]
+    ]
+}

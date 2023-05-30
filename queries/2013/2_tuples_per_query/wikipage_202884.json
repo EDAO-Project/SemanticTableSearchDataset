@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Davis_Farmhouse",
+            "http://dbpedia.org/resource/Delaware_Route_24",
+            "http://dbpedia.org/resource/Millsboro,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/Dodd_Homestead",
+            "http://dbpedia.org/resource/Delaware_Route_1",
+            "http://dbpedia.org/resource/Rehoboth_Beach,_Delaware"
+        ]
+    ]
+}

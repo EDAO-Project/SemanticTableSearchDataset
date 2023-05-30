@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Randy_Johnson",
+            "http://dbpedia.org/resource/Arizona_Diamondbacks"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Park_Tae-hwan",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Swimming_at_the_2010_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Park_Tae-hwan",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Swimming_at_the_2010_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Park_Tae-hwan",
+            "http://dbpedia.org/resource/South_Korea",
+            "http://dbpedia.org/resource/Swimming_at_the_2010_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Sun_Yang",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Swimming_at_the_2010_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Junya_Koga",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Swimming_at_the_2010_Asian_Games"
+        ]
+    ]
+}

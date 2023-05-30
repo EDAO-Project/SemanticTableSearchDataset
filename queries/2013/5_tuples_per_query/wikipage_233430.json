@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/John_F._Kennedy_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/John_F._Kennedy_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo,_New_York",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Ralph_Wilson_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Rockford,_Illinois",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/BMO_Harris_Bank_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Boulder,_Colorado",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Folsom_Field"
+        ]
+    ]
+}

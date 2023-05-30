@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Qing_conquest_of_the_Ming",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Qing_dynasty"
+        ],
+        [
+            "http://dbpedia.org/resource/1918_flu_pandemic",
+            "http://dbpedia.org/resource/World_War_I",
+            "http://dbpedia.org/resource/World_War_I_casualties"
+        ],
+        [
+            "http://dbpedia.org/resource/An_Lushan_Rebellion",
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Medieval_warfare"
+        ],
+        [
+            "http://dbpedia.org/resource/Second_Congo_War",
+            "http://dbpedia.org/resource/Democratic_Republic_of_the_Congo",
+            "http://dbpedia.org/resource/First_Congo_War"
+        ],
+        [
+            "http://dbpedia.org/resource/Napoleonic_Wars",
+            "http://dbpedia.org/resource/Indian_Ocean",
+            "http://dbpedia.org/resource/Napoleonic_Wars_casualties"
+        ]
+    ]
+}

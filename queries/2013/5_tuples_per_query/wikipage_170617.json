@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manhattan_Parade",
+            "http://dbpedia.org/resource/Lloyd_Bacon",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Public_Enemy",
+            "http://dbpedia.org/resource/William_A._Wellman",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Blood_of_a_Poet",
+            "http://dbpedia.org/resource/Jean_Cocteau",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Diplomaniacs",
+            "http://dbpedia.org/resource/William_A._Seiter",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Lot_in_Sodom",
+            "http://dbpedia.org/resource/James_Sibley_Watson",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

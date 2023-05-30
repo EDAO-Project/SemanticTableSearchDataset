@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hugh_Gaitskell",
+            "http://dbpedia.org/resource/Harold_Wilson",
+            "http://dbpedia.org/resource/Alfred_Robens,_Baron_Robens_of_Woldingham",
+            "http://dbpedia.org/resource/Kenneth_Younger"
+        ],
+        [
+            "http://dbpedia.org/resource/Hugh_Gaitskell",
+            "http://dbpedia.org/resource/Harold_Wilson",
+            "http://dbpedia.org/resource/Aneurin_Bevan",
+            "http://dbpedia.org/resource/Kenneth_Younger"
+        ]
+    ]
+}

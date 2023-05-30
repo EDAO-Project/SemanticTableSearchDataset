@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Iran"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Macau",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ]
+    ]
+}

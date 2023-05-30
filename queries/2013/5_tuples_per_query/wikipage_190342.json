@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kasey_Kahne",
+            "http://dbpedia.org/resource/Hendrick_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Gordon",
+            "http://dbpedia.org/resource/Hendrick_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Kurt_Busch",
+            "http://dbpedia.org/resource/Furniture_Row_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Newman",
+            "http://dbpedia.org/resource/Stewart-Haas_Racing",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Keselowski",
+            "http://dbpedia.org/resource/Team_Penske",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ]
+    ]
+}

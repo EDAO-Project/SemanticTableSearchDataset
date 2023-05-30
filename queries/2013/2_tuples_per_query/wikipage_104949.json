@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Augsburger_Panther",
+            "http://dbpedia.org/resource/Augsburg",
+            "http://dbpedia.org/resource/Curt_Frenzel_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankfurt_Lions",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Eissporthalle_Frankfurt"
+        ]
+    ]
+}

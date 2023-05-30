@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cajarc",
+            "http://dbpedia.org/resource/Calviac",
+            "http://dbpedia.org/resource/Cambes,_Lot",
+            "http://dbpedia.org/resource/Camboulit"
+        ],
+        [
+            "http://dbpedia.org/resource/Camburat",
+            "http://dbpedia.org/resource/Capdenac",
+            "http://dbpedia.org/resource/Carayac",
+            "http://dbpedia.org/resource/Cardaillac"
+        ],
+        [
+            "http://dbpedia.org/resource/Comiac",
+            "http://dbpedia.org/resource/Corn,_Lot",
+            "http://dbpedia.org/resource/Cornac,_Lot",
+            "http://dbpedia.org/resource/Cuzac"
+        ],
+        [
+            "http://dbpedia.org/resource/Estal",
+            "http://dbpedia.org/resource/Faycelles",
+            "http://dbpedia.org/resource/Felzins",
+            "http://dbpedia.org/resource/Figeac"
+        ],
+        [
+            "http://dbpedia.org/resource/Flaujac-Gare",
+            "http://dbpedia.org/resource/Fons,_Lot",
+            "http://dbpedia.org/resource/Fourmagnac",
+            "http://dbpedia.org/resource/Frayssinhes"
+        ]
+    ]
+}

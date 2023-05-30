@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Croatia",
+            "http://dbpedia.org/resource/Istrian_Italians",
+            "http://dbpedia.org/resource/La_Voce_del_Popolo"
+        ]
+    ]
+}

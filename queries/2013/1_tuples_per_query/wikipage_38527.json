@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Janet_Jackson",
+            "http://dbpedia.org/resource/Titanic:_Music_from_the_Motion_Picture",
+            "http://dbpedia.org/resource/James_Horner"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brotherhood_of_the_Wolf",
+            "http://dbpedia.org/resource/Christophe_Gans",
+            "http://dbpedia.org/resource/Samuel_Le_Bihan"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Brotherhood_II",
+            "http://dbpedia.org/resource/David_DeCoteau",
+            "http://dbpedia.org/resource/Sean_Faris"
+        ],
+        [
+            "http://dbpedia.org/resource/Cradle_of_Fear",
+            "http://dbpedia.org/resource/Alex_Chandon",
+            "http://dbpedia.org/resource/Dani_Filth"
+        ],
+        [
+            "http://dbpedia.org/resource/Faust:_Love_of_the_Damned",
+            "http://dbpedia.org/resource/Brian_Yuzna",
+            "http://dbpedia.org/resource/Mark_Frost"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghosts_of_Mars",
+            "http://dbpedia.org/resource/John_Carpenter",
+            "http://dbpedia.org/resource/Ice_Cube"
+        ]
+    ]
+}

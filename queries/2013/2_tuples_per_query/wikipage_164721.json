@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Estudiantes_de_Altamira",
+            "http://dbpedia.org/resource/Ascenso_MX",
+            "http://dbpedia.org/resource/Estadio_Altamira"
+        ],
+        [
+            "http://dbpedia.org/resource/Club_Atlas",
+            "http://dbpedia.org/resource/Liga_MX",
+            "http://dbpedia.org/resource/Estadio_Jalisco"
+        ]
+    ]
+}

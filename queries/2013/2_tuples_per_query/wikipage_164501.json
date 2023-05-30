@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_Knicks",
+            "http://dbpedia.org/resource/Lenny_Wilkens",
+            "http://dbpedia.org/resource/Madison_Square_Garden"
+        ],
+        [
+            "http://dbpedia.org/resource/Sacramento_Kings",
+            "http://dbpedia.org/resource/Don_Kojis",
+            "http://dbpedia.org/resource/Cincinnati_Gardens"
+        ]
+    ]
+}

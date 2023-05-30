@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/K.V.V._Belgica_Edegem_Sport",
+            "http://dbpedia.org/resource/Edegem",
+            "http://dbpedia.org/resource/Belgian_Provincial_leagues"
+        ],
+        [
+            "http://dbpedia.org/resource/K._Berchem_Sport",
+            "http://dbpedia.org/resource/Antwerp",
+            "http://dbpedia.org/resource/Belgian_Fourth_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/R.O.C._de_Charleroi-Marchienne",
+            "http://dbpedia.org/resource/Charleroi",
+            "http://dbpedia.org/resource/Belgian_Third_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/K.V.V._Crossing_Elewijt",
+            "http://dbpedia.org/resource/Schaerbeek",
+            "http://dbpedia.org/resource/Belgian_Provincial_leagues"
+        ],
+        [
+            "http://dbpedia.org/resource/SC_Eendracht_Aalst",
+            "http://dbpedia.org/resource/Aalst,_Belgium",
+            "http://dbpedia.org/resource/Belgian_Third_Division"
+        ]
+    ]
+}

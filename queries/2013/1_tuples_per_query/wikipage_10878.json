@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Treasure_Coast_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Miller_Barber"
+        ]
+    ]
+}

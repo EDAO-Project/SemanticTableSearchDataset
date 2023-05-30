@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jake_Blackmore",
+            "http://dbpedia.org/resource/England_national_rugby_union_team",
+            "http://dbpedia.org/resource/Cardiff_Arms_Park",
+            "http://dbpedia.org/resource/England_national_rugby_league_team",
+            "http://dbpedia.org/resource/Highfield_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernie_Jenkins",
+            "http://dbpedia.org/resource/England_national_rugby_union_team",
+            "http://dbpedia.org/resource/Cardiff_Arms_Park",
+            "http://dbpedia.org/resource/England_national_rugby_league_team",
+            "http://dbpedia.org/resource/Highfield_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Pugsley",
+            "http://dbpedia.org/resource/Scotland_national_rugby_union_team",
+            "http://dbpedia.org/resource/Twickenham_Stadium",
+            "http://dbpedia.org/resource/Australia_national_rugby_league_team",
+            "http://dbpedia.org/resource/Eugene_Cross_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobby_Lloyd",
+            "http://dbpedia.org/resource/Scotland_national_rugby_union_team",
+            "http://dbpedia.org/resource/Inverleith",
+            "http://dbpedia.org/resource/Great_Britain_national_rugby_league_team",
+            "http://dbpedia.org/resource/Sydney_Cricket_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Brinley_Williams",
+            "http://dbpedia.org/resource/Scotland_national_rugby_union_team",
+            "http://dbpedia.org/resource/Inverleith",
+            "http://dbpedia.org/resource/England_national_rugby_league_team",
+            "http://dbpedia.org/resource/Headingley_Stadium"
+        ]
+    ]
+}

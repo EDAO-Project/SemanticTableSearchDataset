@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Alaska,_1980",
+            "http://dbpedia.org/resource/Mike_Gravel",
+            "http://dbpedia.org/resource/Frank_Murkowski"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_Senate_election_in_Connecticut,_1980",
+            "http://dbpedia.org/resource/Abraham_A._Ribicoff",
+            "http://dbpedia.org/resource/Chris_Dodd"
+        ]
+    ]
+}

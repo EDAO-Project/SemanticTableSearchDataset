@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brigham_Young_University",
+            "http://dbpedia.org/resource/University_of_California,_Santa_Barbara",
+            "http://dbpedia.org/resource/St._Louis"
+        ]
+    ]
+}

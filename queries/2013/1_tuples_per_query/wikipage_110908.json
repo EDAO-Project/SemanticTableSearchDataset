@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Juninho_Petrolina",
+            "http://dbpedia.org/resource/S.C._Beira-Mar"
+        ]
+    ]
+}

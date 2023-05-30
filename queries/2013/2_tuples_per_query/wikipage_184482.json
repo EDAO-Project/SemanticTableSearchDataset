@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brock_University",
+            "http://dbpedia.org/resource/Brock_Badgers",
+            "http://dbpedia.org/resource/St._Catharines",
+            "http://dbpedia.org/resource/Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Carleton_University",
+            "http://dbpedia.org/resource/Carleton_Ravens",
+            "http://dbpedia.org/resource/Ottawa",
+            "http://dbpedia.org/resource/Ontario"
+        ]
+    ]
+}

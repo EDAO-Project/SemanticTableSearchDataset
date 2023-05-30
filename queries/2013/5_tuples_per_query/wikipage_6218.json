@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_Bowl_I",
+            "http://dbpedia.org/resource/Vince_Lombardi",
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Kansas_City_Chiefs",
+            "http://dbpedia.org/resource/Hank_Stram",
+            "http://dbpedia.org/resource/Los_Angeles_Memorial_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_II",
+            "http://dbpedia.org/resource/Vince_Lombardi",
+            "http://dbpedia.org/resource/Green_Bay_Packers",
+            "http://dbpedia.org/resource/Oakland_Raiders",
+            "http://dbpedia.org/resource/John_Rauch",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_III",
+            "http://dbpedia.org/resource/Weeb_Ewbank",
+            "http://dbpedia.org/resource/New_York_Jets",
+            "http://dbpedia.org/resource/History_of_the_Indianapolis_Colts",
+            "http://dbpedia.org/resource/Don_Shula",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_IV",
+            "http://dbpedia.org/resource/Hank_Stram",
+            "http://dbpedia.org/resource/Kansas_City_Chiefs",
+            "http://dbpedia.org/resource/Minnesota_Vikings",
+            "http://dbpedia.org/resource/Bud_Grant",
+            "http://dbpedia.org/resource/Tulane_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_Bowl_V",
+            "http://dbpedia.org/resource/Don_McCafferty",
+            "http://dbpedia.org/resource/History_of_the_Indianapolis_Colts",
+            "http://dbpedia.org/resource/Dallas_Cowboys",
+            "http://dbpedia.org/resource/Tom_Landry",
+            "http://dbpedia.org/resource/Miami_Orange_Bowl"
+        ]
+    ]
+}

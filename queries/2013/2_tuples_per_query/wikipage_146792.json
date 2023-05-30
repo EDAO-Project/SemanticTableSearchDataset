@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amarens",
+            "http://dbpedia.org/resource/Ambialet",
+            "http://dbpedia.org/resource/Andillac",
+            "http://dbpedia.org/resource/Andouque"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellegarde,_Tarn",
+            "http://dbpedia.org/resource/Bernac,_Tarn",
+            "http://dbpedia.org/resource/Blaye-les-Mines",
+            "http://dbpedia.org/resource/Bournazel,_Tarn"
+        ]
+    ]
+}

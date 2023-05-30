@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Dawn_Sowell",
+            "http://dbpedia.org/resource/Louisiana_State_University",
+            "http://dbpedia.org/resource/Brigham_Young_University"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Dawn_Sowell",
+            "http://dbpedia.org/resource/Louisiana_State_University",
+            "http://dbpedia.org/resource/Brigham_Young_University"
+        ]
+    ]
+}

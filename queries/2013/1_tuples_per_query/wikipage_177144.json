@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Alabama_Historical_Commission",
+            "http://dbpedia.org/resource/Alabama_Department_of_Archives_and_History"
+        ]
+    ]
+}

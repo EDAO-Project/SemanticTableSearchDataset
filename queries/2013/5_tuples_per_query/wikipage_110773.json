@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Isurium_Brigantum",
+            "http://dbpedia.org/resource/Aldborough,_North_Yorkshire",
+            "http://dbpedia.org/resource/Borough_of_Harrogate",
+            "http://dbpedia.org/resource/English_Heritage"
+        ],
+        [
+            "http://dbpedia.org/resource/Beningbrough_Hall",
+            "http://dbpedia.org/resource/Beningbrough",
+            "http://dbpedia.org/resource/Hambleton",
+            "http://dbpedia.org/resource/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolton_Castle",
+            "http://dbpedia.org/resource/Castle_Bolton",
+            "http://dbpedia.org/resource/Richmondshire",
+            "http://dbpedia.org/resource/Mary,_Queen_of_Scots"
+        ],
+        [
+            "http://dbpedia.org/resource/Captain_Cook_Birthplace_Museum",
+            "http://dbpedia.org/resource/Marton,_Middlesbrough",
+            "http://dbpedia.org/resource/Middlesbrough",
+            "http://dbpedia.org/resource/James_Cook"
+        ],
+        [
+            "http://dbpedia.org/resource/Captain_Cook_Memorial_Museum",
+            "http://dbpedia.org/resource/Whitby",
+            "http://dbpedia.org/resource/Borough_of_Scarborough",
+            "http://dbpedia.org/resource/James_Cook"
+        ]
+    ]
+}

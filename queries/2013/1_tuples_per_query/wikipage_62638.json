@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nikita_Koloff",
+            "http://dbpedia.org/resource/Fayetteville,_North_Carolina",
+            "http://dbpedia.org/resource/House_show",
+            "http://dbpedia.org/resource/Barry_Darsow"
+        ]
+    ]
+}

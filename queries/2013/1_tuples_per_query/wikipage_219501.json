@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_259",
+            "http://dbpedia.org/resource/Nacogdoches_County,_Texas",
+            "http://dbpedia.org/resource/Oklahoma"
+        ]
+    ]
+}

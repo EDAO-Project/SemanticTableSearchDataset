@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darksiders",
+            "http://dbpedia.org/resource/Vigil_Games",
+            "http://dbpedia.org/resource/THQ",
+            "http://dbpedia.org/resource/Xbox_360"
+        ],
+        [
+            "http://dbpedia.org/resource/Dragon_Age:_Origins",
+            "http://dbpedia.org/resource/BioWare",
+            "http://dbpedia.org/resource/Electronic_Arts",
+            "http://dbpedia.org/resource/Xbox_360"
+        ]
+    ]
+}

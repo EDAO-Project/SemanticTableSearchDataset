@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Bercy_Arena"
+        ]
+    ]
+}

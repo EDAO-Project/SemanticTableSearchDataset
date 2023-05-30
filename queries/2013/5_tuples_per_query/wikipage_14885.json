@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Samoa",
+            "http://dbpedia.org/resource/Samoa_national_football_team",
+            "http://dbpedia.org/resource/Football_at_the_1983_South_Pacific_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Caledonia",
+            "http://dbpedia.org/resource/New_Caledonia_national_football_team",
+            "http://dbpedia.org/resource/Football_at_the_1987_South_Pacific_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Samoa",
+            "http://dbpedia.org/resource/Samoa_national_football_team",
+            "http://dbpedia.org/resource/Polynesia_Cup_1994"
+        ],
+        [
+            "http://dbpedia.org/resource/Samoa",
+            "http://dbpedia.org/resource/Tahiti_national_football_team",
+            "http://dbpedia.org/resource/Polynesia_Cup_1994"
+        ],
+        [
+            "http://dbpedia.org/resource/Cook_Islands",
+            "http://dbpedia.org/resource/Tahiti_national_football_team",
+            "http://dbpedia.org/resource/Polynesia_Cup_1998"
+        ]
+    ]
+}

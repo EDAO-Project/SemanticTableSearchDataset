@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/215_Oenone",
+            "http://dbpedia.org/resource/Berlin_Observatory",
+            "http://dbpedia.org/resource/Viktor_Knorre"
+        ],
+        [
+            "http://dbpedia.org/resource/227_Philosophia",
+            "http://dbpedia.org/resource/Paris_Observatory",
+            "http://dbpedia.org/resource/Paul_Henry_and_Prosper_Henry"
+        ]
+    ]
+}

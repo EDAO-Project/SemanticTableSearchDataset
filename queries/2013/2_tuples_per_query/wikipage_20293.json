@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tamara_Costache",
+            "http://dbpedia.org/resource/Katrin_Meissner",
+            "http://dbpedia.org/resource/Christiane_Pielke"
+        ],
+        [
+            "http://dbpedia.org/resource/Kristin_Otto",
+            "http://dbpedia.org/resource/Manuela_Stellmach",
+            "http://dbpedia.org/resource/Tamara_Costache"
+        ]
+    ]
+}

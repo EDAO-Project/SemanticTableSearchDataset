@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Munich",
+            "http://dbpedia.org/resource/Munich_Airport"
+        ]
+    ]
+}

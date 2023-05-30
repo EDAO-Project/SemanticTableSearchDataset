@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/McLaren",
+            "http://dbpedia.org/resource/McLaren_MP4-20",
+            "http://dbpedia.org/resource/Michelin",
+            "http://dbpedia.org/resource/Juan_Pablo_Montoya",
+            "http://dbpedia.org/resource/Pedro_de_la_Rosa"
+        ]
+    ]
+}

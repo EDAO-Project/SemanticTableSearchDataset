@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battle_of_Britain_Memorial_Flight",
+            "http://dbpedia.org/resource/Coningsby",
+            "http://dbpedia.org/resource/East_Lindsey",
+            "http://dbpedia.org/resource/World_War_II"
+        ]
+    ]
+}

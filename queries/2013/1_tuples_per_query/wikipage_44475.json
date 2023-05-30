@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cisco_Catalyst",
+            "http://dbpedia.org/resource/LAN_switching",
+            "http://dbpedia.org/resource/United_States"
+        ]
+    ]
+}

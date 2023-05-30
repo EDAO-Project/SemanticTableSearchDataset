@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buffalo_Bisons",
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Buffalo,_New_York",
+            "http://dbpedia.org/resource/Coca-Cola_Field"
+        ]
+    ]
+}

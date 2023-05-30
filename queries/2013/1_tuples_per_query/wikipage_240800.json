@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greece",
+            "http://dbpedia.org/resource/Plague_of_Athens",
+            "http://dbpedia.org/resource/Typhoid_fever"
+        ]
+    ]
+}

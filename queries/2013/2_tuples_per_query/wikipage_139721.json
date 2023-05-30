@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/Ixtepec,_Oaxaca"
+        ],
+        [
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/CORTV",
+            "http://dbpedia.org/resource/Coixtlahuaca_District"
+        ]
+    ]
+}

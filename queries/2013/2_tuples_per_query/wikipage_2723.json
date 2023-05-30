@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_Alien,_Predator_and_Alien_vs._Predator_games",
+            "http://dbpedia.org/resource/Acclaim_Cheltenham",
+            "http://dbpedia.org/resource/Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Arena:_Maze_of_Death",
+            "http://dbpedia.org/resource/Eden_Games",
+            "http://dbpedia.org/resource/Sega"
+        ]
+    ]
+}

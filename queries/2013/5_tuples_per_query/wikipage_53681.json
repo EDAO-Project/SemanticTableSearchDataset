@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paleogene",
+            "http://dbpedia.org/resource/Paleocene",
+            "http://dbpedia.org/resource/Danian"
+        ],
+        [
+            "http://dbpedia.org/resource/Cretaceous",
+            "http://dbpedia.org/resource/Late_Cretaceous",
+            "http://dbpedia.org/resource/Maastrichtian"
+        ],
+        [
+            "http://dbpedia.org/resource/Cretaceous",
+            "http://dbpedia.org/resource/Late_Cretaceous",
+            "http://dbpedia.org/resource/Campanian"
+        ],
+        [
+            "http://dbpedia.org/resource/Cretaceous",
+            "http://dbpedia.org/resource/Late_Cretaceous",
+            "http://dbpedia.org/resource/Santonian"
+        ],
+        [
+            "http://dbpedia.org/resource/Cretaceous",
+            "http://dbpedia.org/resource/Late_Cretaceous",
+            "http://dbpedia.org/resource/Coniacian"
+        ]
+    ]
+}

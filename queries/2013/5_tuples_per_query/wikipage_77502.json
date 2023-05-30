@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Canadian_Championship",
+            "http://dbpedia.org/resource/Sportsnet"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Premier_League",
+            "http://dbpedia.org/resource/Sportsnet"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Football_League_Championship",
+            "http://dbpedia.org/resource/BeIN_Sports"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/FA_Cup",
+            "http://dbpedia.org/resource/Sportsnet_World"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Football_League_Cup",
+            "http://dbpedia.org/resource/BeIN_Sports"
+        ]
+    ]
+}

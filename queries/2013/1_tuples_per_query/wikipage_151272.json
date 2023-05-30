@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Eduardo_Costa",
+            "http://dbpedia.org/resource/Brazil"
+        ]
+    ]
+}

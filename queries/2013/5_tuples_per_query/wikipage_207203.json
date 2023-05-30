@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aztalan_State_Park",
+            "http://dbpedia.org/resource/Jefferson_County,_Wisconsin",
+            "http://dbpedia.org/resource/Crawfish_River",
+            "http://dbpedia.org/resource/Mississippian_culture"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_Bay_State_Park",
+            "http://dbpedia.org/resource/Ashland_County,_Wisconsin",
+            "http://dbpedia.org/resource/Lake_Superior",
+            "http://dbpedia.org/resource/Madeline_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/Buckhorn_State_Park",
+            "http://dbpedia.org/resource/Juneau_County,_Wisconsin",
+            "http://dbpedia.org/resource/Castle_Rock_Lake",
+            "http://dbpedia.org/resource/Wisconsin_River"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_Springs_State_Recreation_Area",
+            "http://dbpedia.org/resource/Dane_County,_Wisconsin",
+            "http://dbpedia.org/resource/Lake_Waubesa",
+            "http://dbpedia.org/resource/Madison,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/Copper_Culture_State_Park",
+            "http://dbpedia.org/resource/Oconto_County,_Wisconsin",
+            "http://dbpedia.org/resource/Oconto_River",
+            "http://dbpedia.org/resource/Old_Copper_Complex"
+        ]
+    ]
+}

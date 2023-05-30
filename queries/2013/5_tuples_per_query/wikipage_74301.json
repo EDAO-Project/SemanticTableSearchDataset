@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Derry",
+            "http://dbpedia.org/resource/Ashbourne,_County_Meath"
+        ],
+        [
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Sligo",
+            "http://dbpedia.org/resource/Lucan,_Dublin"
+        ],
+        [
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Galway",
+            "http://dbpedia.org/resource/Rochfortbridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballinasloe",
+            "http://dbpedia.org/resource/Loughrea",
+            "http://dbpedia.org/resource/Aughrim,_County_Galway"
+        ],
+        [
+            "http://dbpedia.org/resource/Dublin",
+            "http://dbpedia.org/resource/Limerick",
+            "http://dbpedia.org/resource/Naas"
+        ]
+    ]
+}

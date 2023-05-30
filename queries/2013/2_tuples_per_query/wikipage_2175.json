@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/La_Salle_University",
+            "http://dbpedia.org/resource/Tom_Gola_Arena",
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackson_State_University",
+            "http://dbpedia.org/resource/Williams_Assembly_Center",
+            "http://dbpedia.org/resource/Jackson,_Mississippi",
+            "http://dbpedia.org/resource/Mississippi"
+        ]
+    ]
+}

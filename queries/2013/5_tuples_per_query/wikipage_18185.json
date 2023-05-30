@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Before_I_Hang",
+            "http://dbpedia.org/resource/Nick_Grinde",
+            "http://dbpedia.org/resource/Boris_Karloff"
+        ],
+        [
+            "http://dbpedia.org/resource/I_Wake_Up_Screaming",
+            "http://dbpedia.org/resource/H._Bruce_Humberstone",
+            "http://dbpedia.org/resource/Betty_Grable"
+        ],
+        [
+            "http://dbpedia.org/resource/Shadow_of_the_Thin_Man",
+            "http://dbpedia.org/resource/W._S._Van_Dyke",
+            "http://dbpedia.org/resource/William_Powell"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Murderer_Lives_at_Number_21",
+            "http://dbpedia.org/resource/Henri-Georges_Clouzot",
+            "http://dbpedia.org/resource/Suzy_Delair"
+        ],
+        [
+            "http://dbpedia.org/resource/Bowery_at_Midnight",
+            "http://dbpedia.org/resource/Wallace_Fox",
+            "http://dbpedia.org/resource/Bela_Lugosi"
+        ]
+    ]
+}

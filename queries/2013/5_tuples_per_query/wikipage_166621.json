@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/3rd_Genie_Awards",
+            "http://dbpedia.org/resource/Brian_Linehan",
+            "http://dbpedia.org/resource/Royal_Alexandra_Theatre",
+            "http://dbpedia.org/resource/Ticket_to_Heaven"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Genie_Awards",
+            "http://dbpedia.org/resource/Louis_Del_Grande",
+            "http://dbpedia.org/resource/Royal_Alexandra_Theatre",
+            "http://dbpedia.org/resource/The_Terry_Fox_Story"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Genie_Awards",
+            "http://dbpedia.org/resource/Al_Waxman",
+            "http://dbpedia.org/resource/Metro_Toronto_Convention_Centre",
+            "http://dbpedia.org/resource/The_Bay_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/7th_Genie_Awards",
+            "http://dbpedia.org/resource/Leslie_Nielsen",
+            "http://dbpedia.org/resource/Metro_Toronto_Convention_Centre",
+            "http://dbpedia.org/resource/My_American_Cousin"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Genie_Awards",
+            "http://dbpedia.org/resource/Helen_Shaver",
+            "http://dbpedia.org/resource/Metro_Toronto_Convention_Centre",
+            "http://dbpedia.org/resource/The_Decline_of_the_American_Empire"
+        ]
+    ]
+}

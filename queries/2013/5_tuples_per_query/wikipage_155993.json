@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dave_Komonen",
+            "http://dbpedia.org/resource/Track_and_field",
+            "http://dbpedia.org/resource/Boston_Marathon"
+        ],
+        [
+            "http://dbpedia.org/resource/Scotty_Rankine",
+            "http://dbpedia.org/resource/Track_and_field",
+            "http://dbpedia.org/resource/Berwick,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Syl_Apps",
+            "http://dbpedia.org/resource/Ice_hockey",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Fritz_Hanson",
+            "http://dbpedia.org/resource/Canadian_football",
+            "http://dbpedia.org/resource/Winnipeg_Blue_Bombers"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Golab",
+            "http://dbpedia.org/resource/Canadian_football",
+            "http://dbpedia.org/resource/Ottawa_Rough_Riders"
+        ]
+    ]
+}

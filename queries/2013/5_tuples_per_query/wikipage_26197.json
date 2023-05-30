@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Crofton,_Nebraska",
+            "http://dbpedia.org/resource/Knox_County,_Nebraska",
+            "http://dbpedia.org/resource/Lewis_and_Clark_Lake"
+        ],
+        [
+            "http://dbpedia.org/resource/Dimock,_South_Dakota",
+            "http://dbpedia.org/resource/Hutchinson_County,_South_Dakota",
+            "http://dbpedia.org/resource/Police"
+        ],
+        [
+            "http://dbpedia.org/resource/Yankton,_South_Dakota",
+            "http://dbpedia.org/resource/Yankton_County,_South_Dakota",
+            "http://dbpedia.org/resource/Lewis_and_Clark_Lake"
+        ],
+        [
+            "http://dbpedia.org/resource/Plankinton,_South_Dakota",
+            "http://dbpedia.org/resource/Aurora_County,_South_Dakota",
+            "http://dbpedia.org/resource/Pheasant"
+        ],
+        [
+            "http://dbpedia.org/resource/Spencer,_South_Dakota",
+            "http://dbpedia.org/resource/McCook_County,_South_Dakota",
+            "http://dbpedia.org/resource/Late-May_1998_tornado_outbreak_and_derecho"
+        ]
+    ]
+}

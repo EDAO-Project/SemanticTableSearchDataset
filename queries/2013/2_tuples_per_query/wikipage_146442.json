@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bar-le-Duc",
+            "http://dbpedia.org/resource/Baudonvilliers",
+            "http://dbpedia.org/resource/Bazincourt-sur-Saulx",
+            "http://dbpedia.org/resource/Beaulieu-en-Argonne"
+        ],
+        [
+            "http://dbpedia.org/resource/Beausite",
+            "http://dbpedia.org/resource/Behonne",
+            "http://dbpedia.org/resource/Beurey-sur-Saulx",
+            "http://dbpedia.org/resource/Biencourt-sur-Orge"
+        ]
+    ]
+}

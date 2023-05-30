@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeffrey_Alexandre_Rousseau",
+            "http://dbpedia.org/resource/Government_of_Canada",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada",
+            "http://dbpedia.org/resource/Canadian_federal_election,_1900"
+        ]
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Permian",
+            "http://dbpedia.org/resource/Acanthodes",
+            "http://dbpedia.org/resource/Acanthodes"
+        ],
+        [
+            "http://dbpedia.org/resource/Permian",
+            "http://dbpedia.org/resource/Extinction_event",
+            "http://dbpedia.org/resource/Extinction_event",
+            "http://dbpedia.org/resource/Extinction_event"
+        ],
+        [
+            "http://dbpedia.org/resource/Triassic",
+            "http://dbpedia.org/resource/Perleidus",
+            "http://dbpedia.org/resource/Perleidus"
+        ],
+        [
+            "http://dbpedia.org/resource/Triassic",
+            "http://dbpedia.org/resource/Pachycormiformes",
+            "http://dbpedia.org/resource/Pachycormiformes"
+        ],
+        [
+            "http://dbpedia.org/resource/Triassic",
+            "http://dbpedia.org/resource/Pholidophorus",
+            "http://dbpedia.org/resource/Pholidophorus"
+        ]
+    ]
+}

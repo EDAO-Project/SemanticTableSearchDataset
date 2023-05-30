@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Innsbruck",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/FIS_Alpine_World_Ski_Championships_1933"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Moritz",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/FIS_Alpine_World_Ski_Championships_1934"
+        ]
+    ]
+}

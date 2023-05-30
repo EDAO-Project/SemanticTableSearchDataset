@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Microsoft",
+            "http://dbpedia.org/resource/Microsoft_Studios",
+            "http://dbpedia.org/resource/Game_show",
+            "http://dbpedia.org/resource/Xbox_Live"
+        ]
+    ]
+}

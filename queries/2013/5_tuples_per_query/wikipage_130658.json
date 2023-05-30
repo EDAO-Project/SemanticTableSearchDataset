@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appleton,_Wisconsin",
+            "http://dbpedia.org/resource/The_Post-Crescent",
+            "http://dbpedia.org/resource/Gannett_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashland,_Wisconsin",
+            "http://dbpedia.org/resource/Ashland_Daily_Press",
+            "http://dbpedia.org/resource/Heartland_Publications"
+        ],
+        [
+            "http://dbpedia.org/resource/Green_Bay,_Wisconsin",
+            "http://dbpedia.org/resource/Green_Bay_Press-Gazette",
+            "http://dbpedia.org/resource/Gannett_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Crosse,_Wisconsin",
+            "http://dbpedia.org/resource/La_Crosse_Tribune",
+            "http://dbpedia.org/resource/Lee_Enterprises"
+        ],
+        [
+            "http://dbpedia.org/resource/Lancaster,_Wisconsin",
+            "http://dbpedia.org/resource/Grant_County_Herald_Independent",
+            "http://dbpedia.org/resource/Morris_Multimedia"
+        ]
+    ]
+}

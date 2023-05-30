@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Braun_Motorsports",
+            "http://dbpedia.org/resource/Toyota_Camry",
+            "http://dbpedia.org/resource/John_Andretti",
+            "http://dbpedia.org/resource/ABF_Freight_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Braun_Motorsports",
+            "http://dbpedia.org/resource/Toyota_Camry",
+            "http://dbpedia.org/resource/Dave_Blaney",
+            "http://dbpedia.org/resource/ABF_Freight_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Braun_Motorsports",
+            "http://dbpedia.org/resource/Toyota_Camry",
+            "http://dbpedia.org/resource/Todd_Bodine",
+            "http://dbpedia.org/resource/ABF_Freight_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Braun_Motorsports",
+            "http://dbpedia.org/resource/Toyota_Camry",
+            "http://dbpedia.org/resource/Mike_Bliss",
+            "http://dbpedia.org/resource/ABF_Freight_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Braun_Motorsports",
+            "http://dbpedia.org/resource/Toyota_Camry",
+            "http://dbpedia.org/resource/Jason_Leffler",
+            "http://dbpedia.org/resource/Great_Clips"
+        ]
+    ]
+}

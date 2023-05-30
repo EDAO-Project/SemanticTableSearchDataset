@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Steve_Young",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/1987_San_Francisco_49ers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Y._A._Tittle",
+            "http://dbpedia.org/resource/Quarterback",
+            "http://dbpedia.org/resource/1951_San_Francisco_49ers_season"
+        ]
+    ]
+}

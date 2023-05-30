@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_Japan_Football_League",
+            "http://dbpedia.org/resource/Honda_FC",
+            "http://dbpedia.org/resource/Tokushima_Vortis",
+            "http://dbpedia.org/resource/Jatco_FC",
+            "http://dbpedia.org/resource/Sagawa_Express_Tokyo_SC"
+        ]
+    ]
+}

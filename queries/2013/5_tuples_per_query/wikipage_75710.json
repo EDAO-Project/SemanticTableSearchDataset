@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balwearie",
+            "http://dbpedia.org/resource/South_Carolina_Highway_34",
+            "http://dbpedia.org/resource/Winnsboro,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Camp_Welfare",
+            "http://dbpedia.org/resource/U.S._Route_21",
+            "http://dbpedia.org/resource/Ridgeway,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Concord_Presbyterian_Church",
+            "http://dbpedia.org/resource/U.S._Route_321",
+            "http://dbpedia.org/resource/Winnsboro,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._John_Glenn_House",
+            "http://dbpedia.org/resource/South_Carolina_Highway_215",
+            "http://dbpedia.org/resource/Jenkinsville,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Liberty_Universalist_Church_and_Feasterville_Academy_Historic_District",
+            "http://dbpedia.org/resource/South_Carolina_Highway_215",
+            "http://dbpedia.org/resource/Winnsboro,_South_Carolina"
+        ]
+    ]
+}

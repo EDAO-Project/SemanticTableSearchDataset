@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aghanaglack",
+            "http://dbpedia.org/resource/County_Fermanagh",
+            "http://dbpedia.org/resource/Court_cairn"
+        ],
+        [
+            "http://dbpedia.org/resource/Annadorn_Dolmen",
+            "http://dbpedia.org/resource/County_Down",
+            "http://dbpedia.org/resource/Dolmen"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stirling_Moss",
+            "http://dbpedia.org/resource/Rob_Walker_Racing_Team",
+            "http://dbpedia.org/resource/Team_Lotus"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorenzo_Bandini",
+            "http://dbpedia.org/resource/Scuderia_Centro_Sud",
+            "http://dbpedia.org/resource/Cooper_Car_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Roy_Salvadori",
+            "http://dbpedia.org/resource/Yeoman_Credit_Racing",
+            "http://dbpedia.org/resource/Cooper_Car_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Masten_Gregory",
+            "http://dbpedia.org/resource/British_Racing_Partnership",
+            "http://dbpedia.org/resource/Team_Lotus"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Surtees",
+            "http://dbpedia.org/resource/Yeoman_Credit_Racing",
+            "http://dbpedia.org/resource/Cooper_Car_Company"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brocken",
+            "http://dbpedia.org/resource/Upper_Harz",
+            "http://dbpedia.org/resource/Ilsenburg",
+            "http://dbpedia.org/resource/Saxony-Anhalt",
+            "http://dbpedia.org/resource/Brocken_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Renneckenberg",
+            "http://dbpedia.org/resource/Upper_Harz",
+            "http://dbpedia.org/resource/Schierke",
+            "http://dbpedia.org/resource/Saxony-Anhalt",
+            "http://dbpedia.org/resource/Kapellenklippe"
+        ]
+    ]
+}

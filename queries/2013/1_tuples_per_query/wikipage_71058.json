@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Green",
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/England"
+        ]
+    ]
+}

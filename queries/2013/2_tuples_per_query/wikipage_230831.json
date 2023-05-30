@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Taos_County,_New_Mexico",
+            "http://dbpedia.org/resource/New_Mexico_Territory",
+            "http://dbpedia.org/resource/New_Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Salt_Lake_County,_Utah",
+            "http://dbpedia.org/resource/Utah_Territory",
+            "http://dbpedia.org/resource/Colorado_Territory"
+        ]
+    ]
+}

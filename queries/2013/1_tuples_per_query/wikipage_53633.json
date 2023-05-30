@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seoul_Olympic_Stadium",
+            "http://dbpedia.org/resource/Seoul",
+            "http://dbpedia.org/resource/Seoul_United_FC"
+        ]
+    ]
+}

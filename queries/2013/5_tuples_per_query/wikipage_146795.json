@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bouloc,_Tarn-et-Garonne",
+            "http://dbpedia.org/resource/Bourg-de-Visa",
+            "http://dbpedia.org/resource/Brassac,_Tarn-et-Garonne",
+            "http://dbpedia.org/resource/Castelferrus"
+        ],
+        [
+            "http://dbpedia.org/resource/Caumont,_Tarn-et-Garonne",
+            "http://dbpedia.org/resource/Cazes-Mondenard",
+            "http://dbpedia.org/resource/Cordes-Tolosannes",
+            "http://dbpedia.org/resource/Coutures,_Tarn-et-Garonne"
+        ],
+        [
+            "http://dbpedia.org/resource/Cumont,_Tarn-et-Garonne",
+            "http://dbpedia.org/resource/Donzac,_Tarn-et-Garonne",
+            "http://dbpedia.org/resource/Dunes,_Tarn-et-Garonne",
+            "http://dbpedia.org/resource/Durfort-Lacapelette"
+        ],
+        [
+            "http://dbpedia.org/resource/Escazeaux",
+            "http://dbpedia.org/resource/Espalais",
+            "http://dbpedia.org/resource/Esparsac",
+            "http://dbpedia.org/resource/Fajolles"
+        ],
+        [
+            "http://dbpedia.org/resource/Gasques",
+            "http://dbpedia.org/resource/Gensac,_Tarn-et-Garonne",
+            "http://dbpedia.org/resource/Gimat",
+            "http://dbpedia.org/resource/Glatens"
+        ]
+    ]
+}

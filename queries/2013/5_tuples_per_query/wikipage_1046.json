@@ -1,0 +1,39 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_World_Short_Track_Speed_Skating_Championships",
+            "http://dbpedia.org/resource/The_Hague",
+            "http://dbpedia.org/resource/Marc_Gagnon",
+            "http://dbpedia.org/resource/Chae_Ji-hoon",
+            "http://dbpedia.org/resource/Orazio_Fagone"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_World_Short_Track_Speed_Skating_Championships",
+            "http://dbpedia.org/resource/Jeonju",
+            "http://dbpedia.org/resource/Li_Jiajun",
+            "http://dbpedia.org/resource/Apolo_Ohno",
+            "http://dbpedia.org/resource/Marc_Gagnon"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_World_Short_Track_Speed_Skating_Championships",
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Kim_Dong-sung",
+            "http://dbpedia.org/resource/Viktor_Ahn",
+            "http://dbpedia.org/resource/Fabio_Carta"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_World_Short_Track_Speed_Skating_Championships",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Viktor_Ahn",
+            "http://dbpedia.org/resource/Li_Jiajun",
+            "http://dbpedia.org/resource/Song_Suk-woo"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_World_Short_Track_Speed_Skating_Championships",
+            "http://dbpedia.org/resource/Gothenburg",
+            "http://dbpedia.org/resource/Viktor_Ahn",
+            "http://dbpedia.org/resource/Song_Suk-woo",
+            "http://dbpedia.org/resource/Li_Jiajun"
+        ]
+    ]
+}

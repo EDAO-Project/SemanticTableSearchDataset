@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1983_K_League",
+            "http://dbpedia.org/resource/Ham_Heung-chul",
+            "http://dbpedia.org/resource/Goyang_Hi_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_K_League",
+            "http://dbpedia.org/resource/Chang_Woon-soo",
+            "http://dbpedia.org/resource/Busan_IPark"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_K_League",
+            "http://dbpedia.org/resource/Park_Se-hak",
+            "http://dbpedia.org/resource/FC_Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_K_League",
+            "http://dbpedia.org/resource/Choi_Eun-taek",
+            "http://dbpedia.org/resource/Pohang_Steelers"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_K_League",
+            "http://dbpedia.org/resource/Lee_Cha-man",
+            "http://dbpedia.org/resource/Busan_IPark"
+        ]
+    ]
+}

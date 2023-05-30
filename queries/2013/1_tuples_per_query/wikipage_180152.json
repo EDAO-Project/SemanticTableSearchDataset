@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/85th_Academy_Awards",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Picture",
+            "http://dbpedia.org/resource/Steven_Spielberg"
+        ]
+    ]
+}

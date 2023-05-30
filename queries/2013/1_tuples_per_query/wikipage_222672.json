@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jackup_rig",
+            "http://dbpedia.org/resource/Vietnam",
+            "http://dbpedia.org/resource/Premier",
+            "http://dbpedia.org/resource/Keppel_Corporation"
+        ]
+    ]
+}

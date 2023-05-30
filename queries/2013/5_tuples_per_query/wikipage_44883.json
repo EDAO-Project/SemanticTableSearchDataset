@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bridgeport_Covered_Bridge",
+            "http://dbpedia.org/resource/French_Corral,_California",
+            "http://dbpedia.org/resource/Nevada_County,_California",
+            "http://dbpedia.org/resource/Covered_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Dinkey_Creek_Bridge",
+            "http://dbpedia.org/resource/Dinkey_Creek,_California",
+            "http://dbpedia.org/resource/Fresno_County,_California",
+            "http://dbpedia.org/resource/Tied-arch_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Fair_Oaks_Bridge",
+            "http://dbpedia.org/resource/Fair_Oaks,_California",
+            "http://dbpedia.org/resource/Sacramento_County,_California",
+            "http://dbpedia.org/resource/Truss_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Felton_Covered_Bridge",
+            "http://dbpedia.org/resource/Felton,_California",
+            "http://dbpedia.org/resource/Santa_Cruz_County,_California",
+            "http://dbpedia.org/resource/Covered_bridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Gianella_Bridge",
+            "http://dbpedia.org/resource/Hamilton_City,_California",
+            "http://dbpedia.org/resource/Butte_County,_California",
+            "http://dbpedia.org/resource/Swing_bridge"
+        ]
+    ]
+}

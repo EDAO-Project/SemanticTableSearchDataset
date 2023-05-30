@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Octave",
+            "http://dbpedia.org/resource/Minor_second",
+            "http://dbpedia.org/resource/Octave",
+            "http://dbpedia.org/resource/Tritone"
+        ],
+        [
+            "http://dbpedia.org/resource/Perfect_fifth",
+            "http://dbpedia.org/resource/Neutral_second",
+            "http://dbpedia.org/resource/Perfect_fifth",
+            "http://dbpedia.org/resource/Perfect_fourth"
+        ]
+    ]
+}

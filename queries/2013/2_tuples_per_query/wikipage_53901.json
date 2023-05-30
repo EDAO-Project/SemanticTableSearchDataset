@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WGBH-TV",
+            "http://dbpedia.org/resource/PBS",
+            "http://dbpedia.org/resource/Boston"
+        ],
+        [
+            "http://dbpedia.org/resource/WTEN",
+            "http://dbpedia.org/resource/American_Broadcasting_Company",
+            "http://dbpedia.org/resource/North_Adams,_Massachusetts"
+        ]
+    ]
+}

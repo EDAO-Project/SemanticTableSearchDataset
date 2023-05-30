@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fort_Tryon_Park",
+            "http://dbpedia.org/resource/Washington_Heights,_Manhattan",
+            "http://dbpedia.org/resource/New_York_City_Subway"
+        ],
+        [
+            "http://dbpedia.org/resource/Will_Marion_Cook_House",
+            "http://dbpedia.org/resource/Harlem",
+            "http://dbpedia.org/resource/Will_Marion_Cook"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Washington_Avenue_Armory",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/National_Track_and_Field_Hall_of_Fame"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamilton_Grange_National_Memorial",
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/Alexander_Hamilton"
+        ],
+        [
+            "http://dbpedia.org/resource/Harlem_Fire_Watchtower",
+            "http://dbpedia.org/resource/Marcus_Garvey_Park",
+            "http://dbpedia.org/resource/New_York_City"
+        ]
+    ]
+}

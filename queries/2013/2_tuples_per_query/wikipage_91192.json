@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Carmelita_Jeter",
+            "http://dbpedia.org/resource/Shelly-Ann_Fraser-Pryce",
+            "http://dbpedia.org/resource/Kerron_Stewart"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Allyson_Felix",
+            "http://dbpedia.org/resource/Sanya_Richards-Ross",
+            "http://dbpedia.org/resource/Kerron_Stewart"
+        ]
+    ]
+}

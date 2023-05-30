@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Mike_Adamson",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/Point_Loma_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Greg_Luzinski",
+            "http://dbpedia.org/resource/First_baseman",
+            "http://dbpedia.org/resource/Prospect_Heights,_Illinois"
+        ]
+    ]
+}

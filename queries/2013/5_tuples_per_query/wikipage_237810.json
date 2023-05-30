@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_B._Allen",
+            "http://dbpedia.org/resource/51st_United_States_Congress",
+            "http://dbpedia.org/resource/Watson_C._Squire"
+        ],
+        [
+            "http://dbpedia.org/resource/John_B._Allen",
+            "http://dbpedia.org/resource/52nd_United_States_Congress",
+            "http://dbpedia.org/resource/Watson_C._Squire"
+        ],
+        [
+            "http://dbpedia.org/resource/John_L._Wilson",
+            "http://dbpedia.org/resource/53rd_United_States_Congress",
+            "http://dbpedia.org/resource/Watson_C._Squire"
+        ],
+        [
+            "http://dbpedia.org/resource/John_L._Wilson",
+            "http://dbpedia.org/resource/54th_United_States_Congress",
+            "http://dbpedia.org/resource/Watson_C._Squire"
+        ],
+        [
+            "http://dbpedia.org/resource/Addison_G._Foster",
+            "http://dbpedia.org/resource/58th_United_States_Congress",
+            "http://dbpedia.org/resource/Levi_Ankeny"
+        ]
+    ]
+}

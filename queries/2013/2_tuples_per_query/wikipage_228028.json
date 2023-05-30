@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kiev",
+            "http://dbpedia.org/resource/Central_Ukraine",
+            "http://dbpedia.org/resource/Lesya_Orobets",
+            "http://dbpedia.org/resource/Ukrainian_Republican_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Volyn_Oblast",
+            "http://dbpedia.org/resource/Western_Ukraine",
+            "http://dbpedia.org/resource/Levko_Lukyanenko",
+            "http://dbpedia.org/resource/Ukrainian_Republican_Party"
+        ]
+    ]
+}

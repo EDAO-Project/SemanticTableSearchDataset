@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_G._Post",
+            "http://dbpedia.org/resource/Georgetown_University_Law_Center",
+            "http://dbpedia.org/resource/Ruth_Bader_Ginsburg"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Schizer",
+            "http://dbpedia.org/resource/Yale_Law_School",
+            "http://dbpedia.org/resource/Alex_Kozinski"
+        ],
+        [
+            "http://dbpedia.org/resource/Margo_Schlanger",
+            "http://dbpedia.org/resource/Yale_Law_School",
+            "http://dbpedia.org/resource/Ruth_Bader_Ginsburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_J._Watford",
+            "http://dbpedia.org/resource/UCLA_School_of_Law",
+            "http://dbpedia.org/resource/Alex_Kozinski"
+        ],
+        [
+            "http://dbpedia.org/resource/M._Elizabeth_Magill",
+            "http://dbpedia.org/resource/University_of_Virginia_School_of_Law",
+            "http://dbpedia.org/resource/J._Harvie_Wilkinson_III"
+        ]
+    ]
+}

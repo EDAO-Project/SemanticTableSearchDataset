@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kris_Stadsgaard",
+            "http://dbpedia.org/resource/A.S.D._Reggio_Calabria",
+            "http://dbpedia.org/resource/Rosenborg_BK"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonino_Bonvissuto",
+            "http://dbpedia.org/resource/S.S._Virtus_Lanciano_1924",
+            "http://dbpedia.org/resource/F.C._Bari_1908"
+        ]
+    ]
+}

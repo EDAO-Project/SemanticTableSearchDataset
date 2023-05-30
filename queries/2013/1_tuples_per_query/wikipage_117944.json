@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kuusamo",
+            "http://dbpedia.org/resource/Dario_Cologna",
+            "http://dbpedia.org/resource/Alexander_Legkov",
+            "http://dbpedia.org/resource/Daniel_Richardsson"
+        ]
+    ]
+}

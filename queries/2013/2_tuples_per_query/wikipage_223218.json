@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gulf_Coast_League_Cardinals",
+            "http://dbpedia.org/resource/St._Louis_Cardinals",
+            "http://dbpedia.org/resource/Jupiter,_Florida",
+            "http://dbpedia.org/resource/Roger_Dean_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Gulf_Coast_League_Marlins",
+            "http://dbpedia.org/resource/Miami_Marlins",
+            "http://dbpedia.org/resource/Jupiter,_Florida",
+            "http://dbpedia.org/resource/Roger_Dean_Stadium"
+        ]
+    ]
+}

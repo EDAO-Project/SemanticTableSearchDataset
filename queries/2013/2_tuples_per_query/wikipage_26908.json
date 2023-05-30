@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Brandon_Webb",
+            "http://dbpedia.org/resource/Aaron_Harang",
+            "http://dbpedia.org/resource/Brandon_Lyon"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Rockies",
+            "http://dbpedia.org/resource/Brandon_Lyon",
+            "http://dbpedia.org/resource/Micah_Bowie",
+            "http://dbpedia.org/resource/Chad_Qualls"
+        ]
+    ]
+}

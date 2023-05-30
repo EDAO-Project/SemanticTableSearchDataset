@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1709_Ukraina",
+            "http://dbpedia.org/resource/Crimean_Astrophysical_Observatory",
+            "http://dbpedia.org/resource/Grigory_Abramovich_Shajn"
+        ],
+        [
+            "http://dbpedia.org/resource/1717_Arlon",
+            "http://dbpedia.org/resource/Royal_Observatory_of_Belgium",
+            "http://dbpedia.org/resource/Sylvain_Arend"
+        ]
+    ]
+}

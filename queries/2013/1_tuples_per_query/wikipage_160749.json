@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Flagstaff,_Arizona",
+            "http://dbpedia.org/resource/Arizona_Daily_Sun"
+        ]
+    ]
+}

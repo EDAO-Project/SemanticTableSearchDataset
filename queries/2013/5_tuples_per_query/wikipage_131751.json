@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Asheville,_North_Carolina",
+            "http://dbpedia.org/resource/Karpenisi",
+            "http://dbpedia.org/resource/Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/Asheville,_North_Carolina",
+            "http://dbpedia.org/resource/Osogbo",
+            "http://dbpedia.org/resource/Nigeria"
+        ],
+        [
+            "http://dbpedia.org/resource/Asheville,_North_Carolina",
+            "http://dbpedia.org/resource/Saumur",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Asheville,_North_Carolina",
+            "http://dbpedia.org/resource/Vladikavkaz",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Boone,_North_Carolina",
+            "http://dbpedia.org/resource/Collingwood,_Ontario",
+            "http://dbpedia.org/resource/Canada"
+        ]
+    ]
+}

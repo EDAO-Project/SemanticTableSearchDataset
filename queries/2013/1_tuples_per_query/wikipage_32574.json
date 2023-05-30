@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allaire_Village",
+            "http://dbpedia.org/resource/Wall_Township,_New_Jersey",
+            "http://dbpedia.org/resource/Monmouth_County,_New_Jersey",
+            "http://dbpedia.org/resource/Shore_Region",
+            "http://dbpedia.org/resource/Living_museum"
+        ]
+    ]
+}

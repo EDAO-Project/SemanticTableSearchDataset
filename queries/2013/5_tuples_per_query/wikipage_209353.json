@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aerobiz",
+            "http://dbpedia.org/resource/Koei",
+            "http://dbpedia.org/resource/Business_simulation_game",
+            "http://dbpedia.org/resource/Super_Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Aerobiz_Supersonic",
+            "http://dbpedia.org/resource/Koei",
+            "http://dbpedia.org/resource/Business_simulation_game",
+            "http://dbpedia.org/resource/Super_Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Tecmo_Cup_Soccer_Game",
+            "http://dbpedia.org/resource/Captain_Tsubasa",
+            "http://dbpedia.org/resource/Sports_game",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Captain_Tsubasa_Vol._II:_Super_Striker",
+            "http://dbpedia.org/resource/Captain_Tsubasa",
+            "http://dbpedia.org/resource/Sports_game",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Captain_Tsubasa_3:_Koutei_no_Chousen",
+            "http://dbpedia.org/resource/Captain_Tsubasa",
+            "http://dbpedia.org/resource/Sports_game",
+            "http://dbpedia.org/resource/Super_Nintendo_Entertainment_System"
+        ]
+    ]
+}

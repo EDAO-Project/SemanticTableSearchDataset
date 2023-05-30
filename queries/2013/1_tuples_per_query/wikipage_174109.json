@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pope_Eugene_IV",
+            "http://dbpedia.org/resource/John_II_of_Castile",
+            "http://dbpedia.org/resource/Royal_Palace_of_Madrid"
+        ]
+    ]
+}

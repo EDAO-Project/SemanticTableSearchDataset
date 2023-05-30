@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portugal",
+            "http://dbpedia.org/resource/Jorge_Costa_Pires",
+            "http://dbpedia.org/resource/C.D._Aves"
+        ]
+    ]
+}

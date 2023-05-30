@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stephen_Strasburg",
+            "http://dbpedia.org/resource/Washington_Nationals",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/San_Diego_State_Aztecs_baseball"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hanshin_Tigers",
+            "http://dbpedia.org/resource/Tomoyuki_Kubota",
+            "http://dbpedia.org/resource/Hisashi_Takeda",
+            "http://dbpedia.org/resource/Kyuji_Fujikawa"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiroshima_Toyo_Carp",
+            "http://dbpedia.org/resource/Colby_Lewis",
+            "http://dbpedia.org/resource/Yu_Darvish",
+            "http://dbpedia.org/resource/Katsuhiro_Nagakawa"
+        ]
+    ]
+}

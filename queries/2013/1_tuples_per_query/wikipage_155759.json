@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_WNBA_draft",
+            "http://dbpedia.org/resource/Rita_Williams",
+            "http://dbpedia.org/resource/Basketball_positions",
+            "http://dbpedia.org/resource/Washington_Mystics"
+        ]
+    ]
+}

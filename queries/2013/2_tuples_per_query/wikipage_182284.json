@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/688_Attack_Sub",
+            "http://dbpedia.org/resource/Electronic_Arts",
+            "http://dbpedia.org/resource/Sega"
+        ],
+        [
+            "http://dbpedia.org/resource/A-Train",
+            "http://dbpedia.org/resource/Artdink",
+            "http://dbpedia.org/resource/Sega"
+        ]
+    ]
+}

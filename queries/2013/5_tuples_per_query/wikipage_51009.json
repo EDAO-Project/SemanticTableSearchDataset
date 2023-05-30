@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London_Array",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Siemens_Wind_Power"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_Gabbard_wind_farm",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Siemens_Wind_Power"
+        ],
+        [
+            "http://dbpedia.org/resource/Anholt_Offshore_Wind_Farm",
+            "http://dbpedia.org/resource/Denmark",
+            "http://dbpedia.org/resource/Siemens_Wind_Power"
+        ],
+        [
+            "http://dbpedia.org/resource/Walney_Wind_Farm",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Siemens_Wind_Power"
+        ],
+        [
+            "http://dbpedia.org/resource/Thorntonbank_Wind_Farm",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Senvion"
+        ]
+    ]
+}

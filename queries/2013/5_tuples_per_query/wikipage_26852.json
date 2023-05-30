@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boston_Red_Sox",
+            "http://dbpedia.org/resource/Daisuke_Matsuzaka",
+            "http://dbpedia.org/resource/Dallas_Braden",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Blue_Jays",
+            "http://dbpedia.org/resource/A._J._Burnett",
+            "http://dbpedia.org/resource/Jerry_Blevins",
+            "http://dbpedia.org/resource/B._J._Ryan"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa_Bay_Rays",
+            "http://dbpedia.org/resource/Gio_Gonzalez",
+            "http://dbpedia.org/resource/Scott_Kazmir",
+            "http://dbpedia.org/resource/Brad_Ziegler"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa_Bay_Rays",
+            "http://dbpedia.org/resource/Andy_Sonnanstine",
+            "http://dbpedia.org/resource/Justin_Duchscherer",
+            "http://dbpedia.org/resource/Troy_Percival"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa_Bay_Rays",
+            "http://dbpedia.org/resource/Jason_Hammel",
+            "http://dbpedia.org/resource/Santiago_Casilla",
+            "http://dbpedia.org/resource/Trever_Miller"
+        ]
+    ]
+}

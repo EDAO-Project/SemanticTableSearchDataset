@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ricky_Ponting",
+            "http://dbpedia.org/resource/Glossary_of_cricket_terms",
+            "http://dbpedia.org/resource/Tasmania_cricket_team"
+        ]
+    ]
+}

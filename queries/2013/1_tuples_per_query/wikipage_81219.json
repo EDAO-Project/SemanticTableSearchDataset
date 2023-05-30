@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Friends_Arena",
+            "http://dbpedia.org/resource/Sweden_national_football_team",
+            "http://dbpedia.org/resource/List_of_national_stadiums"
+        ]
+    ]
+}

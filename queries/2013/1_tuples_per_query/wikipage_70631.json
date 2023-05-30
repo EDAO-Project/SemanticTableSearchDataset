@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election,_1888",
+            "http://dbpedia.org/resource/Frederick_Douglass",
+            "http://dbpedia.org/resource/1888_Republican_National_Convention",
+            "http://dbpedia.org/resource/Benjamin_Harrison"
+        ]
+    ]
+}

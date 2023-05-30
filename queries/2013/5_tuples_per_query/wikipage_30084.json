@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clermont_State_Historic_Site",
+            "http://dbpedia.org/resource/Clermont,_New_York",
+            "http://dbpedia.org/resource/Columbia_County,_New_York",
+            "http://dbpedia.org/resource/Capital_District",
+            "http://dbpedia.org/resource/Historic_house_museum",
+            "http://dbpedia.org/resource/Livingston_family"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederic_Remington_Art_Museum",
+            "http://dbpedia.org/resource/Ogdensburg,_New_York",
+            "http://dbpedia.org/resource/St._Lawrence_County,_New_York",
+            "http://dbpedia.org/resource/Thousand_Islands",
+            "http://dbpedia.org/resource/Art_museum",
+            "http://dbpedia.org/resource/Frederic_Remington"
+        ],
+        [
+            "http://dbpedia.org/resource/Grant_Cottage_State_Historic_Site",
+            "http://dbpedia.org/resource/Wilton,_New_York",
+            "http://dbpedia.org/resource/Saratoga_County,_New_York",
+            "http://dbpedia.org/resource/Capital_District",
+            "http://dbpedia.org/resource/Historic_house_museum",
+            "http://dbpedia.org/resource/Ulysses_S._Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/Herbert_F._Johnson_Museum_of_Art",
+            "http://dbpedia.org/resource/Ithaca,_New_York",
+            "http://dbpedia.org/resource/Tompkins_County,_New_York",
+            "http://dbpedia.org/resource/Finger_Lakes",
+            "http://dbpedia.org/resource/Art_museum",
+            "http://dbpedia.org/resource/Cornell_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Mabee_House",
+            "http://dbpedia.org/resource/Pattersonville-Rotterdam_Junction,_New_York",
+            "http://dbpedia.org/resource/Schenectady_County,_New_York",
+            "http://dbpedia.org/resource/Capital_District",
+            "http://dbpedia.org/resource/Historic_house_museum",
+            "http://dbpedia.org/resource/Mohawk_Valley"
+        ]
+    ]
+}

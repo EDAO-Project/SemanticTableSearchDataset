@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barnstable_County,_Massachusetts",
+            "http://dbpedia.org/resource/Falmouth,_Massachusetts",
+            "http://dbpedia.org/resource/West_Falmouth,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Barnstable_County,_Massachusetts",
+            "http://dbpedia.org/resource/Falmouth,_Massachusetts",
+            "http://dbpedia.org/resource/West_Falmouth,_Massachusetts"
+        ]
+    ]
+}

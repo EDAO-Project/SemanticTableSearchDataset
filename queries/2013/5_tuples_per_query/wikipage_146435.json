@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Avillers,_Meurthe-et-Moselle",
+            "http://dbpedia.org/resource/Avril,_Meurthe-et-Moselle",
+            "http://dbpedia.org/resource/Baslieux",
+            "http://dbpedia.org/resource/Batilly,_Meurthe-et-Moselle"
+        ],
+        [
+            "http://dbpedia.org/resource/Bazailles",
+            "http://dbpedia.org/resource/Bettainvillers",
+            "http://dbpedia.org/resource/Beuveille",
+            "http://dbpedia.org/resource/Beuvillers,_Meurthe-et-Moselle"
+        ],
+        [
+            "http://dbpedia.org/resource/Boismont,_Meurthe-et-Moselle",
+            "http://dbpedia.org/resource/Boncourt,_Meurthe-et-Moselle",
+            "http://dbpedia.org/resource/Brainville,_Meurthe-et-Moselle",
+            "http://dbpedia.org/resource/Briey"
+        ],
+        [
+            "http://dbpedia.org/resource/Cons-la-Grandville",
+            "http://dbpedia.org/resource/Cosnes-et-Romain",
+            "http://dbpedia.org/resource/Crusnes",
+            "http://dbpedia.org/resource/Cutry,_Meurthe-et-Moselle"
+        ],
+        [
+            "http://dbpedia.org/resource/Friauville",
+            "http://dbpedia.org/resource/Giraumont,_Meurthe-et-Moselle",
+            "http://dbpedia.org/resource/Gondrecourt-Aix",
+            "http://dbpedia.org/resource/Gorcy"
+        ]
+    ]
+}

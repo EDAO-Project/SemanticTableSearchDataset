@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Hideki_Okajima",
+            "http://dbpedia.org/resource/Chan_Ho_Park",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Alfredo_Aceves",
+            "http://dbpedia.org/resource/Hideki_Okajima",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_New_York_Yankees_season",
+            "http://dbpedia.org/resource/Chan_Ho_Park",
+            "http://dbpedia.org/resource/Jonathan_Papelbon",
+            "http://dbpedia.org/resource/Mariano_Rivera"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Kansas_City_Royals_season",
+            "http://dbpedia.org/resource/Clay_Buchholz",
+            "http://dbpedia.org/resource/Gil_Meche",
+            "http://dbpedia.org/resource/Jonathan_Papelbon"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/Carl_Pavano",
+            "http://dbpedia.org/resource/Jon_Lester",
+            "http://dbpedia.org/resource/Jon_Rauch"
+        ]
+    ]
+}

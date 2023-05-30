@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/Rick_Jeanneret",
+            "http://dbpedia.org/resource/Rob_Ray",
+            "http://dbpedia.org/resource/Sabres_Hockey_Network"
+        ]
+    ]
+}

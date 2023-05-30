@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1957_Major_League_Baseball_season",
+            "http://dbpedia.org/resource/Frank_Malzone",
+            "http://dbpedia.org/resource/Boston_Red_Sox"
+        ]
+    ]
+}

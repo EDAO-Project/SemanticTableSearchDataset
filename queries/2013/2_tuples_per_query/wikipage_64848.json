@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aalen_station",
+            "http://dbpedia.org/resource/Aalen",
+            "http://dbpedia.org/resource/Brenz_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Albbruck_station",
+            "http://dbpedia.org/resource/Albbruck",
+            "http://dbpedia.org/resource/Upper_Rhine_Railway"
+        ]
+    ]
+}

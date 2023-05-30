@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yad_Vashem",
+            "http://dbpedia.org/resource/Jerusalem",
+            "http://dbpedia.org/resource/The_Holocaust"
+        ],
+        [
+            "http://dbpedia.org/resource/Heichal_Shlomo",
+            "http://dbpedia.org/resource/Jerusalem",
+            "http://dbpedia.org/resource/Jewish_ceremonial_art"
+        ]
+    ]
+}

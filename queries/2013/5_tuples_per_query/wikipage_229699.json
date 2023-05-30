@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sam_Wadsworth",
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/KNVB_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Bram_Appel",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Eredivisie"
+        ],
+        [
+            "http://dbpedia.org/resource/Kees_Rijvers",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Eredivisie"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Reker",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Eredivisie"
+        ],
+        [
+            "http://dbpedia.org/resource/Guus_Hiddink",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Eredivisie"
+        ]
+    ]
+}

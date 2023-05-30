@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chamrousse",
+            "http://dbpedia.org/resource/Chantelouve",
+            "http://dbpedia.org/resource/Chantesse",
+            "http://dbpedia.org/resource/Chapareillan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chichilianne",
+            "http://dbpedia.org/resource/Chirens",
+            "http://dbpedia.org/resource/Cholonge",
+            "http://dbpedia.org/resource/Choranche"
+        ]
+    ]
+}

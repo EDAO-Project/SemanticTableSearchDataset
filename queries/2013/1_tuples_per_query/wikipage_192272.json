@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andover_Newton_Theological_School",
+            "http://dbpedia.org/resource/Newton,_Massachusetts",
+            "http://dbpedia.org/resource/Nonprofit_organization",
+            "http://dbpedia.org/resource/Carnegie_Classification_of_Institutions_of_Higher_Education"
+        ]
+    ]
+}

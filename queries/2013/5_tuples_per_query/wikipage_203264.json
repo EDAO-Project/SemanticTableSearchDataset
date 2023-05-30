@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/3D_Realms",
+            "http://dbpedia.org/resource/Garland,_Texas",
+            "http://dbpedia.org/resource/Duke_Nukem",
+            "http://dbpedia.org/resource/Apogee_Software"
+        ],
+        [
+            "http://dbpedia.org/resource/Acclaim_Entertainment",
+            "http://dbpedia.org/resource/Glen_Cove,_New_York",
+            "http://dbpedia.org/resource/Turok",
+            "http://dbpedia.org/resource/Acclaim_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Activision",
+            "http://dbpedia.org/resource/Santa_Monica,_California",
+            "http://dbpedia.org/resource/Call_of_Duty",
+            "http://dbpedia.org/resource/Neversoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Atari,_SA",
+            "http://dbpedia.org/resource/New_York",
+            "http://dbpedia.org/resource/Enter_the_Matrix",
+            "http://dbpedia.org/resource/GT_Interactive_Software"
+        ],
+        [
+            "http://dbpedia.org/resource/Bullet-Proof_Software",
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Tetris",
+            "http://dbpedia.org/resource/Blue_Planet_Software"
+        ]
+    ]
+}

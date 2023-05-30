@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Intel_8008",
+            "http://dbpedia.org/resource/Intel",
+            "http://dbpedia.org/resource/PMOS_logic"
+        ]
+    ]
+}

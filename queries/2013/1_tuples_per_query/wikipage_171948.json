@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Guangzhou_Railway_Station",
+            "http://dbpedia.org/resource/Line_1,_Guangzhou_Metro",
+            "http://dbpedia.org/resource/Yuexiu_District"
+        ]
+    ]
+}

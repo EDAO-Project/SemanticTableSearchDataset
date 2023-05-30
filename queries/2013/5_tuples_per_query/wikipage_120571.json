@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonathan_Drouin",
+            "http://dbpedia.org/resource/Halifax_Mooseheads",
+            "http://dbpedia.org/resource/2013_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Tampa_Bay_Lightning"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikhail_Grigorenko",
+            "http://dbpedia.org/resource/Quebec_Remparts",
+            "http://dbpedia.org/resource/2012_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ],
+        [
+            "http://dbpedia.org/resource/Sean_Couturier",
+            "http://dbpedia.org/resource/Drummondville_Voltigeurs",
+            "http://dbpedia.org/resource/2011_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Philadelphia_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandon_Gormley",
+            "http://dbpedia.org/resource/Moncton_Wildcats",
+            "http://dbpedia.org/resource/2010_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Arizona_Coyotes"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikhail_Stefanovich",
+            "http://dbpedia.org/resource/Quebec_Remparts",
+            "http://dbpedia.org/resource/2008_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs"
+        ]
+    ]
+}

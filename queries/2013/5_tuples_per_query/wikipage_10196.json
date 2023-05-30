@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Andy_Benes",
+            "http://dbpedia.org/resource/Darryl_Kile",
+            "http://dbpedia.org/resource/Gregg_Olson"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Anaheim_Angels_season",
+            "http://dbpedia.org/resource/Omar_Olivares",
+            "http://dbpedia.org/resource/Darryl_Kile",
+            "http://dbpedia.org/resource/Troy_Percival"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Texas_Rangers_season",
+            "http://dbpedia.org/resource/Aaron_Sele",
+            "http://dbpedia.org/resource/Pedro_Astacio",
+            "http://dbpedia.org/resource/John_Wetteland"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Los_Angeles_Dodgers_season",
+            "http://dbpedia.org/resource/Dave_Mlicki",
+            "http://dbpedia.org/resource/Darryl_Kile",
+            "http://dbpedia.org/resource/Greg_McMichael"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Los_Angeles_Dodgers_season",
+            "http://dbpedia.org/resource/Jamey_Wright",
+            "http://dbpedia.org/resource/Darren_Dreifort",
+            "http://dbpedia.org/resource/Jerry_Dipoto"
+        ]
+    ]
+}

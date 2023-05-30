@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Majed_Abdullah",
+            "http://dbpedia.org/resource/Saudi_Arabia",
+            "http://dbpedia.org/resource/Al-Nassr_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Fritz_Abromeit",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Rot-Weiss_Essen"
+        ],
+        [
+            "http://dbpedia.org/resource/Ermanno_Aebi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Ilshat_Aitkulov",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/FC_Gazovik_Orenburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Igor_Akinfeev",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/PFC_CSKA_Moscow"
+        ]
+    ]
+}

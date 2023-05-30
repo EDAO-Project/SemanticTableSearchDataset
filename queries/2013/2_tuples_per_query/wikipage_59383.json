@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bear_Stearns",
+            "http://dbpedia.org/resource/JPMorgan_Chase",
+            "http://dbpedia.org/resource/Investment_banking"
+        ],
+        [
+            "http://dbpedia.org/resource/Catholic_Building_Society",
+            "http://dbpedia.org/resource/Chelsea_Building_Society",
+            "http://dbpedia.org/resource/Building_society"
+        ]
+    ]
+}

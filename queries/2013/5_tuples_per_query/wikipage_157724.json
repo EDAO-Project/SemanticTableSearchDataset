@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/1999_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/1999_Florida_State_Seminoles_football_team",
+            "http://dbpedia.org/resource/Ron_Dayne"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/2000_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/2000_Oklahoma_Sooners_football_team",
+            "http://dbpedia.org/resource/Chris_Weinke"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/2002_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/2002_Ohio_State_Buckeyes_football_team",
+            "http://dbpedia.org/resource/Carson_Palmer"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/2004_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/2004_USC_Trojans_football_team",
+            "http://dbpedia.org/resource/Matt_Leinart"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_NCAA_Division_I-A_football_season",
+            "http://dbpedia.org/resource/2005_Boise_State_Broncos_football_team",
+            "http://dbpedia.org/resource/2005_Texas_Longhorns_football_team",
+            "http://dbpedia.org/resource/Reggie_Bush"
+        ]
+    ]
+}

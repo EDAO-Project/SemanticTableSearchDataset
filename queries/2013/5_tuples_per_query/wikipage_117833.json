@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_Kingdom_general_election,_1892",
+            "http://dbpedia.org/resource/Thomas_Bartholomew_Curran",
+            "http://dbpedia.org/resource/Irish_National_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Kingdom_general_election,_1895",
+            "http://dbpedia.org/resource/William_Wentworth-Fitzwilliam,_7th_Earl_Fitzwilliam",
+            "http://dbpedia.org/resource/Liberal_Unionist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Tipperary_by-election,_1915",
+            "http://dbpedia.org/resource/Sir_John_Esmonde,_14th_Baronet",
+            "http://dbpedia.org/resource/Irish_Parliamentary_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Louth_by-election,_1916",
+            "http://dbpedia.org/resource/Patrick_Whitty",
+            "http://dbpedia.org/resource/Irish_Parliamentary_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Isle_of_Thanet_by-election,_1919",
+            "http://dbpedia.org/resource/Esmond_Harmsworth,_2nd_Viscount_Rothermere",
+            "http://dbpedia.org/resource/Coalition_Coupon"
+        ]
+    ]
+}

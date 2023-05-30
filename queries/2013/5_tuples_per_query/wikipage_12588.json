@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Meishin_Expressway",
+            "http://dbpedia.org/resource/Maibara,_Shiga",
+            "http://dbpedia.org/resource/Shiga_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan_National_Route_21",
+            "http://dbpedia.org/resource/Maibara,_Shiga",
+            "http://dbpedia.org/resource/Shiga_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan_National_Route_8",
+            "http://dbpedia.org/resource/Nagahama,_Shiga",
+            "http://dbpedia.org/resource/Shiga_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan_National_Route_8",
+            "http://dbpedia.org/resource/Tsuruga,_Fukui",
+            "http://dbpedia.org/resource/Fukui_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan_National_Route_365",
+            "http://dbpedia.org/resource/Minamiechizen,_Fukui",
+            "http://dbpedia.org/resource/Fukui_Prefecture"
+        ]
+    ]
+}

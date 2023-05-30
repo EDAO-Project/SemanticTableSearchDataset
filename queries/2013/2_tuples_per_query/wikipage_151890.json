@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_tallest_buildings_in_Hong_Kong",
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/International_Commerce_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_tallest_buildings_in_China",
+            "http://dbpedia.org/resource/Shanghai",
+            "http://dbpedia.org/resource/Shanghai_World_Financial_Center"
+        ]
+    ]
+}

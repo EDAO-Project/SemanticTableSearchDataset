@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armen_Nazaryan",
+            "http://dbpedia.org/resource/1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Wrestling_at_the_1996_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Armen_Mkrtchyan",
+            "http://dbpedia.org/resource/1996_Summer_Olympics",
+            "http://dbpedia.org/resource/Wrestling_at_the_1996_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Arsen_Melikyan",
+            "http://dbpedia.org/resource/2000_Summer_Olympics",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Roman_Amoyan",
+            "http://dbpedia.org/resource/2008_Summer_Olympics",
+            "http://dbpedia.org/resource/Wrestling_at_the_2008_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Tigran_Gevorg_Martirosyan",
+            "http://dbpedia.org/resource/2008_Summer_Olympics",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2008_Summer_Olympics"
+        ]
+    ]
+}

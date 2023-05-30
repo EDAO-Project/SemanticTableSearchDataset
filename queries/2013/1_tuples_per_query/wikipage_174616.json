@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Virginia_Senate,_District_1",
+            "http://dbpedia.org/resource/Marty_Williams",
+            "http://dbpedia.org/resource/Virginia_State_Senate_elections,_1995",
+            "http://dbpedia.org/resource/Marty_Williams"
+        ]
+    ]
+}

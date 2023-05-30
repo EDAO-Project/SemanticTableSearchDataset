@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clown_triggerfish",
+            "http://dbpedia.org/resource/Tetraodontiformes",
+            "http://dbpedia.org/resource/Triggerfish"
+        ],
+        [
+            "http://dbpedia.org/resource/Threadfin_butterflyfish",
+            "http://dbpedia.org/resource/Triggerfish",
+            "http://dbpedia.org/resource/Butterflyfish"
+        ],
+        [
+            "http://dbpedia.org/resource/Raccoon_butterflyfish",
+            "http://dbpedia.org/resource/Perciformes",
+            "http://dbpedia.org/resource/Butterflyfish"
+        ],
+        [
+            "http://dbpedia.org/resource/Red_lionfish",
+            "http://dbpedia.org/resource/Scorpaeniformes",
+            "http://dbpedia.org/resource/Scorpaenidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Canthigaster_margaritata",
+            "http://dbpedia.org/resource/Tetraodontiformes",
+            "http://dbpedia.org/resource/Tetraodontidae"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spice_Girls",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Pop_music"
+        ]
+    ]
+}

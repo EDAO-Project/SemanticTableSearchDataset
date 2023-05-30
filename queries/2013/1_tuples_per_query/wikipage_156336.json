@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_24_Hours_of_Le_Mans",
+            "http://dbpedia.org/resource/Tom_Kristensen",
+            "http://dbpedia.org/resource/Joest_Racing",
+            "http://dbpedia.org/resource/Audi_R18",
+            "http://dbpedia.org/resource/Michelin"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cheyney_University_of_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_State_Athletic_Conference",
+            "http://dbpedia.org/resource/Cheyney,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania"
+        ]
+    ]
+}

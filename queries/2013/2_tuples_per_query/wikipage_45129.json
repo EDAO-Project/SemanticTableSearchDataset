@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_NBA_draft",
+            "http://dbpedia.org/resource/JaJuan_Johnson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Purdue_University"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_NBA_draft",
+            "http://dbpedia.org/resource/Jordan_Williams",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/University_of_Maryland,_College_Park"
+        ]
+    ]
+}

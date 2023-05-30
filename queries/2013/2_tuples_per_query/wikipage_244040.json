@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/East_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/West_Germany",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

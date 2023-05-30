@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Surtees",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/MV_Agusta"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Hartle",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/MV_Agusta"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Hocking",
+            "http://dbpedia.org/resource/Rhodesia",
+            "http://dbpedia.org/resource/Norton_Motorcycle_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoff_Duke",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Norton_Motorcycle_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Remo_Venturi",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/MV_Agusta"
+        ]
+    ]
+}

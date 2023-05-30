@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Louise_Suggs_Invitational",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Marilynn_Smith"
+        ],
+        [
+            "http://dbpedia.org/resource/Venice_Ladies_Open",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Mickey_Wright"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jongmyo_jerye",
+            "http://dbpedia.org/resource/Jongmyo",
+            "http://dbpedia.org/resource/Seoul"
+        ]
+    ]
+}

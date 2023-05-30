@@ -1,0 +1,13 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Indiana_Fever",
+            "http://dbpedia.org/resource/Atlanta_Dream",
+            "http://dbpedia.org/resource/NBA_TV",
+            "http://dbpedia.org/resource/Tamika_Catchings",
+            "http://dbpedia.org/resource/Jessica_Davenport",
+            "http://dbpedia.org/resource/Shalee_Lehning",
+            "http://dbpedia.org/resource/Philips_Arena"
+        ]
+    ]
+}

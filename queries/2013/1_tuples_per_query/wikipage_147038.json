@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brigidine_College,_St_Ives",
+            "http://dbpedia.org/resource/St_Ives,_New_South_Wales",
+            "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Broken_Bay",
+            "http://dbpedia.org/resource/Brigidine_Sisters"
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berlin",
+            "http://dbpedia.org/resource/Christine_Nesbitt",
+            "http://dbpedia.org/resource/Shannon_Rempel",
+            "http://dbpedia.org/resource/Laurine_van_Riessen"
+        ]
+    ]
+}

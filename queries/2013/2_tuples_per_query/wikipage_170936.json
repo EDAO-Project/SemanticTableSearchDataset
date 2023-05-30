@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Hungary",
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

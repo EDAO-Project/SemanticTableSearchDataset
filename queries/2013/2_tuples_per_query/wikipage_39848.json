@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/50_Cent:_Blood_on_the_Sand",
+            "http://dbpedia.org/resource/Third-person_shooter",
+            "http://dbpedia.org/resource/Xbox_360",
+            "http://dbpedia.org/resource/Swordfish_Studios",
+            "http://dbpedia.org/resource/Vivendi_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/APB:_All_Points_Bulletin",
+            "http://dbpedia.org/resource/Massively_multiplayer_online_game",
+            "http://dbpedia.org/resource/Microsoft_Windows",
+            "http://dbpedia.org/resource/Realtime_Worlds",
+            "http://dbpedia.org/resource/Electronic_Arts"
+        ]
+    ]
+}

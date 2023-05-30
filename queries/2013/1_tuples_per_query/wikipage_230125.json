@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Walter_Oesau",
+            "http://dbpedia.org/resource/Luftwaffe",
+            "http://dbpedia.org/resource/Hauptmann",
+            "http://dbpedia.org/resource/Gruppenkommandeur"
+        ]
+    ]
+}

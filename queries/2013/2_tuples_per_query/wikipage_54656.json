@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Luzhniki_Stadium",
+            "http://dbpedia.org/resource/Moscow",
+            "http://dbpedia.org/resource/FC_Spartak_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/Kazan_Arena",
+            "http://dbpedia.org/resource/Kazan",
+            "http://dbpedia.org/resource/FC_Rubin_Kazan"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pope_Vigilius",
+            "http://dbpedia.org/resource/Justinian_I",
+            "http://dbpedia.org/resource/Menas_of_Constantinople"
+        ],
+        [
+            "http://dbpedia.org/resource/Pope_Vigilius",
+            "http://dbpedia.org/resource/Justinian_I",
+            "http://dbpedia.org/resource/Eutychius_of_Constantinople"
+        ]
+    ]
+}

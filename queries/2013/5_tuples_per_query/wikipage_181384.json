@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emmanuel_Agyemang-Badu",
+            "http://dbpedia.org/resource/Ghana_Football_Association",
+            "http://dbpedia.org/resource/2013_Africa_Cup_of_Nations_Group_B"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Obi_Mikel",
+            "http://dbpedia.org/resource/Nigeria_Football_Federation",
+            "http://dbpedia.org/resource/2013_Africa_Cup_of_Nations_knockout_stage"
+        ],
+        [
+            "http://dbpedia.org/resource/Saladin_Said",
+            "http://dbpedia.org/resource/Ethiopian_Football_Federation",
+            "http://dbpedia.org/resource/2013_Africa_Cup_of_Nations_Group_C"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Atsu",
+            "http://dbpedia.org/resource/Ghana_Football_Association",
+            "http://dbpedia.org/resource/2013_Africa_Cup_of_Nations_Group_B"
+        ],
+        [
+            "http://dbpedia.org/resource/Fatau_Dauda",
+            "http://dbpedia.org/resource/Ghana_Football_Association",
+            "http://dbpedia.org/resource/2013_Africa_Cup_of_Nations_knockout_stage"
+        ]
+    ]
+}

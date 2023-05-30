@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Parramatta_Eels",
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Jerome_Ropati",
+            "http://dbpedia.org/resource/James_Maloney"
+        ]
+    ]
+}

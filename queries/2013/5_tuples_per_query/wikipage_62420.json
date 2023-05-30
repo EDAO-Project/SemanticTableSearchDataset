@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joseph_Rosati",
+            "http://dbpedia.org/resource/Peter_Richard_Kenrick",
+            "http://dbpedia.org/resource/John_Joseph_Kain"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Richard_Kenrick",
+            "http://dbpedia.org/resource/John_Joseph_Kain",
+            "http://dbpedia.org/resource/John_J._Glennon"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Joseph_Kain",
+            "http://dbpedia.org/resource/John_J._Glennon",
+            "http://dbpedia.org/resource/Joseph_Ritter"
+        ],
+        [
+            "http://dbpedia.org/resource/John_J._Glennon",
+            "http://dbpedia.org/resource/Joseph_Ritter",
+            "http://dbpedia.org/resource/John_Carberry"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_Ritter",
+            "http://dbpedia.org/resource/John_Carberry",
+            "http://dbpedia.org/resource/John_L._May"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jonas_Gustavsson",
+            "http://dbpedia.org/resource/Detroit_Red_Wings",
+            "http://dbpedia.org/resource/Winnipeg_Jets"
+        ]
+    ]
+}

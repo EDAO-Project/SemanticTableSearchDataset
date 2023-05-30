@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belcastel,_Tarn",
+            "http://dbpedia.org/resource/Belleserre",
+            "http://dbpedia.org/resource/Berlats",
+            "http://dbpedia.org/resource/Bertre"
+        ],
+        [
+            "http://dbpedia.org/resource/Blan",
+            "http://dbpedia.org/resource/Boissezon",
+            "http://dbpedia.org/resource/Bout-du-Pont-de-Larn",
+            "http://dbpedia.org/resource/Brassac,_Tarn"
+        ]
+    ]
+}

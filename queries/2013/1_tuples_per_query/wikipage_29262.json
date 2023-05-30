@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alfie_Darling",
+            "http://dbpedia.org/resource/Ken_Hughes",
+            "http://dbpedia.org/resource/Alan_Price"
+        ]
+    ]
+}

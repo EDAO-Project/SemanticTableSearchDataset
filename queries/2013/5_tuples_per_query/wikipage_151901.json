@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Chronicles_of_Amber",
+            "http://dbpedia.org/resource/Nine_Princes_in_Amber",
+            "http://dbpedia.org/resource/Roger_Zelazny",
+            "http://dbpedia.org/resource/Multiverse"
+        ],
+        [
+            "http://dbpedia.org/resource/Amtor",
+            "http://dbpedia.org/resource/Pirates_of_Venus",
+            "http://dbpedia.org/resource/Edgar_Rice_Burroughs",
+            "http://dbpedia.org/resource/Venus"
+        ],
+        [
+            "http://dbpedia.org/resource/Barsoom",
+            "http://dbpedia.org/resource/A_Princess_of_Mars",
+            "http://dbpedia.org/resource/Edgar_Rice_Burroughs",
+            "http://dbpedia.org/resource/Mars"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Culture",
+            "http://dbpedia.org/resource/Consider_Phlebas",
+            "http://dbpedia.org/resource/Iain_Banks",
+            "http://dbpedia.org/resource/Culture_series"
+        ],
+        [
+            "http://dbpedia.org/resource/Darkover",
+            "http://dbpedia.org/resource/The_Planet_Savers",
+            "http://dbpedia.org/resource/Marion_Zimmer_Bradley",
+            "http://dbpedia.org/resource/Darkover_series"
+        ]
+    ]
+}

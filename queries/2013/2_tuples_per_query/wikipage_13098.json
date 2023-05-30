@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/U.S._Route_20",
+            "http://dbpedia.org/resource/U.S._Route_23_in_Ohio",
+            "http://dbpedia.org/resource/Toledo,_Ohio",
+            "http://dbpedia.org/resource/Perrysburg,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Route_20",
+            "http://dbpedia.org/resource/Ohio_State_Route_2",
+            "http://dbpedia.org/resource/Woodville,_Ohio",
+            "http://dbpedia.org/resource/Pennsylvania"
+        ]
+    ]
+}

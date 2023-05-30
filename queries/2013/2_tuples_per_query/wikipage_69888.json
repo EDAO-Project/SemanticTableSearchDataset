@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Twist_and_Shout",
+            "http://dbpedia.org/resource/Please_Please_Me",
+            "http://dbpedia.org/resource/The_Isley_Brothers"
+        ],
+        [
+            "http://dbpedia.org/resource/Till_There_Was_You",
+            "http://dbpedia.org/resource/With_the_Beatles",
+            "http://dbpedia.org/resource/Barbara_Cook"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Detroit_Pistons",
+            "http://dbpedia.org/resource/Dick_Van_Arsdale",
+            "http://dbpedia.org/resource/Arizona_Veterans_Memorial_Coliseum"
+        ]
+    ]
+}

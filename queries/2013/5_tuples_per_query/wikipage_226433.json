@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_Ackroyd",
+            "http://dbpedia.org/resource/Royal_Army_Medical_Corps",
+            "http://dbpedia.org/resource/Ypres"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Adlam",
+            "http://dbpedia.org/resource/Bedfordshire_and_Hertfordshire_Regiment",
+            "http://dbpedia.org/resource/Thiepval"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernest_Alexander",
+            "http://dbpedia.org/resource/Royal_Field_Artillery",
+            "http://dbpedia.org/resource/Action_of_Elouges"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Amey",
+            "http://dbpedia.org/resource/Royal_Warwickshire_Regiment",
+            "http://dbpedia.org/resource/Landrecies"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Herbert_Anderson",
+            "http://dbpedia.org/resource/Highland_Light_Infantry",
+            "http://dbpedia.org/resource/Maricourt"
+        ]
+    ]
+}

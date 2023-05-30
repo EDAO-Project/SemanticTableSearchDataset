@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manuel_Lanzarote",
+            "http://dbpedia.org/resource/CE_Sabadell_FC",
+            "http://dbpedia.org/resource/RCD_Espanyol"
+        ],
+        [
+            "http://dbpedia.org/resource/Diego_Mainz",
+            "http://dbpedia.org/resource/Granada_CF",
+            "http://dbpedia.org/resource/Udinese_Calcio"
+        ]
+    ]
+}

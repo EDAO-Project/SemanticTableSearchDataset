@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amelung_House_and_Glassworks",
+            "http://dbpedia.org/resource/U.S._Route_240",
+            "http://dbpedia.org/resource/Urbana,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Brunswick_Historic_District",
+            "http://dbpedia.org/resource/Potomac_River",
+            "http://dbpedia.org/resource/Brunswick,_Maryland"
+        ]
+    ]
+}

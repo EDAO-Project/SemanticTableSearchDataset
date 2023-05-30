@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Herman_Albrecht",
+            "http://dbpedia.org/resource/Light_Horse_Regiment",
+            "http://dbpedia.org/resource/Relief_of_Ladysmith"
+        ],
+        [
+            "http://dbpedia.org/resource/Alfred_Atkinson",
+            "http://dbpedia.org/resource/Yorkshire_Regiment",
+            "http://dbpedia.org/resource/Battle_of_Paardeberg"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Babtie",
+            "http://dbpedia.org/resource/Royal_Army_Medical_Corps",
+            "http://dbpedia.org/resource/Battle_of_Colenso"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Bees",
+            "http://dbpedia.org/resource/Sherwood_Foresters",
+            "http://dbpedia.org/resource/Moedwil"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_Churchill_Beet",
+            "http://dbpedia.org/resource/Sherwood_Foresters",
+            "http://dbpedia.org/resource/Wakkerstroom"
+        ]
+    ]
+}

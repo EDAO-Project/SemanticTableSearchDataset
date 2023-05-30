@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Penny_Taylor",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Phoenix_Mercury",
+            "http://dbpedia.org/resource/Cleveland_Rockers"
+        ],
+        [
+            "http://dbpedia.org/resource/Chasity_Melvin",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Washington_Mystics",
+            "http://dbpedia.org/resource/Cleveland_Rockers"
+        ],
+        [
+            "http://dbpedia.org/resource/LaToya_Thomas",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/San_Antonio_Stars",
+            "http://dbpedia.org/resource/Cleveland_Rockers"
+        ],
+        [
+            "http://dbpedia.org/resource/Ann_Wauters",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/New_York_Liberty",
+            "http://dbpedia.org/resource/Cleveland_Rockers"
+        ],
+        [
+            "http://dbpedia.org/resource/Deanna_Jackson",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Indiana_Fever",
+            "http://dbpedia.org/resource/Cleveland_Rockers"
+        ]
+    ]
+}

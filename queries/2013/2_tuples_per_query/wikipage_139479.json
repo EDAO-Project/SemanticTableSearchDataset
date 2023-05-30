@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mao_Asada",
+            "http://dbpedia.org/resource/Ashley_Wagner",
+            "http://dbpedia.org/resource/Elena_Radionova"
+        ],
+        [
+            "http://dbpedia.org/resource/Yulia_Lipnitskaya",
+            "http://dbpedia.org/resource/Akiko_Suzuki",
+            "http://dbpedia.org/resource/Gracie_Gold"
+        ]
+    ]
+}

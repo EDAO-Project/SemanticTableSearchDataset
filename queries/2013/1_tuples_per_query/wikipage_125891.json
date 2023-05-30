@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Houston_Rockets",
+            "http://dbpedia.org/resource/Charlie_Scott",
+            "http://dbpedia.org/resource/Hofheinz_Pavilion"
+        ]
+    ]
+}

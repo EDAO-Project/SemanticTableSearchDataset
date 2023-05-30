@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appalachian_State_Mountaineers",
+            "http://dbpedia.org/resource/Appalachian_State_University",
+            "http://dbpedia.org/resource/Boone,_North_Carolina",
+            "http://dbpedia.org/resource/Southern_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Campbell_Fighting_Camels_and_Lady_Camels",
+            "http://dbpedia.org/resource/Campbell_University",
+            "http://dbpedia.org/resource/Buies_Creek,_North_Carolina",
+            "http://dbpedia.org/resource/Atlantic_Sun_Conference"
+        ]
+    ]
+}

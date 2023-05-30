@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Airdrie,_Alberta",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Scottish_Gaelic",
+            "http://dbpedia.org/resource/Airdrie,_North_Lanarkshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Barrie",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/English_language",
+            "http://dbpedia.org/resource/Robert_Barrie"
+        ],
+        [
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Scottish_Gaelic",
+            "http://dbpedia.org/resource/Calgary,_Mull"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlottetown",
+            "http://dbpedia.org/resource/Prince_Edward_Island",
+            "http://dbpedia.org/resource/German_language",
+            "http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz"
+        ],
+        [
+            "http://dbpedia.org/resource/Medicine_Hat",
+            "http://dbpedia.org/resource/Alberta",
+            "http://dbpedia.org/resource/Blackfoot_language",
+            "http://dbpedia.org/resource/Headgear"
+        ]
+    ]
+}

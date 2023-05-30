@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_York_Jets",
+            "http://dbpedia.org/resource/Giants_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Bears",
+            "http://dbpedia.org/resource/Tampa_Stadium",
+            "http://dbpedia.org/resource/NFL_on_CBS"
+        ]
+    ]
+}

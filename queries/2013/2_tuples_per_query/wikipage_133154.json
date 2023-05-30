@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alan_Wake",
+            "http://dbpedia.org/resource/Remedy_Entertainment",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ],
+        [
+            "http://dbpedia.org/resource/Alice:_Madness_Returns",
+            "http://dbpedia.org/resource/Spicy_Horse",
+            "http://dbpedia.org/resource/Microsoft_Windows"
+        ]
+    ]
+}

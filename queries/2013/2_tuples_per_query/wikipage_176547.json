@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amqui",
+            "http://dbpedia.org/resource/CFVM-FM",
+            "http://dbpedia.org/resource/Rouge_FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Bathurst,_New_Brunswick",
+            "http://dbpedia.org/resource/CKBC-FM",
+            "http://dbpedia.org/resource/Adult_contemporary_music"
+        ]
+    ]
+}

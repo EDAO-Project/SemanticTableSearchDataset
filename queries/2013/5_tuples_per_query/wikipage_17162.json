@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Prayer_for_Owen_Meany",
+            "http://dbpedia.org/resource/John_Irving",
+            "http://dbpedia.org/resource/Jan_Morris"
+        ],
+        [
+            "http://dbpedia.org/resource/The_English_Patient",
+            "http://dbpedia.org/resource/Michael_Ondaatje",
+            "http://dbpedia.org/resource/Anthony_Minghella"
+        ],
+        [
+            "http://dbpedia.org/resource/Snow_Falling_on_Cedars",
+            "http://dbpedia.org/resource/David_Guterson",
+            "http://dbpedia.org/resource/Nicholas_Evans"
+        ],
+        [
+            "http://dbpedia.org/resource/Fugitive_Pieces",
+            "http://dbpedia.org/resource/Anne_Michaels",
+            "http://dbpedia.org/resource/Carol_Ann_Duffy"
+        ],
+        [
+            "http://dbpedia.org/resource/Easy_Riders,_Raging_Bulls",
+            "http://dbpedia.org/resource/Peter_Biskind",
+            "http://dbpedia.org/resource/Hari_Kunzru"
+        ]
+    ]
+}

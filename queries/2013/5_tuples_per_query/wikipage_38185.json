@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1939_college_football_season",
+            "http://dbpedia.org/resource/Nile_Kinnick",
+            "http://dbpedia.org/resource/University_of_Iowa",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/1943_college_football_season",
+            "http://dbpedia.org/resource/Angelo_Bertelli",
+            "http://dbpedia.org/resource/University_of_Notre_Dame",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/1944_college_football_season",
+            "http://dbpedia.org/resource/Les_Horvath",
+            "http://dbpedia.org/resource/Ohio_State_University",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/1947_college_football_season",
+            "http://dbpedia.org/resource/Johnny_Lujack",
+            "http://dbpedia.org/resource/University_of_Notre_Dame",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_college_football_season",
+            "http://dbpedia.org/resource/Paul_Hornung",
+            "http://dbpedia.org/resource/University_of_Notre_Dame",
+            "http://dbpedia.org/resource/Quarterback"
+        ]
+    ]
+}

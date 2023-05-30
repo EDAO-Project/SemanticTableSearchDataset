@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ryan_Lochte",
+            "http://dbpedia.org/resource/Danila_Izotov",
+            "http://dbpedia.org/resource/Oussama_Mellouli"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Biedermann",
+            "http://dbpedia.org/resource/Nikita_Lobintsev",
+            "http://dbpedia.org/resource/Oussama_Mellouli"
+        ]
+    ]
+}

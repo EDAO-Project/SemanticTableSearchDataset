@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bergen",
+            "http://dbpedia.org/resource/Hordaland",
+            "http://dbpedia.org/resource/Norway"
+        ],
+        [
+            "http://dbpedia.org/resource/Tashkent",
+            "http://dbpedia.org/resource/Tashkent_Region",
+            "http://dbpedia.org/resource/Uzbekistan"
+        ]
+    ]
+}

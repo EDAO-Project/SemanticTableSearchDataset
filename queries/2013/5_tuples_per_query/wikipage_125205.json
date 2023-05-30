@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shadow_Dancer",
+            "http://dbpedia.org/resource/1989_in_video_gaming",
+            "http://dbpedia.org/resource/Arcade_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Shadow_Dancer:_The_Secret_of_Shinobi",
+            "http://dbpedia.org/resource/1990_in_video_gaming",
+            "http://dbpedia.org/resource/Sega_Genesis"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Revenge_of_Shinobi",
+            "http://dbpedia.org/resource/1989_in_video_gaming",
+            "http://dbpedia.org/resource/Sega_Genesis"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Cyber_Shinobi",
+            "http://dbpedia.org/resource/1990_in_video_gaming",
+            "http://dbpedia.org/resource/Master_System"
+        ],
+        [
+            "http://dbpedia.org/resource/The_G.G._Shinobi",
+            "http://dbpedia.org/resource/1991_in_video_gaming",
+            "http://dbpedia.org/resource/Sega_Game_Gear"
+        ]
+    ]
+}

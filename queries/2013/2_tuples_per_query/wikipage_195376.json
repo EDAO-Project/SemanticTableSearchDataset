@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Muay_Thai_at_the_2013_World_Combat_Games",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Ukraine"
+        ],
+        [
+            "http://dbpedia.org/resource/Muay_Thai_at_the_2013_World_Combat_Games",
+            "http://dbpedia.org/resource/Thailand",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/South_Korea"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnny_Cecotto",
+            "http://dbpedia.org/resource/Schnitzer_Motorsport",
+            "http://dbpedia.org/resource/BMW_M3"
+        ]
+    ]
+}

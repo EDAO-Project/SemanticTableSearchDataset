@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_League",
+            "http://dbpedia.org/resource/Crusaders_Rugby_League",
+            "http://dbpedia.org/resource/Leeds_Rhinos",
+            "http://dbpedia.org/resource/Racecourse_Ground"
+        ]
+    ]
+}

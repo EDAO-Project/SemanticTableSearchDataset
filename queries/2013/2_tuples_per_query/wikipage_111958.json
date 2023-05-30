@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Baca",
+            "http://dbpedia.org/resource/United_States_Army",
+            "http://dbpedia.org/resource/San_Diego"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_E._Ballard",
+            "http://dbpedia.org/resource/United_States_Navy",
+            "http://dbpedia.org/resource/Grain_Valley,_Missouri"
+        ]
+    ]
+}

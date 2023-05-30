@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Lok_Sabha",
+            "http://dbpedia.org/resource/Mukund_Lal_Agrawal",
+            "http://dbpedia.org/resource/Indian_National_Congress",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ]
+    ]
+}

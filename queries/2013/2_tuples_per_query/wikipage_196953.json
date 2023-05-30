@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Third_Texas_Legislature",
+            "http://dbpedia.org/resource/Matthias_Ward",
+            "http://dbpedia.org/resource/Bowie_County,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/Seventeenth_Texas_Legislature",
+            "http://dbpedia.org/resource/Samuel_B._Cooper",
+            "http://dbpedia.org/resource/Chambers_County,_Texas"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/College_of_Charleston_Cougars",
+            "http://dbpedia.org/resource/College_of_Charleston",
+            "http://dbpedia.org/resource/Charleston,_South_Carolina",
+            "http://dbpedia.org/resource/Colonial_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Charleston_Southern_Buccaneers",
+            "http://dbpedia.org/resource/Charleston_Southern_University",
+            "http://dbpedia.org/resource/Charleston,_South_Carolina",
+            "http://dbpedia.org/resource/Big_South_Conference"
+        ]
+    ]
+}

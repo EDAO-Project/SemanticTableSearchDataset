@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Svetlana_Savitskaya",
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/Salyut_7",
+            "http://dbpedia.org/resource/Soyuz_T-7"
+        ],
+        [
+            "http://dbpedia.org/resource/Judith_Resnik",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/STS-51-L",
+            "http://dbpedia.org/resource/STS-41-D"
+        ]
+    ]
+}

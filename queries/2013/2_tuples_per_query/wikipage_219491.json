@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Justin_Hodges",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Billy_Slater"
+        ],
+        [
+            "http://dbpedia.org/resource/Darius_Boyd",
+            "http://dbpedia.org/resource/Rugby_league_positions",
+            "http://dbpedia.org/resource/Matt_Geyer"
+        ]
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barton_Mine",
+            "http://dbpedia.org/resource/Ontario",
+            "http://dbpedia.org/resource/Temagami"
+        ]
+    ]
+}

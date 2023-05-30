@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gail_Devers",
+            "http://dbpedia.org/resource/Irina_Privalova",
+            "http://dbpedia.org/resource/Zhanna_Pintusevich-Block"
+        ],
+        [
+            "http://dbpedia.org/resource/Irina_Privalova",
+            "http://dbpedia.org/resource/Melinda_Gainsford-Taylor",
+            "http://dbpedia.org/resource/Natalya_Pomoshchnikova-Voronova"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandie_Richards",
+            "http://dbpedia.org/resource/Tatyana_Alekseyeva",
+            "http://dbpedia.org/resource/Jearl_Miles_Clark"
+        ],
+        [
+            "http://dbpedia.org/resource/Maria_Mutola",
+            "http://dbpedia.org/resource/Svetlana_Masterkova",
+            "http://dbpedia.org/resource/Joetta_Clark_Diggs"
+        ],
+        [
+            "http://dbpedia.org/resource/Yekaterina_Podkopayeva",
+            "http://dbpedia.org/resource/Violeta_Szekely",
+            "http://dbpedia.org/resource/Sandra_Gasser"
+        ]
+    ]
+}

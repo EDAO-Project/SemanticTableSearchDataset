@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elizabeth_Arden_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Sandra_Palmer"
+        ],
+        [
+            "http://dbpedia.org/resource/Naples_Lely_Classic",
+            "http://dbpedia.org/resource/Florida",
+            "http://dbpedia.org/resource/Carol_Mann"
+        ],
+        [
+            "http://dbpedia.org/resource/Bing_Crosby_International_Classic",
+            "http://dbpedia.org/resource/Mexico",
+            "http://dbpedia.org/resource/Jane_Blalock"
+        ],
+        [
+            "http://dbpedia.org/resource/ANA_Inspiration",
+            "http://dbpedia.org/resource/California",
+            "http://dbpedia.org/resource/Jo_Ann_Prentice"
+        ],
+        [
+            "http://dbpedia.org/resource/Birmingham_Classic",
+            "http://dbpedia.org/resource/Alabama",
+            "http://dbpedia.org/resource/Jane_Blalock"
+        ]
+    ]
+}

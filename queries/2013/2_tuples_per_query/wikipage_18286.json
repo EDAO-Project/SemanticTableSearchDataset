@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Belvidere_Delaware_Railroad",
+            "http://dbpedia.org/resource/Pennsylvania_Railroad",
+            "http://dbpedia.org/resource/United_New_Jersey_Railroad_and_Canal_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/National_Railway",
+            "http://dbpedia.org/resource/Reading_Company",
+            "http://dbpedia.org/resource/Conrail"
+        ]
+    ]
+}

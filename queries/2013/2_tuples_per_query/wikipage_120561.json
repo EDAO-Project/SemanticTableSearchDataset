@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrew_Gaff",
+            "http://dbpedia.org/resource/Oakleigh_Chargers",
+            "http://dbpedia.org/resource/West_Coast_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Caddy",
+            "http://dbpedia.org/resource/Northern_Knights",
+            "http://dbpedia.org/resource/Gold_Coast_Football_Club"
+        ]
+    ]
+}

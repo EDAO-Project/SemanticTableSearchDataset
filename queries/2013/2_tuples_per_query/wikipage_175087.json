@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1996_in_sports",
+            "http://dbpedia.org/resource/Bjarne_Riis",
+            "http://dbpedia.org/resource/Cycle_sport"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_in_sports",
+            "http://dbpedia.org/resource/Wilson_Kipketer",
+            "http://dbpedia.org/resource/Track_and_field"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen",
+            "http://dbpedia.org/resource/Leverkusen",
+            "http://dbpedia.org/resource/BayArena"
+        ],
+        [
+            "http://dbpedia.org/resource/Borussia_Dortmund",
+            "http://dbpedia.org/resource/Dortmund",
+            "http://dbpedia.org/resource/Westfalenstadion"
+        ],
+        [
+            "http://dbpedia.org/resource/Dynamo_Dresden",
+            "http://dbpedia.org/resource/Dresden",
+            "http://dbpedia.org/resource/Stadion_Dresden"
+        ],
+        [
+            "http://dbpedia.org/resource/Eintracht_Frankfurt",
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Commerzbank-Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/SC_Freiburg",
+            "http://dbpedia.org/resource/Freiburg_im_Breisgau",
+            "http://dbpedia.org/resource/Schwarzwald-Stadion"
+        ]
+    ]
+}

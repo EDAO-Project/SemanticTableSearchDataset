@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Niki_Terpstra",
+            "http://dbpedia.org/resource/Laurens_ten_Dam",
+            "http://dbpedia.org/resource/Tom_Veelers"
+        ]
+    ]
+}

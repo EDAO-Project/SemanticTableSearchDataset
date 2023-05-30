@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marc_VDS_Racing_Team",
+            "http://dbpedia.org/resource/Maxime_Martin",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Sumo_Power",
+            "http://dbpedia.org/resource/Peter_Dumbreck",
+            "http://dbpedia.org/resource/Nissan"
+        ],
+        [
+            "http://dbpedia.org/resource/Sumo_Power",
+            "http://dbpedia.org/resource/David_Brabham",
+            "http://dbpedia.org/resource/Nissan"
+        ],
+        [
+            "http://dbpedia.org/resource/Hexis_Racing",
+            "http://dbpedia.org/resource/Stef_Dusseldorp",
+            "http://dbpedia.org/resource/Aston_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Sumo_Power",
+            "http://dbpedia.org/resource/Enrique_Bernoldi",
+            "http://dbpedia.org/resource/Nissan"
+        ]
+    ]
+}

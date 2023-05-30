@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Asian_Football_Confederation",
+            "http://dbpedia.org/resource/Yuichi_Nishimura",
+            "http://dbpedia.org/resource/Japan_Football_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Asian_Football_Confederation",
+            "http://dbpedia.org/resource/Subkhiddin_Mohd_Salleh",
+            "http://dbpedia.org/resource/Chinese_Football_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Asian_Football_Confederation",
+            "http://dbpedia.org/resource/Khalil_Al_Ghamdi",
+            "http://dbpedia.org/resource/Football_Federation_Islamic_Republic_of_Iran"
+        ],
+        [
+            "http://dbpedia.org/resource/Asian_Football_Confederation",
+            "http://dbpedia.org/resource/Ravshan_Irmatov",
+            "http://dbpedia.org/resource/Uzbekistan_Football_Federation"
+        ],
+        [
+            "http://dbpedia.org/resource/Confederation_of_African_Football",
+            "http://dbpedia.org/resource/Eddy_Maillet",
+            "http://dbpedia.org/resource/Tunisian_Football_Federation"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta_Steam",
+            "http://dbpedia.org/resource/Jacksonville_Breeze",
+            "http://dbpedia.org/resource/Jacksonville_Veterans_Memorial_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Green_Bay_Chill",
+            "http://dbpedia.org/resource/Seattle_Mist",
+            "http://dbpedia.org/resource/ShoWare_Center"
+        ]
+    ]
+}

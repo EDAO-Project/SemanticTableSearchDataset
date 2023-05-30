@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abdullahi_Yusuf_International_Airport",
+            "http://dbpedia.org/resource/Galkayo",
+            "http://dbpedia.org/resource/Somalia",
+            "http://dbpedia.org/resource/Abdullahi_Yusuf_Ahmed"
+        ],
+        [
+            "http://dbpedia.org/resource/Abraham_Lincoln_Capital_Airport",
+            "http://dbpedia.org/resource/Springfield,_Illinois",
+            "http://dbpedia.org/resource/Illinois",
+            "http://dbpedia.org/resource/Abraham_Lincoln"
+        ],
+        [
+            "http://dbpedia.org/resource/Achmad_Yani_International_Airport",
+            "http://dbpedia.org/resource/Semarang",
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Ahmad_Yani"
+        ],
+        [
+            "http://dbpedia.org/resource/Aden_Adde_International_Airport",
+            "http://dbpedia.org/resource/Mogadishu",
+            "http://dbpedia.org/resource/Somalia",
+            "http://dbpedia.org/resource/Aden_Abdullah_Osman_Daar"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajaccio_Napoleon_Bonaparte_Airport",
+            "http://dbpedia.org/resource/Ajaccio",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Napoleon"
+        ]
+    ]
+}

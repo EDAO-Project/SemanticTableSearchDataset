@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Batting_average",
+            "http://dbpedia.org/resource/Tony_Gwynn",
+            "http://dbpedia.org/resource/1994_Major_League_Baseball_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Home_run",
+            "http://dbpedia.org/resource/Greg_Vaughn",
+            "http://dbpedia.org/resource/1998_Major_League_Baseball_season"
+        ]
+    ]
+}

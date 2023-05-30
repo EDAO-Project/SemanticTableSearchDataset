@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1999_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/KMSP-TV",
+            "http://dbpedia.org/resource/Paul_Molitor"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Minnesota_Twins_season",
+            "http://dbpedia.org/resource/KARE",
+            "http://dbpedia.org/resource/Bob_Allison"
+        ]
+    ]
+}

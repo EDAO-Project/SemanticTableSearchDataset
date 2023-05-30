@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1992_Belarusian_First_League",
+            "http://dbpedia.org/resource/FC_Dinamo-93_Minsk",
+            "http://dbpedia.org/resource/FC_Belshina_Bobruisk",
+            "http://dbpedia.org/resource/FC_Volna_Pinsk"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Belarusian_First_League",
+            "http://dbpedia.org/resource/FC_Naftan_Novopolotsk",
+            "http://dbpedia.org/resource/FC_Volna_Pinsk",
+            "http://dbpedia.org/resource/FC_Fomalgaut_Borisov"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Belarusian_First_League",
+            "http://dbpedia.org/resource/FC_Transmash_Mogilev",
+            "http://dbpedia.org/resource/FC_Kommunalnik_Slonim",
+            "http://dbpedia.org/resource/FC_Khimik_Svetlogorsk"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Belarusian_First_League",
+            "http://dbpedia.org/resource/FC_Gomel",
+            "http://dbpedia.org/resource/FC_BATE_Borisov",
+            "http://dbpedia.org/resource/FC_Lida"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Belarusian_First_League",
+            "http://dbpedia.org/resource/FC_Lida",
+            "http://dbpedia.org/resource/FC_Osipovichi",
+            "http://dbpedia.org/resource/FC_Volna_Pinsk"
+        ]
+    ]
+}

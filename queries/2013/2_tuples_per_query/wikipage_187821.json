@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Walter_Desmaison",
+            "http://dbpedia.org/resource/Aviron_Bayonnais",
+            "http://dbpedia.org/resource/Top_14"
+        ],
+        [
+            "http://dbpedia.org/resource/Davit_Khinchagishvili",
+            "http://dbpedia.org/resource/CA_Brive",
+            "http://dbpedia.org/resource/Top_14"
+        ]
+    ]
+}

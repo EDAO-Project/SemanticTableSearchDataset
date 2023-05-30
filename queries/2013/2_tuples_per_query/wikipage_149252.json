@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1959_Penn_State_Nittany_Lions_football_team",
+            "http://dbpedia.org/resource/1959_Alabama_Crimson_Tide_football_team",
+            "http://dbpedia.org/resource/1959_Liberty_Bowl"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_Oregon_State_Beavers_football_team",
+            "http://dbpedia.org/resource/Villanova_Wildcats",
+            "http://dbpedia.org/resource/1962_Liberty_Bowl"
+        ]
+    ]
+}

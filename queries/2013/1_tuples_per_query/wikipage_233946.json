@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/Virginia_Wade",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Billie_Jean_King"
+        ]
+    ]
+}

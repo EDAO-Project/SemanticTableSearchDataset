@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elmer_Scipio_Dundy",
+            "http://dbpedia.org/resource/Nebraska",
+            "http://dbpedia.org/resource/List_of_federal_judges_appointed_by_Andrew_Johnson"
+        ]
+    ]
+}

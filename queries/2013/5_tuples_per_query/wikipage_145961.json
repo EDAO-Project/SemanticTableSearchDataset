@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carlos_Correa",
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Shortstop",
+            "http://dbpedia.org/resource/Puerto_Rico_Baseball_Academy_and_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Byron_Buxton",
+            "http://dbpedia.org/resource/Minnesota_Twins",
+            "http://dbpedia.org/resource/Outfielder",
+            "http://dbpedia.org/resource/Appling_County_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Zunino",
+            "http://dbpedia.org/resource/Seattle_Mariners",
+            "http://dbpedia.org/resource/Catcher",
+            "http://dbpedia.org/resource/Florida_Gators_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Gausman",
+            "http://dbpedia.org/resource/Baltimore_Orioles",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/LSU_Tigers_baseball"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyle_Zimmer",
+            "http://dbpedia.org/resource/Kansas_City_Royals",
+            "http://dbpedia.org/resource/Pitcher",
+            "http://dbpedia.org/resource/San_Francisco_Dons"
+        ]
+    ]
+}

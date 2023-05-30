@@ -1,0 +1,11 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lachie_Plowman",
+            "http://dbpedia.org/resource/Calder_Cannons",
+            "http://dbpedia.org/resource/TAC_Cup",
+            "http://dbpedia.org/resource/Greater_Western_Sydney_Giants",
+            "http://dbpedia.org/resource/Melbourne_Football_Club"
+        ]
+    ]
+}

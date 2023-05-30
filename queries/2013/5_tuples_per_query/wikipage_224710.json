@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stamford,_Lincolnshire",
+            "http://dbpedia.org/resource/Ashton,_Cambridgeshire",
+            "http://dbpedia.org/resource/South_Kesteven"
+        ],
+        [
+            "http://dbpedia.org/resource/Bourne,_Lincolnshire",
+            "http://dbpedia.org/resource/Bulby",
+            "http://dbpedia.org/resource/South_Kesteven"
+        ],
+        [
+            "http://dbpedia.org/resource/Spalding,_Lincolnshire",
+            "http://dbpedia.org/resource/Deeping_St_Nicholas",
+            "http://dbpedia.org/resource/South_Holland,_Lincolnshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Wisbech",
+            "http://dbpedia.org/resource/Guyhirn",
+            "http://dbpedia.org/resource/Fenland"
+        ],
+        [
+            "http://dbpedia.org/resource/March,_Cambridgeshire",
+            "http://dbpedia.org/resource/Benwick",
+            "http://dbpedia.org/resource/Fenland"
+        ]
+    ]
+}

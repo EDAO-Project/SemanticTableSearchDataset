@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anvil_Point_Lighthouse",
+            "http://dbpedia.org/resource/Swanage",
+            "http://dbpedia.org/resource/Purbeck_District",
+            "http://dbpedia.org/resource/Durlston_Country_Park"
+        ]
+    ]
+}

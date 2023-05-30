@@ -1,0 +1,18 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DYMR",
+            "http://dbpedia.org/resource/Philippine_Broadcasting_Service",
+            "http://dbpedia.org/resource/News",
+            "http://dbpedia.org/resource/DYMR",
+            "http://dbpedia.org/resource/Cebu_City"
+        ],
+        [
+            "http://dbpedia.org/resource/DYHP",
+            "http://dbpedia.org/resource/Radio_Mindanao_Network",
+            "http://dbpedia.org/resource/News",
+            "http://dbpedia.org/resource/DYHP",
+            "http://dbpedia.org/resource/Cebu_City"
+        ]
+    ]
+}

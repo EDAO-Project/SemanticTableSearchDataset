@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baher_Azmy",
+            "http://dbpedia.org/resource/Murat_Kurnaz",
+            "http://dbpedia.org/resource/Seton_Hall_University_School_of_Law"
+        ],
+        [
+            "http://dbpedia.org/resource/Erwin_Chemerinsky",
+            "http://dbpedia.org/resource/Libyan_detainees_at_Guantanamo_Bay",
+            "http://dbpedia.org/resource/University_of_California,_Irvine_School_of_Law"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Denbeaux",
+            "http://dbpedia.org/resource/Rafiq_Bin_Bashir_Bin_Jalud_Al_Hami",
+            "http://dbpedia.org/resource/Seton_Hall_University_School_of_Law"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_L._Fenstermaker",
+            "http://dbpedia.org/resource/Ahmed_Ghailani",
+            "http://dbpedia.org/resource/David_H._Remes"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Fleener",
+            "http://dbpedia.org/resource/Ali_al-Bahlul",
+            "http://dbpedia.org/resource/Guantanamo_military_commission"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tofiq_Bahramov_Stadium",
+            "http://dbpedia.org/resource/Baku",
+            "http://dbpedia.org/resource/Azerbaijan_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Ganja_City_Stadium",
+            "http://dbpedia.org/resource/Ganja,_Azerbaijan",
+            "http://dbpedia.org/resource/Kapaz_PFK"
+        ],
+        [
+            "http://dbpedia.org/resource/Kapital_Bank_Arena",
+            "http://dbpedia.org/resource/Sumqayit",
+            "http://dbpedia.org/resource/Sumgayit_FK"
+        ],
+        [
+            "http://dbpedia.org/resource/Lankaran_City_Stadium",
+            "http://dbpedia.org/resource/Lankaran",
+            "http://dbpedia.org/resource/Azerbaijan_national_football_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Shamkir_City_Stadium",
+            "http://dbpedia.org/resource/Shamkir",
+            "http://dbpedia.org/resource/Shamkir_FC"
+        ]
+    ]
+}

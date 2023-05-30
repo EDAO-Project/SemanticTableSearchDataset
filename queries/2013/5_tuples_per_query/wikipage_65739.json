@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1995_NCAA_Division_I-AA_football_season",
+            "http://dbpedia.org/resource/Sacramento_State_Hornets",
+            "http://dbpedia.org/resource/Dave_Dickenson",
+            "http://dbpedia.org/resource/Dexter_Coakley"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_NCAA_Division_I-AA_football_season",
+            "http://dbpedia.org/resource/Atlantic_10_Conference",
+            "http://dbpedia.org/resource/Brian_Finneran",
+            "http://dbpedia.org/resource/Percy_Watson"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_NCAA_Division_I-AA_football_season",
+            "http://dbpedia.org/resource/Valparaiso_Crusaders",
+            "http://dbpedia.org/resource/Louis_Ivory",
+            "http://dbpedia.org/resource/Edgerton_Hartwell"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_NCAA_Division_I-AA_football_season",
+            "http://dbpedia.org/resource/Hofstra_University",
+            "http://dbpedia.org/resource/Montana_Grizzlies_football",
+            "http://dbpedia.org/resource/Brian_Westbrook"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_NCAA_Division_I-AA_football_season",
+            "http://dbpedia.org/resource/Northeastern_Huskies",
+            "http://dbpedia.org/resource/Tony_Romo",
+            "http://dbpedia.org/resource/Rashean_Mathis"
+        ]
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wiesbaden",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/East_Germany"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Corris_Railway",
+            "http://dbpedia.org/resource/Machynlleth",
+            "http://dbpedia.org/resource/River_Dovey"
+        ],
+        [
+            "http://dbpedia.org/resource/Corris_Railway",
+            "http://dbpedia.org/resource/Corris",
+            "http://dbpedia.org/resource/Heritage_railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Festiniog_and_Blaenau_Railway",
+            "http://dbpedia.org/resource/Blaenau_Ffestiniog",
+            "http://dbpedia.org/resource/Ffestiniog_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Ffestiniog_Railway",
+            "http://dbpedia.org/resource/Porthmadog",
+            "http://dbpedia.org/resource/Blaenau_Ffestiniog"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Orme_Tramway",
+            "http://dbpedia.org/resource/Llandudno",
+            "http://dbpedia.org/resource/Great_Orme"
+        ]
+    ]
+}

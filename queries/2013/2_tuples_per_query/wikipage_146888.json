@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alzonne",
+            "http://dbpedia.org/resource/Aragon,_Aude",
+            "http://dbpedia.org/resource/Arquettes-en-Val",
+            "http://dbpedia.org/resource/Arzens"
+        ],
+        [
+            "http://dbpedia.org/resource/Auriac,_Aude",
+            "http://dbpedia.org/resource/Azille",
+            "http://dbpedia.org/resource/Badens",
+            "http://dbpedia.org/resource/Bagnoles"
+        ]
+    ]
+}

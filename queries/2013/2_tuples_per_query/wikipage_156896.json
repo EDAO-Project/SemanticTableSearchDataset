@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edgbaston_Cricket_Ground",
+            "http://dbpedia.org/resource/England_cricket_team",
+            "http://dbpedia.org/resource/Mike_Brearley"
+        ],
+        [
+            "http://dbpedia.org/resource/Feroz_Shah_Kotla_Ground",
+            "http://dbpedia.org/resource/Australia_national_cricket_team",
+            "http://dbpedia.org/resource/Rick_Darling"
+        ]
+    ]
+}

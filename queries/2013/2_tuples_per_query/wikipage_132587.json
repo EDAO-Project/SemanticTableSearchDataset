@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chae_Chang",
+            "http://dbpedia.org/resource/San_Kamphaeng_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Chaem_Luang",
+            "http://dbpedia.org/resource/Galyani_Vadhana_District",
+            "http://dbpedia.org/resource/Chiang_Mai_Province"
+        ]
+    ]
+}

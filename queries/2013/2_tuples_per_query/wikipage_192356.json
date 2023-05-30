@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Chikhura_Sachkhere",
+            "http://dbpedia.org/resource/Sachkhere",
+            "http://dbpedia.org/resource/Givi_Kiladze_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dila_Gori",
+            "http://dbpedia.org/resource/Gori,_Georgia",
+            "http://dbpedia.org/resource/Tengiz_Burjanadze_Stadium"
+        ]
+    ]
+}

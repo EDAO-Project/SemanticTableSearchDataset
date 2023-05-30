@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Timaru",
+            "http://dbpedia.org/resource/Washdyke",
+            "http://dbpedia.org/resource/New_Zealand_State_Highway_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Timaru",
+            "http://dbpedia.org/resource/Washdyke",
+            "http://dbpedia.org/resource/New_Zealand_State_Highway_1"
+        ]
+    ]
+}

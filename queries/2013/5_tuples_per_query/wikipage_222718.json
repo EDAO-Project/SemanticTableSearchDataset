@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2004_in_NASCAR",
+            "http://dbpedia.org/resource/Fox_NASCAR",
+            "http://dbpedia.org/resource/Mike_Joy",
+            "http://dbpedia.org/resource/Darrell_Waltrip"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_in_NASCAR",
+            "http://dbpedia.org/resource/Fox_NASCAR",
+            "http://dbpedia.org/resource/Mike_Joy",
+            "http://dbpedia.org/resource/Darrell_Waltrip"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_in_NASCAR",
+            "http://dbpedia.org/resource/Fox_NASCAR",
+            "http://dbpedia.org/resource/Mike_Joy",
+            "http://dbpedia.org/resource/Darrell_Waltrip"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_in_NASCAR",
+            "http://dbpedia.org/resource/Fox_NASCAR",
+            "http://dbpedia.org/resource/Mike_Joy",
+            "http://dbpedia.org/resource/Darrell_Waltrip"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_NASCAR",
+            "http://dbpedia.org/resource/NASCAR_on_TNN",
+            "http://dbpedia.org/resource/Eli_Gold",
+            "http://dbpedia.org/resource/Buddy_Baker"
+        ]
+    ]
+}

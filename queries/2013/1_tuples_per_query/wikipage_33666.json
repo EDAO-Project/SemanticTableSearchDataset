@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hunan",
+            "http://dbpedia.org/resource/Zhangjiajie",
+            "http://dbpedia.org/resource/Cili_County"
+        ]
+    ]
+}

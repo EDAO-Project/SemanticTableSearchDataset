@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Campeonato_Acriano",
+            "http://dbpedia.org/resource/Campeonato_Paraense",
+            "http://dbpedia.org/resource/Clube_do_Remo"
+        ]
+    ]
+}

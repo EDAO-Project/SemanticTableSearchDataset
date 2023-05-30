@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Simon_Gerrans",
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Team_Sky",
+            "http://dbpedia.org/resource/2010_Tour_de_France,_Prologue_to_Stage_10"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Vande_Velde",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cannondale-Garmin",
+            "http://dbpedia.org/resource/2010_Tour_de_France,_Prologue_to_Stage_10"
+        ],
+        [
+            "http://dbpedia.org/resource/Vladimir_Karpets",
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/Team_Katusha",
+            "http://dbpedia.org/resource/2010_Tour_de_France,_Prologue_to_Stage_10"
+        ],
+        [
+            "http://dbpedia.org/resource/Stijn_Vandenbergh",
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Team_Katusha",
+            "http://dbpedia.org/resource/2010_Tour_de_France,_Prologue_to_Stage_10"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Lelay",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/AG2R_La_Mondiale",
+            "http://dbpedia.org/resource/2010_Tour_de_France,_Prologue_to_Stage_10"
+        ]
+    ]
+}

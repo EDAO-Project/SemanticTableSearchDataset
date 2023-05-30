@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brisbane_Roar_FC",
+            "http://dbpedia.org/resource/Perth_Glory_FC",
+            "http://dbpedia.org/resource/Lang_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_Jets_FC",
+            "http://dbpedia.org/resource/Brisbane_Roar_FC",
+            "http://dbpedia.org/resource/Newcastle_International_Sports_Centre"
+        ]
+    ]
+}

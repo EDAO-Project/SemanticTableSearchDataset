@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/College_of_Engineering,_Adoor",
+            "http://dbpedia.org/resource/Pathanamthitta",
+            "http://dbpedia.org/resource/Institute_of_Human_Resources_Development"
+        ],
+        [
+            "http://dbpedia.org/resource/College_of_Engineering_Attingal",
+            "http://dbpedia.org/resource/Thiruvananthapuram",
+            "http://dbpedia.org/resource/Institute_of_Human_Resources_Development"
+        ],
+        [
+            "http://dbpedia.org/resource/College_of_Engineering,_Cherthala",
+            "http://dbpedia.org/resource/Alappuzha",
+            "http://dbpedia.org/resource/Institute_of_Human_Resources_Development"
+        ],
+        [
+            "http://dbpedia.org/resource/College_of_Engineering,_Kottarakkara",
+            "http://dbpedia.org/resource/Kollam",
+            "http://dbpedia.org/resource/Institute_of_Human_Resources_Development"
+        ],
+        [
+            "http://dbpedia.org/resource/College_of_Engineering_Chengannur",
+            "http://dbpedia.org/resource/Alappuzha",
+            "http://dbpedia.org/resource/Institute_of_Human_Resources_Development"
+        ]
+    ]
+}

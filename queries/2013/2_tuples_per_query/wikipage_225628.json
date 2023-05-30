@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/Schenectady,_New_York",
+            "http://dbpedia.org/resource/WRGB",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Albany,_New_York",
+            "http://dbpedia.org/resource/Schenectady,_New_York",
+            "http://dbpedia.org/resource/WCWN",
+            "http://dbpedia.org/resource/The_CW"
+        ]
+    ]
+}

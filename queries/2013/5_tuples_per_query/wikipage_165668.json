@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appennino_Tosco-Emiliano_National_Park",
+            "http://dbpedia.org/resource/Emilia-Romagna",
+            "http://dbpedia.org/resource/Monte_Cusna"
+        ],
+        [
+            "http://dbpedia.org/resource/Arcipelago_di_La_Maddalena_National_Park",
+            "http://dbpedia.org/resource/Sardinia",
+            "http://dbpedia.org/resource/Caprera"
+        ],
+        [
+            "http://dbpedia.org/resource/Arcipelago_Toscano_National_Park",
+            "http://dbpedia.org/resource/Tuscany",
+            "http://dbpedia.org/resource/Mount_Capanne"
+        ],
+        [
+            "http://dbpedia.org/resource/Foreste_Casentinesi,_Monte_Falterona,_Campigna_National_Park",
+            "http://dbpedia.org/resource/Emilia-Romagna",
+            "http://dbpedia.org/resource/Monte_Falterona"
+        ],
+        [
+            "http://dbpedia.org/resource/Gennargentu_National_Park",
+            "http://dbpedia.org/resource/Sardinia",
+            "http://dbpedia.org/resource/Punta_La_Marmora"
+        ]
+    ]
+}

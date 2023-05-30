@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BMS_Scuderia_Italia",
+            "http://dbpedia.org/resource/Ferrari_550",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/JMB_Racing",
+            "http://dbpedia.org/resource/Ferrari_575M_Maranello",
+            "http://dbpedia.org/resource/Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitaphone_Racing",
+            "http://dbpedia.org/resource/Saleen_S7",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/RML_Group",
+            "http://dbpedia.org/resource/Saleen_S7",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Maserati_MC12",
+            "http://dbpedia.org/resource/Maserati"
+        ]
+    ]
+}

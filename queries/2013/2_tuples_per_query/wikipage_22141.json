@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Milton_A._Romjue",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1922",
+            "http://dbpedia.org/resource/John_J._Cochran"
+        ],
+        [
+            "http://dbpedia.org/resource/Ralph_F._Lozier",
+            "http://dbpedia.org/resource/United_States_House_of_Representatives_elections,_1922",
+            "http://dbpedia.org/resource/John_J._Cochran"
+        ]
+    ]
+}

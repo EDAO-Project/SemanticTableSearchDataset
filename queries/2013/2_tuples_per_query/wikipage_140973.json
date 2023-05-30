@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Algoma_East",
+            "http://dbpedia.org/resource/Albert_Dyment",
+            "http://dbpedia.org/resource/Liberal_Party_of_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_North",
+            "http://dbpedia.org/resource/Leonard_Thomas_Bland",
+            "http://dbpedia.org/resource/Liberal-Conservative_Party"
+        ]
+    ]
+}

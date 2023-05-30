@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sergei_Tchepikov",
+            "http://dbpedia.org/resource/Biathlon_at_the_1994_Winter_Olympics",
+            "http://dbpedia.org/resource/Biathlon_at_the_1994_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergey_Tarasov",
+            "http://dbpedia.org/resource/Biathlon_at_the_1994_Winter_Olympics",
+            "http://dbpedia.org/resource/Biathlon_at_the_1994_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Luiza_Noskova",
+            "http://dbpedia.org/resource/Biathlon_at_the_1994_Winter_Olympics",
+            "http://dbpedia.org/resource/Biathlon_at_the_1994_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyubov_Yegorova",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_1994_Winter_Olympics",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_1994_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyubov_Yegorova",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_1994_Winter_Olympics",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_1994_Winter_Olympics"
+        ]
+    ]
+}

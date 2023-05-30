@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lyon",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Turin",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Switzerland"
+        ],
+        [
+            "http://dbpedia.org/resource/Loosduinen",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Norway",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucerne",
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/France"
+        ]
+    ]
+}

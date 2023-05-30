@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Leftenan_Adnan",
+            "http://dbpedia.org/resource/Aziz_M._Osman",
+            "http://dbpedia.org/resource/Adnan_Saidi"
+        ],
+        [
+            "http://dbpedia.org/resource/Philippines",
+            "http://dbpedia.org/resource/Markova:_Comfort_Gay",
+            "http://dbpedia.org/resource/Gil_Portes",
+            "http://dbpedia.org/resource/Walterina_Markova"
+        ]
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1988_Summer_Olympics",
+            "http://dbpedia.org/resource/Ulf_Timmermann",
+            "http://dbpedia.org/resource/Sport_of_athletics"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_Winter_Olympics",
+            "http://dbpedia.org/resource/Frank-Peter_Roetsch",
+            "http://dbpedia.org/resource/Biathlon"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Winter_Olympics",
+            "http://dbpedia.org/resource/Frank_Ullrich",
+            "http://dbpedia.org/resource/Biathlon"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Summer_Olympics",
+            "http://dbpedia.org/resource/Kristina_Richter",
+            "http://dbpedia.org/resource/Handball"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Winter_Olympics",
+            "http://dbpedia.org/resource/Jan_Hoffmann",
+            "http://dbpedia.org/resource/Figure_skating"
+        ]
+    ]
+}

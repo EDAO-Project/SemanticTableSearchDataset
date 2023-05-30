@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mel_B",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/The_Singing_Office"
+        ],
+        [
+            "http://dbpedia.org/resource/Amitabh_Bachchan",
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Kaun_Banega_Crorepati"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Baddiel",
+            "http://dbpedia.org/resource/United_Kingdom",
+            "http://dbpedia.org/resource/The_Book_Quiz"
+        ],
+        [
+            "http://dbpedia.org/resource/Brent_Bambury",
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/Test_the_Nation"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Barker",
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Truth_or_Consequences"
+        ]
+    ]
+}

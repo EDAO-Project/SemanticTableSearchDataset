@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zakynthos",
+            "http://dbpedia.org/resource/Ionian_Islands",
+            "http://dbpedia.org/resource/Greece"
+        ]
+    ]
+}

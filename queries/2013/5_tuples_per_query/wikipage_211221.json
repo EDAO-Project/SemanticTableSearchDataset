@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aurora_Country_Club",
+            "http://dbpedia.org/resource/Aurora,_Illinois",
+            "http://dbpedia.org/resource/Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Medinah_Country_Club",
+            "http://dbpedia.org/resource/Medinah,_Illinois",
+            "http://dbpedia.org/resource/Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Hills_Country_Club",
+            "http://dbpedia.org/resource/Mission_Hills,_Kansas",
+            "http://dbpedia.org/resource/Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_City_Country_Club",
+            "http://dbpedia.org/resource/Mission_Hills,_Kansas",
+            "http://dbpedia.org/resource/Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Framingham_Country_Club",
+            "http://dbpedia.org/resource/Framingham,_Massachusetts",
+            "http://dbpedia.org/resource/Massachusetts"
+        ]
+    ]
+}

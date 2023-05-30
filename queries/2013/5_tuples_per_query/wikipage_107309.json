@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Partizan_Stadium",
+            "http://dbpedia.org/resource/Yugoslavia_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Axel_Pilmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Atletion",
+            "http://dbpedia.org/resource/Norway_national_football_team",
+            "http://dbpedia.org/resource/Nordic_Football_Championship",
+            "http://dbpedia.org/resource/Aage_Rou_Jensen"
+        ],
+        [
+            "http://dbpedia.org/resource/Helsinki_Olympic_Stadium",
+            "http://dbpedia.org/resource/Finland_national_football_team",
+            "http://dbpedia.org/resource/Nordic_Football_Championship",
+            "http://dbpedia.org/resource/Poul_Erik_Petersen"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernst-Happel-Stadion",
+            "http://dbpedia.org/resource/Austria_national_football_team",
+            "http://dbpedia.org/resource/Exhibition_game",
+            "http://dbpedia.org/resource/Erik_Kuld_Jensen"
+        ],
+        [
+            "http://dbpedia.org/resource/Tammela_Stadion",
+            "http://dbpedia.org/resource/Greece_national_football_team",
+            "http://dbpedia.org/resource/Football_at_the_1952_Summer_Olympics",
+            "http://dbpedia.org/resource/Poul_Erik_Petersen"
+        ]
+    ]
+}

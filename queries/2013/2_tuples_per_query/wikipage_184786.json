@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aintree_Racecourse",
+            "http://dbpedia.org/resource/Merseyside",
+            "http://dbpedia.org/resource/National_Hunt_racing",
+            "http://dbpedia.org/resource/Jockey_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Bath_Racecourse",
+            "http://dbpedia.org/resource/Somerset",
+            "http://dbpedia.org/resource/Flat_racing",
+            "http://dbpedia.org/resource/Arena_Racing_Company"
+        ]
+    ]
+}

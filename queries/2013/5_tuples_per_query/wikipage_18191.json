@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_6th_Day",
+            "http://dbpedia.org/resource/Roger_Spottiswoode",
+            "http://dbpedia.org/resource/Arnold_Schwarzenegger"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Cell",
+            "http://dbpedia.org/resource/Tarsem_Singh",
+            "http://dbpedia.org/resource/Jennifer_Lopez"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Crimson_Rivers",
+            "http://dbpedia.org/resource/Mathieu_Kassovitz",
+            "http://dbpedia.org/resource/Jean_Reno"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollow_Man",
+            "http://dbpedia.org/resource/Paul_Verhoeven",
+            "http://dbpedia.org/resource/Elisabeth_Shue"
+        ],
+        [
+            "http://dbpedia.org/resource/Merci_pour_le_chocolat",
+            "http://dbpedia.org/resource/Claude_Chabrol",
+            "http://dbpedia.org/resource/Isabelle_Huppert"
+        ]
+    ]
+}

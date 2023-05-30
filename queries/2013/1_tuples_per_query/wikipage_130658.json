@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Appleton,_Wisconsin",
+            "http://dbpedia.org/resource/The_Post-Crescent",
+            "http://dbpedia.org/resource/Gannett_Company"
+        ]
+    ]
+}

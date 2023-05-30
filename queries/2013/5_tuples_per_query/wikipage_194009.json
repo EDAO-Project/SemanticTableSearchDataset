@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sun_Yanan",
+            "http://dbpedia.org/resource/Erdenechimegiin_Sumiyaa",
+            "http://dbpedia.org/resource/So_Sim-hyang"
+        ],
+        [
+            "http://dbpedia.org/resource/Sun_Yanan",
+            "http://dbpedia.org/resource/Erdenechimegiin_Sumiyaa",
+            "http://dbpedia.org/resource/Jessica_MacDonald"
+        ],
+        [
+            "http://dbpedia.org/resource/Saori_Yoshida",
+            "http://dbpedia.org/resource/Sofia_Mattsson",
+            "http://dbpedia.org/resource/Emese_Barka"
+        ],
+        [
+            "http://dbpedia.org/resource/Saori_Yoshida",
+            "http://dbpedia.org/resource/Sofia_Mattsson",
+            "http://dbpedia.org/resource/Valeria_Koblova"
+        ],
+        [
+            "http://dbpedia.org/resource/Marianna_Sastin",
+            "http://dbpedia.org/resource/Taybe_Yusein",
+            "http://dbpedia.org/resource/Yuliya_Ratkevich"
+        ]
+    ]
+}

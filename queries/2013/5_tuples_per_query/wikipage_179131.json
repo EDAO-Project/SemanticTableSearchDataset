@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emiliano_Bonazzoli",
+            "http://dbpedia.org/resource/A.S.D._Reggio_Calabria",
+            "http://dbpedia.org/resource/Football_Padova"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommaso_Rocchi",
+            "http://dbpedia.org/resource/S.S._Lazio",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Loris_Bacchetti",
+            "http://dbpedia.org/resource/Delfino_Pescara_1936",
+            "http://dbpedia.org/resource/U.S._Catanzaro_1929"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexandre_Pato",
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Sport_Club_Corinthians_Paulista"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Pisanu",
+            "http://dbpedia.org/resource/Bologna_F.C._1909",
+            "http://dbpedia.org/resource/Montreal_Impact"
+        ]
+    ]
+}

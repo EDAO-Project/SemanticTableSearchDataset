@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gustavus_Fox",
+            "http://dbpedia.org/resource/Abraham_Lincoln",
+            "http://dbpedia.org/resource/Gideon_Welles"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Faxon",
+            "http://dbpedia.org/resource/Andrew_Johnson",
+            "http://dbpedia.org/resource/Gideon_Welles"
+        ]
+    ]
+}

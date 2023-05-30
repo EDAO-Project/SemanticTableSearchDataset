@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Angola",
+            "http://dbpedia.org/resource/Warsaw",
+            "http://dbpedia.org/resource/Domingos_Culolo"
+        ]
+    ]
+}

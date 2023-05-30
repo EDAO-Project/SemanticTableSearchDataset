@@ -1,0 +1,12 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Delta_II",
+            "http://dbpedia.org/resource/Delta_II",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/Cape_Canaveral_Air_Force_Station",
+            "http://dbpedia.org/resource/Boeing_Defense,_Space_&_Security",
+            "http://dbpedia.org/resource/Boeing_Defense,_Space_&_Security"
+        ]
+    ]
+}

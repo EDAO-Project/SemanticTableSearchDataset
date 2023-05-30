@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alan_Brogan",
+            "http://dbpedia.org/resource/Dublin_GAA",
+            "http://dbpedia.org/resource/St_Oliver_Plunketts/Eoghan_Ruadh_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Kieran_Donaghy",
+            "http://dbpedia.org/resource/Kerry_GAA",
+            "http://dbpedia.org/resource/Austin_Stacks_GAA"
+        ]
+    ]
+}

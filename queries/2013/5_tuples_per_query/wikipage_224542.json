@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Airlines_Theatre",
+            "http://dbpedia.org/resource/Roundabout_Theatre_Company",
+            "http://dbpedia.org/resource/The_Winslow_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/August_Wilson_Theatre",
+            "http://dbpedia.org/resource/Jujamcyn_Theaters",
+            "http://dbpedia.org/resource/Jersey_Boys"
+        ],
+        [
+            "http://dbpedia.org/resource/Belasco_Theatre",
+            "http://dbpedia.org/resource/The_Shubert_Organization",
+            "http://dbpedia.org/resource/Twelfth_Night"
+        ],
+        [
+            "http://dbpedia.org/resource/Booth_Theatre",
+            "http://dbpedia.org/resource/The_Shubert_Organization",
+            "http://dbpedia.org/resource/The_Glass_Menagerie"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerald_Schoenfeld_Theatre",
+            "http://dbpedia.org/resource/The_Shubert_Organization",
+            "http://dbpedia.org/resource/The_Bridges_of_Madison_County"
+        ]
+    ]
+}

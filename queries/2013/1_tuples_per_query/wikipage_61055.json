@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Arizona_Diamondbacks_season",
+            "http://dbpedia.org/resource/Johnny_Cueto",
+            "http://dbpedia.org/resource/Jon_Garland",
+            "http://dbpedia.org/resource/Francisco_Cordero"
+        ]
+    ]
+}

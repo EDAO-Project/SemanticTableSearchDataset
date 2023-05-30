@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mont_Blanc",
+            "http://dbpedia.org/resource/Alps",
+            "http://dbpedia.org/resource/Graian_Alps"
+        ],
+        [
+            "http://dbpedia.org/resource/Chamechaude",
+            "http://dbpedia.org/resource/Alps",
+            "http://dbpedia.org/resource/Savoy_Prealps"
+        ],
+        [
+            "http://dbpedia.org/resource/Arcalod",
+            "http://dbpedia.org/resource/Alps",
+            "http://dbpedia.org/resource/Savoy_Prealps"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Tournette",
+            "http://dbpedia.org/resource/Alps",
+            "http://dbpedia.org/resource/Savoy_Prealps"
+        ],
+        [
+            "http://dbpedia.org/resource/Grande_Casse",
+            "http://dbpedia.org/resource/Alps",
+            "http://dbpedia.org/resource/Graian_Alps"
+        ]
+    ]
+}

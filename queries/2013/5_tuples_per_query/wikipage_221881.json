@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2008_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Circuito_de_Jerez",
+            "http://dbpedia.org/resource/Simone_Corsi",
+            "http://dbpedia.org/resource/Mika_Kallio",
+            "http://dbpedia.org/resource/Dani_Pedrosa",
+            "http://dbpedia.org/resource/2008_Spanish_motorcycle_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Circuito_de_Jerez",
+            "http://dbpedia.org/resource/Marco_Simoncelli",
+            "http://dbpedia.org/resource/Dani_Pedrosa",
+            "http://dbpedia.org/resource/Valentino_Rossi",
+            "http://dbpedia.org/resource/2005_Spanish_motorcycle_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Circuito_de_Jerez",
+            "http://dbpedia.org/resource/Marco_Simoncelli",
+            "http://dbpedia.org/resource/Roberto_Rolfo",
+            "http://dbpedia.org/resource/Sete_Gibernau",
+            "http://dbpedia.org/resource/2004_Spanish_motorcycle_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Circuito_de_Jerez",
+            "http://dbpedia.org/resource/Lucio_Cecchinello",
+            "http://dbpedia.org/resource/Fonsi_Nieto",
+            "http://dbpedia.org/resource/Valentino_Rossi",
+            "http://dbpedia.org/resource/2002_Spanish_motorcycle_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Circuito_de_Jerez",
+            "http://dbpedia.org/resource/Masao_Azuma",
+            "http://dbpedia.org/resource/Daijiro_Kato",
+            "http://dbpedia.org/resource/Valentino_Rossi",
+            "http://dbpedia.org/resource/2001_Spanish_motorcycle_Grand_Prix"
+        ]
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Manly_Warringah_Sea_Eagles",
+            "http://dbpedia.org/resource/Parramatta_Eels",
+            "http://dbpedia.org/resource/Brookvale_Oval",
+            "http://dbpedia.org/resource/Ben_Walker"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Queensland_Cowboys",
+            "http://dbpedia.org/resource/Penrith_Panthers",
+            "http://dbpedia.org/resource/Willows_Sports_Complex",
+            "http://dbpedia.org/resource/Joe_Galuvao"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/New_Zealand_Warriors",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Stacey_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/Wests_Tigers",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium",
+            "http://dbpedia.org/resource/Willie_Peters"
+        ],
+        [
+            "http://dbpedia.org/resource/Parramatta_Eels",
+            "http://dbpedia.org/resource/Cronulla-Sutherland_Sharks",
+            "http://dbpedia.org/resource/Parramatta_Stadium",
+            "http://dbpedia.org/resource/Nigel_Vagana"
+        ]
+    ]
+}

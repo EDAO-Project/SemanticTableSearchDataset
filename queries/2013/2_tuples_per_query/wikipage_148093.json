@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CKCQ-FM",
+            "http://dbpedia.org/resource/100_Mile_House",
+            "http://dbpedia.org/resource/Vista_Broadcast_Group",
+            "http://dbpedia.org/resource/Country_music"
+        ],
+        [
+            "http://dbpedia.org/resource/CFFM-FM",
+            "http://dbpedia.org/resource/100_Mile_House",
+            "http://dbpedia.org/resource/Vista_Broadcast_Group",
+            "http://dbpedia.org/resource/Active_rock"
+        ]
+    ]
+}

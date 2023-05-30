@@ -1,0 +1,10 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Uttar_Pradesh",
+            "http://dbpedia.org/resource/Kanpur",
+            "http://dbpedia.org/resource/IIT_Kanpur_Airport",
+            "http://dbpedia.org/resource/Aerospace_engineering"
+        ]
+    ]
+}

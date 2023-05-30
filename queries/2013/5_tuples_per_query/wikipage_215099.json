@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SS_Atlantic_Conveyor",
+            "http://dbpedia.org/resource/Falkland_Islands",
+            "http://dbpedia.org/resource/Falklands_War"
+        ],
+        [
+            "http://dbpedia.org/resource/HMS_H5",
+            "http://dbpedia.org/resource/Anglesey",
+            "http://dbpedia.org/resource/World_War_I"
+        ],
+        [
+            "http://dbpedia.org/resource/HMS_K4",
+            "http://dbpedia.org/resource/Isle_of_May",
+            "http://dbpedia.org/resource/World_War_I"
+        ],
+        [
+            "http://dbpedia.org/resource/HMS_K17",
+            "http://dbpedia.org/resource/Isle_of_May",
+            "http://dbpedia.org/resource/World_War_I"
+        ],
+        [
+            "http://dbpedia.org/resource/HMS_Nomad",
+            "http://dbpedia.org/resource/Battle_of_Jutland",
+            "http://dbpedia.org/resource/World_War_I"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ross_Brewer",
+            "http://dbpedia.org/resource/Collingwood_Football_Club",
+            "http://dbpedia.org/resource/Ian_Brewer"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Woolnough",
+            "http://dbpedia.org/resource/Collingwood_Football_Club",
+            "http://dbpedia.org/resource/Marc_Woolnough"
+        ]
+    ]
+}

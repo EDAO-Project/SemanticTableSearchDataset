@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CKDH-FM",
+            "http://dbpedia.org/resource/Amherst,_Nova_Scotia",
+            "http://dbpedia.org/resource/Maritime_Broadcasting_System",
+            "http://dbpedia.org/resource/Adult_contemporary_music"
+        ],
+        [
+            "http://dbpedia.org/resource/CFXU-FM",
+            "http://dbpedia.org/resource/Antigonish,_Nova_Scotia",
+            "http://dbpedia.org/resource/St._Francis_Xavier_University",
+            "http://dbpedia.org/resource/Campus_radio"
+        ]
+    ]
+}

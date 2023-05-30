@@ -1,0 +1,34 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/Johannesburg",
+            "http://dbpedia.org/resource/Ellis_Park_Stadium",
+            "http://dbpedia.org/resource/Mandela_Challenge_Plate"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/Perth",
+            "http://dbpedia.org/resource/Subiaco_Oval",
+            "http://dbpedia.org/resource/2005_Tri_Nations_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia_national_rugby_union_team",
+            "http://dbpedia.org/resource/Perth",
+            "http://dbpedia.org/resource/Subiaco_Oval",
+            "http://dbpedia.org/resource/2005_Tri_Nations_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/Dunedin",
+            "http://dbpedia.org/resource/Carisbrook",
+            "http://dbpedia.org/resource/2005_Tri_Nations_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_national_rugby_union_team",
+            "http://dbpedia.org/resource/Rustenburg",
+            "http://dbpedia.org/resource/Olympia_Park",
+            "http://dbpedia.org/resource/2006_Tri_Nations_Series"
+        ]
+    ]
+}

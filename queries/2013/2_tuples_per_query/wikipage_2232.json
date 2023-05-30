@@ -1,0 +1,16 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michigan_Stadium",
+            "http://dbpedia.org/resource/Ann_Arbor,_Michigan",
+            "http://dbpedia.org/resource/Michigan",
+            "http://dbpedia.org/resource/Michigan_Wolverines"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaver_Stadium",
+            "http://dbpedia.org/resource/University_Park,_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania",
+            "http://dbpedia.org/resource/Penn_State_Nittany_Lions_football"
+        ]
+    ]
+}

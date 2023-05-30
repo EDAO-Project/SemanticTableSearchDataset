@@ -1,0 +1,9 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/Auckland_Rugby_Football_Union"
+        ]
+    ]
+}

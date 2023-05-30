@@ -1,0 +1,29 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Garuda_1",
+            "http://dbpedia.org/resource/Geostationary_transfer_orbit",
+            "http://dbpedia.org/resource/Communications_satellite"
+        ],
+        [
+            "http://dbpedia.org/resource/Ekspress",
+            "http://dbpedia.org/resource/Geosynchronous_orbit",
+            "http://dbpedia.org/resource/Communications_satellite"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_2380",
+            "http://dbpedia.org/resource/Medium_Earth_orbit",
+            "http://dbpedia.org/resource/Satellite_navigation"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_2394",
+            "http://dbpedia.org/resource/Medium_Earth_orbit",
+            "http://dbpedia.org/resource/Satellite_navigation"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosmos_2402",
+            "http://dbpedia.org/resource/Medium_Earth_orbit",
+            "http://dbpedia.org/resource/Satellite_navigation"
+        ]
+    ]
+}

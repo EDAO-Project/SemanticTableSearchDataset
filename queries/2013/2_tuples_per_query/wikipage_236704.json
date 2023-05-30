@@ -1,0 +1,14 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Sandsharks",
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/Talking_Stick_Resort_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_Safari",
+            "http://dbpedia.org/resource/Auburn_Hills,_Michigan",
+            "http://dbpedia.org/resource/The_Palace_of_Auburn_Hills"
+        ]
+    ]
+}
