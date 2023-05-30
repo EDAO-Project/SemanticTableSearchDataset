@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/USC_Trojans_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/UCLA_Bruins_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona_Wildcats_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball",
+            "http://dbpedia.org/resource/Infielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanford_Cardinal_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils_baseball",
+            "http://dbpedia.org/resource/Outfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/USC_Trojans_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanford_Cardinal_baseball",
+            "http://dbpedia.org/resource/First_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/UCLA_Bruins_baseball",
+            "http://dbpedia.org/resource/Infielder"
+        ]
+    ]
+}

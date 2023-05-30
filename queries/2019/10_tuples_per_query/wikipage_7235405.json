@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wenfeng_District",
+            "http://dbpedia.org/resource/Anyang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Beiguan_District",
+            "http://dbpedia.org/resource/Anyang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Yindu_District",
+            "http://dbpedia.org/resource/Anyang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Tangyin_County",
+            "http://dbpedia.org/resource/Anyang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Hua_County,_Henan",
+            "http://dbpedia.org/resource/Anyang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Neihuang_County",
+            "http://dbpedia.org/resource/Anyang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Linzhou_City",
+            "http://dbpedia.org/resource/Anyang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Hongqi_District",
+            "http://dbpedia.org/resource/Xinxiang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Weibin_District,_Xinxiang",
+            "http://dbpedia.org/resource/Xinxiang_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Fengquan_District",
+            "http://dbpedia.org/resource/Xinxiang_County"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Burevestnik-YuRGUES_Shakhty",
+            "http://dbpedia.org/resource/FC_Yelets"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Taganrog",
+            "http://dbpedia.org/resource/FC_SKA_Rostov-on-Don"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Kuban_Krasnodar",
+            "http://dbpedia.org/resource/FC_Aroma_Gulkevichi"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Vityaz_Krymsk",
+            "http://dbpedia.org/resource/FC_Slavyansk_Slavyansk-na-Kubani"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dynamo_Stavropol",
+            "http://dbpedia.org/resource/FC_Kavkazkabel_Prokhladny"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Aruan_Nartkala",
+            "http://dbpedia.org/resource/FC_Angusht_Nazran"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dynamo_Makhachkala",
+            "http://dbpedia.org/resource/FC_Astrakhan"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dynamo_Vologda",
+            "http://dbpedia.org/resource/FC_Sheksna_Cherepovets"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Khimki",
+            "http://dbpedia.org/resource/FC_Volochanin-Ratmir_Vyshny_Volochyok"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Spartak-Telekom_Shuya",
+            "http://dbpedia.org/resource/FC_Spartak_Kostroma"
+        ]
+    ]
+}

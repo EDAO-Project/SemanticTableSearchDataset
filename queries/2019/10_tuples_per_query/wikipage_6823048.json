@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wenchuan_County",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Li_County,_Sichuan",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Mao_County",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Songpan_County",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Jiuzhaigou_County",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Jinchuan_County",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Xiaojin_County",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Heishui_County",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Barkam",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Zamtang_County",
+            "http://dbpedia.org/resource/Ngawa_County"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Matthew_Selt",
+            "http://dbpedia.org/resource/Lee_Walker"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_Carter",
+            "http://dbpedia.org/resource/Mitchell_Mann"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_McManus",
+            "http://dbpedia.org/resource/Andy_Hicks"
+        ],
+        [
+            "http://dbpedia.org/resource/Xiao_Guodong",
+            "http://dbpedia.org/resource/Eden_Sharav"
+        ],
+        [
+            "http://dbpedia.org/resource/Ding_Junhui",
+            "http://dbpedia.org/resource/Simon_Lichtenberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Liang_Wenbo",
+            "http://dbpedia.org/resource/Craig_Steadman"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyu_Haotian",
+            "http://dbpedia.org/resource/Duane_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Barry_Hawkins",
+            "http://dbpedia.org/resource/Jimmy_White"
+        ],
+        [
+            "http://dbpedia.org/resource/Noppon_Saengkham",
+            "http://dbpedia.org/resource/Louis_Heathcote"
+        ],
+        [
+            "http://dbpedia.org/resource/Stuart_Bingham",
+            "http://dbpedia.org/resource/Tian_Pengfei"
+        ]
+    ]
+}

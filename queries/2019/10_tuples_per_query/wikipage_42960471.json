@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Iowa",
+            "http://dbpedia.org/resource/Iowa_City,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Michigan",
+            "http://dbpedia.org/resource/Ann_Arbor,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Iowa_State_University",
+            "http://dbpedia.org/resource/Ames,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Illinois",
+            "http://dbpedia.org/resource/Urbana,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_Michigan_University",
+            "http://dbpedia.org/resource/Mount_Pleasant,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Illinois_State_University",
+            "http://dbpedia.org/resource/Normal,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Northern_Illinois_University",
+            "http://dbpedia.org/resource/DeKalb,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Illinois_University",
+            "http://dbpedia.org/resource/Macomb,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_State_University",
+            "http://dbpedia.org/resource/Manhattan,_Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Toledo",
+            "http://dbpedia.org/resource/Toledo,_Ohio"
+        ]
+    ]
+}

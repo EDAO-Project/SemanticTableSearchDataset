@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sendai_Stadium",
+            "http://dbpedia.org/resource/Vegalta_Sendai"
+        ],
+        [
+            "http://dbpedia.org/resource/International_Stadium_Yokohama",
+            "http://dbpedia.org/resource/Yokohama_F._Marinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/Tokyo_Verdy_1969"
+        ],
+        [
+            "http://dbpedia.org/resource/Mizuho_Athletic_Stadium",
+            "http://dbpedia.org/resource/Nagoya_Grampus_Eight"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/FC_Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Urawa_Komaba_Stadium",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds"
+        ],
+        [
+            "http://dbpedia.org/resource/Nishikyogoku_Athletic_Stadium",
+            "http://dbpedia.org/resource/Kyoto_Purple_Sanga"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Wing_Stadium",
+            "http://dbpedia.org/resource/Vissel_Kobe"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Kashima_Antlers"
+        ],
+        [
+            "http://dbpedia.org/resource/Hitachi_Kashiwa_Soccer_Stadium",
+            "http://dbpedia.org/resource/Kashiwa_Reysol"
+        ]
+    ]
+}

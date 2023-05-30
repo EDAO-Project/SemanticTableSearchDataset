@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Percy_the_Park_Keeper",
+            "http://dbpedia.org/resource/Nine_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Sons",
+            "http://dbpedia.org/resource/Nine_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Daria",
+            "http://dbpedia.org/resource/Australian_Broadcasting_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/The_New_Adventures_of_Robin_Hood",
+            "http://dbpedia.org/resource/Network_Ten"
+        ],
+        [
+            "http://dbpedia.org/resource/Godzilla:_The_Series",
+            "http://dbpedia.org/resource/Network_Ten"
+        ],
+        [
+            "http://dbpedia.org/resource/Jesse",
+            "http://dbpedia.org/resource/Nine_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Hello_Girls",
+            "http://dbpedia.org/resource/Australian_Broadcasting_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/Beyond_Belief:_Fact_or_Fiction",
+            "http://dbpedia.org/resource/Network_Ten"
+        ],
+        [
+            "http://dbpedia.org/resource/Celebrity_Deathmatch",
+            "http://dbpedia.org/resource/Network_Ten"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_Train",
+            "http://dbpedia.org/resource/Australian_Broadcasting_Corporation"
+        ]
+    ]
+}

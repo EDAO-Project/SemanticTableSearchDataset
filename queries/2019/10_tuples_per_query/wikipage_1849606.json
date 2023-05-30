@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Spider-Man",
+            "http://dbpedia.org/resource/Harry_Osborn"
+        ],
+        [
+            "http://dbpedia.org/resource/Onimusha_3:_Demon_Siege",
+            "http://dbpedia.org/resource/Mori_Ranmaru"
+        ],
+        [
+            "http://dbpedia.org/resource/Metal_Gear_Solid_3:_Snake_Eater",
+            "http://dbpedia.org/resource/Revolver_Ocelot"
+        ],
+        [
+            "http://dbpedia.org/resource/Metal_Gear_Solid:_Portable_Ops",
+            "http://dbpedia.org/resource/Revolver_Ocelot"
+        ],
+        [
+            "http://dbpedia.org/resource/Spider-Man:_Friend_or_Foe",
+            "http://dbpedia.org/resource/Harry_Osborn"
+        ],
+        [
+            "http://dbpedia.org/resource/Ninja_Gaiden_Sigma_2",
+            "http://dbpedia.org/resource/Ryu_Hayabusa"
+        ],
+        [
+            "http://dbpedia.org/resource/Marvel_vs._Capcom_3:_Fate_of_Two_Worlds",
+            "http://dbpedia.org/resource/Spider-Man"
+        ],
+        [
+            "http://dbpedia.org/resource/Spider-Man:_Edge_of_Time",
+            "http://dbpedia.org/resource/Spider-Man"
+        ],
+        [
+            "http://dbpedia.org/resource/Ultimate_Marvel_vs._Capcom_3",
+            "http://dbpedia.org/resource/Spider-Man"
+        ],
+        [
+            "http://dbpedia.org/resource/Batman:_Arkham_Origins",
+            "http://dbpedia.org/resource/Dick_Grayson"
+        ]
+    ]
+}

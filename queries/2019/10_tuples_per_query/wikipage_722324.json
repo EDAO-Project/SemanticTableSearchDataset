@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Utah_National_Parks_Council",
+            "http://dbpedia.org/resource/Orem,_UT"
+        ],
+        [
+            "http://dbpedia.org/resource/Michigan_Crossroads_Council",
+            "http://dbpedia.org/resource/Lansing,_MI"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Salt_Lake_Council",
+            "http://dbpedia.org/resource/Salt_Lake_City,_UT"
+        ],
+        [
+            "http://dbpedia.org/resource/Trapper_Trails_Council",
+            "http://dbpedia.org/resource/Ogden,_UT"
+        ],
+        [
+            "http://dbpedia.org/resource/National_Capital_Area_Council",
+            "http://dbpedia.org/resource/Bethesda,_MD"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Canyon_Council",
+            "http://dbpedia.org/resource/Phoenix,_AZ"
+        ],
+        [
+            "http://dbpedia.org/resource/Sam_Houston_Area_Council",
+            "http://dbpedia.org/resource/Houston,_TX"
+        ],
+        [
+            "http://dbpedia.org/resource/Circle_Ten_Council",
+            "http://dbpedia.org/resource/Dallas,_TX"
+        ],
+        [
+            "http://dbpedia.org/resource/Northern_Star_Council",
+            "http://dbpedia.org/resource/Saint_Paul,_MN"
+        ],
+        [
+            "http://dbpedia.org/resource/Heart_of_America_Council",
+            "http://dbpedia.org/resource/Kansas_City,_MO"
+        ]
+    ]
+}

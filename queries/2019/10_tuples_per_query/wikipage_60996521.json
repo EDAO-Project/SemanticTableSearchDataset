@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_About_Eve",
+            "http://dbpedia.org/resource/Joseph_L._Mankiewicz"
+        ],
+        [
+            "http://dbpedia.org/resource/People_Will_Talk",
+            "http://dbpedia.org/resource/Joseph_L._Mankiewicz"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Quiet_Man",
+            "http://dbpedia.org/resource/Frank_S._Nugent"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Happy_Time",
+            "http://dbpedia.org/resource/Earl_Felton"
+        ],
+        [
+            "http://dbpedia.org/resource/How_to_Marry_a_Millionaire",
+            "http://dbpedia.org/resource/Nunnally_Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Actress",
+            "http://dbpedia.org/resource/Ruth_Gordon"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Moon_Is_Blue",
+            "http://dbpedia.org/resource/F._Hugh_Herbert"
+        ],
+        [
+            "http://dbpedia.org/resource/Phffft",
+            "http://dbpedia.org/resource/George_Axelrod"
+        ],
+        [
+            "http://dbpedia.org/resource/To_Catch_a_Thief",
+            "http://dbpedia.org/resource/John_Michael_Hayes"
+        ],
+        [
+            "http://dbpedia.org/resource/Full_of_Life",
+            "http://dbpedia.org/resource/John_Fante"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Penn_Manam",
+            "http://dbpedia.org/resource/T._K._Shanmugam"
+        ],
+        [
+            "http://dbpedia.org/resource/Ratha_Kanneer",
+            "http://dbpedia.org/resource/M._R._Radha"
+        ],
+        [
+            "http://dbpedia.org/resource/Doctor_Savithri",
+            "http://dbpedia.org/resource/S._Balachander"
+        ],
+        [
+            "http://dbpedia.org/resource/Mangaiyar_Thilakam",
+            "http://dbpedia.org/resource/Sivaji_Ganesan"
+        ],
+        [
+            "http://dbpedia.org/resource/Methavigal",
+            "http://dbpedia.org/resource/K._A._Thangavelu"
+        ],
+        [
+            "http://dbpedia.org/resource/Nalla_Veedu",
+            "http://dbpedia.org/resource/Sivaji_Ganesan"
+        ],
+        [
+            "http://dbpedia.org/resource/Samaya_Sanjeevi",
+            "http://dbpedia.org/resource/T._R._Ramachandran"
+        ],
+        [
+            "http://dbpedia.org/resource/Neelavukku_Niranja_Manasu",
+            "http://dbpedia.org/resource/T._K._Ramachandran"
+        ],
+        [
+            "http://dbpedia.org/resource/Periya_Kovil",
+            "http://dbpedia.org/resource/Prem_Nazir"
+        ],
+        [
+            "http://dbpedia.org/resource/Mamiyar_Mechina_Marumagal",
+            "http://dbpedia.org/resource/S._S._Rajendran"
+        ]
+    ]
+}

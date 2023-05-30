@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gujarat_Kensville_Challenge",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Abierto_Internacional_Copa_Antioquia",
+            "http://dbpedia.org/resource/Colombia"
+        ],
+        [
+            "http://dbpedia.org/resource/Barclays_Kenya_Open",
+            "http://dbpedia.org/resource/Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/Allianz_Challenge_de_France",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Mugello_Tuscany_Open",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Madeira_Islands_Open",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Telenet_Trophy",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint-Omer_Open",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Scottish_Hydro_Challenge",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/Acaya_Open",
+            "http://dbpedia.org/resource/Italy"
+        ]
+    ]
+}

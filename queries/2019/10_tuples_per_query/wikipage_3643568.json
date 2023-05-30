@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1962",
+            "http://dbpedia.org/resource/Fud_Leclerc"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1962",
+            "http://dbpedia.org/resource/Eleonore_Schwarz"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1962",
+            "http://dbpedia.org/resource/De_Spelbrekers"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1963",
+            "http://dbpedia.org/resource/Annie_Palmen"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1963",
+            "http://dbpedia.org/resource/Anita_Thallaug"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1963",
+            "http://dbpedia.org/resource/Laila_Halme"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1963",
+            "http://dbpedia.org/resource/Monica_Zetterlund"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1964",
+            "http://dbpedia.org/resource/Nora_Nova"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1964",
+            "http://dbpedia.org/resource/Sabahudin_Kurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1964",
+            "http://dbpedia.org/resource/Anita_Traversi"
+        ]
+    ]
+}

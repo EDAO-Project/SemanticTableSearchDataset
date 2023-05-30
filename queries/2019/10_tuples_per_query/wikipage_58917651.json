@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fermoy_GAA",
+            "http://dbpedia.org/resource/Courcey_Rovers_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Mallow_GAA",
+            "http://dbpedia.org/resource/Carrigaline_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Inniscarra_GAA",
+            "http://dbpedia.org/resource/Ballinhassig_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Carrigaline_GAA",
+            "http://dbpedia.org/resource/Mallow_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Valley_Rovers_GAA",
+            "http://dbpedia.org/resource/Cloyne_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Blarney_GAA",
+            "http://dbpedia.org/resource/Ballinhassig_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Valley_Rovers_GAA",
+            "http://dbpedia.org/resource/Ballincollig_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Watergrasshill_GAA",
+            "http://dbpedia.org/resource/Inniscarra_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Courcey_Rovers_GAA",
+            "http://dbpedia.org/resource/Fermoy_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballincollig_GAA",
+            "http://dbpedia.org/resource/Courcey_Rovers_GAA"
+        ]
+    ]
+}

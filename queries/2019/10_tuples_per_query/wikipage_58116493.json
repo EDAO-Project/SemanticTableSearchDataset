@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Open_water_swimming_at_the_1991_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Perth"
+        ],
+        [
+            "http://dbpedia.org/resource/Open_water_swimming_at_the_1994_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Rome"
+        ],
+        [
+            "http://dbpedia.org/resource/Open_water_swimming_at_the_1998_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Perth"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_FINA_World_Open_Water_Swimming_Championships",
+            "http://dbpedia.org/resource/Honolulu"
+        ],
+        [
+            "http://dbpedia.org/resource/Open_water_swimming_at_the_2001_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Fukuoka"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_FINA_World_Open_Water_Swimming_Championships",
+            "http://dbpedia.org/resource/Sharm_El_Sheikh"
+        ],
+        [
+            "http://dbpedia.org/resource/Open_water_swimming_at_the_2003_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_FINA_World_Open_Water_Swimming_Championships",
+            "http://dbpedia.org/resource/Dubai"
+        ],
+        [
+            "http://dbpedia.org/resource/Open_water_swimming_at_the_2003_World_Aquatics_Championships",
+            "http://dbpedia.org/resource/Montreal"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_FINA_World_Open_Water_Swimming_Championships",
+            "http://dbpedia.org/resource/Naples"
+        ]
+    ]
+}

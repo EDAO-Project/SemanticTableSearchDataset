@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wladimir_Belli",
+            "http://dbpedia.org/resource/Panaria-Vinavil"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Baronti",
+            "http://dbpedia.org/resource/Panaria-Vinavil"
+        ],
+        [
+            "http://dbpedia.org/resource/Davide_Bramati",
+            "http://dbpedia.org/resource/Panaria-Vinavil"
+        ],
+        [
+            "http://dbpedia.org/resource/Oscar_Camenzind",
+            "http://dbpedia.org/resource/Panaria-Vinavil"
+        ],
+        [
+            "http://dbpedia.org/resource/Roberto_Conti",
+            "http://dbpedia.org/resource/Panaria-Vinavil"
+        ],
+        [
+            "http://dbpedia.org/resource/Valentino_Fois",
+            "http://dbpedia.org/resource/Panaria-Vinavil"
+        ],
+        [
+            "http://dbpedia.org/resource/Zbigniew_Spruch",
+            "http://dbpedia.org/resource/Panaria-Vinavil"
+        ],
+        [
+            "http://dbpedia.org/resource/Piotr_Ugrumov",
+            "http://dbpedia.org/resource/Roslotto-ZG_Mobili"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefano_Cattai",
+            "http://dbpedia.org/resource/Roslotto-ZG_Mobili"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Ferrigato",
+            "http://dbpedia.org/resource/Roslotto-ZG_Mobili"
+        ]
+    ]
+}

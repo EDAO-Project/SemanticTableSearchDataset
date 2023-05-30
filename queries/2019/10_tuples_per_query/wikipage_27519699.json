@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dennis_Viollet",
+            "http://dbpedia.org/resource/Manchester_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandro_Mazzola",
+            "http://dbpedia.org/resource/Inter_Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Van_Himst",
+            "http://dbpedia.org/resource/Anderlecht"
+        ],
+        [
+            "http://dbpedia.org/resource/Denis_Law",
+            "http://dbpedia.org/resource/Manchester_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Eduard_Markarov",
+            "http://dbpedia.org/resource/Ararat_Yerevan"
+        ],
+        [
+            "http://dbpedia.org/resource/Claudio_Sulser",
+            "http://dbpedia.org/resource/Grasshopper"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_McDermott",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Graeme_Souness",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Karl-Heinz_Rummenigge",
+            "http://dbpedia.org/resource/Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Paolo_Rossi",
+            "http://dbpedia.org/resource/Juventus"
+        ]
+    ]
+}

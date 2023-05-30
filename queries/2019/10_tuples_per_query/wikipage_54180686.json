@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paul_Davison",
+            "http://dbpedia.org/resource/Niu_Zhuang"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhou_Yuelong",
+            "http://dbpedia.org/resource/Kurt_Dunham"
+        ],
+        [
+            "http://dbpedia.org/resource/Tian_Pengfei",
+            "http://dbpedia.org/resource/Scott_Donaldson"
+        ],
+        [
+            "http://dbpedia.org/resource/Wang_Yuchen",
+            "http://dbpedia.org/resource/Rod_Lawler"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Milkins",
+            "http://dbpedia.org/resource/Aditya_Mehta"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Steadman",
+            "http://dbpedia.org/resource/Lyu_Haotian"
+        ],
+        [
+            "http://dbpedia.org/resource/Chen_Zifan",
+            "http://dbpedia.org/resource/Ross_Muir"
+        ],
+        [
+            "http://dbpedia.org/resource/Mitchell_Mann",
+            "http://dbpedia.org/resource/Ben_Woollaston"
+        ],
+        [
+            "http://dbpedia.org/resource/Alfie_Burden",
+            "http://dbpedia.org/resource/Kyren_Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/Nigel_Bond",
+            "http://dbpedia.org/resource/Dominic_Dale"
+        ]
+    ]
+}

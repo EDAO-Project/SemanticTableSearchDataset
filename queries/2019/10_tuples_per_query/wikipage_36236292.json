@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Istres",
+            "http://dbpedia.org/resource/Stade_Jean_Laville"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_de_Reims",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Libourne_Saint-Seurin",
+            "http://dbpedia.org/resource/Stade_Jean_Laville"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_Brestois_29",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/SM_Caen",
+            "http://dbpedia.org/resource/Stade_Jean_Laville"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Metz",
+            "http://dbpedia.org/resource/Stade_Jean_Laville"
+        ],
+        [
+            "http://dbpedia.org/resource/Dijon_FCO",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Montpellier_HSC",
+            "http://dbpedia.org/resource/Stade_Jean_Laville"
+        ],
+        [
+            "http://dbpedia.org/resource/Amiens_SC",
+            "http://dbpedia.org/resource/Stade_Jean_Laville"
+        ],
+        [
+            "http://dbpedia.org/resource/Tours_FC",
+            "http://dbpedia.org/resource/Stade_Jean_Laville"
+        ]
+    ]
+}

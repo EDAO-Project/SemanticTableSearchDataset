@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1946_Japanese_general_election",
+            "http://dbpedia.org/resource/Tetsu_Katayama"
+        ],
+        [
+            "http://dbpedia.org/resource/1947_Japanese_general_election",
+            "http://dbpedia.org/resource/Tetsu_Katayama"
+        ],
+        [
+            "http://dbpedia.org/resource/1949_Japanese_general_election",
+            "http://dbpedia.org/resource/Tetsu_Katayama"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_Japanese_general_election",
+            "http://dbpedia.org/resource/Tomomi_Narita"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_Japanese_general_election",
+            "http://dbpedia.org/resource/Tomomi_Narita"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Japanese_general_election",
+            "http://dbpedia.org/resource/Tomomi_Narita"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Japanese_general_election",
+            "http://dbpedia.org/resource/Ichio_Asukata"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Japanese_general_election",
+            "http://dbpedia.org/resource/Ichio_Asukata"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Japanese_general_election",
+            "http://dbpedia.org/resource/Masashi_Ishibashi"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Japanese_general_election",
+            "http://dbpedia.org/resource/Masashi_Ishibashi"
+        ]
+    ]
+}

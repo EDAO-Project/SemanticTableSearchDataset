@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/Batman_Begins"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/Underworld:_Evolution"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/Captain_America:_The_First_Avenger"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/Snow_White_and_the_Huntsman"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/Iron_Man_3"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/Thor:_The_Dark_World"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/White_House_Down"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/Avengers:_Age_of_Ultron"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_MTV_Movie_Awards",
+            "http://dbpedia.org/resource/Mad_Max:_Fury_Road"
+        ]
+    ]
+}

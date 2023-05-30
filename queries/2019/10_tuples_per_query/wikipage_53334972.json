@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akrotiri_and_Dhekelia",
+            "http://dbpedia.org/resource/Overseas_Territory_of_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Anguilla",
+            "http://dbpedia.org/resource/Overseas_Territory_of_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Ascension_Island",
+            "http://dbpedia.org/resource/Overseas_Territory_of_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Bermuda",
+            "http://dbpedia.org/resource/Overseas_Territory_of_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/British_Antarctic_Territory",
+            "http://dbpedia.org/resource/Overseas_Territory_of_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/British_Virgin_Islands",
+            "http://dbpedia.org/resource/Overseas_Territory_of_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Cayman_Islands",
+            "http://dbpedia.org/resource/Overseas_Territory_of_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Cook_Islands",
+            "http://dbpedia.org/resource/Realm_of_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Falkland_Islands",
+            "http://dbpedia.org/resource/Overseas_Territory_of_the_United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Niue",
+            "http://dbpedia.org/resource/Realm_of_New_Zealand"
+        ]
+    ]
+}

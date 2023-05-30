@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akunnaaq",
+            "http://dbpedia.org/resource/Qeqertalik"
+        ],
+        [
+            "http://dbpedia.org/resource/Iginniarfik",
+            "http://dbpedia.org/resource/Qeqertalik"
+        ],
+        [
+            "http://dbpedia.org/resource/Arsuk",
+            "http://dbpedia.org/resource/Sermersooq"
+        ],
+        [
+            "http://dbpedia.org/resource/Itilleq",
+            "http://dbpedia.org/resource/Qeqqata"
+        ],
+        [
+            "http://dbpedia.org/resource/Napasoq",
+            "http://dbpedia.org/resource/Qeqqata"
+        ],
+        [
+            "http://dbpedia.org/resource/Ikamiut",
+            "http://dbpedia.org/resource/Qeqertalik"
+        ],
+        [
+            "http://dbpedia.org/resource/Narsarmijit",
+            "http://dbpedia.org/resource/Kujalleq"
+        ],
+        [
+            "http://dbpedia.org/resource/Eqalugaarsuit",
+            "http://dbpedia.org/resource/Kujalleq"
+        ],
+        [
+            "http://dbpedia.org/resource/Isertoq",
+            "http://dbpedia.org/resource/Sermersooq"
+        ],
+        [
+            "http://dbpedia.org/resource/Ilimanaq",
+            "http://dbpedia.org/resource/Avannaata"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sparta_Warriors",
+            "http://dbpedia.org/resource/GET-ligaen"
+        ],
+        [
+            "http://dbpedia.org/resource/Lillehammer_IK",
+            "http://dbpedia.org/resource/GET-ligaen"
+        ],
+        [
+            "http://dbpedia.org/resource/Lillehammer_IK",
+            "http://dbpedia.org/resource/GET-ligaen"
+        ],
+        [
+            "http://dbpedia.org/resource/Sparta_Warriors",
+            "http://dbpedia.org/resource/GET-ligaen"
+        ],
+        [
+            "http://dbpedia.org/resource/HV71",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HV71",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HV71",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HV71",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HV71",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_Hockey",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ]
+    ]
+}

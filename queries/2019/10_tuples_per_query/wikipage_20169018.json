@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hallescher_FC",
+            "http://dbpedia.org/resource/1._FC_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/SG_Bergmann-Borsig",
+            "http://dbpedia.org/resource/FC_Stahl_Brandenburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Energie_Cottbus",
+            "http://dbpedia.org/resource/Berliner_FC_Dynamo"
+        ],
+        [
+            "http://dbpedia.org/resource/BSG_Stahl_Riesa",
+            "http://dbpedia.org/resource/1._FC_Lokomotive_Leipzig"
+        ],
+        [
+            "http://dbpedia.org/resource/Berliner_FC_Dynamo",
+            "http://dbpedia.org/resource/Chemnitzer_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Dynamo_Dresden",
+            "http://dbpedia.org/resource/Hallescher_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FC_Frankfurt",
+            "http://dbpedia.org/resource/Hansa_Rostock"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FC_Lokomotive_Leipzig",
+            "http://dbpedia.org/resource/Bischofswerdaer_FV_08"
+        ],
+        [
+            "http://dbpedia.org/resource/TSG_Neustrelitz",
+            "http://dbpedia.org/resource/FC_Pommern_Stralsund"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FC_Lok_Stendal",
+            "http://dbpedia.org/resource/FSV_Wacker_90_Nordhausen"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/1995_Arena_Football_League_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/1996_Arena_Football_League_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/1997_Arena_Football_League_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/1998_Arena_Football_League_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/1999_Arena_Football_League_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/2000_Arena_Football_League_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/2008_af2_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/2009_af2_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/2010_Arena_Football_League_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Iowa_Barnstormers_season",
+            "http://dbpedia.org/resource/2011_Arena_Football_League_season"
+        ]
+    ]
+}

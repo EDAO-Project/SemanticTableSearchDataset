@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Terrassa_FC",
+            "http://dbpedia.org/resource/Levante_UD"
+        ],
+        [
+            "http://dbpedia.org/resource/UDA_Gramenet",
+            "http://dbpedia.org/resource/RCD_Mallorca"
+        ],
+        [
+            "http://dbpedia.org/resource/Novelda_CF",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Amurrio_Club",
+            "http://dbpedia.org/resource/Athletic_Club_Bilbao"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Union",
+            "http://dbpedia.org/resource/Racing_Santander"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Zaragoza",
+            "http://dbpedia.org/resource/Real_Sociedad"
+        ],
+        [
+            "http://dbpedia.org/resource/CD_Numancia",
+            "http://dbpedia.org/resource/CD_Tenerife"
+        ],
+        [
+            "http://dbpedia.org/resource/Cultural_Leonesa",
+            "http://dbpedia.org/resource/Rayo_Vallecano"
+        ],
+        [
+            "http://dbpedia.org/resource/Burgos_CF",
+            "http://dbpedia.org/resource/Celta_de_Vigo"
+        ],
+        [
+            "http://dbpedia.org/resource/Alicante_CF",
+            "http://dbpedia.org/resource/RCD_Espanyol"
+        ]
+    ]
+}

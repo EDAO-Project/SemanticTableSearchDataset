@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chuck_Fairbanks",
+            "http://dbpedia.org/resource/New_England_Patriots"
+        ],
+        [
+            "http://dbpedia.org/resource/Travis_Jones",
+            "http://dbpedia.org/resource/New_Orleans_Saints"
+        ],
+        [
+            "http://dbpedia.org/resource/Sal_Alosi",
+            "http://dbpedia.org/resource/New_York_Jets"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Moeller",
+            "http://dbpedia.org/resource/Baltimore_Ravens"
+        ],
+        [
+            "http://dbpedia.org/resource/Gregg_Williams",
+            "http://dbpedia.org/resource/St._Louis_Rams"
+        ],
+        [
+            "http://dbpedia.org/resource/Sean_Payton",
+            "http://dbpedia.org/resource/New_Orleans_Saints"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Vitt",
+            "http://dbpedia.org/resource/New_Orleans_Saints"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Priefer",
+            "http://dbpedia.org/resource/Minnesota_Vikings"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaron_Kromer",
+            "http://dbpedia.org/resource/Buffalo_Bills"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Moeller",
+            "http://dbpedia.org/resource/Cleveland_Browns"
+        ]
+    ]
+}

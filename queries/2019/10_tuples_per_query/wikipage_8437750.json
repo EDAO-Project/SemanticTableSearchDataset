@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tappara",
+            "http://dbpedia.org/resource/SM-liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/Tappara",
+            "http://dbpedia.org/resource/SM-liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/Tappara",
+            "http://dbpedia.org/resource/SM-liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Roadrunners",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HV71",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HV71",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlant_Moscow_Oblast",
+            "http://dbpedia.org/resource/Kontinental_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HV71",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HV71",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ]
+    ]
+}

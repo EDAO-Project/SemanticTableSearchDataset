@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saitama_Stadium_2002",
+            "http://dbpedia.org/resource/Omiya_Ardija"
+        ],
+        [
+            "http://dbpedia.org/resource/Niigata_City_Athletic_Stadium",
+            "http://dbpedia.org/resource/Avispa_Fukuoka"
+        ],
+        [
+            "http://dbpedia.org/resource/Niigata_City_Athletic_Stadium",
+            "http://dbpedia.org/resource/Consadole_Sapporo"
+        ],
+        [
+            "http://dbpedia.org/resource/Kose_Sports_Stadium",
+            "http://dbpedia.org/resource/Ventforet_Kofu"
+        ],
+        [
+            "http://dbpedia.org/resource/Niigata_City_Athletic_Stadium",
+            "http://dbpedia.org/resource/Sanfrecce_Hiroshima"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiratsuka_Athletics_Stadium",
+            "http://dbpedia.org/resource/Shonan_Bellmare"
+        ],
+        [
+            "http://dbpedia.org/resource/Niigata_City_Athletic_Stadium",
+            "http://dbpedia.org/resource/Kawasaki_Frontale"
+        ],
+        [
+            "http://dbpedia.org/resource/Yamagata_Park_Stadium",
+            "http://dbpedia.org/resource/Montedio_Yamagata"
+        ],
+        [
+            "http://dbpedia.org/resource/Niigata_Stadium",
+            "http://dbpedia.org/resource/Mito_HollyHock"
+        ],
+        [
+            "http://dbpedia.org/resource/Tosu_Stadium",
+            "http://dbpedia.org/resource/Sagan_Tosu"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Battle_of_Avdiivka",
+            "http://dbpedia.org/resource/War_in_Donbass"
+        ],
+        [
+            "http://dbpedia.org/resource/Operation_Ghazi",
+            "http://dbpedia.org/resource/War_in_North-West_Pakistan"
+        ],
+        [
+            "http://dbpedia.org/resource/Operation_Radd-ul-Fasaad",
+            "http://dbpedia.org/resource/War_in_North-West_Pakistan"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_Hama_offensive",
+            "http://dbpedia.org/resource/Syrian_Civil_War"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_Bohol_clashes",
+            "http://dbpedia.org/resource/Moro_conflict"
+        ],
+        [
+            "http://dbpedia.org/resource/Maskanah_Plains_offensive",
+            "http://dbpedia.org/resource/Syrian_Civil_War"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_of_Marawi",
+            "http://dbpedia.org/resource/Moro_conflict"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_Jobar_offensive",
+            "http://dbpedia.org/resource/Syrian_Civil_War"
+        ],
+        [
+            "http://dbpedia.org/resource/Pagak_offensive",
+            "http://dbpedia.org/resource/South_Sudanese_Civil_War"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_Euphrates_Crossing_offensive",
+            "http://dbpedia.org/resource/Syrian_Civil_War"
+        ]
+    ]
+}

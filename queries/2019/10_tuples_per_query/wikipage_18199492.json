@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amurrio_Club",
+            "http://dbpedia.org/resource/Racing_de_Santander"
+        ],
+        [
+            "http://dbpedia.org/resource/SD_Eibar",
+            "http://dbpedia.org/resource/Real_Valladolid"
+        ],
+        [
+            "http://dbpedia.org/resource/Terrassa_FC",
+            "http://dbpedia.org/resource/RCD_Espanyol"
+        ],
+        [
+            "http://dbpedia.org/resource/UE_Lleida",
+            "http://dbpedia.org/resource/Valencia_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/Algeciras_CF",
+            "http://dbpedia.org/resource/Sevilla_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Xerez_CD",
+            "http://dbpedia.org/resource/Ciudad_de_Murcia"
+        ],
+        [
+            "http://dbpedia.org/resource/CF_Badalona",
+            "http://dbpedia.org/resource/Levante_UD"
+        ],
+        [
+            "http://dbpedia.org/resource/UD_Las_Palmas",
+            "http://dbpedia.org/resource/Getafe_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/Rayo_Vallecano",
+            "http://dbpedia.org/resource/RCD_Mallorca"
+        ],
+        [
+            "http://dbpedia.org/resource/UDA_Gramenet",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ]
+    ]
+}

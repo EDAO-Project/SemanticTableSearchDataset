@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hrudayantar",
+            "http://dbpedia.org/resource/Marathi_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Karaar",
+            "http://dbpedia.org/resource/Marathi_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Fugay",
+            "http://dbpedia.org/resource/Marathi_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Pinneyum",
+            "http://dbpedia.org/resource/Malayalam_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Lokmanya_Ek_Yugpurush",
+            "http://dbpedia.org/resource/Bal_Gangadhar_Tilak"
+        ],
+        [
+            "http://dbpedia.org/resource/Aiyyaa",
+            "http://dbpedia.org/resource/Hindi_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Ranbhool",
+            "http://dbpedia.org/resource/Marathi_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Hapus",
+            "http://dbpedia.org/resource/Marathi_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Ek_Daav_Dhobi_Pachhad",
+            "http://dbpedia.org/resource/Marathi_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Aamhi_Asu_Ladke",
+            "http://dbpedia.org/resource/Marathi_film"
+        ]
+    ]
+}

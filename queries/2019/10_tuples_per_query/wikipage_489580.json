@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/29th_Avenue_station",
+            "http://dbpedia.org/resource/Vancouver"
+        ],
+        [
+            "http://dbpedia.org/resource/Braid_station",
+            "http://dbpedia.org/resource/New_Westminster"
+        ],
+        [
+            "http://dbpedia.org/resource/Brentwood_Town_Centre_station",
+            "http://dbpedia.org/resource/Burnaby"
+        ],
+        [
+            "http://dbpedia.org/resource/Burquitlam_station",
+            "http://dbpedia.org/resource/Coquitlam"
+        ],
+        [
+            "http://dbpedia.org/resource/Burrard_station",
+            "http://dbpedia.org/resource/Vancouver"
+        ],
+        [
+            "http://dbpedia.org/resource/Coquitlam_station",
+            "http://dbpedia.org/resource/Coquitlam"
+        ],
+        [
+            "http://dbpedia.org/resource/Holdom_station",
+            "http://dbpedia.org/resource/Burnaby"
+        ],
+        [
+            "http://dbpedia.org/resource/Inlet_Centre_station",
+            "http://dbpedia.org/resource/Port_Moody"
+        ],
+        [
+            "http://dbpedia.org/resource/King_Edward_station",
+            "http://dbpedia.org/resource/Vancouver"
+        ],
+        [
+            "http://dbpedia.org/resource/Lake_City_Way_station",
+            "http://dbpedia.org/resource/Burnaby"
+        ]
+    ]
+}

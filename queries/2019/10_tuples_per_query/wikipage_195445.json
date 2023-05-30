@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/St._Martin_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Evangeline_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Vermilion_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Aroostook_County,_Maine",
+            "http://dbpedia.org/resource/Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/Lafourche_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Acadia_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Avoyelles_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Assumption_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Landry_Parish,_Louisiana",
+            "http://dbpedia.org/resource/Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Coos_County,_New_Hampshire",
+            "http://dbpedia.org/resource/New_Hampshire"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alum_Rock,_California",
+            "http://dbpedia.org/resource/Census-designated_place"
+        ],
+        [
+            "http://dbpedia.org/resource/Burbank,_Santa_Clara_County,_California",
+            "http://dbpedia.org/resource/Census-designated_place"
+        ],
+        [
+            "http://dbpedia.org/resource/Cambrian_Park,_California",
+            "http://dbpedia.org/resource/Census-designated_place"
+        ],
+        [
+            "http://dbpedia.org/resource/Campbell,_California",
+            "http://dbpedia.org/resource/List_of_cities_and_towns_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Cupertino,_California",
+            "http://dbpedia.org/resource/List_of_cities_and_towns_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Foothills,_California",
+            "http://dbpedia.org/resource/Census-designated_place"
+        ],
+        [
+            "http://dbpedia.org/resource/Fruitdale,_California",
+            "http://dbpedia.org/resource/Census-designated_place"
+        ],
+        [
+            "http://dbpedia.org/resource/Gilroy,_California",
+            "http://dbpedia.org/resource/List_of_cities_and_towns_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Lexington_Hills,_California",
+            "http://dbpedia.org/resource/Census-designated_place"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Altos,_California",
+            "http://dbpedia.org/resource/List_of_cities_and_towns_in_California"
+        ]
+    ]
+}

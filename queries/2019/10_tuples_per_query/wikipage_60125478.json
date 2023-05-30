@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albertus_Magnus_Falcons",
+            "http://dbpedia.org/resource/Emerson_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Emerson_Lions",
+            "http://dbpedia.org/resource/Albertus_Magnus_Falcons"
+        ],
+        [
+            "http://dbpedia.org/resource/Emerson_Lions",
+            "http://dbpedia.org/resource/Rivier_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/Endicott_Gulls",
+            "http://dbpedia.org/resource/Emerson_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_New_England_Golden_Bears",
+            "http://dbpedia.org/resource/Emerson_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_New_England_Golden_Bears",
+            "http://dbpedia.org/resource/Emerson_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Suffolk_Rams",
+            "http://dbpedia.org/resource/Johnson_&_Wales_Wildcats"
+        ],
+        [
+            "http://dbpedia.org/resource/Southern_Vermont_Mountaineers",
+            "http://dbpedia.org/resource/Albertus_Magnus_Falcons"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnson_&_Wales_Wildcats",
+            "http://dbpedia.org/resource/Southern_Vermont_Mountaineers"
+        ],
+        [
+            "http://dbpedia.org/resource/Norwich_Cadets",
+            "http://dbpedia.org/resource/Emerson_Lions"
+        ]
+    ]
+}

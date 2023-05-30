@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Outer_Ring_Road,_Amaravati",
+            "http://dbpedia.org/resource/Andhra_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Kanpur_Lucknow_Expressway",
+            "http://dbpedia.org/resource/Uttar_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Amaravati_Anantapur_Expressway",
+            "http://dbpedia.org/resource/Andhra_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangalore_-_Mysore_Infrastructure_Corridor",
+            "http://dbpedia.org/resource/Karnataka"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai_Elevated_Expressways",
+            "http://dbpedia.org/resource/Tamil_Nadu"
+        ],
+        [
+            "http://dbpedia.org/resource/Outer_Ring_Road,_Chennai",
+            "http://dbpedia.org/resource/Tamil_Nadu"
+        ],
+        [
+            "http://dbpedia.org/resource/Kadapa_Feeder_Expressway",
+            "http://dbpedia.org/resource/Andhra_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Kurnool_Feeder_Expressway",
+            "http://dbpedia.org/resource/Andhra_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Loknayak_Ganga_Path",
+            "http://dbpedia.org/resource/Bihar"
+        ],
+        [
+            "http://dbpedia.org/resource/Raipur_bilaspur_expressway",
+            "http://dbpedia.org/resource/Chhattisgarh"
+        ]
+    ]
+}

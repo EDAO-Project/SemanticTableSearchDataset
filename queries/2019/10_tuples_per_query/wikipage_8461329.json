@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Berry_Powel",
+            "http://dbpedia.org/resource/De_Graafschap"
+        ],
+        [
+            "http://dbpedia.org/resource/Harrie_Gommans",
+            "http://dbpedia.org/resource/MVV_Maastricht"
+        ],
+        [
+            "http://dbpedia.org/resource/Jhonny_van_Beukering",
+            "http://dbpedia.org/resource/De_Graafschap"
+        ],
+        [
+            "http://dbpedia.org/resource/Cecilio_Lopes",
+            "http://dbpedia.org/resource/FC_Dordrecht"
+        ],
+        [
+            "http://dbpedia.org/resource/Dirk_Jan_Derksen",
+            "http://dbpedia.org/resource/VVV-Venlo"
+        ],
+        [
+            "http://dbpedia.org/resource/Sjoerd_Ars",
+            "http://dbpedia.org/resource/Go_Ahead_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Bruin",
+            "http://dbpedia.org/resource/Stormvogels_Telstar"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruud_ter_Heide",
+            "http://dbpedia.org/resource/AGOVV_Apeldoorn"
+        ],
+        [
+            "http://dbpedia.org/resource/Marnix_Kolder",
+            "http://dbpedia.org/resource/BV_Veendam"
+        ],
+        [
+            "http://dbpedia.org/resource/Ahmed_Ahahaoui",
+            "http://dbpedia.org/resource/HFC_Haarlem"
+        ]
+    ]
+}

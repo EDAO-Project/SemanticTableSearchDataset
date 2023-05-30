@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mea_Maxima_Culpa:_Silence_in_the_House_of_God",
+            "http://dbpedia.org/resource/Alex_Gibney"
+        ],
+        [
+            "http://dbpedia.org/resource/We_Are_Legion",
+            "http://dbpedia.org/resource/Brian_Knappenberger"
+        ],
+        [
+            "http://dbpedia.org/resource/Stories_We_Tell",
+            "http://dbpedia.org/resource/Sarah_Polley"
+        ],
+        [
+            "http://dbpedia.org/resource/We_Steal_Secrets:_The_Story_of_WikiLeaks",
+            "http://dbpedia.org/resource/Alex_Gibney"
+        ],
+        [
+            "http://dbpedia.org/resource/Kurt_Cobain:_Montage_of_Heck",
+            "http://dbpedia.org/resource/Brett_Morgen"
+        ],
+        [
+            "http://dbpedia.org/resource/Zero_Days",
+            "http://dbpedia.org/resource/Alex_Gibney"
+        ],
+        [
+            "http://dbpedia.org/resource/Betting_on_Zero",
+            "http://dbpedia.org/resource/Ted_Braun"
+        ],
+        [
+            "http://dbpedia.org/resource/Fahrenheit_11/9",
+            "http://dbpedia.org/resource/Michael_Moore"
+        ],
+        [
+            "http://dbpedia.org/resource/Generation_Wealth",
+            "http://dbpedia.org/resource/Lauren_Greenfield"
+        ],
+        [
+            "http://dbpedia.org/resource/In_Search_of_Greatness",
+            "http://dbpedia.org/resource/Gabe_Polsky"
+        ]
+    ]
+}

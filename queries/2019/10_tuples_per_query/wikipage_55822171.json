@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Courcey_Rovers_GAA",
+            "http://dbpedia.org/resource/Castlelyons_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Watergrasshill_GAA",
+            "http://dbpedia.org/resource/Ballinhassig_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Kilworth_GAA",
+            "http://dbpedia.org/resource/Aghada_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Valley_Rovers_GAA",
+            "http://dbpedia.org/resource/Ballinhassig_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Watergrasshill_GAA",
+            "http://dbpedia.org/resource/Fermoy_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Declan_Dalton",
+            "http://dbpedia.org/resource/Kilworth_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballinhassig_GAA",
+            "http://dbpedia.org/resource/Watergrasshill_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Mallow_GAA",
+            "http://dbpedia.org/resource/Kilworth_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Courcey_Rovers_GAA",
+            "http://dbpedia.org/resource/Inniscarra_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Kilworth_GAA",
+            "http://dbpedia.org/resource/Mallow_GAA"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KF_Drenica",
+            "http://dbpedia.org/resource/Football_Superleague_of_Kosovo"
+        ],
+        [
+            "http://dbpedia.org/resource/KF_Drenica",
+            "http://dbpedia.org/resource/Football_Superleague_of_Kosovo"
+        ],
+        [
+            "http://dbpedia.org/resource/KF_Drenica",
+            "http://dbpedia.org/resource/Football_Superleague_of_Kosovo"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Partizani_Tirana",
+            "http://dbpedia.org/resource/Albanian_Superliga"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Partizani_Tirana",
+            "http://dbpedia.org/resource/Albanian_Superliga"
+        ],
+        [
+            "http://dbpedia.org/resource/RNK_Split",
+            "http://dbpedia.org/resource/Croatian_First_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/RNK_Split",
+            "http://dbpedia.org/resource/Croatian_First_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/GNK_Dinamo_Zagreb",
+            "http://dbpedia.org/resource/Croatian_First_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/GNK_Dinamo_Zagreb",
+            "http://dbpedia.org/resource/Croatian_First_Football_League"
+        ],
+        [
+            "http://dbpedia.org/resource/GNK_Dinamo_Zagreb",
+            "http://dbpedia.org/resource/Croatian_First_Football_League"
+        ]
+    ]
+}

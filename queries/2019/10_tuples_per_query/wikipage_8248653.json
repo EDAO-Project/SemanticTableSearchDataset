@@ -1,0 +1,47 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Hyderabad,_Andhra_Pradesh",
+            "http://dbpedia.org/resource/Hyderabad,_Andhra_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Kurnool_district",
+            "http://dbpedia.org/resource/Nandyal"
+        ],
+        [
+            "http://dbpedia.org/resource/Medak_district",
+            "http://dbpedia.org/resource/Sangareddy"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahbubnagar_district",
+            "http://dbpedia.org/resource/Nagarkurnool"
+        ],
+        [
+            "http://dbpedia.org/resource/Karnataka",
+            "http://dbpedia.org/resource/Gulbarga"
+        ],
+        [
+            "http://dbpedia.org/resource/Bihar",
+            "http://dbpedia.org/resource/Muzaffarpur",
+            "http://dbpedia.org/resource/Muzaffarpur"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Champaran_district",
+            "http://dbpedia.org/resource/Motihari"
+        ],
+        [
+            "http://dbpedia.org/resource/Orissa,_India",
+            "http://dbpedia.org/resource/Sambalpur",
+            "http://dbpedia.org/resource/Sambalpur"
+        ],
+        [
+            "http://dbpedia.org/resource/Boudh_district",
+            "http://dbpedia.org/resource/Boudh"
+        ],
+        [
+            "http://dbpedia.org/resource/Rajasthan",
+            "http://dbpedia.org/resource/Jaipur"
+        ]
+    ]
+}

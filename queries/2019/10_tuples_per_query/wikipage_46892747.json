@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1969_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/CR_Belouizdad"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/CR_Belouizdad"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/MC_Alger"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/Hamra_Annaba"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/MC_Alger"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/MC_Oran"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/CR_Belouizdad"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/USM_Alger"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/MC_Alger"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_Algerian_Cup_Final",
+            "http://dbpedia.org/resource/USM_Alger"
+        ]
+    ]
+}

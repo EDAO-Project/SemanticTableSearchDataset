@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wagner_Brown",
+            "http://dbpedia.org/resource/Lawrence,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/RJ_Brewer",
+            "http://dbpedia.org/resource/Lawrence,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Chad_Wicks",
+            "http://dbpedia.org/resource/North_Andover,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Chad_Wicks",
+            "http://dbpedia.org/resource/Methuen,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Mailhot",
+            "http://dbpedia.org/resource/Methuen,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommaso_Ciampa",
+            "http://dbpedia.org/resource/Methuen,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Evan_Markopoulos",
+            "http://dbpedia.org/resource/Lowell,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Taven",
+            "http://dbpedia.org/resource/Woburn,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Taven",
+            "http://dbpedia.org/resource/Woburn,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Evan_Markopoulos",
+            "http://dbpedia.org/resource/Lowell,_MA"
+        ]
+    ]
+}

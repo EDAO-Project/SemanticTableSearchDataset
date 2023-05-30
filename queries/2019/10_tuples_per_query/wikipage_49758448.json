@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Excelsior_Maassluis",
+            "http://dbpedia.org/resource/Maassluis"
+        ],
+        [
+            "http://dbpedia.org/resource/HHC_Hardenberg",
+            "http://dbpedia.org/resource/Hardenberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Kozakken_Boys",
+            "http://dbpedia.org/resource/Werkendam"
+        ],
+        [
+            "http://dbpedia.org/resource/SV_Spakenburg",
+            "http://dbpedia.org/resource/Bunschoten"
+        ],
+        [
+            "http://dbpedia.org/resource/GVVV",
+            "http://dbpedia.org/resource/Veenendaal"
+        ],
+        [
+            "http://dbpedia.org/resource/SV_TEC",
+            "http://dbpedia.org/resource/Tiel"
+        ],
+        [
+            "http://dbpedia.org/resource/VVSB",
+            "http://dbpedia.org/resource/Noordwijkerhout"
+        ],
+        [
+            "http://dbpedia.org/resource/Koninklijke_HFC",
+            "http://dbpedia.org/resource/Haarlem"
+        ],
+        [
+            "http://dbpedia.org/resource/De_Treffers",
+            "http://dbpedia.org/resource/Groesbeek"
+        ],
+        [
+            "http://dbpedia.org/resource/Amsterdamsche_FC",
+            "http://dbpedia.org/resource/Amsterdam"
+        ]
+    ]
+}

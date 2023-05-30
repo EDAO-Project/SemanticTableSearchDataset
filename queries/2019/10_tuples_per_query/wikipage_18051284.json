@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tri-City_Americans",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Tri-City_Americans",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Tri-City_Americans",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Tri-City_Americans",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Admirals",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Admirals",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Cyclones",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Cyclones",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Oklahoma_City_Barons",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Odense_Bulldogs",
+            "http://dbpedia.org/resource/Metal_Ligaen"
+        ]
+    ]
+}

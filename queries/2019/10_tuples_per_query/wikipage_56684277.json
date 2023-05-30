@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bart_Hester",
+            "http://dbpedia.org/resource/Cave_Springs,_AR"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Hendren",
+            "http://dbpedia.org/resource/Gravette,_AR"
+        ],
+        [
+            "http://dbpedia.org/resource/Cecile_Bledsoe",
+            "http://dbpedia.org/resource/Rogers,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Uvalde_Lindsey",
+            "http://dbpedia.org/resource/Fayetteville,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Stubblefield",
+            "http://dbpedia.org/resource/Branch,_AR"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_Woods",
+            "http://dbpedia.org/resource/Springdale,_AR"
+        ],
+        [
+            "http://dbpedia.org/resource/Jake_Files",
+            "http://dbpedia.org/resource/Fort_Smith,_AR"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Rice",
+            "http://dbpedia.org/resource/Waldron,_AR"
+        ],
+        [
+            "http://dbpedia.org/resource/Larry_Teague",
+            "http://dbpedia.org/resource/Nashville,_AR"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_Maloch",
+            "http://dbpedia.org/resource/Magnolia,_AR"
+        ]
+    ]
+}

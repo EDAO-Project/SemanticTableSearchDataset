@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_SKVICH_Minsk",
+            "http://dbpedia.org/resource/Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Molodechno",
+            "http://dbpedia.org/resource/Molodechno"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Rechitsa-2014",
+            "http://dbpedia.org/resource/Rechitsa"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Granit_Mikashevichi",
+            "http://dbpedia.org/resource/Mikashevichi"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_ZLiN_Gomel",
+            "http://dbpedia.org/resource/Gomel"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Torpedo_Mogilev",
+            "http://dbpedia.org/resource/Mogilev"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Kommunalnik_Slonim",
+            "http://dbpedia.org/resource/Slonim"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dnepr_Rogachev",
+            "http://dbpedia.org/resource/Rogachev"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dinamo-Juni_Minsk",
+            "http://dbpedia.org/resource/Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Vertikal_Kalinkovichi",
+            "http://dbpedia.org/resource/Kalinkovichi"
+        ]
+    ]
+}

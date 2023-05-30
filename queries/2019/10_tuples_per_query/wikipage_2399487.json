@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Enosis_Neon_Trust",
+            "http://dbpedia.org/resource/APOEL_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/APOEL_FC",
+            "http://dbpedia.org/resource/Enosis_Neon_Trust"
+        ],
+        [
+            "http://dbpedia.org/resource/Enosis_Neon_Trust",
+            "http://dbpedia.org/resource/AEL_Limassol"
+        ],
+        [
+            "http://dbpedia.org/resource/AEL_Limassol",
+            "http://dbpedia.org/resource/APOEL_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/AEL_Limassol",
+            "http://dbpedia.org/resource/Pezoporikos_Larnaca_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/APOEL_FC",
+            "http://dbpedia.org/resource/AEL_Limassol"
+        ],
+        [
+            "http://dbpedia.org/resource/EPA_Larnaca_FC",
+            "http://dbpedia.org/resource/APOEL_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/EPA_Larnaca_FC",
+            "http://dbpedia.org/resource/APOEL_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/APOEL_FC",
+            "http://dbpedia.org/resource/Anorthosis_Famagusta_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/AEL_Limassol",
+            "http://dbpedia.org/resource/APOEL_FC"
+        ]
+    ]
+}

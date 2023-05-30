@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1990_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Powell_River,_British_Columbia"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Montreal"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Montreal"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Windsor,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Anchorage,_Alaska"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Edmonton"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Tychy"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Winchester,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/New_Glasgow,_Nova_Scotia"
+        ]
+    ]
+}

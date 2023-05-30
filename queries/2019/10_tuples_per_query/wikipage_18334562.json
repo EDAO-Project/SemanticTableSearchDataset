@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1997_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Los_Angeles"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Marseille"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Klagenfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Rio_de_Janeiro"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Gstaad"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Stavanger"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Rome"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_Beach_Volleyball_World_Championships",
+            "http://dbpedia.org/resource/Hamburg"
+        ]
+    ]
+}

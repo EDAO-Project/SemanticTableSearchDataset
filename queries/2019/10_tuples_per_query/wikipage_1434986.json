@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Luther_C._Carter",
+            "http://dbpedia.org/resource/1858_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Sickles",
+            "http://dbpedia.org/resource/1856_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_J._Barr",
+            "http://dbpedia.org/resource/1858_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/William_B._Maclay",
+            "http://dbpedia.org/resource/1856_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Horace_F._Clark",
+            "http://dbpedia.org/resource/1856_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/John_B._Haskin",
+            "http://dbpedia.org/resource/1856_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Van_Wyck",
+            "http://dbpedia.org/resource/1858_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Lewis_Beale",
+            "http://dbpedia.org/resource/1858_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Abram_B._Olin",
+            "http://dbpedia.org/resource/1856_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Hazard_Reynolds",
+            "http://dbpedia.org/resource/1858_United_States_House_of_Representatives_elections_in_New_York"
+        ]
+    ]
+}

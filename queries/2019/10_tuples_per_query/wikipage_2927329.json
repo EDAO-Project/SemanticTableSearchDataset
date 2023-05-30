@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tee_Tee_Luce",
+            "http://dbpedia.org/resource/Myanmar"
+        ],
+        [
+            "http://dbpedia.org/resource/Nilawan_Pintong",
+            "http://dbpedia.org/resource/Thailand"
+        ],
+        [
+            "http://dbpedia.org/resource/Nguyen_Lac_Hoa",
+            "http://dbpedia.org/resource/South_Vietnam"
+        ],
+        [
+            "http://dbpedia.org/resource/Jayaprakash_Narayan",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Yong-ki",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/Sithiporn_Kridakorn",
+            "http://dbpedia.org/resource/Thailand"
+        ],
+        [
+            "http://dbpedia.org/resource/Seiichi_Tobata",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Pedro_Orata",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Fortich",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/M.S._Subbulakshmi",
+            "http://dbpedia.org/resource/India"
+        ]
+    ]
+}

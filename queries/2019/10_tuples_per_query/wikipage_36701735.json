@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FK_Mogren",
+            "http://dbpedia.org/resource/Montenegrin_First_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Mogren",
+            "http://dbpedia.org/resource/Montenegrin_First_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg",
+            "http://dbpedia.org/resource/Russian_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg",
+            "http://dbpedia.org/resource/Russian_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg",
+            "http://dbpedia.org/resource/Russian_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg",
+            "http://dbpedia.org/resource/Russian_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg",
+            "http://dbpedia.org/resource/Russian_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Zenit_Saint_Petersburg",
+            "http://dbpedia.org/resource/Russian_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Twente",
+            "http://dbpedia.org/resource/Eredivisie"
+        ],
+        [
+            "http://dbpedia.org/resource/Jong_FC_Twente",
+            "http://dbpedia.org/resource/Eerste_Divisie"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Awahono_School_-_Grey_Valley",
+            "http://dbpedia.org/resource/Ahaura"
+        ],
+        [
+            "http://dbpedia.org/resource/Barrytown_School",
+            "http://dbpedia.org/resource/Barrytown"
+        ],
+        [
+            "http://dbpedia.org/resource/Blaketown_School",
+            "http://dbpedia.org/resource/Blaketown"
+        ],
+        [
+            "http://dbpedia.org/resource/Cobden_School",
+            "http://dbpedia.org/resource/Cobden,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Gloriavale_Christian_Community_School",
+            "http://dbpedia.org/resource/Haupiri"
+        ],
+        [
+            "http://dbpedia.org/resource/Greymouth_High_School",
+            "http://dbpedia.org/resource/Greymouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Greymouth_Main_School",
+            "http://dbpedia.org/resource/Greymouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Karoro_School",
+            "http://dbpedia.org/resource/Karoro,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Lake_Brunner_School",
+            "http://dbpedia.org/resource/Moana,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Paparoa_Range_School",
+            "http://dbpedia.org/resource/Dobson,_New_Zealand"
+        ]
+    ]
+}

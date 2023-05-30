@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Art_Attack",
+            "http://dbpedia.org/resource/Jordi_Cruz"
+        ],
+        [
+            "http://dbpedia.org/resource/Club_Disney",
+            "http://dbpedia.org/resource/Jordi_Cruz"
+        ],
+        [
+            "http://dbpedia.org/resource/El_comisario",
+            "http://dbpedia.org/resource/Tito_Valverde"
+        ],
+        [
+            "http://dbpedia.org/resource/La_dama_velata",
+            "http://dbpedia.org/resource/Miriam_Leone"
+        ],
+        [
+            "http://dbpedia.org/resource/Court_show",
+            "http://dbpedia.org/resource/Sandra_Barneda"
+        ],
+        [
+            "http://dbpedia.org/resource/Informativos_Telecinco",
+            "http://dbpedia.org/resource/Pedro_Piqueras"
+        ],
+        [
+            "http://dbpedia.org/resource/Motivos_personales",
+            "http://dbpedia.org/resource/Lydia_Bosch"
+        ],
+        [
+            "http://dbpedia.org/resource/Piratas",
+            "http://dbpedia.org/resource/Pilar_Rubio"
+        ],
+        [
+            "http://dbpedia.org/resource/Punta_Escarlata",
+            "http://dbpedia.org/resource/Nadia_de_Santiago"
+        ],
+        [
+            "http://dbpedia.org/resource/Court_show",
+            "http://dbpedia.org/resource/Ana_Rosa_Quintana"
+        ]
+    ]
+}

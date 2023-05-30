@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rochester_Americans",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochester_Americans",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochester_Americans",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochester_Americans",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Hartford_Whalers",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Springfield_Indians",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andhra_Pradesh",
+            "http://dbpedia.org/resource/Emblem_of_Andhra_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Arunachal_Pradesh",
+            "http://dbpedia.org/resource/Emblem_of_Arunachal_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Bihar",
+            "http://dbpedia.org/resource/Emblem_of_Bihar"
+        ],
+        [
+            "http://dbpedia.org/resource/Chhattisgarh",
+            "http://dbpedia.org/resource/Emblem_of_Chhattisgarh"
+        ],
+        [
+            "http://dbpedia.org/resource/Goa",
+            "http://dbpedia.org/resource/Emblem_of_Goa"
+        ],
+        [
+            "http://dbpedia.org/resource/Haryana",
+            "http://dbpedia.org/resource/Emblem_of_Haryana"
+        ],
+        [
+            "http://dbpedia.org/resource/Himachal_Pradesh",
+            "http://dbpedia.org/resource/Emblem_of_Himachal_Pradesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Jammu_and_Kashmir",
+            "http://dbpedia.org/resource/Emblem_of_Jammu_and_Kashmir"
+        ],
+        [
+            "http://dbpedia.org/resource/Jharkhand",
+            "http://dbpedia.org/resource/Emblem_of_Jharkhand"
+        ],
+        [
+            "http://dbpedia.org/resource/Karnataka",
+            "http://dbpedia.org/resource/Emblem_of_Karnataka"
+        ]
+    ]
+}

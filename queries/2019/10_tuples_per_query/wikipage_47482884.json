@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1981_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Boardman,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Libertyville,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Madison,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Fort_Wayne,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Athens_County,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Madison,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Hobart,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Fort_Branch,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Midland,_Michigan"
+        ]
+    ]
+}

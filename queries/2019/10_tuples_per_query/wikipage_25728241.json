@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portuguese_Open",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Open_de_France",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Piccadilly_Medal",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Penfold_PGA_Championship",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerrygold_International_Classic",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/Martini_International",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Greater_Manchester_Open",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Uniroyal_International",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Open_Championship",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/Scandinavian_Enterprise_Open",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

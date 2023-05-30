@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fabio_Carbone",
+            "http://dbpedia.org/resource/2002_Formula_Renault_2000_Eurocup_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairuz_Fauzy",
+            "http://dbpedia.org/resource/2011_Superleague_Formula_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Kubica",
+            "http://dbpedia.org/resource/2002_Formula_Renault_2000_Eurocup_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Tiago_Monteiro",
+            "http://dbpedia.org/resource/2002_Formula_Renault_2000_Eurocup_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_Formula_Renault_Northern_European_Cup",
+            "http://dbpedia.org/resource/Eurocup_Formula_Renault_2.0"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Pic",
+            "http://dbpedia.org/resource/2009_GP2_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Oliver_Rowland",
+            "http://dbpedia.org/resource/2016_GP2_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlo_van_Dam",
+            "http://dbpedia.org/resource/2002_Formula_Renault_2000_Eurocup_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Giedo_van_der_Garde",
+            "http://dbpedia.org/resource/2004_Formula_3_Euro_Series_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Watts",
+            "http://dbpedia.org/resource/2003_British_Formula_3_season"
+        ]
+    ]
+}

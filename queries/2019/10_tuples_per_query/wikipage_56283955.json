@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Game_of_Thrones",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Marvelous_Mrs._Maisel",
+            "http://dbpedia.org/resource/Prime_Video"
+        ],
+        [
+            "http://dbpedia.org/resource/Saturday_Night_Live",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Stranger_Things",
+            "http://dbpedia.org/resource/Netflix"
+        ],
+        [
+            "http://dbpedia.org/resource/Jesus_Christ_Superstar_Live_in_Concert",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Mirror",
+            "http://dbpedia.org/resource/Netflix"
+        ],
+        [
+            "http://dbpedia.org/resource/Black-ish",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Curb_Your_Enthusiasm",
+            "http://dbpedia.org/resource/HBO"
+        ],
+        [
+            "http://dbpedia.org/resource/Killing_Eve",
+            "http://dbpedia.org/resource/BBC_America"
+        ],
+        [
+            "http://dbpedia.org/resource/Unbreakable_Kimmy_Schmidt",
+            "http://dbpedia.org/resource/Netflix"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Salvador_Hernandez",
+            "http://dbpedia.org/resource/Athletics_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Edgar_Navarro",
+            "http://dbpedia.org/resource/Athletics_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Mauro_Maximo_de_Jesus",
+            "http://dbpedia.org/resource/Athletics_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Luis_Zepeda",
+            "http://dbpedia.org/resource/Athletics_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Maria_Salas",
+            "http://dbpedia.org/resource/Athletics_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Esther_Rivera",
+            "http://dbpedia.org/resource/Athletics_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Jose_Arnulfo_Castorena",
+            "http://dbpedia.org/resource/Swimming_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Juan_Ignacio_Reyes",
+            "http://dbpedia.org/resource/Swimming_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Patricia_Valle",
+            "http://dbpedia.org/resource/Swimming_at_the_2004_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Doramitzi_Gonzalez",
+            "http://dbpedia.org/resource/Swimming_at_the_2004_Summer_Paralympics"
+        ]
+    ]
+}

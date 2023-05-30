@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Herlev_Hospital",
+            "http://dbpedia.org/resource/Herlev"
+        ],
+        [
+            "http://dbpedia.org/resource/Christiansborg_Palace",
+            "http://dbpedia.org/resource/Copenhagen"
+        ],
+        [
+            "http://dbpedia.org/resource/Copenhagen_City_Hall",
+            "http://dbpedia.org/resource/Copenhagen"
+        ],
+        [
+            "http://dbpedia.org/resource/Domus_Vista",
+            "http://dbpedia.org/resource/Frederiksberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Aarhus_Cathedral",
+            "http://dbpedia.org/resource/Aarhus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kunsthallen_Nikolaj",
+            "http://dbpedia.org/resource/Copenhagen"
+        ],
+        [
+            "http://dbpedia.org/resource/Aarhus_City_Tower",
+            "http://dbpedia.org/resource/Aarhus"
+        ],
+        [
+            "http://dbpedia.org/resource/Church_of_Our_Saviour,_Copenhagen",
+            "http://dbpedia.org/resource/Copenhagen"
+        ],
+        [
+            "http://dbpedia.org/resource/Church_of_the_Holy_Ghost,_Copenhagen",
+            "http://dbpedia.org/resource/Copenhagen"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlsberg_Group",
+            "http://dbpedia.org/resource/Copenhagen"
+        ]
+    ]
+}

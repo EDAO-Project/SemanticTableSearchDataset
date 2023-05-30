@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/1996-97_All-Ireland_Senior_Club_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/1997-98_All-Ireland_Senior_Club_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/1998-99_All-Ireland_Senior_Club_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/1999-00_All-Ireland_Senior_Club_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/2000-01_All-Ireland_Senior_Club_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/2001-02_All-Ireland_Senior_Club_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/2002-03_All-Ireland_Senior_Club_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/2003-04_All-Ireland_Senior_Club_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/2004-05_All-Ireland_Senior_Club_Hurling_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackrock_GAA",
+            "http://dbpedia.org/resource/2005-06_All-Ireland_Senior_Club_Hurling_Championship"
+        ]
+    ]
+}

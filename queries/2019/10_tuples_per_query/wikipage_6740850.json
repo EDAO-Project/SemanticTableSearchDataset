@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kizhakku_Cheemayile",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Aasai",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Purushan_Pondatti",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Naani",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Maha_Nadigan",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Dishyum",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Thirumagan",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Vyabari",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Newtonin_Moondram_Vidhi",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Pizza_2:_The_Villa",
+            "http://dbpedia.org/resource/Tamil_language"
+        ]
+    ]
+}

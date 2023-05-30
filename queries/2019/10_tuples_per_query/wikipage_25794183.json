@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antigua_and_Barbuda",
+            "http://dbpedia.org/resource/Bassa_Sports_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Cayman_Islands",
+            "http://dbpedia.org/resource/Bodden_Town_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominica",
+            "http://dbpedia.org/resource/Bath_Estate_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Guyana",
+            "http://dbpedia.org/resource/Alpha_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Guyana",
+            "http://dbpedia.org/resource/Milerock_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Puerto_Rico",
+            "http://dbpedia.org/resource/Puerto_Rico_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Kitts_and_Nevis",
+            "http://dbpedia.org/resource/Newtown_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Lucia",
+            "http://dbpedia.org/resource/Northern_United_All_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Suriname",
+            "http://dbpedia.org/resource/Inter_Moengotapoe"
+        ],
+        [
+            "http://dbpedia.org/resource/Suriname",
+            "http://dbpedia.org/resource/S.V._Walking_Boyz_Company"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brian_Leetch",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Pavel_Bure",
+            "http://dbpedia.org/resource/Vancouver_Canucks"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Messier",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Doug_Gilmour",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs"
+        ],
+        [
+            "http://dbpedia.org/resource/Trevor_Linden",
+            "http://dbpedia.org/resource/Vancouver_Canucks"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexei_Kovalev",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Geoff_Courtnall",
+            "http://dbpedia.org/resource/Vancouver_Canucks"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergei_Zubov",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Claude_Lemieux",
+            "http://dbpedia.org/resource/New_Jersey_Devils"
+        ],
+        [
+            "http://dbpedia.org/resource/Igor_Larionov",
+            "http://dbpedia.org/resource/San_Jose_Sharks"
+        ]
+    ]
+}

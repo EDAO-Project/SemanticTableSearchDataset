@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chengdu",
+            "http://dbpedia.org/resource/Shuangliu_Sports_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Foshan",
+            "http://dbpedia.org/resource/Century_Lotus_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Changsha",
+            "http://dbpedia.org/resource/Helong_Sports_Center_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Macau",
+            "http://dbpedia.org/resource/Cotai_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Shanghai",
+            "http://dbpedia.org/resource/Hongkou_Football_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Shanghai",
+            "http://dbpedia.org/resource/Hongkou_Football_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/Thunderbird_Sports_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Paramount_Fine_Foods_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles",
+            "http://dbpedia.org/resource/Dolby_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Singapore_Indoor_Stadium"
+        ]
+    ]
+}

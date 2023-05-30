@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zedd",
+            "http://dbpedia.org/resource/Shave_It"
+        ],
+        [
+            "http://dbpedia.org/resource/Zedd",
+            "http://dbpedia.org/resource/Shave_It"
+        ],
+        [
+            "http://dbpedia.org/resource/The_M_Machine",
+            "http://dbpedia.org/resource/Metropolis_Part_I"
+        ],
+        [
+            "http://dbpedia.org/resource/Birdy_Nam_Nam",
+            "http://dbpedia.org/resource/Defiant_Order"
+        ],
+        [
+            "http://dbpedia.org/resource/Birdy_Nam_Nam",
+            "http://dbpedia.org/resource/Defiant_Order"
+        ],
+        [
+            "http://dbpedia.org/resource/Schoolboy_Q",
+            "http://dbpedia.org/resource/Interscope_Records"
+        ],
+        [
+            "http://dbpedia.org/resource/Skrillex",
+            "http://dbpedia.org/resource/Ragga_Bomb"
+        ],
+        [
+            "http://dbpedia.org/resource/Skrillex",
+            "http://dbpedia.org/resource/Dirty_Vibe"
+        ],
+        [
+            "http://dbpedia.org/resource/Kill_the_Noise",
+            "http://dbpedia.org/resource/Occult_Classic"
+        ],
+        [
+            "http://dbpedia.org/resource/Kill_the_Noise",
+            "http://dbpedia.org/resource/Occult_Classic"
+        ]
+    ]
+}

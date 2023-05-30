@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Kennedy_Space_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Kennedy_Space_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base"
+        ],
+        [
+            "http://dbpedia.org/resource/Space_Shuttle_Columbia",
+            "http://dbpedia.org/resource/Edwards_Air_Force_Base"
+        ]
+    ]
+}

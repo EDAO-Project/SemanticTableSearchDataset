@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2019_AFC_Cup",
+            "http://dbpedia.org/resource/Chonburi"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_AFC_Cup",
+            "http://dbpedia.org/resource/Citizen_AA"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_AFC_Cup",
+            "http://dbpedia.org/resource/Home_United"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_AFC_Cup",
+            "http://dbpedia.org/resource/Sun_Hei"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_AFC_Cup",
+            "http://dbpedia.org/resource/Persibo_Bojonegoro"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_AFC_Cup",
+            "http://dbpedia.org/resource/East_Bengal"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_AFC_Cup",
+            "http://dbpedia.org/resource/South_China"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_AFC_Cup",
+            "http://dbpedia.org/resource/Kelantan"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_AFC_Cup",
+            "http://dbpedia.org/resource/Persipura_Jayapura"
+        ],
+        [
+            "http://dbpedia.org/resource/2015_Mekong_Club_Championship",
+            "http://dbpedia.org/resource/Boeung_Ket_Angkor"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Jeroen_Bleekemolen"
+        ],
+        [
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Neel_Jani"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Britain",
+            "http://dbpedia.org/resource/Robbie_Kerr"
+        ],
+        [
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Ananda_Mikola"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Enrico_Toccacelo"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada",
+            "http://dbpedia.org/resource/James_Hinchcliffe"
+        ],
+        [
+            "http://dbpedia.org/resource/China",
+            "http://dbpedia.org/resource/Ho-Pin_Tung"
+        ],
+        [
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Narain_Karthikeyan"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Karl_Reindler"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Bruno_Junqueira"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Savage_Nights",
+            "http://dbpedia.org/resource/Cyril_Collard"
+        ],
+        [
+            "http://dbpedia.org/resource/Les_Soeurs_Soleil",
+            "http://dbpedia.org/resource/Jeannot_Szwarc"
+        ],
+        [
+            "http://dbpedia.org/resource/Our_Happy_Lives",
+            "http://dbpedia.org/resource/Jacques_Maillot"
+        ],
+        [
+            "http://dbpedia.org/resource/Drug_Scenes",
+            "http://dbpedia.org/resource/Guillaume_Nicloux"
+        ],
+        [
+            "http://dbpedia.org/resource/Alias_Betty",
+            "http://dbpedia.org/resource/Claude_Miller"
+        ],
+        [
+            "http://dbpedia.org/resource/District_13",
+            "http://dbpedia.org/resource/Pierre_Morel"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlie_Says",
+            "http://dbpedia.org/resource/Nicole_Garcia"
+        ],
+        [
+            "http://dbpedia.org/resource/Tell_No_One",
+            "http://dbpedia.org/resource/Guillaume_Canet"
+        ],
+        [
+            "http://dbpedia.org/resource/Le_Mozart_des_pickpockets",
+            "http://dbpedia.org/resource/Philippe_Pollet-Villard"
+        ],
+        [
+            "http://dbpedia.org/resource/Passe-passe",
+            "http://dbpedia.org/resource/Tonie_Marshall"
+        ]
+    ]
+}

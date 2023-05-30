@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ahmed_Hassanein",
+            "http://dbpedia.org/resource/Fencing"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Sayed_Soliman",
+            "http://dbpedia.org/resource/Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Khorshed",
+            "http://dbpedia.org/resource/Shooting"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Khorshed",
+            "http://dbpedia.org/resource/Shooting"
+        ],
+        [
+            "http://dbpedia.org/resource/Hosam_Abdallah",
+            "http://dbpedia.org/resource/Handball"
+        ],
+        [
+            "http://dbpedia.org/resource/Yahia_Rashwan",
+            "http://dbpedia.org/resource/Taekwondo"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_Ibrahim",
+            "http://dbpedia.org/resource/Rowing"
+        ],
+        [
+            "http://dbpedia.org/resource/Karam_Gaber",
+            "http://dbpedia.org/resource/Wrestling"
+        ],
+        [
+            "http://dbpedia.org/resource/Hesham_Mesbah",
+            "http://dbpedia.org/resource/Judo"
+        ],
+        [
+            "http://dbpedia.org/resource/Ahmed_El-Ahmar",
+            "http://dbpedia.org/resource/Handball"
+        ]
+    ]
+}

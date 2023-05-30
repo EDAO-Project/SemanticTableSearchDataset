@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Chicoutimi"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint-Georges,_Quebec",
+            "http://dbpedia.org/resource/Salaberry-de-Valleyfield"
+        ],
+        [
+            "http://dbpedia.org/resource/LaSalle,_Quebec",
+            "http://dbpedia.org/resource/Sherbrooke"
+        ],
+        [
+            "http://dbpedia.org/resource/Amos,_Quebec",
+            "http://dbpedia.org/resource/Joliette,_Quebec"
+        ],
+        [
+            "http://dbpedia.org/resource/Victoriaville",
+            "http://dbpedia.org/resource/Hull,_Quebec"
+        ],
+        [
+            "http://dbpedia.org/resource/Dolbeau-Mistassini",
+            "http://dbpedia.org/resource/Charlesbourg,_Quebec"
+        ],
+        [
+            "http://dbpedia.org/resource/Matane",
+            "http://dbpedia.org/resource/Saint-Jean-sur-Richelieu"
+        ],
+        [
+            "http://dbpedia.org/resource/Mauricie",
+            "http://dbpedia.org/resource/Laval,_Quebec"
+        ],
+        [
+            "http://dbpedia.org/resource/Granby,_Quebec",
+            "http://dbpedia.org/resource/Sherbrooke"
+        ],
+        [
+            "http://dbpedia.org/resource/Rimouski",
+            "http://dbpedia.org/resource/Lachine,_Quebec"
+        ]
+    ]
+}

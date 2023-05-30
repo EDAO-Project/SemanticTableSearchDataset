@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Murphy_Dome_AFS",
+            "http://dbpedia.org/resource/744th_Aircraft_Control_and_Warning_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/King_Salmon_AFS",
+            "http://dbpedia.org/resource/705th_Aircraft_Control_and_Warning_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/Tin_City_AFS",
+            "http://dbpedia.org/resource/710th_Aircraft_Control_and_Warning_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/Cape_Newenham_AFS",
+            "http://dbpedia.org/resource/794th_Aircraft_Control_and_Warning_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/Cape_Lisburne_AFS",
+            "http://dbpedia.org/resource/711th_Aircraft_Control_and_Warning_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/Campion_AFS",
+            "http://dbpedia.org/resource/743d_Aircraft_Control_and_Warning_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/Tatalina_AFS",
+            "http://dbpedia.org/resource/717th_Aircraft_Control_and_Warning_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Yukon_AFS",
+            "http://dbpedia.org/resource/709th_Aircraft_Control_and_Warning_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/Sparrevohn_AFS",
+            "http://dbpedia.org/resource/719th_Aircraft_Control_and_Warning_Squadron"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Mountain_AFS",
+            "http://dbpedia.org/resource/708th_Aircraft_Control_and_Warning_Squadron"
+        ]
+    ]
+}

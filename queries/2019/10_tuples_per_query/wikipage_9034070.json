@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1948_Italian_general_election",
+            "http://dbpedia.org/resource/Giuseppe_Saragat"
+        ],
+        [
+            "http://dbpedia.org/resource/1953_Italian_general_election",
+            "http://dbpedia.org/resource/Giuseppe_Saragat"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_Italian_general_election",
+            "http://dbpedia.org/resource/Giuseppe_Saragat"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Italian_general_election",
+            "http://dbpedia.org/resource/Giuseppe_Saragat"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Italian_general_election",
+            "http://dbpedia.org/resource/Giuseppe_Saragat"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_Italian_general_election",
+            "http://dbpedia.org/resource/Mauro_Ferri"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Italian_general_election",
+            "http://dbpedia.org/resource/Pier_Luigi_Romita"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Italian_general_election",
+            "http://dbpedia.org/resource/Pietro_Longo"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Italian_general_election",
+            "http://dbpedia.org/resource/Pietro_Longo"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_Italian_general_election",
+            "http://dbpedia.org/resource/Franco_Nicolazzi"
+        ]
+    ]
+}

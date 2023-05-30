@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brian_Clough",
+            "http://dbpedia.org/resource/Nottingham_Forest"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Paisley",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Udo_Lattek",
+            "http://dbpedia.org/resource/Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Arrigo_Sacchi",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabio_Capello",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcello_Lippi",
+            "http://dbpedia.org/resource/Juventus"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottmar_Hitzfeld",
+            "http://dbpedia.org/resource/Borussia_Dortmund"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlo_Ancelotti",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Rijkaard",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Mircea_Lucescu",
+            "http://dbpedia.org/resource/Shakhtar_Donetsk"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vijayawada",
+            "http://dbpedia.org/resource/Krishna_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Rajahmundry",
+            "http://dbpedia.org/resource/East_Godavari_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Kadapa_district",
+            "http://dbpedia.org/resource/YSR_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Kakinada",
+            "http://dbpedia.org/resource/East_Godavari_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Eluru",
+            "http://dbpedia.org/resource/West_Godavari_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Ongole",
+            "http://dbpedia.org/resource/Prakasam_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Nandyal",
+            "http://dbpedia.org/resource/Kurnool_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Adoni",
+            "http://dbpedia.org/resource/Kurnool_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Proddatur",
+            "http://dbpedia.org/resource/Kadapa_district"
+        ],
+        [
+            "http://dbpedia.org/resource/Tadepalligudem",
+            "http://dbpedia.org/resource/West_Godavari_district"
+        ]
+    ]
+}

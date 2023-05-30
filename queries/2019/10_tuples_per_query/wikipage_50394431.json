@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alisson",
+            "http://dbpedia.org/resource/Internacional"
+        ],
+        [
+            "http://dbpedia.org/resource/Juan_Jesus",
+            "http://dbpedia.org/resource/Internazionale"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruno_Peres",
+            "http://dbpedia.org/resource/Torino"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Vermaelen",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Federico_Fazio",
+            "http://dbpedia.org/resource/Tottenham_Hotspur"
+        ],
+        [
+            "http://dbpedia.org/resource/Kostas_Manolas",
+            "http://dbpedia.org/resource/Olympiacos"
+        ],
+        [
+            "http://dbpedia.org/resource/Radja_Nainggolan",
+            "http://dbpedia.org/resource/Cagliari"
+        ],
+        [
+            "http://dbpedia.org/resource/Leandro_Paredes",
+            "http://dbpedia.org/resource/Boca_Juniors"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Strootman",
+            "http://dbpedia.org/resource/PSV_Eindhoven"
+        ],
+        [
+            "http://dbpedia.org/resource/Diego_Perotti",
+            "http://dbpedia.org/resource/Genoa"
+        ]
+    ]
+}

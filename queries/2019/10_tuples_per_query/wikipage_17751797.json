@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Preston_North_End",
+            "http://dbpedia.org/resource/Mansfield_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Witton_Albion",
+            "http://dbpedia.org/resource/Bolton_Wanderers"
+        ],
+        [
+            "http://dbpedia.org/resource/Exeter_City",
+            "http://dbpedia.org/resource/Cambridge_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Halesowen_Town",
+            "http://dbpedia.org/resource/Tranmere_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Hereford_United",
+            "http://dbpedia.org/resource/Peterborough_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Peterborough_United",
+            "http://dbpedia.org/resource/Hereford_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotherham_United",
+            "http://dbpedia.org/resource/Stockport_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Wigan_Athletic",
+            "http://dbpedia.org/resource/Carlisle_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_United",
+            "http://dbpedia.org/resource/Wycombe_Wanderers"
+        ],
+        [
+            "http://dbpedia.org/resource/Wycombe_Wanderers",
+            "http://dbpedia.org/resource/Boston_United"
+        ]
+    ]
+}

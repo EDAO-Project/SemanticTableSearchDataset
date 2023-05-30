@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Franklin_&_Marshall_Diplomats",
+            "http://dbpedia.org/resource/Johns_Hopkins_Blue_Jays"
+        ],
+        [
+            "http://dbpedia.org/resource/Muhlenberg_Mules",
+            "http://dbpedia.org/resource/Franklin_&_Marshall_Diplomats"
+        ],
+        [
+            "http://dbpedia.org/resource/Franklin_&_Marshall_Diplomats",
+            "http://dbpedia.org/resource/Gettysburg_Bullets"
+        ],
+        [
+            "http://dbpedia.org/resource/Dickinson_Red_Devils",
+            "http://dbpedia.org/resource/Swarthmore_Garnet"
+        ],
+        [
+            "http://dbpedia.org/resource/Muhlenberg_Mules",
+            "http://dbpedia.org/resource/Johns_Hopkins_Blue_Jays"
+        ],
+        [
+            "http://dbpedia.org/resource/Johns_Hopkins_Blue_Jays",
+            "http://dbpedia.org/resource/Washington_Shoremen"
+        ],
+        [
+            "http://dbpedia.org/resource/Franklin_&_Marshall_Diplomats",
+            "http://dbpedia.org/resource/Johns_Hopkins_Blue_Jays"
+        ],
+        [
+            "http://dbpedia.org/resource/Gettysburg_Bullets",
+            "http://dbpedia.org/resource/Muhlenberg_Mules"
+        ],
+        [
+            "http://dbpedia.org/resource/Gettysburg_Bullets",
+            "http://dbpedia.org/resource/Franklin_&_Marshall_Diplomats"
+        ],
+        [
+            "http://dbpedia.org/resource/Ursinus_Bears",
+            "http://dbpedia.org/resource/Franklin_&_Marshall_Diplomats"
+        ]
+    ]
+}

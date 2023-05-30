@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bristol_City",
+            "http://dbpedia.org/resource/Bolton_Wanderers"
+        ],
+        [
+            "http://dbpedia.org/resource/Leicester_City",
+            "http://dbpedia.org/resource/Norwich_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Nottingham_Forest",
+            "http://dbpedia.org/resource/Aston_Villa"
+        ],
+        [
+            "http://dbpedia.org/resource/Swindon_Town",
+            "http://dbpedia.org/resource/Cardiff_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Shrewsbury_Town",
+            "http://dbpedia.org/resource/Cambridge_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Ipswich_Town",
+            "http://dbpedia.org/resource/Carlisle_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_United",
+            "http://dbpedia.org/resource/Torquay_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Manchester_City",
+            "http://dbpedia.org/resource/Rotherham_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotherham_United",
+            "http://dbpedia.org/resource/Manchester_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Coventry_City",
+            "http://dbpedia.org/resource/West_Bromwich_Albion"
+        ]
+    ]
+}

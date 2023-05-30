@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Taoiseach",
+            "http://dbpedia.org/resource/Brian_Cowen"
+        ],
+        [
+            "http://dbpedia.org/resource/Mary_Harney",
+            "http://dbpedia.org/resource/Independent_politicians_in_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Transport,_Tourism_and_Sport",
+            "http://dbpedia.org/resource/Noel_Dempsey"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Justice_and_Equality",
+            "http://dbpedia.org/resource/Dermot_Ahern"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Culture,_Heritage_and_the_Gaeltacht",
+            "http://dbpedia.org/resource/Martin_Cullen"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Employment_Affairs_and_Social_Protection",
+            "http://dbpedia.org/resource/Mary_Hanafin"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Housing,_Planning_and_Local_Government",
+            "http://dbpedia.org/resource/John_Gormley"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Communications,_Climate_Action_and_Environment",
+            "http://dbpedia.org/resource/Eamon_Ryan"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Culture,_Heritage_and_the_Gaeltacht",
+            "http://dbpedia.org/resource/Mary_Hanafin"
+        ],
+        [
+            "http://dbpedia.org/resource/Department_of_Children_and_Youth_Affairs",
+            "http://dbpedia.org/resource/Pat_Carey"
+        ]
+    ]
+}

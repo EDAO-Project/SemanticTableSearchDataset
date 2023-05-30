@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antony_and_the_Johnsons",
+            "http://dbpedia.org/resource/The_Crying_Light"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Swell_Season",
+            "http://dbpedia.org/resource/Strict_Joy"
+        ],
+        [
+            "http://dbpedia.org/resource/Antony_and_the_Johnsons",
+            "http://dbpedia.org/resource/Swanlights"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Doughty",
+            "http://dbpedia.org/resource/Yes_and_Also_Yes"
+        ],
+        [
+            "http://dbpedia.org/resource/Iron_&_Wine",
+            "http://dbpedia.org/resource/Kiss_Each_Other_Clean"
+        ],
+        [
+            "http://dbpedia.org/resource/My_Brightest_Diamond",
+            "http://dbpedia.org/resource/All_Things_Will_Unwind"
+        ],
+        [
+            "http://dbpedia.org/resource/Rufus_Wainwright",
+            "http://dbpedia.org/resource/Out_of_the_Game"
+        ],
+        [
+            "http://dbpedia.org/resource/Antony_and_the_Johnsons",
+            "http://dbpedia.org/resource/Cut_the_World"
+        ],
+        [
+            "http://dbpedia.org/resource/Martha_Wainwright",
+            "http://dbpedia.org/resource/Come_Home_to_Mama"
+        ],
+        [
+            "http://dbpedia.org/resource/Yoko_Ono",
+            "http://dbpedia.org/resource/Take_Me_to_the_Land_of_Hell"
+        ]
+    ]
+}

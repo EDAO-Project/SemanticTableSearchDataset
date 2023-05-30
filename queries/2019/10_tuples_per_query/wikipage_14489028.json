@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_Pujols",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Sheets",
+            "http://dbpedia.org/resource/Milwaukee_Brewers"
+        ],
+        [
+            "http://dbpedia.org/resource/Pedro_Feliz",
+            "http://dbpedia.org/resource/San_Francisco_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/Roy_Oswalt",
+            "http://dbpedia.org/resource/Houston_Astros"
+        ],
+        [
+            "http://dbpedia.org/resource/Bud_Smith",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/Kazuhisa_Ishii",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/Austin_Kearns",
+            "http://dbpedia.org/resource/Cincinnati_Reds"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Simontacchi",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/Kirk_Saarloos",
+            "http://dbpedia.org/resource/Houston_Astros"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Jennings",
+            "http://dbpedia.org/resource/Colorado_Rockies"
+        ]
+    ]
+}

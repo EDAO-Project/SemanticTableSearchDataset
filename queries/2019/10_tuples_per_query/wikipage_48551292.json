@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2017_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Best_Pop_Video"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Song_of_Summer"
+        ],
+        [
+            "http://dbpedia.org/resource/2018_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Best_Pop_Video"
+        ],
+        [
+            "http://dbpedia.org/resource/2018_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Best_Cinematography"
+        ],
+        [
+            "http://dbpedia.org/resource/2018_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Best_Direction"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Best_Collaboration"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Best_Cinematography"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Best_Art_Direction"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Best_Choreography"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_MTV_Video_Music_Awards",
+            "http://dbpedia.org/resource/MTV_Video_Music_Award_for_Song_of_Summer"
+        ]
+    ]
+}

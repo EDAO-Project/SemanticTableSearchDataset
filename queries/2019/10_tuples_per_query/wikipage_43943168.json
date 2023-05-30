@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Nintendo_DS"
+        ],
+        [
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Game_Boy_Advance"
+        ],
+        [
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Wii"
+        ],
+        [
+            "http://dbpedia.org/resource/Sega",
+            "http://dbpedia.org/resource/Sega_Saturn"
+        ],
+        [
+            "http://dbpedia.org/resource/NEC",
+            "http://dbpedia.org/resource/TurboGrafx-16"
+        ],
+        [
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Nintendo_64"
+        ],
+        [
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Family_Computer_Disk_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Nintendo",
+            "http://dbpedia.org/resource/Nintendo_GameCube"
+        ],
+        [
+            "http://dbpedia.org/resource/Sega",
+            "http://dbpedia.org/resource/Mega_Drive"
+        ],
+        [
+            "http://dbpedia.org/resource/Sega",
+            "http://dbpedia.org/resource/Dreamcast"
+        ]
+    ]
+}

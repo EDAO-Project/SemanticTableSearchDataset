@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2003_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Bridgewater,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Tampa,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Tarpon_Springs,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Alexandria,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Mechanicsville,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Mechanicsville,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Tampa,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Rockledge,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Goodlettsville,_Tennessee"
+        ],
+        [
+            "http://dbpedia.org/resource/2015_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Stephens_City,_Virginia"
+        ]
+    ]
+}

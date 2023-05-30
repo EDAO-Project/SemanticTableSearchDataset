@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pamilya_Ko",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Kapamilya,_Deal_or_No_Deal",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Angelito:_Ang_Bagong_Yugto",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarah_G._Live",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Angelito:_Batang_Ama",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Maalaala_Mo_Kaya",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Maalaala_Mo_Kaya",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Banana_Sundae",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Magpakailanman",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Ang_TV",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ]
+    ]
+}

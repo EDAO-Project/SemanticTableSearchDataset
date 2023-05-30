@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/English_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/Mandarin_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/Korean_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/Cantonese_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/Persian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/Punjabi_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/Spanish_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/Russian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/Tagalog_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Language",
+            "http://dbpedia.org/resource/Arabic_language"
+        ]
+    ]
+}

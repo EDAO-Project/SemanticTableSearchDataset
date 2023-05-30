@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/La_Calera,_Cundinamarca",
+            "http://dbpedia.org/resource/Cundinamarca_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Cogua",
+            "http://dbpedia.org/resource/Cundinamarca_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Cota,_Cundinamarca",
+            "http://dbpedia.org/resource/Cundinamarca_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Cundinamarca_Department",
+            "http://dbpedia.org/resource/Piedras_del_Tunjo_Archaeological_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Funza",
+            "http://dbpedia.org/resource/Cundinamarca_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Guasca",
+            "http://dbpedia.org/resource/Cundinamarca_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Madrid,_Cundinamarca",
+            "http://dbpedia.org/resource/Cundinamarca_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Mosquera,_Cundinamarca",
+            "http://dbpedia.org/resource/Cundinamarca_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Pacho",
+            "http://dbpedia.org/resource/Cundinamarca_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Pasca",
+            "http://dbpedia.org/resource/Cundinamarca_Department"
+        ]
+    ]
+}

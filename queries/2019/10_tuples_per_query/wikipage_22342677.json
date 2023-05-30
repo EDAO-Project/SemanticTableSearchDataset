@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Wil",
+            "http://dbpedia.org/resource/Swiss_Challenge_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Wil",
+            "http://dbpedia.org/resource/Swiss_Challenge_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Thun",
+            "http://dbpedia.org/resource/Swiss_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Thun",
+            "http://dbpedia.org/resource/Swiss_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Luzern",
+            "http://dbpedia.org/resource/Swiss_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Luzern",
+            "http://dbpedia.org/resource/Swiss_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Luzern",
+            "http://dbpedia.org/resource/Swiss_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Luzern",
+            "http://dbpedia.org/resource/Swiss_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Luzern",
+            "http://dbpedia.org/resource/Swiss_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Ingolstadt_04",
+            "http://dbpedia.org/resource/Bundesliga"
+        ]
+    ]
+}

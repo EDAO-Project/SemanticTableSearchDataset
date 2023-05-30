@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Touch_of_Sin",
+            "http://dbpedia.org/resource/Jia_Zhangke"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Backwater",
+            "http://dbpedia.org/resource/Shinji_Aoyama"
+        ],
+        [
+            "http://dbpedia.org/resource/Hajimari_no_Michi",
+            "http://dbpedia.org/resource/Keiichi_Hara"
+        ],
+        [
+            "http://dbpedia.org/resource/Fish_&_Cat",
+            "http://dbpedia.org/resource/Shahram_Mokri"
+        ],
+        [
+            "http://dbpedia.org/resource/Harmony_Lessons",
+            "http://dbpedia.org/resource/Emir_Baigazin"
+        ],
+        [
+            "http://dbpedia.org/resource/Ilo_Ilo",
+            "http://dbpedia.org/resource/Anthony_Chen"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Lunchbox",
+            "http://dbpedia.org/resource/Ritesh_Batra"
+        ],
+        [
+            "http://dbpedia.org/resource/Mary_Is_Happy,_Mary_Is_Happy",
+            "http://dbpedia.org/resource/Nawapol_Thamrongrattanarit"
+        ],
+        [
+            "http://dbpedia.org/resource/Norte,_the_End_of_History",
+            "http://dbpedia.org/resource/Lav_Diaz"
+        ],
+        [
+            "http://dbpedia.org/resource/Once_Upon_a_Time_in_Vietnam",
+            "http://dbpedia.org/resource/Dustin_Nguyen"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bong_Ravena",
+            "http://dbpedia.org/resource/University_of_the_East"
+        ],
+        [
+            "http://dbpedia.org/resource/Franz_Pumaren",
+            "http://dbpedia.org/resource/De_La_Salle_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Ato_Agustin",
+            "http://dbpedia.org/resource/Lyceum_of_the_Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Allan_Caidic",
+            "http://dbpedia.org/resource/University_of_the_East"
+        ],
+        [
+            "http://dbpedia.org/resource/Samboy_Lim",
+            "http://dbpedia.org/resource/Letran_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Alvin_Teng",
+            "http://dbpedia.org/resource/Arellano_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Biboy_Ravanes",
+            "http://dbpedia.org/resource/University_of_Cebu"
+        ],
+        [
+            "http://dbpedia.org/resource/Yves_Dignadice",
+            "http://dbpedia.org/resource/West_Negros_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Hector_Calma",
+            "http://dbpedia.org/resource/Adamson_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramon_Fernandez",
+            "http://dbpedia.org/resource/University_of_San_Carlos"
+        ]
+    ]
+}

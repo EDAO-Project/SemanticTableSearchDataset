@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Charlie_Brown_Christmas",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/It_Was_a_Short_Summer,_Charlie_Brown",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Play_It_Again,_Charlie_Brown",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Charlie_Brown_Thanksgiving",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Be_My_Valentine,_Charlie_Brown",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Life_Is_a_Circus,_Charlie_Brown",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Charlie_Brown_Celebration",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Here_Comes_Garfield",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Garfield_on_the_Town",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Romance_of_Betty_Boop",
+            "http://dbpedia.org/resource/CBS"
+        ]
+    ]
+}

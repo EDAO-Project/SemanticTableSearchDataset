@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1997",
+            "http://dbpedia.org/resource/Debbie_Scerri"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_1998",
+            "http://dbpedia.org/resource/Guildo_Horn"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_2000",
+            "http://dbpedia.org/resource/Nathalie_Sorce"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_2001",
+            "http://dbpedia.org/resource/Andrzej_Piaseczny"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_2002",
+            "http://dbpedia.org/resource/Michalis_Rakintzis"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_2007",
+            "http://dbpedia.org/resource/Verka_Serduchka"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_2011",
+            "http://dbpedia.org/resource/Eldrine"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_2012",
+            "http://dbpedia.org/resource/Rona_Nishliu"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_2013",
+            "http://dbpedia.org/resource/Moje_3"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurovision_Song_Contest_2015",
+            "http://dbpedia.org/resource/Trijntje_Oosterhuis"
+        ]
+    ]
+}

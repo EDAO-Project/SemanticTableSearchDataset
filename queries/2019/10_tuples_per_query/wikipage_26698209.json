@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Internazionale",
+            "http://dbpedia.org/resource/Manchester_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Internazionale",
+            "http://dbpedia.org/resource/Manchester_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Liverpool",
+            "http://dbpedia.org/resource/Internazionale"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Madrid",
+            "http://dbpedia.org/resource/Internazionale"
+        ],
+        [
+            "http://dbpedia.org/resource/Internazionale",
+            "http://dbpedia.org/resource/Watford"
+        ],
+        [
+            "http://dbpedia.org/resource/Internazionale",
+            "http://dbpedia.org/resource/Real_Sociedad"
+        ],
+        [
+            "http://dbpedia.org/resource/Udinese",
+            "http://dbpedia.org/resource/Internazionale"
+        ],
+        [
+            "http://dbpedia.org/resource/Internazionale",
+            "http://dbpedia.org/resource/Mallorca"
+        ],
+        [
+            "http://dbpedia.org/resource/Internazionale",
+            "http://dbpedia.org/resource/Manchester_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Internazionale",
+            "http://dbpedia.org/resource/Bayern_Munich"
+        ]
+    ]
+}

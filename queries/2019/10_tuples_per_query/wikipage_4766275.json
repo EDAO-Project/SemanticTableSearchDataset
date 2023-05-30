@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Steffensen",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Lansford_Spence",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/Martyn_Rooney",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Alleyne_Francique",
+            "http://dbpedia.org/resource/Grenada"
+        ],
+        [
+            "http://dbpedia.org/resource/California_Molefe",
+            "http://dbpedia.org/resource/Botswana"
+        ],
+        [
+            "http://dbpedia.org/resource/Jermaine_Gonzales",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/Avard_Moncur",
+            "http://dbpedia.org/resource/Bahamas"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Tobin",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Davian_Clarke",
+            "http://dbpedia.org/resource/Jamaica"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Godday",
+            "http://dbpedia.org/resource/Nigeria"
+        ]
+    ]
+}

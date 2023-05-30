@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albania,_La_Guajira",
+            "http://dbpedia.org/resource/La_Guajira_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Barrancas,_La_Guajira",
+            "http://dbpedia.org/resource/La_Guajira_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Hatonuevo",
+            "http://dbpedia.org/resource/La_Guajira_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Fonseca,_La_Guajira",
+            "http://dbpedia.org/resource/La_Guajira_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Molino,_La_Guajira",
+            "http://dbpedia.org/resource/La_Guajira_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Juan_del_Cesar",
+            "http://dbpedia.org/resource/La_Guajira_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Villanueva,_La_Guajira",
+            "http://dbpedia.org/resource/La_Guajira_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Urumita",
+            "http://dbpedia.org/resource/La_Guajira_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Jagua_del_Pilar",
+            "http://dbpedia.org/resource/La_Guajira_Department"
+        ],
+        [
+            "http://dbpedia.org/resource/Valledupar",
+            "http://dbpedia.org/resource/Cesar_Department"
+        ]
+    ]
+}

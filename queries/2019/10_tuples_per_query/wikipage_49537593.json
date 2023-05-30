@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A_Moon_Shaped_Pool",
+            "http://dbpedia.org/resource/Radiohead"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Moon_Shaped_Pool",
+            "http://dbpedia.org/resource/Radiohead"
+        ],
+        [
+            "http://dbpedia.org/resource/Skeleton_Tree",
+            "http://dbpedia.org/resource/Nick_Cave_and_the_Bad_Seeds"
+        ],
+        [
+            "http://dbpedia.org/resource/Skeleton_Tree",
+            "http://dbpedia.org/resource/Nick_Cave_and_the_Bad_Seeds"
+        ],
+        [
+            "http://dbpedia.org/resource/Skeleton_Tree",
+            "http://dbpedia.org/resource/Nick_Cave_and_the_Bad_Seeds"
+        ],
+        [
+            "http://dbpedia.org/resource/You_Want_It_Darker",
+            "http://dbpedia.org/resource/Leonard_Cohen"
+        ],
+        [
+            "http://dbpedia.org/resource/You_Want_It_Darker",
+            "http://dbpedia.org/resource/Leonard_Cohen"
+        ],
+        [
+            "http://dbpedia.org/resource/Hardwired..._to_Self-Destruct",
+            "http://dbpedia.org/resource/Metallica"
+        ],
+        [
+            "http://dbpedia.org/resource/You_Want_It_Darker",
+            "http://dbpedia.org/resource/Leonard_Cohen"
+        ],
+        [
+            "http://dbpedia.org/resource/You_Want_It_Darker",
+            "http://dbpedia.org/resource/Leonard_Cohen"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CD_Baza",
+            "http://dbpedia.org/resource/Ciudad_de_Murcia"
+        ],
+        [
+            "http://dbpedia.org/resource/Burgos_CF",
+            "http://dbpedia.org/resource/UD_Salamanca"
+        ],
+        [
+            "http://dbpedia.org/resource/AD_Ceuta",
+            "http://dbpedia.org/resource/SD_Eibar"
+        ],
+        [
+            "http://dbpedia.org/resource/SD_Lemona",
+            "http://dbpedia.org/resource/UE_Lleida"
+        ],
+        [
+            "http://dbpedia.org/resource/CD_Alcoyano",
+            "http://dbpedia.org/resource/Racing_de_Ferrol"
+        ],
+        [
+            "http://dbpedia.org/resource/Alicante_CF",
+            "http://dbpedia.org/resource/Recreativo_de_Huelva"
+        ],
+        [
+            "http://dbpedia.org/resource/Rayo_Vallecano",
+            "http://dbpedia.org/resource/Real_Oviedo"
+        ],
+        [
+            "http://dbpedia.org/resource/Zamora_CF",
+            "http://dbpedia.org/resource/Villajoyosa_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/SD_Tenisca",
+            "http://dbpedia.org/resource/Real_Murcia"
+        ],
+        [
+            "http://dbpedia.org/resource/UD_Almansa",
+            "http://dbpedia.org/resource/UD_Las_Palmas"
+        ]
+    ]
+}

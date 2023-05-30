@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KDAC",
+            "http://dbpedia.org/resource/Fort_Bragg,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/KDAE",
+            "http://dbpedia.org/resource/Sinton,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/KDAK",
+            "http://dbpedia.org/resource/Carrington,_North_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/KDAV",
+            "http://dbpedia.org/resource/Lubbock,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/KDAZ",
+            "http://dbpedia.org/resource/Albuquerque,_New_Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/KDBM",
+            "http://dbpedia.org/resource/Dillon,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/KDBS",
+            "http://dbpedia.org/resource/Alexandria,_Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/KDBV",
+            "http://dbpedia.org/resource/Salinas,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/KDCC",
+            "http://dbpedia.org/resource/Dodge_City,_Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/KDDR",
+            "http://dbpedia.org/resource/Oakes,_North_Dakota"
+        ]
+    ]
+}

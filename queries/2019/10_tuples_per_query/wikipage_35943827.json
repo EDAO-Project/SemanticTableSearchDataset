@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/RC_Lens",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/AS_Monaco_FC",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/AC_Ajaccio",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Girondins_de_Bordeaux",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Le_Havre_AC",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Lille_OSC",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/En_Avant_de_Guingamp",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympique_de_Marseille",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/CS_Sedan_Ardennes",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Nantes",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ]
+    ]
+}

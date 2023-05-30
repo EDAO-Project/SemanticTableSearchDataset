@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NK_Serdica",
+            "http://dbpedia.org/resource/NK_Mura"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Triglav_Kranj",
+            "http://dbpedia.org/resource/NK_Rudar_Velenje"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Naklo",
+            "http://dbpedia.org/resource/NK_Svoboda"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Izola",
+            "http://dbpedia.org/resource/NK_Dekani"
+        ],
+        [
+            "http://dbpedia.org/resource/ND_Slovan",
+            "http://dbpedia.org/resource/NK_Korotan_Prevalje"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Ljubljana",
+            "http://dbpedia.org/resource/NK_Celje"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Kovinar_Maribor",
+            "http://dbpedia.org/resource/ND_Gorica"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Ilirska_Bistrica",
+            "http://dbpedia.org/resource/NK_Maribor"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Odranci",
+            "http://dbpedia.org/resource/ND_Bilje"
+        ],
+        [
+            "http://dbpedia.org/resource/NK_Krka",
+            "http://dbpedia.org/resource/NK_Primorje"
+        ]
+    ]
+}

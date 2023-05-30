@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Houston_Marathon",
+            "http://dbpedia.org/resource/Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/Kagawa_Marugame_Half_Marathon",
+            "http://dbpedia.org/resource/Marugame"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Taipei_City_Wan_Jin_Shi_Marathon",
+            "http://dbpedia.org/resource/New_Taipei_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Daegu_Marathon",
+            "http://dbpedia.org/resource/Daegu"
+        ],
+        [
+            "http://dbpedia.org/resource/Milano_Marathon",
+            "http://dbpedia.org/resource/Milano"
+        ],
+        [
+            "http://dbpedia.org/resource/Rome_Marathon",
+            "http://dbpedia.org/resource/Rome"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_Marathon",
+            "http://dbpedia.org/resource/Hannover"
+        ],
+        [
+            "http://dbpedia.org/resource/Orlen_Warsaw_Marathon",
+            "http://dbpedia.org/resource/Warsaw"
+        ],
+        [
+            "http://dbpedia.org/resource/Okpekpe_10km",
+            "http://dbpedia.org/resource/Okpekpe"
+        ],
+        [
+            "http://dbpedia.org/resource/Minsk_Half_Marathon",
+            "http://dbpedia.org/resource/Minsk"
+        ]
+    ]
+}

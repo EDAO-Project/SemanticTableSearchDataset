@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dennis_Amiss",
+            "http://dbpedia.org/resource/Keith_Fletcher"
+        ],
+        [
+            "http://dbpedia.org/resource/Rohan_Kanhai",
+            "http://dbpedia.org/resource/Clive_Lloyd"
+        ],
+        [
+            "http://dbpedia.org/resource/Dennis_Amiss",
+            "http://dbpedia.org/resource/Chris_Old"
+        ],
+        [
+            "http://dbpedia.org/resource/Ross_Edwards",
+            "http://dbpedia.org/resource/Rod_Marsh"
+        ],
+        [
+            "http://dbpedia.org/resource/Syed_Abid_Ali",
+            "http://dbpedia.org/resource/Madan_Lal"
+        ],
+        [
+            "http://dbpedia.org/resource/Doug_Walters",
+            "http://dbpedia.org/resource/Gary_Gilmour"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_McKechnie",
+            "http://dbpedia.org/resource/Dayle_Hadlee"
+        ],
+        [
+            "http://dbpedia.org/resource/Syed_Abid_Ali",
+            "http://dbpedia.org/resource/Srinivas_Venkataraghavan"
+        ],
+        [
+            "http://dbpedia.org/resource/Dennis_Amiss",
+            "http://dbpedia.org/resource/Keith_Fletcher"
+        ],
+        [
+            "http://dbpedia.org/resource/Rohan_Kanhai",
+            "http://dbpedia.org/resource/Clive_Lloyd"
+        ]
+    ]
+}

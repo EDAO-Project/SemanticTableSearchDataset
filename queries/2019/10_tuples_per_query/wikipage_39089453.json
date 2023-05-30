@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KNBR",
+            "http://dbpedia.org/resource/San_Francisco,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/KEKA-FM",
+            "http://dbpedia.org/resource/Eureka,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/K265BT",
+            "http://dbpedia.org/resource/Arcata,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/KFIG",
+            "http://dbpedia.org/resource/Fresno,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/KPUA",
+            "http://dbpedia.org/resource/Hilo,_Hawaii"
+        ],
+        [
+            "http://dbpedia.org/resource/KHKA",
+            "http://dbpedia.org/resource/Honolulu,_Hawaii"
+        ],
+        [
+            "http://dbpedia.org/resource/KUIK",
+            "http://dbpedia.org/resource/Hillsboro,_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/KUNK",
+            "http://dbpedia.org/resource/Mendocino,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/KKXS",
+            "http://dbpedia.org/resource/Redding,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/K241AK",
+            "http://dbpedia.org/resource/Reno,_Nevada"
+        ]
+    ]
+}

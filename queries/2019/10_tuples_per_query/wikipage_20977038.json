@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Craig_Simpson",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Messier",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Cam_Neely",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Jari_Kurri",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Esa_Tikkanen",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Glenn_Anderson",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Larmer",
+            "http://dbpedia.org/resource/Chicago_Blackhawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Denis_Savard",
+            "http://dbpedia.org/resource/Chicago_Blackhawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Janney",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Brett_Hull",
+            "http://dbpedia.org/resource/St._Louis_Blues"
+        ]
+    ]
+}

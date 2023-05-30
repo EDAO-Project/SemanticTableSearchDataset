@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eddie_Cheever",
+            "http://dbpedia.org/resource/Team_Cheever"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Dismore",
+            "http://dbpedia.org/resource/Team_Menard"
+        ],
+        [
+            "http://dbpedia.org/resource/Helio_Castroneves",
+            "http://dbpedia.org/resource/Team_Penske"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarah_Fisher",
+            "http://dbpedia.org/resource/Dreyer_&_Reinbold_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Eliseo_Salazar",
+            "http://dbpedia.org/resource/A.J._Foyt_Enterprises"
+        ],
+        [
+            "http://dbpedia.org/resource/Robbie_Buhl",
+            "http://dbpedia.org/resource/Dreyer_&_Reinbold_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Felipe_Giaffone",
+            "http://dbpedia.org/resource/Mo_Nunn_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Buddy_Lazier",
+            "http://dbpedia.org/resource/Hemelgarn_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Sharp",
+            "http://dbpedia.org/resource/Kelley_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Gil_de_Ferran",
+            "http://dbpedia.org/resource/Team_Penske"
+        ]
+    ]
+}

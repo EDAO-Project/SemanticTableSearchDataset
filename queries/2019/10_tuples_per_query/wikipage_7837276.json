@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_Formula_3_Euro_Series_season",
+            "http://dbpedia.org/resource/Marussia_Manor_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Macau_Grand_Prix",
+            "http://dbpedia.org/resource/Marussia_Manor_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Masters_of_Formula_3",
+            "http://dbpedia.org/resource/Marussia_Manor_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_GP2_Series_season",
+            "http://dbpedia.org/resource/DAMS"
+        ],
+        [
+            "http://dbpedia.org/resource/2018-19_FIA_World_Endurance_Championship",
+            "http://dbpedia.org/resource/Toyota_Motorsport_GmbH"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_24_Hours_of_Le_Mans",
+            "http://dbpedia.org/resource/Toyota_Motorsport_GmbH"
+        ],
+        [
+            "http://dbpedia.org/resource/2018-19_FIA_World_Endurance_Championship",
+            "http://dbpedia.org/resource/Toyota_Motorsport_GmbH"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_24_Hours_of_Le_Mans",
+            "http://dbpedia.org/resource/Toyota_Motorsport_GmbH"
+        ],
+        [
+            "http://dbpedia.org/resource/2018-19_FIA_World_Endurance_Championship",
+            "http://dbpedia.org/resource/Toyota_Motorsport_GmbH"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_24_Hours_of_Le_Mans",
+            "http://dbpedia.org/resource/Toyota_Motorsport_GmbH"
+        ]
+    ]
+}

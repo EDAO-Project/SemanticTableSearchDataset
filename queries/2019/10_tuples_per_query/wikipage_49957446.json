@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Dunav_Ruse",
+            "http://dbpedia.org/resource/OFC_Dorostol_Silistra"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Svilengrad_1921",
+            "http://dbpedia.org/resource/FC_Chernomorets_Burgas"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Svetkavitsa",
+            "http://dbpedia.org/resource/PFC_CSKA_Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Hebar_Pazardzhik",
+            "http://dbpedia.org/resource/POFC_Botev_Vratsa"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Spartak_Pleven",
+            "http://dbpedia.org/resource/PFC_Slavia_Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/OFC_Pirin_Blagoevgrad",
+            "http://dbpedia.org/resource/PFC_Vidima-Rakovski_Sevlievo"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Marek_Dupnitsa",
+            "http://dbpedia.org/resource/PFC_Velbazhd_Kyustendil"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Tundzha",
+            "http://dbpedia.org/resource/PFC_Beroe_Stara_Zagora"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Metalurg_Pernik",
+            "http://dbpedia.org/resource/PFC_Minyor_Pernik"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Cherno_More_Varna",
+            "http://dbpedia.org/resource/PFC_Haskovo"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Noriyuki_Haga",
+            "http://dbpedia.org/resource/Ducati_1098"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Biaggi",
+            "http://dbpedia.org/resource/Aprilia_RSV4"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Spies",
+            "http://dbpedia.org/resource/Yamaha_YZF-R1"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Rea",
+            "http://dbpedia.org/resource/Honda_CBR1000RR"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Sykes",
+            "http://dbpedia.org/resource/Yamaha_YZF-R1"
+        ],
+        [
+            "http://dbpedia.org/resource/Broc_Parkes",
+            "http://dbpedia.org/resource/Kawasaki_Ninja_ZX-10R"
+        ],
+        [
+            "http://dbpedia.org/resource/Troy_Corser",
+            "http://dbpedia.org/resource/BMW_S1000RR"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Checa",
+            "http://dbpedia.org/resource/Yamaha_YZF-R1"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlos_Checa",
+            "http://dbpedia.org/resource/Honda_CBR1000RR"
+        ],
+        [
+            "http://dbpedia.org/resource/Fonsi_Nieto",
+            "http://dbpedia.org/resource/Ducati_1098"
+        ]
+    ]
+}

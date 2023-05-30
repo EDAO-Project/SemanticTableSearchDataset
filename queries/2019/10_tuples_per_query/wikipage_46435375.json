@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marklund_Motorsport",
+            "http://dbpedia.org/resource/Volkswagen_Polo_Mk5"
+        ],
+        [
+            "http://dbpedia.org/resource/Team_Peugeot-Hansen",
+            "http://dbpedia.org/resource/Peugeot_208"
+        ],
+        [
+            "http://dbpedia.org/resource/Marklund_Motorsport",
+            "http://dbpedia.org/resource/Volkswagen_Polo_Mk5"
+        ],
+        [
+            "http://dbpedia.org/resource/Team_Peugeot-Hansen",
+            "http://dbpedia.org/resource/Peugeot_208"
+        ],
+        [
+            "http://dbpedia.org/resource/Albatec_Racing",
+            "http://dbpedia.org/resource/Peugeot_208"
+        ],
+        [
+            "http://dbpedia.org/resource/Manfred_Stohl",
+            "http://dbpedia.org/resource/Petter_Solberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Albatec_Racing",
+            "http://dbpedia.org/resource/Peugeot_208"
+        ],
+        [
+            "http://dbpedia.org/resource/Derek_Tohill",
+            "http://dbpedia.org/resource/Liam_Doran"
+        ],
+        [
+            "http://dbpedia.org/resource/Jos_Jansen",
+            "http://dbpedia.org/resource/Jos_Jansen",
+            "http://dbpedia.org/resource/Ford_Focus"
+        ],
+        [
+            "http://dbpedia.org/resource/Henning_Solberg",
+            "http://dbpedia.org/resource/Liam_Doran"
+        ]
+    ]
+}

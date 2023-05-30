@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Davey_and_Goliath",
+            "http://dbpedia.org/resource/Broadcast_syndication"
+        ],
+        [
+            "http://dbpedia.org/resource/Futurama",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Futurama",
+            "http://dbpedia.org/resource/Comedy_Central"
+        ],
+        [
+            "http://dbpedia.org/resource/Dora_the_Explorer",
+            "http://dbpedia.org/resource/Nickelodeon"
+        ],
+        [
+            "http://dbpedia.org/resource/Watch_Mr._Wizard",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonanza",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Cyberchase",
+            "http://dbpedia.org/resource/PBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollywood_Squares",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollywood_Squares",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollywood_Squares",
+            "http://dbpedia.org/resource/NBC"
+        ]
+    ]
+}

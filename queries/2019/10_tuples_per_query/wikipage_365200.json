@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Henry_I_the_Bearded",
+            "http://dbpedia.org/resource/Lower_Silesia"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_II_the_Pious",
+            "http://dbpedia.org/resource/Lower_Silesia"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_V_the_Fat",
+            "http://dbpedia.org/resource/Legnica"
+        ],
+        [
+            "http://dbpedia.org/resource/Mieszko_I,_Duke_of_Cieszyn",
+            "http://dbpedia.org/resource/Cieszyn"
+        ],
+        [
+            "http://dbpedia.org/resource/Casimir_of_Bytom",
+            "http://dbpedia.org/resource/Opole"
+        ],
+        [
+            "http://dbpedia.org/resource/Casimir_of_Bytom",
+            "http://dbpedia.org/resource/Bytom"
+        ],
+        [
+            "http://dbpedia.org/resource/Siemowit_of_Bytom",
+            "http://dbpedia.org/resource/Bytom"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_of_Strzelce",
+            "http://dbpedia.org/resource/Opole"
+        ],
+        [
+            "http://dbpedia.org/resource/Casimir_I,_Duke_of_Cieszyn",
+            "http://dbpedia.org/resource/Cieszyn"
+        ],
+        [
+            "http://dbpedia.org/resource/George_of_Bytom",
+            "http://dbpedia.org/resource/Bytom"
+        ]
+    ]
+}

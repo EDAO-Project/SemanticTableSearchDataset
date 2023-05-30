@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_in_television",
+            "http://dbpedia.org/resource/Chepe_Fortuna"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_in_television",
+            "http://dbpedia.org/resource/La_Traicionera"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_in_television",
+            "http://dbpedia.org/resource/Tres_Milagros"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_in_television",
+            "http://dbpedia.org/resource/Pobres_rico"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_in_television",
+            "http://dbpedia.org/resource/Chica_vampiro"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_in_television",
+            "http://dbpedia.org/resource/La_prepago"
+        ],
+        [
+            "http://dbpedia.org/resource/2015_in_television",
+            "http://dbpedia.org/resource/Diomedes,_el_cacique_de_la_junta"
+        ],
+        [
+            "http://dbpedia.org/resource/2015_in_television",
+            "http://dbpedia.org/resource/Lady,_la_vendedora_de_rosas"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_in_television",
+            "http://dbpedia.org/resource/En_la_boca_del_lobo"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_in_television",
+            "http://dbpedia.org/resource/Hermanos_y_hermanas"
+        ]
+    ]
+}

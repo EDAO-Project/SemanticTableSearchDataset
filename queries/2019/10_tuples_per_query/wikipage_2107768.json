@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wayne_Gretzky",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Messier",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Yzerman",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Mario_Lemieux",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins"
+        ],
+        [
+            "http://dbpedia.org/resource/Brett_Hull",
+            "http://dbpedia.org/resource/St._Louis_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierre_Turgeon",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ],
+        [
+            "http://dbpedia.org/resource/Pat_LaFontaine",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Coffey",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Sakic",
+            "http://dbpedia.org/resource/Quebec_Nordiques"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Oates",
+            "http://dbpedia.org/resource/St._Louis_Blues"
+        ]
+    ]
+}

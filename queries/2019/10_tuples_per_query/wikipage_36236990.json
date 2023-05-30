@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Amiens_SC",
+            "http://dbpedia.org/resource/Stade_de_la_Mosson"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_Brestois_29",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Valenciennes_FC",
+            "http://dbpedia.org/resource/Stade_de_la_Mosson"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_de_Reims",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_Lavallois",
+            "http://dbpedia.org/resource/Stade_de_la_Mosson"
+        ],
+        [
+            "http://dbpedia.org/resource/Clermont_Foot",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/En_Avant_de_Guingamp",
+            "http://dbpedia.org/resource/Stade_de_la_Mosson"
+        ],
+        [
+            "http://dbpedia.org/resource/CS_Sedan_Ardennes",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Sete_34",
+            "http://dbpedia.org/resource/Stade_de_la_Mosson"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Lorient",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ]
+    ]
+}

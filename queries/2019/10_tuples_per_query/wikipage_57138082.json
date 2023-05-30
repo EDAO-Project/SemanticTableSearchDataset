@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Phelps",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Larisa_Latynina",
+            "http://dbpedia.org/resource/Gymnastics_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Nikolai_Andrianov",
+            "http://dbpedia.org/resource/Gymnastics_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Boris_Shakhlin",
+            "http://dbpedia.org/resource/Gymnastics_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Edoardo_Mangiarotti",
+            "http://dbpedia.org/resource/Fencing_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Takashi_Ono",
+            "http://dbpedia.org/resource/Gymnastics_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Paavo_Nurmi",
+            "http://dbpedia.org/resource/Athletics_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Birgit_Fischer",
+            "http://dbpedia.org/resource/Canoeing_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Sawao_Kato",
+            "http://dbpedia.org/resource/Gymnastics_at_the_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Jenny_Thompson",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics"
+        ]
+    ]
+}

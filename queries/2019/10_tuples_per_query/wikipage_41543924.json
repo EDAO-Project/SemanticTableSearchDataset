@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Li_Na",
+            "http://dbpedia.org/resource/Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Caroline_Garcia",
+            "http://dbpedia.org/resource/Bogota"
+        ],
+        [
+            "http://dbpedia.org/resource/Monica_Puig",
+            "http://dbpedia.org/resource/Strasbourg"
+        ],
+        [
+            "http://dbpedia.org/resource/Simona_Halep",
+            "http://dbpedia.org/resource/Bucharest"
+        ],
+        [
+            "http://dbpedia.org/resource/Elina_Svitolina",
+            "http://dbpedia.org/resource/Baku"
+        ],
+        [
+            "http://dbpedia.org/resource/Karin_Knapp",
+            "http://dbpedia.org/resource/Tashkent"
+        ],
+        [
+            "http://dbpedia.org/resource/Sabine_Lisicki",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ],
+        [
+            "http://dbpedia.org/resource/Monica_Niculescu",
+            "http://dbpedia.org/resource/Guangzhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Alison_Riske",
+            "http://dbpedia.org/resource/Tianjin"
+        ],
+        [
+            "http://dbpedia.org/resource/Samantha_Stosur",
+            "http://dbpedia.org/resource/Osaka"
+        ]
+    ]
+}

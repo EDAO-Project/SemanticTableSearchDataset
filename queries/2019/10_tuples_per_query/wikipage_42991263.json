@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ron_Massey_Cup",
+            "http://dbpedia.org/resource/Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Shield",
+            "http://dbpedia.org/resource/Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Manly-Warringah/North_Sydney_District_Rugby_League",
+            "http://dbpedia.org/resource/Northern_Beaches"
+        ],
+        [
+            "http://dbpedia.org/resource/Cronulla-Sutherland_District_Rugby_Football_League",
+            "http://dbpedia.org/resource/Sutherland_Shire"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Sydney_District_Junior_Rugby_Football_League",
+            "http://dbpedia.org/resource/Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Penrith_District_Rugby_League",
+            "http://dbpedia.org/resource/Western_Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Parramatta_Junior_Rugby_League",
+            "http://dbpedia.org/resource/Western_Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Northern_Rivers_Regional_Rugby_League",
+            "http://dbpedia.org/resource/Northern_Rivers"
+        ],
+        [
+            "http://dbpedia.org/resource/Group_2_Rugby_League",
+            "http://dbpedia.org/resource/Mid_North_Coast"
+        ],
+        [
+            "http://dbpedia.org/resource/Group_3_Rugby_League",
+            "http://dbpedia.org/resource/Mid_North_Coast"
+        ]
+    ]
+}

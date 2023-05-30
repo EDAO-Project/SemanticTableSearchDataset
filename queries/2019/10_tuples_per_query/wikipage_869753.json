@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nat_Adderley",
+            "http://dbpedia.org/resource/You,_Baby"
+        ],
+        [
+            "http://dbpedia.org/resource/Wes_Montgomery",
+            "http://dbpedia.org/resource/Down_Here_on_the_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Wes_Montgomery",
+            "http://dbpedia.org/resource/Road_Song"
+        ],
+        [
+            "http://dbpedia.org/resource/Nat_Adderley",
+            "http://dbpedia.org/resource/Calling_Out_Loud"
+        ],
+        [
+            "http://dbpedia.org/resource/Walter_Wanderley",
+            "http://dbpedia.org/resource/When_It_Was_Done"
+        ],
+        [
+            "http://dbpedia.org/resource/Quincy_Jones",
+            "http://dbpedia.org/resource/Walking_in_Space"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Desmond",
+            "http://dbpedia.org/resource/From_the_Hot_Afternoon"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Benson",
+            "http://dbpedia.org/resource/I_Got_a_Woman_and_Some_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Benson",
+            "http://dbpedia.org/resource/The_Other_Side_of_Abbey_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Quincy_Jones",
+            "http://dbpedia.org/resource/Gula_Matari"
+        ]
+    ]
+}

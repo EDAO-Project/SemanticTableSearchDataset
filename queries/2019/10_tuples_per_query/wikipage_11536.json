@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1969_Irish_general_election",
+            "http://dbpedia.org/resource/Jack_Lynch"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Irish_general_election",
+            "http://dbpedia.org/resource/Jack_Lynch"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Irish_general_election",
+            "http://dbpedia.org/resource/Jack_Lynch"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Irish_general_election",
+            "http://dbpedia.org/resource/Charles_Haughey"
+        ],
+        [
+            "http://dbpedia.org/resource/February_1982_Irish_general_election",
+            "http://dbpedia.org/resource/Charles_Haughey"
+        ],
+        [
+            "http://dbpedia.org/resource/November_1982_Irish_general_election",
+            "http://dbpedia.org/resource/Charles_Haughey"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_Irish_general_election",
+            "http://dbpedia.org/resource/Charles_Haughey"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_Irish_general_election",
+            "http://dbpedia.org/resource/Charles_Haughey"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_Irish_general_election",
+            "http://dbpedia.org/resource/Albert_Reynolds"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_Irish_general_election",
+            "http://dbpedia.org/resource/Albert_Reynolds"
+        ]
+    ]
+}

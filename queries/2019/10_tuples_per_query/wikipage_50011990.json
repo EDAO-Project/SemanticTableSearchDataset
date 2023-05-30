@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saturn_Awards",
+            "http://dbpedia.org/resource/Saturn_Award_for_Best_Actress"
+        ],
+        [
+            "http://dbpedia.org/resource/MTV_Movie_Awards",
+            "http://dbpedia.org/resource/MTV_Movie_Award_for_Best_Breakthrough_Performance"
+        ],
+        [
+            "http://dbpedia.org/resource/Golden_Raspberry_Awards",
+            "http://dbpedia.org/resource/Golden_Raspberry_Award_for_Worst_Actress"
+        ],
+        [
+            "http://dbpedia.org/resource/Screen_Actors_Guild",
+            "http://dbpedia.org/resource/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Film_Critics_Association",
+            "http://dbpedia.org/resource/Online_Film_Critics_Society_Award_for_Best_Supporting_Actress"
+        ],
+        [
+            "http://dbpedia.org/resource/Empire_Awards",
+            "http://dbpedia.org/resource/Empire_Award_for_Best_British_Actress"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Society_of_Film_Critics",
+            "http://dbpedia.org/resource/Online_Film_Critics_Society_Award_for_Best_Supporting_Actress"
+        ],
+        [
+            "http://dbpedia.org/resource/Academy_Awards",
+            "http://dbpedia.org/resource/Online_Film_Critics_Society_Award_for_Best_Supporting_Actress"
+        ],
+        [
+            "http://dbpedia.org/resource/British_Academy_Film_Awards",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_Actress_in_a_Supporting_Role"
+        ],
+        [
+            "http://dbpedia.org/resource/Evening_Standard_British_Film_Awards",
+            "http://dbpedia.org/resource/Saturn_Award_for_Best_Actress"
+        ]
+    ]
+}

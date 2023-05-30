@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fletcher_class_destroyer",
+            "http://dbpedia.org/resource/Bath_Iron_Works"
+        ],
+        [
+            "http://dbpedia.org/resource/Fletcher_class_destroyer",
+            "http://dbpedia.org/resource/Bethlehem_Shipbuilding_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/Fletcher_class_destroyer",
+            "http://dbpedia.org/resource/Federal_Shipbuilding_and_Drydock_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Cannon-class_destroyer_escort",
+            "http://dbpedia.org/resource/Tampa_Shipbuilding_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Cannon-class_destroyer_escort",
+            "http://dbpedia.org/resource/Tampa_Shipbuilding_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Rudderow_class_destroyer_escort",
+            "http://dbpedia.org/resource/Defoe_Shipbuilding_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Crosley-class_high_speed_transport",
+            "http://dbpedia.org/resource/Defoe_Shipbuilding_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Crosley-class_high_speed_transport",
+            "http://dbpedia.org/resource/Bethlehem-Hingham_Shipyard"
+        ],
+        [
+            "http://dbpedia.org/resource/Rudderow_class_destroyer_escort",
+            "http://dbpedia.org/resource/Bethlehem-Hingham_Shipyard"
+        ],
+        [
+            "http://dbpedia.org/resource/Buckley-class_destroyer_escort",
+            "http://dbpedia.org/resource/Charleston_Navy_Yard"
+        ]
+    ]
+}

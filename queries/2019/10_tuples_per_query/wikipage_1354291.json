@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Virat_Kohli",
+            "http://dbpedia.org/resource/Kagiso_Rabada"
+        ],
+        [
+            "http://dbpedia.org/resource/AB_de_Villiers",
+            "http://dbpedia.org/resource/Dale_Steyn"
+        ],
+        [
+            "http://dbpedia.org/resource/AB_de_Villiers",
+            "http://dbpedia.org/resource/Vernon_Philander"
+        ],
+        [
+            "http://dbpedia.org/resource/Kumar_Sangakkara",
+            "http://dbpedia.org/resource/Dale_Steyn"
+        ],
+        [
+            "http://dbpedia.org/resource/Kumar_Sangakkara",
+            "http://dbpedia.org/resource/Dale_Steyn"
+        ],
+        [
+            "http://dbpedia.org/resource/Gautam_Gambhir",
+            "http://dbpedia.org/resource/Dale_Steyn"
+        ],
+        [
+            "http://dbpedia.org/resource/Shivnarine_Chanderpaul",
+            "http://dbpedia.org/resource/Muttiah_Muralitharan"
+        ],
+        [
+            "http://dbpedia.org/resource/Kumar_Sangakkara",
+            "http://dbpedia.org/resource/Muttiah_Muralitharan"
+        ],
+        [
+            "http://dbpedia.org/resource/Ricky_Ponting",
+            "http://dbpedia.org/resource/Muttiah_Muralitharan"
+        ],
+        [
+            "http://dbpedia.org/resource/Ricky_Ponting",
+            "http://dbpedia.org/resource/Shane_Warne"
+        ]
+    ]
+}

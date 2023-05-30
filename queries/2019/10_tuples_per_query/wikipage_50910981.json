@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Douglas_Hunt",
+            "http://dbpedia.org/resource/Sheffield_Wednesday"
+        ],
+        [
+            "http://dbpedia.org/resource/Duncan_McKenzie",
+            "http://dbpedia.org/resource/Middlesbrough"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_Thompson",
+            "http://dbpedia.org/resource/Sunderland"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_McKennan",
+            "http://dbpedia.org/resource/Partick_Thistle"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Soo",
+            "http://dbpedia.org/resource/Stoke_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlie_Leyfield",
+            "http://dbpedia.org/resource/Doncaster_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Allenby_Driver",
+            "http://dbpedia.org/resource/Sheffield_Wednesday"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_Dukes",
+            "http://dbpedia.org/resource/Norwich_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernie_Shepherd",
+            "http://dbpedia.org/resource/Fulham"
+        ],
+        [
+            "http://dbpedia.org/resource/Dennis_Westcott",
+            "http://dbpedia.org/resource/Wolverhampton_Wanderers"
+        ]
+    ]
+}

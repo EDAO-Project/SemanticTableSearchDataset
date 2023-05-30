@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Albury",
+            "http://dbpedia.org/resource/Harold_Mair"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Ashfield",
+            "http://dbpedia.org/resource/Paul_Whelan"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Balmain",
+            "http://dbpedia.org/resource/Roger_Degen"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bankstown",
+            "http://dbpedia.org/resource/Ric_Mochalski"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bass_Hill",
+            "http://dbpedia.org/resource/Neville_Wran"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bathurst",
+            "http://dbpedia.org/resource/Mick_Clough"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Blacktown",
+            "http://dbpedia.org/resource/John_Aquilina"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Blue_Mountains",
+            "http://dbpedia.org/resource/Bob_Debus"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Broken_Hill",
+            "http://dbpedia.org/resource/Bill_Beckroge"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Burrinjuck",
+            "http://dbpedia.org/resource/Terry_Sheahan"
+        ]
+    ]
+}

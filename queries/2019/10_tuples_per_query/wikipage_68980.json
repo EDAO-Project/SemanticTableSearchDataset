@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/TT_pistol",
+            "http://dbpedia.org/resource/Semi-automatic_pistol"
+        ],
+        [
+            "http://dbpedia.org/resource/MAT-49",
+            "http://dbpedia.org/resource/Submachine_gun"
+        ],
+        [
+            "http://dbpedia.org/resource/AKM",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/AK-47",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Type_56_assault_rifle",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/MAS-36_rifle",
+            "http://dbpedia.org/resource/Bolt-action_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/SKS",
+            "http://dbpedia.org/resource/Semi-automatic_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/MAS-49_rifle",
+            "http://dbpedia.org/resource/Semi-automatic_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/AA-52_machine_gun",
+            "http://dbpedia.org/resource/General-purpose_machine_gun"
+        ],
+        [
+            "http://dbpedia.org/resource/Degtyaryov_machine_gun",
+            "http://dbpedia.org/resource/General-purpose_machine_gun"
+        ]
+    ]
+}

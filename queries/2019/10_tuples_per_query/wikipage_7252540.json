@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1969_Uganda_National_First_Division_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Uganda_National_First_Division_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Uganda_National_First_Division_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Uganda_National_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Uganda_National_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Uganda_National_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Uganda_National_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Uganda_National_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Uganda_National_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Uganda_Super_League",
+            "http://dbpedia.org/resource/Ugandan_Super_League"
+        ]
+    ]
+}

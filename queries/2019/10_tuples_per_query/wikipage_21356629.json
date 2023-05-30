@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Honolulu",
+            "http://dbpedia.org/resource/Zhongshan"
+        ],
+        [
+            "http://dbpedia.org/resource/Taipei",
+            "http://dbpedia.org/resource/Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Tahiti",
+            "http://dbpedia.org/resource/Guangdong"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/Shunde"
+        ],
+        [
+            "http://dbpedia.org/resource/Vancouver",
+            "http://dbpedia.org/resource/Beijing"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Shantou"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Taipei"
+        ],
+        [
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Shunde"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Hague",
+            "http://dbpedia.org/resource/Zhejiang"
+        ]
+    ]
+}

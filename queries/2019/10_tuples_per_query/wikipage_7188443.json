@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ACT_New_Zealand",
+            "http://dbpedia.org/resource/Rodney_Hide"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_Labour_Party",
+            "http://dbpedia.org/resource/Helen_Clark"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_National_Party",
+            "http://dbpedia.org/resource/John_Key"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_First",
+            "http://dbpedia.org/resource/Winston_Peters"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_Progressive_Party",
+            "http://dbpedia.org/resource/Jim_Anderton"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Future_New_Zealand",
+            "http://dbpedia.org/resource/Peter_Dunne"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_Democratic_Party",
+            "http://dbpedia.org/resource/Stephnie_de_Ruyter"
+        ],
+        [
+            "http://dbpedia.org/resource/Libertarianz",
+            "http://dbpedia.org/resource/Bernard_Darnton"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Republic_of_New_Zealand_Party",
+            "http://dbpedia.org/resource/Kerry_Bevin"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Kiwi_Party",
+            "http://dbpedia.org/resource/Larry_Baldock"
+        ]
+    ]
+}

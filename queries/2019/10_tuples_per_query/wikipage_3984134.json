@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prime_Minister_of_Canada",
+            "http://dbpedia.org/resource/Stephen_Harper"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_of_Agriculture_and_Agri-Food",
+            "http://dbpedia.org/resource/Chuck_Strahl"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_of_Agriculture_and_Agri-Food",
+            "http://dbpedia.org/resource/Gerry_Ritz"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_the_purpose_of_the_Atlantic_Canada_Opportunities_Agency_Act",
+            "http://dbpedia.org/resource/Peter_MacKay"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_the_purpose_of_the_Atlantic_Canada_Opportunities_Agency_Act",
+            "http://dbpedia.org/resource/Keith_Ashfield"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_the_purpose_of_the_Atlantic_Canada_Opportunities_Agency_Act",
+            "http://dbpedia.org/resource/Bernard_Valcourt"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_of_Canadian_Heritage",
+            "http://dbpedia.org/resource/Bev_Oda"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_of_Canadian_Heritage",
+            "http://dbpedia.org/resource/Shelly_Glover"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_of_Citizenship_and_Immigration",
+            "http://dbpedia.org/resource/Monte_Solberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_of_Citizenship_and_Immigration",
+            "http://dbpedia.org/resource/Diane_Finley"
+        ]
+    ]
+}

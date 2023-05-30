@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NAACP_Image_Awards",
+            "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Actress_in_a_Comedy_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/NAACP_Image_Awards",
+            "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Comedy_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/NAACP_Image_Awards",
+            "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Supporting_Actress_in_a_Comedy_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/NAACP_Image_Awards",
+            "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Supporting_Actor_in_a_Comedy_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/NAACP_Image_Awards",
+            "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Comedy_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/NAACP_Image_Awards",
+            "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Supporting_Actress_in_a_Comedy_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/NAACP_Image_Awards",
+            "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Supporting_Actor_in_a_Comedy_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/NAACP_Image_Awards",
+            "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Comedy_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/NAACP_Image_Awards",
+            "http://dbpedia.org/resource/NAACP_Image_Award_for_Outstanding_Supporting_Actor_in_a_Comedy_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Satellite_Awards",
+            "http://dbpedia.org/resource/Satellite_Award_for_Best_Actress_-_TV_Series_Musical_or_Comedy"
+        ]
+    ]
+}

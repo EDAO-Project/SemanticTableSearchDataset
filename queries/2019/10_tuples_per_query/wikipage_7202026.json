@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aguanish,_Quebec",
+            "http://dbpedia.org/resource/Aguanish_Water_Aerodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Chambly,_Quebec",
+            "http://dbpedia.org/resource/Chambly_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Gatineau",
+            "http://dbpedia.org/resource/Ottawa/Gatineau_Water_Aerodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Maniwaki,_Quebec",
+            "http://dbpedia.org/resource/Maniwaki/Blue_Sea_Lake_Water_Aerodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Matagami,_Quebec",
+            "http://dbpedia.org/resource/Matagami_Water_Aerodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/RCAF_Station_St_Hubert"
+        ],
+        [
+            "http://dbpedia.org/resource/Montreal",
+            "http://dbpedia.org/resource/Victoria_STOLport"
+        ],
+        [
+            "http://dbpedia.org/resource/Mont-Tremblant",
+            "http://dbpedia.org/resource/Mont-Tremblant/Lac_Duhamel_Water_Aerodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Mont-Tremblant",
+            "http://dbpedia.org/resource/Mont-Tremblant/Lac_Ouimet_Water_Aerodrome"
+        ],
+        [
+            "http://dbpedia.org/resource/Pontiac,_Quebec",
+            "http://dbpedia.org/resource/Pontiac_Airpark_Water_Aerodrome"
+        ]
+    ]
+}

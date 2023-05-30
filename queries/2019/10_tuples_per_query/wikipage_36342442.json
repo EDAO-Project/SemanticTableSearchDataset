@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Trinity_Laban_Conservatoire_of_Music_and_Dance",
+            "http://dbpedia.org/resource/University_of_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Wadham_College,_Oxford",
+            "http://dbpedia.org/resource/University_of_Bristol"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Strathclyde",
+            "http://dbpedia.org/resource/University_of_Durham"
+        ],
+        [
+            "http://dbpedia.org/resource/Queen_Mary,_University_of_London",
+            "http://dbpedia.org/resource/Jesus_College,_Oxford"
+        ],
+        [
+            "http://dbpedia.org/resource/Magdalen_College,_Oxford",
+            "http://dbpedia.org/resource/Sidney_Sussex_College,_Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Lincoln_College,_Oxford",
+            "http://dbpedia.org/resource/University_of_Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/Imperial_College_London",
+            "http://dbpedia.org/resource/Jesus_College,_Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_St_Andrews",
+            "http://dbpedia.org/resource/Bangor_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Pembroke_College,_Cambridge",
+            "http://dbpedia.org/resource/University_of_Lancaster"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Bath",
+            "http://dbpedia.org/resource/University_of_Liverpool"
+        ]
+    ]
+}

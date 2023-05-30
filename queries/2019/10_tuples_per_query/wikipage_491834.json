@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Norman_W._Sanderson",
+            "http://dbpedia.org/resource/Minnesott_Beach,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Erica_D._Smith",
+            "http://dbpedia.org/resource/Henrico,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Toby_Fitch",
+            "http://dbpedia.org/resource/Wilson,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_G._Davis",
+            "http://dbpedia.org/resource/Greenville,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Rabon",
+            "http://dbpedia.org/resource/Southport,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Horner",
+            "http://dbpedia.org/resource/Bailey,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Britt",
+            "http://dbpedia.org/resource/Lumberton,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Blue",
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Jay_Chaudhuri",
+            "http://dbpedia.org/resource/Raleigh,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Valerie_P._Foushee",
+            "http://dbpedia.org/resource/Hillsborough,_North_Carolina"
+        ]
+    ]
+}

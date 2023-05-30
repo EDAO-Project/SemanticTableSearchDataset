@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nathan_Bracken",
+            "http://dbpedia.org/resource/New_South_Wales_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Hayden",
+            "http://dbpedia.org/resource/Queensland_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Hodge",
+            "http://dbpedia.org/resource/Victorian_Bushrangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Hogg",
+            "http://dbpedia.org/resource/Western_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Phil_Jaques",
+            "http://dbpedia.org/resource/New_South_Wales_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Glenn_McGrath",
+            "http://dbpedia.org/resource/New_South_Wales_cricket_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaun_Tait",
+            "http://dbpedia.org/resource/Southern_Redbacks"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Voges",
+            "http://dbpedia.org/resource/Western_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Shane_Watson",
+            "http://dbpedia.org/resource/Queensland_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Cameron_White",
+            "http://dbpedia.org/resource/Victorian_Bushrangers"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Barcelona",
+            "http://dbpedia.org/resource/Gary_Lineker"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/Owen_Hargreaves"
+        ],
+        [
+            "http://dbpedia.org/resource/Borussia_Dortmund",
+            "http://dbpedia.org/resource/Jadon_Sancho"
+        ],
+        [
+            "http://dbpedia.org/resource/Bursaspor",
+            "http://dbpedia.org/resource/Scott_Carson"
+        ],
+        [
+            "http://dbpedia.org/resource/D.C._United",
+            "http://dbpedia.org/resource/Wayne_Rooney"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/Kevin_Keegan"
+        ],
+        [
+            "http://dbpedia.org/resource/Inter_Milan",
+            "http://dbpedia.org/resource/Paul_Ince"
+        ],
+        [
+            "http://dbpedia.org/resource/S.S._Lazio",
+            "http://dbpedia.org/resource/Paul_Gascoigne"
+        ],
+        [
+            "http://dbpedia.org/resource/LA_Galaxy",
+            "http://dbpedia.org/resource/David_Beckham"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympique_de_Marseille",
+            "http://dbpedia.org/resource/Chris_Waddle"
+        ]
+    ]
+}

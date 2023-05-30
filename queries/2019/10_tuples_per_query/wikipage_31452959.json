@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nishikyogoku_Athletic_Stadium",
+            "http://dbpedia.org/resource/Gamba_Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Wing_Stadium",
+            "http://dbpedia.org/resource/Vissel_Kobe"
+        ],
+        [
+            "http://dbpedia.org/resource/Kagoshima_Kamoike_Stadium",
+            "http://dbpedia.org/resource/Kashiwa_Reysol"
+        ],
+        [
+            "http://dbpedia.org/resource/Urawa_Komaba_Stadium",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds"
+        ],
+        [
+            "http://dbpedia.org/resource/Nishikyogoku_Athletic_Stadium",
+            "http://dbpedia.org/resource/Shimizu_S-Pulse"
+        ],
+        [
+            "http://dbpedia.org/resource/Ichihara_Seaside_Stadium",
+            "http://dbpedia.org/resource/JEF_United_Ichihara"
+        ],
+        [
+            "http://dbpedia.org/resource/Nishikyogoku_Athletic_Stadium",
+            "http://dbpedia.org/resource/Vegalta_Sendai"
+        ],
+        [
+            "http://dbpedia.org/resource/Kagoshima_Kamoike_Stadium",
+            "http://dbpedia.org/resource/Tokyo_Verdy_1969"
+        ],
+        [
+            "http://dbpedia.org/resource/Nishikyogoku_Athletic_Stadium",
+            "http://dbpedia.org/resource/Cerezo_Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Toyota_Stadium",
+            "http://dbpedia.org/resource/Nagoya_Grampus_Eight"
+        ]
+    ]
+}

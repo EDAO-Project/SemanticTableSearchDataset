@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1998_3_Nations_Cup",
+            "http://dbpedia.org/resource/Kuortane"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_4_Nations_Cup",
+            "http://dbpedia.org/resource/Provo,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_4_Nations_Cup",
+            "http://dbpedia.org/resource/Lake_Placid,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_4_Nations_Cup",
+            "http://dbpedia.org/resource/Kitchener,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_4_Nations_Cup",
+            "http://dbpedia.org/resource/Leksand"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_4_Nations_Cup",
+            "http://dbpedia.org/resource/Lake_Placid,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_4_Nations_Cup",
+            "http://dbpedia.org/resource/Lake_Placid,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_4_Nations_Cup",
+            "http://dbpedia.org/resource/Kamloops"
+        ],
+        [
+            "http://dbpedia.org/resource/2015_4_Nations_Cup",
+            "http://dbpedia.org/resource/Sundsvall_Municipality"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_4_Nations_Cup",
+            "http://dbpedia.org/resource/Tampa,_Florida"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/General_Motors",
+            "http://dbpedia.org/resource/GM_New_Look_bus"
+        ],
+        [
+            "http://dbpedia.org/resource/Flxible",
+            "http://dbpedia.org/resource/Flxible_New_Look_bus"
+        ],
+        [
+            "http://dbpedia.org/resource/Flxible",
+            "http://dbpedia.org/resource/Flxible_New_Look_bus"
+        ],
+        [
+            "http://dbpedia.org/resource/MAN_Truck_&_Bus",
+            "http://dbpedia.org/resource/MAN_SG_220"
+        ],
+        [
+            "http://dbpedia.org/resource/Gillig_Corporation",
+            "http://dbpedia.org/resource/Gillig_Phantom"
+        ],
+        [
+            "http://dbpedia.org/resource/Gillig_Corporation",
+            "http://dbpedia.org/resource/Gillig_Phantom"
+        ],
+        [
+            "http://dbpedia.org/resource/Neoplan_USA",
+            "http://dbpedia.org/resource/Neoplan_AN440"
+        ],
+        [
+            "http://dbpedia.org/resource/Gillig_Corporation",
+            "http://dbpedia.org/resource/Gillig_Phantom"
+        ],
+        [
+            "http://dbpedia.org/resource/Gillig_Corporation",
+            "http://dbpedia.org/resource/Gillig_Phantom"
+        ],
+        [
+            "http://dbpedia.org/resource/Gillig_Corporation",
+            "http://dbpedia.org/resource/Gillig_Phantom"
+        ]
+    ]
+}

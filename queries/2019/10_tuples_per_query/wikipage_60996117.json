@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/All_About_Eve",
+            "http://dbpedia.org/resource/Joseph_L._Mankiewicz"
+        ],
+        [
+            "http://dbpedia.org/resource/Fourteen_Hours",
+            "http://dbpedia.org/resource/John_Paxton"
+        ],
+        [
+            "http://dbpedia.org/resource/High_Noon",
+            "http://dbpedia.org/resource/Carl_Foreman"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bad_and_the_Beautiful",
+            "http://dbpedia.org/resource/Charles_Schnee"
+        ],
+        [
+            "http://dbpedia.org/resource/From_Here_to_Eternity",
+            "http://dbpedia.org/resource/Daniel_Taradash"
+        ],
+        [
+            "http://dbpedia.org/resource/On_the_Waterfront",
+            "http://dbpedia.org/resource/Budd_Schulberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Executive_Suite",
+            "http://dbpedia.org/resource/Ernest_Lehman"
+        ],
+        [
+            "http://dbpedia.org/resource/Rear_Window",
+            "http://dbpedia.org/resource/John_Michael_Hayes"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Barefoot_Contessa",
+            "http://dbpedia.org/resource/Joseph_L._Mankiewicz"
+        ],
+        [
+            "http://dbpedia.org/resource/Bad_Day_at_Black_Rock",
+            "http://dbpedia.org/resource/Millard_Kaufman"
+        ]
+    ]
+}

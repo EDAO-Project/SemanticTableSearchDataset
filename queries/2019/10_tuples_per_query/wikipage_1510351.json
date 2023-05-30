@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Open_Championship",
+            "http://dbpedia.org/resource/Flory_Van_Donck"
+        ],
+        [
+            "http://dbpedia.org/resource/Daks_Tournament",
+            "http://dbpedia.org/resource/Harold_Henning"
+        ],
+        [
+            "http://dbpedia.org/resource/Yorkshire_Evening_News_Tournament",
+            "http://dbpedia.org/resource/Bernard_Hunt"
+        ],
+        [
+            "http://dbpedia.org/resource/Bowmaker_Tournament",
+            "http://dbpedia.org/resource/Bernard_Hunt"
+        ],
+        [
+            "http://dbpedia.org/resource/Yorkshire_Evening_News_Tournament",
+            "http://dbpedia.org/resource/Dai_Rees"
+        ],
+        [
+            "http://dbpedia.org/resource/News_of_the_World_Match_Play",
+            "http://dbpedia.org/resource/Ralph_Moffitt"
+        ],
+        [
+            "http://dbpedia.org/resource/Daks_Tournament",
+            "http://dbpedia.org/resource/Guy_Wolstenholme"
+        ],
+        [
+            "http://dbpedia.org/resource/News_of_the_World_Match_Play",
+            "http://dbpedia.org/resource/Neil_Coles"
+        ],
+        [
+            "http://dbpedia.org/resource/Esso_Golden_Tournament",
+            "http://dbpedia.org/resource/Kel_Nagle"
+        ],
+        [
+            "http://dbpedia.org/resource/News_of_the_World_Match_Play",
+            "http://dbpedia.org/resource/Dai_Rees"
+        ]
+    ]
+}

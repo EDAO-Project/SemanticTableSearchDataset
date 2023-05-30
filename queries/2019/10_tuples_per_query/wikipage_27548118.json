@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/General_Electric",
+            "http://dbpedia.org/resource/GE_44-ton_switcher"
+        ],
+        [
+            "http://dbpedia.org/resource/Baldwin_Locomotive_Works",
+            "http://dbpedia.org/resource/Baldwin_VO-1000"
+        ],
+        [
+            "http://dbpedia.org/resource/Electro_Motive_Division",
+            "http://dbpedia.org/resource/EMD_E7"
+        ],
+        [
+            "http://dbpedia.org/resource/Electro_Motive_Division",
+            "http://dbpedia.org/resource/EMD_F3"
+        ],
+        [
+            "http://dbpedia.org/resource/Baldwin_Locomotive_Works",
+            "http://dbpedia.org/resource/Baldwin_DRS-4-4-1500"
+        ],
+        [
+            "http://dbpedia.org/resource/Baldwin_Locomotive_Works",
+            "http://dbpedia.org/resource/Baldwin_DS-4-4-1000"
+        ],
+        [
+            "http://dbpedia.org/resource/Electro_Motive_Division",
+            "http://dbpedia.org/resource/EMD_F7"
+        ],
+        [
+            "http://dbpedia.org/resource/Electro_Motive_Division",
+            "http://dbpedia.org/resource/EMD_GP7"
+        ],
+        [
+            "http://dbpedia.org/resource/Electro_Motive_Division",
+            "http://dbpedia.org/resource/EMD_SW9"
+        ],
+        [
+            "http://dbpedia.org/resource/Baldwin_Locomotive_Works",
+            "http://dbpedia.org/resource/Baldwin_S-12"
+        ]
+    ]
+}

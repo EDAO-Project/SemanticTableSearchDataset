@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/Houston_Rockets"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/Chicago_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/Kansas_City_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/Atlanta_Hawks"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/Phoenix_Suns"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/Dallas_Mavericks"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/Utah_Jazz"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/New_Jersey_Nets"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_first_overall_NBA_draft_picks",
+            "http://dbpedia.org/resource/Portland_Trail_Blazers"
+        ]
+    ]
+}

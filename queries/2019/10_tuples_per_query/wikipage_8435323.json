@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Candie_Kung",
+            "http://dbpedia.org/resource/Paula_Creamer"
+        ],
+        [
+            "http://dbpedia.org/resource/Meena_Lee",
+            "http://dbpedia.org/resource/Angela_Stanford"
+        ],
+        [
+            "http://dbpedia.org/resource/Jee_Young_Lee",
+            "http://dbpedia.org/resource/Morgan_Pressel"
+        ],
+        [
+            "http://dbpedia.org/resource/Shi_Hyun_Ahn",
+            "http://dbpedia.org/resource/Stacy_Prammanasudh"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Young",
+            "http://dbpedia.org/resource/Carin_Koch"
+        ],
+        [
+            "http://dbpedia.org/resource/Hee-Won_Han",
+            "http://dbpedia.org/resource/Nikki_Campbell"
+        ],
+        [
+            "http://dbpedia.org/resource/Jennifer_Rosales",
+            "http://dbpedia.org/resource/Sherri_Steinhauer"
+        ],
+        [
+            "http://dbpedia.org/resource/Sakura_Yokomine",
+            "http://dbpedia.org/resource/Laura_Davies"
+        ],
+        [
+            "http://dbpedia.org/resource/Seon_Hwa_Lee",
+            "http://dbpedia.org/resource/Julieta_Granada"
+        ],
+        [
+            "http://dbpedia.org/resource/Se_Ri_Pak",
+            "http://dbpedia.org/resource/Brittany_Lincicome"
+        ]
+    ]
+}

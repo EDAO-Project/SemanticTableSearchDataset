@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Benowa_State_High_School",
+            "http://dbpedia.org/resource/Benowa,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Coombabah_State_High_School",
+            "http://dbpedia.org/resource/Coombabah,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Elanora_State_High_School",
+            "http://dbpedia.org/resource/Elanora,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Helensvale_State_High_School",
+            "http://dbpedia.org/resource/Helensvale,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Keebra_Park_State_High_School",
+            "http://dbpedia.org/resource/Southport,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Merrimac_State_High_School",
+            "http://dbpedia.org/resource/Mermaid_Waters,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami_State_High_School",
+            "http://dbpedia.org/resource/Miami,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Nerang_State_High_School",
+            "http://dbpedia.org/resource/Nerang,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Ormeau_Woods_State_High_School",
+            "http://dbpedia.org/resource/Ormeau,_Queensland"
+        ],
+        [
+            "http://dbpedia.org/resource/Palm_Beach-Currumbin_State_High_School",
+            "http://dbpedia.org/resource/Palm_Beach,_Queensland"
+        ]
+    ]
+}

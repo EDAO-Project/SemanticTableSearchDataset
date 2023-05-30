@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gabriel_synthesis",
+            "http://dbpedia.org/resource/Organohalide"
+        ],
+        [
+            "http://dbpedia.org/resource/Staudinger_reduction",
+            "http://dbpedia.org/resource/Azide"
+        ],
+        [
+            "http://dbpedia.org/resource/Schmidt_reaction",
+            "http://dbpedia.org/resource/Carboxylic_acid"
+        ],
+        [
+            "http://dbpedia.org/resource/Birch_reduction",
+            "http://dbpedia.org/resource/Imine"
+        ],
+        [
+            "http://dbpedia.org/resource/Hofmann_rearrangement",
+            "http://dbpedia.org/resource/Amide"
+        ],
+        [
+            "http://dbpedia.org/resource/Hofmann_elimination",
+            "http://dbpedia.org/resource/Quaternary_ammonium_salt"
+        ],
+        [
+            "http://dbpedia.org/resource/Nitrile_reduction",
+            "http://dbpedia.org/resource/Nitrile"
+        ],
+        [
+            "http://dbpedia.org/resource/Reduction_of_nitro_compounds",
+            "http://dbpedia.org/resource/Nitro_compound"
+        ],
+        [
+            "http://dbpedia.org/resource/Amine_alkylation",
+            "http://dbpedia.org/resource/Haloalkane"
+        ],
+        [
+            "http://dbpedia.org/resource/Delepine_reaction",
+            "http://dbpedia.org/resource/Organohalide"
+        ]
+    ]
+}

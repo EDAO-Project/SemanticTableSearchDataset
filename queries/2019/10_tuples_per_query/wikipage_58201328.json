@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2007",
+            "http://dbpedia.org/resource/Miami"
+        ],
+        [
+            "http://dbpedia.org/resource/2007",
+            "http://dbpedia.org/resource/Miami"
+        ],
+        [
+            "http://dbpedia.org/resource/2007",
+            "http://dbpedia.org/resource/Miami"
+        ],
+        [
+            "http://dbpedia.org/resource/2007",
+            "http://dbpedia.org/resource/Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/2007",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/2009",
+            "http://dbpedia.org/resource/Oakland,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/2009",
+            "http://dbpedia.org/resource/Houston"
+        ],
+        [
+            "http://dbpedia.org/resource/2009",
+            "http://dbpedia.org/resource/Glendale,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/2009",
+            "http://dbpedia.org/resource/Arlington,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/2011",
+            "http://dbpedia.org/resource/Detroit"
+        ]
+    ]
+}

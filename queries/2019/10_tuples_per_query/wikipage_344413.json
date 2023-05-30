@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nuna",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Twente",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/North-West_University",
+            "http://dbpedia.org/resource/South_Africa"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_KwaZulu-Natal",
+            "http://dbpedia.org/resource/South_Africa"
+        ],
+        [
+            "http://dbpedia.org/resource/Anadolu_University",
+            "http://dbpedia.org/resource/Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/Kookmin_University",
+            "http://dbpedia.org/resource/Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/Cambridge_University",
+            "http://dbpedia.org/resource/UK"
+        ],
+        [
+            "http://dbpedia.org/resource/Dokuz_Eylul_University",
+            "http://dbpedia.org/resource/Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/MARA_University_of_Technology",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/Durham_University",
+            "http://dbpedia.org/resource/UK"
+        ]
+    ]
+}

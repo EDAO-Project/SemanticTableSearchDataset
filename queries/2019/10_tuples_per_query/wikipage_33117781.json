@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Antonio_Missions",
+            "http://dbpedia.org/resource/Galveston_Buccaneers"
+        ],
+        [
+            "http://dbpedia.org/resource/Austin_Braves",
+            "http://dbpedia.org/resource/Albuquerque_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas_Travelers",
+            "http://dbpedia.org/resource/El_Paso_Diablos"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Paso_Diablos",
+            "http://dbpedia.org/resource/Jackson_Mets"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas_Travelers",
+            "http://dbpedia.org/resource/San_Antonio_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas_Travelers",
+            "http://dbpedia.org/resource/San_Antonio_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackson_Mets",
+            "http://dbpedia.org/resource/San_Antonio_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/Tulsa_Drillers",
+            "http://dbpedia.org/resource/El_Paso_Diablos"
+        ],
+        [
+            "http://dbpedia.org/resource/Beaumont_Golden_Gators",
+            "http://dbpedia.org/resource/Jackson_Mets"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackson_Mets",
+            "http://dbpedia.org/resource/Beaumont_Golden_Gators"
+        ]
+    ]
+}

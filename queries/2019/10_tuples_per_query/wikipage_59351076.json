@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Arda_Kardzhali",
+            "http://dbpedia.org/resource/Kardzhali"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Botev_Galabovo",
+            "http://dbpedia.org/resource/Galabovo"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Chernomorets_Balchik",
+            "http://dbpedia.org/resource/Balchik"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_CSKA_1948_Sofia",
+            "http://dbpedia.org/resource/Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dobrudzha_Dobrich",
+            "http://dbpedia.org/resource/Dobrich"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Kariana_Erden",
+            "http://dbpedia.org/resource/Erden,_Bulgaria"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Litex_Lovech",
+            "http://dbpedia.org/resource/Lovech"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Ludogorets_Razgrad_II",
+            "http://dbpedia.org/resource/Razgrad"
+        ],
+        [
+            "http://dbpedia.org/resource/Montana,_Bulgaria",
+            "http://dbpedia.org/resource/Montana,_Bulgaria",
+            "http://dbpedia.org/resource/Ogosta_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/OFC_Pirin_Blagoevgrad",
+            "http://dbpedia.org/resource/Blagoevgrad"
+        ]
+    ]
+}

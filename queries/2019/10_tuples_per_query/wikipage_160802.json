@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Soul_Rotation",
+            "http://dbpedia.org/resource/The_Dead_Milkmen"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Woman_I_Am",
+            "http://dbpedia.org/resource/Chaka_Khan"
+        ],
+        [
+            "http://dbpedia.org/resource/Too_Blind_to_See_It",
+            "http://dbpedia.org/resource/Kym_Sims"
+        ],
+        [
+            "http://dbpedia.org/resource/Check_Your_Head",
+            "http://dbpedia.org/resource/Beastie_Boys"
+        ],
+        [
+            "http://dbpedia.org/resource/Hotwired",
+            "http://dbpedia.org/resource/The_Soup_Dragons"
+        ],
+        [
+            "http://dbpedia.org/resource/Tongues_and_Tails",
+            "http://dbpedia.org/resource/Sophie_B._Hawkins"
+        ],
+        [
+            "http://dbpedia.org/resource/No_Room",
+            "http://dbpedia.org/resource/The_Samples"
+        ],
+        [
+            "http://dbpedia.org/resource/Night_of_the_Stormrider",
+            "http://dbpedia.org/resource/Iced_Earth"
+        ],
+        [
+            "http://dbpedia.org/resource/I_Was_Warned",
+            "http://dbpedia.org/resource/Robert_Cray"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Longest_Line",
+            "http://dbpedia.org/resource/NOFX"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Truthful_Tulliver",
+            "http://dbpedia.org/resource/William_S._Hart"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Little_Yank",
+            "http://dbpedia.org/resource/George_Siegmann"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Iced_Bullet",
+            "http://dbpedia.org/resource/Reginald_Barker"
+        ],
+        [
+            "http://dbpedia.org/resource/Nina,_the_Flower_Girl",
+            "http://dbpedia.org/resource/Lloyd_Ingraham"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicken_Casey",
+            "http://dbpedia.org/resource/Raymond_B._West"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Bludso",
+            "http://dbpedia.org/resource/Tod_Browning"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Love_Sublime",
+            "http://dbpedia.org/resource/Tod_Browning"
+        ],
+        [
+            "http://dbpedia.org/resource/Sweetheart_of_the_Doomed",
+            "http://dbpedia.org/resource/Reginald_Barker"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Desert_Man",
+            "http://dbpedia.org/resource/William_S._Hart"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Snarl",
+            "http://dbpedia.org/resource/Raymond_B._West"
+        ]
+    ]
+}

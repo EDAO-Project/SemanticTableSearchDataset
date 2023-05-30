@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jeremy_Clarkson",
+            "http://dbpedia.org/resource/Doncaster"
+        ],
+        [
+            "http://dbpedia.org/resource/Angela_Crow",
+            "http://dbpedia.org/resource/Wharfedale"
+        ],
+        [
+            "http://dbpedia.org/resource/Rodney_Bewes",
+            "http://dbpedia.org/resource/Bingley"
+        ],
+        [
+            "http://dbpedia.org/resource/Roy_Castle",
+            "http://dbpedia.org/resource/Scholes,_Holme_Valley"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Daniels",
+            "http://dbpedia.org/resource/South_Bank,_Middlesbrough"
+        ],
+        [
+            "http://dbpedia.org/resource/Ade_Edmondson",
+            "http://dbpedia.org/resource/Bradford"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankie_Howerd",
+            "http://dbpedia.org/resource/York"
+        ],
+        [
+            "http://dbpedia.org/resource/Gorden_Kaye",
+            "http://dbpedia.org/resource/Huddersfield"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Mortimer",
+            "http://dbpedia.org/resource/Acklam,_Middlesbrough"
+        ],
+        [
+            "http://dbpedia.org/resource/Wendy_Richard",
+            "http://dbpedia.org/resource/Middlesbrough"
+        ]
+    ]
+}

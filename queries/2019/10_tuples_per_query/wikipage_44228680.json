@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bernard_Hinault",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ],
+        [
+            "http://dbpedia.org/resource/Bernard_Becaas",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ],
+        [
+            "http://dbpedia.org/resource/Yvon_Bertin",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_Bonnet",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ],
+        [
+            "http://dbpedia.org/resource/Jean_Chassang",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ],
+        [
+            "http://dbpedia.org/resource/Maurice_Le_Guilloux",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ],
+        [
+            "http://dbpedia.org/resource/Bernard_Quilfen",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierre-Raymond_Villemiane",
+            "http://dbpedia.org/resource/Renault-Elf-Gitane"
+        ],
+        [
+            "http://dbpedia.org/resource/Joop_Zoetemelk",
+            "http://dbpedia.org/resource/TI-Raleigh"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerrie_Knetemann",
+            "http://dbpedia.org/resource/TI-Raleigh"
+        ]
+    ]
+}

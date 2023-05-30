@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamid_Nater",
+            "http://dbpedia.org/resource/Raja_Casablanca"
+        ],
+        [
+            "http://dbpedia.org/resource/Akram_Roumani",
+            "http://dbpedia.org/resource/Racing_Genk"
+        ],
+        [
+            "http://dbpedia.org/resource/Ouchla_El_Hocine",
+            "http://dbpedia.org/resource/FAR_Rabat"
+        ],
+        [
+            "http://dbpedia.org/resource/Adel_Chbouki",
+            "http://dbpedia.org/resource/WAC_Casablanca"
+        ],
+        [
+            "http://dbpedia.org/resource/Fouzi_El_Brazi",
+            "http://dbpedia.org/resource/FC_Twente"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Kharbouch",
+            "http://dbpedia.org/resource/Raja_Casablanca"
+        ],
+        [
+            "http://dbpedia.org/resource/Abdelmajid_Oulmers",
+            "http://dbpedia.org/resource/ES_Wasquehal"
+        ],
+        [
+            "http://dbpedia.org/resource/Jaouad_Zairi",
+            "http://dbpedia.org/resource/Gueugnon"
+        ],
+        [
+            "http://dbpedia.org/resource/Otmane_El_Assas",
+            "http://dbpedia.org/resource/Khouribga"
+        ],
+        [
+            "http://dbpedia.org/resource/Bouchaib_El_Moubarki",
+            "http://dbpedia.org/resource/Raja_Casablanca"
+        ]
+    ]
+}

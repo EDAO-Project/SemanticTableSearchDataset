@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harold_T._Johnson",
+            "http://dbpedia.org/resource/1958_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/John_E._Moss",
+            "http://dbpedia.org/resource/1952_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_L._Leggett",
+            "http://dbpedia.org/resource/1962_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Phillip_Burton",
+            "http://dbpedia.org/resource/1964_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/William_S._Mailliard",
+            "http://dbpedia.org/resource/1952_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Ron_Dellums",
+            "http://dbpedia.org/resource/1970_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Paul_Miller",
+            "http://dbpedia.org/resource/1944_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Edwards",
+            "http://dbpedia.org/resource/1962_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_S._Gubser",
+            "http://dbpedia.org/resource/1952_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Burt_L._Talcott",
+            "http://dbpedia.org/resource/1962_United_States_House_of_Representatives_elections_in_California"
+        ]
+    ]
+}

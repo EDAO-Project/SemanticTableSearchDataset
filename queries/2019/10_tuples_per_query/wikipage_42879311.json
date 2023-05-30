@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Milan_Lucic",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Antoine_Roussel",
+            "http://dbpedia.org/resource/Dallas_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexei_Emelin",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Scandella",
+            "http://dbpedia.org/resource/Minnesota_Wild"
+        ],
+        [
+            "http://dbpedia.org/resource/Anders_Lee",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Jannik_Hansen",
+            "http://dbpedia.org/resource/Vancouver_Canucks"
+        ],
+        [
+            "http://dbpedia.org/resource/Gustav_Nyquist",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Vincent_Trocheck",
+            "http://dbpedia.org/resource/Florida_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Sami_Vatanen",
+            "http://dbpedia.org/resource/Anaheim_Ducks"
+        ],
+        [
+            "http://dbpedia.org/resource/Cal_Clutterbuck",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ]
+    ]
+}

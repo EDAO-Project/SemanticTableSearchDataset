@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1953_British_Columbia_general_election",
+            "http://dbpedia.org/resource/W.A.C._Bennett"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_British_Columbia_general_election",
+            "http://dbpedia.org/resource/W.A.C._Bennett"
+        ],
+        [
+            "http://dbpedia.org/resource/1960_British_Columbia_general_election",
+            "http://dbpedia.org/resource/W.A.C._Bennett"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_British_Columbia_general_election",
+            "http://dbpedia.org/resource/W.A.C._Bennett"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_British_Columbia_general_election",
+            "http://dbpedia.org/resource/W.A.C._Bennett"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_British_Columbia_general_election",
+            "http://dbpedia.org/resource/W.A.C._Bennett"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_British_Columbia_general_election",
+            "http://dbpedia.org/resource/W.A.C._Bennett"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_British_Columbia_general_election",
+            "http://dbpedia.org/resource/William_R._Bennett"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_British_Columbia_general_election",
+            "http://dbpedia.org/resource/William_R._Bennett"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_British_Columbia_general_election",
+            "http://dbpedia.org/resource/William_R._Bennett"
+        ]
+    ]
+}

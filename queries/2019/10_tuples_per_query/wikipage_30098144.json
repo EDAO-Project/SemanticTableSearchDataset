@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HDF_McNeil_Stakes",
+            "http://dbpedia.org/resource/Caulfield_Racecourse"
+        ],
+        [
+            "http://dbpedia.org/resource/Guineas_Prelude",
+            "http://dbpedia.org/resource/Caulfield_Racecourse"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Stutt_Stakes",
+            "http://dbpedia.org/resource/Moonee_Valley_Racecourse"
+        ],
+        [
+            "http://dbpedia.org/resource/Caulfield_Guineas",
+            "http://dbpedia.org/resource/Caulfield_Racecourse"
+        ],
+        [
+            "http://dbpedia.org/resource/AAMI_Vase",
+            "http://dbpedia.org/resource/Moonee_Valley_Racecourse"
+        ],
+        [
+            "http://dbpedia.org/resource/Victoria_Derby",
+            "http://dbpedia.org/resource/Flemington_Racecourse"
+        ],
+        [
+            "http://dbpedia.org/resource/Phar_Lap_Stakes",
+            "http://dbpedia.org/resource/Rosehill_Racecourse"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Ryder_Stakes",
+            "http://dbpedia.org/resource/Rosehill_Racecourse"
+        ],
+        [
+            "http://dbpedia.org/resource/Doncaster_Handicap",
+            "http://dbpedia.org/resource/Randwick_Racecourse"
+        ],
+        [
+            "http://dbpedia.org/resource/AJC_Queen_Elizabeth_Stakes",
+            "http://dbpedia.org/resource/Randwick_Racecourse"
+        ]
+    ]
+}

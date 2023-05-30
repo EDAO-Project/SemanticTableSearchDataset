@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1975_Big_League_World_Series",
+            "http://dbpedia.org/resource/Aiea,_Hawaii"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Big_League_World_Series",
+            "http://dbpedia.org/resource/Hilo,_Hawaii"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Big_League_World_Series",
+            "http://dbpedia.org/resource/Tucson,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Big_League_World_Series",
+            "http://dbpedia.org/resource/Tucson,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_Big_League_World_Series",
+            "http://dbpedia.org/resource/Tucson,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_Big_League_World_Series",
+            "http://dbpedia.org/resource/Tucson,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_Big_League_World_Series",
+            "http://dbpedia.org/resource/Tucson,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_Big_League_World_Series",
+            "http://dbpedia.org/resource/Pearl_City,_Hawaii"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Big_League_World_Series",
+            "http://dbpedia.org/resource/Aiea,_Hawaii"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Big_League_World_Series",
+            "http://dbpedia.org/resource/Pearl_City,_Hawaii"
+        ]
+    ]
+}

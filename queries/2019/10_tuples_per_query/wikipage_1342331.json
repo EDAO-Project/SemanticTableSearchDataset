@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_L._Bacon",
+            "http://dbpedia.org/resource/1922_United_States_House_of_Representatives_elections"
+        ],
+        [
+            "http://dbpedia.org/resource/William_F._Brunner",
+            "http://dbpedia.org/resource/1928_United_States_House_of_Representatives_elections"
+        ],
+        [
+            "http://dbpedia.org/resource/George_W._Lindsay",
+            "http://dbpedia.org/resource/1922_United_States_House_of_Representatives_elections"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_H._Cullen",
+            "http://dbpedia.org/resource/1918_United_States_House_of_Representatives_elections"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Lawrence_Somers",
+            "http://dbpedia.org/resource/1924_United_States_House_of_Representatives_elections"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_J._Carley",
+            "http://dbpedia.org/resource/1926_United_States_House_of_Representatives_elections"
+        ],
+        [
+            "http://dbpedia.org/resource/Emanuel_Celler",
+            "http://dbpedia.org/resource/1922_United_States_House_of_Representatives_elections"
+        ],
+        [
+            "http://dbpedia.org/resource/Christopher_D._Sullivan",
+            "http://dbpedia.org/resource/1916_United_States_House_of_Representatives_elections"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Irving_Sirovich",
+            "http://dbpedia.org/resource/1926_United_States_House_of_Representatives_elections"
+        ],
+        [
+            "http://dbpedia.org/resource/John_J._Boylan",
+            "http://dbpedia.org/resource/1922_United_States_House_of_Representatives_elections"
+        ]
+    ]
+}

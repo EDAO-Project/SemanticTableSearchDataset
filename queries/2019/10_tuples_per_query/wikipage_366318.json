@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1955_Malayan_general_election",
+            "http://dbpedia.org/resource/Tunku_Abdul_Rahman"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_Malayan_general_election",
+            "http://dbpedia.org/resource/Tunku_Abdul_Rahman"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Malaysian_general_election",
+            "http://dbpedia.org/resource/Tunku_Abdul_Rahman"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_Malaysian_general_election",
+            "http://dbpedia.org/resource/Tunku_Abdul_Rahman"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Malaysian_general_election",
+            "http://dbpedia.org/resource/Abdul_Razak_Hussein"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Malaysian_general_election",
+            "http://dbpedia.org/resource/Hussein_Onn"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Malaysian_general_election",
+            "http://dbpedia.org/resource/Mahathir_Mohamad"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Malaysian_general_election",
+            "http://dbpedia.org/resource/Mahathir_Mohamad"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Malaysian_general_election",
+            "http://dbpedia.org/resource/Mahathir_Mohamad"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Malaysian_general_election",
+            "http://dbpedia.org/resource/Mahathir_Mohamad"
+        ]
+    ]
+}

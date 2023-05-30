@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1941_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1942_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1943_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1944_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1945_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1946_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1947_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1948_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1949_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_NFL_season",
+            "http://dbpedia.org/resource/1952_Green_Bay_Packers_season"
+        ]
+    ]
+}

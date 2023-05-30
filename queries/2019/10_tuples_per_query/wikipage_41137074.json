@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Japan_national_rugby_union_team",
+            "http://dbpedia.org/resource/United_States_national_rugby_union_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Kosuke_Endo",
+            "http://dbpedia.org/resource/Taku_Ngwenya"
+        ],
+        [
+            "http://dbpedia.org/resource/Koji_Taira",
+            "http://dbpedia.org/resource/Paul_Emerick"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Nicholas",
+            "http://dbpedia.org/resource/Andrew_Suniula"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaun_Webb",
+            "http://dbpedia.org/resource/Mike_Hercus"
+        ],
+        [
+            "http://dbpedia.org/resource/Fumiaki_Tanaka",
+            "http://dbpedia.org/resource/Mike_Petri"
+        ],
+        [
+            "http://dbpedia.org/resource/Hajime_Kiso",
+            "http://dbpedia.org/resource/Inaki_Basauri"
+        ],
+        [
+            "http://dbpedia.org/resource/Toshizumi_Kitagawa",
+            "http://dbpedia.org/resource/Alec_Parker"
+        ],
+        [
+            "http://dbpedia.org/resource/Kensuke_Hatakeyama",
+            "http://dbpedia.org/resource/Matekitonga_Moeakiola"
+        ],
+        [
+            "http://dbpedia.org/resource/Yusuke_Aoki",
+            "http://dbpedia.org/resource/Mark_Crick"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toray_Pan_Pacific_Open",
+            "http://dbpedia.org/resource/Chanda_Rubin"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Wells_Masters",
+            "http://dbpedia.org/resource/Lindsay_Davenport"
+        ],
+        [
+            "http://dbpedia.org/resource/French_Open",
+            "http://dbpedia.org/resource/Lindsay_Davenport"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Wells_Masters",
+            "http://dbpedia.org/resource/Lindsay_Davenport"
+        ],
+        [
+            "http://dbpedia.org/resource/Bell_Challenge",
+            "http://dbpedia.org/resource/Rennae_Stubbs"
+        ],
+        [
+            "http://dbpedia.org/resource/Ameritech_Cup",
+            "http://dbpedia.org/resource/Rennae_Stubbs"
+        ],
+        [
+            "http://dbpedia.org/resource/Advanta_Championships_of_Philadelphia",
+            "http://dbpedia.org/resource/Rennae_Stubbs"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Open",
+            "http://dbpedia.org/resource/Lindsay_Davenport"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Wells_Masters",
+            "http://dbpedia.org/resource/Nathalie_Tauziat"
+        ],
+        [
+            "http://dbpedia.org/resource/Bell_Challenge",
+            "http://dbpedia.org/resource/Rennae_Stubbs"
+        ]
+    ]
+}

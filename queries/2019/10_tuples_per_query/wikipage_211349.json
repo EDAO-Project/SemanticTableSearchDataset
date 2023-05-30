@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Christian_Herter",
+            "http://dbpedia.org/resource/John_F._Kennedy"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Herter",
+            "http://dbpedia.org/resource/Lyndon_B._Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/William_M._Roth",
+            "http://dbpedia.org/resource/Lyndon_B._Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl_J._Gilbert",
+            "http://dbpedia.org/resource/Richard_Nixon"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Denman_Eberle",
+            "http://dbpedia.org/resource/Richard_Nixon"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_B._Dent",
+            "http://dbpedia.org/resource/Gerald_Ford"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Schwarz_Strauss",
+            "http://dbpedia.org/resource/Jimmy_Carter"
+        ],
+        [
+            "http://dbpedia.org/resource/Reubin_Askew",
+            "http://dbpedia.org/resource/Jimmy_Carter"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Brock",
+            "http://dbpedia.org/resource/Ronald_Reagan"
+        ],
+        [
+            "http://dbpedia.org/resource/Clayton_Keith_Yeutter",
+            "http://dbpedia.org/resource/Ronald_Reagan"
+        ]
+    ]
+}

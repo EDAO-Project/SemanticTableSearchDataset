@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tasmania_1900_Berlin",
+            "http://dbpedia.org/resource/VfL_Bochum"
+        ],
+        [
+            "http://dbpedia.org/resource/VfL_Bochum",
+            "http://dbpedia.org/resource/Tasmania_1900_Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/VfR_Heilbronn",
+            "http://dbpedia.org/resource/VfB_Stuttgart"
+        ],
+        [
+            "http://dbpedia.org/resource/VfB_Stuttgart",
+            "http://dbpedia.org/resource/VfR_Heilbronn"
+        ],
+        [
+            "http://dbpedia.org/resource/Kickers_Offenbach",
+            "http://dbpedia.org/resource/Borussia_Dortmund"
+        ],
+        [
+            "http://dbpedia.org/resource/Borussia_Dortmund",
+            "http://dbpedia.org/resource/Kickers_Offenbach"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Schalke_04",
+            "http://dbpedia.org/resource/Hertha_BSC"
+        ],
+        [
+            "http://dbpedia.org/resource/Hertha_BSC",
+            "http://dbpedia.org/resource/FC_Schalke_04"
+        ],
+        [
+            "http://dbpedia.org/resource/Holstein_Kiel",
+            "http://dbpedia.org/resource/Hannover_96"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/Holstein_Kiel"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Goran_Petreski"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Zoran_Miserdovski"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Dejan_Blazhevski"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Aleksandar_Bajevski"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Marjan_Altiparmakovski"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Filip_Petrov"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Filip_Petrov"
+        ],
+        [
+            "http://dbpedia.org/resource/Boris_Trajkovski_Stadium",
+            "http://dbpedia.org/resource/Lucas_Cardoso"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Juan_Felipe_Alves_Ribeiro"
+        ],
+        [
+            "http://dbpedia.org/resource/Stadion_Tumbe_Kafe",
+            "http://dbpedia.org/resource/Dejan_Blazhevski"
+        ]
+    ]
+}

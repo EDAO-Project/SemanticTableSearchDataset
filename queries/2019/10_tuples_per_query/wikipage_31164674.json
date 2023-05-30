@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alessandro_Di_Pietro",
+            "http://dbpedia.org/resource/Annalisa_Longo"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessia_Filippi",
+            "http://dbpedia.org/resource/Raimondo_Todaro"
+        ],
+        [
+            "http://dbpedia.org/resource/Giuseppe_Povia",
+            "http://dbpedia.org/resource/Nuria_Santalucia"
+        ],
+        [
+            "http://dbpedia.org/resource/Paolo_Rossi",
+            "http://dbpedia.org/resource/Vicky_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbara_Capponi",
+            "http://dbpedia.org/resource/Samuel_Peron"
+        ],
+        [
+            "http://dbpedia.org/resource/Gedeon_Burkhard",
+            "http://dbpedia.org/resource/Samanta_Togni"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Panucci",
+            "http://dbpedia.org/resource/Agnese_Junkure"
+        ],
+        [
+            "http://dbpedia.org/resource/Vittoria_Belvedere",
+            "http://dbpedia.org/resource/Stefano_Di_Filippo"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruno_Cabrerizo",
+            "http://dbpedia.org/resource/Ola_Karieva"
+        ],
+        [
+            "http://dbpedia.org/resource/Sara_Santostasi",
+            "http://dbpedia.org/resource/Umberto_Gaudino"
+        ]
+    ]
+}

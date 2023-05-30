@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1957_West_German_federal_election",
+            "http://dbpedia.org/resource/Reinhold_Maier"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_West_German_federal_election",
+            "http://dbpedia.org/resource/Erich_Mende"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_West_German_federal_election",
+            "http://dbpedia.org/resource/Erich_Mende"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_West_German_federal_election",
+            "http://dbpedia.org/resource/Walter_Scheel"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_West_German_federal_election",
+            "http://dbpedia.org/resource/Walter_Scheel"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_West_German_federal_election",
+            "http://dbpedia.org/resource/Hans-Dietrich_Genscher"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_West_German_federal_election",
+            "http://dbpedia.org/resource/Hans-Dietrich_Genscher"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_West_German_federal_election",
+            "http://dbpedia.org/resource/Hans-Dietrich_Genscher"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_West_German_federal_election",
+            "http://dbpedia.org/resource/Martin_Bangemann"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_German_federal_election",
+            "http://dbpedia.org/resource/Otto_Graf_Lambsdorff"
+        ]
+    ]
+}

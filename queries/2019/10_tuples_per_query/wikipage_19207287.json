@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Drahoninsky",
+            "http://dbpedia.org/resource/Archery_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Eva_Kacanu",
+            "http://dbpedia.org/resource/Athletics_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Jiri_Jezek",
+            "http://dbpedia.org/resource/Cycling_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Jiri_Jezek",
+            "http://dbpedia.org/resource/Cycling_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Bela_Hlavackova",
+            "http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Bela_Hlavackova",
+            "http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Jiri_Jezek",
+            "http://dbpedia.org/resource/Cycling_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Bela_Hlavackova",
+            "http://dbpedia.org/resource/Swimming_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Vanek",
+            "http://dbpedia.org/resource/Athletics_at_the_2008_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Roman_Musil",
+            "http://dbpedia.org/resource/Athletics_at_the_2008_Summer_Paralympics"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/26th_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1938_New_Zealand_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/27th_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1943_New_Zealand_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/28th_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1946_New_Zealand_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1949_New_Zealand_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/30th_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1951_New_Zealand_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/31st_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1954_New_Zealand_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/32nd_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1957_New_Zealand_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/33rd_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1960_New_Zealand_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/34th_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1963_New_Zealand_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/35th_New_Zealand_Parliament",
+            "http://dbpedia.org/resource/1966_New_Zealand_general_election"
+        ]
+    ]
+}

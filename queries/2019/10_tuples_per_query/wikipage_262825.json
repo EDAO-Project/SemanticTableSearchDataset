@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1933_Irish_general_election",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/1937_Irish_general_election",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/1938_Irish_general_election",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/1943_Irish_general_election",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/1944_Irish_general_election",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/1948_Irish_general_election",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_Irish_general_election",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/1954_Irish_general_election",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_Irish_general_election",
+            "http://dbpedia.org/resource/William_Norton"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_Irish_general_election",
+            "http://dbpedia.org/resource/Brendan_Corish"
+        ]
+    ]
+}

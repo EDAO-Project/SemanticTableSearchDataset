@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abanyom_language",
+            "http://dbpedia.org/resource/Bakor_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Efutop_language",
+            "http://dbpedia.org/resource/Bakor_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Ekajuk_language",
+            "http://dbpedia.org/resource/Bakor_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Nde_language",
+            "http://dbpedia.org/resource/Bakor_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Nsele_language",
+            "http://dbpedia.org/resource/Bakor_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Nta_language",
+            "http://dbpedia.org/resource/Bakor_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Nkem_language",
+            "http://dbpedia.org/resource/Bakor_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Nkum_language",
+            "http://dbpedia.org/resource/Bakor_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Nnam_language",
+            "http://dbpedia.org/resource/Bakor_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Bendeghe_language",
+            "http://dbpedia.org/resource/Ejagham_language"
+        ]
+    ]
+}

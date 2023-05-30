@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/JJB_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/Valley_Parade"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/Halton_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/Valley_Parade"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/Griffin_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/Valley_Parade"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/Valley_Parade"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/Wheldon_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/Headingley_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VII",
+            "http://dbpedia.org/resource/Valley_Parade"
+        ]
+    ]
+}

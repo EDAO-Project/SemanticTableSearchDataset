@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006-07_Wolverhampton_Wanderers_F.C._season",
+            "http://dbpedia.org/resource/EFL_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/2007-08_Wolverhampton_Wanderers_F.C._season",
+            "http://dbpedia.org/resource/EFL_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/2008-09_Wolverhampton_Wanderers_F.C._season",
+            "http://dbpedia.org/resource/EFL_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/2009-10_Queens_Park_Rangers_F.C._season",
+            "http://dbpedia.org/resource/Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/2010-11_Leicester_City_F.C._season",
+            "http://dbpedia.org/resource/Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/2011-12_Doncaster_Rovers_F.C._season",
+            "http://dbpedia.org/resource/Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/2012-13_Wolverhampton_Wanderers_F.C._season",
+            "http://dbpedia.org/resource/EFL_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/2013-14_Wolverhampton_Wanderers_F.C._season",
+            "http://dbpedia.org/resource/EFL_League_One"
+        ],
+        [
+            "http://dbpedia.org/resource/2014-15_Wolverhampton_Wanderers_F.C._season",
+            "http://dbpedia.org/resource/EFL_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/2015-16_Wolverhampton_Wanderers_F.C._season",
+            "http://dbpedia.org/resource/EFL_Championship"
+        ]
+    ]
+}

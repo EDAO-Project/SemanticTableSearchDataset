@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_and_the_Loch_Ness_Monster",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_and_the_Goblin_King",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_and_the_Samurai_Sword",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_Abracadabra-Doo",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_Mystery_Incorporated",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_Camp_Scare",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_Legend_of_the_Phantosaur",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_Music_of_the_Vampire",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_Spooky_Games",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Scooby-Doo!_Haunted_Holidays",
+            "http://dbpedia.org/resource/Velma_Dinkley"
+        ]
+    ]
+}

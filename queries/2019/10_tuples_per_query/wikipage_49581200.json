@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Johnnie_Walker_Classic",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Myanmar_Open",
+            "http://dbpedia.org/resource/Myanmar"
+        ],
+        [
+            "http://dbpedia.org/resource/Hero_Honda_Masters",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Caltex_Singapore_Masters",
+            "http://dbpedia.org/resource/Singapore"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlsberg_Malaysian_Open",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/Casino_Filipino_Philippine_Open",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Challenge_Indian_Open",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/SK_Telecom_Open",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/Maekyung_LG_Fashion_Open",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/Mercuries_Masters",
+            "http://dbpedia.org/resource/Taiwan"
+        ]
+    ]
+}

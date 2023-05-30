@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saint-Gabriel_Blizzard",
+            "http://dbpedia.org/resource/Acton_Vale_Nova"
+        ],
+        [
+            "http://dbpedia.org/resource/Joliette_Blizzard",
+            "http://dbpedia.org/resource/Saint-Georges_Garaga"
+        ],
+        [
+            "http://dbpedia.org/resource/Joliette_Mission",
+            "http://dbpedia.org/resource/Saint-Georges_Garaga"
+        ],
+        [
+            "http://dbpedia.org/resource/Laval_Chiefs",
+            "http://dbpedia.org/resource/Thetford_Mines_Prolab"
+        ],
+        [
+            "http://dbpedia.org/resource/Laval_Chiefs",
+            "http://dbpedia.org/resource/Thetford_Mines_Prolab"
+        ],
+        [
+            "http://dbpedia.org/resource/Verdun_Dragons",
+            "http://dbpedia.org/resource/Saint-Georges_Garaga"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint-Jean-sur-Richelieu_Summum_Chiefs",
+            "http://dbpedia.org/resource/Sherbrooke_Saint-Francois"
+        ],
+        [
+            "http://dbpedia.org/resource/Pont-Rouge_Lois_Jeans",
+            "http://dbpedia.org/resource/Thetford_Mines_Isothermic"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint-Georges_CRS_Express",
+            "http://dbpedia.org/resource/Sherbrooke_Saint-Francois"
+        ],
+        [
+            "http://dbpedia.org/resource/Thetford_Mines_Isothermic",
+            "http://dbpedia.org/resource/Windsor_Wild"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2005_Eurocup_Formula_Renault_2.0_season",
+            "http://dbpedia.org/resource/Jenzer_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Formula_Renault_2000_Germany_season",
+            "http://dbpedia.org/resource/Jenzer_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Eurocup_Formula_Renault_2.0_season",
+            "http://dbpedia.org/resource/Jenzer_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_GP2_Series_season",
+            "http://dbpedia.org/resource/Arden_International"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Formula_One_season",
+            "http://dbpedia.org/resource/Red_Bull_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_GP2_Series_season",
+            "http://dbpedia.org/resource/ART_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Formula_Renault_3.5_Series_season",
+            "http://dbpedia.org/resource/Carlin_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Formula_One_season",
+            "http://dbpedia.org/resource/Red_Bull_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/2008-09_A1_Grand_Prix_season",
+            "http://dbpedia.org/resource/A1_Team_Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_International_Formula_Master_season",
+            "http://dbpedia.org/resource/Trident_Racing"
+        ]
+    ]
+}

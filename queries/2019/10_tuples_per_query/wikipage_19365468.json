@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Calgary",
+            "http://dbpedia.org/resource/Scotiabank_Saddledome"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton",
+            "http://dbpedia.org/resource/Northlands_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Saskatoon",
+            "http://dbpedia.org/resource/SaskTel_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Winnipeg",
+            "http://dbpedia.org/resource/Winnipeg_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/Market_Square_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Champaign,_Illinois",
+            "http://dbpedia.org/resource/State_Farm_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee",
+            "http://dbpedia.org/resource/Bradley_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Minneapolis",
+            "http://dbpedia.org/resource/Target_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Ames,_Iowa",
+            "http://dbpedia.org/resource/Hilton_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Rosemont,_Illinois",
+            "http://dbpedia.org/resource/Allstate_Arena"
+        ]
+    ]
+}

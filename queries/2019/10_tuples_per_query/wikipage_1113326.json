@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1962_Northern_Rhodesian_general_election",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_Northern_Rhodesian_general_election",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Northern_Rhodesian_general_election",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Northern_Rhodesian_general_election",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ],
+        [
+            "http://dbpedia.org/resource/Zambian_general_election,_1968",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ],
+        [
+            "http://dbpedia.org/resource/Zambian_general_election,_1973",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ],
+        [
+            "http://dbpedia.org/resource/Zambian_general_election,_1978",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ],
+        [
+            "http://dbpedia.org/resource/Zambian_general_election,_1983",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ],
+        [
+            "http://dbpedia.org/resource/Zambian_general_election,_1988",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ],
+        [
+            "http://dbpedia.org/resource/Zambian_general_election,_1991",
+            "http://dbpedia.org/resource/Kenneth_Kaunda"
+        ]
+    ]
+}

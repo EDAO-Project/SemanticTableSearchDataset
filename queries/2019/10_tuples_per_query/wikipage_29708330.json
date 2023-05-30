@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Atlanta_Braves"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/California_Angels"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/St._Louis_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Boston_Red_Sox"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Kansas_City_Royals"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Kansas_City_Royals"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Atlanta_Braves"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/California_Angels"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Major_League_Baseball_Draft",
+            "http://dbpedia.org/resource/Cleveland_Indians"
+        ]
+    ]
+}

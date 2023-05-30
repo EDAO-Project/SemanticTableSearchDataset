@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_FIFA_U-17_World_Championship",
+            "http://dbpedia.org/resource/Hiroshima"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_FIFA_U-17_World_Championship",
+            "http://dbpedia.org/resource/Hiroshima"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_FIFA_U-17_World_Championship",
+            "http://dbpedia.org/resource/Hiroshima"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_FIFA_U-17_World_Championship",
+            "http://dbpedia.org/resource/Kyoto"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_FIFA_U-17_World_Championship",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_FIFA_U-17_World_Championship",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_FIFA_U-17_World_Championship",
+            "http://dbpedia.org/resource/Cairo"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_FIFA_U-17_World_Championship",
+            "http://dbpedia.org/resource/Cairo"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_FIFA_U-17_World_Championship",
+            "http://dbpedia.org/resource/Ismailia"
+        ],
+        [
+            "http://dbpedia.org/resource/2015_FIFA_U-17_World_Cup",
+            "http://dbpedia.org/resource/Santiago"
+        ]
+    ]
+}

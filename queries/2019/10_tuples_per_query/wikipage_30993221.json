@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dan_Spang",
+            "http://dbpedia.org/resource/Texas_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Ryder",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Vernon_Fiddler",
+            "http://dbpedia.org/resource/Phoenix_Coyotes"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Pardy",
+            "http://dbpedia.org/resource/Calgary_Flames"
+        ],
+        [
+            "http://dbpedia.org/resource/Sheldon_Souray",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Jake_Dowell",
+            "http://dbpedia.org/resource/Chicago_Blackhawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordie_Benn",
+            "http://dbpedia.org/resource/Texas_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Garbutt",
+            "http://dbpedia.org/resource/Chicago_Wolves"
+        ],
+        [
+            "http://dbpedia.org/resource/Eric_Godard",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Modano",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blood_Simple",
+            "http://dbpedia.org/resource/Coen_brothers"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Hero_of_Our_Time",
+            "http://dbpedia.org/resource/Michael_Almereyda"
+        ],
+        [
+            "http://dbpedia.org/resource/Psycho_III",
+            "http://dbpedia.org/resource/Anthony_Perkins"
+        ],
+        [
+            "http://dbpedia.org/resource/Raising_Arizona",
+            "http://dbpedia.org/resource/Coen_brothers"
+        ],
+        [
+            "http://dbpedia.org/resource/Pass_the_Ammo",
+            "http://dbpedia.org/resource/David_Beaird"
+        ],
+        [
+            "http://dbpedia.org/resource/Barton_Fink",
+            "http://dbpedia.org/resource/Coen_brothers"
+        ],
+        [
+            "http://dbpedia.org/resource/Doc_Hollywood",
+            "http://dbpedia.org/resource/Michael_Caton-Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Kalifornia",
+            "http://dbpedia.org/resource/Dominic_Sena"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Hudsucker_Proxy",
+            "http://dbpedia.org/resource/Coen_brothers"
+        ],
+        [
+            "http://dbpedia.org/resource/Airheads",
+            "http://dbpedia.org/resource/Michael_Lehmann"
+        ]
+    ]
+}

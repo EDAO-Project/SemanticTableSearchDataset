@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Renault",
+            "http://dbpedia.org/resource/Renault_Captur"
+        ],
+        [
+            "http://dbpedia.org/resource/Peugeot",
+            "http://dbpedia.org/resource/Peugeot_2008"
+        ],
+        [
+            "http://dbpedia.org/resource/Automobile_Dacia",
+            "http://dbpedia.org/resource/Dacia_Duster"
+        ],
+        [
+            "http://dbpedia.org/resource/Nissan",
+            "http://dbpedia.org/resource/Nissan_Juke"
+        ],
+        [
+            "http://dbpedia.org/resource/Fiat",
+            "http://dbpedia.org/resource/Fiat_500X"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeep",
+            "http://dbpedia.org/resource/Jeep_Renegade"
+        ],
+        [
+            "http://dbpedia.org/resource/Suzuki",
+            "http://dbpedia.org/resource/Suzuki_Vitara"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford",
+            "http://dbpedia.org/resource/Ford_EcoSport"
+        ],
+        [
+            "http://dbpedia.org/resource/Mazda",
+            "http://dbpedia.org/resource/Mazda_CX-3"
+        ],
+        [
+            "http://dbpedia.org/resource/Mitsubishi_Motors",
+            "http://dbpedia.org/resource/Mitsubishi_ASX"
+        ]
+    ]
+}

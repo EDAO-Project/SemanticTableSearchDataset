@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1987_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/KV_Mechelen"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/Beerschot_AC"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/K.R.C._Genk"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/K.R.C._Genk"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/K.V.C._Westerlo"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/Beerschot_AC"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/S.V._Zulte_Waregem"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/R.S.C._Anderlecht"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Belgian_Cup_Final",
+            "http://dbpedia.org/resource/K.R.C._Genk"
+        ]
+    ]
+}

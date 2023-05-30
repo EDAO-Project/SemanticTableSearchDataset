@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Iserlohn_Roosters",
+            "http://dbpedia.org/resource/Deutsche_Eishockey_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/Iserlohn_Roosters",
+            "http://dbpedia.org/resource/Deutsche_Eishockey_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/Iserlohn_Roosters",
+            "http://dbpedia.org/resource/Deutsche_Eishockey_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/Adler_Mannheim",
+            "http://dbpedia.org/resource/Deutsche_Eishockey_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/Adler_Mannheim",
+            "http://dbpedia.org/resource/Deutsche_Eishockey_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/Adler_Mannheim",
+            "http://dbpedia.org/resource/Deutsche_Eishockey_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Everblades",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Everblades",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Everblades",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Everblades",
+            "http://dbpedia.org/resource/ECHL"
+        ]
+    ]
+}

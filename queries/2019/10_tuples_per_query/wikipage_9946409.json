@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seikel_Motorsport",
+            "http://dbpedia.org/resource/Porsche_968"
+        ],
+        [
+            "http://dbpedia.org/resource/Seikel_Motorsport",
+            "http://dbpedia.org/resource/Porsche_968"
+        ],
+        [
+            "http://dbpedia.org/resource/Seikel_Motorsport",
+            "http://dbpedia.org/resource/Porsche_968"
+        ],
+        [
+            "http://dbpedia.org/resource/Seikel_Motorsport",
+            "http://dbpedia.org/resource/Porsche_964"
+        ],
+        [
+            "http://dbpedia.org/resource/Seikel_Motorsport",
+            "http://dbpedia.org/resource/Porsche_964"
+        ],
+        [
+            "http://dbpedia.org/resource/Seikel_Motorsport",
+            "http://dbpedia.org/resource/Porsche_964"
+        ],
+        [
+            "http://dbpedia.org/resource/Seikel_Motorsport",
+            "http://dbpedia.org/resource/Porsche_964"
+        ],
+        [
+            "http://dbpedia.org/resource/Porsche_968",
+            "http://dbpedia.org/resource/Justin_Bell"
+        ],
+        [
+            "http://dbpedia.org/resource/Porsche_968",
+            "http://dbpedia.org/resource/Bill_Farmer"
+        ],
+        [
+            "http://dbpedia.org/resource/Konrad_Motorsport",
+            "http://dbpedia.org/resource/Porsche_964"
+        ]
+    ]
+}

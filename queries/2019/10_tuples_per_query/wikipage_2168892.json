@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hemingford_Grey_Meadow",
+            "http://dbpedia.org/resource/SSSI"
+        ],
+        [
+            "http://dbpedia.org/resource/Beechwoods",
+            "http://dbpedia.org/resource/Local_Nature_Reserve"
+        ],
+        [
+            "http://dbpedia.org/resource/Brampton_Wood",
+            "http://dbpedia.org/resource/SSSI"
+        ],
+        [
+            "http://dbpedia.org/resource/Buff_Wood",
+            "http://dbpedia.org/resource/SSSI"
+        ],
+        [
+            "http://dbpedia.org/resource/Chettisham_Meadow",
+            "http://dbpedia.org/resource/SSSI"
+        ],
+        [
+            "http://dbpedia.org/resource/Fordham_Woods",
+            "http://dbpedia.org/resource/SSSI"
+        ],
+        [
+            "http://dbpedia.org/resource/Fulbourn_Fen",
+            "http://dbpedia.org/resource/SSSI"
+        ],
+        [
+            "http://dbpedia.org/resource/Gamlingay_Wood",
+            "http://dbpedia.org/resource/SSSI"
+        ],
+        [
+            "http://dbpedia.org/resource/Grafham_Water",
+            "http://dbpedia.org/resource/SSSI"
+        ],
+        [
+            "http://dbpedia.org/resource/Hardwick_Wood",
+            "http://dbpedia.org/resource/SSSI"
+        ]
+    ]
+}

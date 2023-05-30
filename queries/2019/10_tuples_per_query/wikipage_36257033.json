@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Royal_Television_Society",
+            "http://dbpedia.org/resource/Lennie_James"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Television_Society",
+            "http://dbpedia.org/resource/Jed_Mercurio"
+        ],
+        [
+            "http://dbpedia.org/resource/Crime_Thriller_Awards",
+            "http://dbpedia.org/resource/Keeley_Hawes"
+        ],
+        [
+            "http://dbpedia.org/resource/Crime_Thriller_Awards",
+            "http://dbpedia.org/resource/Vicky_McClure"
+        ],
+        [
+            "http://dbpedia.org/resource/BAFTA_Scotland",
+            "http://dbpedia.org/resource/Mark_Bonnar"
+        ],
+        [
+            "http://dbpedia.org/resource/Broadcasting_Press_Guild_Awards",
+            "http://dbpedia.org/resource/Jed_Mercurio"
+        ],
+        [
+            "http://dbpedia.org/resource/BAFTA_Television_Craft_Awards",
+            "http://dbpedia.org/resource/Jed_Mercurio"
+        ],
+        [
+            "http://dbpedia.org/resource/BAFTA_Television_Awards",
+            "http://dbpedia.org/resource/Keeley_Hawes"
+        ],
+        [
+            "http://dbpedia.org/resource/BAFTA_Television_Awards",
+            "http://dbpedia.org/resource/Vicky_McClure"
+        ],
+        [
+            "http://dbpedia.org/resource/Broadcasting_Press_Guild_Awards",
+            "http://dbpedia.org/resource/Keeley_Hawes"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Laxmikant_Parsekar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Manohar_Ajgaonkar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Anant_Shet",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Dayanand_Mandrekar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilfred_de_Souza",
+            "http://dbpedia.org/resource/Nationalist_Congress_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Dayanand_Narvekar",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Manohar_Parrikar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Atanasio_Monserrate",
+            "http://dbpedia.org/resource/United_Goans_Democratic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Francisco_Silveira",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Pandurang_Madkaikar",
+            "http://dbpedia.org/resource/Maharashtrawadi_Gomantak_Party"
+        ]
+    ]
+}

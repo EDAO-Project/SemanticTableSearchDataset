@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kenny_Van_Hoevelen",
+            "http://dbpedia.org/resource/Centre_back"
+        ],
+        [
+            "http://dbpedia.org/resource/Romain_Reynaud",
+            "http://dbpedia.org/resource/Centre_back"
+        ],
+        [
+            "http://dbpedia.org/resource/Konstantinos_Rougalas",
+            "http://dbpedia.org/resource/Centre_back"
+        ],
+        [
+            "http://dbpedia.org/resource/Flavien_Le_Postollec",
+            "http://dbpedia.org/resource/Central_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Yohan_Croizet",
+            "http://dbpedia.org/resource/Attacking_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenneth_Houdret",
+            "http://dbpedia.org/resource/Central_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Bostock",
+            "http://dbpedia.org/resource/Central_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_Asamoah",
+            "http://dbpedia.org/resource/Central_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordy_Lokando",
+            "http://dbpedia.org/resource/Central_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Romero_Regales",
+            "http://dbpedia.org/resource/Centre_forward"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Juan_Manuel_Fangio",
+            "http://dbpedia.org/resource/Alfa_Romeo_in_Formula_One"
+        ],
+        [
+            "http://dbpedia.org/resource/Emmanuel_de_Graffenried",
+            "http://dbpedia.org/resource/Alfa_Romeo_in_Formula_One"
+        ],
+        [
+            "http://dbpedia.org/resource/Piero_Taruffi",
+            "http://dbpedia.org/resource/Alfa_Romeo_in_Formula_One"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberto_Ascari",
+            "http://dbpedia.org/resource/Scuderia_Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Yves_Giraud-Cabantous",
+            "http://dbpedia.org/resource/Talbot-Lago"
+        ],
+        [
+            "http://dbpedia.org/resource/Giuseppe_Farina",
+            "http://dbpedia.org/resource/Alfa_Romeo_in_Formula_One"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Manzon",
+            "http://dbpedia.org/resource/Simca-Gordini"
+        ],
+        [
+            "http://dbpedia.org/resource/Louis_Chiron",
+            "http://dbpedia.org/resource/Maserati_in_motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Luigi_Villoresi",
+            "http://dbpedia.org/resource/Scuderia_Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnny_Claes",
+            "http://dbpedia.org/resource/Talbot-Lago"
+        ]
+    ]
+}

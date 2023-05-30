@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alexander_Vinokourov",
+            "http://dbpedia.org/resource/Cycling_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Olga_Rypakova",
+            "http://dbpedia.org/resource/Athletics_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Serik_Sapiyev",
+            "http://dbpedia.org/resource/Boxing_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Adilbek_Niyazymbetov",
+            "http://dbpedia.org/resource/Boxing_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniyal_Gadzhiyev",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Marina_Volnova",
+            "http://dbpedia.org/resource/Boxing_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Guzel_Manyurova",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivan_Dychko",
+            "http://dbpedia.org/resource/Boxing_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Akzhurek_Tanatarov",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2012_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Anna_Nurmukhambetova",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2012_Summer_Olympics"
+        ]
+    ]
+}

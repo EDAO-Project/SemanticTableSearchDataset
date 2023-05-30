@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tunisian_Open",
+            "http://dbpedia.org/resource/Tunisia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cepsa_Madrid_Open",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Car_Care_Plan_International",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Peugeot_Open_de_France",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Whyte_&_Mackay_PGA_Championship",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Jersey_Open",
+            "http://dbpedia.org/resource/Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Mellion_Timeshare_TPC",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/Timex_Open",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Glasgow_Open",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/Scandinavian_Enterprise_Open",
+            "http://dbpedia.org/resource/Sweden"
+        ]
+    ]
+}

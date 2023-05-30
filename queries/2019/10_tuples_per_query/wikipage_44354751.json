@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elano",
+            "http://dbpedia.org/resource/Chennaiyin_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Del_Piero",
+            "http://dbpedia.org/resource/Delhi_Dynamos_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Pires",
+            "http://dbpedia.org/resource/FC_Goa"
+        ],
+        [
+            "http://dbpedia.org/resource/Freddie_Ljungberg",
+            "http://dbpedia.org/resource/Mumbai_City_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Joan_Capdevila",
+            "http://dbpedia.org/resource/NorthEast_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Trezeguet",
+            "http://dbpedia.org/resource/FC_Pune_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Roberto_Carlos",
+            "http://dbpedia.org/resource/Delhi_Dynamos_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlos_Marchena",
+            "http://dbpedia.org/resource/Kerala_Blasters_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicolas_Anelka",
+            "http://dbpedia.org/resource/Mumbai_City_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Adrian_Mutu",
+            "http://dbpedia.org/resource/FC_Pune_City"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Murphy_Prototypes",
+            "http://dbpedia.org/resource/Oreca_03"
+        ],
+        [
+            "http://dbpedia.org/resource/Greaves_Motorsport",
+            "http://dbpedia.org/resource/Zytek_Z11SN"
+        ],
+        [
+            "http://dbpedia.org/resource/Greaves_Motorsport",
+            "http://dbpedia.org/resource/Zytek_Z11SN"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458_Italia_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458_Italia_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/IMSA_Performance_Matmut",
+            "http://dbpedia.org/resource/Porsche_911_GT3"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458_Italia"
+        ],
+        [
+            "http://dbpedia.org/resource/ART_Grand_Prix",
+            "http://dbpedia.org/resource/McLaren_MP4-12C"
+        ],
+        [
+            "http://dbpedia.org/resource/ART_Grand_Prix",
+            "http://dbpedia.org/resource/McLaren_MP4-12C"
+        ],
+        [
+            "http://dbpedia.org/resource/Prospeed_Competition",
+            "http://dbpedia.org/resource/Porsche_911_GT3"
+        ]
+    ]
+}

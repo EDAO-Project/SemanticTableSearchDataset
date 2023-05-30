@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Waitomo_District",
+            "http://dbpedia.org/resource/Te_Kuiti"
+        ],
+        [
+            "http://dbpedia.org/resource/Taupo_District",
+            "http://dbpedia.org/resource/Mangakino"
+        ],
+        [
+            "http://dbpedia.org/resource/Taupo_District",
+            "http://dbpedia.org/resource/Mangakino"
+        ],
+        [
+            "http://dbpedia.org/resource/Taupo_District",
+            "http://dbpedia.org/resource/Whakamaru"
+        ],
+        [
+            "http://dbpedia.org/resource/Taupo_District",
+            "http://dbpedia.org/resource/Whakamaru"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Waikato_District",
+            "http://dbpedia.org/resource/Whakamaru"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Waikato_District",
+            "http://dbpedia.org/resource/Whakamaru"
+        ],
+        [
+            "http://dbpedia.org/resource/Whakatane",
+            "http://dbpedia.org/resource/Te_Teko"
+        ],
+        [
+            "http://dbpedia.org/resource/Whakatane",
+            "http://dbpedia.org/resource/Te_Teko"
+        ],
+        [
+            "http://dbpedia.org/resource/Whakatane",
+            "http://dbpedia.org/resource/Awakeri"
+        ]
+    ]
+}

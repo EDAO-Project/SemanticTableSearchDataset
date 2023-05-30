@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hwang_Sun-Pil",
+            "http://dbpedia.org/resource/Daegu_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Kang_Gu-Nam",
+            "http://dbpedia.org/resource/Daejeon_Citizen"
+        ],
+        [
+            "http://dbpedia.org/resource/Choi_Won-Kwon",
+            "http://dbpedia.org/resource/FC_Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Chun_Je-Hun",
+            "http://dbpedia.org/resource/FC_Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Seong_Kyung-Il",
+            "http://dbpedia.org/resource/Gyeongnam_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Park_Seung-Min",
+            "http://dbpedia.org/resource/Incheon_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Seo_Min-Gook",
+            "http://dbpedia.org/resource/Incheon_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Park_Jin-Ok",
+            "http://dbpedia.org/resource/Jeju_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Tae-Min",
+            "http://dbpedia.org/resource/Jeju_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeon_Kwang-Hwan",
+            "http://dbpedia.org/resource/Jeonbuk_Hyundai_Motors"
+        ]
+    ]
+}

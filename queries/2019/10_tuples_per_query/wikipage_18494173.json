@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Odsal_Stadium",
+            "http://dbpedia.org/resource/Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Racecourse_Ground",
+            "http://dbpedia.org/resource/Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Post_Office_Road",
+            "http://dbpedia.org/resource/National_League_1"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Shay",
+            "http://dbpedia.org/resource/National_League_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Twickenham_Stoop",
+            "http://dbpedia.org/resource/Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/KC_Stadium",
+            "http://dbpedia.org/resource/Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Craven_Park,_Hull",
+            "http://dbpedia.org/resource/Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Kirklees_Stadium",
+            "http://dbpedia.org/resource/Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Headingley_Stadium",
+            "http://dbpedia.org/resource/Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Leigh_Sports_Village",
+            "http://dbpedia.org/resource/National_League_1"
+        ]
+    ]
+}

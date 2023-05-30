@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Choi_Bo-gun",
+            "http://dbpedia.org/resource/Snowboarding_at_the_2017_Asian_Winter_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Shim_Suk-hee",
+            "http://dbpedia.org/resource/Short_track_speed_skating_at_the_2017_Asian_Winter_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Bo-reum",
+            "http://dbpedia.org/resource/Speed_skating_at_the_2017_Asian_Winter_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Chae-won",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_2017_Asian_Winter_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Sang-hwa",
+            "http://dbpedia.org/resource/Speed_skating_at_the_2017_Asian_Winter_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Seo_Yi-ra",
+            "http://dbpedia.org/resource/Short_track_speed_skating_at_the_2017_Asian_Winter_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Hyeon-tae",
+            "http://dbpedia.org/resource/Alpine_skiing_at_the_2017_Asian_Winter_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Choi_Min-jeong",
+            "http://dbpedia.org/resource/Short_track_speed_skating_at_the_2017_Asian_Winter_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Sin_Da-woon",
+            "http://dbpedia.org/resource/Short_track_speed_skating_at_the_2017_Asian_Winter_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Magnus",
+            "http://dbpedia.org/resource/Cross-country_skiing_at_the_2017_Asian_Winter_Games"
+        ]
+    ]
+}

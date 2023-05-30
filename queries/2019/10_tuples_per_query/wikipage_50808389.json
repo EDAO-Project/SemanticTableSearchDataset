@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FK_Vardar",
+            "http://dbpedia.org/resource/Samtredia"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Vardar",
+            "http://dbpedia.org/resource/Bordeaux"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Vardar",
+            "http://dbpedia.org/resource/Halmstad"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Sileks",
+            "http://dbpedia.org/resource/Shakhtar_Donetsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Vardar",
+            "http://dbpedia.org/resource/Legia_Warsaw"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Pobeda",
+            "http://dbpedia.org/resource/Parma"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Pelister",
+            "http://dbpedia.org/resource/St._Gallen"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Pobeda",
+            "http://dbpedia.org/resource/Midtjylland"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Belasica",
+            "http://dbpedia.org/resource/Celje"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Cementarnica_55",
+            "http://dbpedia.org/resource/GKS_Katowice"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/London_Myanmar_Open",
+            "http://dbpedia.org/resource/Myanmar"
+        ],
+        [
+            "http://dbpedia.org/resource/Benson_&_Hedges_Malaysian_Open",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/Wills_Indian_Open",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/Macau_Open",
+            "http://dbpedia.org/resource/Macau"
+        ],
+        [
+            "http://dbpedia.org/resource/Maekyung_Daks_Open",
+            "http://dbpedia.org/resource/South_Korea"
+        ],
+        [
+            "http://dbpedia.org/resource/Volvo_China_Open",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Casino_Filipino_Philippine_Open",
+            "http://dbpedia.org/resource/Philippines"
+        ],
+        [
+            "http://dbpedia.org/resource/Volvo_Masters_of_Malaysia",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/Era_Taiwan_Open",
+            "http://dbpedia.org/resource/Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolon_Korean_Open",
+            "http://dbpedia.org/resource/South_Korea"
+        ]
+    ]
+}

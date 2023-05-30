@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Amazing_Adventures_of_Morph",
+            "http://dbpedia.org/resource/BBC"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Morph_Files",
+            "http://dbpedia.org/resource/BBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Rex_the_Runt",
+            "http://dbpedia.org/resource/BBC_Two"
+        ],
+        [
+            "http://dbpedia.org/resource/Angry_Kid",
+            "http://dbpedia.org/resource/BBC_Four"
+        ],
+        [
+            "http://dbpedia.org/resource/Creature_Comforts",
+            "http://dbpedia.org/resource/ITV_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Planet_Sketch",
+            "http://dbpedia.org/resource/CITV"
+        ],
+        [
+            "http://dbpedia.org/resource/Purple_and_Brown",
+            "http://dbpedia.org/resource/Nickelodeon"
+        ],
+        [
+            "http://dbpedia.org/resource/Pib_and_Pog",
+            "http://dbpedia.org/resource/BBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaun_the_Sheep",
+            "http://dbpedia.org/resource/CBBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Chop_Socky_Chooks",
+            "http://dbpedia.org/resource/Cartoon_Network"
+        ]
+    ]
+}

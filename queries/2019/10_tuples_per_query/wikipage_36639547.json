@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giorgos_Margaritis",
+            "http://dbpedia.org/resource/Left_back"
+        ],
+        [
+            "http://dbpedia.org/resource/Giannis_Zaradoukas",
+            "http://dbpedia.org/resource/Left_back"
+        ],
+        [
+            "http://dbpedia.org/resource/Nuno_Miguel_Prata_Coelho",
+            "http://dbpedia.org/resource/Defensive_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Andreas_Tatos",
+            "http://dbpedia.org/resource/Attacking_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Emmanouil_Papasterianos",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Charalambos_Economopoulos",
+            "http://dbpedia.org/resource/Defensive_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Erotokritos_Damarlis",
+            "http://dbpedia.org/resource/Defensive_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Pantelis_Antoniadis",
+            "http://dbpedia.org/resource/Defensive_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Aganzo",
+            "http://dbpedia.org/resource/Centre_forward"
+        ],
+        [
+            "http://dbpedia.org/resource/Dimitris_Diamantakos",
+            "http://dbpedia.org/resource/Centre_forward"
+        ]
+    ]
+}

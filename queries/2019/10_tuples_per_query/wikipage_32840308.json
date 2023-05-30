@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gordon_Greenidge",
+            "http://dbpedia.org/resource/Desmond_Haynes"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Brearley",
+            "http://dbpedia.org/resource/Graham_Gooch"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Hilditch",
+            "http://dbpedia.org/resource/Graham_Yallop"
+        ],
+        [
+            "http://dbpedia.org/resource/Sir_Viv_Richards",
+            "http://dbpedia.org/resource/Collis_King"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunil_Gavaskar",
+            "http://dbpedia.org/resource/Kapil_Dev"
+        ],
+        [
+            "http://dbpedia.org/resource/Srinivas_Venkataraghavan",
+            "http://dbpedia.org/resource/Bishan_Bedi"
+        ],
+        [
+            "http://dbpedia.org/resource/Sir_Viv_Richards",
+            "http://dbpedia.org/resource/Collis_King"
+        ],
+        [
+            "http://dbpedia.org/resource/Gordon_Greenidge",
+            "http://dbpedia.org/resource/Desmond_Haynes"
+        ],
+        [
+            "http://dbpedia.org/resource/Gordon_Greenidge",
+            "http://dbpedia.org/resource/Desmond_Haynes"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Brearley",
+            "http://dbpedia.org/resource/Geoff_Boycott"
+        ]
+    ]
+}

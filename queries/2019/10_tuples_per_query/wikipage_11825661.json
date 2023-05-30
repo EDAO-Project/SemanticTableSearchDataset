@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sydney_Roosters",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Fortitude_Valley_Diehards",
+            "http://dbpedia.org/resource/Brisbane_Rugby_League_Premiership"
+        ],
+        [
+            "http://dbpedia.org/resource/Auckland_rugby_league_team",
+            "http://dbpedia.org/resource/New_Zealand_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Canterbury-Bankstown_Bulldogs",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Suburbs_Magpies",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Manly_Warringah_Sea_Eagles",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Sydney_Bears",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Newtown_Jets",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/St._George_Dragons",
+            "http://dbpedia.org/resource/New_South_Wales_Rugby_League"
+        ]
+    ]
+}

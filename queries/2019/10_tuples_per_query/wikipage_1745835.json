@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Konstantinos_Kenteris",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Michail_Mouroutsos",
+            "http://dbpedia.org/resource/Taekwondo_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Pyrros_Dimas",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Kakhi_Kakhiashvili",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ekaterini_Thanou",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Anastasia_Kelesidou",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Mirela_Maniani",
+            "http://dbpedia.org/resource/Athletics_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Dimosthenis_Tampakos",
+            "http://dbpedia.org/resource/Gymnastics_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Leonidas_Sampanis",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2000_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Viktor_Mitrou",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2000_Summer_Olympics"
+        ]
+    ]
+}

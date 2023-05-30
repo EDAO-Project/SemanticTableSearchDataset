@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_NSWRL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_NSWRL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_NSWRL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_NSWRL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_NSWRL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_NSWRL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_ARL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_ARL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_NRL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_NRL_season",
+            "http://dbpedia.org/resource/Brisbane_Broncos"
+        ]
+    ]
+}

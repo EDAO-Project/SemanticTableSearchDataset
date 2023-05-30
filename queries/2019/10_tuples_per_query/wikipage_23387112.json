@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Longford_GAA",
+            "http://dbpedia.org/resource/Warwickshire_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Longford_GAA",
+            "http://dbpedia.org/resource/Leitrim_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Longford_GAA",
+            "http://dbpedia.org/resource/Down_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Fermanagh_GAA",
+            "http://dbpedia.org/resource/Cavan_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Longford_GAA",
+            "http://dbpedia.org/resource/Donegal_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Warwickshire_GAA",
+            "http://dbpedia.org/resource/Longford_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Down_GAA",
+            "http://dbpedia.org/resource/Longford_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Longford_GAA",
+            "http://dbpedia.org/resource/Donegal_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Leitrim_GAA",
+            "http://dbpedia.org/resource/Down_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Donegal_GAA",
+            "http://dbpedia.org/resource/Fermanagh_GAA"
+        ]
+    ]
+}

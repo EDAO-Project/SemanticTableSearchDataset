@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stefan_Bradl",
+            "http://dbpedia.org/resource/Kalex"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_de_Angelis",
+            "http://dbpedia.org/resource/MotoBi"
+        ],
+        [
+            "http://dbpedia.org/resource/Mika_Kallio",
+            "http://dbpedia.org/resource/Eskil_Suter"
+        ],
+        [
+            "http://dbpedia.org/resource/Michele_Pirro",
+            "http://dbpedia.org/resource/Mamoru_Moriwaki"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Iannone",
+            "http://dbpedia.org/resource/Eskil_Suter"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Redding",
+            "http://dbpedia.org/resource/Eskil_Suter"
+        ],
+        [
+            "http://dbpedia.org/resource/Esteve_Rabat",
+            "http://dbpedia.org/resource/FTR_Moto"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Di_Meglio",
+            "http://dbpedia.org/resource/Tech_3"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordi_Torres",
+            "http://dbpedia.org/resource/Eskil_Suter"
+        ],
+        [
+            "http://dbpedia.org/resource/Hafizh_Syahrin",
+            "http://dbpedia.org/resource/Mamoru_Moriwaki"
+        ]
+    ]
+}

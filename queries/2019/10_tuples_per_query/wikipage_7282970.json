@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miss_Thailand_World_2018",
+            "http://dbpedia.org/resource/Nicolene_Pichapa_Limsnukan"
+        ],
+        [
+            "http://dbpedia.org/resource/Nonthawan_Thongleng",
+            "http://dbpedia.org/resource/Centara_Grand_and_Bangkok_Convention_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Natalie_Kanyapak_Phoksomboon",
+            "http://dbpedia.org/resource/Centara_Grand_and_Bangkok_Convention_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Vanessa_Herrmann",
+            "http://dbpedia.org/resource/Centara_Grand_and_Bangkok_Convention_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Pongchanok_Kanklab",
+            "http://dbpedia.org/resource/Centara_Grand_at_Central_Plaza_Ladprao_Bangkok"
+        ],
+        [
+            "http://dbpedia.org/resource/Kanokkorn_Jaicheun",
+            "http://dbpedia.org/resource/Centara_Grand_and_Bangkok_Convention_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Lada_Engchawadechasilp",
+            "http://dbpedia.org/resource/Impact,_Muang_Thong_Thani"
+        ],
+        [
+            "http://dbpedia.org/resource/Cindy_Bishop",
+            "http://dbpedia.org/resource/Central_Department_Store"
+        ],
+        [
+            "http://dbpedia.org/resource/Metinee_Kingpayom",
+            "http://dbpedia.org/resource/Central_Department_Store"
+        ],
+        [
+            "http://dbpedia.org/resource/Papassara_Chutanupong",
+            "http://dbpedia.org/resource/Central_Department_Store"
+        ]
+    ]
+}

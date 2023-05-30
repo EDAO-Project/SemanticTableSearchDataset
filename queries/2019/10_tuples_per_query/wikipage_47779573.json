@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Push_the_Sky_Away",
+            "http://dbpedia.org/resource/Nick_Cave_and_the_Bad_Seeds"
+        ],
+        [
+            "http://dbpedia.org/resource/Push_the_Sky_Away",
+            "http://dbpedia.org/resource/Nick_Cave_and_the_Bad_Seeds"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Next_Day",
+            "http://dbpedia.org/resource/David_Bowie"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Next_Day",
+            "http://dbpedia.org/resource/David_Bowie"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Next_Day",
+            "http://dbpedia.org/resource/David_Bowie"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Next_Day",
+            "http://dbpedia.org/resource/David_Bowie"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Next_Day",
+            "http://dbpedia.org/resource/David_Bowie"
+        ],
+        [
+            "http://dbpedia.org/resource/Random_Access_Memories",
+            "http://dbpedia.org/resource/Daft_Punk"
+        ],
+        [
+            "http://dbpedia.org/resource/Random_Access_Memories",
+            "http://dbpedia.org/resource/Daft_Punk"
+        ],
+        [
+            "http://dbpedia.org/resource/Random_Access_Memories",
+            "http://dbpedia.org/resource/Daft_Punk"
+        ]
+    ]
+}

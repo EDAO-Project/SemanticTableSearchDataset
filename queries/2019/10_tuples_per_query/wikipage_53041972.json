@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ardmore,_County_Waterford",
+            "http://dbpedia.org/resource/Ardmore,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Avoca,_County_Wicklow",
+            "http://dbpedia.org/resource/Avoca,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Bandon,_County_Cork",
+            "http://dbpedia.org/resource/Bandon,_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Cashel,_County_Tipperary",
+            "http://dbpedia.org/resource/Cashel_Township,_Minnesota"
+        ],
+        [
+            "http://dbpedia.org/resource/Clontarf,_Dublin",
+            "http://dbpedia.org/resource/Clontarf,_Minnesota"
+        ],
+        [
+            "http://dbpedia.org/resource/Croom,_County_Limerick",
+            "http://dbpedia.org/resource/Croom,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Donnybrook,_Dublin",
+            "http://dbpedia.org/resource/Donnybrook,_North_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/Dromore,_County_Down",
+            "http://dbpedia.org/resource/Drumore_Township,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Greencastle,_County_Donegal",
+            "http://dbpedia.org/resource/Greencastle,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Lismore,_County_Waterford",
+            "http://dbpedia.org/resource/Lismore,_Minnesota"
+        ]
+    ]
+}

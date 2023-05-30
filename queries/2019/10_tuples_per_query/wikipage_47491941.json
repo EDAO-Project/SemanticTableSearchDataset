@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1982_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Vega_Baja,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Yabucoa,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Isabela,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Yabucoa,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Arroyo,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Yabucoa,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Yabucoa,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Cayey,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Yabucoa,_Puerto_Rico"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Junior_League_World_Series",
+            "http://dbpedia.org/resource/Yabucoa,_Puerto_Rico"
+        ]
+    ]
+}

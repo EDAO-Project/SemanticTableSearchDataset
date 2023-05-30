@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Gautier_Paulin"
+        ],
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Romain_Febvre"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Glenn_Coldenhoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Jeffrey_Herlings"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Cole_Seely"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Zach_Osborne"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Jeremy_Van_Horebeek"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Kevin_Strijbos"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Tony_Cairoli"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Alessandro_Lupino"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1949_West_German_presidential_election",
+            "http://dbpedia.org/resource/Bonn"
+        ],
+        [
+            "http://dbpedia.org/resource/1954_West_German_presidential_election",
+            "http://dbpedia.org/resource/West_Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_West_German_presidential_election",
+            "http://dbpedia.org/resource/West_Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_West_German_presidential_election",
+            "http://dbpedia.org/resource/West_Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_West_German_presidential_election",
+            "http://dbpedia.org/resource/West_Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_West_German_presidential_election",
+            "http://dbpedia.org/resource/Bonn"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_West_German_presidential_election",
+            "http://dbpedia.org/resource/Bonn"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_West_German_presidential_election",
+            "http://dbpedia.org/resource/Bonn"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_West_German_presidential_election",
+            "http://dbpedia.org/resource/Bonn"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_German_presidential_election",
+            "http://dbpedia.org/resource/Berlin"
+        ]
+    ]
+}

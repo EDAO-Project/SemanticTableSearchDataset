@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Croatian_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungarian_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ],
+        [
+            "http://dbpedia.org/resource/Peru_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ],
+        [
+            "http://dbpedia.org/resource/Slovenian_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ],
+        [
+            "http://dbpedia.org/resource/Romanian_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ],
+        [
+            "http://dbpedia.org/resource/Austrian_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ],
+        [
+            "http://dbpedia.org/resource/Slovenian_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungarian_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ],
+        [
+            "http://dbpedia.org/resource/Slovak_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ],
+        [
+            "http://dbpedia.org/resource/Slovak_International",
+            "http://dbpedia.org/resource/Andrej_Pohar"
+        ]
+    ]
+}

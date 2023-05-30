@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/Duval_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami",
+            "http://dbpedia.org/resource/Miami-Dade,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/Hillsborough_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Petersburg,_Florida",
+            "http://dbpedia.org/resource/Pinellas_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Lauderdale,_Florida",
+            "http://dbpedia.org/resource/Broward_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollywood,_Florida",
+            "http://dbpedia.org/resource/Broward_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Hialeah,_Florida",
+            "http://dbpedia.org/resource/Miami-Dade,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Orlando,_Florida",
+            "http://dbpedia.org/resource/Orange_County,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami_Beach,_Florida",
+            "http://dbpedia.org/resource/Miami-Dade,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Tallahassee,_Florida",
+            "http://dbpedia.org/resource/Leon_County,_Florida"
+        ]
+    ]
+}

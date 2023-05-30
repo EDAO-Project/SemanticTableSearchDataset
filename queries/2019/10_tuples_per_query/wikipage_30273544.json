@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stratford_Cullitons",
+            "http://dbpedia.org/resource/Mid-Western_Junior_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Stratford_Cullitons",
+            "http://dbpedia.org/resource/Mid-Western_Junior_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/RPI_Engineers",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/RPI_Engineers",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/RPI_Engineers",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/RPI_Engineers",
+            "http://dbpedia.org/resource/ECAC_Hockey"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilkes-Barre/Scranton_Penguins",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Trenton_Titans",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Phantoms",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Pirates",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ]
+    ]
+}

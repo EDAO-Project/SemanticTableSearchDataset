@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sydney_Cricket_Ground",
+            "http://dbpedia.org/resource/Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane_Cricket_Ground",
+            "http://dbpedia.org/resource/Brisbane"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane_Cricket_Ground",
+            "http://dbpedia.org/resource/Brisbane"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Cricket_Ground",
+            "http://dbpedia.org/resource/Sydney"
+        ],
+        [
+            "http://dbpedia.org/resource/Kennington_Oval",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/P_Sara_Oval",
+            "http://dbpedia.org/resource/Colombo"
+        ],
+        [
+            "http://dbpedia.org/resource/Galle_International_Stadium",
+            "http://dbpedia.org/resource/Galle"
+        ],
+        [
+            "http://dbpedia.org/resource/Asgiriya_Stadium",
+            "http://dbpedia.org/resource/Kandy"
+        ],
+        [
+            "http://dbpedia.org/resource/Edgbaston_Cricket_Ground",
+            "http://dbpedia.org/resource/Birmingham"
+        ],
+        [
+            "http://dbpedia.org/resource/Kennington_Oval",
+            "http://dbpedia.org/resource/London"
+        ]
+    ]
+}

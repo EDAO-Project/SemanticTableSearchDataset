@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/UMass_Dartmouth_Corsairs",
+            "http://dbpedia.org/resource/Southern_Maine_Huskies"
+        ],
+        [
+            "http://dbpedia.org/resource/UMass_Dartmouth_Corsairs",
+            "http://dbpedia.org/resource/Southern_Maine_Huskies"
+        ],
+        [
+            "http://dbpedia.org/resource/Southern_Maine_Huskies",
+            "http://dbpedia.org/resource/Plymouth_State_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/UMass_Dartmouth_Corsairs",
+            "http://dbpedia.org/resource/Southern_Maine_Huskies"
+        ],
+        [
+            "http://dbpedia.org/resource/UMass_Dartmouth_Corsairs",
+            "http://dbpedia.org/resource/Southern_Maine_Huskies"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Connecticut_Colonials",
+            "http://dbpedia.org/resource/Plymouth_State_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Connecticut_Colonials",
+            "http://dbpedia.org/resource/Plymouth_State_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastern_Connecticut_Warriors",
+            "http://dbpedia.org/resource/Southern_Maine_Huskies"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Connecticut_Colonials",
+            "http://dbpedia.org/resource/Keene_State_Owls"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Connecticut_Colonials",
+            "http://dbpedia.org/resource/Plymouth_State_Panthers"
+        ]
+    ]
+}

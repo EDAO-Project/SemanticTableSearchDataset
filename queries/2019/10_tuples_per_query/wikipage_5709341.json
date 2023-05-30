@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Virginia_Slims_of_Newport",
+            "http://dbpedia.org/resource/Barbara_Jordan"
+        ],
+        [
+            "http://dbpedia.org/resource/Toray_Pan_Pacific_Open_Tennis_Tournament",
+            "http://dbpedia.org/resource/Barbara_Jordan"
+        ],
+        [
+            "http://dbpedia.org/resource/Aegon_Classic",
+            "http://dbpedia.org/resource/Barbara_Jordan"
+        ],
+        [
+            "http://dbpedia.org/resource/Maybelline_Classic",
+            "http://dbpedia.org/resource/Martina_Navratilova"
+        ],
+        [
+            "http://dbpedia.org/resource/Toray_Pan_Pacific_Open_Tennis_Tournament",
+            "http://dbpedia.org/resource/Catherine_Tanvier"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Slims_of_Florida",
+            "http://dbpedia.org/resource/Kathy_Jordan"
+        ],
+        [
+            "http://dbpedia.org/resource/Avon_Cup",
+            "http://dbpedia.org/resource/Kathy_Jordan"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Indoor_Championships",
+            "http://dbpedia.org/resource/Marcella_Mesker"
+        ],
+        [
+            "http://dbpedia.org/resource/Toray_Pan_Pacific_Open_Tennis_Tournament",
+            "http://dbpedia.org/resource/Kathy_Jordan"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_International",
+            "http://dbpedia.org/resource/Pam_Shriver"
+        ]
+    ]
+}

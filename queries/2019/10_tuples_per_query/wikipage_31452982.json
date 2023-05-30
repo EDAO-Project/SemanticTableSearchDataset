@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nagai_Stadium",
+            "http://dbpedia.org/resource/Cerezo_Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Wing_Stadium",
+            "http://dbpedia.org/resource/Kyoto_Purple_Sanga"
+        ],
+        [
+            "http://dbpedia.org/resource/Ichihara_Seaside_Stadium",
+            "http://dbpedia.org/resource/JEF_United_Ichihara"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Wing_Stadium",
+            "http://dbpedia.org/resource/Vegalta_Sendai"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Wing_Stadium",
+            "http://dbpedia.org/resource/FC_Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Hitachi_Kashiwa_Soccer_Stadium",
+            "http://dbpedia.org/resource/Kashiwa_Reysol"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Wing_Stadium",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/Tokyo_Verdy_1969"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Wing_Stadium",
+            "http://dbpedia.org/resource/Gamba_Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Wing_Stadium",
+            "http://dbpedia.org/resource/Nagoya_Grampus_Eight"
+        ]
+    ]
+}

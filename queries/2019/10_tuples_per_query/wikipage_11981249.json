@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Hockeyettan"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Minnesota_North_Stars",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Springfield_Indians",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Minnesota_North_Stars",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Springfield_Indians",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Flyers",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Hershey_Bears",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/AIK_IF",
+            "http://dbpedia.org/resource/Hockeyettan"
+        ]
+    ]
+}

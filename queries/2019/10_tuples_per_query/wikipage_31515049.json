@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Laval,_Quebec"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Ithaca,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/London,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Hudson,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Grand_Ledge,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Jesenice,_Jesenice"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Salt_Lake_City"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Milford,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Belleville,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Melville,_Saskatchewan"
+        ]
+    ]
+}

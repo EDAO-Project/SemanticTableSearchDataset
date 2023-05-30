@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Harder_Stadium",
+            "http://dbpedia.org/resource/Santa_Barbara,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Patriots_Point_Athletics_Complex",
+            "http://dbpedia.org/resource/Charleston,_South_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Armstrong_Stadium",
+            "http://dbpedia.org/resource/Bloomington,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Sentara_Park",
+            "http://dbpedia.org/resource/Harrisonburg,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Loyola_Soccer_Park",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/Koskinen_Stadium",
+            "http://dbpedia.org/resource/Durham,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/Merlo_Field",
+            "http://dbpedia.org/resource/Portland,_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Jesse_Owens_Memorial_Stadium",
+            "http://dbpedia.org/resource/Columbus,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Hodges_Stadium",
+            "http://dbpedia.org/resource/Jacksonville,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Sports_Backers_Stadium",
+            "http://dbpedia.org/resource/Richmond,_Virginia"
+        ]
+    ]
+}

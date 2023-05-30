@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eastern_chipmunk",
+            "http://dbpedia.org/resource/Sciuridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Groundhog",
+            "http://dbpedia.org/resource/Sciuridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastern_gray_squirrel",
+            "http://dbpedia.org/resource/Sciuridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Fox_squirrel",
+            "http://dbpedia.org/resource/Sciuridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Southern_flying_squirrel",
+            "http://dbpedia.org/resource/Sciuridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Southeastern_pocket_gopher",
+            "http://dbpedia.org/resource/Geomyidae"
+        ],
+        [
+            "http://dbpedia.org/resource/North_American_beaver",
+            "http://dbpedia.org/resource/Castoridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Marsh_rice_rat",
+            "http://dbpedia.org/resource/Cricetidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastern_harvest_mouse",
+            "http://dbpedia.org/resource/Cricetidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Oldfield_mouse",
+            "http://dbpedia.org/resource/Cricetidae"
+        ]
+    ]
+}

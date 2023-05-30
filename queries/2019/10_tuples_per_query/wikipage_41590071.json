@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mickey_Blue_Eyes",
+            "http://dbpedia.org/resource/Hugh_Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/Love_Actually",
+            "http://dbpedia.org/resource/Hugh_Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Dreamz",
+            "http://dbpedia.org/resource/Hugh_Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeremy_Thorpe",
+            "http://dbpedia.org/resource/Hugh_Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/Roger_Sherman_Baldwin",
+            "http://dbpedia.org/resource/Matthew_McConaughey"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Newton_Boys",
+            "http://dbpedia.org/resource/Matthew_McConaughey"
+        ],
+        [
+            "http://dbpedia.org/resource/How_to_Lose_a_Guy_in_10_Days",
+            "http://dbpedia.org/resource/Matthew_McConaughey"
+        ],
+        [
+            "http://dbpedia.org/resource/Failure_to_Launch",
+            "http://dbpedia.org/resource/Matthew_McConaughey"
+        ],
+        [
+            "http://dbpedia.org/resource/Magic_in_the_Moonlight",
+            "http://dbpedia.org/resource/Colin_Firth"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingsman:_The_Secret_Service",
+            "http://dbpedia.org/resource/Colin_Firth"
+        ]
+    ]
+}

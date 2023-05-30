@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/SK_Sturm_Graz"
+        ],
+        [
+            "http://dbpedia.org/resource/Pappelstadion",
+            "http://dbpedia.org/resource/SV_Mattersburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Pappelstadion",
+            "http://dbpedia.org/resource/SV_Ried"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/LASK_Linz"
+        ],
+        [
+            "http://dbpedia.org/resource/Pappelstadion",
+            "http://dbpedia.org/resource/FK_Austria_Wien"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/FC_Red_Bull_Salzburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Pappelstadion",
+            "http://dbpedia.org/resource/Kapfenberger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Pappelstadion",
+            "http://dbpedia.org/resource/SK_Sturm_Graz"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/SV_Mattersburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/SV_Ried"
+        ]
+    ]
+}

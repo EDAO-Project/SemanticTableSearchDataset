@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lucien_Aimar",
+            "http://dbpedia.org/resource/Ford_France-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacques_Anquetil",
+            "http://dbpedia.org/resource/Ford_France-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Arie_den_Hartog",
+            "http://dbpedia.org/resource/Ford_France-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Vin_Denson",
+            "http://dbpedia.org/resource/Ford_France-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierre_Everaert",
+            "http://dbpedia.org/resource/Ford_France-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Michel_Grain",
+            "http://dbpedia.org/resource/Ford_France-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Jean_Milesi",
+            "http://dbpedia.org/resource/Ford_France-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Anatole_Novak",
+            "http://dbpedia.org/resource/Ford_France-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Jean_Stablinski",
+            "http://dbpedia.org/resource/Ford_France-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Maurice_Benet",
+            "http://dbpedia.org/resource/Kamome-Dilecta-Dunlop"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lionel_Messi",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Cristiano_Ronaldo",
+            "http://dbpedia.org/resource/Manchester_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronaldinho",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Steven_Gerrard",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Pirlo",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabio_Cannavaro",
+            "http://dbpedia.org/resource/Real_Madrid"
+        ],
+        [
+            "http://dbpedia.org/resource/Gianluigi_Buffon",
+            "http://dbpedia.org/resource/Juventus"
+        ],
+        [
+            "http://dbpedia.org/resource/Wayne_Rooney",
+            "http://dbpedia.org/resource/Manchester_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruud_van_Nistelrooy",
+            "http://dbpedia.org/resource/Real_Madrid"
+        ],
+        [
+            "http://dbpedia.org/resource/Deco",
+            "http://dbpedia.org/resource/Barcelona"
+        ]
+    ]
+}

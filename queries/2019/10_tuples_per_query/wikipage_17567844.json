@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anguilla",
+            "http://dbpedia.org/resource/Arawakan_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Maarten",
+            "http://dbpedia.org/resource/Arawakan_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Barths",
+            "http://dbpedia.org/resource/Arawakan_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/Saba",
+            "http://dbpedia.org/resource/Arawakan_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Eustatius",
+            "http://dbpedia.org/resource/Arawakan_languages"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Kitts",
+            "http://dbpedia.org/resource/Kalinago"
+        ],
+        [
+            "http://dbpedia.org/resource/Nevis",
+            "http://dbpedia.org/resource/Kalinago"
+        ],
+        [
+            "http://dbpedia.org/resource/Montserrat",
+            "http://dbpedia.org/resource/Kalinago"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbuda",
+            "http://dbpedia.org/resource/Kalinago"
+        ],
+        [
+            "http://dbpedia.org/resource/Antigua",
+            "http://dbpedia.org/resource/Kalinago"
+        ]
+    ]
+}

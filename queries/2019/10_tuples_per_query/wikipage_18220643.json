@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Moortown_Golf_Club",
+            "http://dbpedia.org/resource/Niall_Kearney"
+        ],
+        [
+            "http://dbpedia.org/resource/Ganton_Golf_Club",
+            "http://dbpedia.org/resource/Robert_Dinwiddie"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Oxfordshire_Golf_Club",
+            "http://dbpedia.org/resource/Lloyd_Saltman"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Cinque_Ports_Golf_Club",
+            "http://dbpedia.org/resource/Charl_Schwartzel"
+        ],
+        [
+            "http://dbpedia.org/resource/Formby_Golf_Club",
+            "http://dbpedia.org/resource/Peter_Hanson"
+        ],
+        [
+            "http://dbpedia.org/resource/Little_Aston_Golf_Club",
+            "http://dbpedia.org/resource/Gary_Harris"
+        ],
+        [
+            "http://dbpedia.org/resource/Ganton_Golf_Club",
+            "http://dbpedia.org/resource/Jeremy_Robinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunningdale_Golf_Club",
+            "http://dbpedia.org/resource/Richard_Kaplan"
+        ],
+        [
+            "http://dbpedia.org/resource/Hillside_Golf_Club",
+            "http://dbpedia.org/resource/Paul_Way"
+        ],
+        [
+            "http://dbpedia.org/resource/Woodhall_Spa_Golf_Club",
+            "http://dbpedia.org/resource/Gordon_Brand,_Jnr"
+        ]
+    ]
+}

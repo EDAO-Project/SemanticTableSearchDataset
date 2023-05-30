@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gavit_Manikrao_Hodlya",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Pratap_Narayanrao_Sonawane",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/A_T_Nana_Patil",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Haribhau_Madhav_Jawale",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Prataprao_Ganpatrao_Jadhav",
+            "http://dbpedia.org/resource/Shivsena"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanjay_Shamrao_Dhotre",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Anandrao_Vithoba_Adsul",
+            "http://dbpedia.org/resource/Shivsena"
+        ],
+        [
+            "http://dbpedia.org/resource/Meghe_Datta",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Mukul_Balkrishna_Wasnik",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ],
+        [
+            "http://dbpedia.org/resource/Vilasrao_Baburaoji_Muttemwar",
+            "http://dbpedia.org/resource/Indian_National_Congress"
+        ]
+    ]
+}

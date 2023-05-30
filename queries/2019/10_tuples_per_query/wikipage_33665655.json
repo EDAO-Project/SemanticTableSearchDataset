@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thomas_Magarey",
+            "http://dbpedia.org/resource/George_Morphett"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Magarey",
+            "http://dbpedia.org/resource/Randolph_Isham_Stow"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Strangways",
+            "http://dbpedia.org/resource/Randolph_Isham_Stow"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Strangways",
+            "http://dbpedia.org/resource/George_Thomas_Bean"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Strangways",
+            "http://dbpedia.org/resource/William_Henry_Bean"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Boucaut",
+            "http://dbpedia.org/resource/William_Henry_Bean"
+        ],
+        [
+            "http://dbpedia.org/resource/William_James_Magarey",
+            "http://dbpedia.org/resource/William_Henry_Bean"
+        ],
+        [
+            "http://dbpedia.org/resource/Frederick_Estcourt_Bucknall",
+            "http://dbpedia.org/resource/William_Henry_Bean"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Hourigan",
+            "http://dbpedia.org/resource/Thomas_Henry_Brooker"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Chesson",
+            "http://dbpedia.org/resource/Thompson_Green"
+        ]
+    ]
+}

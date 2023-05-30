@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Pallacanestro_Varese"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Pallacanestro_Olimpia_Milano"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Virtus_Pallacanestro_Bologna"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Pallacanestro_Virtus_Roma"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Pallacanestro_Treviso"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Fortitudo_Pallacanestro_Bologna"
+        ],
+        [
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/PBC_CSKA_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/Soviet_Union",
+            "http://dbpedia.org/resource/BC_Dinamo_Tbilisi"
+        ],
+        [
+            "http://dbpedia.org/resource/Russia",
+            "http://dbpedia.org/resource/PBC_CSKA_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Limoges_CSP"
+        ]
+    ]
+}

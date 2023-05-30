@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NYPD_Blue",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Lois_&_Clark:_The_New_Adventures_of_Superman",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Northern_Exposure",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Trek:_The_Next_Generation",
+            "http://dbpedia.org/resource/Broadcast_syndication"
+        ],
+        [
+            "http://dbpedia.org/resource/NYPD_Blue",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/The_X-Files",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/NYPD_Blue",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Babylon_5",
+            "http://dbpedia.org/resource/Prime_Time_Entertainment_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Hope",
+            "http://dbpedia.org/resource/CBS"
+        ],
+        [
+            "http://dbpedia.org/resource/The_X-Files",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ]
+    ]
+}

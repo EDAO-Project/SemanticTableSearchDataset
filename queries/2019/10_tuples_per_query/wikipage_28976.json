@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Willie_Gault",
+            "http://dbpedia.org/resource/Stanley_Morgan"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Covert",
+            "http://dbpedia.org/resource/Brian_Holloway"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Thayer",
+            "http://dbpedia.org/resource/Ron_Wooten"
+        ],
+        [
+            "http://dbpedia.org/resource/Emery_Moorehead",
+            "http://dbpedia.org/resource/Lin_Dawson"
+        ],
+        [
+            "http://dbpedia.org/resource/Dennis_McKinnon",
+            "http://dbpedia.org/resource/Stephen_Starring"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_McMahon",
+            "http://dbpedia.org/resource/Tony_Eason"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_McMichael",
+            "http://dbpedia.org/resource/Lester_Williams"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilber_Marshall",
+            "http://dbpedia.org/resource/Don_Blackmon"
+        ],
+        [
+            "http://dbpedia.org/resource/Leslie_Frazier",
+            "http://dbpedia.org/resource/Raymond_Clayborn"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Duerson",
+            "http://dbpedia.org/resource/Roland_James"
+        ]
+    ]
+}

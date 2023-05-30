@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2014_Eurocup_Formula_Renault_2.0",
+            "http://dbpedia.org/resource/R-ace_GP"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Formula_Renault_2.0_NEC_season",
+            "http://dbpedia.org/resource/R-ace_GP"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Eurocup_Formula_Renault_2.0",
+            "http://dbpedia.org/resource/Koiranen_GP"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Formula_Renault_2.0_Alps_season",
+            "http://dbpedia.org/resource/Koiranen_GP"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Eurocup_Formula_Renault_2.0",
+            "http://dbpedia.org/resource/Koiranen_GP"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Formula_Renault_2.0_Alps_season",
+            "http://dbpedia.org/resource/Koiranen_GP"
+        ],
+        [
+            "http://dbpedia.org/resource/2015_Formula_Renault_3.5_Series_season",
+            "http://dbpedia.org/resource/DAMS"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_GP3_Series",
+            "http://dbpedia.org/resource/ART_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_FIA_Formula_2_Championship",
+            "http://dbpedia.org/resource/Rapax_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/2019_FIA_Formula_2_Championship",
+            "http://dbpedia.org/resource/Racing_Engineering"
+        ]
+    ]
+}

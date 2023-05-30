@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brisbane_Broncos",
+            "http://dbpedia.org/resource/Wade_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_Knights",
+            "http://dbpedia.org/resource/Energy_Australia_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Penrith_Panthers",
+            "http://dbpedia.org/resource/CUA_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/St_George_Illawarra_Dragons",
+            "http://dbpedia.org/resource/Canberra_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Gold_Coast_Titans",
+            "http://dbpedia.org/resource/Skilled_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Wests_Tigers",
+            "http://dbpedia.org/resource/Canberra_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne_Storm",
+            "http://dbpedia.org/resource/Canberra_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Zealand_Warriors",
+            "http://dbpedia.org/resource/Mount_Smart_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Roosters",
+            "http://dbpedia.org/resource/Sydney_Football_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Sydney_Rabbitohs",
+            "http://dbpedia.org/resource/Canberra_Stadium"
+        ]
+    ]
+}

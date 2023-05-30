@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hertha_BSC",
+            "http://dbpedia.org/resource/Bayer_Leverkusen_II"
+        ],
+        [
+            "http://dbpedia.org/resource/VfB_Stuttgart",
+            "http://dbpedia.org/resource/FC_Rastatt_04"
+        ],
+        [
+            "http://dbpedia.org/resource/SV_1916_Sandhausen",
+            "http://dbpedia.org/resource/Arminia_Bielefeld"
+        ],
+        [
+            "http://dbpedia.org/resource/SpVgg_Landshut",
+            "http://dbpedia.org/resource/FV_Hassia_Bingen"
+        ],
+        [
+            "http://dbpedia.org/resource/SV_Werder_Bremen",
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern"
+        ],
+        [
+            "http://dbpedia.org/resource/Stuttgarter_Kickers",
+            "http://dbpedia.org/resource/Hamburger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Karlsruher_SC",
+            "http://dbpedia.org/resource/SG_Union_Solingen"
+        ],
+        [
+            "http://dbpedia.org/resource/VfL_Bochum",
+            "http://dbpedia.org/resource/1._FC_Paderborn"
+        ],
+        [
+            "http://dbpedia.org/resource/Wuppertaler_SV",
+            "http://dbpedia.org/resource/Eintracht_Braunschweig"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/Kickers_Offenbach"
+        ]
+    ]
+}

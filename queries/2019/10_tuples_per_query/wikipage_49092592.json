@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lagao",
+            "http://dbpedia.org/resource/Hum_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Mann_Mayal",
+            "http://dbpedia.org/resource/Hum_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Ab_Kar_Meri_Rafugari",
+            "http://dbpedia.org/resource/ARY_Digital"
+        ],
+        [
+            "http://dbpedia.org/resource/Kisay_Chahoon",
+            "http://dbpedia.org/resource/Hum_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Zindagi_Tujh_Ko_Jiya",
+            "http://dbpedia.org/resource/Hum_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Dil_Lagi",
+            "http://dbpedia.org/resource/ARY_Digital"
+        ],
+        [
+            "http://dbpedia.org/resource/Zara_Yaad_Kar",
+            "http://dbpedia.org/resource/Hum_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Haya_Ke_Daaman_Main",
+            "http://dbpedia.org/resource/Hum_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Dil-e-Beqarar",
+            "http://dbpedia.org/resource/Hum_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Udaari",
+            "http://dbpedia.org/resource/Hum_TV"
+        ]
+    ]
+}

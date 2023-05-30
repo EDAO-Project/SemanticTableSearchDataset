@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_Minnesota_Vikings_season",
+            "http://dbpedia.org/resource/1961_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Minnesota_Vikings_season",
+            "http://dbpedia.org/resource/1962_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Minnesota_Vikings_season",
+            "http://dbpedia.org/resource/1963_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Minnesota_Vikings_season",
+            "http://dbpedia.org/resource/1964_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Minnesota_Vikings_season",
+            "http://dbpedia.org/resource/1965_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Minnesota_Vikings_season",
+            "http://dbpedia.org/resource/1966_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Atlanta_Falcons_season",
+            "http://dbpedia.org/resource/1968_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Atlanta_Falcons_season",
+            "http://dbpedia.org/resource/1969_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Atlanta_Falcons_season",
+            "http://dbpedia.org/resource/1970_NFL_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Atlanta_Falcons_season",
+            "http://dbpedia.org/resource/1971_NFL_season"
+        ]
+    ]
+}

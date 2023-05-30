@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HC_Lada_Togliatti",
+            "http://dbpedia.org/resource/Soviet_Championship_League"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose_Sharks",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose_Sharks",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose_Sharks",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Jose_Sharks",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Panthers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Panthers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Panthers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Panthers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Panthers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

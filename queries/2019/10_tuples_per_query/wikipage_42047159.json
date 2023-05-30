@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barclays_Kenya_Open",
+            "http://dbpedia.org/resource/Kenya"
+        ],
+        [
+            "http://dbpedia.org/resource/NH_Collection_Open",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Challenge_de_Catalunya",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Madeira_Islands_Open_-_Portugal_-_BPI",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Turkish_Airlines_Challenge",
+            "http://dbpedia.org/resource/Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/D+D_Real_Czech_Challenge",
+            "http://dbpedia.org/resource/Czech_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Najeti_Hotels_et_Golfs_Open",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgian_Challenge_Open",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Scottish_Hydro_Challenge",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/Aegean_Airlines_Challenge_Tour",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

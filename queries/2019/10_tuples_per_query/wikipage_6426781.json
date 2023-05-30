@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/WTA_South_Carolina",
+            "http://dbpedia.org/resource/Elise_Burgin"
+        ],
+        [
+            "http://dbpedia.org/resource/Brighton_International",
+            "http://dbpedia.org/resource/Catherine_Suire"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._National_Indoor_Tennis_Championships",
+            "http://dbpedia.org/resource/Catherine_Suire"
+        ],
+        [
+            "http://dbpedia.org/resource/Zurich_Open",
+            "http://dbpedia.org/resource/Alycia_Moulton"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Slims_of_Indianapolis",
+            "http://dbpedia.org/resource/Zina_Garrison"
+        ],
+        [
+            "http://dbpedia.org/resource/WTA_Argentine_Open",
+            "http://dbpedia.org/resource/Mercedes_Paz"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Open",
+            "http://dbpedia.org/resource/Zina_Garrison"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Slims_of_Washington",
+            "http://dbpedia.org/resource/Zina_Garrison"
+        ],
+        [
+            "http://dbpedia.org/resource/Family_Circle_Cup",
+            "http://dbpedia.org/resource/Zina_Garrison"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Slims_of_Houston",
+            "http://dbpedia.org/resource/Zina_Garrison"
+        ]
+    ]
+}

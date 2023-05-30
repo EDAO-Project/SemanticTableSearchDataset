@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Luke_Dorn",
+            "http://dbpedia.org/resource/London_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/Joel_Monaghan",
+            "http://dbpedia.org/resource/Warrington_Wolves"
+        ],
+        [
+            "http://dbpedia.org/resource/Jake_Webster",
+            "http://dbpedia.org/resource/Hull_Kingston_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Denny_Solomona",
+            "http://dbpedia.org/resource/London_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/Luke_Gale",
+            "http://dbpedia.org/resource/Bradford_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Grant_Millington",
+            "http://dbpedia.org/resource/Canterbury_Bulldogs"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_McMeeken",
+            "http://dbpedia.org/resource/London_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Jewitt",
+            "http://dbpedia.org/resource/Limoux_Grizzlies"
+        ],
+        [
+            "http://dbpedia.org/resource/Junior_Moors",
+            "http://dbpedia.org/resource/Melbourne_Storm"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Crooks",
+            "http://dbpedia.org/resource/Parramatta_Eels"
+        ]
+    ]
+}

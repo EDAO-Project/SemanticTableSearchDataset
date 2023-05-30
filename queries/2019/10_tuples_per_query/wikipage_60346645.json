@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gideon_Baah",
+            "http://dbpedia.org/resource/FC_Gomel"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Ivanov",
+            "http://dbpedia.org/resource/FC_Viikingit"
+        ],
+        [
+            "http://dbpedia.org/resource/Henri_Aalto",
+            "http://dbpedia.org/resource/VfB_Oldenburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Konsta_Rasimus",
+            "http://dbpedia.org/resource/PK-35_Vantaa"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikko_Sumusalo",
+            "http://dbpedia.org/resource/Helsingin_Jalkapalloklubi"
+        ],
+        [
+            "http://dbpedia.org/resource/Nasiru_Banahene",
+            "http://dbpedia.org/resource/MTK_Budapest_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommi_Saarinen",
+            "http://dbpedia.org/resource/Pallohonka"
+        ],
+        [
+            "http://dbpedia.org/resource/Juha_Hakola",
+            "http://dbpedia.org/resource/Vaasan_Palloseura"
+        ],
+        [
+            "http://dbpedia.org/resource/Erik_Bakker",
+            "http://dbpedia.org/resource/De_Graafschap"
+        ],
+        [
+            "http://dbpedia.org/resource/Joel_Perovuo",
+            "http://dbpedia.org/resource/Helsingin_Jalkapalloklubi"
+        ]
+    ]
+}

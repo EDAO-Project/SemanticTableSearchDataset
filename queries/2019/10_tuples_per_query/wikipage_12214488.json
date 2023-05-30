@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aotea_College",
+            "http://dbpedia.org/resource/Porirua"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishop_Viard_College",
+            "http://dbpedia.org/resource/Porirua"
+        ],
+        [
+            "http://dbpedia.org/resource/Chanel_College,_Masterton",
+            "http://dbpedia.org/resource/Masterton"
+        ],
+        [
+            "http://dbpedia.org/resource/Heretaunga_College",
+            "http://dbpedia.org/resource/Upper_Hutt"
+        ],
+        [
+            "http://dbpedia.org/resource/Kapiti_College",
+            "http://dbpedia.org/resource/Raumati_Beach"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuranui_College",
+            "http://dbpedia.org/resource/Greytown,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Makoura_College",
+            "http://dbpedia.org/resource/Masterton"
+        ],
+        [
+            "http://dbpedia.org/resource/Mana_College",
+            "http://dbpedia.org/resource/Porirua"
+        ],
+        [
+            "http://dbpedia.org/resource/Naenae_College",
+            "http://dbpedia.org/resource/Avalon,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Newlands_College",
+            "http://dbpedia.org/resource/Newlands,_New_Zealand"
+        ]
+    ]
+}

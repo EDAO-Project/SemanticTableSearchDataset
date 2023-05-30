@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Errick_McCollum",
+            "http://dbpedia.org/resource/Zhejiang_Golden_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmer_Fredette",
+            "http://dbpedia.org/resource/Shanghai_Sharks"
+        ],
+        [
+            "http://dbpedia.org/resource/Quincy_Douby",
+            "http://dbpedia.org/resource/Zhejiang_Golden_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Jared_Cunningham",
+            "http://dbpedia.org/resource/Jiangsu_Monkey_King"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobby_Brown",
+            "http://dbpedia.org/resource/Shenzhen_Leopards"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmer_Fredette",
+            "http://dbpedia.org/resource/Shanghai_Sharks"
+        ],
+        [
+            "http://dbpedia.org/resource/Andre_Emmett",
+            "http://dbpedia.org/resource/Shandong_Golden_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhang_Yongjun",
+            "http://dbpedia.org/resource/Guangdong_Southern_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/Yao_Ming",
+            "http://dbpedia.org/resource/Shanghai_Sharks"
+        ],
+        [
+            "http://dbpedia.org/resource/Samad_Nikkhah_Bahrami",
+            "http://dbpedia.org/resource/Fujian_Sturgeons"
+        ]
+    ]
+}

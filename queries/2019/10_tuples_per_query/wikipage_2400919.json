@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Dinamo_Minsk",
+            "http://dbpedia.org/resource/FC_Dnepr_Mogilev"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Neman_Grodno",
+            "http://dbpedia.org/resource/FC_Rechitsa-2014"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dinamo_Minsk",
+            "http://dbpedia.org/resource/FC_Bobruisk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dinamo-93_Minsk",
+            "http://dbpedia.org/resource/FC_Torpedo_Mogilev"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Slavia_Mozyr",
+            "http://dbpedia.org/resource/FC_Dinamo_Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Belshina_Bobruisk",
+            "http://dbpedia.org/resource/FC_Dinamo-93_Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Vitebsk",
+            "http://dbpedia.org/resource/FC_Dinamo_Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Belshina_Bobruisk",
+            "http://dbpedia.org/resource/FC_Slavia_Mozyr"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Slavia_Mozyr",
+            "http://dbpedia.org/resource/FC_Torpedo_Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Belshina_Bobruisk",
+            "http://dbpedia.org/resource/FC_Slavia_Mozyr"
+        ]
+    ]
+}

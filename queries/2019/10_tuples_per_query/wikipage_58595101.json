@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Higgins",
+            "http://dbpedia.org/resource/Soheil_Vahedi"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhang_Jiankang",
+            "http://dbpedia.org/resource/Chris_Wakelin"
+        ],
+        [
+            "http://dbpedia.org/resource/Noppon_Saengkham",
+            "http://dbpedia.org/resource/Liam_Highfield"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuan_Sijun",
+            "http://dbpedia.org/resource/Ben_Mertens"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Lisowski",
+            "http://dbpedia.org/resource/Mark_Joyce"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Ursenbacher",
+            "http://dbpedia.org/resource/Duane_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhao_Xintong",
+            "http://dbpedia.org/resource/Sanderson_Lam"
+        ],
+        [
+            "http://dbpedia.org/resource/Xiao_Guodong",
+            "http://dbpedia.org/resource/Thor_Chuan_Leong"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunny_Akani",
+            "http://dbpedia.org/resource/Kishan_Hirani"
+        ],
+        [
+            "http://dbpedia.org/resource/Liang_Wenbo",
+            "http://dbpedia.org/resource/Thepchaiya_Un-Nooh"
+        ]
+    ]
+}

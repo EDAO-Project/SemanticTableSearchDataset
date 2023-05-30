@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_SKVICH_Minsk",
+            "http://dbpedia.org/resource/Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Belshina_Bobruisk",
+            "http://dbpedia.org/resource/Bobruisk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Granit_Mikashevichi",
+            "http://dbpedia.org/resource/Mikashevichi"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Rechitsa-2014",
+            "http://dbpedia.org/resource/Rechitsa"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Volna_Pinsk",
+            "http://dbpedia.org/resource/Pinsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Veras_Nesvizh",
+            "http://dbpedia.org/resource/Nesvizh"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Kommunalnik_Slonim",
+            "http://dbpedia.org/resource/Slonim"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Energetik-BGU_Minsk",
+            "http://dbpedia.org/resource/Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Belcard_Grodno",
+            "http://dbpedia.org/resource/Grodno"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Savit_Mogilev",
+            "http://dbpedia.org/resource/Mogilev"
+        ]
+    ]
+}

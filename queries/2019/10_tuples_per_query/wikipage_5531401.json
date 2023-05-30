@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1989_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Dallas_Cowboys_season",
+            "http://dbpedia.org/resource/2000_Dallas_Cowboys_season"
+        ]
+    ]
+}

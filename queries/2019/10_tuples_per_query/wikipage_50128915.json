@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vienna",
+            "http://dbpedia.org/resource/Gasometer,_Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Stuttgart",
+            "http://dbpedia.org/resource/Hanns-Martin-Schleyer-Halle"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Festhalle_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Esch-sur-Alzette",
+            "http://dbpedia.org/resource/Rockhal"
+        ],
+        [
+            "http://dbpedia.org/resource/Hanover",
+            "http://dbpedia.org/resource/AWD_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburg",
+            "http://dbpedia.org/resource/Hamburg_Stadtpark"
+        ],
+        [
+            "http://dbpedia.org/resource/Neu-Ulm",
+            "http://dbpedia.org/resource/Arena_Ulm/Neu-Ulm"
+        ],
+        [
+            "http://dbpedia.org/resource/Kiel",
+            "http://dbpedia.org/resource/Sparkassen-Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/London",
+            "http://dbpedia.org/resource/Finsbury_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Montego_Bay",
+            "http://dbpedia.org/resource/Montego_Bay_Sports_Complex"
+        ]
+    ]
+}

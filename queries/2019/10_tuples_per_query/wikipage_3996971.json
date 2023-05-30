@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arunachal_Pradesh",
+            "http://dbpedia.org/resource/Itanagar"
+        ],
+        [
+            "http://dbpedia.org/resource/Assam",
+            "http://dbpedia.org/resource/Dispur"
+        ],
+        [
+            "http://dbpedia.org/resource/Bihar",
+            "http://dbpedia.org/resource/Patna"
+        ],
+        [
+            "http://dbpedia.org/resource/Chhattisgarh",
+            "http://dbpedia.org/resource/Naya_Raipur"
+        ],
+        [
+            "http://dbpedia.org/resource/Goa",
+            "http://dbpedia.org/resource/Panaji"
+        ],
+        [
+            "http://dbpedia.org/resource/Gujarat",
+            "http://dbpedia.org/resource/Gandhinagar"
+        ],
+        [
+            "http://dbpedia.org/resource/Jharkhand",
+            "http://dbpedia.org/resource/Ranchi"
+        ],
+        [
+            "http://dbpedia.org/resource/Karnataka",
+            "http://dbpedia.org/resource/Bengaluru"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerala",
+            "http://dbpedia.org/resource/Thiruvananthapuram"
+        ],
+        [
+            "http://dbpedia.org/resource/Madhya_Pradesh",
+            "http://dbpedia.org/resource/Bhopal"
+        ]
+    ]
+}

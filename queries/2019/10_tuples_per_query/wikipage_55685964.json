@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Olivia_Breen",
+            "http://dbpedia.org/resource/Athletics_at_the_2018_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollie_Arnold",
+            "http://dbpedia.org/resource/Athletics_at_the_2018_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Alys_Thomas",
+            "http://dbpedia.org/resource/Swimming_at_the_2018_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Wixey",
+            "http://dbpedia.org/resource/Shooting_at_the_2018_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Lauren_Price",
+            "http://dbpedia.org/resource/Boxing_at_the_2018_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Laura_Thomas",
+            "http://dbpedia.org/resource/Lawn_bowls_at_the_2018_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Latalia_Bevan",
+            "http://dbpedia.org/resource/Gymnastics_at_the_2018_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Llewellin",
+            "http://dbpedia.org/resource/Shooting_at_the_2018_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Jervis",
+            "http://dbpedia.org/resource/Swimming_at_the_2018_Commonwealth_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Laura_Halford",
+            "http://dbpedia.org/resource/Gymnastics_at_the_2018_Commonwealth_Games"
+        ]
+    ]
+}

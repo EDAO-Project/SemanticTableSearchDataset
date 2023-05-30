@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/A.F.C._Bournemouth",
+            "http://dbpedia.org/resource/Roker_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Ipswich_Town",
+            "http://dbpedia.org/resource/Portman_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Bradford_City",
+            "http://dbpedia.org/resource/Roker_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Shrewsbury_Town",
+            "http://dbpedia.org/resource/Gay_Meadow"
+        ],
+        [
+            "http://dbpedia.org/resource/Oldham_Athletic",
+            "http://dbpedia.org/resource/Roker_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Leeds_United",
+            "http://dbpedia.org/resource/Roker_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Hull_City",
+            "http://dbpedia.org/resource/Boothferry_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Swindon_Town",
+            "http://dbpedia.org/resource/Roker_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackburn_Rovers",
+            "http://dbpedia.org/resource/Roker_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Manchester_City",
+            "http://dbpedia.org/resource/Maine_Road"
+        ]
+    ]
+}

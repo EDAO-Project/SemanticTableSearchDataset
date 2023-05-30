@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Xie_Siyi",
+            "http://dbpedia.org/resource/Diving_at_the_2015_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/He_Chao",
+            "http://dbpedia.org/resource/Diving_at_the_2015_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Shi_Tingmao",
+            "http://dbpedia.org/resource/Diving_at_the_2015_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Sun_Yang",
+            "http://dbpedia.org/resource/Swimming_at_the_2015_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Qiu_Bo",
+            "http://dbpedia.org/resource/Diving_at_the_2015_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Sun_Yang",
+            "http://dbpedia.org/resource/Swimming_at_the_2015_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Ning_Zetao",
+            "http://dbpedia.org/resource/Swimming_at_the_2015_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Fu_Yuanhui",
+            "http://dbpedia.org/resource/Swimming_at_the_2015_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Shi_Tingmao",
+            "http://dbpedia.org/resource/Diving_at_the_2015_World_Aquatics_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Huang_Xuechen",
+            "http://dbpedia.org/resource/Synchronized_swimming_at_the_2015_World_Aquatics_Championships"
+        ]
+    ]
+}

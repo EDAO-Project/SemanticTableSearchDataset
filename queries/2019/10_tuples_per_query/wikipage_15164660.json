@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sex_and_the_City",
+            "http://dbpedia.org/resource/Patricia_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Sex_and_the_City",
+            "http://dbpedia.org/resource/Patricia_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Sex_and_the_City",
+            "http://dbpedia.org/resource/Patricia_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Sex_and_the_City",
+            "http://dbpedia.org/resource/Patricia_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Sex_and_the_City",
+            "http://dbpedia.org/resource/Patricia_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Nip/Tuck",
+            "http://dbpedia.org/resource/Lou_Eyrich"
+        ],
+        [
+            "http://dbpedia.org/resource/Nip/Tuck",
+            "http://dbpedia.org/resource/Lou_Eyrich"
+        ],
+        [
+            "http://dbpedia.org/resource/30_Rock",
+            "http://dbpedia.org/resource/Tom_Broecker"
+        ],
+        [
+            "http://dbpedia.org/resource/Gossip_Girl",
+            "http://dbpedia.org/resource/Eric_Daman"
+        ],
+        [
+            "http://dbpedia.org/resource/Ugly_Betty",
+            "http://dbpedia.org/resource/Patricia_Field"
+        ]
+    ]
+}

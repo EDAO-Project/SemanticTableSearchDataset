@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alan_Tam",
+            "http://dbpedia.org/resource/Jenny_Tseng"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Tam",
+            "http://dbpedia.org/resource/Anita_Mui"
+        ],
+        [
+            "http://dbpedia.org/resource/Leslie_Cheung",
+            "http://dbpedia.org/resource/Anita_Mui"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Lau",
+            "http://dbpedia.org/resource/Sally_Yeh"
+        ],
+        [
+            "http://dbpedia.org/resource/Leon_Lai",
+            "http://dbpedia.org/resource/Sally_Yeh"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Lau",
+            "http://dbpedia.org/resource/Faye_Wong"
+        ],
+        [
+            "http://dbpedia.org/resource/Leon_Lai",
+            "http://dbpedia.org/resource/Cass_Phang"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacky_Cheung",
+            "http://dbpedia.org/resource/Sammi_Cheng"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaron_Kwok",
+            "http://dbpedia.org/resource/Sammi_Cheng"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaron_Kwok",
+            "http://dbpedia.org/resource/Faye_Wong"
+        ]
+    ]
+}

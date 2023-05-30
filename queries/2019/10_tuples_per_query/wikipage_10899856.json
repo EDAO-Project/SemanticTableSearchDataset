@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Windsor_Spitfires",
+            "http://dbpedia.org/resource/Taylor_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Casey_Cizikas",
+            "http://dbpedia.org/resource/Mississauga_IceDogs"
+        ],
+        [
+            "http://dbpedia.org/resource/Peterborough_Petes",
+            "http://dbpedia.org/resource/Zack_Kassian"
+        ],
+        [
+            "http://dbpedia.org/resource/Brampton_Battalion",
+            "http://dbpedia.org/resource/Matt_Duchene"
+        ],
+        [
+            "http://dbpedia.org/resource/Owen_Sound_Attack",
+            "http://dbpedia.org/resource/Joey_Hishon"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingston_Frontenacs",
+            "http://dbpedia.org/resource/Ethan_Werek"
+        ],
+        [
+            "http://dbpedia.org/resource/Oshawa_Generals",
+            "http://dbpedia.org/resource/Justin_Shugg"
+        ],
+        [
+            "http://dbpedia.org/resource/Guelph_Storm",
+            "http://dbpedia.org/resource/Brampton_Battalion"
+        ],
+        [
+            "http://dbpedia.org/resource/Belleville_Bulls",
+            "http://dbpedia.org/resource/Brampton_Battalion"
+        ],
+        [
+            "http://dbpedia.org/resource/Mississauga_IceDogs",
+            "http://dbpedia.org/resource/Andrew_Agozzino",
+            "http://dbpedia.org/resource/Mississauga_IceDogs"
+        ]
+    ]
+}

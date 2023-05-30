@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Country_dance",
+            "http://dbpedia.org/resource/Fiddle"
+        ],
+        [
+            "http://dbpedia.org/resource/Country_dance",
+            "http://dbpedia.org/resource/Fiddle"
+        ],
+        [
+            "http://dbpedia.org/resource/Waltz",
+            "http://dbpedia.org/resource/Fiddle"
+        ],
+        [
+            "http://dbpedia.org/resource/Hornpipe",
+            "http://dbpedia.org/resource/Fiddle"
+        ],
+        [
+            "http://dbpedia.org/resource/Country_dance",
+            "http://dbpedia.org/resource/Fiddle"
+        ],
+        [
+            "http://dbpedia.org/resource/Reel",
+            "http://dbpedia.org/resource/Piccolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Hornpipe",
+            "http://dbpedia.org/resource/Piccolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Polka",
+            "http://dbpedia.org/resource/Piccolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Waltz",
+            "http://dbpedia.org/resource/Piccolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Polka",
+            "http://dbpedia.org/resource/Diatonic_button_accordion"
+        ]
+    ]
+}

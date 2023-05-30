@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chinen_Kaori",
+            "http://dbpedia.org/resource/Kobayashi_Izumi"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobayashi_Izumi",
+            "http://dbpedia.org/resource/Chinen_Kaori"
+        ],
+        [
+            "http://dbpedia.org/resource/Chinen_Kaori",
+            "http://dbpedia.org/resource/Kobayashi_Izumi"
+        ],
+        [
+            "http://dbpedia.org/resource/Xie_Yimin",
+            "http://dbpedia.org/resource/Aoki_Kikuyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Xie_Yimin",
+            "http://dbpedia.org/resource/Mukai_Chiaki"
+        ],
+        [
+            "http://dbpedia.org/resource/Xie_Yimin",
+            "http://dbpedia.org/resource/Mukai_Chiaki"
+        ],
+        [
+            "http://dbpedia.org/resource/Mukai_Chiaki",
+            "http://dbpedia.org/resource/Xie_Yimin"
+        ],
+        [
+            "http://dbpedia.org/resource/Fujisawa_Rina",
+            "http://dbpedia.org/resource/Mukai_Chiaki"
+        ],
+        [
+            "http://dbpedia.org/resource/Xie_Yimin",
+            "http://dbpedia.org/resource/Fujisawa_Rina"
+        ],
+        [
+            "http://dbpedia.org/resource/Fujisawa_Rina",
+            "http://dbpedia.org/resource/Xie_Yimin"
+        ]
+    ]
+}

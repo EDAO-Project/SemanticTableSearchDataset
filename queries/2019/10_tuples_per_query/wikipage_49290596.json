@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Burundi",
+            "http://dbpedia.org/resource/Le_Messager_FC_de_Ngozi"
+        ],
+        [
+            "http://dbpedia.org/resource/Comoros",
+            "http://dbpedia.org/resource/Volcan_Club_de_Moroni"
+        ],
+        [
+            "http://dbpedia.org/resource/Gabon",
+            "http://dbpedia.org/resource/Akanda_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Guinea",
+            "http://dbpedia.org/resource/AS_Kaloum_Star"
+        ],
+        [
+            "http://dbpedia.org/resource/Liberia",
+            "http://dbpedia.org/resource/Monrovia_Club_Breweries"
+        ],
+        [
+            "http://dbpedia.org/resource/Madagascar",
+            "http://dbpedia.org/resource/ASSM_Elgeco_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Mauritius",
+            "http://dbpedia.org/resource/Pamplemousses_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Mozambique",
+            "http://dbpedia.org/resource/UD_Songo"
+        ],
+        [
+            "http://dbpedia.org/resource/Senegal",
+            "http://dbpedia.org/resource/ASC_Niarry_Tally"
+        ],
+        [
+            "http://dbpedia.org/resource/Seychelles",
+            "http://dbpedia.org/resource/St_Michel_United_FC"
+        ]
+    ]
+}

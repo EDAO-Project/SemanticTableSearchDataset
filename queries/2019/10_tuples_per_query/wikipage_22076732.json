@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Winning_percentage",
+            "http://dbpedia.org/resource/Games_behind"
+        ],
+        [
+            "http://dbpedia.org/resource/2004-05_PBA_season",
+            "http://dbpedia.org/resource/2009-10_PBA_Philippine_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/2004-05_PBA_season",
+            "http://dbpedia.org/resource/2010_PBA_Fiesta_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/2005-06_PBA_season",
+            "http://dbpedia.org/resource/2010_PBA_Fiesta_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/2005-06_PBA_season",
+            "http://dbpedia.org/resource/2009-10_PBA_Philippine_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/2006-07_PBA_season",
+            "http://dbpedia.org/resource/2009-10_PBA_Philippine_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/2006-07_PBA_season",
+            "http://dbpedia.org/resource/2010_PBA_Fiesta_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/2007-08_PBA_season",
+            "http://dbpedia.org/resource/2009-10_PBA_Philippine_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/2007-08_PBA_season",
+            "http://dbpedia.org/resource/2010_PBA_Fiesta_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/2008-09_PBA_season",
+            "http://dbpedia.org/resource/2009-10_PBA_Philippine_Cup"
+        ]
+    ]
+}

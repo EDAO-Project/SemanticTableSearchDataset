@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Helio_Castroneves",
+            "http://dbpedia.org/resource/Team_Penske"
+        ],
+        [
+            "http://dbpedia.org/resource/Greg_Ray",
+            "http://dbpedia.org/resource/Access_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Gil_de_Ferran",
+            "http://dbpedia.org/resource/Team_Penske"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Sharp",
+            "http://dbpedia.org/resource/Kelley_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Bryan_Herta",
+            "http://dbpedia.org/resource/Andretti_Autosport"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Kanaan",
+            "http://dbpedia.org/resource/Andretti_Autosport"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitor_Meira",
+            "http://dbpedia.org/resource/Team_Menard"
+        ],
+        [
+            "http://dbpedia.org/resource/Buddy_Rice",
+            "http://dbpedia.org/resource/Team_Cheever"
+        ],
+        [
+            "http://dbpedia.org/resource/Robbie_Buhl",
+            "http://dbpedia.org/resource/Dreyer_&_Reinbold_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarah_Fisher",
+            "http://dbpedia.org/resource/Dreyer_&_Reinbold_Racing"
+        ]
+    ]
+}

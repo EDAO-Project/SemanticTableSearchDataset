@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lille",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/Lille"
+        ],
+        [
+            "http://dbpedia.org/resource/A.C._Milan",
+            "http://dbpedia.org/resource/A.S._Livorno_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/A.S._Roma",
+            "http://dbpedia.org/resource/Spezia_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Sassuolo_Calcio",
+            "http://dbpedia.org/resource/ACF_Fiorentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Delfino_Pescara_1936",
+            "http://dbpedia.org/resource/Cosenza_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/S.S._Juve_Stabia",
+            "http://dbpedia.org/resource/Piacenza_Calcio_1919"
+        ],
+        [
+            "http://dbpedia.org/resource/Inter_Milan",
+            "http://dbpedia.org/resource/U.C._Sampdoria"
+        ],
+        [
+            "http://dbpedia.org/resource/U.C._Sampdoria",
+            "http://dbpedia.org/resource/Vis_Pesaro_dal_1898"
+        ],
+        [
+            "http://dbpedia.org/resource/Benevento_Calcio",
+            "http://dbpedia.org/resource/S.S._Arezzo"
+        ]
+    ]
+}

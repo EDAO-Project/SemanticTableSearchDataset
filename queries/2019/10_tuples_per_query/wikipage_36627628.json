@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/En_Avant_de_Guingamp",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/OGC_Nice",
+            "http://dbpedia.org/resource/Stade_de_la_Route_de_Lorient"
+        ],
+        [
+            "http://dbpedia.org/resource/Lille_OSC",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Girondins_de_Bordeaux",
+            "http://dbpedia.org/resource/Stade_de_la_Route_de_Lorient"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympique_de_Marseille",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/RC_Strasbourg",
+            "http://dbpedia.org/resource/Stade_de_la_Route_de_Lorient"
+        ],
+        [
+            "http://dbpedia.org/resource/SM_Caen",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/AS_Nancy",
+            "http://dbpedia.org/resource/Stade_de_la_Route_de_Lorient"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Nantes",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Montpellier_HSC",
+            "http://dbpedia.org/resource/Stade_de_la_Route_de_Lorient"
+        ]
+    ]
+}

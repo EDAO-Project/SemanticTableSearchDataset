@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Greg_Murphy",
+            "http://dbpedia.org/resource/HSV_Dealer_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Skaife",
+            "http://dbpedia.org/resource/Holden_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Bright",
+            "http://dbpedia.org/resource/Paul_Weel_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Todd_Kelly",
+            "http://dbpedia.org/resource/Holden_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Bargwanna",
+            "http://dbpedia.org/resource/Larkham_Motor_Sport"
+        ],
+        [
+            "http://dbpedia.org/resource/Steven_Richards",
+            "http://dbpedia.org/resource/Perkins_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Wills",
+            "http://dbpedia.org/resource/Team_Dynamik"
+        ],
+        [
+            "http://dbpedia.org/resource/Glenn_Seton",
+            "http://dbpedia.org/resource/Ford_Performance_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Lowndes",
+            "http://dbpedia.org/resource/Ford_Performance_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Kelly",
+            "http://dbpedia.org/resource/HSV_Dealer_Team"
+        ]
+    ]
+}

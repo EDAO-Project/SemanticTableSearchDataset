@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1936_Quebec_general_election",
+            "http://dbpedia.org/resource/Maurice_Duplessis"
+        ],
+        [
+            "http://dbpedia.org/resource/1939_Quebec_general_election",
+            "http://dbpedia.org/resource/Maurice_Duplessis"
+        ],
+        [
+            "http://dbpedia.org/resource/1944_Quebec_general_election",
+            "http://dbpedia.org/resource/Maurice_Duplessis"
+        ],
+        [
+            "http://dbpedia.org/resource/1948_Quebec_general_election",
+            "http://dbpedia.org/resource/Maurice_Duplessis"
+        ],
+        [
+            "http://dbpedia.org/resource/1952_Quebec_general_election",
+            "http://dbpedia.org/resource/Maurice_Duplessis"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_Quebec_general_election",
+            "http://dbpedia.org/resource/Maurice_Duplessis"
+        ],
+        [
+            "http://dbpedia.org/resource/1960_Quebec_general_election",
+            "http://dbpedia.org/resource/Antonio_Barrette"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Quebec_general_election",
+            "http://dbpedia.org/resource/Jean-Jacques_Bertrand"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Quebec_general_election",
+            "http://dbpedia.org/resource/Gabriel_Loubier"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Quebec_general_election",
+            "http://dbpedia.org/resource/Rodrigue_Biron"
+        ]
+    ]
+}

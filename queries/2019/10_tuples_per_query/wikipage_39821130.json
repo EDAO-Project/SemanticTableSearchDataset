@@ -1,0 +1,47 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cattaraugus_County,_New_York",
+            "http://dbpedia.org/resource/Cattaraugus_County,_New_York",
+            "http://dbpedia.org/resource/DeHart_H._Ames"
+        ],
+        [
+            "http://dbpedia.org/resource/Chenango_County,_New_York",
+            "http://dbpedia.org/resource/Chenango_County,_New_York",
+            "http://dbpedia.org/resource/Bert_Lord"
+        ],
+        [
+            "http://dbpedia.org/resource/Erie_County,_New_York",
+            "http://dbpedia.org/resource/Ross_Graves"
+        ],
+        [
+            "http://dbpedia.org/resource/Erie_County,_New_York",
+            "http://dbpedia.org/resource/Nicholas_J._Miller"
+        ],
+        [
+            "http://dbpedia.org/resource/Erie_County,_New_York",
+            "http://dbpedia.org/resource/James_M._Mead"
+        ],
+        [
+            "http://dbpedia.org/resource/Erie_County,_New_York",
+            "http://dbpedia.org/resource/Leonard_W._H._Gibbs"
+        ],
+        [
+            "http://dbpedia.org/resource/Jefferson_County,_New_York",
+            "http://dbpedia.org/resource/Willard_S._Augsbury"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn",
+            "http://dbpedia.org/resource/Frederick_A._Wells"
+        ],
+        [
+            "http://dbpedia.org/resource/Nassau_County,_New_York",
+            "http://dbpedia.org/resource/Nassau_County,_New_York",
+            "http://dbpedia.org/resource/Thomas_A._McWhinney"
+        ],
+        [
+            "http://dbpedia.org/resource/Manhattan",
+            "http://dbpedia.org/resource/Carmine_J._Marasco"
+        ]
+    ]
+}

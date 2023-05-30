@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lee_Beevers",
+            "http://dbpedia.org/resource/Carrow_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Magnus_Okuonghae",
+            "http://dbpedia.org/resource/Carrow_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashley_Vincent",
+            "http://dbpedia.org/resource/Carrow_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Lisbie",
+            "http://dbpedia.org/resource/Carrow_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Kayode_Odejayi",
+            "http://dbpedia.org/resource/Colchester_Community_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Batth",
+            "http://dbpedia.org/resource/Colchester_Community_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Payne",
+            "http://dbpedia.org/resource/Colchester_Community_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Kayode_Odejayi",
+            "http://dbpedia.org/resource/Deepdale"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Ribeiro",
+            "http://dbpedia.org/resource/Priestfield_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Prutton",
+            "http://dbpedia.org/resource/Colchester_Community_Stadium"
+        ]
+    ]
+}

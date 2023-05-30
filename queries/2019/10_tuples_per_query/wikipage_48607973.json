@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2016_EurAsia_Cup",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/SMBC_Singapore_Open",
+            "http://dbpedia.org/resource/Singapore"
+        ],
+        [
+            "http://dbpedia.org/resource/Leopalace21_Myanmar_Open",
+            "http://dbpedia.org/resource/Myanmar"
+        ],
+        [
+            "http://dbpedia.org/resource/Bashundhara_Bangladesh_Open",
+            "http://dbpedia.org/resource/Bangladesh"
+        ],
+        [
+            "http://dbpedia.org/resource/Maybank_Championship_Malaysia",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/ISPS_Handa_Perth_International",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/True_Thailand_Classic",
+            "http://dbpedia.org/resource/Thailand"
+        ],
+        [
+            "http://dbpedia.org/resource/Hero_Indian_Open",
+            "http://dbpedia.org/resource/India"
+        ],
+        [
+            "http://dbpedia.org/resource/AfrAsia_Bank_Mauritius_Open",
+            "http://dbpedia.org/resource/Mauritius"
+        ],
+        [
+            "http://dbpedia.org/resource/Yeangder_Tournament_Players_Championship",
+            "http://dbpedia.org/resource/Taiwan"
+        ]
+    ]
+}

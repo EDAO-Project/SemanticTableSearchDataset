@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oveis_Mallah",
+            "http://dbpedia.org/resource/Wrestling_at_the_1990_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Reza_Soukhteh_Saraei",
+            "http://dbpedia.org/resource/Wrestling_at_the_1990_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Rasoul_Khadem",
+            "http://dbpedia.org/resource/Wrestling_at_the_1990_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Ayat_Vagozari",
+            "http://dbpedia.org/resource/Wrestling_at_the_1990_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Hassan_Yousefi_Afshar",
+            "http://dbpedia.org/resource/Wrestling_at_the_1990_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Siamak_Varzideh",
+            "http://dbpedia.org/resource/Boxing_at_the_1990_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Iraj_Kiarostami",
+            "http://dbpedia.org/resource/Boxing_at_the_1990_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Reza_Simkhah",
+            "http://dbpedia.org/resource/Wrestling_at_the_1990_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Ahad_Pazaj",
+            "http://dbpedia.org/resource/Wrestling_at_the_1990_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Masoud_Ghadimi",
+            "http://dbpedia.org/resource/Wrestling_at_the_1990_Asian_Games"
+        ]
+    ]
+}

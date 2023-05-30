@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kashiwa_Reysol",
+            "http://dbpedia.org/resource/2003_J._League_Division_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashiwa_Reysol",
+            "http://dbpedia.org/resource/2004_J._League_Division_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashiwa_Reysol",
+            "http://dbpedia.org/resource/2005_J._League_Division_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Albirex_Niigata",
+            "http://dbpedia.org/resource/2006_J._League_Division_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Albirex_Niigata",
+            "http://dbpedia.org/resource/2007_J._League_Division_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Albirex_Niigata",
+            "http://dbpedia.org/resource/2008_J._League_Division_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Albirex_Niigata",
+            "http://dbpedia.org/resource/2009_J._League_Division_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Albirex_Niigata",
+            "http://dbpedia.org/resource/2010_J._League_Division_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Albirex_Niigata",
+            "http://dbpedia.org/resource/2012_J._League_Division_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagoya_Grampus",
+            "http://dbpedia.org/resource/2013_J._League_Division_1"
+        ]
+    ]
+}

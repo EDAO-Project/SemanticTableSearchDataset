@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/You_Want_It_Darker",
+            "http://dbpedia.org/resource/Leonard_Cohen"
+        ],
+        [
+            "http://dbpedia.org/resource/You_Want_It_Darker",
+            "http://dbpedia.org/resource/Leonard_Cohen"
+        ],
+        [
+            "http://dbpedia.org/resource/From_Deewee",
+            "http://dbpedia.org/resource/Soulwax"
+        ],
+        [
+            "http://dbpedia.org/resource/Humanz",
+            "http://dbpedia.org/resource/Gorillaz"
+        ],
+        [
+            "http://dbpedia.org/resource/Humanz",
+            "http://dbpedia.org/resource/Gorillaz"
+        ],
+        [
+            "http://dbpedia.org/resource/One_More_Light",
+            "http://dbpedia.org/resource/Linkin_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Everything_Now",
+            "http://dbpedia.org/resource/Arcade_Fire"
+        ],
+        [
+            "http://dbpedia.org/resource/Everything_Now",
+            "http://dbpedia.org/resource/Arcade_Fire"
+        ],
+        [
+            "http://dbpedia.org/resource/Everything_Now",
+            "http://dbpedia.org/resource/Arcade_Fire"
+        ],
+        [
+            "http://dbpedia.org/resource/Concrete_and_Gold",
+            "http://dbpedia.org/resource/Foo_Fighters"
+        ]
+    ]
+}

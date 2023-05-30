@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bawdsey_Manor",
+            "http://dbpedia.org/resource/Bawdsey"
+        ],
+        [
+            "http://dbpedia.org/resource/Burgh_Windmill",
+            "http://dbpedia.org/resource/Burgh,_Suffolk"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Green_Mill,_Aldeburgh",
+            "http://dbpedia.org/resource/Aldeburgh"
+        ],
+        [
+            "http://dbpedia.org/resource/Framlingham_Castle",
+            "http://dbpedia.org/resource/Framlingham"
+        ],
+        [
+            "http://dbpedia.org/resource/Friston_Windmill",
+            "http://dbpedia.org/resource/Friston"
+        ],
+        [
+            "http://dbpedia.org/resource/Greyfriars,_Dunwich",
+            "http://dbpedia.org/resource/Dunwich"
+        ],
+        [
+            "http://dbpedia.org/resource/Havergate_Island",
+            "http://dbpedia.org/resource/Orford,_Suffolk"
+        ],
+        [
+            "http://dbpedia.org/resource/House_in_the_Clouds",
+            "http://dbpedia.org/resource/Thorpeness"
+        ],
+        [
+            "http://dbpedia.org/resource/Landguard_Fort",
+            "http://dbpedia.org/resource/Felixstowe"
+        ],
+        [
+            "http://dbpedia.org/resource/Leiston_Abbey",
+            "http://dbpedia.org/resource/Theberton"
+        ]
+    ]
+}

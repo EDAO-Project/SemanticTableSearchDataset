@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Vijaypal_Singh_Tomar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Sakal_Deep_Rajbhar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Harnath_Singh_Yadav",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Kanta_Kardam",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/G._V._L._Narasimha_Rao",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Shiv_Pratap_Shukla",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Hardeep_Singh_Puri",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Neeraj_Shekhar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Ram_Gopal_Yadav",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Jaya_Bachchan",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ]
+    ]
+}

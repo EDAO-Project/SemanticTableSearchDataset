@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Cejhae_Greene"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Alonso_Edward"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Alberto_Juantorena"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/Alberto_Juantorena"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Eduardo_Castro"
+        ],
+        [
+            "http://dbpedia.org/resource/5000_metres",
+            "http://dbpedia.org/resource/Juan_Luis_Barrios"
+        ],
+        [
+            "http://dbpedia.org/resource/10,000_metres",
+            "http://dbpedia.org/resource/Pablo_Olmedo"
+        ],
+        [
+            "http://dbpedia.org/resource/110_metres_hurdles",
+            "http://dbpedia.org/resource/Dayron_Robles"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres_hurdles",
+            "http://dbpedia.org/resource/Kyron_McMaster"
+        ],
+        [
+            "http://dbpedia.org/resource/High_jump",
+            "http://dbpedia.org/resource/Javier_Sotomayor"
+        ]
+    ]
+}

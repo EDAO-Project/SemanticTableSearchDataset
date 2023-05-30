@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bahama_woodstar",
+            "http://dbpedia.org/resource/Trochilidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Inagua_woodstar",
+            "http://dbpedia.org/resource/Trochilidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahama_swallow",
+            "http://dbpedia.org/resource/Hirundinidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahama_nuthatch",
+            "http://dbpedia.org/resource/Sittidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahama_oriole",
+            "http://dbpedia.org/resource/Icteridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahama_yellowthroat",
+            "http://dbpedia.org/resource/Parulidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahama_warbler",
+            "http://dbpedia.org/resource/Parulidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Grenada_dove",
+            "http://dbpedia.org/resource/Columbidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Imperial_parrot",
+            "http://dbpedia.org/resource/Psittacidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Red-necked_amazon",
+            "http://dbpedia.org/resource/Psittacidae"
+        ]
+    ]
+}

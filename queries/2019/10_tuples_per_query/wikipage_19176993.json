@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SG_Wattenscheid_09",
+            "http://dbpedia.org/resource/Eintracht_Braunschweig"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96_II",
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen"
+        ],
+        [
+            "http://dbpedia.org/resource/VfL_Bochum",
+            "http://dbpedia.org/resource/Karlsruher_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/FSV_Frankfurt",
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern"
+        ],
+        [
+            "http://dbpedia.org/resource/SV_Waldhof_Mannheim",
+            "http://dbpedia.org/resource/Eintracht_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Schalke_04",
+            "http://dbpedia.org/resource/KSV_Hessen_Kassel"
+        ],
+        [
+            "http://dbpedia.org/resource/Hertha_Zehlendorf",
+            "http://dbpedia.org/resource/Hertha_BSC"
+        ],
+        [
+            "http://dbpedia.org/resource/FV_Offenburg",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/ASV_Bergedorf_1885",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bayern_Hof",
+            "http://dbpedia.org/resource/Arminia_Bielefeld"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Franklin_D._Roosevelt",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_Franklin_D._Roosevelt"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_S._Truman",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_Harry_S._Truman"
+        ],
+        [
+            "http://dbpedia.org/resource/Dwight_D._Eisenhower",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_Dwight_D._Eisenhower"
+        ],
+        [
+            "http://dbpedia.org/resource/John_F._Kennedy",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_John_F._Kennedy"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyndon_B._Johnson",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_Lyndon_B._Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Nixon",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_Richard_Nixon"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerald_Ford",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_Gerald_Ford"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Carter",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_Jimmy_Carter"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronald_Reagan",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_Ronald_Reagan"
+        ],
+        [
+            "http://dbpedia.org/resource/George_H._W._Bush",
+            "http://dbpedia.org/resource/List_of_executive_actions_by_George_H._W._Bush"
+        ]
+    ]
+}

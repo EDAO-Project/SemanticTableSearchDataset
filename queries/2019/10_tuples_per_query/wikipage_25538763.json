@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_Formula_BMW_Europe_season",
+            "http://dbpedia.org/resource/EuroInternational"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Formula_BMW_Americas_season",
+            "http://dbpedia.org/resource/EuroInternational"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_Formula_BMW_Europe_season",
+            "http://dbpedia.org/resource/EuroInternational"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Formula_3_Euro_Series",
+            "http://dbpedia.org/resource/Prema_Powerteam"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_GP3_Series",
+            "http://dbpedia.org/resource/Tech_1_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_British_Formula_Three_Championship",
+            "http://dbpedia.org/resource/Prema_Powerteam"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Masters_of_Formula_3",
+            "http://dbpedia.org/resource/Prema_Powerteam"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_Macau_Grand_Prix",
+            "http://dbpedia.org/resource/Prema_Powerteam"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Formula_3_Euro_Series",
+            "http://dbpedia.org/resource/Prema_Powerteam"
+        ],
+        [
+            "http://dbpedia.org/resource/FIA_Formula_3_International_Trophy",
+            "http://dbpedia.org/resource/Prema_Powerteam"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Madison_Capitols",
+            "http://dbpedia.org/resource/United_States_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Jersey_Devils",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Jersey_Devils",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Jersey_Devils",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Jersey_Devils",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Jersey_Devils",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Jersey_Devils",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Jersey_Devils",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_Red_Wings",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

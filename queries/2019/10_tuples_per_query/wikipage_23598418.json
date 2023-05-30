@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Claudia_Testoni",
+            "http://dbpedia.org/resource/80_m_hurdles"
+        ],
+        [
+            "http://dbpedia.org/resource/Vladimir_Kuts",
+            "http://dbpedia.org/resource/5000_metres"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikhail_Krivonosov",
+            "http://dbpedia.org/resource/Hammer_throw"
+        ],
+        [
+            "http://dbpedia.org/resource/Salvatore_Morale",
+            "http://dbpedia.org/resource/400_m_hurdles"
+        ],
+        [
+            "http://dbpedia.org/resource/Maria_Itkina",
+            "http://dbpedia.org/resource/400_metres"
+        ],
+        [
+            "http://dbpedia.org/resource/Tamara_Press",
+            "http://dbpedia.org/resource/Shot_put"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicole_Duclos",
+            "http://dbpedia.org/resource/400_metres"
+        ],
+        [
+            "http://dbpedia.org/resource/Colette_Besson",
+            "http://dbpedia.org/resource/400_metres"
+        ],
+        [
+            "http://dbpedia.org/resource/Nadezhda_Chizhova",
+            "http://dbpedia.org/resource/Shot_put"
+        ],
+        [
+            "http://dbpedia.org/resource/Nadezhda_Chizhova",
+            "http://dbpedia.org/resource/Shot_put"
+        ]
+    ]
+}

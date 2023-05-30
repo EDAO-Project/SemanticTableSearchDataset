@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Space_Hunter",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Desert_Commander",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanada_Ten_Braves",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghost_Lion",
+            "http://dbpedia.org/resource/Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Sword_of_Hope",
+            "http://dbpedia.org/resource/Game_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Sword_of_Hope_II",
+            "http://dbpedia.org/resource/Game_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/X-Zone",
+            "http://dbpedia.org/resource/Super_Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Franken",
+            "http://dbpedia.org/resource/Game_Boy"
+        ],
+        [
+            "http://dbpedia.org/resource/Top_Gear_2",
+            "http://dbpedia.org/resource/Super_Nintendo_Entertainment_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Kid_Klown_in_Crazy_Chase",
+            "http://dbpedia.org/resource/Super_Nintendo_Entertainment_System"
+        ]
+    ]
+}

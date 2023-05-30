@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ashleigh_Coyle",
+            "http://dbpedia.org/resource/Derry"
+        ],
+        [
+            "http://dbpedia.org/resource/Ash_Harrison",
+            "http://dbpedia.org/resource/Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/Pav_Paul",
+            "http://dbpedia.org/resource/Ilford"
+        ],
+        [
+            "http://dbpedia.org/resource/Winston_Showan",
+            "http://dbpedia.org/resource/Brentwood,_Essex"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Byron",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Zoe_Birkett",
+            "http://dbpedia.org/resource/Durham,_England"
+        ],
+        [
+            "http://dbpedia.org/resource/Danielle_McMahon",
+            "http://dbpedia.org/resource/Glasgow"
+        ],
+        [
+            "http://dbpedia.org/resource/Biannca_Lake",
+            "http://dbpedia.org/resource/Chigwell"
+        ],
+        [
+            "http://dbpedia.org/resource/Marlon_Wallen",
+            "http://dbpedia.org/resource/Croydon"
+        ],
+        [
+            "http://dbpedia.org/resource/Jale_Karaturp",
+            "http://dbpedia.org/resource/Surrey"
+        ]
+    ]
+}

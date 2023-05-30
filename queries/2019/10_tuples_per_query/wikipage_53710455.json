@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carson-Newman_Eagles",
+            "http://dbpedia.org/resource/Lenoir-Rhyne_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Catawba_College_Indians",
+            "http://dbpedia.org/resource/Wingate_Bulldogs"
+        ],
+        [
+            "http://dbpedia.org/resource/Catawba_College_Indians",
+            "http://dbpedia.org/resource/Carson-Newman_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/Carson-Newman_Eagles",
+            "http://dbpedia.org/resource/Wingate_Bulldogs"
+        ],
+        [
+            "http://dbpedia.org/resource/Catawba_College_Indians",
+            "http://dbpedia.org/resource/Newberry_Wolves"
+        ],
+        [
+            "http://dbpedia.org/resource/Tusculum_Pioneers",
+            "http://dbpedia.org/resource/Lenoir-Rhyne_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Wingate_Bulldogs",
+            "http://dbpedia.org/resource/Catawba_College_Indians"
+        ],
+        [
+            "http://dbpedia.org/resource/Catawba_College_Indians",
+            "http://dbpedia.org/resource/Mars_Hill_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Catawba_College_Indians",
+            "http://dbpedia.org/resource/Tusculum_Pioneers"
+        ],
+        [
+            "http://dbpedia.org/resource/Brevard_Tornadoes",
+            "http://dbpedia.org/resource/Catawba_College_Indians"
+        ]
+    ]
+}

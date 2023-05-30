@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CD_Ferriolense",
+            "http://dbpedia.org/resource/CD_Mairena"
+        ],
+        [
+            "http://dbpedia.org/resource/CD_Elgoibar",
+            "http://dbpedia.org/resource/Marino_de_Luanco"
+        ],
+        [
+            "http://dbpedia.org/resource/CD_Azuqueca",
+            "http://dbpedia.org/resource/AD_Universidad_de_Oviedo"
+        ],
+        [
+            "http://dbpedia.org/resource/SD_Ejea",
+            "http://dbpedia.org/resource/UD_Alzira"
+        ],
+        [
+            "http://dbpedia.org/resource/Ayamonte_CF",
+            "http://dbpedia.org/resource/CA_Cirbonero"
+        ],
+        [
+            "http://dbpedia.org/resource/Getafe_CF_B",
+            "http://dbpedia.org/resource/Real_Zaragoza_B"
+        ],
+        [
+            "http://dbpedia.org/resource/CF_Trival_Valderas",
+            "http://dbpedia.org/resource/Yeclano_Deportivo"
+        ],
+        [
+            "http://dbpedia.org/resource/CD_Llanes",
+            "http://dbpedia.org/resource/Real_Valladolid_B"
+        ],
+        [
+            "http://dbpedia.org/resource/Talavera_CF",
+            "http://dbpedia.org/resource/CF_Reus_Deportiu"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorca_Deportiva_CF",
+            "http://dbpedia.org/resource/Haro_Deportivo"
+        ]
+    ]
+}

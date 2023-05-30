@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_New_Mexico_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Las_Vegas_Bowl",
+            "http://dbpedia.org/resource/ESPN_on_ABC"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Famous_Idaho_Potato_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_New_Orleans_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Hawaii_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Little_Caesars_Pizza_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Poinsettia_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Military_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Texas_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Fight_Hunger_Bowl",
+            "http://dbpedia.org/resource/ESPN"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/IF_Troja/Ljungby",
+            "http://dbpedia.org/resource/Hockeyettan"
+        ],
+        [
+            "http://dbpedia.org/resource/IF_Troja/Ljungby",
+            "http://dbpedia.org/resource/Hockeyettan"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_Hockey",
+            "http://dbpedia.org/resource/J20_SuperElit"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_Hockey",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_Hockey",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_Hockey",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgeport_Sound_Tigers",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Islanders",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgeport_Sound_Tigers",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Islanders",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

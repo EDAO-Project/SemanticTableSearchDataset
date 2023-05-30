@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fairfield_College_Preparatory_School",
+            "http://dbpedia.org/resource/Connecticut_Association_of_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_College_Preparatory_School",
+            "http://dbpedia.org/resource/Connecticut_Association_of_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairfield_College_Preparatory_School",
+            "http://dbpedia.org/resource/Connecticut_Association_of_Schools"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Calgary_Flames",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

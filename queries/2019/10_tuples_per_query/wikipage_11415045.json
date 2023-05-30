@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Calgary_Hitmen",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Calgary_Hitmen",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Wolves",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Donbass",
+            "http://dbpedia.org/resource/Kontinental_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Donbass",
+            "http://dbpedia.org/resource/Kontinental_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Lugano",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Lugano",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Lugano",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Torpedo_Nizhny_Novgorod",
+            "http://dbpedia.org/resource/Kontinental_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Dinamo_Minsk",
+            "http://dbpedia.org/resource/Kontinental_Hockey_League"
+        ]
+    ]
+}

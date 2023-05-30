@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hungarian_Democratic_Forum",
+            "http://dbpedia.org/resource/1990_Hungarian_parliamentary_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungarian_Democratic_Forum",
+            "http://dbpedia.org/resource/1990_Hungarian_parliamentary_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungarian_Socialist_Party",
+            "http://dbpedia.org/resource/1994_Hungarian_parliamentary_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Independent_Smallholders,_Agrarian_Workers_and_Civic_Party",
+            "http://dbpedia.org/resource/1998_Hungarian_parliamentary_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungarian_Socialist_Party",
+            "http://dbpedia.org/resource/2002_Hungarian_parliamentary_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungarian_Socialist_Party",
+            "http://dbpedia.org/resource/2002_Hungarian_parliamentary_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungarian_Socialist_Party",
+            "http://dbpedia.org/resource/2006_Hungarian_parliamentary_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungarian_Socialist_Party",
+            "http://dbpedia.org/resource/2006_Hungarian_parliamentary_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Fidesz",
+            "http://dbpedia.org/resource/2010_Hungarian_parliamentary_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Fidesz",
+            "http://dbpedia.org/resource/2014_Hungarian_parliamentary_election"
+        ]
+    ]
+}

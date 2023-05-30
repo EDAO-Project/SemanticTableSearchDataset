@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Melbourne_Track_Classic",
+            "http://dbpedia.org/resource/Melbourne"
+        ],
+        [
+            "http://dbpedia.org/resource/Golden_Grand_Prix_Osaka",
+            "http://dbpedia.org/resource/Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Prix_Brasil_de_Atletismo",
+            "http://dbpedia.org/resource/Rio_de_Janeiro"
+        ],
+        [
+            "http://dbpedia.org/resource/Adriaan_Paulen_Memorial",
+            "http://dbpedia.org/resource/Hengelo"
+        ],
+        [
+            "http://dbpedia.org/resource/Ericsson_GP",
+            "http://dbpedia.org/resource/Helsinki"
+        ],
+        [
+            "http://dbpedia.org/resource/Prefontaine_Classic",
+            "http://dbpedia.org/resource/Eugene,_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Tsiklitiria",
+            "http://dbpedia.org/resource/Athens"
+        ],
+        [
+            "http://dbpedia.org/resource/IAAF_Meeting_Zagreb",
+            "http://dbpedia.org/resource/Zagreb"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletissima",
+            "http://dbpedia.org/resource/Lausanne"
+        ],
+        [
+            "http://dbpedia.org/resource/DN_Galan",
+            "http://dbpedia.org/resource/Stockholm"
+        ]
+    ]
+}

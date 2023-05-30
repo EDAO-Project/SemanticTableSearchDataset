@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Narciso_Horacio_Doval",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Paolo_Guerrero",
+            "http://dbpedia.org/resource/Peru"
+        ],
+        [
+            "http://dbpedia.org/resource/Gonzalo_Fierro",
+            "http://dbpedia.org/resource/Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Emerson_Sheik",
+            "http://dbpedia.org/resource/Qatar"
+        ],
+        [
+            "http://dbpedia.org/resource/Maxi_Biancucchi",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcos_Gonzalez",
+            "http://dbpedia.org/resource/Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Claudio_Maldonado",
+            "http://dbpedia.org/resource/Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Roger_Guerreiro",
+            "http://dbpedia.org/resource/Poland"
+        ],
+        [
+            "http://dbpedia.org/resource/Ubaldo_Fillol",
+            "http://dbpedia.org/resource/Argentina"
+        ],
+        [
+            "http://dbpedia.org/resource/Miguel_Trauco",
+            "http://dbpedia.org/resource/Peru"
+        ]
+    ]
+}

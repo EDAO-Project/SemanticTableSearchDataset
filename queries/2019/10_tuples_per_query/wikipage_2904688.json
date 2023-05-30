@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Salahuddin_Rabbani",
+            "http://dbpedia.org/resource/Jamiat-e_Islami"
+        ],
+        [
+            "http://dbpedia.org/resource/Maria_Ubach_i_Font",
+            "http://dbpedia.org/resource/Democrats_for_Andorra"
+        ],
+        [
+            "http://dbpedia.org/resource/Manuel_Domingos_Augusto",
+            "http://dbpedia.org/resource/MPLA"
+        ],
+        [
+            "http://dbpedia.org/resource/Zohrab_Mnatsakanyan",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Marise_Payne",
+            "http://dbpedia.org/resource/Liberal_Party_of_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Schallenberg",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Elmar_Mammadyarov",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Abulkalam_Abdul_Momen",
+            "http://dbpedia.org/resource/Bangladesh_Awami_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Jerome_Walcott",
+            "http://dbpedia.org/resource/Barbados_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Tandi_Dorji",
+            "http://dbpedia.org/resource/Druk_Nyamrup_Tshogpa"
+        ]
+    ]
+}

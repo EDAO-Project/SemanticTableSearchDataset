@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paul_Tracy",
+            "http://dbpedia.org/resource/Andretti_Green_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Felipe_Giaffone",
+            "http://dbpedia.org/resource/Mo_Nunn_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Richie_Hearn",
+            "http://dbpedia.org/resource/Sam_Schmidt_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Andretti",
+            "http://dbpedia.org/resource/Andretti_Green_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Robby_Gordon",
+            "http://dbpedia.org/resource/Team_Menard"
+        ],
+        [
+            "http://dbpedia.org/resource/Gil_de_Ferran",
+            "http://dbpedia.org/resource/Team_Penske"
+        ],
+        [
+            "http://dbpedia.org/resource/Robbie_Buhl",
+            "http://dbpedia.org/resource/Dreyer_&_Reinbold_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Boat",
+            "http://dbpedia.org/resource/CURB/Agajanian/Beck_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Raul_Boesel",
+            "http://dbpedia.org/resource/Team_Menard"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarah_Fisher",
+            "http://dbpedia.org/resource/Dreyer_&_Reinbold_Racing"
+        ]
+    ]
+}

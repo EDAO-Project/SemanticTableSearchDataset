@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Treviso_Calcio",
+            "http://dbpedia.org/resource/Marzotto_Valdagno"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Fiumana",
+            "http://dbpedia.org/resource/A.S.D._Ponziana"
+        ],
+        [
+            "http://dbpedia.org/resource/Parma_Calcio_1913",
+            "http://dbpedia.org/resource/U.S._Cremonese"
+        ],
+        [
+            "http://dbpedia.org/resource/S.S._Monza_1912",
+            "http://dbpedia.org/resource/Como_1907"
+        ],
+        [
+            "http://dbpedia.org/resource/Virtus_Entella",
+            "http://dbpedia.org/resource/Carrarese_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/A.C._Prato",
+            "http://dbpedia.org/resource/A.S.D._Cecina"
+        ],
+        [
+            "http://dbpedia.org/resource/A.S.D._Sangiovannese_1927",
+            "http://dbpedia.org/resource/Montevarchi_Calcio_Aquila_1902"
+        ],
+        [
+            "http://dbpedia.org/resource/SPAL",
+            "http://dbpedia.org/resource/Rimini_F.C._1912"
+        ],
+        [
+            "http://dbpedia.org/resource/S.S._Maceratese",
+            "http://dbpedia.org/resource/Alma_Juventus_Fano_1906"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Savoia_1908",
+            "http://dbpedia.org/resource/A.S.D._Civitavecchia_1920"
+        ]
+    ]
+}

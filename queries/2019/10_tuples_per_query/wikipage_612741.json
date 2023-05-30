@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dr._Slump",
+            "http://dbpedia.org/resource/Dr._Slump_and_Arale-chan:_Hello!_Wonder_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Slump",
+            "http://dbpedia.org/resource/Dr._Slump_and_Arale-chan:_Hoyoyo,_Great_Round-the-World_Race"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Slump",
+            "http://dbpedia.org/resource/Dr._Slump_and_Arale-chan:_Hoyoyo!_The_Treasure_of_Nanaba_Castle"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Slump",
+            "http://dbpedia.org/resource/Dr._Slump_and_Arale-chan:_Hoyoyo!_Dream_Capital_Mecha_Police"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Slump",
+            "http://dbpedia.org/resource/Dr._Slump_and_Arale-chan:_N-cha!_Clear_Skies_Over_Penguin_Village"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Slump",
+            "http://dbpedia.org/resource/Dr._Slump_and_Arale-chan:_N-cha!_From_Penguin_Village_with_Love"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Slump",
+            "http://dbpedia.org/resource/Dr._Slump_and_Arale-chan:_N-cha!!_Trembling_Heart_of_the_Summer"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Kinnikuman_films",
+            "http://dbpedia.org/resource/Great_Riot!_Seigi_Choujin"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Kinnikuman_films",
+            "http://dbpedia.org/resource/Seigi_Choujin_vs._Ancient_Choujin"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_Kinnikuman_films",
+            "http://dbpedia.org/resource/Tatakae!!_Ramenman"
+        ]
+    ]
+}

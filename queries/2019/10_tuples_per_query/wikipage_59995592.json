@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Blackburn_Beavers",
+            "http://dbpedia.org/resource/Westminster_Blue_Jays"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackburn_Beavers",
+            "http://dbpedia.org/resource/MacMurray_Highlanders"
+        ],
+        [
+            "http://dbpedia.org/resource/MacMurray_Highlanders",
+            "http://dbpedia.org/resource/Westminster_Blue_Jays"
+        ],
+        [
+            "http://dbpedia.org/resource/Fontbonne_Griffins",
+            "http://dbpedia.org/resource/Blackburn_Beavers"
+        ],
+        [
+            "http://dbpedia.org/resource/Westminster_Blue_Jays",
+            "http://dbpedia.org/resource/MacMurray_Highlanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Fontbonne_Griffins",
+            "http://dbpedia.org/resource/MacMurray_Highlanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Maryville_Saints",
+            "http://dbpedia.org/resource/Blackburn_Beavers"
+        ],
+        [
+            "http://dbpedia.org/resource/Greenville_Panthers",
+            "http://dbpedia.org/resource/Fontbonne_Griffins"
+        ],
+        [
+            "http://dbpedia.org/resource/MacMurray_Highlanders",
+            "http://dbpedia.org/resource/Maryville_Saints"
+        ],
+        [
+            "http://dbpedia.org/resource/Blackburn_Beavers",
+            "http://dbpedia.org/resource/Webster_Gorloks"
+        ]
+    ]
+}

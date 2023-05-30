@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antilhue",
+            "http://dbpedia.org/resource/Los_Lagos,_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Choshuenco",
+            "http://dbpedia.org/resource/Panguipulli,_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Malalhue",
+            "http://dbpedia.org/resource/Lanco,_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Neltume",
+            "http://dbpedia.org/resource/Panguipulli,_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Niebla,_Spain",
+            "http://dbpedia.org/resource/Valdivia,_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Nontuela",
+            "http://dbpedia.org/resource/Futrono"
+        ],
+        [
+            "http://dbpedia.org/resource/Puerto_Fuy",
+            "http://dbpedia.org/resource/Panguipulli,_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Puerto_Pirihueico",
+            "http://dbpedia.org/resource/Panguipulli,_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Pishuinco",
+            "http://dbpedia.org/resource/Valdivia,_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Punucapa",
+            "http://dbpedia.org/resource/Valdivia,_Chile"
+        ]
+    ]
+}

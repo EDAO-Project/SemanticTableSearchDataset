@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Orange,_California",
+            "http://dbpedia.org/resource/Jennifer_Hopkins"
+        ],
+        [
+            "http://dbpedia.org/resource/Dothan,_Alabama",
+            "http://dbpedia.org/resource/Galina_Voskoboeva"
+        ],
+        [
+            "http://dbpedia.org/resource/Allentown,_Pennsylvania",
+            "http://dbpedia.org/resource/Tetiana_Luzhanska"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston,_Texas",
+            "http://dbpedia.org/resource/Laura_Granville"
+        ],
+        [
+            "http://dbpedia.org/resource/Surprise,_Arizona",
+            "http://dbpedia.org/resource/Shenay_Perry"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Quinta",
+            "http://dbpedia.org/resource/Shenay_Perry"
+        ],
+        [
+            "http://dbpedia.org/resource/Albuquerque,_New_Mexico",
+            "http://dbpedia.org/resource/Julie_Ditty"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashland,_Kentucky",
+            "http://dbpedia.org/resource/Julie_Ditty"
+        ],
+        [
+            "http://dbpedia.org/resource/Lawrenceville,_Georgia",
+            "http://dbpedia.org/resource/Julie_Ditty"
+        ],
+        [
+            "http://dbpedia.org/resource/Dothan,_Alabama",
+            "http://dbpedia.org/resource/Julie_Ditty"
+        ]
+    ]
+}

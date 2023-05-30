@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Via_degli_specchi",
+            "http://dbpedia.org/resource/Giovanna_Gagliardo"
+        ],
+        [
+            "http://dbpedia.org/resource/The_World_of_Don_Camillo",
+            "http://dbpedia.org/resource/Terence_Hill"
+        ],
+        [
+            "http://dbpedia.org/resource/Over_the_Brooklyn_Bridge",
+            "http://dbpedia.org/resource/Menahem_Golan"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Adventures_of_Hercules",
+            "http://dbpedia.org/resource/Luigi_Cozzi"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Berlin_Affair",
+            "http://dbpedia.org/resource/Liliana_Cavani"
+        ],
+        [
+            "http://dbpedia.org/resource/Nothing_Underneath",
+            "http://dbpedia.org/resource/Carlo_Vanzina"
+        ],
+        [
+            "http://dbpedia.org/resource/Savage_Dawn",
+            "http://dbpedia.org/resource/Simon_Nuchtern"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Moro_Affair",
+            "http://dbpedia.org/resource/Giuseppe_Ferrara"
+        ],
+        [
+            "http://dbpedia.org/resource/Devils_of_Monza",
+            "http://dbpedia.org/resource/Luciano_Odorisio"
+        ],
+        [
+            "http://dbpedia.org/resource/Phantom_of_Death",
+            "http://dbpedia.org/resource/Ruggero_Deodato"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Australian_Ladies_Masters",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/World_Ladies_Championship",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Lalla_Meryem_Cup",
+            "http://dbpedia.org/resource/Morocco"
+        ],
+        [
+            "http://dbpedia.org/resource/Tipsport_Golf_Masters",
+            "http://dbpedia.org/resource/Czech_Republic"
+        ],
+        [
+            "http://dbpedia.org/resource/Aberdeen_Asset_Management_Ladies_Scottish_Open",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/ISPS_Handa_Ladies_European_Masters",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_Evian_Championship",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Lacoste_Ladies_Open_de_France",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Xiamen_International_Ladies_Open",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanya_Ladies_Open",
+            "http://dbpedia.org/resource/China"
+        ]
+    ]
+}

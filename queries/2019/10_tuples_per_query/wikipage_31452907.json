@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ichihara_Seaside_Stadium",
+            "http://dbpedia.org/resource/JEF_United_Ichihara"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/FC_Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/Yokohama_F._Marinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Kashima_Antlers"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/Oita_Trinita"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/Shimizu_S-Pulse"
+        ],
+        [
+            "http://dbpedia.org/resource/Kagoshima_Kamoike_Stadium",
+            "http://dbpedia.org/resource/Kyoto_Purple_Sanga"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/Vissel_Kobe"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagai_Stadium",
+            "http://dbpedia.org/resource/Cerezo_Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/Kashiwa_Reysol"
+        ]
+    ]
+}

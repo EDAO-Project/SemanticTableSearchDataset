@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/Dubai_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Hong_Kong",
+            "http://dbpedia.org/resource/Hong_Kong_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Amsterdam",
+            "http://dbpedia.org/resource/Amsterdam_Airport_Schiphol"
+        ],
+        [
+            "http://dbpedia.org/resource/Singapore",
+            "http://dbpedia.org/resource/Singapore_Changi_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankfurt",
+            "http://dbpedia.org/resource/Frankfurt_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Suvarnabhumi_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Taipei",
+            "http://dbpedia.org/resource/Taoyuan_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Doha",
+            "http://dbpedia.org/resource/Hamad_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuala_Lumpur",
+            "http://dbpedia.org/resource/Kuala_Lumpur_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/Madrid-Barajas_Airport"
+        ]
+    ]
+}

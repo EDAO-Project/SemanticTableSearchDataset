@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2009_in_sports",
+            "http://dbpedia.org/resource/2009_FIG_Artistic_Gymnastics_World_Cup_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_in_sports",
+            "http://dbpedia.org/resource/2010_FIG_Artistic_Gymnastics_World_Cup_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_in_sports",
+            "http://dbpedia.org/resource/2011_FIG_Artistic_Gymnastics_World_Cup_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_in_sports",
+            "http://dbpedia.org/resource/2012_FIG_Artistic_Gymnastics_World_Cup_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_in_gymnastics",
+            "http://dbpedia.org/resource/2013_FIG_Artistic_Gymnastics_World_Cup_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_in_gymnastics",
+            "http://dbpedia.org/resource/2014_FIG_Artistic_Gymnastics_World_Cup_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2015_in_gymnastics",
+            "http://dbpedia.org/resource/2015_FIG_Artistic_Gymnastics_World_Cup_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_in_gymnastics",
+            "http://dbpedia.org/resource/2016_FIG_Artistic_Gymnastics_World_Cup_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2017_in_gymnastics",
+            "http://dbpedia.org/resource/2017_FIG_Artistic_Gymnastics_World_Cup_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2018_in_gymnastics",
+            "http://dbpedia.org/resource/2018_FIG_Artistic_Gymnastics_World_Cup_series"
+        ]
+    ]
+}

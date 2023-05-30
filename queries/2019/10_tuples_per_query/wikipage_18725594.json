@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mr._Mike",
+            "http://dbpedia.org/resource/Wicked_Wayz"
+        ],
+        [
+            "http://dbpedia.org/resource/Mase",
+            "http://dbpedia.org/resource/Harlem_World"
+        ],
+        [
+            "http://dbpedia.org/resource/Luniz",
+            "http://dbpedia.org/resource/Lunitik_Muzik"
+        ],
+        [
+            "http://dbpedia.org/resource/MC_Breed",
+            "http://dbpedia.org/resource/2_for_the_Show"
+        ],
+        [
+            "http://dbpedia.org/resource/Pimp_C",
+            "http://dbpedia.org/resource/Pimpalation"
+        ],
+        [
+            "http://dbpedia.org/resource/Shawnna",
+            "http://dbpedia.org/resource/Block_Music"
+        ],
+        [
+            "http://dbpedia.org/resource/Killer_Mike",
+            "http://dbpedia.org/resource/I_Pledge_Allegiance_to_the_Grind"
+        ],
+        [
+            "http://dbpedia.org/resource/Kia_Shine",
+            "http://dbpedia.org/resource/Due_Season"
+        ],
+        [
+            "http://dbpedia.org/resource/Killer_Mike",
+            "http://dbpedia.org/resource/I_Pledge_Allegiance_to_the_Grind_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Young_Buck",
+            "http://dbpedia.org/resource/Strictly_4_Traps_N_Trunks_44:_Free_Young_Buck_Edition"
+        ]
+    ]
+}

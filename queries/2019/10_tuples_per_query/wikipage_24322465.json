@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Luke_Daniels",
+            "http://dbpedia.org/resource/Tranmere_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Joss_Labadie",
+            "http://dbpedia.org/resource/Shrewsbury_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Worrall",
+            "http://dbpedia.org/resource/Shrewsbury_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Greening",
+            "http://dbpedia.org/resource/Fulham"
+        ],
+        [
+            "http://dbpedia.org/resource/Borja_Valero",
+            "http://dbpedia.org/resource/RCD_Mallorca"
+        ],
+        [
+            "http://dbpedia.org/resource/Joss_Labadie",
+            "http://dbpedia.org/resource/Shrewsbury_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Leon_Barnett",
+            "http://dbpedia.org/resource/Coventry_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Joss_Labadie",
+            "http://dbpedia.org/resource/Cheltenham_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Reuben_Reid",
+            "http://dbpedia.org/resource/Peterborough_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Leon_Barnett",
+            "http://dbpedia.org/resource/Coventry_City"
+        ]
+    ]
+}

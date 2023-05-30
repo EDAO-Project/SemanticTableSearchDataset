@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Biyer_Phul",
+            "http://dbpedia.org/resource/Shabnur"
+        ],
+        [
+            "http://dbpedia.org/resource/Dui_Duari",
+            "http://dbpedia.org/resource/Humayun_Ahmed"
+        ],
+        [
+            "http://dbpedia.org/resource/Shoshurbari_Zindabad",
+            "http://dbpedia.org/resource/Shabnur"
+        ],
+        [
+            "http://dbpedia.org/resource/Hridoyer_Bandhon",
+            "http://dbpedia.org/resource/Shabnur"
+        ],
+        [
+            "http://dbpedia.org/resource/Premer_Taj_Mahal",
+            "http://dbpedia.org/resource/Shabnur"
+        ],
+        [
+            "http://dbpedia.org/resource/Megher_Pore_Megh",
+            "http://dbpedia.org/resource/Chashi_Nazrul_Islam"
+        ],
+        [
+            "http://dbpedia.org/resource/Shyamol_Chhaya",
+            "http://dbpedia.org/resource/Humayun_Ahmed"
+        ],
+        [
+            "http://dbpedia.org/resource/Shasti",
+            "http://dbpedia.org/resource/Chashi_Nazrul_Islam"
+        ],
+        [
+            "http://dbpedia.org/resource/Shubho_Bibaho",
+            "http://dbpedia.org/resource/Apu_Biswas"
+        ],
+        [
+            "http://dbpedia.org/resource/Kusum_Kusum_Prem",
+            "http://dbpedia.org/resource/Moushumi"
+        ]
+    ]
+}

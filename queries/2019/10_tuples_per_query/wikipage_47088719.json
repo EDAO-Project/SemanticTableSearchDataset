@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aetolia-Akarnania",
+            "http://dbpedia.org/resource/Western_Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/Athens_A",
+            "http://dbpedia.org/resource/Attica"
+        ],
+        [
+            "http://dbpedia.org/resource/Athens_B",
+            "http://dbpedia.org/resource/Attica"
+        ],
+        [
+            "http://dbpedia.org/resource/Chalkidiki",
+            "http://dbpedia.org/resource/Central_Macedonia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cyclades",
+            "http://dbpedia.org/resource/South_Aegean"
+        ],
+        [
+            "http://dbpedia.org/resource/Dodecanese",
+            "http://dbpedia.org/resource/South_Aegean"
+        ],
+        [
+            "http://dbpedia.org/resource/Imathia",
+            "http://dbpedia.org/resource/Central_Macedonia"
+        ],
+        [
+            "http://dbpedia.org/resource/Lasithi",
+            "http://dbpedia.org/resource/Crete"
+        ],
+        [
+            "http://dbpedia.org/resource/Lesbos_Prefecture",
+            "http://dbpedia.org/resource/North_Aegean"
+        ],
+        [
+            "http://dbpedia.org/resource/Piraeus_A",
+            "http://dbpedia.org/resource/Attica"
+        ]
+    ]
+}

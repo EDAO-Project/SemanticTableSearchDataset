@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_808",
+            "http://dbpedia.org/resource/ICTY"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_827",
+            "http://dbpedia.org/resource/ICTY"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_857",
+            "http://dbpedia.org/resource/ICTY"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_877",
+            "http://dbpedia.org/resource/ICTY"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_936",
+            "http://dbpedia.org/resource/ICTY"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_1047",
+            "http://dbpedia.org/resource/ICTY"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_1104",
+            "http://dbpedia.org/resource/ICTY"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_1126",
+            "http://dbpedia.org/resource/ICTY"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_1166",
+            "http://dbpedia.org/resource/ICTY"
+        ],
+        [
+            "http://dbpedia.org/resource/United_Nations_Security_Council_Resolution_1191",
+            "http://dbpedia.org/resource/ICTY"
+        ]
+    ]
+}

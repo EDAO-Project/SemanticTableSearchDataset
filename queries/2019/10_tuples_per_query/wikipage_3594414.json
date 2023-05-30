@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Victor_Magtanggol",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Be_My_Lady",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Once_Upon_a_Kiss",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Got_to_Believe",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Angelito:_Ang_Bagong_Yugto",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Toda_Max",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Angelito:_Batang_Ama",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Bantatay",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/George_and_Cecil",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Eva_Fonda",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ]
+    ]
+}

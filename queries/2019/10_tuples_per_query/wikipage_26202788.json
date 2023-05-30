@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Doha",
+            "http://dbpedia.org/resource/David_Ferrer"
+        ],
+        [
+            "http://dbpedia.org/resource/Doha",
+            "http://dbpedia.org/resource/Greg_Rusedski"
+        ],
+        [
+            "http://dbpedia.org/resource/Doha",
+            "http://dbpedia.org/resource/Feliciano_Lopez"
+        ],
+        [
+            "http://dbpedia.org/resource/Doha",
+            "http://dbpedia.org/resource/Nikolay_Davydenko"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Bohdan_Ulihrach"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotterdam",
+            "http://dbpedia.org/resource/Stanislas_Wawrinka"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/Juan_Carlos_Ferrero"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubai",
+            "http://dbpedia.org/resource/Mikhail_Youzhny"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Marcos_Daniel"
+        ],
+        [
+            "http://dbpedia.org/resource/Bangkok",
+            "http://dbpedia.org/resource/Denis_Gremelmayr"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stade_de_Reims",
+            "http://dbpedia.org/resource/RCF_Paris"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_de_Reims",
+            "http://dbpedia.org/resource/Lille_Olympique_Sporting_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/CS_Sedan_Ardennes",
+            "http://dbpedia.org/resource/OGC_Nice"
+        ],
+        [
+            "http://dbpedia.org/resource/Le_Havre_AC",
+            "http://dbpedia.org/resource/OGC_Nice"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_de_Reims",
+            "http://dbpedia.org/resource/AS_Monaco_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/AS_Monaco_FC",
+            "http://dbpedia.org/resource/CS_Sedan_Ardennes"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_de_Reims",
+            "http://dbpedia.org/resource/FC_Nantes"
+        ],
+        [
+            "http://dbpedia.org/resource/SC_Bastia",
+            "http://dbpedia.org/resource/Olympique_de_Marseille"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympique_Lyonnais",
+            "http://dbpedia.org/resource/FC_Nantes"
+        ],
+        [
+            "http://dbpedia.org/resource/AS_Monaco_FC",
+            "http://dbpedia.org/resource/FC_Girondins_de_Bordeaux"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/VfB_Friedberg",
+            "http://dbpedia.org/resource/SV_Waldhof_Mannheim"
+        ],
+        [
+            "http://dbpedia.org/resource/VfR_Mannheim",
+            "http://dbpedia.org/resource/Kickers_Offenbach"
+        ],
+        [
+            "http://dbpedia.org/resource/SV_Ratibor_03",
+            "http://dbpedia.org/resource/PSV_Chemnitz"
+        ],
+        [
+            "http://dbpedia.org/resource/SC_Planitz",
+            "http://dbpedia.org/resource/Beuthener_SuSV_09"
+        ],
+        [
+            "http://dbpedia.org/resource/Minerva_93_Berlin",
+            "http://dbpedia.org/resource/SC_Victoria_Hamburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Wacker_04_Berlin",
+            "http://dbpedia.org/resource/SV_Hindenburg_Allenstein"
+        ],
+        [
+            "http://dbpedia.org/resource/Freiburger_FC",
+            "http://dbpedia.org/resource/Wormatia_Worms"
+        ],
+        [
+            "http://dbpedia.org/resource/Borussia_Dortmund",
+            "http://dbpedia.org/resource/Hamburger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Karlsruher_SC",
+            "http://dbpedia.org/resource/FSV_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/BuEV_Danzig",
+            "http://dbpedia.org/resource/Hertha_BSC"
+        ]
+    ]
+}

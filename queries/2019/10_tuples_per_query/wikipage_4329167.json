@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hekou_District",
+            "http://dbpedia.org/resource/Dongying_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenli_District",
+            "http://dbpedia.org/resource/Dongying_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Lijin_County",
+            "http://dbpedia.org/resource/Dongying_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Guangrao_County",
+            "http://dbpedia.org/resource/Dongying_District"
+        ],
+        [
+            "http://dbpedia.org/resource/Lanshan_District,_Linyi",
+            "http://dbpedia.org/resource/Linyi_County,_Dezhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Luozhuang_District",
+            "http://dbpedia.org/resource/Linyi_County,_Dezhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Hedong_District,_Linyi",
+            "http://dbpedia.org/resource/Linyi_County,_Dezhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Yinan_County",
+            "http://dbpedia.org/resource/Linyi_County,_Dezhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Tancheng_County",
+            "http://dbpedia.org/resource/Linyi_County,_Dezhou"
+        ],
+        [
+            "http://dbpedia.org/resource/Yishui_County",
+            "http://dbpedia.org/resource/Linyi_County,_Dezhou"
+        ]
+    ]
+}

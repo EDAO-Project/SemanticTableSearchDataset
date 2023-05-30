@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mehrabad_International_Airport",
+            "http://dbpedia.org/resource/Tehran"
+        ],
+        [
+            "http://dbpedia.org/resource/Mashhad_International_Airport",
+            "http://dbpedia.org/resource/Mashhad"
+        ],
+        [
+            "http://dbpedia.org/resource/Imam_Khomeini_International_Airport",
+            "http://dbpedia.org/resource/Tehran"
+        ],
+        [
+            "http://dbpedia.org/resource/Shiraz_International_Airport",
+            "http://dbpedia.org/resource/Shiraz"
+        ],
+        [
+            "http://dbpedia.org/resource/Ahwaz_International_Airport",
+            "http://dbpedia.org/resource/Ahwaz"
+        ],
+        [
+            "http://dbpedia.org/resource/Kish_International_Airport",
+            "http://dbpedia.org/resource/Kish_Island"
+        ],
+        [
+            "http://dbpedia.org/resource/Isfahan_International_Airport",
+            "http://dbpedia.org/resource/Isfahan"
+        ],
+        [
+            "http://dbpedia.org/resource/Tabriz_International_Airport",
+            "http://dbpedia.org/resource/Tabriz"
+        ],
+        [
+            "http://dbpedia.org/resource/Bandar_Abbas_International_Airport",
+            "http://dbpedia.org/resource/Bandar_Abbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Persian_Gulf_Airport",
+            "http://dbpedia.org/resource/Asaluyeh"
+        ]
+    ]
+}

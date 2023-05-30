@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/High_Noon",
+            "http://dbpedia.org/resource/Fred_Zinnemann"
+        ],
+        [
+            "http://dbpedia.org/resource/Untamed_Frontier",
+            "http://dbpedia.org/resource/Hugo_Fregonese"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_City_Confidential",
+            "http://dbpedia.org/resource/Phil_Karlson"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Lawless_Breed",
+            "http://dbpedia.org/resource/Raoul_Walsh"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bandits_of_Corsica",
+            "http://dbpedia.org/resource/Ray_Nazarro"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Nebraskan",
+            "http://dbpedia.org/resource/Fred_F._Sears"
+        ],
+        [
+            "http://dbpedia.org/resource/Gypsy_Colt",
+            "http://dbpedia.org/resource/Andrew_Marton"
+        ],
+        [
+            "http://dbpedia.org/resource/Rails_Into_Laramie",
+            "http://dbpedia.org/resource/Jesse_Hibbs"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Yellow_Tomahawk",
+            "http://dbpedia.org/resource/Lesley_Selander"
+        ],
+        [
+            "http://dbpedia.org/resource/Princess_of_the_Nile",
+            "http://dbpedia.org/resource/Harmon_Jones"
+        ]
+    ]
+}

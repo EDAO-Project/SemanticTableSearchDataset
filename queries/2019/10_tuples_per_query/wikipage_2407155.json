@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Islanders",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Washington_Capitals",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

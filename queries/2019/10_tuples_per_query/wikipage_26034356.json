@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Beach_Boys",
+            "http://dbpedia.org/resource/Pet_Sounds"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Beach_Boys",
+            "http://dbpedia.org/resource/Good_Vibrations"
+        ],
+        [
+            "http://dbpedia.org/resource/Miles_Davis",
+            "http://dbpedia.org/resource/Miles_Smiles"
+        ],
+        [
+            "http://dbpedia.org/resource/Jefferson_Airplane",
+            "http://dbpedia.org/resource/Surrealistic_Pillow"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Byrds",
+            "http://dbpedia.org/resource/Younger_Than_Yesterday"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Velvet_Underground",
+            "http://dbpedia.org/resource/The_Velvet_Underground_&_Nico"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Mothers_of_Invention",
+            "http://dbpedia.org/resource/Absolutely_Free"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Incredible_String_Band",
+            "http://dbpedia.org/resource/The_5000_Spirits_or_the_Layers_of_the_Onion"
+        ],
+        [
+            "http://dbpedia.org/resource/Pink_Floyd",
+            "http://dbpedia.org/resource/The_Piper_at_the_Gates_of_Dawn"
+        ],
+        [
+            "http://dbpedia.org/resource/Captain_Beefheart_&_His_Magic_Band",
+            "http://dbpedia.org/resource/Safe_as_Milk"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/FC_St._Pauli"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/FC_St._Pauli"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/FC_St._Pauli"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/FC_St._Pauli"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/Holstein_Kiel"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/FC_St._Pauli"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/TuS_Bremerhaven_93"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/Hannover_96"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/Holstein_Kiel"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/Eintracht_Braunschweig"
+        ]
+    ]
+}

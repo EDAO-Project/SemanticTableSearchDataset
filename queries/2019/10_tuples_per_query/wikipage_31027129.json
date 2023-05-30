@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bedford_Blues",
+            "http://dbpedia.org/resource/Goldington_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornish_Pirates",
+            "http://dbpedia.org/resource/Mennaye_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Doncaster",
+            "http://dbpedia.org/resource/Castle_Park_rugby_stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Esher",
+            "http://dbpedia.org/resource/Molesey_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Llanelli",
+            "http://dbpedia.org/resource/Parc_y_Scarlets"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Welsh",
+            "http://dbpedia.org/resource/Old_Deer_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Moseley",
+            "http://dbpedia.org/resource/Billesley_Common"
+        ],
+        [
+            "http://dbpedia.org/resource/Neath",
+            "http://dbpedia.org/resource/The_Gnoll"
+        ],
+        [
+            "http://dbpedia.org/resource/Nottingham",
+            "http://dbpedia.org/resource/Meadow_Lane"
+        ],
+        [
+            "http://dbpedia.org/resource/Plymouth_Albion",
+            "http://dbpedia.org/resource/The_Brickfields"
+        ]
+    ]
+}

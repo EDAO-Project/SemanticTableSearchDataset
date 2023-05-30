@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brigham_Young",
+            "http://dbpedia.org/resource/Millard_Fillmore"
+        ],
+        [
+            "http://dbpedia.org/resource/Brigham_Young",
+            "http://dbpedia.org/resource/Franklin_Pierce"
+        ],
+        [
+            "http://dbpedia.org/resource/John_W._Dawson",
+            "http://dbpedia.org/resource/Abraham_Lincoln"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_S._Harding",
+            "http://dbpedia.org/resource/Abraham_Lincoln"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Duane_Doty",
+            "http://dbpedia.org/resource/Abraham_Lincoln"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Durkee",
+            "http://dbpedia.org/resource/Andrew_Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Shaffer",
+            "http://dbpedia.org/resource/Ulysses_S._Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/Vernon_H._Vaughan",
+            "http://dbpedia.org/resource/Ulysses_S._Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Lemuel_Woods",
+            "http://dbpedia.org/resource/Ulysses_S._Grant"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_Beach_Axtell",
+            "http://dbpedia.org/resource/Ulysses_S._Grant"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shimamura_Toshihiro",
+            "http://dbpedia.org/resource/Takagawa_Kaku"
+        ],
+        [
+            "http://dbpedia.org/resource/Iwamoto_Kaoru",
+            "http://dbpedia.org/resource/Hosai_Fujisawa"
+        ],
+        [
+            "http://dbpedia.org/resource/Utaro_Hashimoto",
+            "http://dbpedia.org/resource/Sakata_Eio"
+        ],
+        [
+            "http://dbpedia.org/resource/Sakata_Eio",
+            "http://dbpedia.org/resource/Hosai_Fujisawa"
+        ],
+        [
+            "http://dbpedia.org/resource/Sakata_Eio",
+            "http://dbpedia.org/resource/Kitani_Minoru"
+        ],
+        [
+            "http://dbpedia.org/resource/Sakata_Eio",
+            "http://dbpedia.org/resource/Takagawa_Kaku"
+        ],
+        [
+            "http://dbpedia.org/resource/Kitani_Minoru",
+            "http://dbpedia.org/resource/Hosai_Fujisawa"
+        ],
+        [
+            "http://dbpedia.org/resource/Sakata_Eio",
+            "http://dbpedia.org/resource/Kitani_Minoru"
+        ],
+        [
+            "http://dbpedia.org/resource/Sakata_Eio",
+            "http://dbpedia.org/resource/Utaro_Hashimoto"
+        ],
+        [
+            "http://dbpedia.org/resource/Utaro_Hashimoto",
+            "http://dbpedia.org/resource/Fujisawa_Hideyuki"
+        ]
+    ]
+}

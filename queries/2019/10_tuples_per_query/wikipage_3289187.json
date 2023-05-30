@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1st_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/1998_Hong_Kong_legislative_election"
+        ],
+        [
+            "http://dbpedia.org/resource/2nd_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/2000_Hong_Kong_legislative_election"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/2004_Hong_Kong_legislative_election"
+        ],
+        [
+            "http://dbpedia.org/resource/3rd_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/2004_Hong_Kong_legislative_election"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/2008_Hong_Kong_legislative_election"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/2010_Hong_Kong_by-election"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/2012_Hong_Kong_legislative_election"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/2012_Hong_Kong_legislative_election"
+        ],
+        [
+            "http://dbpedia.org/resource/5th_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/2016_New_Territories_East_by-election"
+        ],
+        [
+            "http://dbpedia.org/resource/6th_Legislative_Council_of_Hong_Kong",
+            "http://dbpedia.org/resource/2016_Hong_Kong_legislative_election"
+        ]
+    ]
+}

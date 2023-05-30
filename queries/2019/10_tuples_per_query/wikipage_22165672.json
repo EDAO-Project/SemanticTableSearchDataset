@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Black_Rat_Snake",
+            "http://dbpedia.org/resource/Pantherophis_obsoletus"
+        ],
+        [
+            "http://dbpedia.org/resource/Brown_Snake",
+            "http://dbpedia.org/resource/Storeria_dekayi"
+        ],
+        [
+            "http://dbpedia.org/resource/Bullsnake",
+            "http://dbpedia.org/resource/Pituophis_catenifer_sayi"
+        ],
+        [
+            "http://dbpedia.org/resource/Common_Garter_Snake",
+            "http://dbpedia.org/resource/Thamnophis_sirtalis"
+        ],
+        [
+            "http://dbpedia.org/resource/Copperbelly_Water_Snake",
+            "http://dbpedia.org/resource/Nerodia_erythrogaster_neglecta"
+        ],
+        [
+            "http://dbpedia.org/resource/Diamondback_Water_Snake",
+            "http://dbpedia.org/resource/Nerodia_rhombifer"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastern_Hognose_Snake",
+            "http://dbpedia.org/resource/Heterodon_platirhinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Lined_Snake",
+            "http://dbpedia.org/resource/Tropidoclonion_lineatum"
+        ],
+        [
+            "http://dbpedia.org/resource/Massasauga_Rattlesnake",
+            "http://dbpedia.org/resource/Sistrurus_catenatus"
+        ],
+        [
+            "http://dbpedia.org/resource/Milk_Snake",
+            "http://dbpedia.org/resource/Lampropeltis_triangulum"
+        ]
+    ]
+}

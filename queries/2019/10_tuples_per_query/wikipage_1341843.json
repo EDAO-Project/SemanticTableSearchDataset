@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Otis_G._Pike",
+            "http://dbpedia.org/resource/1960_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Lester_L._Wolff",
+            "http://dbpedia.org/resource/1964_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/John_W._Wydler",
+            "http://dbpedia.org/resource/1962_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Herbert_Tenzer",
+            "http://dbpedia.org/resource/1964_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Seymour_Halpern",
+            "http://dbpedia.org/resource/1958_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_P._Addabbo",
+            "http://dbpedia.org/resource/1960_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Stanley_Rosenthal",
+            "http://dbpedia.org/resource/1962_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/James_J._Delaney",
+            "http://dbpedia.org/resource/1948_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Emanuel_Celler",
+            "http://dbpedia.org/resource/1922_United_States_House_of_Representatives_elections_in_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Eugene_James_Keogh",
+            "http://dbpedia.org/resource/1936_United_States_House_of_Representatives_elections_in_New_York"
+        ]
+    ]
+}

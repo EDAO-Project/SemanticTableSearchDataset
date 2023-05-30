@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arish",
+            "http://dbpedia.org/resource/Asyut"
+        ],
+        [
+            "http://dbpedia.org/resource/Aswan",
+            "http://dbpedia.org/resource/Benha"
+        ],
+        [
+            "http://dbpedia.org/resource/Beni_Suef",
+            "http://dbpedia.org/resource/Damanhur"
+        ],
+        [
+            "http://dbpedia.org/resource/Damietta",
+            "http://dbpedia.org/resource/Faiyum"
+        ],
+        [
+            "http://dbpedia.org/resource/Ismailia",
+            "http://dbpedia.org/resource/Kafr_El_Sheikh"
+        ],
+        [
+            "http://dbpedia.org/resource/Luxor",
+            "http://dbpedia.org/resource/Marsa_Matruh"
+        ],
+        [
+            "http://dbpedia.org/resource/Mansoura,_Egypt",
+            "http://dbpedia.org/resource/Minya,_Egypt"
+        ],
+        [
+            "http://dbpedia.org/resource/Monufia_Governorate",
+            "http://dbpedia.org/resource/New_Valley_Governorate"
+        ],
+        [
+            "http://dbpedia.org/resource/Port_Said",
+            "http://dbpedia.org/resource/Qena"
+        ],
+        [
+            "http://dbpedia.org/resource/Red_Sea_Governorate",
+            "http://dbpedia.org/resource/Sohag"
+        ]
+    ]
+}

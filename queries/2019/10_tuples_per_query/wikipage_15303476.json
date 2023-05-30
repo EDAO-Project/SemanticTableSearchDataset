@@ -1,0 +1,46 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/King_of_Queens",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Palabra_de_Mujer",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/Las_Tontas_No_Van_al_Cielo",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/Sturm_der_Liebe",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Winx_Club",
+            "http://dbpedia.org/resource/Winx_Club",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Fear_Factor",
+            "http://dbpedia.org/resource/Fear_Factor",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Querida_Enemiga",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/En_Nombre_Del_Amor",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Usurpadora",
+            "http://dbpedia.org/resource/Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/Cuidado_con_el_angel",
+            "http://dbpedia.org/resource/Mexico"
+        ]
+    ]
+}

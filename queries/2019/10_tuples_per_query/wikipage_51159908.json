@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sportklub_Stadium",
+            "http://dbpedia.org/resource/1._Simmeringer_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Pfarrwiese",
+            "http://dbpedia.org/resource/Wiener_Sport-Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Pfarrwiese",
+            "http://dbpedia.org/resource/FK_Austria_Wien"
+        ],
+        [
+            "http://dbpedia.org/resource/Sportklub_Stadium",
+            "http://dbpedia.org/resource/Hakoah_Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Pfarrwiese",
+            "http://dbpedia.org/resource/Wiener_AF"
+        ],
+        [
+            "http://dbpedia.org/resource/Pfarrwiese",
+            "http://dbpedia.org/resource/Floridsdorfer_AC"
+        ],
+        [
+            "http://dbpedia.org/resource/Sportklub_Stadium",
+            "http://dbpedia.org/resource/First_Vienna_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Sportklub_Stadium",
+            "http://dbpedia.org/resource/Wiener_AC"
+        ],
+        [
+            "http://dbpedia.org/resource/Pfarrwiese",
+            "http://dbpedia.org/resource/1._Simmeringer_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Pfarrwiese",
+            "http://dbpedia.org/resource/Hakoah_Vienna"
+        ]
+    ]
+}

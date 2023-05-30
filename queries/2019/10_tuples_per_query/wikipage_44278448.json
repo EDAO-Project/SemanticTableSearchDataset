@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alessandra_Ambrosio",
+            "http://dbpedia.org/resource/Adriana_Lima"
+        ],
+        [
+            "http://dbpedia.org/resource/Candice_Swanepoel",
+            "http://dbpedia.org/resource/Karlie_Kloss"
+        ],
+        [
+            "http://dbpedia.org/resource/Lily_Aldridge",
+            "http://dbpedia.org/resource/Behati_Prinsloo"
+        ],
+        [
+            "http://dbpedia.org/resource/Doutzen_Kroes",
+            "http://dbpedia.org/resource/Lais_Ribeiro"
+        ],
+        [
+            "http://dbpedia.org/resource/Sigrid_Agren",
+            "http://dbpedia.org/resource/Izabel_Goulart"
+        ],
+        [
+            "http://dbpedia.org/resource/Kate_Grigorieva",
+            "http://dbpedia.org/resource/Elsa_Hosk"
+        ],
+        [
+            "http://dbpedia.org/resource/Jourdan_Dunn",
+            "http://dbpedia.org/resource/Barbara_Fialho"
+        ],
+        [
+            "http://dbpedia.org/resource/Kasia_Struss",
+            "http://dbpedia.org/resource/Blanca_Padilla"
+        ],
+        [
+            "http://dbpedia.org/resource/Sara_Sampaio",
+            "http://dbpedia.org/resource/Shanina_Shaik"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelly_Gale",
+            "http://dbpedia.org/resource/Ming_Xi"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dilip_Thakor",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Purshottam_Solanki",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Jasabhai_Barad",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Chhatrasinh_Mori",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Jaydrathsinh_Parmar",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Rajnikant_Patel",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Govind_Patel",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Tarachand_Chheda",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Tarachand_Chheda",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Bachubhai_Khabad",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ]
+    ]
+}

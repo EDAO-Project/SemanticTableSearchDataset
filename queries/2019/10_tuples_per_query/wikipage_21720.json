@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Archie_Manning",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Abramowicz",
+            "http://dbpedia.org/resource/Wide_receiver"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Dempsey",
+            "http://dbpedia.org/resource/Placekicker"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Kilmer",
+            "http://dbpedia.org/resource/Quarterback"
+        ],
+        [
+            "http://dbpedia.org/resource/Derland_Moore",
+            "http://dbpedia.org/resource/Nose_tackle"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Galbreath",
+            "http://dbpedia.org/resource/Running_back"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Federspiel",
+            "http://dbpedia.org/resource/Linebacker"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Finks",
+            "http://dbpedia.org/resource/General_Manager"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Childs",
+            "http://dbpedia.org/resource/Tight_end"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Pollard",
+            "http://dbpedia.org/resource/Defensive_end"
+        ]
+    ]
+}

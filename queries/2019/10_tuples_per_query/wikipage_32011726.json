@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nduka_Ozokwo",
+            "http://dbpedia.org/resource/Enugu"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Rodrigo_Zurita",
+            "http://dbpedia.org/resource/Salta"
+        ],
+        [
+            "http://dbpedia.org/resource/Wissem_Ben_Yahia",
+            "http://dbpedia.org/resource/Tunis"
+        ],
+        [
+            "http://dbpedia.org/resource/Mehmet_Polat",
+            "http://dbpedia.org/resource/Gaziantep"
+        ],
+        [
+            "http://dbpedia.org/resource/Yannick_Kamanan",
+            "http://dbpedia.org/resource/Saint-Pol-sur-Mer"
+        ],
+        [
+            "http://dbpedia.org/resource/Hakan_Bayraktar",
+            "http://dbpedia.org/resource/Samsun"
+        ],
+        [
+            "http://dbpedia.org/resource/Mathew_Amoah",
+            "http://dbpedia.org/resource/Tema,_Ghana"
+        ],
+        [
+            "http://dbpedia.org/resource/Nurullah_Kaya",
+            "http://dbpedia.org/resource/Batman,_Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/Spas_Delev",
+            "http://dbpedia.org/resource/Petrich"
+        ],
+        [
+            "http://dbpedia.org/resource/Tonia_Tisdell",
+            "http://dbpedia.org/resource/Monrovia"
+        ]
+    ]
+}

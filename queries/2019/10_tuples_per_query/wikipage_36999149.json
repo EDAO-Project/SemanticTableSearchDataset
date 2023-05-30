@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stop_consonant",
+            "http://dbpedia.org/resource/Prenasalized_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/Stop_consonant",
+            "http://dbpedia.org/resource/Voiced_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/Stop_consonant",
+            "http://dbpedia.org/resource/Voiceless_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/Stop_consonant",
+            "http://dbpedia.org/resource/Aspirated_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/Affricate_consonant",
+            "http://dbpedia.org/resource/Prenasalized_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/Affricate_consonant",
+            "http://dbpedia.org/resource/Voiced_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/Affricate_consonant",
+            "http://dbpedia.org/resource/Voiceless_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/Affricate_consonant",
+            "http://dbpedia.org/resource/Aspirated_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/Fricative_consonant",
+            "http://dbpedia.org/resource/Voiceless_consonant"
+        ],
+        [
+            "http://dbpedia.org/resource/Fricative_consonant",
+            "http://dbpedia.org/resource/Voiced_consonant"
+        ]
+    ]
+}

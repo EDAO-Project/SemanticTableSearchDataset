@@ -1,0 +1,47 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Athletic_Bilbao",
+            "http://dbpedia.org/resource/Bilbao"
+        ],
+        [
+            "http://dbpedia.org/resource/Madrid",
+            "http://dbpedia.org/resource/Estadio_Metropolitano_de_Madrid"
+        ],
+        [
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Barcelona",
+            "http://dbpedia.org/resource/Camp_de_Les_Corts"
+        ],
+        [
+            "http://dbpedia.org/resource/Celta_Vigo",
+            "http://dbpedia.org/resource/Vigo"
+        ],
+        [
+            "http://dbpedia.org/resource/RCD_Espanyol",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Racing_de_Santander",
+            "http://dbpedia.org/resource/Santander,_Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Sociedad",
+            "http://dbpedia.org/resource/Atotxa_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Sevilla_FC",
+            "http://dbpedia.org/resource/Seville"
+        ],
+        [
+            "http://dbpedia.org/resource/Valencia",
+            "http://dbpedia.org/resource/Valencia",
+            "http://dbpedia.org/resource/Mestalla_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Zaragoza",
+            "http://dbpedia.org/resource/Zaragoza",
+            "http://dbpedia.org/resource/Estadio_Torrero"
+        ]
+    ]
+}

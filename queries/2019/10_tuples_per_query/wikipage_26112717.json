@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Niskayuna_High_School",
+            "http://dbpedia.org/resource/Jamesville-DeWitt_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Pierson_Middle-High_School",
+            "http://dbpedia.org/resource/Alexander_Hamilton_Jr./Sr._High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Lackawanna_City_School_District",
+            "http://dbpedia.org/resource/Scarsdale_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Ward_Melville_High_School",
+            "http://dbpedia.org/resource/Union-Endicott_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Bellport_High_School",
+            "http://dbpedia.org/resource/Rush-Henrietta_Central_School_District"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Wheatley_School",
+            "http://dbpedia.org/resource/Wilson_Magnet_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Manhasset_Secondary_School",
+            "http://dbpedia.org/resource/Elmira_Free_Academy"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgehampton_Union_Free_School_District",
+            "http://dbpedia.org/resource/Newfield_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/Shenendehowa_High_School",
+            "http://dbpedia.org/resource/Bishop_Ludden_Junior/Senior_High_School"
+        ],
+        [
+            "http://dbpedia.org/resource/McQuaid_Jesuit_High_School",
+            "http://dbpedia.org/resource/Liverpool_High_School"
+        ]
+    ]
+}

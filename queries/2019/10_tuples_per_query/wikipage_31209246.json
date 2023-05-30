@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kose_Sports_Stadium",
+            "http://dbpedia.org/resource/Avispa_Fukuoka"
+        ],
+        [
+            "http://dbpedia.org/resource/Yamagata_Park_Stadium",
+            "http://dbpedia.org/resource/Montedio_Yamagata"
+        ],
+        [
+            "http://dbpedia.org/resource/Kose_Sports_Stadium",
+            "http://dbpedia.org/resource/Cerezo_Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Kose_Sports_Stadium",
+            "http://dbpedia.org/resource/Omiya_Ardija"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiratsuka_Athletics_Stadium",
+            "http://dbpedia.org/resource/Shonan_Bellmare"
+        ],
+        [
+            "http://dbpedia.org/resource/Kose_Sports_Stadium",
+            "http://dbpedia.org/resource/Sagan_Tosu"
+        ],
+        [
+            "http://dbpedia.org/resource/Kose_Sports_Stadium",
+            "http://dbpedia.org/resource/Albirex_Niigata"
+        ],
+        [
+            "http://dbpedia.org/resource/Kose_Sports_Stadium",
+            "http://dbpedia.org/resource/Kawasaki_Frontale"
+        ],
+        [
+            "http://dbpedia.org/resource/Level-5_Stadium",
+            "http://dbpedia.org/resource/Avispa_Fukuoka"
+        ],
+        [
+            "http://dbpedia.org/resource/Kose_Sports_Stadium",
+            "http://dbpedia.org/resource/Montedio_Yamagata"
+        ]
+    ]
+}

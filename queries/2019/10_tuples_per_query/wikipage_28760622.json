@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Keeley",
+            "http://dbpedia.org/resource/Layer_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Allpress",
+            "http://dbpedia.org/resource/Craven_Cottage"
+        ],
+        [
+            "http://dbpedia.org/resource/Grant_Morrow",
+            "http://dbpedia.org/resource/Layer_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Dickens",
+            "http://dbpedia.org/resource/Plainmoor"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Locke",
+            "http://dbpedia.org/resource/Layer_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Desborough",
+            "http://dbpedia.org/resource/Priestfield_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_Sheffield",
+            "http://dbpedia.org/resource/Layer_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Justin_Booty",
+            "http://dbpedia.org/resource/Layer_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Cheesewright",
+            "http://dbpedia.org/resource/Layer_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Grant_Watts",
+            "http://dbpedia.org/resource/Layer_Road"
+        ]
+    ]
+}

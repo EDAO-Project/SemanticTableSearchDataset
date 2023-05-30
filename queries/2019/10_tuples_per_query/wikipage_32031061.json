@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Liam_Cooper",
+            "http://dbpedia.org/resource/Huddersfield_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Kilbane",
+            "http://dbpedia.org/resource/Derby_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Kamel_Ghilas",
+            "http://dbpedia.org/resource/Stade_de_Reims"
+        ],
+        [
+            "http://dbpedia.org/resource/Will_Atkinson",
+            "http://dbpedia.org/resource/Plymouth_Argyle"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_Devitt",
+            "http://dbpedia.org/resource/Bradford_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Jay_Simpson",
+            "http://dbpedia.org/resource/Millwall"
+        ],
+        [
+            "http://dbpedia.org/resource/Conor_Townsend",
+            "http://dbpedia.org/resource/Grimsby_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Matty_Mainwaring",
+            "http://dbpedia.org/resource/Stockport_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Will_Atkinson",
+            "http://dbpedia.org/resource/Bradford_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_Devitt",
+            "http://dbpedia.org/resource/Accrington_Stanley"
+        ]
+    ]
+}

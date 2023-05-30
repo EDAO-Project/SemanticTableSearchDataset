@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1969",
+            "http://dbpedia.org/resource/Lim_Chong_Eu"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1974",
+            "http://dbpedia.org/resource/Lim_Chong_Eu"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1978",
+            "http://dbpedia.org/resource/Lim_Chong_Eu"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1982",
+            "http://dbpedia.org/resource/Lim_Keng_Yaik"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1986",
+            "http://dbpedia.org/resource/Lim_Keng_Yaik"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1990",
+            "http://dbpedia.org/resource/Lim_Keng_Yaik"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1995",
+            "http://dbpedia.org/resource/Lim_Keng_Yaik"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_1999",
+            "http://dbpedia.org/resource/Lim_Keng_Yaik"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_2004",
+            "http://dbpedia.org/resource/Lim_Keng_Yaik"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysian_general_election,_2008",
+            "http://dbpedia.org/resource/Koh_Tsu_Koon"
+        ]
+    ]
+}

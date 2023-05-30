@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dennis_Diekmeier",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/Breno_Borges",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominic_Maroh",
+            "http://dbpedia.org/resource/SSV_Reutlingen_05"
+        ],
+        [
+            "http://dbpedia.org/resource/Pascal_Bieler",
+            "http://dbpedia.org/resource/Hertha_BSC"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Spiranovic",
+            "http://dbpedia.org/resource/Australian_Institute_of_Sport"
+        ],
+        [
+            "http://dbpedia.org/resource/Javier_Pinola",
+            "http://dbpedia.org/resource/Racing_Club_de_Avellaneda"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Gygax",
+            "http://dbpedia.org/resource/FC_Metz"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcel_Risse",
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen"
+        ],
+        [
+            "http://dbpedia.org/resource/Andreas_Ottl",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Eigler",
+            "http://dbpedia.org/resource/Arminia_Bielefeld"
+        ]
+    ]
+}

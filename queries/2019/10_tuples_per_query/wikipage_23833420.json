@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Len_Hutton",
+            "http://dbpedia.org/resource/Wrist_spin"
+        ],
+        [
+            "http://dbpedia.org/resource/Ron_Archer",
+            "http://dbpedia.org/resource/Fast_bowling"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Tyson",
+            "http://dbpedia.org/resource/Fast_bowling"
+        ],
+        [
+            "http://dbpedia.org/resource/Ray_Lindwall",
+            "http://dbpedia.org/resource/Fast_bowling"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Statham",
+            "http://dbpedia.org/resource/Fast_bowling"
+        ],
+        [
+            "http://dbpedia.org/resource/Trevor_Bailey",
+            "http://dbpedia.org/resource/Fast_bowling"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Graveney",
+            "http://dbpedia.org/resource/Wrist_spin"
+        ],
+        [
+            "http://dbpedia.org/resource/Richie_Benaud",
+            "http://dbpedia.org/resource/Wrist_spin"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Keith_Davidson",
+            "http://dbpedia.org/resource/Fast_bowling"
+        ],
+        [
+            "http://dbpedia.org/resource/Alec_Bedser",
+            "http://dbpedia.org/resource/Fast_bowling"
+        ]
+    ]
+}

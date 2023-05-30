@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giza",
+            "http://dbpedia.org/resource/Greater_Cairo"
+        ],
+        [
+            "http://dbpedia.org/resource/Yokohama",
+            "http://dbpedia.org/resource/Greater_Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Incheon",
+            "http://dbpedia.org/resource/Greater_Seoul"
+        ],
+        [
+            "http://dbpedia.org/resource/Quezon_City",
+            "http://dbpedia.org/resource/Greater_Manila"
+        ],
+        [
+            "http://dbpedia.org/resource/Bekasi",
+            "http://dbpedia.org/resource/Jabodetabek"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghaziabad,_India",
+            "http://dbpedia.org/resource/Delhi_NCR"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Matanza_Partido",
+            "http://dbpedia.org/resource/Greater_Buenos_Aires"
+        ],
+        [
+            "http://dbpedia.org/resource/Depok",
+            "http://dbpedia.org/resource/Jabodetabek"
+        ],
+        [
+            "http://dbpedia.org/resource/Tangerang",
+            "http://dbpedia.org/resource/Jabodetabek"
+        ],
+        [
+            "http://dbpedia.org/resource/Omdurman",
+            "http://dbpedia.org/resource/Khartoum"
+        ]
+    ]
+}

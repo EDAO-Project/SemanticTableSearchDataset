@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/County_Ground,_Taunton",
+            "http://dbpedia.org/resource/1990_English_cricket_season"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Derby",
+            "http://dbpedia.org/resource/1986_English_cricket_season"
+        ],
+        [
+            "http://dbpedia.org/resource/SWALEC_Stadium",
+            "http://dbpedia.org/resource/2003_English_cricket_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Gloucestershire",
+            "http://dbpedia.org/resource/1984_English_cricket_season"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Derby",
+            "http://dbpedia.org/resource/1984_English_cricket_season"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Derby",
+            "http://dbpedia.org/resource/2006_English_cricket_season"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Hove",
+            "http://dbpedia.org/resource/2004_English_cricket_season"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Road,_Worcester",
+            "http://dbpedia.org/resource/1998_English_cricket_season"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Derby",
+            "http://dbpedia.org/resource/1984_English_cricket_season"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Oval",
+            "http://dbpedia.org/resource/1996_English_cricket_season"
+        ]
+    ]
+}

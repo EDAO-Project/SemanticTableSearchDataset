@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Abdul_Rahim_Ayew"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Ibrahim_Salah"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Hassan_Mostafa"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Shikabala"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Wajih_Abdel-Azim"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Hussein_Yasser"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Alaa_Ali"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Abou_Kone"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Mohamed_Ashour_El-Adham"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Omar_Gaber"
+        ]
+    ]
+}

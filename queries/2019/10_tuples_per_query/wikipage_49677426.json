@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oleg_Belyakov",
+            "http://dbpedia.org/resource/Navbahor_Namangan"
+        ],
+        [
+            "http://dbpedia.org/resource/Pavel_Bugalo",
+            "http://dbpedia.org/resource/FC_Ordabasy"
+        ],
+        [
+            "http://dbpedia.org/resource/Bakhtiyor_Ashurmatov",
+            "http://dbpedia.org/resource/PFC_Krylia_Sovetov_Samara"
+        ],
+        [
+            "http://dbpedia.org/resource/Sakhob_Juraev",
+            "http://dbpedia.org/resource/PFC_Lokomotiv_Tashkent"
+        ],
+        [
+            "http://dbpedia.org/resource/Aleksandr_Khvostunov",
+            "http://dbpedia.org/resource/Navbahor_Namangan"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_Karpenko",
+            "http://dbpedia.org/resource/FC_Kairat"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergey_Lushan",
+            "http://dbpedia.org/resource/FC_Yunit_Samara"
+        ],
+        [
+            "http://dbpedia.org/resource/Shavkat_Salomov",
+            "http://dbpedia.org/resource/FK_Buxoro"
+        ],
+        [
+            "http://dbpedia.org/resource/Timur_Yafarov",
+            "http://dbpedia.org/resource/PFC_Lokomotiv_Tashkent"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_Agbo",
+            "http://dbpedia.org/resource/Navbahor_Namangan"
+        ]
+    ]
+}

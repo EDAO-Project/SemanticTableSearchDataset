@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Furious_7",
+            "http://dbpedia.org/resource/Universal_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/Avengers:_Age_of_Ultron",
+            "http://dbpedia.org/resource/Walt_Disney_Studios_Motion_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/Jurassic_World",
+            "http://dbpedia.org/resource/Universal_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens",
+            "http://dbpedia.org/resource/Walt_Disney_Studios_Motion_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/Mission:_Impossible_-_Rogue_Nation",
+            "http://dbpedia.org/resource/Paramount_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/Insidious:_Chapter_3",
+            "http://dbpedia.org/resource/Sony_Pictures_Releasing"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingsman:_The_Secret_Service",
+            "http://dbpedia.org/resource/20th_Century_Fox"
+        ],
+        [
+            "http://dbpedia.org/resource/Terminator_Genisys",
+            "http://dbpedia.org/resource/Paramount_Pictures"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Hunger_Games:_Mockingjay_-_Part_2",
+            "http://dbpedia.org/resource/Lionsgate"
+        ],
+        [
+            "http://dbpedia.org/resource/Maze_Runner:_The_Scorch_Trials",
+            "http://dbpedia.org/resource/20th_Century_Fox"
+        ]
+    ]
+}

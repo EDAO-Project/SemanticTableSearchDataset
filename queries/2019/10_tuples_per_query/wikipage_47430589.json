@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bryan_Herta",
+            "http://dbpedia.org/resource/Forsythe_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Tracy",
+            "http://dbpedia.org/resource/Andretti_Autosport"
+        ],
+        [
+            "http://dbpedia.org/resource/Cristiano_da_Matta",
+            "http://dbpedia.org/resource/Newman-Haas_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Kanaan",
+            "http://dbpedia.org/resource/Mo_Nunn_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Vasser",
+            "http://dbpedia.org/resource/Patrick_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Dario_Franchitti",
+            "http://dbpedia.org/resource/Andretti_Autosport"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Andretti",
+            "http://dbpedia.org/resource/Andretti_Autosport"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Papis",
+            "http://dbpedia.org/resource/Team_Rahal"
+        ],
+        [
+            "http://dbpedia.org/resource/Gil_de_Ferran",
+            "http://dbpedia.org/resource/Team_Penske"
+        ],
+        [
+            "http://dbpedia.org/resource/Roberto_Moreno",
+            "http://dbpedia.org/resource/Patrick_Racing"
+        ]
+    ]
+}

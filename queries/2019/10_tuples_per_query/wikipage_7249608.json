@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Circuit_de_Nevers_Magny-Cours",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ],
+        [
+            "http://dbpedia.org/resource/Circuit_de_Nevers_Magny-Cours",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ],
+        [
+            "http://dbpedia.org/resource/Silverstone_Circuit",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ],
+        [
+            "http://dbpedia.org/resource/Silverstone_Circuit",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ],
+        [
+            "http://dbpedia.org/resource/Brno_Circuit",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ],
+        [
+            "http://dbpedia.org/resource/Brno_Circuit",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ],
+        [
+            "http://dbpedia.org/resource/Circuito_Permanente_Del_Jarama",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ],
+        [
+            "http://dbpedia.org/resource/Circuito_Permanente_Del_Jarama",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ],
+        [
+            "http://dbpedia.org/resource/Scandinavian_Raceway",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ],
+        [
+            "http://dbpedia.org/resource/Scandinavian_Raceway",
+            "http://dbpedia.org/resource/2002_FIA_GT_Estoril_500km"
+        ]
+    ]
+}

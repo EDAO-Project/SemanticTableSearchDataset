@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Donald_W._Stewart",
+            "http://dbpedia.org/resource/1978_United_States_Senate_special_election_in_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Arizona",
+            "http://dbpedia.org/resource/Barry_Goldwater"
+        ],
+        [
+            "http://dbpedia.org/resource/Dale_Bumpers",
+            "http://dbpedia.org/resource/1974_United_States_Senate_election_in_Vermont"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Hart",
+            "http://dbpedia.org/resource/1974_United_States_Senate_election_in_Vermont"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Culver",
+            "http://dbpedia.org/resource/1974_United_States_Senate_election_in_Vermont"
+        ],
+        [
+            "http://dbpedia.org/resource/Wendell_H._Ford",
+            "http://dbpedia.org/resource/1974_United_States_Senate_election_in_Vermont"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Laxalt",
+            "http://dbpedia.org/resource/1974_United_States_Senate_election_in_Vermont"
+        ],
+        [
+            "http://dbpedia.org/resource/John_A._Durkin",
+            "http://dbpedia.org/resource/1975_United_States_Senate_special_election_in_New_Hampshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Burren_Morgan",
+            "http://dbpedia.org/resource/1974_United_States_Senate_election_in_Vermont"
+        ],
+        [
+            "http://dbpedia.org/resource/Jake_Garn",
+            "http://dbpedia.org/resource/1974_United_States_Senate_election_in_Vermont"
+        ]
+    ]
+}

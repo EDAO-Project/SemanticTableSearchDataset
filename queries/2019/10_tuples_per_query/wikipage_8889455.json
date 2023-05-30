@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gotham_Awards",
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Award_for_Breakthrough_Director"
+        ],
+        [
+            "http://dbpedia.org/resource/Alliance_of_Women_Film_Journalists",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_Documentary"
+        ],
+        [
+            "http://dbpedia.org/resource/21st_European_Film_Awards",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_Documentary"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2008",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_Documentary"
+        ],
+        [
+            "http://dbpedia.org/resource/81st_Academy_Awards",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_Documentary"
+        ],
+        [
+            "http://dbpedia.org/resource/68th_British_Academy_Film_Awards",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_British_Film"
+        ],
+        [
+            "http://dbpedia.org/resource/Cinema_Eye_Honors",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_Direction"
+        ],
+        [
+            "http://dbpedia.org/resource/24th_Independent_Spirit_Awards",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_Documentary"
+        ],
+        [
+            "http://dbpedia.org/resource/Alliance_of_Women_Film_Journalists",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_Documentary"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Society_of_Film_Critics_Awards_2011",
+            "http://dbpedia.org/resource/BAFTA_Award_for_Best_Documentary"
+        ]
+    ]
+}

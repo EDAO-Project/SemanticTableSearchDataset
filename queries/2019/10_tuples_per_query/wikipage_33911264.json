@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sahaya",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_Magtanggol",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Tsuperhero",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Ika-6_na_Utos",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Alamat",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Imbestigador",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Dugong_Buhay",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Little_Champ",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Aso_ni_San_Roque",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Ikaw_Ay_Pag-Ibig",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ]
+    ]
+}

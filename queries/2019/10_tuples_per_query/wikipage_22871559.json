@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cruise_1323",
+            "http://dbpedia.org/resource/Australian_Radio_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Mix_102.3",
+            "http://dbpedia.org/resource/Australian_Radio_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Chemist_Warehouse_Remix",
+            "http://dbpedia.org/resource/Australian_Radio_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/5AA",
+            "http://dbpedia.org/resource/NOVA_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Nova_91.9",
+            "http://dbpedia.org/resource/NOVA_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Coles_Supermarkets",
+            "http://dbpedia.org/resource/NOVA_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/5MMM",
+            "http://dbpedia.org/resource/Southern_Cross_Austereo"
+        ],
+        [
+            "http://dbpedia.org/resource/HIT_107",
+            "http://dbpedia.org/resource/Southern_Cross_Austereo"
+        ],
+        [
+            "http://dbpedia.org/resource/5RPH",
+            "http://dbpedia.org/resource/Community_radio"
+        ],
+        [
+            "http://dbpedia.org/resource/5EBI",
+            "http://dbpedia.org/resource/Community_radio"
+        ]
+    ]
+}

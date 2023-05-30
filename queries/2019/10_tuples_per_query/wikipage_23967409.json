@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darren_Tilley",
+            "http://dbpedia.org/resource/Rochester_Rhinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Amos_Magee",
+            "http://dbpedia.org/resource/Minnesota_Thunder"
+        ],
+        [
+            "http://dbpedia.org/resource/Kirk_Wilson",
+            "http://dbpedia.org/resource/El_Paso_Patriots"
+        ],
+        [
+            "http://dbpedia.org/resource/Gary_Glasgow",
+            "http://dbpedia.org/resource/New_Orleans_Storm"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Robles",
+            "http://dbpedia.org/resource/San_Diego_Flash"
+        ],
+        [
+            "http://dbpedia.org/resource/Yari_Allnutt",
+            "http://dbpedia.org/resource/Rochester_Rhinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_Szczepanski",
+            "http://dbpedia.org/resource/Milwaukee_Rampage"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Cairns",
+            "http://dbpedia.org/resource/Cincinnati_Riverhawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Luis_Labastida",
+            "http://dbpedia.org/resource/Albuquerque_Geckos"
+        ],
+        [
+            "http://dbpedia.org/resource/Martin_Reynders",
+            "http://dbpedia.org/resource/Nashville_Metros"
+        ]
+    ]
+}

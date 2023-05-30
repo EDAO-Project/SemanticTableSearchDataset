@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BBC_London",
+            "http://dbpedia.org/resource/BBC_London_News"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_East_Midlands",
+            "http://dbpedia.org/resource/BBC_East_Midlands_Today"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_North_West",
+            "http://dbpedia.org/resource/BBC_North_West_Tonight"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_One_Northern_Ireland",
+            "http://dbpedia.org/resource/BBC_Newsline"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_South_East",
+            "http://dbpedia.org/resource/South_East_Today"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_One_Scotland",
+            "http://dbpedia.org/resource/Reporting_Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_West_Midlands",
+            "http://dbpedia.org/resource/Midlands_Today"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_One_Wales",
+            "http://dbpedia.org/resource/Wales_Today"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_West",
+            "http://dbpedia.org/resource/BBC_Points_West"
+        ],
+        [
+            "http://dbpedia.org/resource/BBC_One_Scotland",
+            "http://dbpedia.org/resource/Reporting_Scotland"
+        ]
+    ]
+}

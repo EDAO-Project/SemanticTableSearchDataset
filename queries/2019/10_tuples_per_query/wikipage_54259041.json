@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pepe_Reina",
+            "http://dbpedia.org/resource/Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Maggio",
+            "http://dbpedia.org/resource/Sampdoria"
+        ],
+        [
+            "http://dbpedia.org/resource/Elseid_Hysaj",
+            "http://dbpedia.org/resource/Empoli"
+        ],
+        [
+            "http://dbpedia.org/resource/Kalidou_Koulibaly",
+            "http://dbpedia.org/resource/Genk"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorenzo_Tonelli",
+            "http://dbpedia.org/resource/Empoli"
+        ],
+        [
+            "http://dbpedia.org/resource/Marko_Rog",
+            "http://dbpedia.org/resource/Dinamo_Zagreb"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Ounas",
+            "http://dbpedia.org/resource/Bordeaux"
+        ],
+        [
+            "http://dbpedia.org/resource/Amadou_Diawara",
+            "http://dbpedia.org/resource/Bologna"
+        ],
+        [
+            "http://dbpedia.org/resource/Dries_Mertens",
+            "http://dbpedia.org/resource/PSV_Eindhoven"
+        ],
+        [
+            "http://dbpedia.org/resource/Emanuele_Giaccherini",
+            "http://dbpedia.org/resource/Sunderland"
+        ]
+    ]
+}

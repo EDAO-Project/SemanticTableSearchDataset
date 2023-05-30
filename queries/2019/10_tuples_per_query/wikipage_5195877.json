@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Swart",
+            "http://dbpedia.org/resource/Democratic-Republican_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Uri_Tracy",
+            "http://dbpedia.org/resource/Democratic-Republican_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Boyd",
+            "http://dbpedia.org/resource/Federalist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/John_B._Yates",
+            "http://dbpedia.org/resource/Democratic-Republican_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Harmanus_Peek",
+            "http://dbpedia.org/resource/Democratic-Republican_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Gebhard",
+            "http://dbpedia.org/resource/Federalist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/William_G._Angel",
+            "http://dbpedia.org/resource/Jacksonian_democracy"
+        ],
+        [
+            "http://dbpedia.org/resource/William_G._Angel",
+            "http://dbpedia.org/resource/Jacksonian_democracy"
+        ],
+        [
+            "http://dbpedia.org/resource/Reuben_Whallon",
+            "http://dbpedia.org/resource/Jacksonian_democracy"
+        ],
+        [
+            "http://dbpedia.org/resource/Dudley_Farlin",
+            "http://dbpedia.org/resource/Jacksonian_democracy"
+        ]
+    ]
+}

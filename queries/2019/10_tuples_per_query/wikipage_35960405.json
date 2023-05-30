@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hajduk_Split",
+            "http://dbpedia.org/resource/Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Red_Star_Belgrade",
+            "http://dbpedia.org/resource/Rijeka"
+        ],
+        [
+            "http://dbpedia.org/resource/Red_Star_Belgrade",
+            "http://dbpedia.org/resource/Rijeka"
+        ],
+        [
+            "http://dbpedia.org/resource/Hajduk_Split",
+            "http://dbpedia.org/resource/Rijeka"
+        ],
+        [
+            "http://dbpedia.org/resource/Rijeka",
+            "http://dbpedia.org/resource/Dinamo_Zagreb"
+        ],
+        [
+            "http://dbpedia.org/resource/Dinamo_Zagreb",
+            "http://dbpedia.org/resource/Dukla_Prague"
+        ],
+        [
+            "http://dbpedia.org/resource/Rijeka",
+            "http://dbpedia.org/resource/Dinamo_Zagreb"
+        ],
+        [
+            "http://dbpedia.org/resource/Leeds_United",
+            "http://dbpedia.org/resource/Red_Star_Belgrade"
+        ],
+        [
+            "http://dbpedia.org/resource/Hajduk_Split",
+            "http://dbpedia.org/resource/Dinamo_Zagreb"
+        ],
+        [
+            "http://dbpedia.org/resource/Dinamo_Zagreb",
+            "http://dbpedia.org/resource/Hajduk_Split"
+        ]
+    ]
+}

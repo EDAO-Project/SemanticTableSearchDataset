@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Damascus_University",
+            "http://dbpedia.org/resource/Damascus"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Aleppo",
+            "http://dbpedia.org/resource/Aleppo"
+        ],
+        [
+            "http://dbpedia.org/resource/Tishreen_University",
+            "http://dbpedia.org/resource/Latakia"
+        ],
+        [
+            "http://dbpedia.org/resource/Higher_Institute_for_Dramatic_Arts",
+            "http://dbpedia.org/resource/Damascus"
+        ],
+        [
+            "http://dbpedia.org/resource/Al-Baath_University",
+            "http://dbpedia.org/resource/Homs"
+        ],
+        [
+            "http://dbpedia.org/resource/Higher_Institute_for_Applied_Sciences_and_Technology",
+            "http://dbpedia.org/resource/Damascus"
+        ],
+        [
+            "http://dbpedia.org/resource/Syrian_Virtual_University",
+            "http://dbpedia.org/resource/Damascus"
+        ],
+        [
+            "http://dbpedia.org/resource/National_Institute_of_Administration",
+            "http://dbpedia.org/resource/Damascus"
+        ],
+        [
+            "http://dbpedia.org/resource/Al-Furat_University",
+            "http://dbpedia.org/resource/Deir_ez-Zor"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Hama",
+            "http://dbpedia.org/resource/Hama"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abruzzo",
+            "http://dbpedia.org/resource/2014_Sardinian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Apulia",
+            "http://dbpedia.org/resource/2015_Venetian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Calabria",
+            "http://dbpedia.org/resource/2014_Sardinian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Campania",
+            "http://dbpedia.org/resource/2015_Venetian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Emilia-Romagna",
+            "http://dbpedia.org/resource/2014_Sardinian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Liguria",
+            "http://dbpedia.org/resource/2015_Venetian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Lombardy",
+            "http://dbpedia.org/resource/2018_Lombard_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Marche",
+            "http://dbpedia.org/resource/2015_Venetian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Piedmont",
+            "http://dbpedia.org/resource/2014_Sardinian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Sardinia",
+            "http://dbpedia.org/resource/2014_Sardinian_regional_election"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pierluigi_Gollini",
+            "http://dbpedia.org/resource/Aston_Villa"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Masiello",
+            "http://dbpedia.org/resource/Bari"
+        ],
+        [
+            "http://dbpedia.org/resource/Robin_Gosens",
+            "http://dbpedia.org/resource/Heracles_Almelo"
+        ],
+        [
+            "http://dbpedia.org/resource/Guilherme_Arana",
+            "http://dbpedia.org/resource/Sevilla"
+        ],
+        [
+            "http://dbpedia.org/resource/Timothy_Castagne",
+            "http://dbpedia.org/resource/Genk"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_Hateboer",
+            "http://dbpedia.org/resource/Groningen"
+        ],
+        [
+            "http://dbpedia.org/resource/Remo_Freuler",
+            "http://dbpedia.org/resource/Luzern"
+        ],
+        [
+            "http://dbpedia.org/resource/Marten_de_Roon",
+            "http://dbpedia.org/resource/Middlesbrough"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruslan_Malinovskyi",
+            "http://dbpedia.org/resource/Genk"
+        ],
+        [
+            "http://dbpedia.org/resource/Matteo_Pessina",
+            "http://dbpedia.org/resource/Milan"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abram_Trigg",
+            "http://dbpedia.org/resource/1797_United_States_House_of_Representatives_elections_in_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/John_J._Trigg",
+            "http://dbpedia.org/resource/1797_United_States_House_of_Representatives_elections_in_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Clay",
+            "http://dbpedia.org/resource/1797_United_States_House_of_Representatives_elections_in_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Randolph_of_Roanoke",
+            "http://dbpedia.org/resource/1799_United_States_House_of_Representatives_elections_in_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_Goode",
+            "http://dbpedia.org/resource/1799_United_States_House_of_Representatives_elections_in_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Edwin_Gray",
+            "http://dbpedia.org/resource/1799_United_States_House_of_Representatives_elections_in_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Josiah_Parker",
+            "http://dbpedia.org/resource/1789_United_States_House_of_Representatives_elections_in_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_J._Cabell",
+            "http://dbpedia.org/resource/1795_United_States_House_of_Representatives_elections_in_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_New",
+            "http://dbpedia.org/resource/1793_United_States_House_of_Representatives_elections_in_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Leven_Powell",
+            "http://dbpedia.org/resource/1799_United_States_House_of_Representatives_elections_in_Virginia"
+        ]
+    ]
+}

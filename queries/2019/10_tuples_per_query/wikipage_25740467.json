@@ -1,0 +1,47 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ring,_County_Waterford",
+            "http://dbpedia.org/resource/Gaoth_Dobhair_GAA",
+            "http://dbpedia.org/resource/Ring,_County_Waterford"
+        ],
+        [
+            "http://dbpedia.org/resource/C.L.G._Chloich_Cheann_Fhaola",
+            "http://dbpedia.org/resource/C.L.G._Chloich_Cheann_Fhaola",
+            "http://dbpedia.org/resource/Moycullen_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballingeary",
+            "http://dbpedia.org/resource/Gaoth_Dobhair_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Kilnamartyra",
+            "http://dbpedia.org/resource/Gaoth_Dobhair_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballyvourney",
+            "http://dbpedia.org/resource/Carraroe"
+        ],
+        [
+            "http://dbpedia.org/resource/Lettermore",
+            "http://dbpedia.org/resource/Gaoth_Dobhair_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Ring,_County_Waterford",
+            "http://dbpedia.org/resource/An_Ghaeltacht_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Gaoth_Dobhair_GAA",
+            "http://dbpedia.org/resource/Gaoth_Dobhair_GAA",
+            "http://dbpedia.org/resource/Carraroe"
+        ],
+        [
+            "http://dbpedia.org/resource/C.L.G._Chloich_Cheann_Fhaola",
+            "http://dbpedia.org/resource/Carraroe"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballingeary",
+            "http://dbpedia.org/resource/Moycullen_GAA"
+        ]
+    ]
+}

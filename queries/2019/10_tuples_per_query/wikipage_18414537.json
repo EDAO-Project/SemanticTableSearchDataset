@@ -1,0 +1,46 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Gethin",
+            "http://dbpedia.org/resource/BRM",
+            "http://dbpedia.org/resource/BRM"
+        ],
+        [
+            "http://dbpedia.org/resource/Emerson_Fittipaldi",
+            "http://dbpedia.org/resource/Team_Lotus"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackie_Stewart",
+            "http://dbpedia.org/resource/Tyrrell_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Jo_Siffert",
+            "http://dbpedia.org/resource/BRM",
+            "http://dbpedia.org/resource/BRM"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Schenken",
+            "http://dbpedia.org/resource/Brabham"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Surtees",
+            "http://dbpedia.org/resource/Surtees"
+        ],
+        [
+            "http://dbpedia.org/resource/Graham_Hill",
+            "http://dbpedia.org/resource/Brabham"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlos_Reutemann",
+            "http://dbpedia.org/resource/Brabham"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronnie_Peterson",
+            "http://dbpedia.org/resource/March_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Hailwood",
+            "http://dbpedia.org/resource/Surtees"
+        ]
+    ]
+}

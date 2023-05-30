@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DSL_Dodgers",
+            "http://dbpedia.org/resource/DSL_Athletics"
+        ],
+        [
+            "http://dbpedia.org/resource/DSL_Mets",
+            "http://dbpedia.org/resource/DSL_Mariners"
+        ],
+        [
+            "http://dbpedia.org/resource/DSL_Dodgers",
+            "http://dbpedia.org/resource/DSL_Brewers"
+        ],
+        [
+            "http://dbpedia.org/resource/DSL_Brewers",
+            "http://dbpedia.org/resource/DSL_Phillies"
+        ],
+        [
+            "http://dbpedia.org/resource/DSL_Indians",
+            "http://dbpedia.org/resource/DSL_Blue_Jays"
+        ],
+        [
+            "http://dbpedia.org/resource/DSL_Pirates",
+            "http://dbpedia.org/resource/DSL_Diamondbacks"
+        ],
+        [
+            "http://dbpedia.org/resource/DSL_Indians",
+            "http://dbpedia.org/resource/DSL_Yankees"
+        ],
+        [
+            "http://dbpedia.org/resource/DSL_Giants",
+            "http://dbpedia.org/resource/DSL_Twins"
+        ],
+        [
+            "http://dbpedia.org/resource/DSL_Giants",
+            "http://dbpedia.org/resource/DSL_Reds"
+        ],
+        [
+            "http://dbpedia.org/resource/DSL_Angels",
+            "http://dbpedia.org/resource/DSL_Orioles"
+        ]
+    ]
+}

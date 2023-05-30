@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adriano_Panatta",
+            "http://dbpedia.org/resource/Paolo_Bertolucci"
+        ],
+        [
+            "http://dbpedia.org/resource/Paolo_Bertolucci",
+            "http://dbpedia.org/resource/Georges_Goven"
+        ],
+        [
+            "http://dbpedia.org/resource/Paolo_Bertolucci",
+            "http://dbpedia.org/resource/Patrick_Proisy"
+        ],
+        [
+            "http://dbpedia.org/resource/Paolo_Bertolucci",
+            "http://dbpedia.org/resource/John_Feaver"
+        ],
+        [
+            "http://dbpedia.org/resource/Vitas_Gerulaitis",
+            "http://dbpedia.org/resource/Stefan_Simonsson"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Arias",
+            "http://dbpedia.org/resource/Francesco_Cancellotti"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergio_Casal",
+            "http://dbpedia.org/resource/Jimmy_Arias"
+        ],
+        [
+            "http://dbpedia.org/resource/Massimiliano_Narducci",
+            "http://dbpedia.org/resource/Claudio_Panatta"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Muster",
+            "http://dbpedia.org/resource/Horst_Skoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Muster",
+            "http://dbpedia.org/resource/Renzo_Furlan"
+        ]
+    ]
+}

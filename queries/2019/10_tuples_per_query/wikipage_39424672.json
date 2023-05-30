@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/GCK_Lions",
+            "http://dbpedia.org/resource/National_League_B"
+        ],
+        [
+            "http://dbpedia.org/resource/GCK_Lions",
+            "http://dbpedia.org/resource/National_League_B"
+        ],
+        [
+            "http://dbpedia.org/resource/GCK_Lions",
+            "http://dbpedia.org/resource/National_League_B"
+        ],
+        [
+            "http://dbpedia.org/resource/SCL_Tigers",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/SCL_Tigers",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/SCL_Tigers",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/SCL_Tigers",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Kloten_Flyers",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Kloten_Flyers",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Kloten_Flyers",
+            "http://dbpedia.org/resource/National_League_A"
+        ]
+    ]
+}

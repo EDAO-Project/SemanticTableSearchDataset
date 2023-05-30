@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sagle,_Idaho",
+            "http://dbpedia.org/resource/Bonner_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Anthony,_Idaho",
+            "http://dbpedia.org/resource/Fremont_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Charles,_Idaho",
+            "http://dbpedia.org/resource/Bear_Lake_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Joe,_Idaho",
+            "http://dbpedia.org/resource/Benewah_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Maries,_Idaho",
+            "http://dbpedia.org/resource/Benewah_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Salmon,_Idaho",
+            "http://dbpedia.org/resource/Lemhi_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Samaria,_Idaho",
+            "http://dbpedia.org/resource/Oneida_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandpoint,_Idaho",
+            "http://dbpedia.org/resource/Bonner_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Santa,_Idaho",
+            "http://dbpedia.org/resource/Benewah_County,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Sawtooth_City,_Idaho",
+            "http://dbpedia.org/resource/Blaine_County,_Idaho"
+        ]
+    ]
+}

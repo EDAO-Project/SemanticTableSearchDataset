@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Liam_Cooper",
+            "http://dbpedia.org/resource/Hull_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Damien_Johnson",
+            "http://dbpedia.org/resource/Plymouth_Argyle"
+        ],
+        [
+            "http://dbpedia.org/resource/Jon_Parkin",
+            "http://dbpedia.org/resource/Cardiff_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Robbie_Simpson",
+            "http://dbpedia.org/resource/Oldham_Athletic"
+        ],
+        [
+            "http://dbpedia.org/resource/Liam_Ridehalgh",
+            "http://dbpedia.org/resource/Swindon_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_McCombe",
+            "http://dbpedia.org/resource/Preston_North_End"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Atkinson",
+            "http://dbpedia.org/resource/Darlington"
+        ],
+        [
+            "http://dbpedia.org/resource/Nathan_Clarke",
+            "http://dbpedia.org/resource/Oldham_Athletic"
+        ],
+        [
+            "http://dbpedia.org/resource/Aidan_Chippendale",
+            "http://dbpedia.org/resource/Inverness_Caledonian_Thistle"
+        ],
+        [
+            "http://dbpedia.org/resource/Diego_Arismendi",
+            "http://dbpedia.org/resource/Stoke_City"
+        ]
+    ]
+}

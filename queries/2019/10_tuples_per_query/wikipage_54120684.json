@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1964_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/50_cc"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Grand_Prix_motorcycle_racing"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Grand_Prix_motorcycle_racing"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Grand_Prix_motorcycle_racing"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Grand_Prix_motorcycle_racing"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Grand_Prix_motorcycle_racing"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Grand_Prix_motorcycle_racing"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Grand_Prix_motorcycle_racing"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Grand_Prix_motorcycle_racing"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Grand_Prix_motorcycle_racing_season",
+            "http://dbpedia.org/resource/Grand_Prix_motorcycle_racing"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/Ryan_Donaldson"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/David_Goodwillie"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_back",
+            "http://dbpedia.org/resource/Karleigh_Osborne"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/Jordan_Slew"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_midfielder",
+            "http://dbpedia.org/resource/AFC_Wimbledon"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_back",
+            "http://dbpedia.org/resource/Free_agent"
+        ],
+        [
+            "http://dbpedia.org/resource/Defensive_midfielder",
+            "http://dbpedia.org/resource/Oscar_Threlkeld"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_back",
+            "http://dbpedia.org/resource/Sonny_Bradley"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_midfielder",
+            "http://dbpedia.org/resource/David_Ijaha"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/Nathan_Blissett"
+        ]
+    ]
+}

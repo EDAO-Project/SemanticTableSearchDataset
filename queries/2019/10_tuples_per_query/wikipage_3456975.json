@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kaiserslautern",
+            "http://dbpedia.org/resource/Rhineland-Palatinate"
+        ],
+        [
+            "http://dbpedia.org/resource/Iserlohn",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia"
+        ],
+        [
+            "http://dbpedia.org/resource/Marl,_North_Rhine-Westphalia",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia"
+        ],
+        [
+            "http://dbpedia.org/resource/Ratingen",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia"
+        ],
+        [
+            "http://dbpedia.org/resource/Schwerin",
+            "http://dbpedia.org/resource/Mecklenburg-Vorpommern"
+        ],
+        [
+            "http://dbpedia.org/resource/Velbert",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia"
+        ],
+        [
+            "http://dbpedia.org/resource/Hanau",
+            "http://dbpedia.org/resource/Hesse"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilhelmshaven",
+            "http://dbpedia.org/resource/Lower_Saxony"
+        ],
+        [
+            "http://dbpedia.org/resource/Flensburg",
+            "http://dbpedia.org/resource/Schleswig-Holstein"
+        ],
+        [
+            "http://dbpedia.org/resource/Minden",
+            "http://dbpedia.org/resource/North_Rhine-Westphalia"
+        ]
+    ]
+}

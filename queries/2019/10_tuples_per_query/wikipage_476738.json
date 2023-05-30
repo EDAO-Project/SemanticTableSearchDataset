@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/35th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Kirk_Franklin"
+        ],
+        [
+            "http://dbpedia.org/resource/35th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Mary_Mary"
+        ],
+        [
+            "http://dbpedia.org/resource/36th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Donnie_McClurkin"
+        ],
+        [
+            "http://dbpedia.org/resource/36th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Shirley_Caesar"
+        ],
+        [
+            "http://dbpedia.org/resource/36th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Byron_Cage"
+        ],
+        [
+            "http://dbpedia.org/resource/36th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Vickie_Winans"
+        ],
+        [
+            "http://dbpedia.org/resource/38th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Yolanda_Adams"
+        ],
+        [
+            "http://dbpedia.org/resource/38th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Kirk_Franklin"
+        ],
+        [
+            "http://dbpedia.org/resource/38th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Mary_Mary"
+        ],
+        [
+            "http://dbpedia.org/resource/38th_NAACP_Image_Awards",
+            "http://dbpedia.org/resource/Donnie_McClurkin"
+        ]
+    ]
+}

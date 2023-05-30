@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/First_Minister_of_Scotland",
+            "http://dbpedia.org/resource/Scottish_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Communities",
+            "http://dbpedia.org/resource/Scottish_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Communities",
+            "http://dbpedia.org/resource/Scottish_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Communities",
+            "http://dbpedia.org/resource/Scottish_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Education_and_Young_People",
+            "http://dbpedia.org/resource/Scottish_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Education_and_Young_People",
+            "http://dbpedia.org/resource/Scottish_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Environment_and_Rural_Development",
+            "http://dbpedia.org/resource/Scottish_Liberal_Democrats"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Finance_and_Public_Services",
+            "http://dbpedia.org/resource/Scottish_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Finance_and_Public_Services",
+            "http://dbpedia.org/resource/Scottish_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Health_and_Community_Care",
+            "http://dbpedia.org/resource/Scottish_Labour_Party"
+        ]
+    ]
+}

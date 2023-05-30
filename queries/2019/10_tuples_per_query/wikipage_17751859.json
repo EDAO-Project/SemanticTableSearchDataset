@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tranmere_Rovers",
+            "http://dbpedia.org/resource/York_City"
+        ],
+        [
+            "http://dbpedia.org/resource/York_City",
+            "http://dbpedia.org/resource/Tranmere_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Wycombe_Wanderers",
+            "http://dbpedia.org/resource/A.F.C._Bournemouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Northampton_Town",
+            "http://dbpedia.org/resource/Peterborough_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Southend_United",
+            "http://dbpedia.org/resource/Hereford_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Scunthorpe_United",
+            "http://dbpedia.org/resource/Hartlepool_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Blyth_Spartans",
+            "http://dbpedia.org/resource/Burton_Albion"
+        ],
+        [
+            "http://dbpedia.org/resource/Torquay_United",
+            "http://dbpedia.org/resource/Barton_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_United",
+            "http://dbpedia.org/resource/Rotherham_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Sutton_Coldfield_Town",
+            "http://dbpedia.org/resource/Doncaster_Rovers"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eliseo_Salazar",
+            "http://dbpedia.org/resource/A.J._Foyt_Enterprises"
+        ],
+        [
+            "http://dbpedia.org/resource/Robby_Gordon",
+            "http://dbpedia.org/resource/Team_Menard"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Vasser",
+            "http://dbpedia.org/resource/Chip_Ganassi_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Goodyear",
+            "http://dbpedia.org/resource/Panther_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Sharp",
+            "http://dbpedia.org/resource/Kelley_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Dismore",
+            "http://dbpedia.org/resource/Kelley_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Donnie_Beechler",
+            "http://dbpedia.org/resource/Cahill_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Boat",
+            "http://dbpedia.org/resource/A.J._Foyt_Enterprises"
+        ],
+        [
+            "http://dbpedia.org/resource/Raul_Boesel",
+            "http://dbpedia.org/resource/Treadway_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Buzz_Calkins",
+            "http://dbpedia.org/resource/Bradley_Motorsports"
+        ]
+    ]
+}

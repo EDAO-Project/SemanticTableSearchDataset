@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Olean_Oilers",
+            "http://dbpedia.org/resource/Batavia_Clippers"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamestown_Falcons",
+            "http://dbpedia.org/resource/Olean_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Wellsville_Yankees",
+            "http://dbpedia.org/resource/Jamestown_Falcons"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamestown_Falcons",
+            "http://dbpedia.org/resource/Lockport_Cubs"
+        ],
+        [
+            "http://dbpedia.org/resource/Batavia_Clippers",
+            "http://dbpedia.org/resource/Lockport_White_Socks"
+        ],
+        [
+            "http://dbpedia.org/resource/Batavia_Clippers",
+            "http://dbpedia.org/resource/Lockport_Cubs"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamestown_Falcons",
+            "http://dbpedia.org/resource/Olean_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Lockport_Reds",
+            "http://dbpedia.org/resource/Jamestown_Falcons"
+        ],
+        [
+            "http://dbpedia.org/resource/Corning_Red_Sox",
+            "http://dbpedia.org/resource/Jamestown_Falcons"
+        ],
+        [
+            "http://dbpedia.org/resource/Wellsville_Braves",
+            "http://dbpedia.org/resource/Olean_Oilers"
+        ]
+    ]
+}

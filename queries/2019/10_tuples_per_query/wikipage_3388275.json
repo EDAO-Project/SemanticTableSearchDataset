@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/France",
+            "http://dbpedia.org/resource/Nicolas_Lapierre"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Britain",
+            "http://dbpedia.org/resource/Robbie_Kerr"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Alex_Yoong"
+        ],
+        [
+            "http://dbpedia.org/resource/Switzerland",
+            "http://dbpedia.org/resource/Neel_Jani"
+        ],
+        [
+            "http://dbpedia.org/resource/Ireland",
+            "http://dbpedia.org/resource/Ralph_Firman"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Netherlands",
+            "http://dbpedia.org/resource/Jos_Verstappen"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan",
+            "http://dbpedia.org/resource/Hayanari_Shimoda"
+        ],
+        [
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Ananda_Mikola"
+        ],
+        [
+            "http://dbpedia.org/resource/Germany",
+            "http://dbpedia.org/resource/Timo_Scheider"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Mathias_Lauda"
+        ]
+    ]
+}

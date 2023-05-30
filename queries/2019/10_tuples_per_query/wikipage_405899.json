@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ansonia,_Connecticut",
+            "http://dbpedia.org/resource/New_Haven_County,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridgeport,_Connecticut",
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol,_Connecticut",
+            "http://dbpedia.org/resource/Hartford_County,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Danbury,_Connecticut",
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Derby,_Connecticut",
+            "http://dbpedia.org/resource/New_Haven_County,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Meriden,_Connecticut",
+            "http://dbpedia.org/resource/New_Haven_County,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Middletown,_Connecticut",
+            "http://dbpedia.org/resource/Middlesex_County,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Milford,_Connecticut",
+            "http://dbpedia.org/resource/New_Haven_County,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Britain,_Connecticut",
+            "http://dbpedia.org/resource/Hartford_County,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Norwalk,_Connecticut",
+            "http://dbpedia.org/resource/Fairfield_County,_Connecticut"
+        ]
+    ]
+}

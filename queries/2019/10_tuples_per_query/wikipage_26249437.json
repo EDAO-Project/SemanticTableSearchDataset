@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saint-Hubert,_Quebec",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Thornhill,_Ontario",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Midland,_Ontario",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Hull,_Quebec",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Windsor,_Ontario",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Gravenhurst,_Ontario",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint-Pamphile,_Quebec",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Chatham,_Ontario",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Bourget,_Ontario",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajax,_Ontario",
+            "http://dbpedia.org/resource/Canadian_national_sledge_hockey_team"
+        ]
+    ]
+}

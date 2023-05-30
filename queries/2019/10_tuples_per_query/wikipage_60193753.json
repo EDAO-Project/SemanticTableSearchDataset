@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mara_Clara",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Saan_Ka_Man_Naroroon",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Tabing_Ilog",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Sa_Dulo_Ng_Walang_Hanggan",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Krystala",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Walang_Kapalit",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Komiks_Presents:_Tiny_Tony",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Ikaw_Ay_Pag-Ibig",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Angelito:_Batang_Ama",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Huwag_Ka_Lang_Mawawala",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ]
+    ]
+}

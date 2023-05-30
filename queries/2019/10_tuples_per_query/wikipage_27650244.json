@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Goldie",
+            "http://dbpedia.org/resource/Kristina_Rihanoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Daniels",
+            "http://dbpedia.org/resource/Ola_Jordan"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Shilton",
+            "http://dbpedia.org/resource/Erin_Boag"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimi_Mistry",
+            "http://dbpedia.org/resource/Flavia_Cacace"
+        ],
+        [
+            "http://dbpedia.org/resource/Felicity_Kendal",
+            "http://dbpedia.org/resource/Vincent_Simone"
+        ],
+        [
+            "http://dbpedia.org/resource/Patsy_Kensit",
+            "http://dbpedia.org/resource/Robin_Windsor"
+        ],
+        [
+            "http://dbpedia.org/resource/Ann_Widdecombe",
+            "http://dbpedia.org/resource/Anton_du_Beke"
+        ],
+        [
+            "http://dbpedia.org/resource/Gavin_Henson",
+            "http://dbpedia.org/resource/Katya_Virshilas"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Maslen",
+            "http://dbpedia.org/resource/Natalie_Lowe"
+        ],
+        [
+            "http://dbpedia.org/resource/Kara_Tointon",
+            "http://dbpedia.org/resource/Artem_Chigvintsev"
+        ]
+    ]
+}

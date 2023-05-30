@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ruslan_Fomin",
+            "http://dbpedia.org/resource/FC_Mariupol"
+        ],
+        [
+            "http://dbpedia.org/resource/Taison",
+            "http://dbpedia.org/resource/FC_Shakhtar_Donetsk"
+        ],
+        [
+            "http://dbpedia.org/resource/Artem_Hromov",
+            "http://dbpedia.org/resource/FC_Zorya_Luhansk"
+        ],
+        [
+            "http://dbpedia.org/resource/Viktor_Tsyhankov",
+            "http://dbpedia.org/resource/FC_Dynamo_Kyiv"
+        ],
+        [
+            "http://dbpedia.org/resource/Pylyp_Budkivskyi",
+            "http://dbpedia.org/resource/FC_Zorya_Luhansk"
+        ],
+        [
+            "http://dbpedia.org/resource/Oleksandr_Karavayev",
+            "http://dbpedia.org/resource/FC_Dynamo_Kyiv"
+        ],
+        [
+            "http://dbpedia.org/resource/Aleksandre_Kobakhidze",
+            "http://dbpedia.org/resource/SC_Dnipro-1"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuriy_Kolomoyets",
+            "http://dbpedia.org/resource/FC_Vorskla_Poltava"
+        ],
+        [
+            "http://dbpedia.org/resource/Denys_Harmash",
+            "http://dbpedia.org/resource/FC_Dynamo_Kyiv"
+        ],
+        [
+            "http://dbpedia.org/resource/Dmytro_Khomchenovskyi",
+            "http://dbpedia.org/resource/FC_Zorya_Luhansk"
+        ]
+    ]
+}

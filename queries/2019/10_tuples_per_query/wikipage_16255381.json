@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Star_Awards_1998",
+            "http://dbpedia.org/resource/Star_Awards_for_Best_Supporting_Actor"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Awards_1999",
+            "http://dbpedia.org/resource/Star_Awards_for_Best_Supporting_Actor"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Awards_2000",
+            "http://dbpedia.org/resource/Star_Awards_for_Best_Supporting_Actor"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Awards_2006",
+            "http://dbpedia.org/resource/Star_Awards_for_Best_Supporting_Actor"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Awards_2007",
+            "http://dbpedia.org/resource/Star_Awards_for_Best_Actor"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Awards_2009",
+            "http://dbpedia.org/resource/Star_Awards_for_Top_10_Most_Popular_Male_Artistes"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Awards_2010",
+            "http://dbpedia.org/resource/Star_Awards_for_Best_Supporting_Actor"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Awards_2010",
+            "http://dbpedia.org/resource/Star_Awards_for_Top_10_Most_Popular_Male_Artistes"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Awards_2011",
+            "http://dbpedia.org/resource/Star_Awards_for_Top_10_Most_Popular_Male_Artistes"
+        ],
+        [
+            "http://dbpedia.org/resource/Star_Awards_2012",
+            "http://dbpedia.org/resource/Star_Awards_for_Best_Actor"
+        ]
+    ]
+}

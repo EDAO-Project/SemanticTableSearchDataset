@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/Knowsley_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/Odsal_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/Odsal_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/Halton_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/Odsal_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/Odsal_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/JJB_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/Odsal_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/McAlpine_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Super_League_VIII",
+            "http://dbpedia.org/resource/Odsal_Stadium"
+        ]
+    ]
+}

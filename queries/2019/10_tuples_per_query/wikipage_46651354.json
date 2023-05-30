@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Little_Deuce_Coupe",
+            "http://dbpedia.org/resource/The_Four_Freshmen"
+        ],
+        [
+            "http://dbpedia.org/resource/Shut_Down_Volume_2",
+            "http://dbpedia.org/resource/The_Kingsmen"
+        ],
+        [
+            "http://dbpedia.org/resource/Beach_Boys_Concert",
+            "http://dbpedia.org/resource/Jan_and_Dean"
+        ],
+        [
+            "http://dbpedia.org/resource/Beach_Boys_Concert",
+            "http://dbpedia.org/resource/Bobby_Pickett"
+        ],
+        [
+            "http://dbpedia.org/resource/Beach_Boys_Concert",
+            "http://dbpedia.org/resource/The_Rivingtons"
+        ],
+        [
+            "http://dbpedia.org/resource/Beach_Boys_Concert",
+            "http://dbpedia.org/resource/Dion_DiMucci"
+        ],
+        [
+            "http://dbpedia.org/resource/Beach_Boys_Concert",
+            "http://dbpedia.org/resource/The_Four_Freshmen"
+        ],
+        [
+            "http://dbpedia.org/resource/Beach_Boys_Concert",
+            "http://dbpedia.org/resource/Chuck_Berry"
+        ],
+        [
+            "http://dbpedia.org/resource/15_Big_Ones",
+            "http://dbpedia.org/resource/Chuck_Berry"
+        ],
+        [
+            "http://dbpedia.org/resource/15_Big_Ones",
+            "http://dbpedia.org/resource/The_Dixie_Cups"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas_Stars",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas_Stars",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas_Stars",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas_Stars",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Minnesota_Wild",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

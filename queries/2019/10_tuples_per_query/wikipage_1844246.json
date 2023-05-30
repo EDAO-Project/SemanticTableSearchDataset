@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/SM-Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/SM-Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/SM-Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hershey_Bears",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Hershey_Bears",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/HPK",
+            "http://dbpedia.org/resource/SM-Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Davos",
+            "http://dbpedia.org/resource/National_League_A"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1968_Big_League_World_Series",
+            "http://dbpedia.org/resource/Indianapolis,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_Big_League_World_Series",
+            "http://dbpedia.org/resource/Lincolnwood,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Big_League_World_Series",
+            "http://dbpedia.org/resource/Lincolnwood,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Big_League_World_Series",
+            "http://dbpedia.org/resource/Lincolnwood,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_Big_League_World_Series",
+            "http://dbpedia.org/resource/Gary,_Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Big_League_World_Series",
+            "http://dbpedia.org/resource/Lincolnwood,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Big_League_World_Series",
+            "http://dbpedia.org/resource/Lincolnwood,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Big_League_World_Series",
+            "http://dbpedia.org/resource/Grand_Rapids,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Big_League_World_Series",
+            "http://dbpedia.org/resource/Grand_Rapids,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Big_League_World_Series",
+            "http://dbpedia.org/resource/Grand_Rapids,_Michigan"
+        ]
+    ]
+}

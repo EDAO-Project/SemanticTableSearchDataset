@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eisenstadt-Umgebung",
+            "http://dbpedia.org/resource/Eisenstadt"
+        ],
+        [
+            "http://dbpedia.org/resource/Klagenfurt-Land",
+            "http://dbpedia.org/resource/Klagenfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Villach-Land",
+            "http://dbpedia.org/resource/Villach"
+        ],
+        [
+            "http://dbpedia.org/resource/Krems-Land",
+            "http://dbpedia.org/resource/Krems_an_der_Donau"
+        ],
+        [
+            "http://dbpedia.org/resource/Linz-Land",
+            "http://dbpedia.org/resource/Linz"
+        ],
+        [
+            "http://dbpedia.org/resource/Steyr-Land",
+            "http://dbpedia.org/resource/Steyr"
+        ],
+        [
+            "http://dbpedia.org/resource/Urfahr-Umgebung",
+            "http://dbpedia.org/resource/Linz"
+        ],
+        [
+            "http://dbpedia.org/resource/Wels-Land",
+            "http://dbpedia.org/resource/Wels"
+        ],
+        [
+            "http://dbpedia.org/resource/Flachgau",
+            "http://dbpedia.org/resource/Salzburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Graz-Umgebung",
+            "http://dbpedia.org/resource/Graz"
+        ]
+    ]
+}

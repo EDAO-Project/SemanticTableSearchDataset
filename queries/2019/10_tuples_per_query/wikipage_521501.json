@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Agadir",
+            "http://dbpedia.org/resource/Souss-Massa"
+        ],
+        [
+            "http://dbpedia.org/resource/Benslimane_Province",
+            "http://dbpedia.org/resource/Casablanca-Settat"
+        ],
+        [
+            "http://dbpedia.org/resource/Berrechid_Province",
+            "http://dbpedia.org/resource/Casablanca-Settat"
+        ],
+        [
+            "http://dbpedia.org/resource/Chefchaouen_Province",
+            "http://dbpedia.org/resource/Tanger-Tetouan-Al_Hoceima"
+        ],
+        [
+            "http://dbpedia.org/resource/Chichaoua_Province",
+            "http://dbpedia.org/resource/Marrakesh-Safi"
+        ],
+        [
+            "http://dbpedia.org/resource/Essaouira_Province",
+            "http://dbpedia.org/resource/Marrakesh-Safi"
+        ],
+        [
+            "http://dbpedia.org/resource/Fahs-Anjra_Province",
+            "http://dbpedia.org/resource/Tanger-Tetouan-Al_Hoceima"
+        ],
+        [
+            "http://dbpedia.org/resource/Guelmim_Province",
+            "http://dbpedia.org/resource/Guelmim-Oued_Noun"
+        ],
+        [
+            "http://dbpedia.org/resource/Larache_Province",
+            "http://dbpedia.org/resource/Tanger-Tetouan-Al_Hoceima"
+        ],
+        [
+            "http://dbpedia.org/resource/Marrakesh",
+            "http://dbpedia.org/resource/Marrakesh-Safi"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bad_Saarow",
+            "http://dbpedia.org/resource/Ursula_Liebert"
+        ],
+        [
+            "http://dbpedia.org/resource/Schkopau",
+            "http://dbpedia.org/resource/Waltraud_Nowarra"
+        ],
+        [
+            "http://dbpedia.org/resource/Premnitz",
+            "http://dbpedia.org/resource/Waltraud_Nowarra"
+        ],
+        [
+            "http://dbpedia.org/resource/Gera",
+            "http://dbpedia.org/resource/Waltraud_Nowarra"
+        ],
+        [
+            "http://dbpedia.org/resource/Aschersleben",
+            "http://dbpedia.org/resource/Waltraud_Nowarra"
+        ],
+        [
+            "http://dbpedia.org/resource/Magdeburg",
+            "http://dbpedia.org/resource/Gabriele_Just"
+        ],
+        [
+            "http://dbpedia.org/resource/Annaberg-Buchholz",
+            "http://dbpedia.org/resource/Gabriele_Just"
+        ],
+        [
+            "http://dbpedia.org/resource/Weimar",
+            "http://dbpedia.org/resource/Waltraud_Nowarra"
+        ],
+        [
+            "http://dbpedia.org/resource/Schwerin",
+            "http://dbpedia.org/resource/Waltraud_Nowarra"
+        ],
+        [
+            "http://dbpedia.org/resource/Freiberg",
+            "http://dbpedia.org/resource/Christina_Lehmann"
+        ]
+    ]
+}

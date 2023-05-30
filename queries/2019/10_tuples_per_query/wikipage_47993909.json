@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mark_Gorman",
+            "http://dbpedia.org/resource/FC_Astana"
+        ],
+        [
+            "http://dbpedia.org/resource/Aleksandr_Kislitsyn",
+            "http://dbpedia.org/resource/FC_Tobol"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexei_Eremenko",
+            "http://dbpedia.org/resource/FC_Rubin_Kazan"
+        ],
+        [
+            "http://dbpedia.org/resource/Kirill_Shestakov",
+            "http://dbpedia.org/resource/FC_Vostok"
+        ],
+        [
+            "http://dbpedia.org/resource/Anton_Zemlianukhin",
+            "http://dbpedia.org/resource/FC_Aktobe"
+        ],
+        [
+            "http://dbpedia.org/resource/Vladyslav_Nekhtiy",
+            "http://dbpedia.org/resource/FC_Shakhtar_Donetsk"
+        ],
+        [
+            "http://dbpedia.org/resource/Artur_Yedigaryan",
+            "http://dbpedia.org/resource/FC_Hoverla_Uzhhorod"
+        ],
+        [
+            "http://dbpedia.org/resource/Kazbek_Geteriev",
+            "http://dbpedia.org/resource/FC_Spartak_Vladikavkaz"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhambyl_Kukeyev",
+            "http://dbpedia.org/resource/FC_Shakhter_Karagandy"
+        ],
+        [
+            "http://dbpedia.org/resource/Timur_Baizhanov",
+            "http://dbpedia.org/resource/FC_Irtysh_Pavlodar"
+        ]
+    ]
+}

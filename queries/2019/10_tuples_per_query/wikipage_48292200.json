@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barrow_Raiders",
+            "http://dbpedia.org/resource/Craven_Park,_Barrow-in-Furness"
+        ],
+        [
+            "http://dbpedia.org/resource/Coventry_Bears",
+            "http://dbpedia.org/resource/Butts_Park_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Doncaster",
+            "http://dbpedia.org/resource/Keepmoat_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Gloucestershire_All_Golds",
+            "http://dbpedia.org/resource/Prince_of_Wales_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Hemel_Stags",
+            "http://dbpedia.org/resource/Pennine_Way_stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Keighley_Cougars",
+            "http://dbpedia.org/resource/Cougar_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Skolars",
+            "http://dbpedia.org/resource/New_River_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_Thunder",
+            "http://dbpedia.org/resource/Kingston_Park_stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Wales_Crusaders",
+            "http://dbpedia.org/resource/Racecourse_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Oxford_Rugby_League",
+            "http://dbpedia.org/resource/Iffley_Road_rugby_football_ground"
+        ]
+    ]
+}

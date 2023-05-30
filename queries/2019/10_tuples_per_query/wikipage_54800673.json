@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/St._Louis"
+        ],
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/St._Louis"
+        ],
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/Killeen,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/Harrisburg,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/St._Louis"
+        ],
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/Granite_City,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/Charlotte,_NC"
+        ],
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/Cleveland,_OH"
+        ],
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/Harrisburg,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/USA_Powerlifting",
+            "http://dbpedia.org/resource/Charlottesville,_VA"
+        ]
+    ]
+}

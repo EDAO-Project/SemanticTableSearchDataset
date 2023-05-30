@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rebellion_Racing",
+            "http://dbpedia.org/resource/Lola_B12/60"
+        ],
+        [
+            "http://dbpedia.org/resource/OAK_Racing",
+            "http://dbpedia.org/resource/Morgan_LMP2"
+        ],
+        [
+            "http://dbpedia.org/resource/OAK_Racing",
+            "http://dbpedia.org/resource/Morgan_LMP2"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458_Italia_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Martin_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_Vantage_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/OAK_Racing",
+            "http://dbpedia.org/resource/Morgan_LMP2"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Martin_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_Vantage_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/Proton_Competition",
+            "http://dbpedia.org/resource/Porsche_911_GT3"
+        ],
+        [
+            "http://dbpedia.org/resource/IMSA_Performance_Matmut",
+            "http://dbpedia.org/resource/Porsche_911_GT3"
+        ],
+        [
+            "http://dbpedia.org/resource/Krohn_Racing",
+            "http://dbpedia.org/resource/Ferrari_458_Italia_GT2"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_European_Karate_Championships",
+            "http://dbpedia.org/resource/Paris"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_European_Karate_Championships",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_European_Karate_Championships",
+            "http://dbpedia.org/resource/Paris"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_European_Karate_Championships",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_European_Karate_Championships",
+            "http://dbpedia.org/resource/Hamburg"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_European_Karate_Championships",
+            "http://dbpedia.org/resource/Paris"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_European_Karate_Championships",
+            "http://dbpedia.org/resource/Brussels"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_European_Karate_Championships",
+            "http://dbpedia.org/resource/Valencia,_Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_European_Karate_Championships",
+            "http://dbpedia.org/resource/London"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_European_Karate_Championships",
+            "http://dbpedia.org/resource/Ostend"
+        ]
+    ]
+}

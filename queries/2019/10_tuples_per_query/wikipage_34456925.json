@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pinoy_Pop_Superstar",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Budoy",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Wansapanataym",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Wansapanataym",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Maalaala_Mo_Kaya",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Huwag_Ka_Lang_Mawawala",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Umagang_Kay_Ganda",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Ryzza_Mae_Show",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Dream_Dad",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Ryzza_Mae_Show",
+            "http://dbpedia.org/resource/GMA_Network"
+        ]
+    ]
+}

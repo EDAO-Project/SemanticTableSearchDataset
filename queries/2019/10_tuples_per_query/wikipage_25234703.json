@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberdare",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ],
+        [
+            "http://dbpedia.org/resource/Rhymney",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ],
+        [
+            "http://dbpedia.org/resource/Barry,_Vale_of_Glamorgan",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ],
+        [
+            "http://dbpedia.org/resource/Ebbw_Vale",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ],
+        [
+            "http://dbpedia.org/resource/Maesteg",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ],
+        [
+            "http://dbpedia.org/resource/Merthyr_Tydfil",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ],
+        [
+            "http://dbpedia.org/resource/Penarth",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ],
+        [
+            "http://dbpedia.org/resource/Pontypridd",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ],
+        [
+            "http://dbpedia.org/resource/Radyr",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ],
+        [
+            "http://dbpedia.org/resource/Tredegar",
+            "http://dbpedia.org/resource/Transport_for_Wales_Rail"
+        ]
+    ]
+}

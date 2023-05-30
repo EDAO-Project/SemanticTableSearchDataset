@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kitchener_Rangers",
+            "http://dbpedia.org/resource/Ontario_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Kitchener_Rangers",
+            "http://dbpedia.org/resource/Ontario_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Kitchener_Rangers",
+            "http://dbpedia.org/resource/Ontario_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Kitchener_Rangers",
+            "http://dbpedia.org/resource/Ontario_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochester_Americans",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochester_Americans",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochester_Americans",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Sabres",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

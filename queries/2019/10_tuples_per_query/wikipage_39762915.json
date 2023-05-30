@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Enrico_Demonte",
+            "http://dbpedia.org/resource/La_Chaux-de-Fonds"
+        ],
+        [
+            "http://dbpedia.org/resource/Matteo_Galvan",
+            "http://dbpedia.org/resource/Mersin"
+        ],
+        [
+            "http://dbpedia.org/resource/Giordano_Benedetti",
+            "http://dbpedia.org/resource/Rome"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniele_Meucci",
+            "http://dbpedia.org/resource/Palo_Alto"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_Nasti",
+            "http://dbpedia.org/resource/Dessau"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamel_Chatbi",
+            "http://dbpedia.org/resource/Rabat"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuri_Floriani",
+            "http://dbpedia.org/resource/Huelva"
+        ],
+        [
+            "http://dbpedia.org/resource/Silvano_Chesani",
+            "http://dbpedia.org/resource/Ancona"
+        ],
+        [
+            "http://dbpedia.org/resource/Giuseppe_Gibilisco",
+            "http://dbpedia.org/resource/Mersin"
+        ],
+        [
+            "http://dbpedia.org/resource/Claudio_Stecchi",
+            "http://dbpedia.org/resource/Rieti"
+        ]
+    ]
+}

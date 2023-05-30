@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/UD_Las_Palmas",
+            "http://dbpedia.org/resource/Real_Sociedad"
+        ],
+        [
+            "http://dbpedia.org/resource/Universidad_de_Las_Palmas_CF",
+            "http://dbpedia.org/resource/Alicante_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/CD_Alcoyano",
+            "http://dbpedia.org/resource/UB_Conquense"
+        ],
+        [
+            "http://dbpedia.org/resource/UD_Puertollano",
+            "http://dbpedia.org/resource/CF_Badalona"
+        ],
+        [
+            "http://dbpedia.org/resource/Pontevedra_CF",
+            "http://dbpedia.org/resource/FC_Cartagena"
+        ],
+        [
+            "http://dbpedia.org/resource/CD_San_Isidro",
+            "http://dbpedia.org/resource/Racing_Club_Portuense"
+        ],
+        [
+            "http://dbpedia.org/resource/Talavera_CF",
+            "http://dbpedia.org/resource/Barakaldo_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/CF_Palencia",
+            "http://dbpedia.org/resource/SD_Ponferradina"
+        ],
+        [
+            "http://dbpedia.org/resource/CD_Tenerife",
+            "http://dbpedia.org/resource/Polideportivo_Ejido"
+        ],
+        [
+            "http://dbpedia.org/resource/Xerez_CD",
+            "http://dbpedia.org/resource/Racing_de_Ferrol"
+        ]
+    ]
+}

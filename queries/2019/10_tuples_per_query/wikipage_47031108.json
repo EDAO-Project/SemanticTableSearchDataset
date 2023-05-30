@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Delhi_Daredevils",
+            "http://dbpedia.org/resource/Cape_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/Durban"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Challengers_Bangalore",
+            "http://dbpedia.org/resource/Durban"
+        ],
+        [
+            "http://dbpedia.org/resource/Rajasthan_Royals",
+            "http://dbpedia.org/resource/Cape_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Mumbai_Indians",
+            "http://dbpedia.org/resource/Durban"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Challengers_Bangalore",
+            "http://dbpedia.org/resource/Durban"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/Port_Elizabeth"
+        ],
+        [
+            "http://dbpedia.org/resource/Rajasthan_Royals",
+            "http://dbpedia.org/resource/Durban"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/Pretoria"
+        ],
+        [
+            "http://dbpedia.org/resource/Deccan_Chargers",
+            "http://dbpedia.org/resource/Kimberley,_Northern_Cape"
+        ]
+    ]
+}

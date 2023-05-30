@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Screen_Awards",
+            "http://dbpedia.org/resource/Prashant_Narayanan"
+        ],
+        [
+            "http://dbpedia.org/resource/Stardust_Awards",
+            "http://dbpedia.org/resource/Emraan_Hashmi"
+        ],
+        [
+            "http://dbpedia.org/resource/Stardust_Awards",
+            "http://dbpedia.org/resource/Jacqueline_Fernandez"
+        ],
+        [
+            "http://dbpedia.org/resource/Stardust_Awards",
+            "http://dbpedia.org/resource/Prashant_Narayanan"
+        ],
+        [
+            "http://dbpedia.org/resource/Apsara_Film_&_Television_Producers_Guild_Awards",
+            "http://dbpedia.org/resource/Emraan_Hashmi"
+        ],
+        [
+            "http://dbpedia.org/resource/Apsara_Film_&_Television_Producers_Guild_Awards",
+            "http://dbpedia.org/resource/Prashant_Narayanan"
+        ],
+        [
+            "http://dbpedia.org/resource/Apsara_Film_&_Television_Producers_Guild_Awards",
+            "http://dbpedia.org/resource/Sulagna_Panigrahi"
+        ],
+        [
+            "http://dbpedia.org/resource/Apsara_Film_&_Television_Producers_Guild_Awards",
+            "http://dbpedia.org/resource/Sunidhi_Chauhan"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Mirchi_Music_Awards",
+            "http://dbpedia.org/resource/Mirchi_Music_Award_for_Upcoming_Male_Vocalist_of_The_Year"
+        ],
+        [
+            "http://dbpedia.org/resource/4th_Mirchi_Music_Awards",
+            "http://dbpedia.org/resource/Mirchi_Music_Award_for_Upcoming_Music_Composer_of_The_Year"
+        ]
+    ]
+}

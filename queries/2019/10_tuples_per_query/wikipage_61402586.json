@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antonio_Rosati",
+            "http://dbpedia.org/resource/Perugia"
+        ],
+        [
+            "http://dbpedia.org/resource/Salvatore_Sirigu",
+            "http://dbpedia.org/resource/Paris_Saint-Germain"
+        ],
+        [
+            "http://dbpedia.org/resource/Armando_Izzo",
+            "http://dbpedia.org/resource/Genoa"
+        ],
+        [
+            "http://dbpedia.org/resource/Cristian_Ansaldi",
+            "http://dbpedia.org/resource/Internazionale"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorenzo_De_Silvestri",
+            "http://dbpedia.org/resource/Sampdoria"
+        ],
+        [
+            "http://dbpedia.org/resource/Koffi_Djidji",
+            "http://dbpedia.org/resource/Nantes"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicolas_Nkoulou",
+            "http://dbpedia.org/resource/Lyon"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniele_Baselli",
+            "http://dbpedia.org/resource/Atalanta"
+        ],
+        [
+            "http://dbpedia.org/resource/Diego_Laxalt",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Belotti",
+            "http://dbpedia.org/resource/Palermo"
+        ]
+    ]
+}

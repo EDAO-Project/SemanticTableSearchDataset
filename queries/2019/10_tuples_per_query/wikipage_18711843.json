@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sheffield_Wednesday",
+            "http://dbpedia.org/resource/Stockport_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Crewe_Alexandra",
+            "http://dbpedia.org/resource/Preston_North_End"
+        ],
+        [
+            "http://dbpedia.org/resource/Preston_North_End",
+            "http://dbpedia.org/resource/Crewe_Alexandra"
+        ],
+        [
+            "http://dbpedia.org/resource/Crewe_Alexandra",
+            "http://dbpedia.org/resource/Preston_North_End"
+        ],
+        [
+            "http://dbpedia.org/resource/Stafford_Rangers",
+            "http://dbpedia.org/resource/Halifax_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Halifax_Town",
+            "http://dbpedia.org/resource/Stafford_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Doncaster_Rovers",
+            "http://dbpedia.org/resource/Shrewsbury_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Shrewsbury_Town",
+            "http://dbpedia.org/resource/Doncaster_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Tranmere_Rovers",
+            "http://dbpedia.org/resource/Peterborough_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Crook_Town",
+            "http://dbpedia.org/resource/Nuneaton_Borough"
+        ]
+    ]
+}

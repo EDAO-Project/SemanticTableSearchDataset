@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ang_Hin_Kee",
+            "http://dbpedia.org/resource/Ang_Mo_Kio_GRC"
+        ],
+        [
+            "http://dbpedia.org/resource/Ang_Wei_Neng",
+            "http://dbpedia.org/resource/Jurong_GRC"
+        ],
+        [
+            "http://dbpedia.org/resource/Ang_Yong_Guan",
+            "http://dbpedia.org/resource/Holland-Bukit_Timah_GRC"
+        ],
+        [
+            "http://dbpedia.org/resource/Chan_Chun_Sing",
+            "http://dbpedia.org/resource/Tanjong_Pagar_GRC"
+        ],
+        [
+            "http://dbpedia.org/resource/Chen_Show_Mao",
+            "http://dbpedia.org/resource/Aljunied_GRC"
+        ],
+        [
+            "http://dbpedia.org/resource/Chia_Shi-Lu",
+            "http://dbpedia.org/resource/Tanjong_Pagar_GRC"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeanette_Chong-Aruldoss",
+            "http://dbpedia.org/resource/Mountbatten_SMC"
+        ],
+        [
+            "http://dbpedia.org/resource/Desmond_Choo",
+            "http://dbpedia.org/resource/Hougang_SMC"
+        ],
+        [
+            "http://dbpedia.org/resource/Foo_Mee_Har",
+            "http://dbpedia.org/resource/West_Coast_GRC"
+        ],
+        [
+            "http://dbpedia.org/resource/Gan_Thiam_Poh",
+            "http://dbpedia.org/resource/Pasir_Ris-Punggol_GRC"
+        ]
+    ]
+}

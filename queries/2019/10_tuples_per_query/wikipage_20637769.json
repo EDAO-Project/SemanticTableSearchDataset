@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dick_Coury",
+            "http://dbpedia.org/resource/California_Collegiate_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Dick_Coury",
+            "http://dbpedia.org/resource/California_Collegiate_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Pete_Yoder",
+            "http://dbpedia.org/resource/California_Collegiate_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Pete_Yoder",
+            "http://dbpedia.org/resource/California_Collegiate_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Pete_Yoder",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Colletto",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Colletto",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Colletto",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Colletto",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Colletto",
+            "http://dbpedia.org/resource/Big_West_Conference"
+        ]
+    ]
+}

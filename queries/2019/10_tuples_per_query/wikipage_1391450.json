@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charles_Phelps_Taft",
+            "http://dbpedia.org/resource/1894_United_States_House_of_Representatives_elections_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacob_H._Bromwell",
+            "http://dbpedia.org/resource/1894_United_States_House_of_Representatives_elections_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_J._Sorg",
+            "http://dbpedia.org/resource/1894_United_States_House_of_Representatives_elections_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Fernando_C._Layton",
+            "http://dbpedia.org/resource/1890_United_States_House_of_Representatives_elections_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Francis_B._De_Witt",
+            "http://dbpedia.org/resource/1894_United_States_House_of_Representatives_elections_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/George_W._Hulick",
+            "http://dbpedia.org/resource/1892_United_States_House_of_Representatives_elections_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/George_W._Wilson",
+            "http://dbpedia.org/resource/1892_United_States_House_of_Representatives_elections_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Luther_M._Strong",
+            "http://dbpedia.org/resource/1892_United_States_House_of_Representatives_elections_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/James_H._Southard",
+            "http://dbpedia.org/resource/1894_United_States_House_of_Representatives_elections_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucien_J._Fenton",
+            "http://dbpedia.org/resource/1894_United_States_House_of_Representatives_elections_in_Ohio"
+        ]
+    ]
+}

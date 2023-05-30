@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberavon",
+            "http://dbpedia.org/resource/Talbot_Athletic_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Bedford_Blues",
+            "http://dbpedia.org/resource/Goldington_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Cardiff",
+            "http://dbpedia.org/resource/Cardiff_Arms_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Coventry",
+            "http://dbpedia.org/resource/Butts_Park_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Doncaster",
+            "http://dbpedia.org/resource/Castle_Park_rugby_stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Exeter_Chiefs",
+            "http://dbpedia.org/resource/Sandy_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Llanelli",
+            "http://dbpedia.org/resource/Parc_y_Scarlets"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Welsh",
+            "http://dbpedia.org/resource/Old_Deer_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Moseley",
+            "http://dbpedia.org/resource/Billesley_Common"
+        ],
+        [
+            "http://dbpedia.org/resource/Neath",
+            "http://dbpedia.org/resource/The_Gnoll"
+        ]
+    ]
+}

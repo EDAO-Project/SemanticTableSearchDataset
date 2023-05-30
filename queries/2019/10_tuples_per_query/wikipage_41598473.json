@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elche_CF",
+            "http://dbpedia.org/resource/RCD_Espanyol"
+        ],
+        [
+            "http://dbpedia.org/resource/Alicante_CF",
+            "http://dbpedia.org/resource/Villarreal_CF"
+        ],
+        [
+            "http://dbpedia.org/resource/CD_Badajoz",
+            "http://dbpedia.org/resource/Real_Betis"
+        ],
+        [
+            "http://dbpedia.org/resource/Barakaldo_CF",
+            "http://dbpedia.org/resource/Racing_de_Santander"
+        ],
+        [
+            "http://dbpedia.org/resource/UDA_Gramenet",
+            "http://dbpedia.org/resource/FC_Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorca_Deportiva_CF",
+            "http://dbpedia.org/resource/Real_Murcia"
+        ],
+        [
+            "http://dbpedia.org/resource/Pontevedra_CF",
+            "http://dbpedia.org/resource/Celta_de_Vigo"
+        ],
+        [
+            "http://dbpedia.org/resource/CE_Sabadell_FC",
+            "http://dbpedia.org/resource/RCD_Mallorca"
+        ],
+        [
+            "http://dbpedia.org/resource/Zamora_CF",
+            "http://dbpedia.org/resource/Real_Valladolid"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Oviedo",
+            "http://dbpedia.org/resource/Real_Sociedad"
+        ]
+    ]
+}

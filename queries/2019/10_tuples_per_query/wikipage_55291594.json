@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/Elland_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/The_Den"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/Elland_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/The_Den"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/The_Den"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/Elland_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/The_Den"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/Elland_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/The_Den"
+        ],
+        [
+            "http://dbpedia.org/resource/Football_League_Second_Division",
+            "http://dbpedia.org/resource/Elland_Road"
+        ]
+    ]
+}

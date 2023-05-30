@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Adiele",
+            "http://dbpedia.org/resource/Bendel_Insurance"
+        ],
+        [
+            "http://dbpedia.org/resource/Sylvanus_Okpala",
+            "http://dbpedia.org/resource/Enugu_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Leotis_Boateng",
+            "http://dbpedia.org/resource/Enugu_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Orlando",
+            "http://dbpedia.org/resource/Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Isima_Okey",
+            "http://dbpedia.org/resource/Enugu_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Shefiu_Mohamed",
+            "http://dbpedia.org/resource/Racca_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Alloysius_Atuegbu",
+            "http://dbpedia.org/resource/Enugu_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Adokiye_Amiesimaka",
+            "http://dbpedia.org/resource/Enugu_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Emmanuel_Osuigwe",
+            "http://dbpedia.org/resource/Enugu_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Kadiri_Ikhana",
+            "http://dbpedia.org/resource/Bendel_Insurance"
+        ]
+    ]
+}

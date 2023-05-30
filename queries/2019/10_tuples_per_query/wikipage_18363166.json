@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1950_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/Greensboro,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/1951_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/Greensboro,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/Boone,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/Asheville,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/Asheville,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/Asheville,_North_Carolina"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/2010_The_Citadel_Bulldogs_baseball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/2010_The_Citadel_Bulldogs_baseball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/2010_The_Citadel_Bulldogs_baseball_team"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Southern_Conference_Baseball_Tournament",
+            "http://dbpedia.org/resource/2010_The_Citadel_Bulldogs_baseball_team"
+        ]
+    ]
+}

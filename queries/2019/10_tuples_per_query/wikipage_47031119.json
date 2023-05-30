@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pune_Warriors_India",
+            "http://dbpedia.org/resource/Subrata_Roy_Sahara_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/Punjab_Cricket_Association_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Rajasthan_Royals",
+            "http://dbpedia.org/resource/Sawai_Mansingh_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/Punjab_Cricket_Association_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunrisers_Hyderabad",
+            "http://dbpedia.org/resource/Rajiv_Gandhi_International_Cricket_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Pune_Warriors_India",
+            "http://dbpedia.org/resource/Punjab_Cricket_Association_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Delhi_Daredevils",
+            "http://dbpedia.org/resource/Feroz_Shah_Kotla"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/Eden_Gardens"
+        ],
+        [
+            "http://dbpedia.org/resource/Mumbai_Indians",
+            "http://dbpedia.org/resource/Wankhede_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/MA_Chidambaram_Stadium"
+        ]
+    ]
+}

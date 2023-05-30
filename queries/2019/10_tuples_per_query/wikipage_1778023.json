@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/European_Canadian"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/Aboriginal_peoples_in_Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/Filipino_Canadians"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/South_Asian_Canadians"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/Black_Canadians"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/Chinese_Canadians"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/Southeast_Asia"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/Latin_American_Canadians"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/Japanese_Canadians"
+        ],
+        [
+            "http://dbpedia.org/resource/Ethnic_group",
+            "http://dbpedia.org/resource/Korean_Canadians"
+        ]
+    ]
+}

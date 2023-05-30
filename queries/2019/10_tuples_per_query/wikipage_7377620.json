@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Charley_Paddock",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Morris_Kirksey",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Allen_Woodring",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Charley_Paddock",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Earl_Eby",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Lawrence_Shields",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Harold_Barron",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Feg_Murray",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Loomis",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/August_Desch",
+            "http://dbpedia.org/resource/Athletics_at_the_1920_Summer_Olympics"
+        ]
+    ]
+}

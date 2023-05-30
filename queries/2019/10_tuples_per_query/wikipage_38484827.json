@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paroa:_Ang_Kuwento_ni_Mariposa",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Akin_Pa_Rin_ang_Bukas",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Dormitoryo",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/InstaDad",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Dangwa",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Half_Sisters",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Alyas_Robin_Hood",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Inday_Will_Always_Love_You",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Barangay_143",
+            "http://dbpedia.org/resource/GMA_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/TODA_One_I_Love",
+            "http://dbpedia.org/resource/GMA_Network"
+        ]
+    ]
+}

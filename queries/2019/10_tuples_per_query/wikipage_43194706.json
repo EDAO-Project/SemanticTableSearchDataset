@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_1996",
+            "http://dbpedia.org/resource/Nottingham"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_1996",
+            "http://dbpedia.org/resource/Sheffield"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_1996",
+            "http://dbpedia.org/resource/Nottingham"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_1996",
+            "http://dbpedia.org/resource/Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_2004",
+            "http://dbpedia.org/resource/Leiria"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_2004",
+            "http://dbpedia.org/resource/Leiria"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_2004",
+            "http://dbpedia.org/resource/Lisbon"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_2008",
+            "http://dbpedia.org/resource/Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_2008",
+            "http://dbpedia.org/resource/Klagenfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/UEFA_Euro_2008",
+            "http://dbpedia.org/resource/Klagenfurt"
+        ]
+    ]
+}

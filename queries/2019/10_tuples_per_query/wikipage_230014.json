@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SLNCR_Lough_class",
+            "http://dbpedia.org/resource/Steam_locomotive"
+        ],
+        [
+            "http://dbpedia.org/resource/NCC_Class_WT",
+            "http://dbpedia.org/resource/Steam_locomotive"
+        ],
+        [
+            "http://dbpedia.org/resource/GNRI_AEC_Class",
+            "http://dbpedia.org/resource/Diesel_multiple_unit"
+        ],
+        [
+            "http://dbpedia.org/resource/GNR_BUT_Class",
+            "http://dbpedia.org/resource/Diesel_multiple_unit"
+        ],
+        [
+            "http://dbpedia.org/resource/UTA_MED",
+            "http://dbpedia.org/resource/Diesel_Multiple_Unit"
+        ],
+        [
+            "http://dbpedia.org/resource/UTA_MPD",
+            "http://dbpedia.org/resource/Diesel_Multiple_Unit"
+        ],
+        [
+            "http://dbpedia.org/resource/UTA_70_Class",
+            "http://dbpedia.org/resource/Diesel_Multiple_Unit"
+        ],
+        [
+            "http://dbpedia.org/resource/NIR_80_Class",
+            "http://dbpedia.org/resource/Diesel_Multiple_Unit"
+        ],
+        [
+            "http://dbpedia.org/resource/NIR_101_Class",
+            "http://dbpedia.org/resource/Diesel_locomotive"
+        ],
+        [
+            "http://dbpedia.org/resource/CIE_201_Class",
+            "http://dbpedia.org/resource/Diesel_locomotive"
+        ]
+    ]
+}

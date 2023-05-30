@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oita_Trinita",
+            "http://dbpedia.org/resource/Tokyo_Verdy_1969"
+        ],
+        [
+            "http://dbpedia.org/resource/Omiya_Ardija",
+            "http://dbpedia.org/resource/Kyoto_Purple_Sanga"
+        ],
+        [
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds",
+            "http://dbpedia.org/resource/Montedio_Yamagata"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Tokyo",
+            "http://dbpedia.org/resource/Avispa_Fukuoka"
+        ],
+        [
+            "http://dbpedia.org/resource/Yokohama_F._Marinos",
+            "http://dbpedia.org/resource/Vegalta_Sendai"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashiwa_Reysol",
+            "http://dbpedia.org/resource/Vissel_Kobe"
+        ],
+        [
+            "http://dbpedia.org/resource/Albirex_Niigata",
+            "http://dbpedia.org/resource/Thespa_Kusatsu"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanfrecce_Hiroshima",
+            "http://dbpedia.org/resource/Mito_HollyHock"
+        ],
+        [
+            "http://dbpedia.org/resource/Shimizu_S-Pulse",
+            "http://dbpedia.org/resource/Tokushima_Vortis"
+        ],
+        [
+            "http://dbpedia.org/resource/Gamba_Osaka",
+            "http://dbpedia.org/resource/Yokohama_FC"
+        ]
+    ]
+}

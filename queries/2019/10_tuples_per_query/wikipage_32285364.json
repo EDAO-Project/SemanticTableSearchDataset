@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Bristol",
+            "http://dbpedia.org/resource/Victoria_University_of_Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/Balliol_College,_Oxford",
+            "http://dbpedia.org/resource/University_of_Durham"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Open_University",
+            "http://dbpedia.org/resource/University_of_Lancaster"
+        ],
+        [
+            "http://dbpedia.org/resource/Harris_Manchester_College,_Oxford",
+            "http://dbpedia.org/resource/Selwyn_College,_Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Birkbeck,_University_of_London",
+            "http://dbpedia.org/resource/University_of_Warwick"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Portsmouth",
+            "http://dbpedia.org/resource/De_Montfort_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Aberdeen",
+            "http://dbpedia.org/resource/Newnham_College,_Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Christ_Church,_Oxford",
+            "http://dbpedia.org/resource/Trinity_College,_Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Corpus_Christi_College,_Cambridge",
+            "http://dbpedia.org/resource/Oriel_College,_Oxford"
+        ],
+        [
+            "http://dbpedia.org/resource/Downing_College,_Cambridge",
+            "http://dbpedia.org/resource/University_of_Glasgow"
+        ]
+    ]
+}

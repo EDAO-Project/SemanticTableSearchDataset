@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/Broadcast_Film_Critics_Association_Award_for_Best_Director"
+        ],
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/Chicago_Film_Critics_Association_Award_for_Best_Director"
+        ],
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/Dallas-Fort_Worth_Film_Critics_Association_Award_for_Best_Director"
+        ],
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/Detroit_Film_Critics_Society_Award_for_Best_Director"
+        ],
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/Florida_Film_Critics_Circle_Award_for_Best_Director"
+        ],
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/Los_Angeles_Film_Critics_Association_Award_for_Best_Director"
+        ],
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/New_York_Film_Critics_Online_Awards_2008"
+        ],
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/San_Diego_Film_Critics_Society_Award_for_Best_Director"
+        ],
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/St._Louis_Gateway_Film_Critics_Association_Award_for_Best_Director"
+        ],
+        [
+            "http://dbpedia.org/resource/Slumdog_Millionaire",
+            "http://dbpedia.org/resource/Washington_D.C._Area_Film_Critics_Association_Award_for_Best_Director"
+        ]
+    ]
+}

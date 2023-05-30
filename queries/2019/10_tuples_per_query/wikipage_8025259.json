@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1992_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbekistan_First_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbekistan_First_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbekistan_First_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Uzbek_League",
+            "http://dbpedia.org/resource/Uzbek_League"
+        ]
+    ]
+}

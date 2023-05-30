@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_Bonass",
+            "http://dbpedia.org/resource/Queens_Park_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Douglas_Hunt",
+            "http://dbpedia.org/resource/Sheffield_Wednesday"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Mason",
+            "http://dbpedia.org/resource/Queens_Park_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Duncan_McKenzie",
+            "http://dbpedia.org/resource/Middlesbrough"
+        ],
+        [
+            "http://dbpedia.org/resource/Reg_Pugh",
+            "http://dbpedia.org/resource/Cardiff_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Armstrong",
+            "http://dbpedia.org/resource/Aberdeen"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_Dukes",
+            "http://dbpedia.org/resource/Norwich_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Allenby_Driver",
+            "http://dbpedia.org/resource/Sheffield_Wednesday"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Vidler",
+            "http://dbpedia.org/resource/Bristol_City"
+        ],
+        [
+            "http://dbpedia.org/resource/David_McCulloch",
+            "http://dbpedia.org/resource/Derby_County"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aitkin,_Minnesota",
+            "http://dbpedia.org/resource/KKIN-FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexandria,_Minnesota",
+            "http://dbpedia.org/resource/KIKV-FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Benson,_Minnesota",
+            "http://dbpedia.org/resource/KSCR-FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Blue_Earth,_Minnesota",
+            "http://dbpedia.org/resource/KBEW-FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Dassel,_Minnesota",
+            "http://dbpedia.org/resource/KARP-FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Duluth,_Minnesota",
+            "http://dbpedia.org/resource/KJOQ"
+        ],
+        [
+            "http://dbpedia.org/resource/Duluth,_Minnesota",
+            "http://dbpedia.org/resource/KQDS-FM"
+        ],
+        [
+            "http://dbpedia.org/resource/Frazee,_Minnesota",
+            "http://dbpedia.org/resource/KDLB"
+        ],
+        [
+            "http://dbpedia.org/resource/Mankato,_Minnesota",
+            "http://dbpedia.org/resource/KFSP"
+        ],
+        [
+            "http://dbpedia.org/resource/Mankato,_Minnesota",
+            "http://dbpedia.org/resource/KNUJ-FM"
+        ]
+    ]
+}

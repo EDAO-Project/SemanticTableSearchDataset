@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Homo_sapiens",
+            "http://dbpedia.org/resource/Mammal"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonobo",
+            "http://dbpedia.org/resource/Mammal"
+        ],
+        [
+            "http://dbpedia.org/resource/House_mouse",
+            "http://dbpedia.org/resource/Mammal"
+        ],
+        [
+            "http://dbpedia.org/resource/American_pika",
+            "http://dbpedia.org/resource/Mammal"
+        ],
+        [
+            "http://dbpedia.org/resource/Common_wombat",
+            "http://dbpedia.org/resource/Mammal"
+        ],
+        [
+            "http://dbpedia.org/resource/Podarcis_muralis",
+            "http://dbpedia.org/resource/Reptile"
+        ],
+        [
+            "http://dbpedia.org/resource/Chinese_alligator",
+            "http://dbpedia.org/resource/Reptile"
+        ],
+        [
+            "http://dbpedia.org/resource/Painted_turtle",
+            "http://dbpedia.org/resource/Reptile"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_bearded_dragon",
+            "http://dbpedia.org/resource/Reptile"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastern_brown_snake",
+            "http://dbpedia.org/resource/Reptile"
+        ]
+    ]
+}

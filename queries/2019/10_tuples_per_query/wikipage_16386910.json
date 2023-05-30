@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/San_Antonio_Spurs",
+            "http://dbpedia.org/resource/Indiana_Pacers"
+        ],
+        [
+            "http://dbpedia.org/resource/Indiana_Pacers",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/Seattle_SuperSonics",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Nets",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Trail_Blazers",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/Buffalo_Braves",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_City_Kings",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio_Spurs",
+            "http://dbpedia.org/resource/Washington_Bullets"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio_Spurs",
+            "http://dbpedia.org/resource/Buffalo_Braves"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio_Spurs",
+            "http://dbpedia.org/resource/New_York_Nets"
+        ]
+    ]
+}

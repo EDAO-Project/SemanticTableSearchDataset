@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Osipovichi",
+            "http://dbpedia.org/resource/Osipovichi"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dinamo-Juni_Minsk",
+            "http://dbpedia.org/resource/Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Khimik_Svetlogorsk",
+            "http://dbpedia.org/resource/Svietlahorsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Granit_Mikashevichi",
+            "http://dbpedia.org/resource/Mikashevichi"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Neman_Mosty",
+            "http://dbpedia.org/resource/Masty,_Belarus"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Torpedo-BelAZ_Zhodino",
+            "http://dbpedia.org/resource/Zhodino"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bereza-2010",
+            "http://dbpedia.org/resource/Biaroza"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_ZLiN_Gomel",
+            "http://dbpedia.org/resource/Gomel"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Energetik-BGU_Minsk",
+            "http://dbpedia.org/resource/Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Polesye_Kozenki",
+            "http://dbpedia.org/resource/Mazyr_Raion"
+        ]
+    ]
+}

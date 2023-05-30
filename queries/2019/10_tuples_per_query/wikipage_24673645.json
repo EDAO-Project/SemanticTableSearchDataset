@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/APIA_Leichhardt_Tigers_FC",
+            "http://dbpedia.org/resource/Leichhardt_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Bankstown_City_FC",
+            "http://dbpedia.org/resource/Jensen_Oval"
+        ],
+        [
+            "http://dbpedia.org/resource/Blacktown_City_FC",
+            "http://dbpedia.org/resource/Gabbie_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Bonnyrigg_White_Eagles_FC",
+            "http://dbpedia.org/resource/Bonnyrigg_Sports_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Manly_United_FC",
+            "http://dbpedia.org/resource/Cromer_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Marconi_Stallions_FC",
+            "http://dbpedia.org/resource/Marconi_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Rockdale_City_Suns_FC",
+            "http://dbpedia.org/resource/Bicentennial_Park_South"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Coast_Wolves_FC",
+            "http://dbpedia.org/resource/Wollongong_Showground"
+        ],
+        [
+            "http://dbpedia.org/resource/Sutherland_Sharks_FC",
+            "http://dbpedia.org/resource/Seymour_Shaw_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney_Olympic_FC",
+            "http://dbpedia.org/resource/Belmore_Sports_Ground"
+        ]
+    ]
+}

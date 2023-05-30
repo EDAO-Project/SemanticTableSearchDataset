@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Barking_and_Dagenham_London_Borough_Council",
+            "http://dbpedia.org/resource/1986_Richmond_upon_Thames_London_Borough_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Barnet_London_Borough_Council",
+            "http://dbpedia.org/resource/1964_Barnet_London_Borough_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Bexley_London_Borough_Council",
+            "http://dbpedia.org/resource/1994_Hounslow_London_Borough_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Brent_London_Borough_Council",
+            "http://dbpedia.org/resource/2006_Waltham_Forest_London_Borough_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Bromley_London_Borough_Council",
+            "http://dbpedia.org/resource/1998_Hackney_London_Borough_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Camden_London_Borough_Council",
+            "http://dbpedia.org/resource/2006_Waltham_Forest_London_Borough_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Ealing_London_Borough_Council",
+            "http://dbpedia.org/resource/2010_Westminster_City_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Enfield_London_Borough_Council",
+            "http://dbpedia.org/resource/1974_Enfield_London_Borough_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Greenwich_London_Borough_Council",
+            "http://dbpedia.org/resource/1986_Richmond_upon_Thames_London_Borough_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Hackney_London_Borough_Council",
+            "http://dbpedia.org/resource/1998_Hackney_London_Borough_Council_election"
+        ]
+    ]
+}

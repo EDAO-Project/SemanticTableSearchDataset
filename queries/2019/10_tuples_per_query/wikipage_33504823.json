@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Clermont-Ferrand_International_Short_Film_Festival",
+            "http://dbpedia.org/resource/Clermont-Ferrand"
+        ],
+        [
+            "http://dbpedia.org/resource/Colchester_Film_Festival",
+            "http://dbpedia.org/resource/Colchester"
+        ],
+        [
+            "http://dbpedia.org/resource/Drama_International_Short_Film_Festival",
+            "http://dbpedia.org/resource/Drama,_Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/Encounters_Short_Film_and_Animation_Festival",
+            "http://dbpedia.org/resource/Bristol"
+        ],
+        [
+            "http://dbpedia.org/resource/Insight_Film_Festival",
+            "http://dbpedia.org/resource/Manchester"
+        ],
+        [
+            "http://dbpedia.org/resource/International_Cycling_Film_Festival",
+            "http://dbpedia.org/resource/Herne,_North_Rhine-Westphalia"
+        ],
+        [
+            "http://dbpedia.org/resource/International_Short_Film_Festival_Oberhausen",
+            "http://dbpedia.org/resource/Oberhausen"
+        ],
+        [
+            "http://dbpedia.org/resource/Odense_International_Film_Festival",
+            "http://dbpedia.org/resource/Odense"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampere_Film_Festival",
+            "http://dbpedia.org/resource/Tampere"
+        ],
+        [
+            "http://dbpedia.org/resource/Uppsala_International_Short_Film_Festival",
+            "http://dbpedia.org/resource/Uppsala"
+        ]
+    ]
+}

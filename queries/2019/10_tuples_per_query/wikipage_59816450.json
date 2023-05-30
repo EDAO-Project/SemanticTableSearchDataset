@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Istanbul_Marathon",
+            "http://dbpedia.org/resource/Istanbul,_Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris_Marathon",
+            "http://dbpedia.org/resource/Paris,_France"
+        ],
+        [
+            "http://dbpedia.org/resource/Istanbul_Marathon",
+            "http://dbpedia.org/resource/Istanbul,_Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubai_Marathon",
+            "http://dbpedia.org/resource/Dubai,_United_Arab_Emirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Adana_Half_Marathon",
+            "http://dbpedia.org/resource/Adana,_Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris_Half_Marathon",
+            "http://dbpedia.org/resource/Paris,_France"
+        ],
+        [
+            "http://dbpedia.org/resource/Milan_Half_Marathon",
+            "http://dbpedia.org/resource/Milano,_Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Istanbul_Half_Marathon",
+            "http://dbpedia.org/resource/Istanbul,_Turkey"
+        ],
+        [
+            "http://dbpedia.org/resource/2018_IAAF_World_Half_Marathon_Championships",
+            "http://dbpedia.org/resource/Valencia,_Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Portugal_Half_Marathon",
+            "http://dbpedia.org/resource/Lisbon,_Portugal"
+        ]
+    ]
+}

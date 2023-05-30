@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Karam_Apnaa_Apnaa",
+            "http://dbpedia.org/resource/StarPlus"
+        ],
+        [
+            "http://dbpedia.org/resource/Khwaish",
+            "http://dbpedia.org/resource/Sony_Entertainment_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Kis_Desh_Mein_Hai_Meraa_Dil",
+            "http://dbpedia.org/resource/StarPlus"
+        ],
+        [
+            "http://dbpedia.org/resource/Choti_Bahu",
+            "http://dbpedia.org/resource/Zee_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Baat_Hamari_Pakki_Hai",
+            "http://dbpedia.org/resource/Sony_Entertainment_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Choti_Bahu",
+            "http://dbpedia.org/resource/Zee_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Teri_Meri_Love_Stories",
+            "http://dbpedia.org/resource/StarPlus"
+        ],
+        [
+            "http://dbpedia.org/resource/Qubool_Hai",
+            "http://dbpedia.org/resource/Zee_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Balika_Vadhu",
+            "http://dbpedia.org/resource/Colors_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Main_Bhi_Ardhangini",
+            "http://dbpedia.org/resource/&TV"
+        ]
+    ]
+}

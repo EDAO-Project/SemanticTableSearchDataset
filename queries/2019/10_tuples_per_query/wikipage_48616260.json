@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aberavon_Quins_RFC",
+            "http://dbpedia.org/resource/Pencoed_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Abergavenny_RFC",
+            "http://dbpedia.org/resource/Tonna_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Aberystwyth_RFC",
+            "http://dbpedia.org/resource/Laugharne_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Bryncoch_RFC",
+            "http://dbpedia.org/resource/Treherbert_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Caldicot_RFC",
+            "http://dbpedia.org/resource/Garndiffaith_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Crymych_RFC",
+            "http://dbpedia.org/resource/Mumbles_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Cwmbran_RFC",
+            "http://dbpedia.org/resource/Felinfoel_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Ferndale_RFC",
+            "http://dbpedia.org/resource/Tylorstown_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Gwernyfed_RFC",
+            "http://dbpedia.org/resource/Llandaff_North_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Heol_y_Cyw_RFC",
+            "http://dbpedia.org/resource/Risca_RFC"
+        ]
+    ]
+}

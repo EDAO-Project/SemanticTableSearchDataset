@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Waltz_Across_Texas",
+            "http://dbpedia.org/resource/Ernest_Day"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Sure_Thing",
+            "http://dbpedia.org/resource/Rob_Reiner"
+        ],
+        [
+            "http://dbpedia.org/resource/Moving_Violations",
+            "http://dbpedia.org/resource/Neal_Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/Desert_Hearts",
+            "http://dbpedia.org/resource/Donna_Deitch"
+        ],
+        [
+            "http://dbpedia.org/resource/Return_of_the_Living_Dead_Part_II",
+            "http://dbpedia.org/resource/Ken_Wiederhorn"
+        ],
+        [
+            "http://dbpedia.org/resource/How_I_Got_into_College",
+            "http://dbpedia.org/resource/Savage_Steve_Holland"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris_Trout",
+            "http://dbpedia.org/resource/Stephen_Gyllenhaal"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Pallbearer",
+            "http://dbpedia.org/resource/Matt_Reeves"
+        ],
+        [
+            "http://dbpedia.org/resource/Boogie_Nights",
+            "http://dbpedia.org/resource/Paul_Thomas_Anderson"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomorrow_Never_Dies",
+            "http://dbpedia.org/resource/Roger_Spottiswoode"
+        ]
+    ]
+}

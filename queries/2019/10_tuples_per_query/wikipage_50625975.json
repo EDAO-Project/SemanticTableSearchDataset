@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gerry_McAloon",
+            "http://dbpedia.org/resource/Wolverhampton_Wanderers"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Gotts",
+            "http://dbpedia.org/resource/Ashington"
+        ],
+        [
+            "http://dbpedia.org/resource/Douglas_Hunt",
+            "http://dbpedia.org/resource/Sheffield_Wednesday"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnny_Mapson",
+            "http://dbpedia.org/resource/Sunderland"
+        ],
+        [
+            "http://dbpedia.org/resource/Paddy_Sloan",
+            "http://dbpedia.org/resource/Tranmere_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_Ferrier",
+            "http://dbpedia.org/resource/Barnsley"
+        ],
+        [
+            "http://dbpedia.org/resource/Ted_Fenton",
+            "http://dbpedia.org/resource/West_Ham_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Maurice_Edelston",
+            "http://dbpedia.org/resource/Reading"
+        ],
+        [
+            "http://dbpedia.org/resource/Ted_Ballard",
+            "http://dbpedia.org/resource/Clapton_Orient"
+        ],
+        [
+            "http://dbpedia.org/resource/Cyril_Brown",
+            "http://dbpedia.org/resource/Sunderland"
+        ]
+    ]
+}

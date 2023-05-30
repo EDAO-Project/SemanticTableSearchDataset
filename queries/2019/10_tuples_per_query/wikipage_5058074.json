@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bukit_Panjang_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Teo_Ho_Pin"
+        ],
+        [
+            "http://dbpedia.org/resource/Bukit_Panjang_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Ling_How_Doong"
+        ],
+        [
+            "http://dbpedia.org/resource/Chua_Chu_Kang_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Gan_Kim_Yong"
+        ],
+        [
+            "http://dbpedia.org/resource/Chua_Chu_Kang_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Steve_Chia_Kiah_Hong"
+        ],
+        [
+            "http://dbpedia.org/resource/Hougang_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Eric_Low_Siak_Meng"
+        ],
+        [
+            "http://dbpedia.org/resource/Hougang_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Low_Thia_Khiang"
+        ],
+        [
+            "http://dbpedia.org/resource/Joo_Chiat_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Chan_Soo_Sen"
+        ],
+        [
+            "http://dbpedia.org/resource/MacPherson_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Matthias_Yao"
+        ],
+        [
+            "http://dbpedia.org/resource/MacPherson_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Sin_Kek_Tong"
+        ],
+        [
+            "http://dbpedia.org/resource/Nee_Soon_East_Single_Member_Constituency",
+            "http://dbpedia.org/resource/Ho_Peng_Kee"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dominic_Maroh",
+            "http://dbpedia.org/resource/SSV_Reutlingen_05"
+        ],
+        [
+            "http://dbpedia.org/resource/Timm_Klose",
+            "http://dbpedia.org/resource/FC_Thun"
+        ],
+        [
+            "http://dbpedia.org/resource/Javier_Pinola",
+            "http://dbpedia.org/resource/Racing_Club_de_Avellaneda"
+        ],
+        [
+            "http://dbpedia.org/resource/Timothy_Chandler",
+            "http://dbpedia.org/resource/Eintracht_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Timmy_Simons",
+            "http://dbpedia.org/resource/PSV_Eindhoven"
+        ],
+        [
+            "http://dbpedia.org/resource/Hanno_Balitsch",
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen"
+        ],
+        [
+            "http://dbpedia.org/resource/Markus_Feulner",
+            "http://dbpedia.org/resource/Borussia_Dortmund"
+        ],
+        [
+            "http://dbpedia.org/resource/Jens_Hegeler",
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Didavi",
+            "http://dbpedia.org/resource/VfB_Stuttgart"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilson_Kamavuaka",
+            "http://dbpedia.org/resource/TSG_1899_Hoffenheim"
+        ]
+    ]
+}

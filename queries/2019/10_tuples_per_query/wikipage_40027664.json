@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/Moran_Theater"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/Morsani_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Birmingham,_Alabama",
+            "http://dbpedia.org/resource/BJCC_Concert_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta",
+            "http://dbpedia.org/resource/Cobb_Energy_Performing_Arts_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston",
+            "http://dbpedia.org/resource/Bayou_Music_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/San_Antonio",
+            "http://dbpedia.org/resource/Lila_Cockrell_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix,_Arizona",
+            "http://dbpedia.org/resource/Celebrity_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Fresno,_California",
+            "http://dbpedia.org/resource/Saroyan_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Sacramento,_California",
+            "http://dbpedia.org/resource/Community_Center_Theater"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/Roseland_Theater"
+        ]
+    ]
+}

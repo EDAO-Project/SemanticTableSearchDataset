@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Daniel_Serra"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Denis_Navarro"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Allam_Khodair"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Vitor_Meira"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Duda_Pamplona"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Ricardo_Zonta"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Diego_Nunes"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Eduardo_Leite"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Thiago_Camilo"
+        ],
+        [
+            "http://dbpedia.org/resource/Chevrolet",
+            "http://dbpedia.org/resource/Lico_Kaesemodel"
+        ]
+    ]
+}

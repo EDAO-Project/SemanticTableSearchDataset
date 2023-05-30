@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CB_Girona",
+            "http://dbpedia.org/resource/Palau_Girona-Fontajau"
+        ],
+        [
+            "http://dbpedia.org/resource/Alba_Berlin",
+            "http://dbpedia.org/resource/Max-Schmeling-Halle"
+        ],
+        [
+            "http://dbpedia.org/resource/Antwerp_Giants",
+            "http://dbpedia.org/resource/Lotto_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Artland_Dragons",
+            "http://dbpedia.org/resource/Artland_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/ASK_Riga",
+            "http://dbpedia.org/resource/Arena_Riga"
+        ],
+        [
+            "http://dbpedia.org/resource/BC_Azovmash",
+            "http://dbpedia.org/resource/Azovmash_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/BC_Kalev/Cramo",
+            "http://dbpedia.org/resource/Saku_Suurhall"
+        ],
+        [
+            "http://dbpedia.org/resource/Fribourg_Olympic",
+            "http://dbpedia.org/resource/Sainte-Croix,_Switzerland"
+        ],
+        [
+            "http://dbpedia.org/resource/Pallacanestro_Treviso",
+            "http://dbpedia.org/resource/Palaverde"
+        ],
+        [
+            "http://dbpedia.org/resource/Ventspils",
+            "http://dbpedia.org/resource/Ventspils_Nafta_Hall"
+        ]
+    ]
+}

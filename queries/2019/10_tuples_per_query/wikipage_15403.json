@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chinese_yuan",
+            "http://dbpedia.org/resource/Hong_Kong"
+        ],
+        [
+            "http://dbpedia.org/resource/Guernsey_pound",
+            "http://dbpedia.org/resource/Guernsey"
+        ],
+        [
+            "http://dbpedia.org/resource/Isle_of_Man_pound",
+            "http://dbpedia.org/resource/Isle_of_Man"
+        ],
+        [
+            "http://dbpedia.org/resource/Jersey_pound",
+            "http://dbpedia.org/resource/Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Kiribati_dollar",
+            "http://dbpedia.org/resource/Kiribati"
+        ],
+        [
+            "http://dbpedia.org/resource/Israeli_new_shekel",
+            "http://dbpedia.org/resource/Israel"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Taiwan_dollar",
+            "http://dbpedia.org/resource/Taiwan"
+        ],
+        [
+            "http://dbpedia.org/resource/Transnistrian_ruble",
+            "http://dbpedia.org/resource/Transnistria"
+        ],
+        [
+            "http://dbpedia.org/resource/Somaliland_shilling",
+            "http://dbpedia.org/resource/Somaliland"
+        ],
+        [
+            "http://dbpedia.org/resource/Renminbi",
+            "http://dbpedia.org/resource/Mainland_China"
+        ]
+    ]
+}

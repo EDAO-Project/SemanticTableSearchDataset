@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bald_Hills_Wind_Farm",
+            "http://dbpedia.org/resource/Mitsui"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_Wind_Farm",
+            "http://dbpedia.org/resource/Infigen_Energy"
+        ],
+        [
+            "http://dbpedia.org/resource/Challicum_Hills_Wind_Farm",
+            "http://dbpedia.org/resource/Pacific_Hydro"
+        ],
+        [
+            "http://dbpedia.org/resource/Clements_Gap_Wind_Farm",
+            "http://dbpedia.org/resource/Pacific_Hydro"
+        ],
+        [
+            "http://dbpedia.org/resource/Collgar_Wind_Farm",
+            "http://dbpedia.org/resource/UBS_Global_Asset_Management"
+        ],
+        [
+            "http://dbpedia.org/resource/Emu_Downs_Wind_Farm",
+            "http://dbpedia.org/resource/APA_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Hallett_Wind_Farm",
+            "http://dbpedia.org/resource/AGL_Energy"
+        ],
+        [
+            "http://dbpedia.org/resource/Lake_Bonney_Wind_Farm",
+            "http://dbpedia.org/resource/Infigen_Energy"
+        ],
+        [
+            "http://dbpedia.org/resource/Macarthur_Wind_Farm",
+            "http://dbpedia.org/resource/AGL_Energy"
+        ],
+        [
+            "http://dbpedia.org/resource/Mount_Mercer_Wind_Farm",
+            "http://dbpedia.org/resource/Meridian_Energy"
+        ]
+    ]
+}

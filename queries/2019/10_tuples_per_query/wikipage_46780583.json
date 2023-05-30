@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/Dubai_International_Cricket_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Challengers_Bangalore",
+            "http://dbpedia.org/resource/Dubai_International_Cricket_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/Dubai_International_Cricket_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Delhi_Daredevils",
+            "http://dbpedia.org/resource/Sharjah_Cricket_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunrisers_Hyderabad",
+            "http://dbpedia.org/resource/Dubai_International_Cricket_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Kings_XI_Punjab",
+            "http://dbpedia.org/resource/Brabourne_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Challengers_Bangalore",
+            "http://dbpedia.org/resource/Brabourne_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/Brabourne_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunrisers_Hyderabad",
+            "http://dbpedia.org/resource/Rajiv_Gandhi_International_Cricket_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/Barabati_Stadium"
+        ]
+    ]
+}

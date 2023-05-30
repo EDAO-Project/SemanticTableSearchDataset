@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marc_Lieb",
+            "http://dbpedia.org/resource/Freisinger_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Bertolini",
+            "http://dbpedia.org/resource/JMB_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Sugden",
+            "http://dbpedia.org/resource/EMKA_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Emmanuel_Collard",
+            "http://dbpedia.org/resource/EMKA_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Romain_Dumas",
+            "http://dbpedia.org/resource/Freisinger_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Martin_Short",
+            "http://dbpedia.org/resource/EMKA_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Caffi",
+            "http://dbpedia.org/resource/Seikel_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Chiesa",
+            "http://dbpedia.org/resource/Seikel_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Luciano_Burti",
+            "http://dbpedia.org/resource/JMB_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Ried",
+            "http://dbpedia.org/resource/Proton_Competition"
+        ]
+    ]
+}

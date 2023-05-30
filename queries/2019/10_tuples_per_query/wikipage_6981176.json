@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alltel_200",
+            "http://dbpedia.org/resource/North_Carolina_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/SunCom_200",
+            "http://dbpedia.org/resource/Darlington_Raceway"
+        ],
+        [
+            "http://dbpedia.org/resource/Albertsons_300",
+            "http://dbpedia.org/resource/Texas_Motor_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/BellSouth_Mobility_320",
+            "http://dbpedia.org/resource/Nashville_Speedway_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Myrtle_Beach_250",
+            "http://dbpedia.org/resource/Myrtle_Beach_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/Sears_DieHard_250",
+            "http://dbpedia.org/resource/Milwaukee_Mile"
+        ],
+        [
+            "http://dbpedia.org/resource/CarQuest_Auto_Parts_250",
+            "http://dbpedia.org/resource/Gateway_International_Raceway"
+        ],
+        [
+            "http://dbpedia.org/resource/NAPAonline_250",
+            "http://dbpedia.org/resource/Michigan_International_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/Food_City_250",
+            "http://dbpedia.org/resource/Bristol_Motor_Speedway"
+        ],
+        [
+            "http://dbpedia.org/resource/Dura_Lube_200",
+            "http://dbpedia.org/resource/Darlington_Raceway"
+        ]
+    ]
+}

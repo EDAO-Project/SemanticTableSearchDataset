@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prescott_S._Bush",
+            "http://dbpedia.org/resource/1952_United_States_Senate_special_election_in_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/George_A._Smathers",
+            "http://dbpedia.org/resource/1950_United_States_Senate_election_in_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Herman_Welker",
+            "http://dbpedia.org/resource/1950_United_States_Senate_election_in_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Everett_M._Dirksen",
+            "http://dbpedia.org/resource/1950_United_States_Senate_election_in_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Marshall_Butler",
+            "http://dbpedia.org/resource/1950_United_States_Senate_election_in_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Bible",
+            "http://dbpedia.org/resource/1954_United_States_Senate_special_election_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Norris_Cotton",
+            "http://dbpedia.org/resource/1954_United_States_Senate_special_election_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/George_H._Bender",
+            "http://dbpedia.org/resource/1954_United_States_Senate_special_election_in_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Monroney",
+            "http://dbpedia.org/resource/1950_United_States_Senate_election_in_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/James_H._Duff",
+            "http://dbpedia.org/resource/1950_United_States_Senate_election_in_Utah"
+        ]
+    ]
+}

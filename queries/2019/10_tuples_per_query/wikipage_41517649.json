@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2014_Brisbane_International",
+            "http://dbpedia.org/resource/ATP_World_Tour_250"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Dubai_Tennis_Championships",
+            "http://dbpedia.org/resource/ATP_World_Tour_500"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_BNP_Paribas_Open",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Sony_Open_Tennis",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Monte-Carlo_Rolex_Masters",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Gerry_Weber_Open",
+            "http://dbpedia.org/resource/ATP_World_Tour_250"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Rogers_Cup",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Western_&_Southern_Open",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Shanghai_Rolex_Masters",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_Swiss_Indoors",
+            "http://dbpedia.org/resource/ATP_World_Tour_500"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/PFC_Slavia_Sofia",
+            "http://dbpedia.org/resource/Bulgarian_A_Football_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Slavia_Sofia",
+            "http://dbpedia.org/resource/Bulgarian_A_Football_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Slavia_Sofia",
+            "http://dbpedia.org/resource/Bulgarian_A_Football_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Slavia_Sofia",
+            "http://dbpedia.org/resource/Bulgarian_A_Football_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Slavia_Sofia",
+            "http://dbpedia.org/resource/Bulgarian_A_Football_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Slavia_Sofia",
+            "http://dbpedia.org/resource/Bulgarian_A_Football_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/RC_Strasbourg",
+            "http://dbpedia.org/resource/Ligue_2"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Erzgebirge_Aue",
+            "http://dbpedia.org/resource/2._Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Energie_Cottbus",
+            "http://dbpedia.org/resource/Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Energie_Cottbus",
+            "http://dbpedia.org/resource/Bundesliga"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/TuS_Neuendorf",
+            "http://dbpedia.org/resource/Wuppertaler_SV_Borussia"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Schalke_04",
+            "http://dbpedia.org/resource/SG_Wattenscheid_09"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bayern_Munich",
+            "http://dbpedia.org/resource/MSV_Duisburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Arminia_Bielefeld",
+            "http://dbpedia.org/resource/Alemannia_Aachen"
+        ],
+        [
+            "http://dbpedia.org/resource/Tennis_Borussia_Berlin",
+            "http://dbpedia.org/resource/Eintracht_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/SV_Darmstadt_98"
+        ],
+        [
+            "http://dbpedia.org/resource/Borussia_Dortmund",
+            "http://dbpedia.org/resource/Hannover_96"
+        ],
+        [
+            "http://dbpedia.org/resource/Kickers_Offenbach",
+            "http://dbpedia.org/resource/VfR_Heilbronn"
+        ],
+        [
+            "http://dbpedia.org/resource/KSV_Hessen_Kassel",
+            "http://dbpedia.org/resource/HSV_Barmbeck-Uhlenhorst"
+        ],
+        [
+            "http://dbpedia.org/resource/VfL_Bochum",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/HC_Dinamo_Minsk",
+            "http://dbpedia.org/resource/Soviet_Championship_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Dinamo_Minsk",
+            "http://dbpedia.org/resource/Soviet_Championship_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Dinamo_Minsk",
+            "http://dbpedia.org/resource/Soviet_Championship_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Tivali_Minsk",
+            "http://dbpedia.org/resource/Belarusian_Extraleague"
+        ],
+        [
+            "http://dbpedia.org/resource/Tivali_Minsk",
+            "http://dbpedia.org/resource/Belarusian_Extraleague"
+        ],
+        [
+            "http://dbpedia.org/resource/Tivali_Minsk",
+            "http://dbpedia.org/resource/Belarusian_Extraleague"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Neftekhimik_Nizhnekamsk",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Neftekhimik_Nizhnekamsk",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/Ak_Bars_Kazan",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/Ak_Bars_Kazan",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ]
+    ]
+}

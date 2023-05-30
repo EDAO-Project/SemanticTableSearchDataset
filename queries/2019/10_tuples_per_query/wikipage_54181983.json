@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giovanni_Trapattoni",
+            "http://dbpedia.org/resource/Juventus"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcello_Lippi",
+            "http://dbpedia.org/resource/Juventus"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlo_Ancelotti",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Paisley",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Clough",
+            "http://dbpedia.org/resource/Nottingham_Forest"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobby_Robson",
+            "http://dbpedia.org/resource/Ipswich_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Keith_Burkinshaw",
+            "http://dbpedia.org/resource/Tottenham_Hotspur"
+        ],
+        [
+            "http://dbpedia.org/resource/Aad_de_Mos",
+            "http://dbpedia.org/resource/KV_Mechelen"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottavio_Bianchi",
+            "http://dbpedia.org/resource/Napoli"
+        ],
+        [
+            "http://dbpedia.org/resource/Arrigo_Sacchi",
+            "http://dbpedia.org/resource/Milan"
+        ]
+    ]
+}

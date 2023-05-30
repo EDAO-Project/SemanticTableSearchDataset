@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Strictly_Come_Dancing:_It_Takes_Two",
+            "http://dbpedia.org/resource/BBC_Two"
+        ],
+        [
+            "http://dbpedia.org/resource/Have_I_Got_News_for_You",
+            "http://dbpedia.org/resource/BBC_One"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Big_Fat_Quiz_of_the_Year",
+            "http://dbpedia.org/resource/Channel_4"
+        ],
+        [
+            "http://dbpedia.org/resource/8_Out_of_10_Cats_Does_Countdown",
+            "http://dbpedia.org/resource/Channel_4"
+        ],
+        [
+            "http://dbpedia.org/resource/QI",
+            "http://dbpedia.org/resource/BBC_Two"
+        ],
+        [
+            "http://dbpedia.org/resource/Not_Going_Out",
+            "http://dbpedia.org/resource/BBC_One"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_World_Snooker_Championship",
+            "http://dbpedia.org/resource/BBC_Two"
+        ],
+        [
+            "http://dbpedia.org/resource/2015_World_Snooker_Championship",
+            "http://dbpedia.org/resource/BBC_Two"
+        ],
+        [
+            "http://dbpedia.org/resource/Celebrity_Juice",
+            "http://dbpedia.org/resource/ITV2"
+        ],
+        [
+            "http://dbpedia.org/resource/8_Out_of_10_Cats",
+            "http://dbpedia.org/resource/Channel_4"
+        ]
+    ]
+}

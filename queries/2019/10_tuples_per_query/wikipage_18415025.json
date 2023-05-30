@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/C.D._Victoria",
+            "http://dbpedia.org/resource/C.D._Federal"
+        ],
+        [
+            "http://dbpedia.org/resource/C.D._Dandy",
+            "http://dbpedia.org/resource/Independiente_Villela"
+        ],
+        [
+            "http://dbpedia.org/resource/C.D._Petrotela",
+            "http://dbpedia.org/resource/Pumas_UNAH"
+        ],
+        [
+            "http://dbpedia.org/resource/C.D._Curacao",
+            "http://dbpedia.org/resource/Pumas_UNAH"
+        ],
+        [
+            "http://dbpedia.org/resource/C.D._Petrotela",
+            "http://dbpedia.org/resource/Sula_de_La_Lima"
+        ],
+        [
+            "http://dbpedia.org/resource/Independiente_Villela",
+            "http://dbpedia.org/resource/C.D._Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/C.D._Broncos",
+            "http://dbpedia.org/resource/Real_Maya"
+        ],
+        [
+            "http://dbpedia.org/resource/Deportes_Savio",
+            "http://dbpedia.org/resource/C.D._Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Comayagua",
+            "http://dbpedia.org/resource/Deportes_Savio"
+        ],
+        [
+            "http://dbpedia.org/resource/Honduras_Salzburg",
+            "http://dbpedia.org/resource/C.D._Victoria"
+        ]
+    ]
+}

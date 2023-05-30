@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Middlesex",
+            "http://dbpedia.org/resource/University_of_Exeter"
+        ],
+        [
+            "http://dbpedia.org/resource/London_School_of_Economics",
+            "http://dbpedia.org/resource/Keble_College,_Oxford"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Lancaster",
+            "http://dbpedia.org/resource/University_of_Wales,_Swansea"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Surrey",
+            "http://dbpedia.org/resource/Liverpool_John_Moores_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Gonville_&_Caius_College,_Cambridge",
+            "http://dbpedia.org/resource/University_College,_Oxford"
+        ],
+        [
+            "http://dbpedia.org/resource/Charing_Cross_Hospital",
+            "http://dbpedia.org/resource/Heriot-Watt_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Keele_University",
+            "http://dbpedia.org/resource/Trinity_Hall,_Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_University",
+            "http://dbpedia.org/resource/The_Open_University"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Birmingham",
+            "http://dbpedia.org/resource/Selwyn_College,_Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_St_Andrews",
+            "http://dbpedia.org/resource/Imperial_College_London"
+        ]
+    ]
+}

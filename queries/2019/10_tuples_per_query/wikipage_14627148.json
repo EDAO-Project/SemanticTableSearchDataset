@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/One_of_Those",
+            "http://dbpedia.org/resource/Aldo_Fabrizi"
+        ],
+        [
+            "http://dbpedia.org/resource/Passionate_Song",
+            "http://dbpedia.org/resource/Giorgio_Simonelli"
+        ],
+        [
+            "http://dbpedia.org/resource/Past_Lovers",
+            "http://dbpedia.org/resource/Adelchi_Bianchi"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Provinciale",
+            "http://dbpedia.org/resource/Mario_Soldati"
+        ],
+        [
+            "http://dbpedia.org/resource/Quand_tu_liras_cette_lettre",
+            "http://dbpedia.org/resource/Jean-Pierre_Melville"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Return_of_Don_Camillo",
+            "http://dbpedia.org/resource/Julien_Duvivier"
+        ],
+        [
+            "http://dbpedia.org/resource/Siamo_tutti_inquilini",
+            "http://dbpedia.org/resource/Mario_Mattoli"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Steel_Rope",
+            "http://dbpedia.org/resource/Carlo_Borghesio"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunday_Heroes",
+            "http://dbpedia.org/resource/Mario_Camerini"
+        ],
+        [
+            "http://dbpedia.org/resource/Two_Nights_with_Cleopatra",
+            "http://dbpedia.org/resource/Mario_Mattoli"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bliss_n_Eso",
+            "http://dbpedia.org/resource/Running_on_Air"
+        ],
+        [
+            "http://dbpedia.org/resource/Urthboy",
+            "http://dbpedia.org/resource/Spitshine"
+        ],
+        [
+            "http://dbpedia.org/resource/Hilltop_Hoods",
+            "http://dbpedia.org/resource/Drinking_from_the_Sun"
+        ],
+        [
+            "http://dbpedia.org/resource/Bliss_n_Eso",
+            "http://dbpedia.org/resource/Circus_in_the_Sky"
+        ],
+        [
+            "http://dbpedia.org/resource/Hilltop_Hoods",
+            "http://dbpedia.org/resource/Walking_Under_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Iggy_Azalea",
+            "http://dbpedia.org/resource/The_New_Classic"
+        ],
+        [
+            "http://dbpedia.org/resource/Thundamentals",
+            "http://dbpedia.org/resource/So_We_Can_Remember"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiatus_Kaiyote",
+            "http://dbpedia.org/resource/Choose_Your_Weapon"
+        ],
+        [
+            "http://dbpedia.org/resource/Thundamentals",
+            "http://dbpedia.org/resource/Everyone_We_Know"
+        ],
+        [
+            "http://dbpedia.org/resource/Tkay_Maidza",
+            "http://dbpedia.org/resource/Tkay"
+        ]
+    ]
+}

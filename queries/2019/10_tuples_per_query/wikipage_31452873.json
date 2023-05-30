@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashiwa_no_Ha_Park_Stadium",
+            "http://dbpedia.org/resource/Kashiwa_Reysol"
+        ],
+        [
+            "http://dbpedia.org/resource/Toyota_Stadium",
+            "http://dbpedia.org/resource/Nagoya_Grampus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Tokyo_Verdy"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/F.C._Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Yokohama_F._Marinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/JEF_United_Ichihara_Chiba"
+        ],
+        [
+            "http://dbpedia.org/resource/Miyagi_Stadium",
+            "http://dbpedia.org/resource/Vegalta_Sendai"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Vissel_Kobe"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Cerezo_Osaka"
+        ]
+    ]
+}

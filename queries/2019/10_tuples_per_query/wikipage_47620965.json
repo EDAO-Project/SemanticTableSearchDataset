@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Gough",
+            "http://dbpedia.org/resource/Ajay_Lalcheta"
+        ],
+        [
+            "http://dbpedia.org/resource/Kunle_Adegbola",
+            "http://dbpedia.org/resource/Shaheed_Dhanani"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_Nussbaumer",
+            "http://dbpedia.org/resource/Andrew_Mansale"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Gough",
+            "http://dbpedia.org/resource/Andrew_Mansale"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_Nussbaumer",
+            "http://dbpedia.org/resource/Shaheed_Dhanani"
+        ],
+        [
+            "http://dbpedia.org/resource/Kunle_Adegbola",
+            "http://dbpedia.org/resource/Ajay_Lalcheta"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Gough",
+            "http://dbpedia.org/resource/Ajay_Lalcheta"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Gough",
+            "http://dbpedia.org/resource/Shaheed_Dhanani"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_Nussbaumer",
+            "http://dbpedia.org/resource/Kunle_Adegbola"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajay_Lalcheta",
+            "http://dbpedia.org/resource/Andrew_Mansale"
+        ]
+    ]
+}

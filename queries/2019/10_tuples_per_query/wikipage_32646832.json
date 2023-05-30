@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KKAA",
+            "http://dbpedia.org/resource/Aberdeen,_South_Dakota"
+        ],
+        [
+            "http://dbpedia.org/resource/KKAM",
+            "http://dbpedia.org/resource/Lubbock,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/KKAQ",
+            "http://dbpedia.org/resource/Thief_River_Falls,_Minnesota"
+        ],
+        [
+            "http://dbpedia.org/resource/KKAY",
+            "http://dbpedia.org/resource/White_Castle,_Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/KKBE",
+            "http://dbpedia.org/resource/Roswell,_New_Mexico"
+        ],
+        [
+            "http://dbpedia.org/resource/KKDD",
+            "http://dbpedia.org/resource/San_Bernardino,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/KKDZ",
+            "http://dbpedia.org/resource/Seattle,_Washington"
+        ],
+        [
+            "http://dbpedia.org/resource/KKEA",
+            "http://dbpedia.org/resource/Honolulu,_Hawaii"
+        ],
+        [
+            "http://dbpedia.org/resource/KKGM",
+            "http://dbpedia.org/resource/Ft._Worth,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/KKGR",
+            "http://dbpedia.org/resource/East_Helena,_Montana"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ice_hockey_at_the_1936_Winter_Olympics",
+            "http://dbpedia.org/resource/1957_World_Ice_Hockey_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_World_Ice_Hockey_Championships",
+            "http://dbpedia.org/resource/1977_World_Ice_Hockey_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/1939_World_Ice_Hockey_Championships",
+            "http://dbpedia.org/resource/Ice_hockey_at_the_1952_Winter_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/1937_World_Ice_Hockey_Championships",
+            "http://dbpedia.org/resource/1950_World_Ice_Hockey_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/1938_World_Ice_Hockey_Championships",
+            "http://dbpedia.org/resource/1949_World_Ice_Hockey_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/1931_World_Ice_Hockey_Championships",
+            "http://dbpedia.org/resource/1935_World_Ice_Hockey_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Ice_hockey_at_the_1956_Winter_Olympics",
+            "http://dbpedia.org/resource/1959_World_Ice_Hockey_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Ice_hockey_at_the_1936_Winter_Olympics",
+            "http://dbpedia.org/resource/1939_World_Ice_Hockey_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/1930_World_Ice_Hockey_Championships",
+            "http://dbpedia.org/resource/1933_World_Ice_Hockey_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Ice_hockey_at_the_1952_Winter_Olympics",
+            "http://dbpedia.org/resource/1955_World_Ice_Hockey_Championships"
+        ]
+    ]
+}

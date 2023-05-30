@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buriram_Province",
+            "http://dbpedia.org/resource/Khao_Kradong_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Khon_Kaen_province",
+            "http://dbpedia.org/resource/Khon_Kaen_Provincial_Administrative_Organization_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Loei_province",
+            "http://dbpedia.org/resource/Loei_Province_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Maha_Sarakham_Province",
+            "http://dbpedia.org/resource/Mahasarakham_Province_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chaiyaphum_province",
+            "http://dbpedia.org/resource/Chaiyaphum_Province_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Nong_Bua_Lamphu_Province",
+            "http://dbpedia.org/resource/Nong_Bua_Lamphu_Province_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Sisaket_Province",
+            "http://dbpedia.org/resource/Sri_Nakhon_Lamduan_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Surin_province",
+            "http://dbpedia.org/resource/Sri_Narong_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Ubon_Ratchathani_Province",
+            "http://dbpedia.org/resource/UMT_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Yasothon_Province",
+            "http://dbpedia.org/resource/Yasothon_Province",
+            "http://dbpedia.org/resource/Yasothon_Province_Stadium"
+        ]
+    ]
+}

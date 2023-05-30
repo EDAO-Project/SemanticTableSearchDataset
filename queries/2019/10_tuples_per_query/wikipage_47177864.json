@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Erjon_Mustafaj",
+            "http://dbpedia.org/resource/Shkumbini_Peqin"
+        ],
+        [
+            "http://dbpedia.org/resource/Gilman_Lika",
+            "http://dbpedia.org/resource/KF_Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Gilman_Lika",
+            "http://dbpedia.org/resource/KF_Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Ilion_Lika",
+            "http://dbpedia.org/resource/KF_Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Elis_Bakaj",
+            "http://dbpedia.org/resource/KF_Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Erando_Karabeci",
+            "http://dbpedia.org/resource/KF_Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Alban_Hoxha",
+            "http://dbpedia.org/resource/FK_Partizani_Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Xhevahir_Sukaj",
+            "http://dbpedia.org/resource/FK_Partizani_Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Elis_Bakaj",
+            "http://dbpedia.org/resource/KF_Tirana"
+        ],
+        [
+            "http://dbpedia.org/resource/Arbnor_Fejzullahu",
+            "http://dbpedia.org/resource/FK_Partizani_Tirana"
+        ]
+    ]
+}

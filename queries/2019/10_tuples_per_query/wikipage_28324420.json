@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kobe_Bryant",
+            "http://dbpedia.org/resource/Los_Angeles_Lakers"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_Durant",
+            "http://dbpedia.org/resource/Oklahoma_City_Thunder"
+        ],
+        [
+            "http://dbpedia.org/resource/Blake_Griffin",
+            "http://dbpedia.org/resource/Los_Angeles_Clippers"
+        ],
+        [
+            "http://dbpedia.org/resource/Dwight_Howard",
+            "http://dbpedia.org/resource/Los_Angeles_Lakers"
+        ],
+        [
+            "http://dbpedia.org/resource/LaMarcus_Aldridge",
+            "http://dbpedia.org/resource/Portland_Trail_Blazers"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Duncan",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Harden",
+            "http://dbpedia.org/resource/Houston_Rockets"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Parker",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/Zach_Randolph",
+            "http://dbpedia.org/resource/Memphis_Grizzlies"
+        ],
+        [
+            "http://dbpedia.org/resource/Russell_Westbrook",
+            "http://dbpedia.org/resource/Oklahoma_City_Thunder"
+        ]
+    ]
+}

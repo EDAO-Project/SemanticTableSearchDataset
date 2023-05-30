@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jacksonville",
+            "http://dbpedia.org/resource/Freebird_Live"
+        ],
+        [
+            "http://dbpedia.org/resource/Orlando,_Florida",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Norfolk,_Virginia",
+            "http://dbpedia.org/resource/Norva_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia",
+            "http://dbpedia.org/resource/The_TLA"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleveland",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto",
+            "http://dbpedia.org/resource/The_Guvernment"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago",
+            "http://dbpedia.org/resource/Cabaret_Metro"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus,_Ohio",
+            "http://dbpedia.org/resource/Newport_Music_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis",
+            "http://dbpedia.org/resource/The_Pageant"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee",
+            "http://dbpedia.org/resource/The_Rave"
+        ]
+    ]
+}

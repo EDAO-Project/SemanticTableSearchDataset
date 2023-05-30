@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Scott_Grix",
+            "http://dbpedia.org/resource/Wakefield_Trinity"
+        ],
+        [
+            "http://dbpedia.org/resource/Luke_George",
+            "http://dbpedia.org/resource/Wakefield_Trinity"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Wardle",
+            "http://dbpedia.org/resource/Bradford_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Brough",
+            "http://dbpedia.org/resource/Wakefield_Trinity"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaun_Lunt",
+            "http://dbpedia.org/resource/Workington_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Kopczak",
+            "http://dbpedia.org/resource/Bradford_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Brett_Ferres",
+            "http://dbpedia.org/resource/Castleford_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Faiumu",
+            "http://dbpedia.org/resource/North_Queensland_Cowboys"
+        ],
+        [
+            "http://dbpedia.org/resource/Aaron_Murphy",
+            "http://dbpedia.org/resource/Wakefield_Trinity"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_Cording",
+            "http://dbpedia.org/resource/Castleford_Tigers"
+        ]
+    ]
+}

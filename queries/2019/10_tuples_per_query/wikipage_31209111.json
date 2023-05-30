@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hiroshima_Big_Arch",
+            "http://dbpedia.org/resource/Sanfrecce_Hiroshima"
+        ],
+        [
+            "http://dbpedia.org/resource/Haruno_Stadium",
+            "http://dbpedia.org/resource/Vegalta_Sendai"
+        ],
+        [
+            "http://dbpedia.org/resource/Mizuho_Athletic_Stadium",
+            "http://dbpedia.org/resource/Nagoya_Grampus_Eight"
+        ],
+        [
+            "http://dbpedia.org/resource/Hitachi_Kashiwa_Soccer_Stadium",
+            "http://dbpedia.org/resource/Kashiwa_Reysol"
+        ],
+        [
+            "http://dbpedia.org/resource/Sapporo_Dome",
+            "http://dbpedia.org/resource/Yokohama_F._Marinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Sapporo_Dome",
+            "http://dbpedia.org/resource/Shimizu_S-Pulse"
+        ],
+        [
+            "http://dbpedia.org/resource/Ichihara_Seaside_Stadium",
+            "http://dbpedia.org/resource/JEF_United_Ichihara"
+        ],
+        [
+            "http://dbpedia.org/resource/Sapporo_Atsubetsu_Park_Stadium",
+            "http://dbpedia.org/resource/Gamba_Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Sapporo_Dome",
+            "http://dbpedia.org/resource/Tokyo_Verdy_1969"
+        ],
+        [
+            "http://dbpedia.org/resource/Sapporo_Atsubetsu_Park_Stadium",
+            "http://dbpedia.org/resource/Kashiwa_Reysol"
+        ]
+    ]
+}

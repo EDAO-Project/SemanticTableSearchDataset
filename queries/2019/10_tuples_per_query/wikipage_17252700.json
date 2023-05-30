@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gino_Martino",
+            "http://dbpedia.org/resource/Worcester,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Fuller",
+            "http://dbpedia.org/resource/Revere,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Gino_Martino",
+            "http://dbpedia.org/resource/Revere,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronnie_D._Lishus",
+            "http://dbpedia.org/resource/Lawrence,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Damien_Sandow",
+            "http://dbpedia.org/resource/Methuen,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/RJ_Brewer",
+            "http://dbpedia.org/resource/Methuen,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Chad_Wicks",
+            "http://dbpedia.org/resource/Tewksbury,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/RJ_Brewer",
+            "http://dbpedia.org/resource/Methuen,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Mailhot",
+            "http://dbpedia.org/resource/Methuen,_MA"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommaso_Ciampa",
+            "http://dbpedia.org/resource/Methuen,_MA"
+        ]
+    ]
+}

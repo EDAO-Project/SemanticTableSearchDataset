@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/World_Championships_in_Athletics",
+            "http://dbpedia.org/resource/Anju_Bobby_George"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_Commonwealth_Games",
+            "http://dbpedia.org/resource/Milkha_Singh"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_Commonwealth_Games",
+            "http://dbpedia.org/resource/Mohinder_Singh_Gill"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_Commonwealth_Games",
+            "http://dbpedia.org/resource/Mohinder_Singh_Gill"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_Commonwealth_Games",
+            "http://dbpedia.org/resource/Suresh_Babu"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_Commonwealth_Games",
+            "http://dbpedia.org/resource/Anju_Bobby_George"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_Commonwealth_Games",
+            "http://dbpedia.org/resource/Neelam_Jaswant_Singh"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_Commonwealth_Games",
+            "http://dbpedia.org/resource/Ranjith_Kumar_Jayaseelan"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_Commonwealth_Games",
+            "http://dbpedia.org/resource/Seema_Punia"
+        ],
+        [
+            "http://dbpedia.org/resource/Athletics_at_the_Commonwealth_Games",
+            "http://dbpedia.org/resource/Harminder_Singh"
+        ]
+    ]
+}

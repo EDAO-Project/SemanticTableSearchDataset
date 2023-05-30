@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Carlow_County_Council",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Cavan_County_Council",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Clare_County_Council",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Cork_County_Council",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Donegal_County_Council",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Fingal",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Galway_County_Council",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerry_County_Council",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Kildare_County_Council",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Kilkenny_County_Council",
+            "http://dbpedia.org/resource/1999_Wicklow_County_Council_election"
+        ]
+    ]
+}

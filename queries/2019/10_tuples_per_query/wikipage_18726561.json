@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Notts_County",
+            "http://dbpedia.org/resource/Leeds_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Nottingham_Forest",
+            "http://dbpedia.org/resource/Peterborough_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Peterborough_United",
+            "http://dbpedia.org/resource/Nottingham_Forest"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Bromwich_Albion",
+            "http://dbpedia.org/resource/Carlisle_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Luton_Town",
+            "http://dbpedia.org/resource/Blackburn_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Swindon_Town",
+            "http://dbpedia.org/resource/Tooting_&_Mitcham_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Tooting_&_Mitcham_United",
+            "http://dbpedia.org/resource/Swindon_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Ipswich_Town",
+            "http://dbpedia.org/resource/Halifax_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Tottenham_Hotspur",
+            "http://dbpedia.org/resource/Stoke_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Stoke_City",
+            "http://dbpedia.org/resource/Tottenham_Hotspur"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Crazy_Frog",
+            "http://dbpedia.org/resource/Gnarls_Barkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Crazy_Frog",
+            "http://dbpedia.org/resource/Gnarls_Barkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Crazy_Frog",
+            "http://dbpedia.org/resource/Gnarls_Barkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Tribal_King",
+            "http://dbpedia.org/resource/Gnarls_Barkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Tribal_King",
+            "http://dbpedia.org/resource/Bob_Sinclar"
+        ],
+        [
+            "http://dbpedia.org/resource/Tribal_King",
+            "http://dbpedia.org/resource/Bob_Sinclar"
+        ],
+        [
+            "http://dbpedia.org/resource/Tribal_King",
+            "http://dbpedia.org/resource/Bob_Sinclar"
+        ],
+        [
+            "http://dbpedia.org/resource/Tribal_King",
+            "http://dbpedia.org/resource/Gnarls_Barkley"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnny_Hallyday",
+            "http://dbpedia.org/resource/Bob_Sinclar"
+        ],
+        [
+            "http://dbpedia.org/resource/Faudel",
+            "http://dbpedia.org/resource/Fatal_Bazooka"
+        ]
+    ]
+}

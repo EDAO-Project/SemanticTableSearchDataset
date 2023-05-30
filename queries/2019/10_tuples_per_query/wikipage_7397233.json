@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Austria",
+            "http://dbpedia.org/resource/Geriatriezentrum_Am_Wienerwald_Feldbahn"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Pleasure_Beach_Express"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Snailbeach_District_Railways"
+        ],
+        [
+            "http://dbpedia.org/resource/Eritrea",
+            "http://dbpedia.org/resource/Eritrean_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Libya",
+            "http://dbpedia.org/resource/Italian_Libya_Railways"
+        ],
+        [
+            "http://dbpedia.org/resource/Somalia",
+            "http://dbpedia.org/resource/Mogadishu-Villabruzzi_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Clifton_Rocks_Railway"
+        ],
+        [
+            "http://dbpedia.org/resource/Bulgaria",
+            "http://dbpedia.org/resource/Sofia_Tramway"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Herne_Bay_Pier"
+        ],
+        [
+            "http://dbpedia.org/resource/England",
+            "http://dbpedia.org/resource/Lake_Lock_Rail_Road"
+        ]
+    ]
+}

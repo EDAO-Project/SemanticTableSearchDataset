@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Great_Britain",
+            "http://dbpedia.org/resource/Robbie_Kerr"
+        ],
+        [
+            "http://dbpedia.org/resource/Italy",
+            "http://dbpedia.org/resource/Enrico_Toccacelo"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia",
+            "http://dbpedia.org/resource/Alex_Yoong"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Jeroen_Bleekemolen"
+        ],
+        [
+            "http://dbpedia.org/resource/India",
+            "http://dbpedia.org/resource/Narain_Karthikeyan"
+        ],
+        [
+            "http://dbpedia.org/resource/USA",
+            "http://dbpedia.org/resource/Jonathan_Summerton"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Bruno_Junqueira"
+        ],
+        [
+            "http://dbpedia.org/resource/Australia",
+            "http://dbpedia.org/resource/Ian_Dyk"
+        ],
+        [
+            "http://dbpedia.org/resource/Indonesia",
+            "http://dbpedia.org/resource/Moreno_Soeprapto"
+        ],
+        [
+            "http://dbpedia.org/resource/Lebanon",
+            "http://dbpedia.org/resource/Allam_Khodair"
+        ]
+    ]
+}

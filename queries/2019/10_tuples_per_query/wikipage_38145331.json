@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Malaysian_general_election",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Malaysian_general_election",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Malaysian_general_election",
+            "http://dbpedia.org/resource/Pan-Malaysian_Islamic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Malaysian_general_election",
+            "http://dbpedia.org/resource/Pan-Malaysian_Islamic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Malaysian_general_election",
+            "http://dbpedia.org/resource/Pan-Malaysian_Islamic_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Malaysian_general_election",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Malaysian_general_election",
+            "http://dbpedia.org/resource/Barisan_Nasional"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Malaysian_general_election",
+            "http://dbpedia.org/resource/Democratic_Action_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Malaysian_general_election",
+            "http://dbpedia.org/resource/Democratic_Action_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Malaysian_general_election",
+            "http://dbpedia.org/resource/Democratic_Action_Party"
+        ]
+    ]
+}

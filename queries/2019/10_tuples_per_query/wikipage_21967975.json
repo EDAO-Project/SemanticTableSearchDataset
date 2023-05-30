@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_6",
+            "http://dbpedia.org/resource/Gelugor_Highway"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_16",
+            "http://dbpedia.org/resource/Senai_Airport_Highway"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_17",
+            "http://dbpedia.org/resource/Pasir_Gudang_Highway"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_20",
+            "http://dbpedia.org/resource/North_Klang_Straits_Bypass"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_26",
+            "http://dbpedia.org/resource/KLIA_Expressway"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_27",
+            "http://dbpedia.org/resource/KLIA_Outer_Ring_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_28",
+            "http://dbpedia.org/resource/Kuala_Lumpur_Middle_Ring_Road_2"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_30",
+            "http://dbpedia.org/resource/Putrajaya_Ring_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_54",
+            "http://dbpedia.org/resource/Sungai_Buloh_Highway"
+        ],
+        [
+            "http://dbpedia.org/resource/Malaysia_Federal_Route_56",
+            "http://dbpedia.org/resource/Jalan_Bukit_Fraser"
+        ]
+    ]
+}

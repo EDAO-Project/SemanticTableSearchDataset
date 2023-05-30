@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Narain_Karthikeyan",
+            "http://dbpedia.org/resource/Carlin_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Takuma_Sato",
+            "http://dbpedia.org/resource/Carlin_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Enrico_Toccacelo",
+            "http://dbpedia.org/resource/Prema_Powerteam"
+        ],
+        [
+            "http://dbpedia.org/resource/Gianmaria_Bruni",
+            "http://dbpedia.org/resource/Fortec_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Jonathan_Cochet",
+            "http://dbpedia.org/resource/OAK_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Tiago_Monteiro",
+            "http://dbpedia.org/resource/ART_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Priaulx",
+            "http://dbpedia.org/resource/Manor_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomas_Scheckter",
+            "http://dbpedia.org/resource/Swiss_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Yoong",
+            "http://dbpedia.org/resource/Swiss_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Lei_Kit_Meng",
+            "http://dbpedia.org/resource/Manor_Motorsport"
+        ]
+    ]
+}

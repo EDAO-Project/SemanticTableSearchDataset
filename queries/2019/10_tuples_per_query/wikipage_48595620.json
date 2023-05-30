@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Akhilesh_Yadav",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Ambika_Choudhury",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Dr._Madhu_Gupta",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Naresh_Chandra_Uttam",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Umar_Khan",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Thakur_Jaiveer_Singh",
+            "http://dbpedia.org/resource/Bahujan_Samaj_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahendra_Kumar_Singh",
+            "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Ahmed_Hasan",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramesh_Yadav",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashok_Bajpai",
+            "http://dbpedia.org/resource/Samajwadi_Party"
+        ]
+    ]
+}

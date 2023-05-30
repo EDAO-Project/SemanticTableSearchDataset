@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Columbus,_Georgia",
+            "http://dbpedia.org/resource/Running_Aces_Casino_&_Racetrack"
+        ],
+        [
+            "http://dbpedia.org/resource/Dallas",
+            "http://dbpedia.org/resource/Gas_Monkey_Live"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit",
+            "http://dbpedia.org/resource/Detroit_International_Riverfront"
+        ],
+        [
+            "http://dbpedia.org/resource/Las_Vegas",
+            "http://dbpedia.org/resource/Orleans_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Santa_Ana,_California",
+            "http://dbpedia.org/resource/Yost_Theater"
+        ],
+        [
+            "http://dbpedia.org/resource/Duluth,_Minnesota",
+            "http://dbpedia.org/resource/Clyde_Iron_Works"
+        ],
+        [
+            "http://dbpedia.org/resource/Moline,_Illinois",
+            "http://dbpedia.org/resource/TaxSlayer_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Kalamazoo,_Michigan",
+            "http://dbpedia.org/resource/Wings_Event_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Evansville,_Indiana",
+            "http://dbpedia.org/resource/Ford_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Glens_Falls,_New_York",
+            "http://dbpedia.org/resource/Cool_Insuring_Arena"
+        ]
+    ]
+}

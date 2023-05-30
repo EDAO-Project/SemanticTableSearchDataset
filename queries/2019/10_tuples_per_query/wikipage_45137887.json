@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pierre_Beuffeuil",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Cazala",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Jean_Gainche",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Alfons_Hellemans",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Frans_Melckenbeeck",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Jean_Milesi",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Raymond_Poulidor",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Leborgne",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_Van_Schil",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ],
+        [
+            "http://dbpedia.org/resource/August_Verhaegen",
+            "http://dbpedia.org/resource/Mercier-BP-Hutchinson"
+        ]
+    ]
+}

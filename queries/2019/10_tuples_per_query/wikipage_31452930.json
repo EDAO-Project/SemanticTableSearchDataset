@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shizuoka_Stadium",
+            "http://dbpedia.org/resource/Yokohama_F._Marinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Yamaha_Stadium",
+            "http://dbpedia.org/resource/Urawa_Red_Diamonds"
+        ],
+        [
+            "http://dbpedia.org/resource/Shizuoka_Stadium",
+            "http://dbpedia.org/resource/Shimizu_S-Pulse"
+        ],
+        [
+            "http://dbpedia.org/resource/Yamaha_Stadium",
+            "http://dbpedia.org/resource/Vissel_Kobe"
+        ],
+        [
+            "http://dbpedia.org/resource/Miyagi_Stadium",
+            "http://dbpedia.org/resource/Vegalta_Sendai"
+        ],
+        [
+            "http://dbpedia.org/resource/Shizuoka_Stadium",
+            "http://dbpedia.org/resource/Tokyo_Verdy_1969"
+        ],
+        [
+            "http://dbpedia.org/resource/Yamaha_Stadium",
+            "http://dbpedia.org/resource/Kyoto_Purple_Sanga"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagai_Stadium",
+            "http://dbpedia.org/resource/Cerezo_Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Yamaha_Stadium",
+            "http://dbpedia.org/resource/Nagoya_Grampus_Eight"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashima_Soccer_Stadium",
+            "http://dbpedia.org/resource/Kashima_Antlers"
+        ]
+    ]
+}

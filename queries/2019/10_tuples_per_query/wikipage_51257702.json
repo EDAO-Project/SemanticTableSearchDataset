@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Uwe_Seeler",
+            "http://dbpedia.org/resource/Hamburger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Breuer",
+            "http://dbpedia.org/resource/Alemannia_Aachen"
+        ],
+        [
+            "http://dbpedia.org/resource/Horst_Hrubesch",
+            "http://dbpedia.org/resource/Hamburger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Dirk_Kurtenbach",
+            "http://dbpedia.org/resource/Stuttgarter_Kickers"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefan_Kuntz",
+            "http://dbpedia.org/resource/KFC_Uerdingen_05"
+        ],
+        [
+            "http://dbpedia.org/resource/Christian_Schreier",
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen"
+        ],
+        [
+            "http://dbpedia.org/resource/Wynton_Rufer",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/Fritz_Walter",
+            "http://dbpedia.org/resource/VfB_Stuttgart"
+        ],
+        [
+            "http://dbpedia.org/resource/Vladimir_Beschastnykh",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/Dimitar_Berbatov",
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen"
+        ]
+    ]
+}

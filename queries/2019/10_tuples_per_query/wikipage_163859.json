@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Takehisa_Tsuji"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Yoshikatsu_Takeiri"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Yoshikatsu_Takeiri"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Yoshikatsu_Takeiri"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Yoshikatsu_Takeiri"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Yoshikatsu_Takeiri"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Yoshikatsu_Takeiri"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Yoshikatsu_Takeiri"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Tomio_Fujii"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_Japanese_House_of_Councillors_election",
+            "http://dbpedia.org/resource/Toshiko_Hamayotsu"
+        ]
+    ]
+}

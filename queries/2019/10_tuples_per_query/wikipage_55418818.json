@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alex_Horwath",
+            "http://dbpedia.org/resource/SK_Brann"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Beltran",
+            "http://dbpedia.org/resource/2008_MLS_SuperDraft"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Horst",
+            "http://dbpedia.org/resource/Houston_Dynamo"
+        ],
+        [
+            "http://dbpedia.org/resource/Damir_Kreilach",
+            "http://dbpedia.org/resource/Union_Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephen_Sunday",
+            "http://dbpedia.org/resource/Alanyaspor"
+        ],
+        [
+            "http://dbpedia.org/resource/Joao_Plata",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Nick_Besler",
+            "http://dbpedia.org/resource/Real_Monarchs"
+        ],
+        [
+            "http://dbpedia.org/resource/Demar_Phillips",
+            "http://dbpedia.org/resource/Aalesunds_FK"
+        ],
+        [
+            "http://dbpedia.org/resource/Nick_Rimando",
+            "http://dbpedia.org/resource/D.C._United"
+        ],
+        [
+            "http://dbpedia.org/resource/Luke_Mulholland",
+            "http://dbpedia.org/resource/Tampa_Bay_Rowdies"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/28th_Annie_Awards",
+            "http://dbpedia.org/resource/The_Road_to_El_Dorado"
+        ],
+        [
+            "http://dbpedia.org/resource/28th_Annie_Awards",
+            "http://dbpedia.org/resource/Toy_Story_2"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Annie_Awards",
+            "http://dbpedia.org/resource/Shrek"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Annie_Awards",
+            "http://dbpedia.org/resource/Atlantis:_The_Lost_Empire"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Annie_Awards",
+            "http://dbpedia.org/resource/Osmosis_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/29th_Annie_Awards",
+            "http://dbpedia.org/resource/Shrek"
+        ],
+        [
+            "http://dbpedia.org/resource/30th_Annie_Awards",
+            "http://dbpedia.org/resource/Spirit:_Stallion_of_the_Cimarron"
+        ],
+        [
+            "http://dbpedia.org/resource/30th_Annie_Awards",
+            "http://dbpedia.org/resource/Lilo_&_Stitch"
+        ],
+        [
+            "http://dbpedia.org/resource/30th_Annie_Awards",
+            "http://dbpedia.org/resource/Treasure_Planet"
+        ],
+        [
+            "http://dbpedia.org/resource/31st_Annie_Awards",
+            "http://dbpedia.org/resource/Finding_Nemo"
+        ]
+    ]
+}

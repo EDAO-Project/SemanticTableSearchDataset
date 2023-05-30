@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ljubljana",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Ljubljana",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Celje",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Ljubljana",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Celje",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Jesenice,_Jesenice",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Ljubljana",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Jesenice,_Jesenice",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Ljubljana",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ],
+        [
+            "http://dbpedia.org/resource/Jesenice,_Jesenice",
+            "http://dbpedia.org/resource/Gregor_Urbas"
+        ]
+    ]
+}

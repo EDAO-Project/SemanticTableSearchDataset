@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/My_Wife_and_Kids",
+            "http://dbpedia.org/resource/Touchstone_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Sunday_Pants",
+            "http://dbpedia.org/resource/Cartoon_Network"
+        ],
+        [
+            "http://dbpedia.org/resource/Random!_Cartoons",
+            "http://dbpedia.org/resource/Nickelodeon"
+        ],
+        [
+            "http://dbpedia.org/resource/Slacker_Cats",
+            "http://dbpedia.org/resource/ABC_Family"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Tigre:_The_Adventures_of_Manny_Rivera",
+            "http://dbpedia.org/resource/Nickelodeon"
+        ],
+        [
+            "http://dbpedia.org/resource/Drop_Dead_Diva",
+            "http://dbpedia.org/resource/Sony_Pictures_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Benson_Interruption",
+            "http://dbpedia.org/resource/Comedy_Central"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Looney_Tunes_Show",
+            "http://dbpedia.org/resource/Warner_Bros._Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Comedians_in_Cars_Getting_Coffee",
+            "http://dbpedia.org/resource/Sony_Pictures_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Like,_Share,_Die",
+            "http://dbpedia.org/resource/Mondo_Media"
+        ]
+    ]
+}

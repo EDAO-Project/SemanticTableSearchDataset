@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Piet_Raymakers"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Jeroen_Dubbeldam"
+        ],
+        [
+            "http://dbpedia.org/resource/Netherlands",
+            "http://dbpedia.org/resource/Albert_Zoer"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Margie_Engle"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Laura_Kraut"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/McLain_Ward"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States",
+            "http://dbpedia.org/resource/Beezie_Madden"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Cassio_Rivetti"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil",
+            "http://dbpedia.org/resource/Bernardo_Alves"
+        ],
+        [
+            "http://dbpedia.org/resource/Belgium",
+            "http://dbpedia.org/resource/Jos_Lansink"
+        ]
+    ]
+}

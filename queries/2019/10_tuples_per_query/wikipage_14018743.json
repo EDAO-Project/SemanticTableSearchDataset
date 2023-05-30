@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Poenulus",
+            "http://dbpedia.org/resource/Plautus"
+        ],
+        [
+            "http://dbpedia.org/resource/Menaechmi",
+            "http://dbpedia.org/resource/Plautus"
+        ],
+        [
+            "http://dbpedia.org/resource/Stichus",
+            "http://dbpedia.org/resource/Plautus"
+        ],
+        [
+            "http://dbpedia.org/resource/Oedipus",
+            "http://dbpedia.org/resource/Seneca_the_younger"
+        ],
+        [
+            "http://dbpedia.org/resource/Mostellaria",
+            "http://dbpedia.org/resource/Plautus"
+        ],
+        [
+            "http://dbpedia.org/resource/Amphitruo",
+            "http://dbpedia.org/resource/Plautus"
+        ],
+        [
+            "http://dbpedia.org/resource/Pseudolus",
+            "http://dbpedia.org/resource/Plautus"
+        ],
+        [
+            "http://dbpedia.org/resource/Eunuchus",
+            "http://dbpedia.org/resource/Terence"
+        ],
+        [
+            "http://dbpedia.org/resource/Trinummus",
+            "http://dbpedia.org/resource/Plautus"
+        ],
+        [
+            "http://dbpedia.org/resource/Stichus",
+            "http://dbpedia.org/resource/Plautus"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SV_Werder_Bremen_II",
+            "http://dbpedia.org/resource/MSV_Duisburg"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_St._Pauli",
+            "http://dbpedia.org/resource/FC_Energie_Cottbus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kickers_Offenbach",
+            "http://dbpedia.org/resource/LR_Ahlen"
+        ],
+        [
+            "http://dbpedia.org/resource/Jahn_Regensburg_II",
+            "http://dbpedia.org/resource/SpVgg_Unterhaching"
+        ],
+        [
+            "http://dbpedia.org/resource/Eintracht_Braunschweig",
+            "http://dbpedia.org/resource/Wacker_Burghausen"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FC_Union_Berlin",
+            "http://dbpedia.org/resource/SC_Freiburg"
+        ],
+        [
+            "http://dbpedia.org/resource/SC_Paderborn_07",
+            "http://dbpedia.org/resource/Hamburger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Jahn_Regensburg",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FSV_Mainz_05_II",
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen"
+        ],
+        [
+            "http://dbpedia.org/resource/TuS_Mayen",
+            "http://dbpedia.org/resource/VfB_Stuttgart"
+        ]
+    ]
+}

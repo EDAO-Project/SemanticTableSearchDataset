@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stanislav_Timchenko",
+            "http://dbpedia.org/resource/Miki_Ando"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrei_Griazev",
+            "http://dbpedia.org/resource/Irina_Tkatchuk"
+        ],
+        [
+            "http://dbpedia.org/resource/Daisuke_Takahashi",
+            "http://dbpedia.org/resource/Akiko_Suzuki"
+        ],
+        [
+            "http://dbpedia.org/resource/Kevin_van_der_Perren",
+            "http://dbpedia.org/resource/Ludmila_Nelidina"
+        ],
+        [
+            "http://dbpedia.org/resource/Shawn_Sawyer",
+            "http://dbpedia.org/resource/Tatiana_Basova"
+        ],
+        [
+            "http://dbpedia.org/resource/Ma_Xiaodong",
+            "http://dbpedia.org/resource/Yukina_Ota"
+        ],
+        [
+            "http://dbpedia.org/resource/Ari-Pekka_Nurmenkari",
+            "http://dbpedia.org/resource/Yukari_Nakano"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamal_Othman",
+            "http://dbpedia.org/resource/Cynthia_Phaneuf"
+        ],
+        [
+            "http://dbpedia.org/resource/Damien_Djordievic",
+            "http://dbpedia.org/resource/Irina_Nikolaeva"
+        ],
+        [
+            "http://dbpedia.org/resource/Karel_Zelenka",
+            "http://dbpedia.org/resource/Kimena_Brog-Meier"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shochiku_Robins",
+            "http://dbpedia.org/resource/Pitcher"
+        ],
+        [
+            "http://dbpedia.org/resource/Yomiuri_Giants",
+            "http://dbpedia.org/resource/Pitcher"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo_Yakult_Swallows",
+            "http://dbpedia.org/resource/Shortstop"
+        ],
+        [
+            "http://dbpedia.org/resource/Yokohama_DeNA_BayStars",
+            "http://dbpedia.org/resource/Pitcher"
+        ],
+        [
+            "http://dbpedia.org/resource/Yomiuri_Giants",
+            "http://dbpedia.org/resource/Shortstop"
+        ],
+        [
+            "http://dbpedia.org/resource/Yokohama_DeNA_BayStars",
+            "http://dbpedia.org/resource/Pitcher"
+        ],
+        [
+            "http://dbpedia.org/resource/Yomiuri_Giants",
+            "http://dbpedia.org/resource/Pitcher"
+        ],
+        [
+            "http://dbpedia.org/resource/Yomiuri_Giants",
+            "http://dbpedia.org/resource/Third_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Yokohama_DeNA_BayStars",
+            "http://dbpedia.org/resource/Third_baseman"
+        ],
+        [
+            "http://dbpedia.org/resource/Yomiuri_Giants",
+            "http://dbpedia.org/resource/Pitcher"
+        ]
+    ]
+}

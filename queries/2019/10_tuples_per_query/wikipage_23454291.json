@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nik_Antropov",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Joel_Kwiatkowski",
+            "http://dbpedia.org/resource/Severstal_Cherepovets"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Krog",
+            "http://dbpedia.org/resource/Manitoba_Moose"
+        ],
+        [
+            "http://dbpedia.org/resource/Drew_MacIntyre",
+            "http://dbpedia.org/resource/Milwaukee_Admirals"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Mannino",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Noah_Welch",
+            "http://dbpedia.org/resource/Tampa_Bay_Lightning"
+        ],
+        [
+            "http://dbpedia.org/resource/Josh_Gratton",
+            "http://dbpedia.org/resource/Philadelphia_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Vernace",
+            "http://dbpedia.org/resource/Colorado_Avalanche"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Popovic",
+            "http://dbpedia.org/resource/SKA_Saint_Petersburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Maxim_Afinogenov",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ]
+    ]
+}

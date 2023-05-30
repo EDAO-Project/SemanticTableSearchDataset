@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_in_video_gaming",
+            "http://dbpedia.org/resource/Never_7:_The_End_of_Infinity"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_video_gaming",
+            "http://dbpedia.org/resource/Memories_Off_Pure"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_in_video_gaming",
+            "http://dbpedia.org/resource/Memories_Off_2nd"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_in_video_gaming",
+            "http://dbpedia.org/resource/Ever_17:_The_Out_of_Infinity"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_in_video_gaming",
+            "http://dbpedia.org/resource/Remember_11:_The_Age_of_Infinity"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_video_gaming",
+            "http://dbpedia.org/resource/Kamaitachi_no_Yoru_Niwango-ban"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_in_video_gaming",
+            "http://dbpedia.org/resource/12Riven:_The_Psi-Climinal_of_Integral"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_in_video_gaming",
+            "http://dbpedia.org/resource/Zero_Escape:_Nine_Hours,_Nine_Persons,_Nine_Doors"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_in_video_gaming",
+            "http://dbpedia.org/resource/Steins;Gate:_Linear_Bounded_Phenogram"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_in_video_gaming",
+            "http://dbpedia.org/resource/Zero_Escape:_Zero_Time_Dilemma"
+        ]
+    ]
+}

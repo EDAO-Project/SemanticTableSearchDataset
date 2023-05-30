@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SpVgg_Unterhaching",
+            "http://dbpedia.org/resource/Stuttgarter_Kickers"
+        ],
+        [
+            "http://dbpedia.org/resource/Stuttgarter_Kickers",
+            "http://dbpedia.org/resource/VfR_Mannheim"
+        ],
+        [
+            "http://dbpedia.org/resource/SSV_Ulm_1846",
+            "http://dbpedia.org/resource/Kickers_Offenbach"
+        ],
+        [
+            "http://dbpedia.org/resource/SV_Waldhof_Mannheim",
+            "http://dbpedia.org/resource/Kickers_Offenbach"
+        ],
+        [
+            "http://dbpedia.org/resource/SSV_Reutlingen",
+            "http://dbpedia.org/resource/SC_Pfullendorf"
+        ],
+        [
+            "http://dbpedia.org/resource/Karlsruher_SC",
+            "http://dbpedia.org/resource/VfB_Stuttgart_II"
+        ],
+        [
+            "http://dbpedia.org/resource/Wacker_Burghausen",
+            "http://dbpedia.org/resource/Eintracht_Trier"
+        ],
+        [
+            "http://dbpedia.org/resource/SpVgg_Unterhaching",
+            "http://dbpedia.org/resource/SSV_Jahn_Regensburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Kickers_Offenbach",
+            "http://dbpedia.org/resource/Sportfreunde_Siegen"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Augsburg",
+            "http://dbpedia.org/resource/TuS_Koblenz"
+        ]
+    ]
+}

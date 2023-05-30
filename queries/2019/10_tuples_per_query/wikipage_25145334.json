@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abilene_Christian_University",
+            "http://dbpedia.org/resource/Lone_Star_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Albany_State_University",
+            "http://dbpedia.org/resource/Southern_Intercollegiate_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkansas_Tech_University",
+            "http://dbpedia.org/resource/Gulf_South_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/California_University_of_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_State_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Carson-Newman_College",
+            "http://dbpedia.org/resource/South_Atlantic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Stroudsburg_University_of_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_State_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Edinboro_University_of_Pennsylvania",
+            "http://dbpedia.org/resource/Pennsylvania_State_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Fayetteville_State_University",
+            "http://dbpedia.org/resource/Central_Intercollegiate_Athletic_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Valley_State_University",
+            "http://dbpedia.org/resource/Great_Lakes_Intercollegiate_Athletic_Conference"
+        ],
+        [
+            "http://dbpedia.org/resource/Hillsdale_College",
+            "http://dbpedia.org/resource/Great_Lakes_Intercollegiate_Athletic_Conference"
+        ]
+    ]
+}

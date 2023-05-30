@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alanine",
+            "http://dbpedia.org/resource/MT-TA"
+        ],
+        [
+            "http://dbpedia.org/resource/Arginine",
+            "http://dbpedia.org/resource/MT-TR"
+        ],
+        [
+            "http://dbpedia.org/resource/Asparagine",
+            "http://dbpedia.org/resource/MT-TN"
+        ],
+        [
+            "http://dbpedia.org/resource/Aspartic_acid",
+            "http://dbpedia.org/resource/MT-TD"
+        ],
+        [
+            "http://dbpedia.org/resource/Cysteine",
+            "http://dbpedia.org/resource/MT-TC"
+        ],
+        [
+            "http://dbpedia.org/resource/Glutamic_acid",
+            "http://dbpedia.org/resource/MT-TE"
+        ],
+        [
+            "http://dbpedia.org/resource/Glutamine",
+            "http://dbpedia.org/resource/MT-TQ"
+        ],
+        [
+            "http://dbpedia.org/resource/Glycine",
+            "http://dbpedia.org/resource/MT-TG"
+        ],
+        [
+            "http://dbpedia.org/resource/Histidine",
+            "http://dbpedia.org/resource/MT-TH"
+        ],
+        [
+            "http://dbpedia.org/resource/Isoleucine",
+            "http://dbpedia.org/resource/MT-TI"
+        ]
+    ]
+}

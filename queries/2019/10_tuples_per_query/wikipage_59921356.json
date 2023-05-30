@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brett_Bodine_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Hendrick_Motorsports",
+            "http://dbpedia.org/resource/Chevrolet"
+        ],
+        [
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Wood_Brothers_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/PPI_Motorsports",
+            "http://dbpedia.org/resource/Pontiac"
+        ],
+        [
+            "http://dbpedia.org/resource/Yates_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/BelCar_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Roush_Fenway_Racing",
+            "http://dbpedia.org/resource/Ford_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_Davis_Racing",
+            "http://dbpedia.org/resource/Dodge"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jokerit",
+            "http://dbpedia.org/resource/SM-Liiga"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Thrashers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Thrashers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Thrashers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Minnesota_Wild",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Lokomotiv_Yaroslavl",
+            "http://dbpedia.org/resource/Russian_Super_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Avalanche",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Lokomotiv_Yaroslavl",
+            "http://dbpedia.org/resource/Kontinental_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Lokomotiv_Yaroslavl",
+            "http://dbpedia.org/resource/Kontinental_Hockey_League"
+        ]
+    ]
+}

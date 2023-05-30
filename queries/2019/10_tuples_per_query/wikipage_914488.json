@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1994_NFL_season",
+            "http://dbpedia.org/resource/2001_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_NFL_season",
+            "http://dbpedia.org/resource/2001_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_NFL_season",
+            "http://dbpedia.org/resource/2001_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_NFL_season",
+            "http://dbpedia.org/resource/2001_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1998_NFL_season",
+            "http://dbpedia.org/resource/2001_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_NFL_season",
+            "http://dbpedia.org/resource/2001_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_NFL_season",
+            "http://dbpedia.org/resource/2001_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_NFL_season",
+            "http://dbpedia.org/resource/2001_Green_Bay_Packers_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_NFL_season",
+            "http://dbpedia.org/resource/2004_Philadelphia_Eagles_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_NFL_season",
+            "http://dbpedia.org/resource/2003_New_York_Giants_season"
+        ]
+    ]
+}

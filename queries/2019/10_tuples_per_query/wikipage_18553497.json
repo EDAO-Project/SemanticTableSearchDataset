@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ghazl_El-Mehalla",
+            "http://dbpedia.org/resource/Osman_Ahmed_Osman"
+        ],
+        [
+            "http://dbpedia.org/resource/El-Ittihad_El-Iskandary",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/El-Masry",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Itesalat",
+            "http://dbpedia.org/resource/Osman_Ahmed_Osman"
+        ],
+        [
+            "http://dbpedia.org/resource/Tersana",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Haras_El_Hodood",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/El-Jaish",
+            "http://dbpedia.org/resource/Osman_Ahmed_Osman"
+        ],
+        [
+            "http://dbpedia.org/resource/El-Olympi",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Ahly_SC",
+            "http://dbpedia.org/resource/Osman_Ahmed_Osman"
+        ],
+        [
+            "http://dbpedia.org/resource/Al-Mokawloon_al-Arab",
+            "http://dbpedia.org/resource/Cairo_International_Stadium"
+        ]
+    ]
+}

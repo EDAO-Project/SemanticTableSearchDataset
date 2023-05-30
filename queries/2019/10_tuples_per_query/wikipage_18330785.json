@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Defensor_Lima",
+            "http://dbpedia.org/resource/Copa_Libertadores_1974"
+        ],
+        [
+            "http://dbpedia.org/resource/Palestino",
+            "http://dbpedia.org/resource/Copa_Libertadores_1979"
+        ],
+        [
+            "http://dbpedia.org/resource/Jorge_Wilstermann",
+            "http://dbpedia.org/resource/Copa_Libertadores_1981"
+        ],
+        [
+            "http://dbpedia.org/resource/Deportes_Tolima",
+            "http://dbpedia.org/resource/Copa_Libertadores_1982"
+        ],
+        [
+            "http://dbpedia.org/resource/Sporting_Cristal",
+            "http://dbpedia.org/resource/Copa_Libertadores_1997"
+        ],
+        [
+            "http://dbpedia.org/resource/Vasco_da_Gama",
+            "http://dbpedia.org/resource/Copa_Libertadores_1998"
+        ],
+        [
+            "http://dbpedia.org/resource/Cruz_Azul",
+            "http://dbpedia.org/resource/Copa_Libertadores_2001"
+        ],
+        [
+            "http://dbpedia.org/resource/Once_Caldas",
+            "http://dbpedia.org/resource/Copa_Libertadores_2004"
+        ],
+        [
+            "http://dbpedia.org/resource/Defensor_Sporting",
+            "http://dbpedia.org/resource/2014_Copa_Libertadores"
+        ],
+        [
+            "http://dbpedia.org/resource/Independiente_del_Valle",
+            "http://dbpedia.org/resource/2016_Copa_Libertadores"
+        ]
+    ]
+}

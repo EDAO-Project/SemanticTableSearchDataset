@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Justin_Credible",
+            "http://dbpedia.org/resource/WWE"
+        ],
+        [
+            "http://dbpedia.org/resource/Bryan_Danielson",
+            "http://dbpedia.org/resource/New_Japan_Pro_Wrestling"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Snow",
+            "http://dbpedia.org/resource/WWE"
+        ],
+        [
+            "http://dbpedia.org/resource/Owen_Hart",
+            "http://dbpedia.org/resource/Stampede_Wrestling"
+        ],
+        [
+            "http://dbpedia.org/resource/Dean_Peters",
+            "http://dbpedia.org/resource/WWE"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Marino",
+            "http://dbpedia.org/resource/WWE"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Jack_Haynes",
+            "http://dbpedia.org/resource/World_Championship_Wrestling"
+        ],
+        [
+            "http://dbpedia.org/resource/Owen_Hart",
+            "http://dbpedia.org/resource/WWE"
+        ],
+        [
+            "http://dbpedia.org/resource/Blue_Demon",
+            "http://dbpedia.org/resource/Consejo_Mundial_de_Lucha_Libre"
+        ],
+        [
+            "http://dbpedia.org/resource/Bullet_Bob_Armstrong",
+            "http://dbpedia.org/resource/Independent_circuit"
+        ]
+    ]
+}

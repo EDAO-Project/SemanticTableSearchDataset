@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Valentino_Rossi",
+            "http://dbpedia.org/resource/Yamaha_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Melandri",
+            "http://dbpedia.org/resource/Honda"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicky_Hayden",
+            "http://dbpedia.org/resource/Honda"
+        ],
+        [
+            "http://dbpedia.org/resource/Dani_Pedrosa",
+            "http://dbpedia.org/resource/Honda"
+        ],
+        [
+            "http://dbpedia.org/resource/Loris_Capirossi",
+            "http://dbpedia.org/resource/Ducati"
+        ],
+        [
+            "http://dbpedia.org/resource/Shinya_Nakano",
+            "http://dbpedia.org/resource/Kawasaki_Heavy_Industries"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlos_Checa",
+            "http://dbpedia.org/resource/Yamaha_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Colin_Edwards",
+            "http://dbpedia.org/resource/Yamaha_Motor_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Randy_de_Puniet",
+            "http://dbpedia.org/resource/Kawasaki_Heavy_Industries"
+        ],
+        [
+            "http://dbpedia.org/resource/Makoto_Tamada",
+            "http://dbpedia.org/resource/Honda"
+        ]
+    ]
+}

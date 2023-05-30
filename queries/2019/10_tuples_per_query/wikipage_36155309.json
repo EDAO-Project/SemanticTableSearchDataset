@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbey_Road",
+            "http://dbpedia.org/resource/The_Beatles"
+        ],
+        [
+            "http://dbpedia.org/resource/Abbey_Road",
+            "http://dbpedia.org/resource/The_Beatles"
+        ],
+        [
+            "http://dbpedia.org/resource/Abbey_Road",
+            "http://dbpedia.org/resource/The_Beatles"
+        ],
+        [
+            "http://dbpedia.org/resource/Abbey_Road",
+            "http://dbpedia.org/resource/The_Beatles"
+        ],
+        [
+            "http://dbpedia.org/resource/Led_Zeppelin_II",
+            "http://dbpedia.org/resource/Led_Zeppelin"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridge_Over_Troubled_Water",
+            "http://dbpedia.org/resource/Simon_&_Garfunkel"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridge_Over_Troubled_Water",
+            "http://dbpedia.org/resource/Simon_&_Garfunkel"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridge_Over_Troubled_Water",
+            "http://dbpedia.org/resource/Simon_&_Garfunkel"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridge_Over_Troubled_Water",
+            "http://dbpedia.org/resource/Simon_&_Garfunkel"
+        ],
+        [
+            "http://dbpedia.org/resource/Bridge_Over_Troubled_Water",
+            "http://dbpedia.org/resource/Simon_&_Garfunkel"
+        ]
+    ]
+}

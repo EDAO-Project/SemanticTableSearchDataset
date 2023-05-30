@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Shore",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_Neil_Kinnock"
+        ],
+        [
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_John_Smith",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_Neil_Kinnock"
+        ],
+        [
+            "http://dbpedia.org/resource/Bryan_Gould",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_Neil_Kinnock"
+        ],
+        [
+            "http://dbpedia.org/resource/Gordon_Brown",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_Neil_Kinnock"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Cunningham,_Baron_Cunningham_of_Felling",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_Tony_Blair"
+        ],
+        [
+            "http://dbpedia.org/resource/Margaret_Beckett",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_Tony_Blair"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Heseltine",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_John_Major"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Redwood",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_William_Hague"
+        ],
+        [
+            "http://dbpedia.org/resource/Angela_Browning",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_William_Hague"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Heathcoat-Amory",
+            "http://dbpedia.org/resource/Shadow_Cabinet_of_William_Hague"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Terran_Campbell",
+            "http://dbpedia.org/resource/Pacific_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Tristan_Borges",
+            "http://dbpedia.org/resource/Forge_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Oumar_Diouck",
+            "http://dbpedia.org/resource/FC_Edmonton"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominique_Malonga",
+            "http://dbpedia.org/resource/Cavalry_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Easton_Ongaro",
+            "http://dbpedia.org/resource/FC_Edmonton"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Petrasso",
+            "http://dbpedia.org/resource/Valour_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Bustos",
+            "http://dbpedia.org/resource/Valour_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergio_Camargo",
+            "http://dbpedia.org/resource/Cavalry_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Rodrigo_Gattas",
+            "http://dbpedia.org/resource/York9_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Telfer",
+            "http://dbpedia.org/resource/York9_FC"
+        ]
+    ]
+}

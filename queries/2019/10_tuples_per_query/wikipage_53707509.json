@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kevin_Durant",
+            "http://dbpedia.org/resource/Golden_State_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/LeBron_James",
+            "http://dbpedia.org/resource/Los_Angeles_Lakers"
+        ],
+        [
+            "http://dbpedia.org/resource/Kawhi_Leonard",
+            "http://dbpedia.org/resource/Toronto_Raptors"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Harden",
+            "http://dbpedia.org/resource/Houston_Rockets"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyrie_Irving",
+            "http://dbpedia.org/resource/Boston_Celtics"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_Davis",
+            "http://dbpedia.org/resource/New_Orleans_Pelicans"
+        ],
+        [
+            "http://dbpedia.org/resource/Klay_Thompson",
+            "http://dbpedia.org/resource/Golden_State_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Damian_Lillard",
+            "http://dbpedia.org/resource/Portland_Trail_Blazers"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Simmons",
+            "http://dbpedia.org/resource/Philadelphia_76ers"
+        ],
+        [
+            "http://dbpedia.org/resource/LaMarcus_Aldridge",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ]
+    ]
+}

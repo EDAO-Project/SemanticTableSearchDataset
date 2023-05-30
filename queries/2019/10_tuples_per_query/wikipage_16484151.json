@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NSB_El_3",
+            "http://dbpedia.org/resource/Ofotbanen"
+        ],
+        [
+            "http://dbpedia.org/resource/NSB_El_4",
+            "http://dbpedia.org/resource/Ofotbanen"
+        ],
+        [
+            "http://dbpedia.org/resource/NSB_El_6",
+            "http://dbpedia.org/resource/Rjukanbanen"
+        ],
+        [
+            "http://dbpedia.org/resource/NSB_El_7",
+            "http://dbpedia.org/resource/Rjukanbanen"
+        ],
+        [
+            "http://dbpedia.org/resource/NSB_El_10",
+            "http://dbpedia.org/resource/Shunter"
+        ],
+        [
+            "http://dbpedia.org/resource/NSB_El_12",
+            "http://dbpedia.org/resource/Ofotbanen"
+        ],
+        [
+            "http://dbpedia.org/resource/NSB_El_15",
+            "http://dbpedia.org/resource/Ofotbanen"
+        ],
+        [
+            "http://dbpedia.org/resource/NSB_Di_2",
+            "http://dbpedia.org/resource/Shunter"
+        ],
+        [
+            "http://dbpedia.org/resource/NSB_Di_5",
+            "http://dbpedia.org/resource/Shunter"
+        ],
+        [
+            "http://dbpedia.org/resource/NSB_Di_7",
+            "http://dbpedia.org/resource/Shunter"
+        ]
+    ]
+}

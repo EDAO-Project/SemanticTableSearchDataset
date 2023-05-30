@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001_NFL_season",
+            "http://dbpedia.org/resource/2006_Atlanta_Falcons_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_NFL_season",
+            "http://dbpedia.org/resource/2006_Atlanta_Falcons_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_NFL_season",
+            "http://dbpedia.org/resource/2006_Atlanta_Falcons_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_NFL_season",
+            "http://dbpedia.org/resource/2006_Atlanta_Falcons_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_NFL_season",
+            "http://dbpedia.org/resource/2006_Atlanta_Falcons_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_NFL_season",
+            "http://dbpedia.org/resource/2006_Atlanta_Falcons_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_NFL_season",
+            "http://dbpedia.org/resource/2013_Philadelphia_Eagles_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_NFL_season",
+            "http://dbpedia.org/resource/2013_Philadelphia_Eagles_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_NFL_season",
+            "http://dbpedia.org/resource/2013_Philadelphia_Eagles_season"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_NFL_season",
+            "http://dbpedia.org/resource/2013_Philadelphia_Eagles_season"
+        ]
+    ]
+}

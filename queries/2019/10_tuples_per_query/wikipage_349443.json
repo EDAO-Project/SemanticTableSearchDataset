@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/FIFA_World_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/UEFA_European_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/UEFA_European_Under-21_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/UEFA_Champions_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Association_football",
+            "http://dbpedia.org/resource/UEFA_Europa_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Sport_of_athletics",
+            "http://dbpedia.org/resource/IAAF_World_Championships_in_Athletics"
+        ],
+        [
+            "http://dbpedia.org/resource/Sport_of_athletics",
+            "http://dbpedia.org/resource/IAAF_World_U20_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Sport_of_athletics",
+            "http://dbpedia.org/resource/IAAF_Diamond_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Sport_of_athletics",
+            "http://dbpedia.org/resource/IAAF_World_Indoor_Championships"
+        ],
+        [
+            "http://dbpedia.org/resource/Sport_of_athletics",
+            "http://dbpedia.org/resource/European_Athletics_Championships"
+        ]
+    ]
+}

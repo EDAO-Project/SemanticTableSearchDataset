@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hanshan_District",
+            "http://dbpedia.org/resource/Handan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Congtai_District",
+            "http://dbpedia.org/resource/Handan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Fuxing_District,_Handan",
+            "http://dbpedia.org/resource/Handan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Fengfeng_Mining_District",
+            "http://dbpedia.org/resource/Handan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Feixiang_District",
+            "http://dbpedia.org/resource/Handan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Yongnian_District",
+            "http://dbpedia.org/resource/Handan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Linzhang_County",
+            "http://dbpedia.org/resource/Handan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Daming_County",
+            "http://dbpedia.org/resource/Handan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/She_County,_Hebei",
+            "http://dbpedia.org/resource/Handan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Ci_County",
+            "http://dbpedia.org/resource/Handan_County"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pope_Gelasius_II",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Pope_Callixtus_II",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Pope_Honorius_II",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Pope_Innocent_II",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Antipope_Anacletus_II",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Pope_Celestine_II",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Pope_Lucius_II",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Pope_Eugene_III",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Pope_Adrian_IV",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ],
+        [
+            "http://dbpedia.org/resource/Pope_Alexander_III",
+            "http://dbpedia.org/resource/Cardinals_created_by_Francis"
+        ]
+    ]
+}

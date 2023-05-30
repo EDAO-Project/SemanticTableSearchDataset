@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ayoub_Pourtaghi",
+            "http://dbpedia.org/resource/Boxing_at_the_1994_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Nader_Rahmati",
+            "http://dbpedia.org/resource/Wrestling_at_the_1994_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_Akbarnejad",
+            "http://dbpedia.org/resource/Wrestling_at_the_1994_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Amir_Reza_Khadem",
+            "http://dbpedia.org/resource/Wrestling_at_the_1994_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Rasoul_Khadem",
+            "http://dbpedia.org/resource/Wrestling_at_the_1994_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Ebrahim_Mehraban",
+            "http://dbpedia.org/resource/Wrestling_at_the_1994_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohammad_Reza_Samadi",
+            "http://dbpedia.org/resource/Boxing_at_the_1994_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahmoud_Miran",
+            "http://dbpedia.org/resource/Judo_at_the_1994_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Ayoub_Baninosrat",
+            "http://dbpedia.org/resource/Wrestling_at_the_1994_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Reza_Simkhah",
+            "http://dbpedia.org/resource/Wrestling_at_the_1994_Asian_Games"
+        ]
+    ]
+}

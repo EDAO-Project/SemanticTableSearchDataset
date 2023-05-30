@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_1980",
+            "http://dbpedia.org/resource/Ed_Clark"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_1984",
+            "http://dbpedia.org/resource/David_Bergland"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_1988",
+            "http://dbpedia.org/resource/Ron_Paul"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_1992",
+            "http://dbpedia.org/resource/Andre_Marrou"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_1996",
+            "http://dbpedia.org/resource/Harry_Browne"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_2000",
+            "http://dbpedia.org/resource/Harry_Browne"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_2004",
+            "http://dbpedia.org/resource/Michael_Badnarik"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_2008",
+            "http://dbpedia.org/resource/Bob_Barr"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_2012",
+            "http://dbpedia.org/resource/Gary_Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/United_States_presidential_election_in_Pennsylvania,_2016",
+            "http://dbpedia.org/resource/Gary_Johnson"
+        ]
+    ]
+}

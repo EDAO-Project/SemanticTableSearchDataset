@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wayne_Gretzky",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Jari_Kurri",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Messier",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Coffey",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Clark_Gillies",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Bossy",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Glenn_Anderson",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Reinhart",
+            "http://dbpedia.org/resource/Calgary_Flames"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrick_Flatley",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Ken_Linseman",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ]
+    ]
+}

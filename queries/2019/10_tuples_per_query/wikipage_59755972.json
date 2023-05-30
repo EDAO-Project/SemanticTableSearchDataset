@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/S.S.C._Bari",
+            "http://dbpedia.org/resource/Foggia_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Calcio_Lecco_1912",
+            "http://dbpedia.org/resource/Calcio_Padova"
+        ],
+        [
+            "http://dbpedia.org/resource/A.S._Livorno_Calcio",
+            "http://dbpedia.org/resource/Cagliari_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/Modena_F.C._2018",
+            "http://dbpedia.org/resource/L.R._Vicenza_Virtus"
+        ],
+        [
+            "http://dbpedia.org/resource/Parma_Calcio_1913",
+            "http://dbpedia.org/resource/U.C._Sampdoria"
+        ],
+        [
+            "http://dbpedia.org/resource/Potenza_Calcio",
+            "http://dbpedia.org/resource/Calcio_Catania"
+        ],
+        [
+            "http://dbpedia.org/resource/Aurora_Pro_Patria_1919",
+            "http://dbpedia.org/resource/Varese_Calcio"
+        ],
+        [
+            "http://dbpedia.org/resource/S.S._Monza_1912",
+            "http://dbpedia.org/resource/A.C._Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/S.S.C._Napoli",
+            "http://dbpedia.org/resource/A.C.R._Messina"
+        ],
+        [
+            "http://dbpedia.org/resource/U.S._Calcio_Trani",
+            "http://dbpedia.org/resource/S.S._Lazio"
+        ]
+    ]
+}

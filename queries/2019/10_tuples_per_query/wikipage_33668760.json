@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Drew_Brees",
+            "http://dbpedia.org/resource/New_Orleans_Saints"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Brady",
+            "http://dbpedia.org/resource/New_England_Patriots"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnny_Unitas",
+            "http://dbpedia.org/resource/Baltimore_Colts"
+        ],
+        [
+            "http://dbpedia.org/resource/Drew_Brees",
+            "http://dbpedia.org/resource/New_Orleans_Saints"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Romo",
+            "http://dbpedia.org/resource/Dallas_Cowboys"
+        ],
+        [
+            "http://dbpedia.org/resource/Brett_Favre",
+            "http://dbpedia.org/resource/Green_Bay_Packers"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Luck",
+            "http://dbpedia.org/resource/Indianapolis_Colts"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Marino",
+            "http://dbpedia.org/resource/Miami_Dolphins"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Roethlisberger",
+            "http://dbpedia.org/resource/Pittsburgh_Steelers"
+        ],
+        [
+            "http://dbpedia.org/resource/Dave_Krieg",
+            "http://dbpedia.org/resource/Seattle_Seahawks"
+        ]
+    ]
+}

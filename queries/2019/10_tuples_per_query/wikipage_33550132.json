@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/100_metres",
+            "http://dbpedia.org/resource/Derick_Silva"
+        ],
+        [
+            "http://dbpedia.org/resource/200_metres",
+            "http://dbpedia.org/resource/Aldemir_da_Silva"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Anthony_Zambrano"
+        ],
+        [
+            "http://dbpedia.org/resource/5000_metres",
+            "http://dbpedia.org/resource/Matias_Silva"
+        ],
+        [
+            "http://dbpedia.org/resource/110_metres_hurdles",
+            "http://dbpedia.org/resource/Jorge_McFarlane"
+        ],
+        [
+            "http://dbpedia.org/resource/High_jump",
+            "http://dbpedia.org/resource/Fernando_Carvalho_Ferreira"
+        ],
+        [
+            "http://dbpedia.org/resource/Long_jump",
+            "http://dbpedia.org/resource/Jorge_McFarlane"
+        ],
+        [
+            "http://dbpedia.org/resource/Triple_jump",
+            "http://dbpedia.org/resource/Hugo_Chila"
+        ],
+        [
+            "http://dbpedia.org/resource/Shot_put",
+            "http://dbpedia.org/resource/Darlan_Romani"
+        ],
+        [
+            "http://dbpedia.org/resource/Hammer_throw",
+            "http://dbpedia.org/resource/Humberto_Mansilla"
+        ]
+    ]
+}

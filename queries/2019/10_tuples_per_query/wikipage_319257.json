@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Minister_for_Foreign_Affairs_and_Trade",
+            "http://dbpedia.org/resource/Frank_Aiken"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Agriculture,_Food_and_the_Marine",
+            "http://dbpedia.org/resource/Charles_Haughey"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Education_and_Skills",
+            "http://dbpedia.org/resource/George_Colley"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Business,_Enterprise_and_Innovation",
+            "http://dbpedia.org/resource/Patrick_Hillery"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Justice_and_Equality",
+            "http://dbpedia.org/resource/Brian_Lenihan_Snr"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Housing,_Planning_and_Local_Government",
+            "http://dbpedia.org/resource/Neil_Blaney"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Employment_Affairs_and_Social_Protection",
+            "http://dbpedia.org/resource/Kevin_Boland"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Transport,_Tourism_and_Sport",
+            "http://dbpedia.org/resource/Erskine_Hamilton_Childers"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Business,_Enterprise_and_Innovation",
+            "http://dbpedia.org/resource/George_Colley"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Labour",
+            "http://dbpedia.org/resource/Patrick_Hillery"
+        ]
+    ]
+}

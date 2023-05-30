@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/To_Trap_a_Spy",
+            "http://dbpedia.org/resource/Illya_Kuryakin"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Spy_with_My_Face",
+            "http://dbpedia.org/resource/Illya_Kuryakin"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Greatest_Story_Ever_Told",
+            "http://dbpedia.org/resource/Judas_Iscariot"
+        ],
+        [
+            "http://dbpedia.org/resource/One_Spy_Too_Many",
+            "http://dbpedia.org/resource/Illya_Kuryakin"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Spy_in_the_Green_Hat",
+            "http://dbpedia.org/resource/Illya_Kuryakin"
+        ],
+        [
+            "http://dbpedia.org/resource/One_of_Our_Spies_Is_Missing",
+            "http://dbpedia.org/resource/Illya_Kuryakin"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Karate_Killers",
+            "http://dbpedia.org/resource/Illya_Kuryakin"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Helicopter_Spies",
+            "http://dbpedia.org/resource/Illya_Kuryakin"
+        ],
+        [
+            "http://dbpedia.org/resource/How_to_Steal_the_World",
+            "http://dbpedia.org/resource/Illya_Kuryakin"
+        ],
+        [
+            "http://dbpedia.org/resource/Batman:_Gotham_Knight",
+            "http://dbpedia.org/resource/Direct-to-video"
+        ]
+    ]
+}

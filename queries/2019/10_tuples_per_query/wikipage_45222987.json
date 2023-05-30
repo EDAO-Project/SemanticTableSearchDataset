@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ballyea_GAA",
+            "http://dbpedia.org/resource/Kilmaley_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Sixmilebridge_GAA",
+            "http://dbpedia.org/resource/Cratloe_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Sixmilebridge_GAA",
+            "http://dbpedia.org/resource/Crusheen_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Clonlara_GAA",
+            "http://dbpedia.org/resource/Newmarket-on-Fergus_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Inagh-Kilnamona_GAA",
+            "http://dbpedia.org/resource/Newmarket-on-Fergus_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Newmarket-on-Fergus_GAA",
+            "http://dbpedia.org/resource/Clarecastle_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Newmarket-on-Fergus_GAA",
+            "http://dbpedia.org/resource/Cratloe_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Sixmilebridge_GAA",
+            "http://dbpedia.org/resource/Cratloe_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Newmarket-on-Fergus_GAA",
+            "http://dbpedia.org/resource/Wolfe_Tones_na_Sionna_GAA"
+        ],
+        [
+            "http://dbpedia.org/resource/Clarecastle_GAA",
+            "http://dbpedia.org/resource/Newmarket-on-Fergus_GAA"
+        ]
+    ]
+}

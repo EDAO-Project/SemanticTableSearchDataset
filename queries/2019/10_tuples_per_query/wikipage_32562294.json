@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pattathu_Raani",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Alibaba_Aradajanu_Dongalu",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Vaddu_Bava_Thappu",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Real_Hero",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Thirumoorthy",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Gandhi_Pirantha_Mann",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Vinodam",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Pelli_Sandadi",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Akka_Bagunnava",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramudochadu",
+            "http://dbpedia.org/resource/Telugu_language"
+        ]
+    ]
+}

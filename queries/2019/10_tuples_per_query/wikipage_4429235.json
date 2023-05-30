@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paul_LaDue",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_MacWilliam",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs"
+        ],
+        [
+            "http://dbpedia.org/resource/Zane_McIntyre",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Curtis_Murphy",
+            "http://dbpedia.org/resource/Minnesota_Wild"
+        ],
+        [
+            "http://dbpedia.org/resource/Brady_Murray",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Brock_Nelson",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Tucker_Poolman",
+            "http://dbpedia.org/resource/Winnipeg_Jets"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordan_Schmaltz",
+            "http://dbpedia.org/resource/St._Louis_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Dillon_Simpson",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Smaby",
+            "http://dbpedia.org/resource/Tampa_Bay_Lightning"
+        ]
+    ]
+}

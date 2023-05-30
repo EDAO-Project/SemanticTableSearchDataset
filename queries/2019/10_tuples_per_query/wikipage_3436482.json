@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aurora_Tigers",
+            "http://dbpedia.org/resource/Metro_Junior_A_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Flint_Generals",
+            "http://dbpedia.org/resource/United_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Tulsa_Oilers",
+            "http://dbpedia.org/resource/Central_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Pensacola_Ice_Pilots",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Haven_Knights",
+            "http://dbpedia.org/resource/United_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Hershey_Bears",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Toledo_Storm",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Baton_Rouge_Kingfish",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Admirals",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Admirals",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ]
+    ]
+}

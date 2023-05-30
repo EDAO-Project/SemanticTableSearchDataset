@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Beachview",
+            "http://dbpedia.org/resource/Afrikaans"
+        ],
+        [
+            "http://dbpedia.org/resource/Bethelsdorp",
+            "http://dbpedia.org/resource/Afrikaans"
+        ],
+        [
+            "http://dbpedia.org/resource/Cannonvale",
+            "http://dbpedia.org/resource/Afrikaans"
+        ],
+        [
+            "http://dbpedia.org/resource/Colchester,_Eastern_Cape",
+            "http://dbpedia.org/resource/Afrikaans"
+        ],
+        [
+            "http://dbpedia.org/resource/Despatch,_Eastern_Cape",
+            "http://dbpedia.org/resource/Afrikaans"
+        ],
+        [
+            "http://dbpedia.org/resource/Gqebera",
+            "http://dbpedia.org/resource/Xhosa_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Ibhayi",
+            "http://dbpedia.org/resource/Xhosa_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Khaya_Mnandi",
+            "http://dbpedia.org/resource/Xhosa_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Kwa_Langa",
+            "http://dbpedia.org/resource/Xhosa_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Kwanobuhle",
+            "http://dbpedia.org/resource/Xhosa_language"
+        ]
+    ]
+}

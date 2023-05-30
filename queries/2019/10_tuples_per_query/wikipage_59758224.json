@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thank_U,_Next",
+            "http://dbpedia.org/resource/Ariana_Grande"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Great_Expanse",
+            "http://dbpedia.org/resource/Hilltop_Hoods"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Great_Expanse",
+            "http://dbpedia.org/resource/Hilltop_Hoods"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Great_Expanse",
+            "http://dbpedia.org/resource/Hilltop_Hoods"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Place_We_Knew",
+            "http://dbpedia.org/resource/Dean_Lewis"
+        ],
+        [
+            "http://dbpedia.org/resource/My_Criminal_Record",
+            "http://dbpedia.org/resource/Jimmy_Barnes"
+        ],
+        [
+            "http://dbpedia.org/resource/Happiness_Begins",
+            "http://dbpedia.org/resource/Jonas_Brothers"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Stars",
+            "http://dbpedia.org/resource/Bruce_Springsteen"
+        ],
+        [
+            "http://dbpedia.org/resource/Step_Back_in_Time:_The_Definitive_Collection",
+            "http://dbpedia.org/resource/Kylie_Minogue"
+        ],
+        [
+            "http://dbpedia.org/resource/No.6_Collaborations_Project",
+            "http://dbpedia.org/resource/Ed_Sheeran"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shankar_IPS",
+            "http://dbpedia.org/resource/Kannada"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Thriller",
+            "http://dbpedia.org/resource/Malayalam"
+        ],
+        [
+            "http://dbpedia.org/resource/Uppukandam_Brothers_Back_in_Action",
+            "http://dbpedia.org/resource/Malayalam"
+        ],
+        [
+            "http://dbpedia.org/resource/Iddarammayilatho",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Errabus",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Kanithan",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarrainodu",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Kadamban",
+            "http://dbpedia.org/resource/Tamil_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Goutham_Nanda",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Nene_Raju_Nene_Mantri",
+            "http://dbpedia.org/resource/Telugu_language"
+        ]
+    ]
+}

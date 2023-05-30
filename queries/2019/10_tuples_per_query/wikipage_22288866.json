@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Seongnam_Ilhwa_Chunma",
+            "http://dbpedia.org/resource/Daegu_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeonbuk_Hyundai_Motors",
+            "http://dbpedia.org/resource/Seongnam_1_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Pohang_Steelers",
+            "http://dbpedia.org/resource/Daegu_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Daejeon_Citizen",
+            "http://dbpedia.org/resource/Seongnam_1_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeju_United",
+            "http://dbpedia.org/resource/Daegu_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Seoul",
+            "http://dbpedia.org/resource/Seongnam_1_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Incheon_United",
+            "http://dbpedia.org/resource/Seongnam_1_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chunnam_Dragons",
+            "http://dbpedia.org/resource/Daegu_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Gangwon_FC",
+            "http://dbpedia.org/resource/Seongnam_1_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Gwangju_Sangmu_Football_Club",
+            "http://dbpedia.org/resource/Daegu_Stadium"
+        ]
+    ]
+}

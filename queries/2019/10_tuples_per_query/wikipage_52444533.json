@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1973_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/Scotland"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/England"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_World_Outdoor_Bowls_Championship",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

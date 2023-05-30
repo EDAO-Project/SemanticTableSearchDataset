@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rajasthan_Royals",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Deccan_Chargers",
+            "http://dbpedia.org/resource/Rajiv_Gandhi_International_Cricket_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Kings_XI_Punjab",
+            "http://dbpedia.org/resource/Punjab_Cricket_Association_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Challengers_Bangalore",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/M._A._Chidambaram_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Mumbai_Indians",
+            "http://dbpedia.org/resource/DY_Patil_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Chennai_Super_Kings",
+            "http://dbpedia.org/resource/Delhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Rajasthan_Royals",
+            "http://dbpedia.org/resource/Sawai_Mansingh_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Kolkata_Knight_Riders",
+            "http://dbpedia.org/resource/Eden_Gardens"
+        ],
+        [
+            "http://dbpedia.org/resource/Deccan_Chargers",
+            "http://dbpedia.org/resource/Delhi"
+        ]
+    ]
+}

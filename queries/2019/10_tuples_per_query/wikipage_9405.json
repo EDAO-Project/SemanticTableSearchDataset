@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AK-103",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/AK-47",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/AKM",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Beretta_BM59",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Heckler_&_Koch_G3",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Vz._58",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/DP28",
+            "http://dbpedia.org/resource/Light_machine_gun"
+        ],
+        [
+            "http://dbpedia.org/resource/RPD",
+            "http://dbpedia.org/resource/Light_machine_gun"
+        ],
+        [
+            "http://dbpedia.org/resource/RPK",
+            "http://dbpedia.org/resource/Light_machine_gun"
+        ],
+        [
+            "http://dbpedia.org/resource/DShK",
+            "http://dbpedia.org/resource/Heavy_machine_gun"
+        ]
+    ]
+}

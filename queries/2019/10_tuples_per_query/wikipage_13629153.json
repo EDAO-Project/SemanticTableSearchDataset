@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Lyubimets",
+            "http://dbpedia.org/resource/PSFC_Chernomorets_Burgas"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Lokomotiv_Plovdiv",
+            "http://dbpedia.org/resource/PFC_CSKA_Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bansko",
+            "http://dbpedia.org/resource/FC_Yantra"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Svetkavitsa",
+            "http://dbpedia.org/resource/PFC_Cherno_More_Varna"
+        ],
+        [
+            "http://dbpedia.org/resource/OFC_Sliven_2000",
+            "http://dbpedia.org/resource/PFC_Spartak_1918"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Naftex_Burgas",
+            "http://dbpedia.org/resource/PFC_Botev_Plovdiv"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Velbazhd_Kyustendil",
+            "http://dbpedia.org/resource/PFC_Litex_Lovech"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Kaliakra_Kavarna",
+            "http://dbpedia.org/resource/FC_Etar_1924_Veliko_Tarnovo"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Minyor_Pernik",
+            "http://dbpedia.org/resource/PFC_Belasitsa_Petrich"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Chavdar_Etropole",
+            "http://dbpedia.org/resource/PFC_Marek_Dupnitsa"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/No.X",
+            "http://dbpedia.org/resource/Kim_Jae-joong"
+        ],
+        [
+            "http://dbpedia.org/resource/No.X",
+            "http://dbpedia.org/resource/Kim_Jae-joong"
+        ],
+        [
+            "http://dbpedia.org/resource/Press_It",
+            "http://dbpedia.org/resource/Taemin"
+        ],
+        [
+            "http://dbpedia.org/resource/Press_It",
+            "http://dbpedia.org/resource/Taemin"
+        ],
+        [
+            "http://dbpedia.org/resource/Flight_Log:_Departure",
+            "http://dbpedia.org/resource/Got7"
+        ],
+        [
+            "http://dbpedia.org/resource/Blueming",
+            "http://dbpedia.org/resource/CNBLUE"
+        ],
+        [
+            "http://dbpedia.org/resource/Blooming_Period",
+            "http://dbpedia.org/resource/Block_B"
+        ],
+        [
+            "http://dbpedia.org/resource/With_Love,_J",
+            "http://dbpedia.org/resource/Jessica_Jung"
+        ],
+        [
+            "http://dbpedia.org/resource/Xignature",
+            "http://dbpedia.org/resource/Kim_Junsu"
+        ],
+        [
+            "http://dbpedia.org/resource/Listen_to_My_Word",
+            "http://dbpedia.org/resource/Oh_My_Girl"
+        ]
+    ]
+}

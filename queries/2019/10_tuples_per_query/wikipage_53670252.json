@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/LIU_Post_Pioneers",
+            "http://dbpedia.org/resource/Dowling_Golden_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/LIU_Post_Pioneers",
+            "http://dbpedia.org/resource/Dowling_Golden_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Rams",
+            "http://dbpedia.org/resource/Saint_Rose_Golden_Knights"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Rams",
+            "http://dbpedia.org/resource/Saint_Rose_Golden_Knights"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Rams",
+            "http://dbpedia.org/resource/LIU_Post_Pioneers"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Rose_Golden_Knights",
+            "http://dbpedia.org/resource/Adelphi_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Adelphi_Panthers",
+            "http://dbpedia.org/resource/Saint_Rose_Golden_Knights"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Rose_Golden_Knights",
+            "http://dbpedia.org/resource/Adelphi_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Saint_Rose_Golden_Knights",
+            "http://dbpedia.org/resource/Adelphi_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Adelphi_Panthers",
+            "http://dbpedia.org/resource/Saint_Rose_Golden_Knights"
+        ]
+    ]
+}

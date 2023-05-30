@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Deepdale",
+            "http://dbpedia.org/resource/Tom_Holford"
+        ],
+        [
+            "http://dbpedia.org/resource/Old_Trafford",
+            "http://dbpedia.org/resource/Lot_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Hyde_Road_Football_Stadium",
+            "http://dbpedia.org/resource/Joe_Dorsett"
+        ],
+        [
+            "http://dbpedia.org/resource/Manor_Ground,_Plumstead",
+            "http://dbpedia.org/resource/Joe_Dorsett"
+        ],
+        [
+            "http://dbpedia.org/resource/Hyde_Road_Football_Stadium",
+            "http://dbpedia.org/resource/Joe_Dorsett"
+        ],
+        [
+            "http://dbpedia.org/resource/Hyde_Road_Football_Stadium",
+            "http://dbpedia.org/resource/Irvine_Thornley"
+        ],
+        [
+            "http://dbpedia.org/resource/Meadow_Lane",
+            "http://dbpedia.org/resource/Davie_Ross"
+        ],
+        [
+            "http://dbpedia.org/resource/Hyde_Road_Football_Stadium",
+            "http://dbpedia.org/resource/Lot_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Hyde_Road_Football_Stadium",
+            "http://dbpedia.org/resource/Lot_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Hyde_Road_Football_Stadium",
+            "http://dbpedia.org/resource/Irvine_Thornley"
+        ]
+    ]
+}

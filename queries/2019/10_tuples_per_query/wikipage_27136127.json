@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Willi_Multhaup",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ],
+        [
+            "http://dbpedia.org/resource/Fritz_Langner",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_Tilkowski",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Gebhardt",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ],
+        [
+            "http://dbpedia.org/resource/Willi_Multhaup",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ],
+        [
+            "http://dbpedia.org/resource/Sepp_Piontek",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ],
+        [
+            "http://dbpedia.org/resource/Fritz_Langner",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ],
+        [
+            "http://dbpedia.org/resource/Otto_Rehhagel",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ],
+        [
+            "http://dbpedia.org/resource/Herbert_Burdenski",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_Tilkowski",
+            "http://dbpedia.org/resource/DFB_Pokal"
+        ]
+    ]
+}

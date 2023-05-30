@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dorothea_of_Brandenburg",
+            "http://dbpedia.org/resource/Christian_I_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Christina_of_Saxony",
+            "http://dbpedia.org/resource/John_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Isabella_of_Austria",
+            "http://dbpedia.org/resource/Christian_II_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Anna_of_Brandenburg",
+            "http://dbpedia.org/resource/Frederick_I_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Sophie_of_Pomerania",
+            "http://dbpedia.org/resource/Frederick_I_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Dorothea_of_Saxe-Lauenburg",
+            "http://dbpedia.org/resource/Christian_III_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Anne_Catherine_of_Brandenburg",
+            "http://dbpedia.org/resource/Christian_IV_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlotte_Amalie_of_Hesse-Kassel",
+            "http://dbpedia.org/resource/Christian_V_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Anne_Sophie_Reventlow",
+            "http://dbpedia.org/resource/Frederick_IV_of_Denmark"
+        ],
+        [
+            "http://dbpedia.org/resource/Sophia_Magdalene_of_Brandenburg-Kulmbach",
+            "http://dbpedia.org/resource/Christian_VI_of_Denmark"
+        ]
+    ]
+}

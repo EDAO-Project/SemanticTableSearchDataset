@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hilmar_Moore",
+            "http://dbpedia.org/resource/Richmond,_Texas"
+        ],
+        [
+            "http://dbpedia.org/resource/John_H._Land",
+            "http://dbpedia.org/resource/Apopka,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Linn",
+            "http://dbpedia.org/resource/Beaver,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_L._Butler",
+            "http://dbpedia.org/resource/Marion,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/John_M._Coyne",
+            "http://dbpedia.org/resource/Brooklyn,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Donald_Stephens",
+            "http://dbpedia.org/resource/Rosemont,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Leonard_T._Connors",
+            "http://dbpedia.org/resource/Surf_City,_New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_E._Rodgers",
+            "http://dbpedia.org/resource/Harrison,_New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Margaret_Doud",
+            "http://dbpedia.org/resource/Mackinac_Island,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Erastus_Corning_2nd",
+            "http://dbpedia.org/resource/Albany,_New_York"
+        ]
+    ]
+}

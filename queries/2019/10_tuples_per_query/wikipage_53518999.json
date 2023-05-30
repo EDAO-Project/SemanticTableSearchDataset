@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ogden,_Utah",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Spokane,_Washington",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Idaho_Falls,_Idaho",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Salt_Lake_City,_Utah",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Salt_Lake_City,_Utah",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Ogden,_Utah",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Idaho_Falls,_Idaho",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Ogden,_Utah",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Ogden,_Utah",
+            "http://dbpedia.org/resource/House_show"
+        ],
+        [
+            "http://dbpedia.org/resource/Idaho_Falls,_Idaho",
+            "http://dbpedia.org/resource/House_show"
+        ]
+    ]
+}

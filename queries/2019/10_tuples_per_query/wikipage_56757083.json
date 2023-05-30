@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Caldwell_Cougars",
+            "http://dbpedia.org/resource/Nyack_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Post_Eagles",
+            "http://dbpedia.org/resource/Felician_Golden_Falcons"
+        ],
+        [
+            "http://dbpedia.org/resource/Bloomfield_College_Bears",
+            "http://dbpedia.org/resource/Caldwell_Cougars"
+        ],
+        [
+            "http://dbpedia.org/resource/Bloomfield_College_Bears",
+            "http://dbpedia.org/resource/Dominican_Chargers"
+        ],
+        [
+            "http://dbpedia.org/resource/Caldwell_Cougars",
+            "http://dbpedia.org/resource/USciences_Devils"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Rams",
+            "http://dbpedia.org/resource/Holy_Family_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Rams",
+            "http://dbpedia.org/resource/Bloomfield_College_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Bloomfield_College_Bears",
+            "http://dbpedia.org/resource/Philadelphia_Rams"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Rams",
+            "http://dbpedia.org/resource/Holy_Family_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Rams",
+            "http://dbpedia.org/resource/Wilmington_Wildcats"
+        ]
+    ]
+}

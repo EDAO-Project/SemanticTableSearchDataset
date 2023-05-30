@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Celine_Dion",
+            "http://dbpedia.org/resource/Falling_into_You:_Around_the_World"
+        ],
+        [
+            "http://dbpedia.org/resource/Celine_Dion",
+            "http://dbpedia.org/resource/Falling_into_You:_Around_the_World"
+        ],
+        [
+            "http://dbpedia.org/resource/Celine_Dion",
+            "http://dbpedia.org/resource/Falling_into_You:_Around_the_World"
+        ],
+        [
+            "http://dbpedia.org/resource/Def_Leppard",
+            "http://dbpedia.org/resource/Slang_World_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/Ozzy_Osbourne",
+            "http://dbpedia.org/resource/Retirement_Sucks_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/Celine_Dion",
+            "http://dbpedia.org/resource/Falling_into_You:_Around_the_World"
+        ],
+        [
+            "http://dbpedia.org/resource/Celine_Dion",
+            "http://dbpedia.org/resource/Falling_into_You:_Around_the_World"
+        ],
+        [
+            "http://dbpedia.org/resource/Celine_Dion",
+            "http://dbpedia.org/resource/Falling_into_You:_Around_the_World"
+        ],
+        [
+            "http://dbpedia.org/resource/Backstreet_Boys",
+            "http://dbpedia.org/resource/Backstreet_Boys:_Live_in_Concert_Tour"
+        ],
+        [
+            "http://dbpedia.org/resource/Phil_Collins",
+            "http://dbpedia.org/resource/The_Trip_into_the_Light_World_Tour"
+        ]
+    ]
+}

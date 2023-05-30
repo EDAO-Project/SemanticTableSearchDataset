@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Wayne_Gretzky",
+            "http://dbpedia.org/resource/Edmonton_Oilers"
+        ],
+        [
+            "http://dbpedia.org/resource/Dale_Hawerchuk",
+            "http://dbpedia.org/resource/Winnipeg_Jets"
+        ],
+        [
+            "http://dbpedia.org/resource/Pelle_Lindbergh",
+            "http://dbpedia.org/resource/Philadelphia_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Rod_Langway",
+            "http://dbpedia.org/resource/Washington_Capitals"
+        ],
+        [
+            "http://dbpedia.org/resource/Raymond_Bourque",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Sutter",
+            "http://dbpedia.org/resource/St._Louis_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Barrasso",
+            "http://dbpedia.org/resource/Buffalo_Sabres"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcel_Dionne",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Kerr",
+            "http://dbpedia.org/resource/Philadelphia_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Bossy",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ]
+    ]
+}

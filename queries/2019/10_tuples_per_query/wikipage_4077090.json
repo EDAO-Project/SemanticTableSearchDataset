@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/New_Haven_Open_at_Yale",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Slims_of_Houston",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/Southern_California_Open",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/WTA_Auckland_Open",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/Indian_Wells_Masters",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami_Masters",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/Virginia_Slims_of_Houston",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/WTA_Auckland_Open",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/Miami_Masters",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ],
+        [
+            "http://dbpedia.org/resource/Internationaux_de_Strasbourg",
+            "http://dbpedia.org/resource/Jill_Hetherington"
+        ]
+    ]
+}

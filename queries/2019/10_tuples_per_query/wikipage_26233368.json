@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tanni_Grey-Thompson",
+            "http://dbpedia.org/resource/Athletics_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Pearson",
+            "http://dbpedia.org/resource/Equestrian_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Robin_Surgeoner",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Sophie_Christiansen",
+            "http://dbpedia.org/resource/Equestrian_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Darren_Kenny",
+            "http://dbpedia.org/resource/Cycling_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Janice_Burton",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Ellie_Simmonds",
+            "http://dbpedia.org/resource/Swimming_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Anne_Dunham",
+            "http://dbpedia.org/resource/Equestrian_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Colin_Keay",
+            "http://dbpedia.org/resource/Athletics_at_the_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannah_Cockroft",
+            "http://dbpedia.org/resource/Athletics_at_the_Summer_Paralympics"
+        ]
+    ]
+}

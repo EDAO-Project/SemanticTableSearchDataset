@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hungarian_International",
+            "http://dbpedia.org/resource/Sergey_Ivlev"
+        ],
+        [
+            "http://dbpedia.org/resource/Slovak_International",
+            "http://dbpedia.org/resource/Sergey_Ivlev"
+        ],
+        [
+            "http://dbpedia.org/resource/Austrian_International",
+            "http://dbpedia.org/resource/Stanislav_Pukhov"
+        ],
+        [
+            "http://dbpedia.org/resource/Welsh_International",
+            "http://dbpedia.org/resource/Stanislav_Pukhov"
+        ],
+        [
+            "http://dbpedia.org/resource/Hungarian_International",
+            "http://dbpedia.org/resource/Stanislav_Pukhov"
+        ],
+        [
+            "http://dbpedia.org/resource/Slovak_International",
+            "http://dbpedia.org/resource/Stanislav_Pukhov"
+        ],
+        [
+            "http://dbpedia.org/resource/Bulgarian_International",
+            "http://dbpedia.org/resource/Stanislav_Pukhov"
+        ],
+        [
+            "http://dbpedia.org/resource/Slovenian_International",
+            "http://dbpedia.org/resource/Stanislav_Pukhov"
+        ],
+        [
+            "http://dbpedia.org/resource/Welsh_International",
+            "http://dbpedia.org/resource/Andrey_Antropov"
+        ],
+        [
+            "http://dbpedia.org/resource/Welsh_International",
+            "http://dbpedia.org/resource/Andrey_Antropov"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Karlo_Letica",
+            "http://dbpedia.org/resource/Club_Brugge"
+        ],
+        [
+            "http://dbpedia.org/resource/Etrit_Berisha",
+            "http://dbpedia.org/resource/Atalanta"
+        ],
+        [
+            "http://dbpedia.org/resource/Thiago_Cionek",
+            "http://dbpedia.org/resource/Palermo"
+        ],
+        [
+            "http://dbpedia.org/resource/Arkadiusz_Reca",
+            "http://dbpedia.org/resource/Atalanta"
+        ],
+        [
+            "http://dbpedia.org/resource/Francesco_Vicari",
+            "http://dbpedia.org/resource/Novara"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorenzo_Dickmann",
+            "http://dbpedia.org/resource/Novara"
+        ],
+        [
+            "http://dbpedia.org/resource/Mirko_Valdifiori",
+            "http://dbpedia.org/resource/Torino"
+        ],
+        [
+            "http://dbpedia.org/resource/Simone_Missiroli",
+            "http://dbpedia.org/resource/Sassuolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Mattia_Valoti",
+            "http://dbpedia.org/resource/Hellas_Verona"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Murgia",
+            "http://dbpedia.org/resource/Lazio"
+        ]
+    ]
+}

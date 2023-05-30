@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ACDSee",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ],
+        [
+            "http://dbpedia.org/resource/Adobe_Lightroom",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ],
+        [
+            "http://dbpedia.org/resource/Chasys_Draw_IES",
+            "http://dbpedia.org/resource/Freeware"
+        ],
+        [
+            "http://dbpedia.org/resource/CineAsset",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ],
+        [
+            "http://dbpedia.org/resource/Photodex",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ],
+        [
+            "http://dbpedia.org/resource/Corel_Photo-Paint",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ],
+        [
+            "http://dbpedia.org/resource/DBGallery",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ],
+        [
+            "http://dbpedia.org/resource/ECognition",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ],
+        [
+            "http://dbpedia.org/resource/ERDAS_IMAGINE",
+            "http://dbpedia.org/resource/Proprietary_software"
+        ],
+        [
+            "http://dbpedia.org/resource/Evince",
+            "http://dbpedia.org/resource/GPL_v2"
+        ]
+    ]
+}

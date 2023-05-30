@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1941_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Claro_M._Recto"
+        ],
+        [
+            "http://dbpedia.org/resource/1949_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Quintin_Paredes"
+        ],
+        [
+            "http://dbpedia.org/resource/1953_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Fernando_Lopez"
+        ],
+        [
+            "http://dbpedia.org/resource/1955_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Pacita_Madrigal-Warns"
+        ],
+        [
+            "http://dbpedia.org/resource/1957_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Gil_Puyat"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Ferdinand_Marcos"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Raul_Manglapus"
+        ],
+        [
+            "http://dbpedia.org/resource/1963_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Gerardo_Roxas"
+        ],
+        [
+            "http://dbpedia.org/resource/1965_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Jovito_Salonga"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Philippine_Senate_election",
+            "http://dbpedia.org/resource/Jose_Roy"
+        ]
+    ]
+}

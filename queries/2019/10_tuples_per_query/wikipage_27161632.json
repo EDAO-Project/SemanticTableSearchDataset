@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Oklahoma_City",
+            "http://dbpedia.org/resource/Diamond_Ballroom"
+        ],
+        [
+            "http://dbpedia.org/resource/Indianapolis",
+            "http://dbpedia.org/resource/Old_National_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus,_Ohio",
+            "http://dbpedia.org/resource/Newport_Music_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Towson,_Maryland",
+            "http://dbpedia.org/resource/Recher_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Norfolk,_Virginia",
+            "http://dbpedia.org/resource/The_NorVa"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacksonville,_Florida",
+            "http://dbpedia.org/resource/Freebird_Live"
+        ],
+        [
+            "http://dbpedia.org/resource/Oxford",
+            "http://dbpedia.org/resource/O2_Academy_Birmingham"
+        ],
+        [
+            "http://dbpedia.org/resource/Newcastle_upon_Tyne",
+            "http://dbpedia.org/resource/O2_Academy_Birmingham"
+        ],
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/O2_Academy_Birmingham"
+        ],
+        [
+            "http://dbpedia.org/resource/Auckland",
+            "http://dbpedia.org/resource/Auckland_Town_Hall"
+        ]
+    ]
+}

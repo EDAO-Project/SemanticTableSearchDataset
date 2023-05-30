@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Uwe_Seeler",
+            "http://dbpedia.org/resource/Hamburger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Uwe_Seeler",
+            "http://dbpedia.org/resource/Hamburger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_Tilkowski",
+            "http://dbpedia.org/resource/Borussia_Dortmund"
+        ],
+        [
+            "http://dbpedia.org/resource/Franz_Beckenbauer",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Franz_Beckenbauer",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Uwe_Seeler",
+            "http://dbpedia.org/resource/Hamburger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Franz_Beckenbauer",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Sepp_Maier",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Franz_Beckenbauer",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Sepp_Maier",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ]
+    ]
+}

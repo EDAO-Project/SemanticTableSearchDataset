@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Crnogorska_Enciklopedija",
+            "http://dbpedia.org/resource/Montenegrin_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Croatian_Encyclopedia",
+            "http://dbpedia.org/resource/Croatian_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Doosan_Encyclopedia",
+            "http://dbpedia.org/resource/Korean_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Encyklopedia_Internautica",
+            "http://dbpedia.org/resource/Polish_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Encyclopedia_Sindhiana",
+            "http://dbpedia.org/resource/Sindhi_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Internetowa_encyklopedia_PWN",
+            "http://dbpedia.org/resource/Polish_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Enciklopedio_Kalblanda",
+            "http://dbpedia.org/resource/Esperanto_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Marathi_Vishwakosh",
+            "http://dbpedia.org/resource/Marathi_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Marefa",
+            "http://dbpedia.org/resource/Arabic_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Mawdoo3",
+            "http://dbpedia.org/resource/Arabic_language"
+        ]
+    ]
+}

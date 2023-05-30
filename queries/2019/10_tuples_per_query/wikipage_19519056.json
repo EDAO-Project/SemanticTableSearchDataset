@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Preston_North_End",
+            "http://dbpedia.org/resource/Mansfield_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Villa",
+            "http://dbpedia.org/resource/Bolton_Wanderers"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolton_Wanderers",
+            "http://dbpedia.org/resource/Aston_Villa"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Villa",
+            "http://dbpedia.org/resource/Bolton_Wanderers"
+        ],
+        [
+            "http://dbpedia.org/resource/Luton_Town",
+            "http://dbpedia.org/resource/West_Ham_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Swindon_Town",
+            "http://dbpedia.org/resource/Stoke_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Queens_Park_Rangers",
+            "http://dbpedia.org/resource/Huddersfield_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Huddersfield_Town",
+            "http://dbpedia.org/resource/Queens_Park_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Manchester_United",
+            "http://dbpedia.org/resource/A.F.C._Bournemouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Oldham_Athletic",
+            "http://dbpedia.org/resource/Cardiff_City"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hino_Ranger",
+            "http://dbpedia.org/resource/Fire_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Isuzu_Motors",
+            "http://dbpedia.org/resource/Fire_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Isuzu_810",
+            "http://dbpedia.org/resource/Fire_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Isuzu_Giga",
+            "http://dbpedia.org/resource/Fire_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Isuzu_N-series",
+            "http://dbpedia.org/resource/Fire_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Isuzu_F-Series",
+            "http://dbpedia.org/resource/Fire_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Mitsubishi_Canter",
+            "http://dbpedia.org/resource/Fire_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Mitsubishi_Fuso_Fighter",
+            "http://dbpedia.org/resource/Fire_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford_C-Series",
+            "http://dbpedia.org/resource/Fire_engine"
+        ],
+        [
+            "http://dbpedia.org/resource/Oshkosh_Striker",
+            "http://dbpedia.org/resource/Airport_crash_tender"
+        ]
+    ]
+}

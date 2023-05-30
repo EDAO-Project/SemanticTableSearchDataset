@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Black_Saturday_bushfires",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Miramichi_Fire",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/2018_Attica_wildfires",
+            "http://dbpedia.org/resource/Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Greek_forest_fires",
+            "http://dbpedia.org/resource/Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/1949_Landes_forest_fire",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Ash_Wednesday_bushfires",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Porcupine_Fire",
+            "http://dbpedia.org/resource/Canada"
+        ],
+        [
+            "http://dbpedia.org/resource/Black_Friday_bushfires",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/June_2017_Portugal_wildfires",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_Tasmanian_fires",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

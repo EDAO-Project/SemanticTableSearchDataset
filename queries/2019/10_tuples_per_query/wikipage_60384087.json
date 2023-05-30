@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Copenhagen_Municipality",
+            "http://dbpedia.org/resource/Frank_Jensen"
+        ],
+        [
+            "http://dbpedia.org/resource/Favrskov_Municipality",
+            "http://dbpedia.org/resource/Nils_Borring"
+        ],
+        [
+            "http://dbpedia.org/resource/Jammerbugt_Municipality",
+            "http://dbpedia.org/resource/Mogens_Gade"
+        ],
+        [
+            "http://dbpedia.org/resource/Nyborg_Municipality",
+            "http://dbpedia.org/resource/Kenneth_Muhs"
+        ],
+        [
+            "http://dbpedia.org/resource/Odder_Municipality",
+            "http://dbpedia.org/resource/Uffe_Jensen"
+        ],
+        [
+            "http://dbpedia.org/resource/Roskilde_Municipality",
+            "http://dbpedia.org/resource/Joy_Mogensen"
+        ],
+        [
+            "http://dbpedia.org/resource/Slagelse_Municipality",
+            "http://dbpedia.org/resource/John_Dyrby_Paulsen"
+        ],
+        [
+            "http://dbpedia.org/resource/Vesthimmerland_Municipality",
+            "http://dbpedia.org/resource/Per_Bach_Laursen"
+        ],
+        [
+            "http://dbpedia.org/resource/Viborg_Municipality",
+            "http://dbpedia.org/resource/Ulrik_Wilbek"
+        ],
+        [
+            "http://dbpedia.org/resource/Aarhus_Municipality",
+            "http://dbpedia.org/resource/Jacob_Bundsgaard"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Mathematician"
+        ],
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Mathematician"
+        ],
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Mathematician"
+        ],
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Psychologist"
+        ],
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Just-world_phenomenon"
+        ],
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Theoretical_physicist"
+        ],
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Historian"
+        ],
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Philosopher"
+        ],
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Mathematician"
+        ],
+        [
+            "http://dbpedia.org/resource/Professor",
+            "http://dbpedia.org/resource/Philosopher"
+        ]
+    ]
+}

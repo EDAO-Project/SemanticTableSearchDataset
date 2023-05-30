@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ri_Song-gum",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2018_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Om_Yun-chol",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2018_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Pak_Yong-mi",
+            "http://dbpedia.org/resource/Wrestling_at_the_2018_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Jong_Myong-suk",
+            "http://dbpedia.org/resource/Wrestling_at_the_2018_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/O_Kang-chol",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2018_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Choe_Jon-wi",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2018_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Hyo-sim",
+            "http://dbpedia.org/resource/Weightlifting_at_the_2018_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Su-jong",
+            "http://dbpedia.org/resource/Gymnastics_at_the_2018_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Pak_Myong-won",
+            "http://dbpedia.org/resource/Shooting_at_the_2018_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Kang_Kum-song",
+            "http://dbpedia.org/resource/Wrestling_at_the_2018_Asian_Games"
+        ]
+    ]
+}

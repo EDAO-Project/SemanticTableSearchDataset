@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Calais_RUFC",
+            "http://dbpedia.org/resource/Angers_SCO"
+        ],
+        [
+            "http://dbpedia.org/resource/AS_Evry",
+            "http://dbpedia.org/resource/JA_Drancy"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Gravelines_Foot",
+            "http://dbpedia.org/resource/Le_Havre_AC"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Versailles_78",
+            "http://dbpedia.org/resource/UJA_Alfortville"
+        ],
+        [
+            "http://dbpedia.org/resource/SC_Feignies",
+            "http://dbpedia.org/resource/US_Quevilly"
+        ],
+        [
+            "http://dbpedia.org/resource/AS_Marck",
+            "http://dbpedia.org/resource/Stade_de_Reims"
+        ],
+        [
+            "http://dbpedia.org/resource/Arras_Football",
+            "http://dbpedia.org/resource/FC_Chambly"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris_FC",
+            "http://dbpedia.org/resource/US_Boulogne"
+        ],
+        [
+            "http://dbpedia.org/resource/Jarville_JF",
+            "http://dbpedia.org/resource/CS_Sedan_Ardennes"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Forbach",
+            "http://dbpedia.org/resource/FC_Red_Star_Saint-Ouen"
+        ]
+    ]
+}

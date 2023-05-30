@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brampton_Centre",
+            "http://dbpedia.org/resource/Brampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Brampton_East",
+            "http://dbpedia.org/resource/Brampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Brampton_West",
+            "http://dbpedia.org/resource/Brampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Valley_North",
+            "http://dbpedia.org/resource/Toronto"
+        ],
+        [
+            "http://dbpedia.org/resource/Etobicoke_North",
+            "http://dbpedia.org/resource/Etobicoke"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamilton_Centre",
+            "http://dbpedia.org/resource/Hamilton,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Kingston_and_the_Islands",
+            "http://dbpedia.org/resource/Kingston,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/Kitchener_Centre",
+            "http://dbpedia.org/resource/Kitchener,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/London_North_Centre",
+            "http://dbpedia.org/resource/London,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/London_West",
+            "http://dbpedia.org/resource/London,_Ontario"
+        ]
+    ]
+}

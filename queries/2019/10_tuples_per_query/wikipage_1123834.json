@@ -1,0 +1,46 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/DFB-Pokal",
+            "http://dbpedia.org/resource/DFB-Pokal",
+            "http://dbpedia.org/resource/UEFA",
+            "http://dbpedia.org/resource/UEFA"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/2._Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/2._Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/2._Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/2._Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/Bundesliga"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Haraz_Ghanbari",
+            "http://dbpedia.org/resource/Perrysburg,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Terrence_Upchurch",
+            "http://dbpedia.org/resource/Cleveland,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Juanita_Brent",
+            "http://dbpedia.org/resource/Cleveland,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_J._Skindell",
+            "http://dbpedia.org/resource/Lakewood,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Bride_Rose_Sweeney",
+            "http://dbpedia.org/resource/Cleveland,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeffrey_Crossman",
+            "http://dbpedia.org/resource/Parma,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Mary_Lightbody",
+            "http://dbpedia.org/resource/Westerville,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Beth_Liston",
+            "http://dbpedia.org/resource/Dublin,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Allison_Russo",
+            "http://dbpedia.org/resource/Upper_Arlington,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Erica_Crawley",
+            "http://dbpedia.org/resource/Columbus,_Ohio"
+        ]
+    ]
+}

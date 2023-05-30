@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Sydney_Olympic_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/King_Street_Wharf"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Brisbane_Exhibition_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/King_Street_Wharf"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Brisbane_Exhibition_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Brisbane_Exhibition_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/King_Street_Wharf"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Brisbane_Exhibition_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Sydney",
+            "http://dbpedia.org/resource/Sydney_Olympic_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Brisbane",
+            "http://dbpedia.org/resource/Brisbane_Exhibition_Ground"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Romain_Grosjean",
+            "http://dbpedia.org/resource/DAMS"
+        ],
+        [
+            "http://dbpedia.org/resource/Giedo_van_der_Garde",
+            "http://dbpedia.org/resource/Addax_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Jules_Bianchi",
+            "http://dbpedia.org/resource/ART_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Herck",
+            "http://dbpedia.org/resource/Coloni_Motorsport"
+        ],
+        [
+            "http://dbpedia.org/resource/Stefano_Coletti",
+            "http://dbpedia.org/resource/Trident_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabio_Leimer",
+            "http://dbpedia.org/resource/Rapax_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Dani_Clos",
+            "http://dbpedia.org/resource/Racing_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Fairuz_Fauzy",
+            "http://dbpedia.org/resource/Super_Nova_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Oliver_Turvey",
+            "http://dbpedia.org/resource/Ocean_Racing_Technology"
+        ],
+        [
+            "http://dbpedia.org/resource/Jolyon_Palmer",
+            "http://dbpedia.org/resource/Arden_International"
+        ]
+    ]
+}

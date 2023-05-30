@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland_Trail_Blazers",
+            "http://dbpedia.org/resource/New_York_Knicks"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Trail_Blazers",
+            "http://dbpedia.org/resource/Minnesota_Timberwolves"
+        ],
+        [
+            "http://dbpedia.org/resource/Orlando_Magic",
+            "http://dbpedia.org/resource/Portland_Trail_Blazers"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Lakers",
+            "http://dbpedia.org/resource/Golden_State_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Lakers",
+            "http://dbpedia.org/resource/Golden_State_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_Pistons",
+            "http://dbpedia.org/resource/Milwaukee_Bucks"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Lakers",
+            "http://dbpedia.org/resource/Toronto_Raptors"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn_Nets",
+            "http://dbpedia.org/resource/Boston_Celtics"
+        ],
+        [
+            "http://dbpedia.org/resource/Brooklyn_Nets",
+            "http://dbpedia.org/resource/New_York_Knicks"
+        ],
+        [
+            "http://dbpedia.org/resource/Sacramento_Kings",
+            "http://dbpedia.org/resource/Indiana_Pacers"
+        ]
+    ]
+}

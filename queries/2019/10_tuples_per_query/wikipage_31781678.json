@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Saitama_Prefecture",
+            "http://dbpedia.org/resource/Saitama_Super_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Saitama_Prefecture",
+            "http://dbpedia.org/resource/Saitama_Super_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagoya",
+            "http://dbpedia.org/resource/Nippon_Gaishi_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagoya",
+            "http://dbpedia.org/resource/Nippon_Gaishi_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Niigata,_Niigata",
+            "http://dbpedia.org/resource/Toki_Messe"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagano,_Nagano",
+            "http://dbpedia.org/resource/Big_Hat"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagano,_Nagano",
+            "http://dbpedia.org/resource/Big_Hat"
+        ],
+        [
+            "http://dbpedia.org/resource/Saitama_Prefecture",
+            "http://dbpedia.org/resource/Saitama_Super_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Saitama_Prefecture",
+            "http://dbpedia.org/resource/Saitama_Super_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Nagoya",
+            "http://dbpedia.org/resource/Nippon_Gaishi_Hall"
+        ]
+    ]
+}

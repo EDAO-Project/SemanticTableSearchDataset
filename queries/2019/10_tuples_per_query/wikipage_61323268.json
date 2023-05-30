@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emil_Audero",
+            "http://dbpedia.org/resource/Juventus"
+        ],
+        [
+            "http://dbpedia.org/resource/Julian_Chabot",
+            "http://dbpedia.org/resource/Groningen"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacopo_Sala",
+            "http://dbpedia.org/resource/Hellas_Verona"
+        ],
+        [
+            "http://dbpedia.org/resource/Omar_Colley",
+            "http://dbpedia.org/resource/Genk"
+        ],
+        [
+            "http://dbpedia.org/resource/Vasco_Regini",
+            "http://dbpedia.org/resource/Empoli"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeison_Murillo",
+            "http://dbpedia.org/resource/Valencia"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicola_Murru",
+            "http://dbpedia.org/resource/Cagliari"
+        ],
+        [
+            "http://dbpedia.org/resource/Albin_Ekdal",
+            "http://dbpedia.org/resource/Hamburger_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/Jakub_Jankto",
+            "http://dbpedia.org/resource/Udinese"
+        ],
+        [
+            "http://dbpedia.org/resource/Morten_Thorsby",
+            "http://dbpedia.org/resource/Heerenveen"
+        ]
+    ]
+}

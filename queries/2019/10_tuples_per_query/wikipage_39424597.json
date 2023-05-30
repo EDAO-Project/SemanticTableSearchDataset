@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SC_Bern",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/SC_Langenthal",
+            "http://dbpedia.org/resource/National_League_B"
+        ],
+        [
+            "http://dbpedia.org/resource/EHC_Basel",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/EHC_Olten",
+            "http://dbpedia.org/resource/National_League_B"
+        ],
+        [
+            "http://dbpedia.org/resource/EHC_Basel",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/EHC_Olten",
+            "http://dbpedia.org/resource/National_League_B"
+        ],
+        [
+            "http://dbpedia.org/resource/EHC_Basel",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Lugano",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Lugano",
+            "http://dbpedia.org/resource/National_League_A"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Lugano",
+            "http://dbpedia.org/resource/National_League_A"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrew_Ettingshausen",
+            "http://dbpedia.org/resource/Graham_Steadman"
+        ],
+        [
+            "http://dbpedia.org/resource/Willie_Carne",
+            "http://dbpedia.org/resource/Paul_Eastwood"
+        ],
+        [
+            "http://dbpedia.org/resource/Brad_Fittler",
+            "http://dbpedia.org/resource/Paul_Newlove"
+        ],
+        [
+            "http://dbpedia.org/resource/Laurie_Daley",
+            "http://dbpedia.org/resource/Five-eighth"
+        ],
+        [
+            "http://dbpedia.org/resource/Allan_Langer",
+            "http://dbpedia.org/resource/Shaun_Edwards"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Harragon",
+            "http://dbpedia.org/resource/Kelvin_Skerrett"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Walters",
+            "http://dbpedia.org/resource/Martin_Dermott"
+        ],
+        [
+            "http://dbpedia.org/resource/Glenn_Lazarus",
+            "http://dbpedia.org/resource/Andy_Platt"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Sironen",
+            "http://dbpedia.org/resource/Denis_Betts"
+        ],
+        [
+            "http://dbpedia.org/resource/Bradley_Clyde",
+            "http://dbpedia.org/resource/Phil_Clarke"
+        ]
+    ]
+}

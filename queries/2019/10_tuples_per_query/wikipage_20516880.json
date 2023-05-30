@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prime_Minister_of_Canada",
+            "http://dbpedia.org/resource/Justin_Trudeau"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_the_purposes_of_the_Atlantic_Canada_Opportunities_Agency_Act",
+            "http://dbpedia.org/resource/Navdeep_Bains"
+        ],
+        [
+            "http://dbpedia.org/resource/Canadian_Dairy_Commission",
+            "http://dbpedia.org/resource/Lawrence_MacAulay"
+        ],
+        [
+            "http://dbpedia.org/resource/Canadian_Dairy_Commission",
+            "http://dbpedia.org/resource/Marie-Claude_Bibeau"
+        ],
+        [
+            "http://dbpedia.org/resource/Canada_Mortgage_and_Housing_Corporation",
+            "http://dbpedia.org/resource/Jean-Yves_Duclos"
+        ],
+        [
+            "http://dbpedia.org/resource/Canadian_Northern_Economic_Development_Agency",
+            "http://dbpedia.org/resource/Navdeep_Bains"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_responsible_for_Canada_Post_Corporation",
+            "http://dbpedia.org/resource/Judy_Foote"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_responsible_for_Canada_Post_Corporation",
+            "http://dbpedia.org/resource/Carla_Qualtrough"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_of_Democratic_Institutions",
+            "http://dbpedia.org/resource/Maryam_Monsef"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_of_Democratic_Institutions",
+            "http://dbpedia.org/resource/Karina_Gould"
+        ]
+    ]
+}

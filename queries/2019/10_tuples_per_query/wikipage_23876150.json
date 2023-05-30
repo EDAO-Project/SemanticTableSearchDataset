@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bart_Dodson",
+            "http://dbpedia.org/resource/Athletics_at_the_1984_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Bart_Dodson",
+            "http://dbpedia.org/resource/Athletics_at_the_1984_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Maureen_Gaynor",
+            "http://dbpedia.org/resource/Athletics_at_the_1984_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Maureen_Gaynor",
+            "http://dbpedia.org/resource/Athletics_at_the_1984_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Roloff",
+            "http://dbpedia.org/resource/Equestrian_at_the_1984_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Roger_Withrow",
+            "http://dbpedia.org/resource/Shooting_at_the_1984_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Resa",
+            "http://dbpedia.org/resource/Swimming_at_the_1984_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Bowen",
+            "http://dbpedia.org/resource/Swimming_at_the_1984_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Trischa_Zorn",
+            "http://dbpedia.org/resource/Swimming_at_the_1984_Summer_Paralympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Trischa_Zorn",
+            "http://dbpedia.org/resource/Swimming_at_the_1984_Summer_Paralympics"
+        ]
+    ]
+}

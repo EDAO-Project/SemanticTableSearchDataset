@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Auburn",
+            "http://dbpedia.org/resource/Peter_Nagle"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bathurst",
+            "http://dbpedia.org/resource/Gerard_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bligh",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Blue_Mountains",
+            "http://dbpedia.org/resource/Bob_Debus"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Cabramatta",
+            "http://dbpedia.org/resource/Reba_Meagher"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Canterbury",
+            "http://dbpedia.org/resource/Kevin_Moss"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Cessnock",
+            "http://dbpedia.org/resource/Kerry_Hickey"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Charlestown",
+            "http://dbpedia.org/resource/Richard_Face"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Dubbo",
+            "http://dbpedia.org/resource/Warren_Mundine"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Fairfield",
+            "http://dbpedia.org/resource/Joe_Tripodi"
+        ]
+    ]
+}

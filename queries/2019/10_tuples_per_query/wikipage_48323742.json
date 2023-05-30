@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brisbane_Exhibition_Ground",
+            "http://dbpedia.org/resource/Brisbane"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne_Cricket_Ground",
+            "http://dbpedia.org/resource/Melbourne"
+        ],
+        [
+            "http://dbpedia.org/resource/Lancaster_Park",
+            "http://dbpedia.org/resource/Christchurch"
+        ],
+        [
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Northampton",
+            "http://dbpedia.org/resource/Northampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanley_Park,_Blackpool",
+            "http://dbpedia.org/resource/Blackpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Basin_Reserve",
+            "http://dbpedia.org/resource/Wellington"
+        ],
+        [
+            "http://dbpedia.org/resource/Adelaide_Oval",
+            "http://dbpedia.org/resource/Adelaide"
+        ],
+        [
+            "http://dbpedia.org/resource/Eden_Park",
+            "http://dbpedia.org/resource/Auckland"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Marine_Road_Ground,_Scarborough",
+            "http://dbpedia.org/resource/Scarborough,_North_Yorkshire"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Road,_Worcester",
+            "http://dbpedia.org/resource/Worcester"
+        ]
+    ]
+}

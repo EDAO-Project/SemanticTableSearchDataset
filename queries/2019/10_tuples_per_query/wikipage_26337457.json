@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/K._Michelle",
+            "http://dbpedia.org/resource/Rebellious_Soul"
+        ],
+        [
+            "http://dbpedia.org/resource/B.o.B",
+            "http://dbpedia.org/resource/Underground_Luxury"
+        ],
+        [
+            "http://dbpedia.org/resource/Mariah_Carey",
+            "http://dbpedia.org/resource/Number_1_to_Infinity"
+        ],
+        [
+            "http://dbpedia.org/resource/Currensy",
+            "http://dbpedia.org/resource/Canal_Street_Confidential"
+        ],
+        [
+            "http://dbpedia.org/resource/Charlie_Puth",
+            "http://dbpedia.org/resource/Nine_Track_Mind"
+        ],
+        [
+            "http://dbpedia.org/resource/K._Michelle",
+            "http://dbpedia.org/resource/More_Issues_Than_Vogue"
+        ],
+        [
+            "http://dbpedia.org/resource/Fifth_Harmony",
+            "http://dbpedia.org/resource/7/27"
+        ],
+        [
+            "http://dbpedia.org/resource/Nick_Jonas",
+            "http://dbpedia.org/resource/Last_Year_Was_Complicated"
+        ],
+        [
+            "http://dbpedia.org/resource/K._Michelle",
+            "http://dbpedia.org/resource/Kimberly:_The_People_I_Used_to_Know"
+        ],
+        [
+            "http://dbpedia.org/resource/Ariana_Grande",
+            "http://dbpedia.org/resource/Thank_U,_Next"
+        ]
+    ]
+}

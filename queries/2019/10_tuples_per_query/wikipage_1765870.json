@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1961_Nyasaland_general_election",
+            "http://dbpedia.org/resource/Orton_Chirwa"
+        ],
+        [
+            "http://dbpedia.org/resource/1961_Nyasaland_general_election",
+            "http://dbpedia.org/resource/Orton_Chirwa"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Nyasaland_general_election",
+            "http://dbpedia.org/resource/Hastings_Banda"
+        ],
+        [
+            "http://dbpedia.org/resource/1964_Nyasaland_general_election",
+            "http://dbpedia.org/resource/Hastings_Banda"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_Malawian_general_election",
+            "http://dbpedia.org/resource/Hastings_Banda"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Malawian_general_election",
+            "http://dbpedia.org/resource/Hastings_Banda"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Malawian_general_election",
+            "http://dbpedia.org/resource/Hastings_Banda"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Malawian_general_election",
+            "http://dbpedia.org/resource/Hastings_Banda"
+        ],
+        [
+            "http://dbpedia.org/resource/1987_Malawian_general_election",
+            "http://dbpedia.org/resource/Hastings_Banda"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_Malawian_general_election",
+            "http://dbpedia.org/resource/Hastings_Banda"
+        ]
+    ]
+}

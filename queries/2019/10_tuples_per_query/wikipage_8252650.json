@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tom_LaGarde",
+            "http://dbpedia.org/resource/Michigan_Mr._Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Wolf",
+            "http://dbpedia.org/resource/Wisconsin_Mr._Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Henrik_Rodl",
+            "http://dbpedia.org/resource/North_Carolina_Mr._Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/King_Rice",
+            "http://dbpedia.org/resource/Mr._New_York_Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Clifford_Rozier",
+            "http://dbpedia.org/resource/Florida_Mr._Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Vince_Carter",
+            "http://dbpedia.org/resource/Florida_Mr._Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Antawn_Jamison",
+            "http://dbpedia.org/resource/North_Carolina_Mr._Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Kris_Lang",
+            "http://dbpedia.org/resource/North_Carolina_Mr._Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Raymond_Felton",
+            "http://dbpedia.org/resource/South_Carolina_Mr._Basketball"
+        ],
+        [
+            "http://dbpedia.org/resource/Sean_May",
+            "http://dbpedia.org/resource/Indiana_Mr._Basketball"
+        ]
+    ]
+}

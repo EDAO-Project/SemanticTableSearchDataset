@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Xavier_Maassen",
+            "http://dbpedia.org/resource/Mad-Croc_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Maxime_Martin",
+            "http://dbpedia.org/resource/Marc_VDS_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Bas_Leinders",
+            "http://dbpedia.org/resource/Marc_VDS_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Enrique_Bernoldi",
+            "http://dbpedia.org/resource/Vitaphone_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Romain_Grosjean",
+            "http://dbpedia.org/resource/Matech_Competition"
+        ],
+        [
+            "http://dbpedia.org/resource/Neel_Jani",
+            "http://dbpedia.org/resource/Matech_Competition"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Westbrook",
+            "http://dbpedia.org/resource/Matech_Competition"
+        ],
+        [
+            "http://dbpedia.org/resource/Oliver_Gavin",
+            "http://dbpedia.org/resource/Mad-Croc_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Krumm",
+            "http://dbpedia.org/resource/Sumo_Power_GT"
+        ],
+        [
+            "http://dbpedia.org/resource/Warren_Hughes",
+            "http://dbpedia.org/resource/Sumo_Power_GT"
+        ]
+    ]
+}

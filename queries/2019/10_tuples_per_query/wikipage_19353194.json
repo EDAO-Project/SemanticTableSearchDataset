@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KINY",
+            "http://dbpedia.org/resource/Juneau,_Alaska"
+        ],
+        [
+            "http://dbpedia.org/resource/KQAD",
+            "http://dbpedia.org/resource/Luverne,_Minnesota"
+        ],
+        [
+            "http://dbpedia.org/resource/KREI",
+            "http://dbpedia.org/resource/Farmington,_Missouri"
+        ],
+        [
+            "http://dbpedia.org/resource/KXIC",
+            "http://dbpedia.org/resource/Iowa_City,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/WDEH",
+            "http://dbpedia.org/resource/Sweetwater,_Tennessee"
+        ],
+        [
+            "http://dbpedia.org/resource/WHOS",
+            "http://dbpedia.org/resource/Decatur,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/WJAT",
+            "http://dbpedia.org/resource/Swainsboro,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/WKZI",
+            "http://dbpedia.org/resource/Casey,_Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/WLAD",
+            "http://dbpedia.org/resource/Danbury,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/WMGY",
+            "http://dbpedia.org/resource/Montgomery,_Alabama"
+        ]
+    ]
+}

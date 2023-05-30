@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Antonov_An-24",
+            "http://dbpedia.org/resource/Military_transport_aircraft"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonov_An-26",
+            "http://dbpedia.org/resource/Military_transport_aircraft"
+        ],
+        [
+            "http://dbpedia.org/resource/Cessna_T-37_Tweet",
+            "http://dbpedia.org/resource/Jet_trainer"
+        ],
+        [
+            "http://dbpedia.org/resource/Douglas_C-47_Skytrain",
+            "http://dbpedia.org/resource/Military_transport_aircraft"
+        ],
+        [
+            "http://dbpedia.org/resource/Fouga_CM.170_Magister",
+            "http://dbpedia.org/resource/Jet_trainer"
+        ],
+        [
+            "http://dbpedia.org/resource/Chengdu_J-7",
+            "http://dbpedia.org/resource/Fighter_aircraft"
+        ],
+        [
+            "http://dbpedia.org/resource/North_American_F-86_Sabre",
+            "http://dbpedia.org/resource/Fighter_aircraft"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikoyan-Gurevich_MiG-21",
+            "http://dbpedia.org/resource/Fighter_aircraft"
+        ],
+        [
+            "http://dbpedia.org/resource/Shenyang_J-5",
+            "http://dbpedia.org/resource/Interceptor_aircraft"
+        ],
+        [
+            "http://dbpedia.org/resource/Shenyang_J-5",
+            "http://dbpedia.org/resource/Interceptor_aircraft"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Fearless_Frank",
+            "http://dbpedia.org/resource/Philip_Kaufman"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Rain_People",
+            "http://dbpedia.org/resource/Francis_Ford_Coppola"
+        ],
+        [
+            "http://dbpedia.org/resource/Drive,_He_Said",
+            "http://dbpedia.org/resource/Jack_Nicholson"
+        ],
+        [
+            "http://dbpedia.org/resource/Deliverance",
+            "http://dbpedia.org/resource/John_Boorman"
+        ],
+        [
+            "http://dbpedia.org/resource/Hickey_&_Boggs",
+            "http://dbpedia.org/resource/Robert_Culp"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Godfather",
+            "http://dbpedia.org/resource/Francis_Ford_Coppola"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Conversation",
+            "http://dbpedia.org/resource/Francis_Ford_Coppola"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Bingo_Long_Traveling_All-Stars_&_Motor_Kings",
+            "http://dbpedia.org/resource/John_Badham"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_&_the_Gypsy",
+            "http://dbpedia.org/resource/John_Korty"
+        ],
+        [
+            "http://dbpedia.org/resource/Demon_Seed",
+            "http://dbpedia.org/resource/Donald_Cammell"
+        ]
+    ]
+}

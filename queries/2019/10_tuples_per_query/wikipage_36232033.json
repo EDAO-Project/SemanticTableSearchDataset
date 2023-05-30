@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Le_Havre_AC",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Clermont_Foot",
+            "http://dbpedia.org/resource/Stade_Jules_Deschaseaux"
+        ],
+        [
+            "http://dbpedia.org/resource/Stade_Brestois_29",
+            "http://dbpedia.org/resource/Stade_Jules_Deschaseaux"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Gueugnon",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Troyes_AC",
+            "http://dbpedia.org/resource/Stade_Jules_Deschaseaux"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Nantes",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Libourne_Saint-Seurin",
+            "http://dbpedia.org/resource/Stade_Jules_Deschaseaux"
+        ],
+        [
+            "http://dbpedia.org/resource/Grenoble_Foot_38",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/Dijon_FCO",
+            "http://dbpedia.org/resource/Stade_Armand_Cesari"
+        ],
+        [
+            "http://dbpedia.org/resource/En_Avant_de_Guingamp",
+            "http://dbpedia.org/resource/Stade_Jules_Deschaseaux"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Glamorgan_CCC",
+            "http://dbpedia.org/resource/County_Ground,_Northampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Derbyshire_CCC",
+            "http://dbpedia.org/resource/County_Cricket_Ground,_Derby"
+        ],
+        [
+            "http://dbpedia.org/resource/Surrey_CCC",
+            "http://dbpedia.org/resource/Edgbaston_Cricket_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Nottinghamshire_CCC",
+            "http://dbpedia.org/resource/Edgbaston_Cricket_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Gloucestershire_CCC",
+            "http://dbpedia.org/resource/Campbell_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Gloucestershire_CCC",
+            "http://dbpedia.org/resource/Campbell_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Warwickshire_CCC",
+            "http://dbpedia.org/resource/Edgbaston_Cricket_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Worcestershire_CCC",
+            "http://dbpedia.org/resource/New_Road,_Worcester"
+        ],
+        [
+            "http://dbpedia.org/resource/Warwickshire_CCC",
+            "http://dbpedia.org/resource/Edgbaston_Cricket_Ground"
+        ],
+        [
+            "http://dbpedia.org/resource/Warwickshire_CCC",
+            "http://dbpedia.org/resource/Campbell_Park"
+        ]
+    ]
+}

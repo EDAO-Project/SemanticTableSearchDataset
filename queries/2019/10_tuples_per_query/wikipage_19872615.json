@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abha",
+            "http://dbpedia.org/resource/Abha_Regional_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Aden",
+            "http://dbpedia.org/resource/Aden_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Ghaydah",
+            "http://dbpedia.org/resource/Al_Ghaydah_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Al_Hudaydah",
+            "http://dbpedia.org/resource/Hodeida_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Mukalla",
+            "http://dbpedia.org/resource/Riyan_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Ataq",
+            "http://dbpedia.org/resource/Ataq_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Dammam",
+            "http://dbpedia.org/resource/King_Fahd_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Hargeisa",
+            "http://dbpedia.org/resource/Hargeisa_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeddah",
+            "http://dbpedia.org/resource/King_Abdulaziz_International_Airport"
+        ],
+        [
+            "http://dbpedia.org/resource/Mogadishu",
+            "http://dbpedia.org/resource/Aden_Adde_International_Airport"
+        ]
+    ]
+}

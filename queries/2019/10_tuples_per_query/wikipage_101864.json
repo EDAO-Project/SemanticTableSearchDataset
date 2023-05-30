@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anju,_South_Pyongan",
+            "http://dbpedia.org/resource/South_Pyongan_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Chongjin",
+            "http://dbpedia.org/resource/North_Hamgyong_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Chongju",
+            "http://dbpedia.org/resource/North_Pyongan_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Haeju",
+            "http://dbpedia.org/resource/South_Hwanghae_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamhung",
+            "http://dbpedia.org/resource/South_Hamgyong_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Hoeryong",
+            "http://dbpedia.org/resource/North_Hamgyong_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Huichon",
+            "http://dbpedia.org/resource/Chagang_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Hyesan",
+            "http://dbpedia.org/resource/Ryanggang_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaechon",
+            "http://dbpedia.org/resource/South_Pyongan_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Kanggye",
+            "http://dbpedia.org/resource/Chagang_Province"
+        ]
+    ]
+}

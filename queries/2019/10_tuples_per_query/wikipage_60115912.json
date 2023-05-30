@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/St._John_Fisher_Cardinals",
+            "http://dbpedia.org/resource/Utica_Pioneers"
+        ],
+        [
+            "http://dbpedia.org/resource/St._John_Fisher_Cardinals",
+            "http://dbpedia.org/resource/RIT_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/St._John_Fisher_Cardinals",
+            "http://dbpedia.org/resource/Utica_Pioneers"
+        ],
+        [
+            "http://dbpedia.org/resource/St._John_Fisher_Cardinals",
+            "http://dbpedia.org/resource/Utica_Pioneers"
+        ],
+        [
+            "http://dbpedia.org/resource/Nazareth_Golden_Flyers",
+            "http://dbpedia.org/resource/St._John_Fisher_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/RIT_Tigers",
+            "http://dbpedia.org/resource/Nazareth_Golden_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Nazareth_Golden_Flyers",
+            "http://dbpedia.org/resource/St._John_Fisher_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/Hartwick_Hawks",
+            "http://dbpedia.org/resource/St._John_Fisher_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/Ithaca_Bombers",
+            "http://dbpedia.org/resource/Nazareth_Golden_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Ithaca_Bombers",
+            "http://dbpedia.org/resource/Stevens_Tech_Ducks"
+        ]
+    ]
+}

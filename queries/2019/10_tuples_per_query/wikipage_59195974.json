@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kareem_Moses",
+            "http://dbpedia.org/resource/FF_Jaro"
+        ],
+        [
+            "http://dbpedia.org/resource/Amer_Didic",
+            "http://dbpedia.org/resource/San_Antonio_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Son_Yong-chan",
+            "http://dbpedia.org/resource/Ozone"
+        ],
+        [
+            "http://dbpedia.org/resource/Philippe_Lincourt-Joseph",
+            "http://dbpedia.org/resource/Al-Rustaq"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Marcelin",
+            "http://dbpedia.org/resource/Miami_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruno_Zebie",
+            "http://dbpedia.org/resource/Calgary_Foothills"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajay_Khabra",
+            "http://dbpedia.org/resource/Alberta_Golden_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajeej_Sarkaria",
+            "http://dbpedia.org/resource/Alberta_Golden_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Randy_Edwini-Bonsu",
+            "http://dbpedia.org/resource/Tennis_Borussia_Berlin"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomi_Ameobi",
+            "http://dbpedia.org/resource/FC_Cincinnati"
+        ]
+    ]
+}

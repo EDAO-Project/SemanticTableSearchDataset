@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tazio_Nuvolari",
+            "http://dbpedia.org/resource/Scuderia_Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Hans_Stuck",
+            "http://dbpedia.org/resource/Auto_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Rudolf_Caracciola",
+            "http://dbpedia.org/resource/Daimler-Benz"
+        ],
+        [
+            "http://dbpedia.org/resource/Manfred_von_Brauchitsch",
+            "http://dbpedia.org/resource/Daimler-Benz"
+        ],
+        [
+            "http://dbpedia.org/resource/Luigi_Fagioli",
+            "http://dbpedia.org/resource/Daimler-Benz"
+        ],
+        [
+            "http://dbpedia.org/resource/Achille_Varzi",
+            "http://dbpedia.org/resource/Auto_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Pietsch",
+            "http://dbpedia.org/resource/Auto_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Hermann_Lang",
+            "http://dbpedia.org/resource/Daimler-Benz"
+        ],
+        [
+            "http://dbpedia.org/resource/Louis_Chiron",
+            "http://dbpedia.org/resource/Scuderia_Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Piero_Taruffi",
+            "http://dbpedia.org/resource/Bugatti"
+        ]
+    ]
+}

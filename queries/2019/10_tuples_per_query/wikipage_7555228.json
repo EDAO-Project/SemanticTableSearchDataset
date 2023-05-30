@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SS_Saint-Louisienne",
+            "http://dbpedia.org/resource/JS_Saint-Pierroise"
+        ],
+        [
+            "http://dbpedia.org/resource/SS_Saint-Louisienne",
+            "http://dbpedia.org/resource/JS_Saint-Pierroise"
+        ],
+        [
+            "http://dbpedia.org/resource/SS_Saint-Louisienne",
+            "http://dbpedia.org/resource/US_Stade_Tamponnaise"
+        ],
+        [
+            "http://dbpedia.org/resource/SS_Saint-Louisienne",
+            "http://dbpedia.org/resource/US_Stade_Tamponnaise"
+        ],
+        [
+            "http://dbpedia.org/resource/JS_Saint-Pierroise",
+            "http://dbpedia.org/resource/SS_Saint-Louisienne"
+        ],
+        [
+            "http://dbpedia.org/resource/JS_Saint-Pierroise",
+            "http://dbpedia.org/resource/CS_Saint-Denis"
+        ],
+        [
+            "http://dbpedia.org/resource/CS_Saint-Denis",
+            "http://dbpedia.org/resource/SS_Saint-Pauloise"
+        ],
+        [
+            "http://dbpedia.org/resource/SS_Saint-Louisienne",
+            "http://dbpedia.org/resource/CS_Saint-Denis"
+        ],
+        [
+            "http://dbpedia.org/resource/CS_Saint-Denis",
+            "http://dbpedia.org/resource/SS_Saint-Pauloise"
+        ],
+        [
+            "http://dbpedia.org/resource/SS_Saint-Pauloise",
+            "http://dbpedia.org/resource/JS_Saint-Pierroise"
+        ]
+    ]
+}

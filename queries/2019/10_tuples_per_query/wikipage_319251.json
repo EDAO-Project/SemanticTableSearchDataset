@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Taoiseach",
+            "http://dbpedia.org/resource/Charles_Haughey"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Transport,_Tourism_and_Sport",
+            "http://dbpedia.org/resource/George_Colley"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Agriculture,_Food_and_the_Marine",
+            "http://dbpedia.org/resource/Ray_MacSharry"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Housing,_Planning_and_Local_Government",
+            "http://dbpedia.org/resource/Sylvester_Barrett"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Foreign_Affairs_and_Trade",
+            "http://dbpedia.org/resource/Brian_Lenihan_Snr"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Labour",
+            "http://dbpedia.org/resource/Gene_Fitzgerald"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Posts_and_Telegraphs",
+            "http://dbpedia.org/resource/Albert_Reynolds"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Culture,_Heritage_and_the_Gaeltacht",
+            "http://dbpedia.org/resource/George_Colley"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_Transport,_Tourism_and_Sport",
+            "http://dbpedia.org/resource/Albert_Reynolds"
+        ],
+        [
+            "http://dbpedia.org/resource/Minister_for_the_Public_Service",
+            "http://dbpedia.org/resource/Gene_Fitzgerald"
+        ]
+    ]
+}

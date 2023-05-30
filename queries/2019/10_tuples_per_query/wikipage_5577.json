@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bjelovar-Bilogora_County",
+            "http://dbpedia.org/resource/Bjelovar"
+        ],
+        [
+            "http://dbpedia.org/resource/Brod-Posavina_County",
+            "http://dbpedia.org/resource/Slavonski_Brod"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubrovnik-Neretva_County",
+            "http://dbpedia.org/resource/Dubrovnik"
+        ],
+        [
+            "http://dbpedia.org/resource/Istria_County",
+            "http://dbpedia.org/resource/Pazin"
+        ],
+        [
+            "http://dbpedia.org/resource/Krapina-Zagorje_County",
+            "http://dbpedia.org/resource/Krapina"
+        ],
+        [
+            "http://dbpedia.org/resource/Osijek-Baranja_County",
+            "http://dbpedia.org/resource/Osijek"
+        ],
+        [
+            "http://dbpedia.org/resource/Primorje-Gorski_Kotar_County",
+            "http://dbpedia.org/resource/Rijeka"
+        ],
+        [
+            "http://dbpedia.org/resource/Sisak-Moslavina_County",
+            "http://dbpedia.org/resource/Sisak"
+        ],
+        [
+            "http://dbpedia.org/resource/Split-Dalmatia_County",
+            "http://dbpedia.org/resource/Split,_Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/Virovitica-Podravina_County",
+            "http://dbpedia.org/resource/Virovitica"
+        ]
+    ]
+}

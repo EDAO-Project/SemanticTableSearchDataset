@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ilet_a_Brouee",
+            "http://dbpedia.org/resource/Caribbean_Sea"
+        ],
+        [
+            "http://dbpedia.org/resource/Migingo_Island",
+            "http://dbpedia.org/resource/Lake_Victoria"
+        ],
+        [
+            "http://dbpedia.org/resource/Ebeye",
+            "http://dbpedia.org/resource/Pacific_Ocean"
+        ],
+        [
+            "http://dbpedia.org/resource/Santa_Cruz_del_Islote",
+            "http://dbpedia.org/resource/Caribbean_Sea"
+        ],
+        [
+            "http://dbpedia.org/resource/Arwad",
+            "http://dbpedia.org/resource/Mediterranean_Sea"
+        ],
+        [
+            "http://dbpedia.org/resource/Mactan",
+            "http://dbpedia.org/resource/Mactan_Channel"
+        ],
+        [
+            "http://dbpedia.org/resource/Isola_dei_Pescatori",
+            "http://dbpedia.org/resource/Lake_Maggiore"
+        ],
+        [
+            "http://dbpedia.org/resource/Oahu",
+            "http://dbpedia.org/resource/Pacific_Ocean"
+        ],
+        [
+            "http://dbpedia.org/resource/Bahrain",
+            "http://dbpedia.org/resource/Persian_Gulf"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Providence",
+            "http://dbpedia.org/resource/Atlantic_Ocean"
+        ]
+    ]
+}

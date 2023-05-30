@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ashlyn_Harris",
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels"
+        ],
+        [
+            "http://dbpedia.org/resource/Rachel_Buehler",
+            "http://dbpedia.org/resource/Stanford_Cardinal"
+        ],
+        [
+            "http://dbpedia.org/resource/Amy_Steadman",
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels"
+        ],
+        [
+            "http://dbpedia.org/resource/Kendall_Fletcher",
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels"
+        ],
+        [
+            "http://dbpedia.org/resource/Leslie_Osborne",
+            "http://dbpedia.org/resource/Santa_Clara_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/Jill_Oakes",
+            "http://dbpedia.org/resource/UCLA_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Lori_Chalupny",
+            "http://dbpedia.org/resource/North_Carolina_Tar_Heels"
+        ],
+        [
+            "http://dbpedia.org/resource/Manya_Makoski",
+            "http://dbpedia.org/resource/Arizona_State_Sun_Devils"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarah_Huffman",
+            "http://dbpedia.org/resource/Virginia_Cavaliers"
+        ],
+        [
+            "http://dbpedia.org/resource/Kerri_Hanks",
+            "http://dbpedia.org/resource/Notre_Dame_Fighting_Irish"
+        ]
+    ]
+}

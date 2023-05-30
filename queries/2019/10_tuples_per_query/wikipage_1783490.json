@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1985_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Pittsburgh"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Saint-Laurent,_Quebec"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Fort_Erie,_Ontario"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Madison,_Wisconsin"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Nipawin"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Edmonton"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Hartford,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Barrie"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Climax,_Saskatchewan"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_NHL_Entry_Draft",
+            "http://dbpedia.org/resource/Toronto"
+        ]
+    ]
+}

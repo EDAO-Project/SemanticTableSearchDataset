@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Abbuoto",
+            "http://dbpedia.org/resource/Lazio"
+        ],
+        [
+            "http://dbpedia.org/resource/Abrusco",
+            "http://dbpedia.org/resource/Tuscany"
+        ],
+        [
+            "http://dbpedia.org/resource/Acolon",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Agiorgitiko",
+            "http://dbpedia.org/resource/Greece"
+        ],
+        [
+            "http://dbpedia.org/resource/Albaranzeuli_nero",
+            "http://dbpedia.org/resource/Sardinia"
+        ],
+        [
+            "http://dbpedia.org/resource/Albarossa",
+            "http://dbpedia.org/resource/Veneto"
+        ],
+        [
+            "http://dbpedia.org/resource/Aleatico",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Alfrocheiro_Preto",
+            "http://dbpedia.org/resource/Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Alicante_Bouschet",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Ancellotta",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

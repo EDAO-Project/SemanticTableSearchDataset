@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thepchaiya_Un-Nooh",
+            "http://dbpedia.org/resource/Barry_Pinches"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamie_Burnett",
+            "http://dbpedia.org/resource/Alex_Borg"
+        ],
+        [
+            "http://dbpedia.org/resource/Cao_Yupeng",
+            "http://dbpedia.org/resource/Ross_Muir"
+        ],
+        [
+            "http://dbpedia.org/resource/Anthony_McGill",
+            "http://dbpedia.org/resource/Hossein_Vafaei"
+        ],
+        [
+            "http://dbpedia.org/resource/Martin_Gould",
+            "http://dbpedia.org/resource/Adam_Duffy"
+        ],
+        [
+            "http://dbpedia.org/resource/Sam_Baird",
+            "http://dbpedia.org/resource/Tony_Drago"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerard_Greene",
+            "http://dbpedia.org/resource/Elliot_Slessor"
+        ],
+        [
+            "http://dbpedia.org/resource/Lyu_Haotian",
+            "http://dbpedia.org/resource/Andrew_Pagett"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_McManus",
+            "http://dbpedia.org/resource/Michael_Wasley"
+        ],
+        [
+            "http://dbpedia.org/resource/Aditya_Mehta",
+            "http://dbpedia.org/resource/Jak_Jones"
+        ]
+    ]
+}

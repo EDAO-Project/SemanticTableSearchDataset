@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ben_Vereen",
+            "http://dbpedia.org/resource/Jesus_Christ_Superstar"
+        ],
+        [
+            "http://dbpedia.org/resource/Gilbert_Price",
+            "http://dbpedia.org/resource/Lost_in_the_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Ted_Ross",
+            "http://dbpedia.org/resource/The_Wiz"
+        ],
+        [
+            "http://dbpedia.org/resource/Gilbert_Price",
+            "http://dbpedia.org/resource/The_Night_That_Made_America_Famous"
+        ],
+        [
+            "http://dbpedia.org/resource/Hinton_Battle",
+            "http://dbpedia.org/resource/Sophisticated_Ladies"
+        ],
+        [
+            "http://dbpedia.org/resource/Hinton_Battle",
+            "http://dbpedia.org/resource/The_Tap_Dance_Kid"
+        ],
+        [
+            "http://dbpedia.org/resource/Samuel_E._Wright",
+            "http://dbpedia.org/resource/The_Tap_Dance_Kid"
+        ],
+        [
+            "http://dbpedia.org/resource/Hinton_Battle",
+            "http://dbpedia.org/resource/Miss_Saigon"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Alan_Grier",
+            "http://dbpedia.org/resource/Porgy_and_Bess"
+        ],
+        [
+            "http://dbpedia.org/resource/Phillip_Boykin",
+            "http://dbpedia.org/resource/Porgy_and_Bess"
+        ]
+    ]
+}

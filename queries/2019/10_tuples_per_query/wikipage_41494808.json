@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adrianna_Franch",
+            "http://dbpedia.org/resource/Western_New_York_Flash"
+        ],
+        [
+            "http://dbpedia.org/resource/Rachel_Buehler",
+            "http://dbpedia.org/resource/Portland_Thorns_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Caitlin_Foord",
+            "http://dbpedia.org/resource/Sky_Blue_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_Krieger",
+            "http://dbpedia.org/resource/Washington_Spirit"
+        ],
+        [
+            "http://dbpedia.org/resource/Lauren_Sesselmann",
+            "http://dbpedia.org/resource/FC_Kansas_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Megan_Rapinoe",
+            "http://dbpedia.org/resource/Seattle_Reign_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Desiree_Scott",
+            "http://dbpedia.org/resource/FC_Kansas_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Erika_Tymrak",
+            "http://dbpedia.org/resource/FC_Kansas_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Morgan",
+            "http://dbpedia.org/resource/Portland_Thorns_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Lianne_Sanderson",
+            "http://dbpedia.org/resource/Boston_Breakers"
+        ]
+    ]
+}

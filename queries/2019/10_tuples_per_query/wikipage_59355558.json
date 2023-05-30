@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Subhash_Bhamre",
+            "http://dbpedia.org/resource/Kunal_Rohidas_Patil"
+        ],
+        [
+            "http://dbpedia.org/resource/Unmesh_Patil",
+            "http://dbpedia.org/resource/Gulabrao_Deokar"
+        ],
+        [
+            "http://dbpedia.org/resource/Prataprao_Ganpatrao_Jadhav",
+            "http://dbpedia.org/resource/Rajendra_Shingne"
+        ],
+        [
+            "http://dbpedia.org/resource/Anandrao_Adsul",
+            "http://dbpedia.org/resource/Navaneet_Kaur"
+        ],
+        [
+            "http://dbpedia.org/resource/Nitin_Jairam_Gadkari",
+            "http://dbpedia.org/resource/Nanabhau_Patole"
+        ],
+        [
+            "http://dbpedia.org/resource/Hansraj_Gangaram_Ahir",
+            "http://dbpedia.org/resource/Suresh_Dhanorkar"
+        ],
+        [
+            "http://dbpedia.org/resource/Bhavana_Gawali",
+            "http://dbpedia.org/resource/Manikrao_Thakre"
+        ],
+        [
+            "http://dbpedia.org/resource/Prataprao_Govindrao_Chikhalikar",
+            "http://dbpedia.org/resource/Ashok_Chavan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chandrakant_Khaire",
+            "http://dbpedia.org/resource/Subhash_Zambad"
+        ],
+        [
+            "http://dbpedia.org/resource/Hemant_Godse",
+            "http://dbpedia.org/resource/Sameer_Bhujbal"
+        ]
+    ]
+}

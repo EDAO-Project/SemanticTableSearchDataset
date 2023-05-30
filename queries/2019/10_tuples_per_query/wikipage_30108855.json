@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lim_Ha-Ram",
+            "http://dbpedia.org/resource/Yonsei_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Park_Hyun",
+            "http://dbpedia.org/resource/University_of_Incheon"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Seung-Ki",
+            "http://dbpedia.org/resource/University_of_Ulsan"
+        ],
+        [
+            "http://dbpedia.org/resource/Yoo_Jong-Hyun",
+            "http://dbpedia.org/resource/Konkuk_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Dong-Sub",
+            "http://dbpedia.org/resource/Tokushima_Vortis"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Ho-Nam",
+            "http://dbpedia.org/resource/Sagan_Tosu"
+        ],
+        [
+            "http://dbpedia.org/resource/Park_Yo-Han",
+            "http://dbpedia.org/resource/Yonsei_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Park_Ho-Jin",
+            "http://dbpedia.org/resource/Suwon_Samsung_Bluewings"
+        ],
+        [
+            "http://dbpedia.org/resource/Park_Sang-Hyeon",
+            "http://dbpedia.org/resource/Seongnam_Ilhwa_Chunma"
+        ],
+        [
+            "http://dbpedia.org/resource/Ahn_Sung-Nam",
+            "http://dbpedia.org/resource/Gangwon_FC"
+        ]
+    ]
+}

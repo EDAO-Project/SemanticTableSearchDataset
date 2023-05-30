@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jack_Peart",
+            "http://dbpedia.org/resource/Croydon_Common"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_Chester",
+            "http://dbpedia.org/resource/Millwall"
+        ],
+        [
+            "http://dbpedia.org/resource/Billy_Clarkson",
+            "http://dbpedia.org/resource/Burnley"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Drabble",
+            "http://dbpedia.org/resource/Bradford_Park_Avenue"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Bullock",
+            "http://dbpedia.org/resource/Huddersfield_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Alf_Gregson",
+            "http://dbpedia.org/resource/Grimsby_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Fred_Keenor",
+            "http://dbpedia.org/resource/Cardiff_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Walker_Hampson",
+            "http://dbpedia.org/resource/Burnley"
+        ],
+        [
+            "http://dbpedia.org/resource/Bertie_Denyer",
+            "http://dbpedia.org/resource/Swindon_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Ernie_Dilley",
+            "http://dbpedia.org/resource/Millwall"
+        ]
+    ]
+}

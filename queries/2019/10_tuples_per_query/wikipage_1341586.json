@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Douglas_H._Bosco",
+            "http://dbpedia.org/resource/1982_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Eugene_A._Chappie",
+            "http://dbpedia.org/resource/1980_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Matsui",
+            "http://dbpedia.org/resource/1978_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Victor_H._Fazio",
+            "http://dbpedia.org/resource/1978_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbara_Boxer",
+            "http://dbpedia.org/resource/1982_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Ron_Dellums",
+            "http://dbpedia.org/resource/1970_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Pete_Stark",
+            "http://dbpedia.org/resource/1972_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Edwards",
+            "http://dbpedia.org/resource/1962_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Lantos",
+            "http://dbpedia.org/resource/1980_United_States_House_of_Representatives_elections_in_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Ed_Zschau",
+            "http://dbpedia.org/resource/1982_United_States_House_of_Representatives_elections_in_California"
+        ]
+    ]
+}

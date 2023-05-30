@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Last_Vegas",
+            "http://dbpedia.org/resource/Eva_Marie"
+        ],
+        [
+            "http://dbpedia.org/resource/KIT_Walters",
+            "http://dbpedia.org/resource/Solomon_Crowe"
+        ],
+        [
+            "http://dbpedia.org/resource/KIT_Walters",
+            "http://dbpedia.org/resource/The_Hype_Bros"
+        ],
+        [
+            "http://dbpedia.org/resource/KIT_Walters",
+            "http://dbpedia.org/resource/WWE_Raw"
+        ],
+        [
+            "http://dbpedia.org/resource/Lesley_Roy",
+            "http://dbpedia.org/resource/Ember_Moon"
+        ],
+        [
+            "http://dbpedia.org/resource/KIT_Walters",
+            "http://dbpedia.org/resource/Rich_Swann"
+        ],
+        [
+            "http://dbpedia.org/resource/Felicia_Barton",
+            "http://dbpedia.org/resource/Total_Bellas"
+        ],
+        [
+            "http://dbpedia.org/resource/From_Ashes_to_New",
+            "http://dbpedia.org/resource/WWE_205_Live"
+        ],
+        [
+            "http://dbpedia.org/resource/Moosh_and_Twist",
+            "http://dbpedia.org/resource/WWE_205_Live"
+        ],
+        [
+            "http://dbpedia.org/resource/KIT_Walters",
+            "http://dbpedia.org/resource/Mauro_Ranallo"
+        ]
+    ]
+}

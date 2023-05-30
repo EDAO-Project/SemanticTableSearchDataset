@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Simon_Gerrans",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Alejandro_Valverde",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Alejandro_Valverde",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Gerrans",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Gerrans",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Gerrans",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Gerrans",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Boonen",
+            "http://dbpedia.org/resource/Belgium"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Boonen",
+            "http://dbpedia.org/resource/Spain"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Boonen",
+            "http://dbpedia.org/resource/Spain"
+        ]
+    ]
+}

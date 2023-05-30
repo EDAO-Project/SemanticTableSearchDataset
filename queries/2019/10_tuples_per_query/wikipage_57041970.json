@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1966_Dominican_Republic_general_election",
+            "http://dbpedia.org/resource/Social_Christian_Reformist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Dominican_Republic_general_election",
+            "http://dbpedia.org/resource/Social_Christian_Reformist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Dominican_Republic_general_election",
+            "http://dbpedia.org/resource/Social_Christian_Reformist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_Dominican_Republic_general_election",
+            "http://dbpedia.org/resource/Dominican_Revolutionary_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Dominican_Republic_general_election",
+            "http://dbpedia.org/resource/Dominican_Revolutionary_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Dominican_Republic_general_election",
+            "http://dbpedia.org/resource/Social_Christian_Reformist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_Dominican_Republic_general_election",
+            "http://dbpedia.org/resource/Social_Christian_Reformist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_Dominican_Republic_general_election",
+            "http://dbpedia.org/resource/Social_Christian_Reformist_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Dominican_Republic_presidential_election",
+            "http://dbpedia.org/resource/Dominican_Liberation_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Dominican_Republic_presidential_election",
+            "http://dbpedia.org/resource/Dominican_Revolutionary_Party"
+        ]
+    ]
+}

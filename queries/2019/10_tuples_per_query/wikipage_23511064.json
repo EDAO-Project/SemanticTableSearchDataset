@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1984",
+            "http://dbpedia.org/resource/Dolly_Parton"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1985",
+            "http://dbpedia.org/resource/Anne_Murray"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1985",
+            "http://dbpedia.org/resource/The_Statler_Brothers"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1985",
+            "http://dbpedia.org/resource/Willie_Nelson"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1987",
+            "http://dbpedia.org/resource/The_Judds"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1987",
+            "http://dbpedia.org/resource/Dwight_Yoakam"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1987",
+            "http://dbpedia.org/resource/George_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1987",
+            "http://dbpedia.org/resource/Reba_McEntire"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1988",
+            "http://dbpedia.org/resource/Randy_Travis"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Music_Awards_of_1988",
+            "http://dbpedia.org/resource/Reba_McEntire"
+        ]
+    ]
+}

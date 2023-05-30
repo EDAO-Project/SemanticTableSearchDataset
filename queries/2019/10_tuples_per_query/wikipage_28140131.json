@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Kommunalnik_Slonim",
+            "http://dbpedia.org/resource/Pinsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Fomalgaut_Borisov",
+            "http://dbpedia.org/resource/Barysaw"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Belcard_Grodno",
+            "http://dbpedia.org/resource/Grodno"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Kommunalnik_Slonim",
+            "http://dbpedia.org/resource/Slonim"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Transmash_Mogilev",
+            "http://dbpedia.org/resource/Mogilev"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Khimik_Svetlogorsk",
+            "http://dbpedia.org/resource/Svietlahorsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Torpedo-BelAZ_Zhodino",
+            "http://dbpedia.org/resource/Zhodino"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Dinamo-Juni_Minsk",
+            "http://dbpedia.org/resource/Minsk"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Bereza-2010",
+            "http://dbpedia.org/resource/Staryya_Darohi"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Vitebsk-2",
+            "http://dbpedia.org/resource/Vitebsk"
+        ]
+    ]
+}

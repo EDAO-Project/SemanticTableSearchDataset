@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Great_Inheritance",
+            "http://dbpedia.org/resource/KBS2"
+        ],
+        [
+            "http://dbpedia.org/resource/Please_Come_Back,_Soon-ae",
+            "http://dbpedia.org/resource/Seoul_Broadcasting_System"
+        ],
+        [
+            "http://dbpedia.org/resource/How_to_Meet_a_Perfect_Neighbor",
+            "http://dbpedia.org/resource/Seoul_Broadcasting_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Iljimae",
+            "http://dbpedia.org/resource/Seoul_Broadcasting_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Glass_Castle",
+            "http://dbpedia.org/resource/Seoul_Broadcasting_System"
+        ],
+        [
+            "http://dbpedia.org/resource/King_of_Baking,_Kim_Takgu",
+            "http://dbpedia.org/resource/KBS2"
+        ],
+        [
+            "http://dbpedia.org/resource/My_Girlfriend_Is_a_Nine-Tailed_Fox",
+            "http://dbpedia.org/resource/Seoul_Broadcasting_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Flames_of_Desire",
+            "http://dbpedia.org/resource/Munhwa_Broadcasting_Corporation"
+        ],
+        [
+            "http://dbpedia.org/resource/The_King_of_Legend",
+            "http://dbpedia.org/resource/KBS1"
+        ],
+        [
+            "http://dbpedia.org/resource/Warrior_Baek_Dong-soo",
+            "http://dbpedia.org/resource/Seoul_Broadcasting_System"
+        ]
+    ]
+}

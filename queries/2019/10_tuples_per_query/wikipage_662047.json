@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stratford_Cullitons",
+            "http://dbpedia.org/resource/Mid-Western_Junior_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Black_Hawks",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Black_Hawks",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

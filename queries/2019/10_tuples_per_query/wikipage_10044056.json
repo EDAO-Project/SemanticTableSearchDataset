@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Division_of_Grampians",
+            "http://dbpedia.org/resource/Edward_Jolley"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Indi",
+            "http://dbpedia.org/resource/Parker_Moloney"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Corio",
+            "http://dbpedia.org/resource/Alfred_Ozanne"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Ballarat",
+            "http://dbpedia.org/resource/Charles_McGrath"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Riverina",
+            "http://dbpedia.org/resource/John_Chanter"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Macquarie",
+            "http://dbpedia.org/resource/Ernest_Carr"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Grey",
+            "http://dbpedia.org/resource/Alexander_Poynton"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Hunter",
+            "http://dbpedia.org/resource/Matthew_Charlton"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Boothby",
+            "http://dbpedia.org/resource/George_Dankel"
+        ],
+        [
+            "http://dbpedia.org/resource/Division_of_Denison",
+            "http://dbpedia.org/resource/William_Laird_Smith"
+        ]
+    ]
+}

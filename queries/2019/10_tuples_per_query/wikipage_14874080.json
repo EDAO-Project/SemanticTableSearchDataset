@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Hockeyettan"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Hockeyettan"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Modo_AIK",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Vancouver_Canucks",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Vancouver_Canucks",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

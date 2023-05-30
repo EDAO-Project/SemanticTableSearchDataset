@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Singer_Bowl",
+            "http://dbpedia.org/resource/Flushing,_Queens"
+        ],
+        [
+            "http://dbpedia.org/resource/Boston_Garden",
+            "http://dbpedia.org/resource/Boston"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandeis_University",
+            "http://dbpedia.org/resource/Waltham,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Haven_Arena",
+            "http://dbpedia.org/resource/New_Haven,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Quinnipiac_University",
+            "http://dbpedia.org/resource/Hamden,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/Community_Choice_Credit_Union_Convention_Center",
+            "http://dbpedia.org/resource/Columbus,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Ohio_State_University",
+            "http://dbpedia.org/resource/Columbus,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Syracuse_University",
+            "http://dbpedia.org/resource/Syracuse,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/LeMoyne_College",
+            "http://dbpedia.org/resource/Syracuse,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Richfield_Coliseum",
+            "http://dbpedia.org/resource/Cleveland"
+        ]
+    ]
+}

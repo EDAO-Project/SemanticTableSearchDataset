@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Maalaala_Mo_Kaya",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Luv_U",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Maalaala_Mo_Kaya",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Wansapanataym",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Maalaala_Mo_Kaya",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Midnight_DJ",
+            "http://dbpedia.org/resource/Associated_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Maalaala_Mo_Kaya",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Maalaala_Mo_Kaya",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Habang_May_Buhay",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ],
+        [
+            "http://dbpedia.org/resource/Maalaala_Mo_Kaya",
+            "http://dbpedia.org/resource/ABS-CBN"
+        ]
+    ]
+}

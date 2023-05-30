@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allan_Caidic",
+            "http://dbpedia.org/resource/Great_Taste_Coffee_Makers"
+        ],
+        [
+            "http://dbpedia.org/resource/Hector_Calma",
+            "http://dbpedia.org/resource/San_Miguel_Beermen"
+        ],
+        [
+            "http://dbpedia.org/resource/Rey_Cuenco",
+            "http://dbpedia.org/resource/Barangay_Ginebra_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Yves_Dignadice",
+            "http://dbpedia.org/resource/San_Miguel_Beermen"
+        ],
+        [
+            "http://dbpedia.org/resource/Ramon_Fernandez",
+            "http://dbpedia.org/resource/San_Miguel_Beermen"
+        ],
+        [
+            "http://dbpedia.org/resource/Samboy_Lim",
+            "http://dbpedia.org/resource/San_Miguel_Beermen"
+        ],
+        [
+            "http://dbpedia.org/resource/Chito_Loyzaga",
+            "http://dbpedia.org/resource/Barangay_Ginebra_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronnie_Magsanoc",
+            "http://dbpedia.org/resource/Shell_Turbo_Chargers"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjie_Paras",
+            "http://dbpedia.org/resource/Shell_Turbo_Chargers"
+        ],
+        [
+            "http://dbpedia.org/resource/Alvin_Patrimonio",
+            "http://dbpedia.org/resource/Purefoods_Tender_Juicy_Hotdogs"
+        ]
+    ]
+}

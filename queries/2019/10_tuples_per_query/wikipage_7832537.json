@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Diamondbacks",
+            "http://dbpedia.org/resource/Buck_Showalter"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/Bobby_Cox"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Don_Baylor"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Jack_McKeon"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Rockies",
+            "http://dbpedia.org/resource/Buddy_Bell"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Larry_Dierker"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Dodgers",
+            "http://dbpedia.org/resource/Davey_Johnson"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Davey_Lopes"
+        ],
+        [
+            "http://dbpedia.org/resource/Montreal_Expos",
+            "http://dbpedia.org/resource/Felipe_Alou"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Bobby_Valentine"
+        ]
+    ]
+}

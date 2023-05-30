@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2000_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Alpine_skiing_combined"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Slalom_skiing"
+        ]
+    ]
+}

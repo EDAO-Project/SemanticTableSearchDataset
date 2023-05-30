@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Ferdinando_Leda"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Renan_Teixeira"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Victor_Bolt"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Bruno_Cesar_Xavier_Sislo"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Diego_de_Souza_Xavier"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Marcelo_Rosa_Moura_Marques"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Renan_Paulino_de_Souza"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Rudy_Cardozo"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Francisco_Alex"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Jean_Mota"
+        ]
+    ]
+}

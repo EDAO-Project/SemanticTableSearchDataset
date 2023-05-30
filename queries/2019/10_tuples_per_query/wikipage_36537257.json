@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Emiliano_Viviano",
+            "http://dbpedia.org/resource/Palermo"
+        ],
+        [
+            "http://dbpedia.org/resource/Cristiano_Lupatelli",
+            "http://dbpedia.org/resource/Genoa"
+        ],
+        [
+            "http://dbpedia.org/resource/Facundo_Roncaglia",
+            "http://dbpedia.org/resource/Boca_Juniors"
+        ],
+        [
+            "http://dbpedia.org/resource/Marvin_Compper",
+            "http://dbpedia.org/resource/1899_Hoffenheim"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Sissoko",
+            "http://dbpedia.org/resource/Paris_Saint-Germain"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberto_Aquilani",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Juan_Cuadrado",
+            "http://dbpedia.org/resource/Udinese"
+        ],
+        [
+            "http://dbpedia.org/resource/Cristian_Llama",
+            "http://dbpedia.org/resource/Catania"
+        ],
+        [
+            "http://dbpedia.org/resource/Borja_Valero",
+            "http://dbpedia.org/resource/Villarreal"
+        ],
+        [
+            "http://dbpedia.org/resource/Giulio_Migliaccio",
+            "http://dbpedia.org/resource/Palermo"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rebellion_Racing",
+            "http://dbpedia.org/resource/Lola_B12/60"
+        ],
+        [
+            "http://dbpedia.org/resource/Rebellion_Racing",
+            "http://dbpedia.org/resource/Lola_B12/60"
+        ],
+        [
+            "http://dbpedia.org/resource/Level_5_Motorsports",
+            "http://dbpedia.org/resource/HPD_ARX-03b"
+        ],
+        [
+            "http://dbpedia.org/resource/Level_5_Motorsports",
+            "http://dbpedia.org/resource/HPD_ARX-03b"
+        ],
+        [
+            "http://dbpedia.org/resource/Extreme_Speed_Motorsports",
+            "http://dbpedia.org/resource/HPD_ARX-03b"
+        ],
+        [
+            "http://dbpedia.org/resource/Corvette_Racing",
+            "http://dbpedia.org/resource/Chevrolet_Corvette_C6.R"
+        ],
+        [
+            "http://dbpedia.org/resource/Risi_Competizione",
+            "http://dbpedia.org/resource/Ferrari_458_Italia_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Martin_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_Vantage_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Job_Racing",
+            "http://dbpedia.org/resource/Porsche_911_GT3"
+        ],
+        [
+            "http://dbpedia.org/resource/Flying_Lizard_Motorsports",
+            "http://dbpedia.org/resource/Porsche_911_GT3"
+        ]
+    ]
+}

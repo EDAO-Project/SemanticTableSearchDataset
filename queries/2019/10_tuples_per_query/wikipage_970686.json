@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Mike_Cuffe",
+            "http://dbpedia.org/resource/Eureka,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Dee_L._Brown",
+            "http://dbpedia.org/resource/Hungry_Horse,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Keith_Regier",
+            "http://dbpedia.org/resource/Kalispell,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Blasdel",
+            "http://dbpedia.org/resource/Somers,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Bob_Keenan",
+            "http://dbpedia.org/resource/Kalispell,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_Olszewski",
+            "http://dbpedia.org/resource/Kalispell,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Jennifer_Fielder",
+            "http://dbpedia.org/resource/Thompson_Falls,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Fitzpatrick",
+            "http://dbpedia.org/resource/Great_Falls,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlie_Boland",
+            "http://dbpedia.org/resource/Great_Falls,_Montana"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Hoven",
+            "http://dbpedia.org/resource/Great_Falls,_Montana"
+        ]
+    ]
+}

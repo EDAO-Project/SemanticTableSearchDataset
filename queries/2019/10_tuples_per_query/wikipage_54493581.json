@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cameron_Crombie",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Muhammad_Ziyad_Zolkefli",
+            "http://dbpedia.org/resource/Malaysia"
+        ],
+        [
+            "http://dbpedia.org/resource/Youssef_Benibrahim",
+            "http://dbpedia.org/resource/Morocco"
+        ],
+        [
+            "http://dbpedia.org/resource/Dmytro_Prudnikov",
+            "http://dbpedia.org/resource/Ukraine"
+        ],
+        [
+            "http://dbpedia.org/resource/Isis_Holt",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Aleksandr_Svechnikov",
+            "http://dbpedia.org/resource/Uzbekistan"
+        ],
+        [
+            "http://dbpedia.org/resource/Ruzhdi_Ruzhdi",
+            "http://dbpedia.org/resource/Bulgaria"
+        ],
+        [
+            "http://dbpedia.org/resource/Niko_Kappel",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Shi_Yiting",
+            "http://dbpedia.org/resource/China"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Amguoun",
+            "http://dbpedia.org/resource/Morocco"
+        ]
+    ]
+}

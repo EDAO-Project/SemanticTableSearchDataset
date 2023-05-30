@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jean_Sibelius",
+            "http://dbpedia.org/resource/Finland"
+        ],
+        [
+            "http://dbpedia.org/resource/Dmitri_Shostakovich",
+            "http://dbpedia.org/resource/Soviet_Union"
+        ],
+        [
+            "http://dbpedia.org/resource/Igor_Stravinsky",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Benjamin_Britten",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Erik_Bergman",
+            "http://dbpedia.org/resource/Finland"
+        ],
+        [
+            "http://dbpedia.org/resource/Einojuhani_Rautavaara",
+            "http://dbpedia.org/resource/Finland"
+        ],
+        [
+            "http://dbpedia.org/resource/Olivier_Messiaen",
+            "http://dbpedia.org/resource/France"
+        ],
+        [
+            "http://dbpedia.org/resource/Joonas_Kokkonen",
+            "http://dbpedia.org/resource/Finland"
+        ],
+        [
+            "http://dbpedia.org/resource/Krzysztof_Penderecki",
+            "http://dbpedia.org/resource/Poland"
+        ],
+        [
+            "http://dbpedia.org/resource/Aulis_Sallinen",
+            "http://dbpedia.org/resource/Finland"
+        ]
+    ]
+}

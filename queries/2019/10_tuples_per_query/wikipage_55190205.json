@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ramy_Rabia",
+            "http://dbpedia.org/resource/Centre_back"
+        ],
+        [
+            "http://dbpedia.org/resource/Saad_Samir",
+            "http://dbpedia.org/resource/Centre_back"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Nagieb",
+            "http://dbpedia.org/resource/Centre_back"
+        ],
+        [
+            "http://dbpedia.org/resource/Hesham_Mohamed",
+            "http://dbpedia.org/resource/Defensive_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Amr_Al-Sulaya",
+            "http://dbpedia.org/resource/Defensive_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Akram_Tawfik",
+            "http://dbpedia.org/resource/Defensive_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Karim_Walid",
+            "http://dbpedia.org/resource/Attacking_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Moahmed_Fakhri",
+            "http://dbpedia.org/resource/Attacking_midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Ahmed_Hamoudi",
+            "http://dbpedia.org/resource/Right_winger"
+        ],
+        [
+            "http://dbpedia.org/resource/Islam_Mohareb",
+            "http://dbpedia.org/resource/Right_winger"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dewsbury_Rams",
+            "http://dbpedia.org/resource/Sheffield_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/Widnes_Vikings",
+            "http://dbpedia.org/resource/Wigan_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Swinton_Lions",
+            "http://dbpedia.org/resource/Barrow_Raiders"
+        ],
+        [
+            "http://dbpedia.org/resource/London_Skolars",
+            "http://dbpedia.org/resource/Wakefield_Trinity"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochdale_Hornets",
+            "http://dbpedia.org/resource/Crusaders_Rugby_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Huddersfield_Giants",
+            "http://dbpedia.org/resource/York_City_Knights"
+        ],
+        [
+            "http://dbpedia.org/resource/Pia_XIII",
+            "http://dbpedia.org/resource/London_Broncos"
+        ],
+        [
+            "http://dbpedia.org/resource/Catalans_Dragons",
+            "http://dbpedia.org/resource/Featherstone_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Warrington_Wolves",
+            "http://dbpedia.org/resource/Hull_Kingston_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Bradford_Bulls",
+            "http://dbpedia.org/resource/Castleford_Tigers"
+        ]
+    ]
+}

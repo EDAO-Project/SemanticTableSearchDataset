@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/PFC_Lokomotiv_Sofia",
+            "http://dbpedia.org/resource/FC_Spartak_Plovdiv"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Slavia_Sofia",
+            "http://dbpedia.org/resource/PFC_Litex_Lovech"
+        ],
+        [
+            "http://dbpedia.org/resource/OFC_Pirin_Blagoevgrad",
+            "http://dbpedia.org/resource/PFC_Lokomotiv_Plovdiv"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Dobrudzha_Dobrich",
+            "http://dbpedia.org/resource/PFC_Shumen_2010"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Minyor_Pernik",
+            "http://dbpedia.org/resource/FC_Dunav_Ruse"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Ludogorets_Razgrad",
+            "http://dbpedia.org/resource/PFC_Akademik_Svishtov"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Yantra",
+            "http://dbpedia.org/resource/PFC_Cherno_More_Varna"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Haskovo",
+            "http://dbpedia.org/resource/FC_Pavlikeni"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Belasitsa_Petrich",
+            "http://dbpedia.org/resource/FC_Arda"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Spartak_Pleven",
+            "http://dbpedia.org/resource/PFC_Svetkavitsa"
+        ]
+    ]
+}

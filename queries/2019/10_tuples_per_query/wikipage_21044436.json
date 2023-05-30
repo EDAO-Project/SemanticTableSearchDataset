@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buenos_Aires,_Argentina",
+            "http://dbpedia.org/resource/Universidad_de_Buenos_Aires"
+        ],
+        [
+            "http://dbpedia.org/resource/Mar_del_Plata,_Argentina",
+            "http://dbpedia.org/resource/Universidad_Nacional_de_Mar_del_Plata"
+        ],
+        [
+            "http://dbpedia.org/resource/Rio_de_Janeiro",
+            "http://dbpedia.org/resource/Universidade_Federal_do_Rio_de_Janeiro"
+        ],
+        [
+            "http://dbpedia.org/resource/Caracas,_Venezuela",
+            "http://dbpedia.org/resource/Universidad_Central_de_Venezuela"
+        ],
+        [
+            "http://dbpedia.org/resource/Rosario,_Argentina",
+            "http://dbpedia.org/resource/Universidad_Nacional_de_Rosario"
+        ],
+        [
+            "http://dbpedia.org/resource/Lima,_Peru",
+            "http://dbpedia.org/resource/Universidad_Peruana_de_Ciencias_Aplicadas"
+        ],
+        [
+            "http://dbpedia.org/resource/Santiago,_Chile",
+            "http://dbpedia.org/resource/Universidad_de_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/Santa_Fe,_Argentina",
+            "http://dbpedia.org/resource/Universidad_Nacional_del_Litoral"
+        ],
+        [
+            "http://dbpedia.org/resource/Santa_Catarina,_Brazil",
+            "http://dbpedia.org/resource/Universidade_Federal_de_Santa_Catarina"
+        ],
+        [
+            "http://dbpedia.org/resource/Buenos_Aires,_Argentina",
+            "http://dbpedia.org/resource/Universidad_de_Buenos_Aires"
+        ]
+    ]
+}

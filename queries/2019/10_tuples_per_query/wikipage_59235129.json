@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sandy_Township,_Clearfield_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Union_Township,_Clearfield_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandy_Township,_Clearfield_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Brady_Township,_Clearfield_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/DuBois,_Pennsylvania",
+            "http://dbpedia.org/resource/Brady_Township,_Clearfield_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/DuBois,_Pennsylvania",
+            "http://dbpedia.org/resource/Brady_Township,_Clearfield_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/DuBois,_Pennsylvania",
+            "http://dbpedia.org/resource/Sandy_Township,_Clearfield_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/DuBois,_Pennsylvania",
+            "http://dbpedia.org/resource/Sandy_Township,_Clearfield_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Winslow_Township,_Jefferson_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Washington_Township,_Jefferson_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Reynoldsville,_Pennsylvania",
+            "http://dbpedia.org/resource/Winslow_Township,_Jefferson_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Reynoldsville,_Pennsylvania",
+            "http://dbpedia.org/resource/Sandy_Township,_Clearfield_County,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Winslow_Township,_Jefferson_County,_Pennsylvania",
+            "http://dbpedia.org/resource/Washington_Township,_Jefferson_County,_Pennsylvania"
+        ]
+    ]
+}

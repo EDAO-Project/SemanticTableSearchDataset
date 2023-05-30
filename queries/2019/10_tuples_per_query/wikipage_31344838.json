@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Miami_University",
+            "http://dbpedia.org/resource/Oxford,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Yale_University",
+            "http://dbpedia.org/resource/New_Haven,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Michigan",
+            "http://dbpedia.org/resource/Ann_Arbor,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Rochester",
+            "http://dbpedia.org/resource/Rochester,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Alabama",
+            "http://dbpedia.org/resource/Tuscaloosa,_Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Virginia",
+            "http://dbpedia.org/resource/Charlottesville,_Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Kenyon_College",
+            "http://dbpedia.org/resource/Gambier,_Ohio"
+        ],
+        [
+            "http://dbpedia.org/resource/Union_College",
+            "http://dbpedia.org/resource/Schenectady,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Cornell_University",
+            "http://dbpedia.org/resource/Ithaca,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Johns_Hopkins_University",
+            "http://dbpedia.org/resource/Baltimore,_Maryland"
+        ]
+    ]
+}

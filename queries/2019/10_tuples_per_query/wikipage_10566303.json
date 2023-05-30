@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ronnie_Bremer",
+            "http://dbpedia.org/resource/Polestar_Racing_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/J.R._Hildebrand",
+            "http://dbpedia.org/resource/Newman_Wachs_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Giacomo_Ricci",
+            "http://dbpedia.org/resource/Conquest_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Sutherland",
+            "http://dbpedia.org/resource/Jensen_MotorSport"
+        ],
+        [
+            "http://dbpedia.org/resource/Dominick_Muermans",
+            "http://dbpedia.org/resource/Jensen_MotorSport"
+        ],
+        [
+            "http://dbpedia.org/resource/Simona_de_Silvestro",
+            "http://dbpedia.org/resource/Team_Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankie_Muniz",
+            "http://dbpedia.org/resource/Jensen_MotorSport"
+        ],
+        [
+            "http://dbpedia.org/resource/Jiang_Tengyi",
+            "http://dbpedia.org/resource/Brooks_Associates_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Garza",
+            "http://dbpedia.org/resource/US_RaceTronics"
+        ],
+        [
+            "http://dbpedia.org/resource/Carl_Skerlong",
+            "http://dbpedia.org/resource/US_RaceTronics"
+        ]
+    ]
+}

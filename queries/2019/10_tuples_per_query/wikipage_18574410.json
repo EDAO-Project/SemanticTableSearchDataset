@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edward_Dowden",
+            "http://dbpedia.org/resource/Hamlet"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Dowden",
+            "http://dbpedia.org/resource/Romeo_and_Juliet"
+        ],
+        [
+            "http://dbpedia.org/resource/W._J._Craig",
+            "http://dbpedia.org/resource/King_Lear"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Dowden",
+            "http://dbpedia.org/resource/Cymbeline"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Chichester_Hart",
+            "http://dbpedia.org/resource/Othello"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Chichester_Hart",
+            "http://dbpedia.org/resource/The_Merry_Wives_of_Windsor"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Chichester_Hart",
+            "http://dbpedia.org/resource/Measure_for_Measure"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Chichester_Hart",
+            "http://dbpedia.org/resource/1_Henry_VI"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Chichester_Hart",
+            "http://dbpedia.org/resource/2_Henry_VI"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Chichester_Hart",
+            "http://dbpedia.org/resource/3_Henry_VI"
+        ]
+    ]
+}

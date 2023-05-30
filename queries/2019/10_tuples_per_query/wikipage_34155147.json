@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nauti_FC",
+            "http://dbpedia.org/resource/FC_Manu_Laeva"
+        ],
+        [
+            "http://dbpedia.org/resource/Nauti_FC",
+            "http://dbpedia.org/resource/FC_Manu_Laeva"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Tofaga",
+            "http://dbpedia.org/resource/Nauti_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Nauti_FC",
+            "http://dbpedia.org/resource/FC_Niutao"
+        ],
+        [
+            "http://dbpedia.org/resource/Lakena_United",
+            "http://dbpedia.org/resource/FC_Niutao"
+        ],
+        [
+            "http://dbpedia.org/resource/Lakena_United",
+            "http://dbpedia.org/resource/FC_Nanumaga"
+        ],
+        [
+            "http://dbpedia.org/resource/Lakena_United",
+            "http://dbpedia.org/resource/FC_Nanumaga"
+        ],
+        [
+            "http://dbpedia.org/resource/Nauti_FC",
+            "http://dbpedia.org/resource/FC_Manu_Laeva"
+        ],
+        [
+            "http://dbpedia.org/resource/Lakena_United",
+            "http://dbpedia.org/resource/Nauti_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Tamanuku",
+            "http://dbpedia.org/resource/Lakena_United"
+        ]
+    ]
+}

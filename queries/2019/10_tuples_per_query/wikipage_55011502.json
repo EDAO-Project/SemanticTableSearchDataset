@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bygland",
+            "http://dbpedia.org/resource/Byglandsfjord_Station"
+        ],
+        [
+            "http://dbpedia.org/resource/Eidsvoll",
+            "http://dbpedia.org/resource/Eidsvollsbygningen"
+        ],
+        [
+            "http://dbpedia.org/resource/Enebakk",
+            "http://dbpedia.org/resource/Enebakk_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Etnedal",
+            "http://dbpedia.org/resource/Bruflat"
+        ],
+        [
+            "http://dbpedia.org/resource/Flakstad",
+            "http://dbpedia.org/resource/Flakstad_Church"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamar",
+            "http://dbpedia.org/resource/Cathedral_Ruins_in_Hamar"
+        ],
+        [
+            "http://dbpedia.org/resource/Haugesund",
+            "http://dbpedia.org/resource/Haraldshaugen"
+        ],
+        [
+            "http://dbpedia.org/resource/Hyllestad",
+            "http://dbpedia.org/resource/Hyllestad_quernstone_quarries"
+        ],
+        [
+            "http://dbpedia.org/resource/Jevnaker",
+            "http://dbpedia.org/resource/Hadeland_Glassverk"
+        ],
+        [
+            "http://dbpedia.org/resource/Kongsvinger",
+            "http://dbpedia.org/resource/Kongsvinger_Fortress"
+        ]
+    ]
+}

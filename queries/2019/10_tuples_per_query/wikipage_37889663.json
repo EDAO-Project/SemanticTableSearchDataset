@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/BAW",
+            "http://dbpedia.org/resource/Beijing_BJ212"
+        ],
+        [
+            "http://dbpedia.org/resource/Cadillac",
+            "http://dbpedia.org/resource/Cadillac_Escalade"
+        ],
+        [
+            "http://dbpedia.org/resource/Dacia",
+            "http://dbpedia.org/resource/Dacia_Pick-Up"
+        ],
+        [
+            "http://dbpedia.org/resource/Dacia",
+            "http://dbpedia.org/resource/Dacia_Logan"
+        ],
+        [
+            "http://dbpedia.org/resource/Datsun",
+            "http://dbpedia.org/resource/Datsun_Truck"
+        ],
+        [
+            "http://dbpedia.org/resource/Fiat_Automobiles",
+            "http://dbpedia.org/resource/Fiat_Fiorino"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford",
+            "http://dbpedia.org/resource/Ford_F-1000"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford",
+            "http://dbpedia.org/resource/Ford_Model_T"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford",
+            "http://dbpedia.org/resource/Ford_Pampa"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford",
+            "http://dbpedia.org/resource/Ford_P100"
+        ]
+    ]
+}

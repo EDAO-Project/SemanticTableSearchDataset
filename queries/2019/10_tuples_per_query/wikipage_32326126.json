@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rebellion_Racing",
+            "http://dbpedia.org/resource/Lola_B10/60"
+        ],
+        [
+            "http://dbpedia.org/resource/Rebellion_Racing",
+            "http://dbpedia.org/resource/Lola_B10/60"
+        ],
+        [
+            "http://dbpedia.org/resource/Level_5_Motorsports",
+            "http://dbpedia.org/resource/Lola_B11/40"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458_Italia_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/Strakka_Racing",
+            "http://dbpedia.org/resource/HPD_ARX-01d"
+        ],
+        [
+            "http://dbpedia.org/resource/AF_Corse",
+            "http://dbpedia.org/resource/Ferrari_458_Italia_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/BMW_Motorsport",
+            "http://dbpedia.org/resource/BMW_M3_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/JMB_Racing",
+            "http://dbpedia.org/resource/Oreca_FLM09"
+        ],
+        [
+            "http://dbpedia.org/resource/TDS_Racing",
+            "http://dbpedia.org/resource/Oreca_03"
+        ],
+        [
+            "http://dbpedia.org/resource/BMW_Motorsport",
+            "http://dbpedia.org/resource/BMW_M3_GT2"
+        ]
+    ]
+}

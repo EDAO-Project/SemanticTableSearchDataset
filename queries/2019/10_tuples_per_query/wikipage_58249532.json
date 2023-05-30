@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tyson_Farago",
+            "http://dbpedia.org/resource/WSA_Winnipeg"
+        ],
+        [
+            "http://dbpedia.org/resource/Skylar_Thomas",
+            "http://dbpedia.org/resource/Charleston_Battery"
+        ],
+        [
+            "http://dbpedia.org/resource/Jordan_Murrell",
+            "http://dbpedia.org/resource/Reno_1868"
+        ],
+        [
+            "http://dbpedia.org/resource/Yohan_Le_Bourhis",
+            "http://dbpedia.org/resource/A.S._Blainville"
+        ],
+        [
+            "http://dbpedia.org/resource/Dylan_Sacramento",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Petrasso",
+            "http://dbpedia.org/resource/Montreal_Impact"
+        ],
+        [
+            "http://dbpedia.org/resource/Dylan_Carreiro",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Glenn_Muenkat",
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern"
+        ],
+        [
+            "http://dbpedia.org/resource/Midfielder",
+            "http://dbpedia.org/resource/Deportivo_Pereira"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Bustos",
+            "http://dbpedia.org/resource/Oklahoma_City_Energy"
+        ]
+    ]
+}

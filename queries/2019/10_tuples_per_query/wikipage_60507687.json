@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2001",
+            "http://dbpedia.org/resource/Armenia,_Colombia"
+        ],
+        [
+            "http://dbpedia.org/resource/2004",
+            "http://dbpedia.org/resource/Arequipa"
+        ],
+        [
+            "http://dbpedia.org/resource/2004",
+            "http://dbpedia.org/resource/Arequipa"
+        ],
+        [
+            "http://dbpedia.org/resource/2004",
+            "http://dbpedia.org/resource/Tacna"
+        ],
+        [
+            "http://dbpedia.org/resource/2004",
+            "http://dbpedia.org/resource/Trujillo,_Peru"
+        ],
+        [
+            "http://dbpedia.org/resource/2011",
+            "http://dbpedia.org/resource/San_Salvador_de_Jujuy"
+        ],
+        [
+            "http://dbpedia.org/resource/2011",
+            "http://dbpedia.org/resource/San_Salvador_de_Jujuy"
+        ],
+        [
+            "http://dbpedia.org/resource/2016",
+            "http://dbpedia.org/resource/Orlando,_Florida"
+        ],
+        [
+            "http://dbpedia.org/resource/2016",
+            "http://dbpedia.org/resource/Chicago"
+        ],
+        [
+            "http://dbpedia.org/resource/2016",
+            "http://dbpedia.org/resource/Houston"
+        ]
+    ]
+}

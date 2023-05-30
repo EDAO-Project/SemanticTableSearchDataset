@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gauthier_Mahoto",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Patrice_Marquet",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Alain_Masudi",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Franck_Matingou",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Mazzoncini",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Rachid_Mekhloufi",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Nassim_Mendil",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Alain_Moizan",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Salim_Moizini",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Sony_Mustivar",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

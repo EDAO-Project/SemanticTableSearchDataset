@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Hartford_Whalers",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Minnesota_North_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Minnesota_North_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Oilers",
+            "http://dbpedia.org/resource/Minnesota_North_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Quebec_Nordiques",
+            "http://dbpedia.org/resource/Minnesota_North_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Quebec_Nordiques",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/Quebec_Nordiques",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/Hartford_Whalers",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ]
+    ]
+}

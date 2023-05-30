@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/PFC_Cherno_More_Varna",
+            "http://dbpedia.org/resource/PFC_Rodopa_Smolyan"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Minyor_Radnevo",
+            "http://dbpedia.org/resource/PFC_Lokomotiv_Plovdiv"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Chavdar_Byala_Slatina",
+            "http://dbpedia.org/resource/PFC_CSKA_Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Kaliakra_Kavarna",
+            "http://dbpedia.org/resource/PFC_Lokomotiv_Sofia"
+        ],
+        [
+            "http://dbpedia.org/resource/PSFC_Chernomorets_Burgas",
+            "http://dbpedia.org/resource/PFC_Dobrudzha_Dobrich"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Maritsa_Plovdiv",
+            "http://dbpedia.org/resource/PFC_Botev_Plovdiv"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Spartak_Plovdiv",
+            "http://dbpedia.org/resource/FC_Vihren_Sandanski"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Shumen_2010",
+            "http://dbpedia.org/resource/PFC_Litex_Lovech"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Montana",
+            "http://dbpedia.org/resource/PFC_Spartak_1918"
+        ],
+        [
+            "http://dbpedia.org/resource/PFC_Rilski_Sportist_Samokov",
+            "http://dbpedia.org/resource/FC_Conegliano_German"
+        ]
+    ]
+}

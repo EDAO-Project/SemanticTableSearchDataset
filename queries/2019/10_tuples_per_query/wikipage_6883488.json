@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pieter_Bruegel_the_Elder",
+            "http://dbpedia.org/resource/The_Blind_Leading_the_Blind"
+        ],
+        [
+            "http://dbpedia.org/resource/Polidoro_da_Caravaggio",
+            "http://dbpedia.org/resource/Christ_Going_to_Calvary"
+        ],
+        [
+            "http://dbpedia.org/resource/Annibale_Carracci",
+            "http://dbpedia.org/resource/The_Choice_of_Hercules"
+        ],
+        [
+            "http://dbpedia.org/resource/Ludovico_Carracci",
+            "http://dbpedia.org/resource/Rinaldo_and_Armida"
+        ],
+        [
+            "http://dbpedia.org/resource/Annibale_Carracci",
+            "http://dbpedia.org/resource/Rinaldo_and_Armida"
+        ],
+        [
+            "http://dbpedia.org/resource/Agostino_Carracci",
+            "http://dbpedia.org/resource/Triple_Portrait_of_Arrigo,_Pietro_and_Amon"
+        ],
+        [
+            "http://dbpedia.org/resource/Colantonio",
+            "http://dbpedia.org/resource/Delivery_of_the_Franciscan_Rule"
+        ],
+        [
+            "http://dbpedia.org/resource/Luca_Giordano",
+            "http://dbpedia.org/resource/Mars_and_Venus_with_Cupid"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacob_Philipp_Hackert",
+            "http://dbpedia.org/resource/Harvest_Time_at_Carditello"
+        ],
+        [
+            "http://dbpedia.org/resource/Angelica_Kauffman",
+            "http://dbpedia.org/resource/Ferdinand_I_and_His_Family"
+        ]
+    ]
+}

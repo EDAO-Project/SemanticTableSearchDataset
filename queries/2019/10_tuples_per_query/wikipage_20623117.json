@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stockton_University",
+            "http://dbpedia.org/resource/Union_Township,_Union_County,_New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Kean_University",
+            "http://dbpedia.org/resource/Union_Township,_Union_County,_New_Jersey"
+        ],
+        [
+            "http://dbpedia.org/resource/Rochester_Institute_of_Technology",
+            "http://dbpedia.org/resource/Oneonta,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Carroll_University",
+            "http://dbpedia.org/resource/Oneonta,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Skidmore_College",
+            "http://dbpedia.org/resource/Saratoga_Springs,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Williams_College",
+            "http://dbpedia.org/resource/Williamstown,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/SUNY_Cortland",
+            "http://dbpedia.org/resource/Oneonta,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/SUNY_Oswego",
+            "http://dbpedia.org/resource/Oneonta,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/SUNY_Geneseo",
+            "http://dbpedia.org/resource/Geneseo,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/SUNY_Brockport",
+            "http://dbpedia.org/resource/Brockport,_New_York"
+        ]
+    ]
+}

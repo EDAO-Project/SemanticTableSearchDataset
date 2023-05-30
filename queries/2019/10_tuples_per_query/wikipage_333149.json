@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adam_Hamilton",
+            "http://dbpedia.org/resource/Michael_Joseph_Savage"
+        ],
+        [
+            "http://dbpedia.org/resource/Sidney_Holland",
+            "http://dbpedia.org/resource/Peter_Fraser"
+        ],
+        [
+            "http://dbpedia.org/resource/Keith_Holyoake",
+            "http://dbpedia.org/resource/Walter_Nash"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Marshall",
+            "http://dbpedia.org/resource/Norman_Kirk"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Muldoon",
+            "http://dbpedia.org/resource/Bill_Rowling"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Muldoon",
+            "http://dbpedia.org/resource/David_Lange"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_McLay",
+            "http://dbpedia.org/resource/David_Lange"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Bolger",
+            "http://dbpedia.org/resource/David_Lange"
+        ],
+        [
+            "http://dbpedia.org/resource/Jenny_Shipley",
+            "http://dbpedia.org/resource/Helen_Clark"
+        ],
+        [
+            "http://dbpedia.org/resource/Bill_English",
+            "http://dbpedia.org/resource/Helen_Clark"
+        ]
+    ]
+}

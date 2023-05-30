@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Medicine_Hat_Tigers",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Medicine_Hat_Tigers",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Spokane_Chiefs",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Spokane_Chiefs",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Spokane_Chiefs",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Brandon_Wheat_Kings",
+            "http://dbpedia.org/resource/Western_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Islanders",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Islanders",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Islanders",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Vancouver_Canucks",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

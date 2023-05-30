@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Anna_and_Elizabeth",
+            "http://dbpedia.org/resource/Frank_Wisbar"
+        ],
+        [
+            "http://dbpedia.org/resource/Confessions_of_a_Nazi_Spy",
+            "http://dbpedia.org/resource/Anatole_Litvak"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Boat_Is_Full",
+            "http://dbpedia.org/resource/Markus_Imhoof"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Prince_of_Pappenheim",
+            "http://dbpedia.org/resource/Richard_Eichberg"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Incorrigible_Barbara",
+            "http://dbpedia.org/resource/Lothar_Warneke"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Wonderful_Lies_of_Nina_Petrovna",
+            "http://dbpedia.org/resource/Hanns_Schwarz"
+        ],
+        [
+            "http://dbpedia.org/resource/Ein_Polterabend",
+            "http://dbpedia.org/resource/Curt_Bois"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Tremendously_Rich_Man",
+            "http://dbpedia.org/resource/Steve_Sekely"
+        ],
+        [
+            "http://dbpedia.org/resource/Enemy_of_Women",
+            "http://dbpedia.org/resource/Alfred_Zeisler"
+        ],
+        [
+            "http://dbpedia.org/resource/Kuhle_Wampe",
+            "http://dbpedia.org/resource/Slatan_Dudow"
+        ]
+    ]
+}

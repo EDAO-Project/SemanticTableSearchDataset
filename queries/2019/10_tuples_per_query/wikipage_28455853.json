@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Osaka"
+        ],
+        [
+            "http://dbpedia.org/resource/Funabashi",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Amagasaki",
+            "http://dbpedia.org/resource/Tokyo"
+        ],
+        [
+            "http://dbpedia.org/resource/Osaka",
+            "http://dbpedia.org/resource/Hamamatsu"
+        ],
+        [
+            "http://dbpedia.org/resource/Osaka",
+            "http://dbpedia.org/resource/Nagoya"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Yokohama"
+        ],
+        [
+            "http://dbpedia.org/resource/Matsusaka",
+            "http://dbpedia.org/resource/Hiratsuka"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Kodaira"
+        ],
+        [
+            "http://dbpedia.org/resource/Tokyo",
+            "http://dbpedia.org/resource/Nagoya"
+        ],
+        [
+            "http://dbpedia.org/resource/Sendai",
+            "http://dbpedia.org/resource/Tokyo"
+        ]
+    ]
+}

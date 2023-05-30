@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Simon_Guggenheim",
+            "http://dbpedia.org/resource/1907_United_States_Senate_election_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_A._Richardson",
+            "http://dbpedia.org/resource/1907_United_States_Senate_election_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Borah",
+            "http://dbpedia.org/resource/1907_United_States_Senate_election_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_H._Paynter",
+            "http://dbpedia.org/resource/1906_United_States_Senate_election_in_Kentucky"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Alden_Smith",
+            "http://dbpedia.org/resource/1911_United_States_Senate_election_in_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/LeRoy_Percy",
+            "http://dbpedia.org/resource/1910_United_States_Senate_special_election_in_Mississippi"
+        ],
+        [
+            "http://dbpedia.org/resource/Joseph_M._Dixon",
+            "http://dbpedia.org/resource/1907_United_States_Senate_election_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Norris_Brown",
+            "http://dbpedia.org/resource/1907_United_States_Senate_election_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_O._Briggs",
+            "http://dbpedia.org/resource/1907_United_States_Senate_election_in_Oregon"
+        ],
+        [
+            "http://dbpedia.org/resource/Albert_B._Fall",
+            "http://dbpedia.org/resource/1912_United_States_Senate_elections_in_New_Mexico"
+        ]
+    ]
+}

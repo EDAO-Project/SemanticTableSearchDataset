@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Macclesfield_Town",
+            "http://dbpedia.org/resource/Hartlepool_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Swindon_Town",
+            "http://dbpedia.org/resource/Bristol_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol_City",
+            "http://dbpedia.org/resource/Swindon_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Wycombe_Wanderers",
+            "http://dbpedia.org/resource/Colchester_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Exeter_City",
+            "http://dbpedia.org/resource/Cardiff_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Halifax_Town",
+            "http://dbpedia.org/resource/Scunthorpe_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Rotherham_United",
+            "http://dbpedia.org/resource/Wolverhampton_Wanderers"
+        ],
+        [
+            "http://dbpedia.org/resource/Wigan_Athletic",
+            "http://dbpedia.org/resource/Doncaster_Rovers"
+        ],
+        [
+            "http://dbpedia.org/resource/Slough_Town",
+            "http://dbpedia.org/resource/Aylesbury_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Aylesbury_United",
+            "http://dbpedia.org/resource/Slough_Town"
+        ]
+    ]
+}

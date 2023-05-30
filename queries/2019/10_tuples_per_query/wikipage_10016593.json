@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Atlanta_Motor_Speedway",
+            "http://dbpedia.org/resource/Atlanta_500_Classic"
+        ],
+        [
+            "http://dbpedia.org/resource/Brands_Hatch",
+            "http://dbpedia.org/resource/Firestone_Grand_Prix_of_St._Petersburg",
+            "http://dbpedia.org/resource/Brands_Hatch"
+        ],
+        [
+            "http://dbpedia.org/resource/Auto_Club_Speedway",
+            "http://dbpedia.org/resource/Tecate/Telmex_Grand_Prix_of_Monterrey"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Motor_Speedway",
+            "http://dbpedia.org/resource/New_Hampshire_Indy_225"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Prix_of_Denver",
+            "http://dbpedia.org/resource/Rockingham_500"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Prix_of_Denver",
+            "http://dbpedia.org/resource/Indy_Japan_300"
+        ],
+        [
+            "http://dbpedia.org/resource/Detroit_street_circuit",
+            "http://dbpedia.org/resource/Grand_Prix_at_The_Glen"
+        ],
+        [
+            "http://dbpedia.org/resource/EuroSpeedway_Lausitz",
+            "http://dbpedia.org/resource/Rockingham_500"
+        ],
+        [
+            "http://dbpedia.org/resource/Gateway_Motorsports_Park",
+            "http://dbpedia.org/resource/New_Hampshire_Indy_225"
+        ],
+        [
+            "http://dbpedia.org/resource/Grand_Prix_of_Houston",
+            "http://dbpedia.org/resource/New_Hampshire_Indy_225"
+        ]
+    ]
+}

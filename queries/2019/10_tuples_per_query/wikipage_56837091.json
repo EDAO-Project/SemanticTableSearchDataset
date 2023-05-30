@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sami_Whitcomb",
+            "http://dbpedia.org/resource/Willetton_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/Sami_Whitcomb",
+            "http://dbpedia.org/resource/Willetton_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/Sami_Whitcomb",
+            "http://dbpedia.org/resource/Willetton_Tigers"
+        ],
+        [
+            "http://dbpedia.org/resource/Alison_Schwagmeyer",
+            "http://dbpedia.org/resource/Lakeside_Lightning"
+        ],
+        [
+            "http://dbpedia.org/resource/Darcee_Garbin",
+            "http://dbpedia.org/resource/Rockingham_Flames"
+        ],
+        [
+            "http://dbpedia.org/resource/Maddison_Allen",
+            "http://dbpedia.org/resource/Rockingham_Flames"
+        ],
+        [
+            "http://dbpedia.org/resource/Kayla_Steindl",
+            "http://dbpedia.org/resource/Perth_Redbacks"
+        ],
+        [
+            "http://dbpedia.org/resource/Alison_Schwagmeyer",
+            "http://dbpedia.org/resource/Lakeside_Lightning"
+        ],
+        [
+            "http://dbpedia.org/resource/Natalie_Burton",
+            "http://dbpedia.org/resource/Perry_Lakes_Hawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Kayla_Steindl",
+            "http://dbpedia.org/resource/Perth_Redbacks"
+        ]
+    ]
+}

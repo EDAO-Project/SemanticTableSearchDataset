@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marc_Alexander",
+            "http://dbpedia.org/resource/United_Future_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Anderton",
+            "http://dbpedia.org/resource/New_Zealand_Progressive_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Shane_Ardern",
+            "http://dbpedia.org/resource/New_Zealand_National_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Donna_Awatere_Huata",
+            "http://dbpedia.org/resource/ACT_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Larry_Baldock",
+            "http://dbpedia.org/resource/United_Future_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Barker",
+            "http://dbpedia.org/resource/New_Zealand_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Benson-Pope",
+            "http://dbpedia.org/resource/New_Zealand_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Georgina_Beyer",
+            "http://dbpedia.org/resource/New_Zealand_Labour_Party"
+        ],
+        [
+            "http://dbpedia.org/resource/Sue_Bradford",
+            "http://dbpedia.org/resource/Green_Party_of_Aotearoa_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Don_Brash",
+            "http://dbpedia.org/resource/New_Zealand_National_Party"
+        ]
+    ]
+}

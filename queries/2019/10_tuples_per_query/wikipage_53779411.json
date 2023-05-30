@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/At_bat",
+            "http://dbpedia.org/resource/Tacoma_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/Total_bases",
+            "http://dbpedia.org/resource/Sacramento_Solons"
+        ],
+        [
+            "http://dbpedia.org/resource/Home_run",
+            "http://dbpedia.org/resource/Sacramento_Solons"
+        ],
+        [
+            "http://dbpedia.org/resource/Home_run",
+            "http://dbpedia.org/resource/Edmonton_Trappers"
+        ],
+        [
+            "http://dbpedia.org/resource/Run_batted_in",
+            "http://dbpedia.org/resource/Edmonton_Trappers"
+        ],
+        [
+            "http://dbpedia.org/resource/Stolen_base",
+            "http://dbpedia.org/resource/Spokane_Indians"
+        ],
+        [
+            "http://dbpedia.org/resource/Sacrifice_fly",
+            "http://dbpedia.org/resource/Albuquerque_Dukes"
+        ],
+        [
+            "http://dbpedia.org/resource/Hit_by_pitch",
+            "http://dbpedia.org/resource/Tucson_Sidewinders"
+        ],
+        [
+            "http://dbpedia.org/resource/Strikeout",
+            "http://dbpedia.org/resource/Tacoma_Rainiers"
+        ],
+        [
+            "http://dbpedia.org/resource/Double_play",
+            "http://dbpedia.org/resource/Round_Rock_Express"
+        ]
+    ]
+}

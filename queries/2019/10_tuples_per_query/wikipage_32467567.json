@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Darrell_Waltrip",
+            "http://dbpedia.org/resource/Junior_Johnson_&_Associates"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Labonte",
+            "http://dbpedia.org/resource/Hagan_Enterprises"
+        ],
+        [
+            "http://dbpedia.org/resource/Benny_Parsons",
+            "http://dbpedia.org/resource/Ranier_Racing_with_MDM"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyle_Petty",
+            "http://dbpedia.org/resource/Petty_Enterprises"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Richmond",
+            "http://dbpedia.org/resource/Jim_Stacy"
+        ],
+        [
+            "http://dbpedia.org/resource/Dale_Earnhardt",
+            "http://dbpedia.org/resource/Bud_Moore_Engineering"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Means",
+            "http://dbpedia.org/resource/Means_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Slick_Johnson",
+            "http://dbpedia.org/resource/James_Hylton_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobby_Allison",
+            "http://dbpedia.org/resource/DiGard_Motorsports"
+        ],
+        [
+            "http://dbpedia.org/resource/Harry_Gant",
+            "http://dbpedia.org/resource/Mach_1_Racing"
+        ]
+    ]
+}

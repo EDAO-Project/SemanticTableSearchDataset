@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/British_Army",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Imperial_Japanese_Army",
+            "http://dbpedia.org/resource/Japanese_Empire"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Michigan",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Yale_University",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Adelaide",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Groningen",
+            "http://dbpedia.org/resource/Netherlands"
+        ],
+        [
+            "http://dbpedia.org/resource/Harvard_University",
+            "http://dbpedia.org/resource/United_States"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Navy",
+            "http://dbpedia.org/resource/United_Kingdom"
+        ],
+        [
+            "http://dbpedia.org/resource/Army_Staff_College",
+            "http://dbpedia.org/resource/Japanese_Empire"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Tasmania",
+            "http://dbpedia.org/resource/Australia"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2013_Brisbane_International",
+            "http://dbpedia.org/resource/ATP_World_Tour_250_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_BNP_Paribas_Open",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Sony_Open",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Monte-Carlo_Rolex_Masters",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Mutua_Madrid_Open",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Aegon_Championships",
+            "http://dbpedia.org/resource/ATP_World_Tour_250_series"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_&_Southern_Open",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000_series"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Davis_Cup_World_Group_Play-offs",
+            "http://dbpedia.org/resource/Davis_Cup"
+        ],
+        [
+            "http://dbpedia.org/resource/Rakuten_Japan_Open_Tennis_Championships",
+            "http://dbpedia.org/resource/ATP_World_Tour_500_series"
+        ],
+        [
+            "http://dbpedia.org/resource/Shanghai_Rolex_Masters",
+            "http://dbpedia.org/resource/ATP_World_Tour_Masters_1000_series"
+        ]
+    ]
+}

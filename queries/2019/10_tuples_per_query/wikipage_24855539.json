@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Dy_Saveth",
+            "http://dbpedia.org/resource/Action_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Vichara_Dany",
+            "http://dbpedia.org/resource/Drama"
+        ],
+        [
+            "http://dbpedia.org/resource/Chek_Deth",
+            "http://dbpedia.org/resource/Legend"
+        ],
+        [
+            "http://dbpedia.org/resource/Dav_Bakdong_Meas",
+            "http://dbpedia.org/resource/Legend"
+        ],
+        [
+            "http://dbpedia.org/resource/Kompull_Boros_Mok_2",
+            "http://dbpedia.org/resource/Legend"
+        ],
+        [
+            "http://dbpedia.org/resource/Vann_Vannak",
+            "http://dbpedia.org/resource/Comedy"
+        ],
+        [
+            "http://dbpedia.org/resource/Orn_Euy_Srey_Orn",
+            "http://dbpedia.org/resource/Legend"
+        ],
+        [
+            "http://dbpedia.org/resource/Panhjapor_Tevi",
+            "http://dbpedia.org/resource/Legend"
+        ],
+        [
+            "http://dbpedia.org/resource/Peil_Dael_Truv_Yum",
+            "http://dbpedia.org/resource/Drama"
+        ],
+        [
+            "http://dbpedia.org/resource/Ream_Chbong_Yeung",
+            "http://dbpedia.org/resource/Drama"
+        ]
+    ]
+}

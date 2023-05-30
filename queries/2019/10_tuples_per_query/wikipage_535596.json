@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arcade,_New_York",
+            "http://dbpedia.org/resource/Wyoming,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Argyle,_New_York",
+            "http://dbpedia.org/resource/Washington,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Athens,_New_York",
+            "http://dbpedia.org/resource/Greene,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Aurora,_Erie_County,_New_York",
+            "http://dbpedia.org/resource/Cayuga,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballston_Spa,_New_York",
+            "http://dbpedia.org/resource/Saratoga,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Bemus_Point,_New_York",
+            "http://dbpedia.org/resource/Chautauqua,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Bloomingburg,_New_York",
+            "http://dbpedia.org/resource/Sullivan,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Brockport,_New_York",
+            "http://dbpedia.org/resource/Monroe,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Brocton,_New_York",
+            "http://dbpedia.org/resource/Chautauqua,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Cambridge,_New_York",
+            "http://dbpedia.org/resource/Washington,_New_York"
+        ]
+    ]
+}

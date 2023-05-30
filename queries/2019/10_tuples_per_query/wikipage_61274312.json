@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Stefano_Denswil",
+            "http://dbpedia.org/resource/Club_Brugge"
+        ],
+        [
+            "http://dbpedia.org/resource/Takehiro_Tomiyasu",
+            "http://dbpedia.org/resource/Sint-Truiden"
+        ],
+        [
+            "http://dbpedia.org/resource/Ibrahima_Mbaye",
+            "http://dbpedia.org/resource/Internazionale"
+        ],
+        [
+            "http://dbpedia.org/resource/Danilo_Larangeira",
+            "http://dbpedia.org/resource/Udinese"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Poli",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Roberto_Soriano",
+            "http://dbpedia.org/resource/Villarreal"
+        ],
+        [
+            "http://dbpedia.org/resource/Lorenzo_Crisetig",
+            "http://dbpedia.org/resource/Internazionale"
+        ],
+        [
+            "http://dbpedia.org/resource/Riccardo_Orsolini",
+            "http://dbpedia.org/resource/Juventus"
+        ],
+        [
+            "http://dbpedia.org/resource/Federico_Santander",
+            "http://dbpedia.org/resource/Copenhagen"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicola_Sansone",
+            "http://dbpedia.org/resource/Villarreal"
+        ]
+    ]
+}

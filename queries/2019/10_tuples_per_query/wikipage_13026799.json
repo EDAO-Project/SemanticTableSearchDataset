@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Portland_Open_Invitational",
+            "http://dbpedia.org/resource/George_Bayer"
+        ],
+        [
+            "http://dbpedia.org/resource/Palm_Springs_Golf_Classic",
+            "http://dbpedia.org/resource/Gary_Player"
+        ],
+        [
+            "http://dbpedia.org/resource/Masters_Tournament",
+            "http://dbpedia.org/resource/Tony_Lema"
+        ],
+        [
+            "http://dbpedia.org/resource/PGA_Championship",
+            "http://dbpedia.org/resource/Dave_Ragan"
+        ],
+        [
+            "http://dbpedia.org/resource/Whitemarsh_Open_Invitational",
+            "http://dbpedia.org/resource/Gary_Player"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Open_Invitational",
+            "http://dbpedia.org/resource/Ken_Venturi"
+        ],
+        [
+            "http://dbpedia.org/resource/Memphis_Open_Invitational",
+            "http://dbpedia.org/resource/Johnny_Pott"
+        ],
+        [
+            "http://dbpedia.org/resource/Thunderbird_Classic",
+            "http://dbpedia.org/resource/Gary_Player"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland_Open_Invitational",
+            "http://dbpedia.org/resource/Dave_Marr"
+        ],
+        [
+            "http://dbpedia.org/resource/Bing_Crosby_National_Pro-Am",
+            "http://dbpedia.org/resource/Billy_Casper"
+        ]
+    ]
+}

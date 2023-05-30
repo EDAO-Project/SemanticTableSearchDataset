@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Hartley",
+            "http://dbpedia.org/resource/Joe_Scalzi"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Stuart",
+            "http://dbpedia.org/resource/Graham_Gunn"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Light",
+            "http://dbpedia.org/resource/Malcolm_Buckby"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Kavel",
+            "http://dbpedia.org/resource/Mark_Goldsworthy"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Mawson",
+            "http://dbpedia.org/resource/Robert_Brokenshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Heysen",
+            "http://dbpedia.org/resource/Isobel_Redmond"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Morialta",
+            "http://dbpedia.org/resource/Joan_Hall"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bright",
+            "http://dbpedia.org/resource/Wayne_Matthew"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Newland",
+            "http://dbpedia.org/resource/Dorothy_Kotz"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Unley",
+            "http://dbpedia.org/resource/Mark_Brindal"
+        ]
+    ]
+}

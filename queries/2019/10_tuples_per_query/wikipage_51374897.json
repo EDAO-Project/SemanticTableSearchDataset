@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Browning_Hi-Power",
+            "http://dbpedia.org/resource/Semi-automatic_pistol"
+        ],
+        [
+            "http://dbpedia.org/resource/FMK-3_submachine_gun",
+            "http://dbpedia.org/resource/Machine_pistol"
+        ],
+        [
+            "http://dbpedia.org/resource/Heckler_&_Koch_MP5",
+            "http://dbpedia.org/resource/Submachine_gun"
+        ],
+        [
+            "http://dbpedia.org/resource/FN_FAL",
+            "http://dbpedia.org/resource/Battle_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Heckler_&_Koch_HK33",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Heckler_&_Koch_G41",
+            "http://dbpedia.org/resource/Assault_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/M24_SWS",
+            "http://dbpedia.org/resource/Sniper_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Heckler_&_Koch_PSG1",
+            "http://dbpedia.org/resource/Sniper_rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/FN_MAG",
+            "http://dbpedia.org/resource/Medium_machine_gun"
+        ],
+        [
+            "http://dbpedia.org/resource/M2_Browning",
+            "http://dbpedia.org/resource/Heavy_machine_gun"
+        ]
+    ]
+}

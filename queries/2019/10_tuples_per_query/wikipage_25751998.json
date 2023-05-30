@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1984_K_League",
+            "http://dbpedia.org/resource/Cho_Young-Jeung"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_K_League",
+            "http://dbpedia.org/resource/Cho_Young-Jeung"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_K_League",
+            "http://dbpedia.org/resource/Choi_Jin-Han"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_K_League",
+            "http://dbpedia.org/resource/Kim_Pan-Keun"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_K_League",
+            "http://dbpedia.org/resource/Choi_Yong-Soo"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_K_League",
+            "http://dbpedia.org/resource/Lee_Young-Pyo"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_K_League",
+            "http://dbpedia.org/resource/Kim_Dong-Jin"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_K_League",
+            "http://dbpedia.org/resource/Park_Chu-Young"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_K_League",
+            "http://dbpedia.org/resource/Kim_Byung-Ji"
+        ],
+        [
+            "http://dbpedia.org/resource/2009_K_League",
+            "http://dbpedia.org/resource/Ki_Sung-Yueng"
+        ]
+    ]
+}

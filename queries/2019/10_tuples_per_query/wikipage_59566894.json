@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2005",
+            "http://dbpedia.org/resource/The_Squid_and_the_Whale"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2005",
+            "http://dbpedia.org/resource/Brokeback_Mountain"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2005",
+            "http://dbpedia.org/resource/Good_Night,_and_Good_Luck"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2006",
+            "http://dbpedia.org/resource/Little_Miss_Sunshine"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2006",
+            "http://dbpedia.org/resource/Shortbus"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2007",
+            "http://dbpedia.org/resource/Margot_at_the_Wedding"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2008",
+            "http://dbpedia.org/resource/Synecdoche,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2008",
+            "http://dbpedia.org/resource/Vicky_Cristina_Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2008",
+            "http://dbpedia.org/resource/Rachel_Getting_Married"
+        ],
+        [
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Awards_2009",
+            "http://dbpedia.org/resource/The_Hurt_Locker"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Nicolas_Prost",
+            "http://dbpedia.org/resource/DAMS"
+        ],
+        [
+            "http://dbpedia.org/resource/Lucas_di_Grassi",
+            "http://dbpedia.org/resource/Audi_Sport_ABT_Formula_E_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_Abt",
+            "http://dbpedia.org/resource/Audi_Sport_ABT_Formula_E_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Karun_Chandhok",
+            "http://dbpedia.org/resource/Mahindra_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Franck_Montagny",
+            "http://dbpedia.org/resource/Andretti_Formula_E_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Nick_Heidfeld",
+            "http://dbpedia.org/resource/Venturi_Grand_Prix"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Pic",
+            "http://dbpedia.org/resource/Andretti_Formula_E_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Oriol_Servia",
+            "http://dbpedia.org/resource/Dragon_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Takuma_Sato",
+            "http://dbpedia.org/resource/Amlin_Aguri"
+        ],
+        [
+            "http://dbpedia.org/resource/Ho-Pin_Tung",
+            "http://dbpedia.org/resource/China_Racing"
+        ]
+    ]
+}

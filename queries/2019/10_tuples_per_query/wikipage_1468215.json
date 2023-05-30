@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aarhus_Gymnastikforening",
+            "http://dbpedia.org/resource/Danish_Superliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Aarhus_Gymnastikforening",
+            "http://dbpedia.org/resource/Danish_Superliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Aarhus_Gymnastikforening",
+            "http://dbpedia.org/resource/Danish_Superliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Aarhus_Gymnastikforening",
+            "http://dbpedia.org/resource/Danish_Superliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Udinese_Calcio",
+            "http://dbpedia.org/resource/Serie_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Udinese_Calcio",
+            "http://dbpedia.org/resource/Serie_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Udinese_Calcio",
+            "http://dbpedia.org/resource/Serie_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Udinese_Calcio",
+            "http://dbpedia.org/resource/Serie_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Udinese_Calcio",
+            "http://dbpedia.org/resource/Serie_A"
+        ],
+        [
+            "http://dbpedia.org/resource/Udinese_Calcio",
+            "http://dbpedia.org/resource/Serie_A"
+        ]
+    ]
+}

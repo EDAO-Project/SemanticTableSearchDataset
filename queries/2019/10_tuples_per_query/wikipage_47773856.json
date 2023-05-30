@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Santo_Domingo_Open",
+            "http://dbpedia.org/resource/Rosario_Maddaloni"
+        ],
+        [
+            "http://dbpedia.org/resource/Santo_Domingo_Open",
+            "http://dbpedia.org/resource/Luis_Ramon_Garrido"
+        ],
+        [
+            "http://dbpedia.org/resource/Giraldilla_International",
+            "http://dbpedia.org/resource/Rosario_Maddaloni"
+        ],
+        [
+            "http://dbpedia.org/resource/Giraldilla_International",
+            "http://dbpedia.org/resource/Luka_Wraber"
+        ],
+        [
+            "http://dbpedia.org/resource/Suriname_International",
+            "http://dbpedia.org/resource/Howard_Shu"
+        ],
+        [
+            "http://dbpedia.org/resource/Giraldilla_International",
+            "http://dbpedia.org/resource/Howard_Shu"
+        ],
+        [
+            "http://dbpedia.org/resource/Santo_Domingo_Open",
+            "http://dbpedia.org/resource/David_Obernosterer"
+        ],
+        [
+            "http://dbpedia.org/resource/Brazil_International",
+            "http://dbpedia.org/resource/Henri_Hurskainen"
+        ],
+        [
+            "http://dbpedia.org/resource/Venezuela_International",
+            "http://dbpedia.org/resource/Daniel_Paiola"
+        ],
+        [
+            "http://dbpedia.org/resource/Internacional_Mexicano",
+            "http://dbpedia.org/resource/Daniel_Paiola"
+        ]
+    ]
+}

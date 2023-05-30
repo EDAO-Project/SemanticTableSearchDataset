@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FK_Partizan",
+            "http://dbpedia.org/resource/Serbian_SuperLiga"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Partizan",
+            "http://dbpedia.org/resource/Serbian_SuperLiga"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Partizan",
+            "http://dbpedia.org/resource/Serbian_SuperLiga"
+        ],
+        [
+            "http://dbpedia.org/resource/RCD_Espanyol",
+            "http://dbpedia.org/resource/La_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/RCD_Espanyol",
+            "http://dbpedia.org/resource/La_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/RCD_Espanyol",
+            "http://dbpedia.org/resource/La_Liga"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Partizan",
+            "http://dbpedia.org/resource/Serbian_SuperLiga"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Partizan",
+            "http://dbpedia.org/resource/Serbian_SuperLiga"
+        ],
+        [
+            "http://dbpedia.org/resource/FK_Partizan",
+            "http://dbpedia.org/resource/Serbian_SuperLiga"
+        ],
+        [
+            "http://dbpedia.org/resource/Perth_Glory_FC",
+            "http://dbpedia.org/resource/A-League"
+        ]
+    ]
+}

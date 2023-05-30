@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lee_Stecklein",
+            "http://dbpedia.org/resource/Minnesota_Whitecaps"
+        ],
+        [
+            "http://dbpedia.org/resource/Emily_Pfalzer",
+            "http://dbpedia.org/resource/Buffalo_Beauts"
+        ],
+        [
+            "http://dbpedia.org/resource/Megan_Bozek",
+            "http://dbpedia.org/resource/Markham_Thunder"
+        ],
+        [
+            "http://dbpedia.org/resource/Brianna_Decker",
+            "http://dbpedia.org/resource/Calgary_Inferno"
+        ],
+        [
+            "http://dbpedia.org/resource/Hayley_Scamurra",
+            "http://dbpedia.org/resource/Buffalo_Beauts"
+        ],
+        [
+            "http://dbpedia.org/resource/Hannah_Brandt",
+            "http://dbpedia.org/resource/Minnesota_Whitecaps"
+        ],
+        [
+            "http://dbpedia.org/resource/Dani_Cameranesi",
+            "http://dbpedia.org/resource/Buffalo_Beauts"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexandra_Carpenter",
+            "http://dbpedia.org/resource/Shenzhen_KRS_Vanke_Rays"
+        ],
+        [
+            "http://dbpedia.org/resource/Amanda_Kessel",
+            "http://dbpedia.org/resource/Metropolitan_Riveters"
+        ],
+        [
+            "http://dbpedia.org/resource/Michelle_Picard",
+            "http://dbpedia.org/resource/Metropolitan_Riveters"
+        ]
+    ]
+}

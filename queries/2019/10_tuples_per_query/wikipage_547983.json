@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2006_in_literature",
+            "http://dbpedia.org/resource/Tor_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_literature",
+            "http://dbpedia.org/resource/Baen_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_literature",
+            "http://dbpedia.org/resource/Ace_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_in_literature",
+            "http://dbpedia.org/resource/Tor_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_in_literature",
+            "http://dbpedia.org/resource/Tor_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_in_literature",
+            "http://dbpedia.org/resource/Ace_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_in_literature",
+            "http://dbpedia.org/resource/Tor_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_in_literature",
+            "http://dbpedia.org/resource/Tor_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_in_literature",
+            "http://dbpedia.org/resource/Tor_Books"
+        ],
+        [
+            "http://dbpedia.org/resource/2008_in_literature",
+            "http://dbpedia.org/resource/Ace_Books"
+        ]
+    ]
+}

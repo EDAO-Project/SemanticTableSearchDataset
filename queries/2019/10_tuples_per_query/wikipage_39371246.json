@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/FC_Swarovski_Tirol"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/First_Vienna_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/Kremser_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/Wiener_Sport-Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/Grazer_AK"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/FK_Austria_Wien"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/SV_Austria_Salzburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/SK_Sturm_Graz"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/SK_Sturm_Graz"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerhard_Hanappi_Stadium",
+            "http://dbpedia.org/resource/FK_Austria_Wien"
+        ]
+    ]
+}

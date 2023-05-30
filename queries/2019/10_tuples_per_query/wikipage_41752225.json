@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/After_Burner_II",
+            "http://dbpedia.org/resource/Arcade_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Alien_Syndrome",
+            "http://dbpedia.org/resource/Arcade_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Altered_Beast",
+            "http://dbpedia.org/resource/Sega_Genesis"
+        ],
+        [
+            "http://dbpedia.org/resource/Champion_Boxing",
+            "http://dbpedia.org/resource/SG-1000"
+        ],
+        [
+            "http://dbpedia.org/resource/Ecco_the_Dolphin",
+            "http://dbpedia.org/resource/Sega_Genesis"
+        ],
+        [
+            "http://dbpedia.org/resource/Fantasy_Zone",
+            "http://dbpedia.org/resource/Arcade_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Fantasy_Zone",
+            "http://dbpedia.org/resource/Master_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Fantasy_Zone_II:_The_Tears_of_Opa-Opa",
+            "http://dbpedia.org/resource/Master_System"
+        ],
+        [
+            "http://dbpedia.org/resource/Galaxy_Force_II",
+            "http://dbpedia.org/resource/Arcade_game"
+        ],
+        [
+            "http://dbpedia.org/resource/Gunstar_Heroes",
+            "http://dbpedia.org/resource/Sega_Genesis"
+        ]
+    ]
+}

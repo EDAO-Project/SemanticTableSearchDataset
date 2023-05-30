@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Caledonian_Stadium",
+            "http://dbpedia.org/resource/Martin_Glancy"
+        ],
+        [
+            "http://dbpedia.org/resource/Caledonian_Stadium",
+            "http://dbpedia.org/resource/Paul_Sheerin"
+        ],
+        [
+            "http://dbpedia.org/resource/Brockville_Park",
+            "http://dbpedia.org/resource/Martin_Glancy"
+        ],
+        [
+            "http://dbpedia.org/resource/Caledonian_Stadium",
+            "http://dbpedia.org/resource/Martin_Bavidge"
+        ],
+        [
+            "http://dbpedia.org/resource/Brockville_Park",
+            "http://dbpedia.org/resource/Ross_Tokely"
+        ],
+        [
+            "http://dbpedia.org/resource/Caledonian_Stadium",
+            "http://dbpedia.org/resource/Charlie_Christie"
+        ],
+        [
+            "http://dbpedia.org/resource/Caledonian_Stadium",
+            "http://dbpedia.org/resource/Martin_Glancy"
+        ],
+        [
+            "http://dbpedia.org/resource/Brockville_Park",
+            "http://dbpedia.org/resource/Dennis_Wyness"
+        ],
+        [
+            "http://dbpedia.org/resource/Caledonian_Stadium",
+            "http://dbpedia.org/resource/Dennis_Wyness"
+        ],
+        [
+            "http://dbpedia.org/resource/Brockville_Park",
+            "http://dbpedia.org/resource/Davide_Xausa"
+        ]
+    ]
+}

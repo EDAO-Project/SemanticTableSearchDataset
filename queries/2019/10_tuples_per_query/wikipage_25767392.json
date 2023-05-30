@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Max_Webster",
+            "http://dbpedia.org/resource/High_Class_in_Borrowed_Shoes"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Foot_in_Coldwater",
+            "http://dbpedia.org/resource/Breaking_Through"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Webster",
+            "http://dbpedia.org/resource/Mutiny_Up_My_Sleeve"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Webster",
+            "http://dbpedia.org/resource/A_Million_Vacations"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Webster",
+            "http://dbpedia.org/resource/Live_Magnetic_Air"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Webster",
+            "http://dbpedia.org/resource/Universal_Juveniles"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Webster",
+            "http://dbpedia.org/resource/Diamonds_Diamonds"
+        ],
+        [
+            "http://dbpedia.org/resource/Coney_Hatch",
+            "http://dbpedia.org/resource/Outta_Hand"
+        ],
+        [
+            "http://dbpedia.org/resource/Max_Webster",
+            "http://dbpedia.org/resource/The_Best_of_Max_Webster"
+        ],
+        [
+            "http://dbpedia.org/resource/Coney_Hatch",
+            "http://dbpedia.org/resource/Best_of_Three"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrew_Ebbett",
+            "http://dbpedia.org/resource/SC_Bern"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Warsofsky",
+            "http://dbpedia.org/resource/Boston_Bruins"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergei_Plotnikov",
+            "http://dbpedia.org/resource/Lokomotiv_Yaroslavl"
+        ],
+        [
+            "http://dbpedia.org/resource/Kael_Mouillierat",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Steven_Oleksy",
+            "http://dbpedia.org/resource/Washington_Capitals"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Downie",
+            "http://dbpedia.org/resource/Arizona_Coyotes"
+        ],
+        [
+            "http://dbpedia.org/resource/Blake_Comeau",
+            "http://dbpedia.org/resource/Colorado_Avalanche"
+        ],
+        [
+            "http://dbpedia.org/resource/Taylor_Chorney",
+            "http://dbpedia.org/resource/Washington_Capitals"
+        ],
+        [
+            "http://dbpedia.org/resource/Jayson_Megna",
+            "http://dbpedia.org/resource/New_York_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Greiss",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ]
+    ]
+}

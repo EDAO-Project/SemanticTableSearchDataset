@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southern_Open_Invitational",
+            "http://dbpedia.org/resource/Deane_Beman"
+        ],
+        [
+            "http://dbpedia.org/resource/Sea_Pines_Heritage_Classic",
+            "http://dbpedia.org/resource/Tom_Weiskopf"
+        ],
+        [
+            "http://dbpedia.org/resource/Bing_Crosby_National_Pro-Am",
+            "http://dbpedia.org/resource/Grier_Jones"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix_Open",
+            "http://dbpedia.org/resource/Lanny_Wadkins"
+        ],
+        [
+            "http://dbpedia.org/resource/Dean_Martin_Tucson_Open",
+            "http://dbpedia.org/resource/Ben_Crenshaw"
+        ],
+        [
+            "http://dbpedia.org/resource/Sea_Pines_Heritage_Classic",
+            "http://dbpedia.org/resource/Gibby_Gilbert"
+        ],
+        [
+            "http://dbpedia.org/resource/Westchester_Classic",
+            "http://dbpedia.org/resource/Don_Bies"
+        ],
+        [
+            "http://dbpedia.org/resource/Phoenix_Open",
+            "http://dbpedia.org/resource/Jerry_Heard"
+        ],
+        [
+            "http://dbpedia.org/resource/Dean_Martin_Tucson_Open",
+            "http://dbpedia.org/resource/John_Mahaffey"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaiser_International_Open_Invitational",
+            "http://dbpedia.org/resource/Rod_Curl"
+        ]
+    ]
+}

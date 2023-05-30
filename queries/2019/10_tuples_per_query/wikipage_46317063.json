@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Allan_Quatermain",
+            "http://dbpedia.org/resource/Longman"
+        ],
+        [
+            "http://dbpedia.org/resource/Colonel_Quaritch,_VC",
+            "http://dbpedia.org/resource/Longman"
+        ],
+        [
+            "http://dbpedia.org/resource/Eric_Brighteyes",
+            "http://dbpedia.org/resource/Longman"
+        ],
+        [
+            "http://dbpedia.org/resource/Nada_the_Lily",
+            "http://dbpedia.org/resource/Longman"
+        ],
+        [
+            "http://dbpedia.org/resource/Joan_Haste",
+            "http://dbpedia.org/resource/Longman"
+        ],
+        [
+            "http://dbpedia.org/resource/Doctor_Therne",
+            "http://dbpedia.org/resource/Longman"
+        ],
+        [
+            "http://dbpedia.org/resource/Lysbeth",
+            "http://dbpedia.org/resource/Longman"
+        ],
+        [
+            "http://dbpedia.org/resource/Pearl_Maiden",
+            "http://dbpedia.org/resource/Longman"
+        ],
+        [
+            "http://dbpedia.org/resource/Stella_Fregelius",
+            "http://dbpedia.org/resource/Longman"
+        ],
+        [
+            "http://dbpedia.org/resource/Red_Eve",
+            "http://dbpedia.org/resource/Hodder_&_Stoughton"
+        ]
+    ]
+}

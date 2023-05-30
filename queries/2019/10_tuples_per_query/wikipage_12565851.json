@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Glenn_Seton_Racing",
+            "http://dbpedia.org/resource/Ford_AU_Falcon"
+        ],
+        [
+            "http://dbpedia.org/resource/Gibson_Motor_Sport",
+            "http://dbpedia.org/resource/Ford_AU_Falcon"
+        ],
+        [
+            "http://dbpedia.org/resource/Holden_Racing_Team",
+            "http://dbpedia.org/resource/Holden_VX_Commodore"
+        ],
+        [
+            "http://dbpedia.org/resource/Holden_Racing_Team",
+            "http://dbpedia.org/resource/Holden_VX_Commodore"
+        ],
+        [
+            "http://dbpedia.org/resource/Briggs_Motor_Sport",
+            "http://dbpedia.org/resource/Ford_AU_Falcon"
+        ],
+        [
+            "http://dbpedia.org/resource/Perkins_Engineering",
+            "http://dbpedia.org/resource/Holden_VX_Commodore"
+        ],
+        [
+            "http://dbpedia.org/resource/Steven_Ellery_Racing",
+            "http://dbpedia.org/resource/Ford_AU_Falcon"
+        ],
+        [
+            "http://dbpedia.org/resource/K-mart_Racing_Team",
+            "http://dbpedia.org/resource/Holden_VX_Commodore"
+        ],
+        [
+            "http://dbpedia.org/resource/Garry_Rogers_Motorsport",
+            "http://dbpedia.org/resource/Holden_VX_Commodore"
+        ],
+        [
+            "http://dbpedia.org/resource/Dick_Johnson_Racing",
+            "http://dbpedia.org/resource/Ford_AU_Falcon"
+        ]
+    ]
+}

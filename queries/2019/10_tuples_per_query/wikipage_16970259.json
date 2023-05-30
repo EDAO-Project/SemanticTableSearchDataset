@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1930_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Montevideo"
+        ],
+        [
+            "http://dbpedia.org/resource/1930_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Montevideo"
+        ],
+        [
+            "http://dbpedia.org/resource/1930_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Montevideo"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Rio_de_Janeiro"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Rio_de_Janeiro"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Recife"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Santiago_de_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Santiago_de_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Santiago_de_Chile"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_FIFA_World_Cup",
+            "http://dbpedia.org/resource/Arica,_Chile"
+        ]
+    ]
+}

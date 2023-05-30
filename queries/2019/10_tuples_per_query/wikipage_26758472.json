@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/400_metres",
+            "http://dbpedia.org/resource/Xiomara_Larios"
+        ],
+        [
+            "http://dbpedia.org/resource/800_metres",
+            "http://dbpedia.org/resource/Xiomara_Larios"
+        ],
+        [
+            "http://dbpedia.org/resource/1500_metres",
+            "http://dbpedia.org/resource/Xiomara_Larios"
+        ],
+        [
+            "http://dbpedia.org/resource/10,000_metres",
+            "http://dbpedia.org/resource/Granada,_Nicaragua"
+        ],
+        [
+            "http://dbpedia.org/resource/10,000_metres",
+            "http://dbpedia.org/resource/2010_Central_American_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Marathon",
+            "http://dbpedia.org/resource/2010_Central_American_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/100_metres_hurdles",
+            "http://dbpedia.org/resource/2010_Central_American_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/100_metres_hurdles",
+            "http://dbpedia.org/resource/2010_Central_American_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/400_metres_hurdles",
+            "http://dbpedia.org/resource/Jessica_Aguilera"
+        ],
+        [
+            "http://dbpedia.org/resource/Pole_vault",
+            "http://dbpedia.org/resource/2010_Central_American_Games"
+        ]
+    ]
+}

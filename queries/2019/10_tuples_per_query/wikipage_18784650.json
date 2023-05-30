@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brandon_LaFell",
+            "http://dbpedia.org/resource/Doug_Baldwin"
+        ],
+        [
+            "http://dbpedia.org/resource/Nate_Solder",
+            "http://dbpedia.org/resource/Russell_Okung"
+        ],
+        [
+            "http://dbpedia.org/resource/Bryan_Stork",
+            "http://dbpedia.org/resource/Max_Unger"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Wendell",
+            "http://dbpedia.org/resource/J._R._Sweezy"
+        ],
+        [
+            "http://dbpedia.org/resource/Sebastian_Vollmer",
+            "http://dbpedia.org/resource/Justin_Britt"
+        ],
+        [
+            "http://dbpedia.org/resource/Rob_Gronkowski",
+            "http://dbpedia.org/resource/Luke_Willson"
+        ],
+        [
+            "http://dbpedia.org/resource/Julian_Edelman",
+            "http://dbpedia.org/resource/Jermaine_Kearse"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Brady",
+            "http://dbpedia.org/resource/Russell_Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Hoomanawanui",
+            "http://dbpedia.org/resource/Ricardo_Lockette"
+        ],
+        [
+            "http://dbpedia.org/resource/Shane_Vereen",
+            "http://dbpedia.org/resource/Marshawn_Lynch"
+        ]
+    ]
+}

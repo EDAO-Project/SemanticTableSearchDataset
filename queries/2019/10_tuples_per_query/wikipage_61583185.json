@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Marco_Silvestri",
+            "http://dbpedia.org/resource/Leeds_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Berardi",
+            "http://dbpedia.org/resource/Bari"
+        ],
+        [
+            "http://dbpedia.org/resource/Luigi_Vitale",
+            "http://dbpedia.org/resource/Salernitana"
+        ],
+        [
+            "http://dbpedia.org/resource/Davide_Faraoni",
+            "http://dbpedia.org/resource/Crotone"
+        ],
+        [
+            "http://dbpedia.org/resource/Amir_Rrahmani",
+            "http://dbpedia.org/resource/Dinamo_Zagreb"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessandro_Crescenzi",
+            "http://dbpedia.org/resource/Pescara"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Empereur",
+            "http://dbpedia.org/resource/Foggia"
+        ],
+        [
+            "http://dbpedia.org/resource/Claud_Adjapong",
+            "http://dbpedia.org/resource/Sassuolo"
+        ],
+        [
+            "http://dbpedia.org/resource/Miguel_Veloso",
+            "http://dbpedia.org/resource/Genoa"
+        ],
+        [
+            "http://dbpedia.org/resource/Luca_Marrone",
+            "http://dbpedia.org/resource/Juventus"
+        ]
+    ]
+}

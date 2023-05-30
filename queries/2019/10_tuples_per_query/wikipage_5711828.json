@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Illinois_Central_College",
+            "http://dbpedia.org/resource/Lansing_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Illinois_Central_College",
+            "http://dbpedia.org/resource/Kankakee_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Southwestern_Michigan_College",
+            "http://dbpedia.org/resource/Chattahoochee_Valley_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Kankakee_Community_College",
+            "http://dbpedia.org/resource/St._Clair_County_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Lansing_Community_College",
+            "http://dbpedia.org/resource/Kankakee_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Kirkwood_Community_College",
+            "http://dbpedia.org/resource/Carl_Sandburg_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Illinois_Central_College",
+            "http://dbpedia.org/resource/Penn_Valley_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Illinois_Central_College",
+            "http://dbpedia.org/resource/Northwest-Shoals_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Johnson_County_Community_College",
+            "http://dbpedia.org/resource/Monroe_Community_College"
+        ],
+        [
+            "http://dbpedia.org/resource/Monroe_Community_College",
+            "http://dbpedia.org/resource/Frederick_Community_College"
+        ]
+    ]
+}

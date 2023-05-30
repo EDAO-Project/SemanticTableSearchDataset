@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/XEFE-TV",
+            "http://dbpedia.org/resource/Televisa_local"
+        ],
+        [
+            "http://dbpedia.org/resource/KGNS-TV",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/KGNS-DT2",
+            "http://dbpedia.org/resource/American_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/KGNS-DT3",
+            "http://dbpedia.org/resource/Telemundo"
+        ],
+        [
+            "http://dbpedia.org/resource/XHBR-TV",
+            "http://dbpedia.org/resource/Canal_de_las_Estrellas"
+        ],
+        [
+            "http://dbpedia.org/resource/KLMV-LD",
+            "http://dbpedia.org/resource/Buena_Vida_Broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/KLMV-LD",
+            "http://dbpedia.org/resource/TeLe-Romantica"
+        ],
+        [
+            "http://dbpedia.org/resource/KLMV-LD",
+            "http://dbpedia.org/resource/Buena_Vida_Broadcasting"
+        ],
+        [
+            "http://dbpedia.org/resource/XHLNA",
+            "http://dbpedia.org/resource/Azteca_13"
+        ],
+        [
+            "http://dbpedia.org/resource/XHLNA",
+            "http://dbpedia.org/resource/Proyecto_40"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Giorgos_Georgiadis",
+            "http://dbpedia.org/resource/PAOK"
+        ],
+        [
+            "http://dbpedia.org/resource/Ola_John",
+            "http://dbpedia.org/resource/Twente"
+        ],
+        [
+            "http://dbpedia.org/resource/Dries_Mertens",
+            "http://dbpedia.org/resource/PSV_Eindhoven"
+        ],
+        [
+            "http://dbpedia.org/resource/Diego_Capel",
+            "http://dbpedia.org/resource/Sporting_CP"
+        ],
+        [
+            "http://dbpedia.org/resource/Cleiton_Xavier",
+            "http://dbpedia.org/resource/Metalist_Kharkiv"
+        ],
+        [
+            "http://dbpedia.org/resource/Andros_Townsend",
+            "http://dbpedia.org/resource/Tottenham_Hotspur"
+        ],
+        [
+            "http://dbpedia.org/resource/Didier_Ya_Konan",
+            "http://dbpedia.org/resource/Hannover_96"
+        ],
+        [
+            "http://dbpedia.org/resource/Zakaria_Labyad",
+            "http://dbpedia.org/resource/PSV_Eindhoven"
+        ],
+        [
+            "http://dbpedia.org/resource/Lars_Stindl",
+            "http://dbpedia.org/resource/Hannover_96"
+        ],
+        [
+            "http://dbpedia.org/resource/Taison",
+            "http://dbpedia.org/resource/Metalist_Kharkiv"
+        ]
+    ]
+}

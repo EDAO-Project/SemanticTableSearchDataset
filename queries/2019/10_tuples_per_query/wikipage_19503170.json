@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yomiuri_Football_Club",
+            "http://dbpedia.org/resource/Yanmar_Diesel_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Japan_JR_Furukawa_FC",
+            "http://dbpedia.org/resource/Fukuoka_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Osaka_University_of_Health_and_Sport_Sciences",
+            "http://dbpedia.org/resource/Yamaha_Motors_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Toyota_Motors_SC",
+            "http://dbpedia.org/resource/Keio_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Nippon_Denso_SC",
+            "http://dbpedia.org/resource/Hitachi_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyoto_Shiko_Club",
+            "http://dbpedia.org/resource/Otsuka_Pharmaceutical_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Juntendo_University",
+            "http://dbpedia.org/resource/Toshiba_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Honda_FC",
+            "http://dbpedia.org/resource/Fujitsu_SC"
+        ],
+        [
+            "http://dbpedia.org/resource/Mitsubishi_Motors_FC",
+            "http://dbpedia.org/resource/Osaka_University_of_Commerce"
+        ],
+        [
+            "http://dbpedia.org/resource/ANA_SC",
+            "http://dbpedia.org/resource/Kawasaki_Steel_SC"
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Driver:_San_Francisco",
+            "http://dbpedia.org/resource/Ubisoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Halo:_Combat_Evolved_Anniversary",
+            "http://dbpedia.org/resource/Halo:_Combat_Evolved_Anniversary",
+            "http://dbpedia.org/resource/Sumthing_Else_Music_Works"
+        ],
+        [
+            "http://dbpedia.org/resource/Myth:_The_Xenogears_Orchestral_Album",
+            "http://dbpedia.org/resource/Xenogears"
+        ],
+        [
+            "http://dbpedia.org/resource/Halo_4_Original_Soundtrack",
+            "http://dbpedia.org/resource/Halo_4"
+        ],
+        [
+            "http://dbpedia.org/resource/Persona_4_Arena",
+            "http://dbpedia.org/resource/Atlus"
+        ],
+        [
+            "http://dbpedia.org/resource/Dropchord",
+            "http://dbpedia.org/resource/Double_Fine"
+        ],
+        [
+            "http://dbpedia.org/resource/Far_Cry_3:_Blood_Dragon",
+            "http://dbpedia.org/resource/Ubisoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Watch_Dogs",
+            "http://dbpedia.org/resource/Ubisoft"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Music_of_Grand_Theft_Auto_V",
+            "http://dbpedia.org/resource/GTA_V"
+        ],
+        [
+            "http://dbpedia.org/resource/Hohokum",
+            "http://dbpedia.org/resource/Ghostly_International"
+        ]
+    ]
+}

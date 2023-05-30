@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ames_crater",
+            "http://dbpedia.org/resource/Oklahoma"
+        ],
+        [
+            "http://dbpedia.org/resource/Avak_crater",
+            "http://dbpedia.org/resource/Alaska"
+        ],
+        [
+            "http://dbpedia.org/resource/Meteor_Crater",
+            "http://dbpedia.org/resource/Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Calvin_crater",
+            "http://dbpedia.org/resource/Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chesapeake_Bay_impact_crater",
+            "http://dbpedia.org/resource/Virginia"
+        ],
+        [
+            "http://dbpedia.org/resource/Cloud_Creek_crater",
+            "http://dbpedia.org/resource/Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Crooked_Creek_crater",
+            "http://dbpedia.org/resource/Missouri"
+        ],
+        [
+            "http://dbpedia.org/resource/Decaturville_crater",
+            "http://dbpedia.org/resource/Missouri"
+        ],
+        [
+            "http://dbpedia.org/resource/Des_Plaines_crater",
+            "http://dbpedia.org/resource/Illinois"
+        ],
+        [
+            "http://dbpedia.org/resource/Flynn_Creek_crater",
+            "http://dbpedia.org/resource/Tennessee"
+        ]
+    ]
+}

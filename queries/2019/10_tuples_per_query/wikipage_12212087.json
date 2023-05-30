@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ahititi_School",
+            "http://dbpedia.org/resource/Ahititi"
+        ],
+        [
+            "http://dbpedia.org/resource/Central_School,_New_Plymouth",
+            "http://dbpedia.org/resource/New_Plymouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Coastal_Taranaki_School",
+            "http://dbpedia.org/resource/Okato"
+        ],
+        [
+            "http://dbpedia.org/resource/Devon_Intermediate",
+            "http://dbpedia.org/resource/Lynmouth,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/Egmont_Village_School",
+            "http://dbpedia.org/resource/Egmont_Village"
+        ],
+        [
+            "http://dbpedia.org/resource/Fitzroy_School",
+            "http://dbpedia.org/resource/Fitzroy,_Taranaki"
+        ],
+        [
+            "http://dbpedia.org/resource/Francis_Douglas_Memorial_College",
+            "http://dbpedia.org/resource/Westown"
+        ],
+        [
+            "http://dbpedia.org/resource/Frankley_School",
+            "http://dbpedia.org/resource/Hurdon"
+        ],
+        [
+            "http://dbpedia.org/resource/Highlands_Intermediate",
+            "http://dbpedia.org/resource/Brooklands,_New_Plymouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Huirangi_School",
+            "http://dbpedia.org/resource/Huirangi"
+        ]
+    ]
+}

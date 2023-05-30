@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andre_Owens",
+            "http://dbpedia.org/resource/BC_Hallmann_Vienna"
+        ],
+        [
+            "http://dbpedia.org/resource/Reggie_Evans",
+            "http://dbpedia.org/resource/Sacramento_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Xavier_Silas",
+            "http://dbpedia.org/resource/Northern_Arizona_Suns"
+        ],
+        [
+            "http://dbpedia.org/resource/Kwame_Brown",
+            "http://dbpedia.org/resource/Philadelphia_76ers"
+        ],
+        [
+            "http://dbpedia.org/resource/Derrick_Byars",
+            "http://dbpedia.org/resource/Delaware_87ers"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcus_Banks",
+            "http://dbpedia.org/resource/SLUC_Nancy_Basket"
+        ],
+        [
+            "http://dbpedia.org/resource/Rasual_Butler",
+            "http://dbpedia.org/resource/San_Antonio_Spurs"
+        ],
+        [
+            "http://dbpedia.org/resource/DeShawn_Stevenson",
+            "http://dbpedia.org/resource/Atlanta_Hawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Eddie_Basden",
+            "http://dbpedia.org/resource/Franca_Basquetebol_Clube"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Nailon",
+            "http://dbpedia.org/resource/Panteras_de_Aguascalientes"
+        ]
+    ]
+}

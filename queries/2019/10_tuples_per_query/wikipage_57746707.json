@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Luol_Deng",
+            "http://dbpedia.org/resource/Los_Angeles_Lakers"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Mahinmi",
+            "http://dbpedia.org/resource/Washington_Wizards"
+        ],
+        [
+            "http://dbpedia.org/resource/Al-Farouq_Aminu",
+            "http://dbpedia.org/resource/Portland_Trail_Blazers"
+        ],
+        [
+            "http://dbpedia.org/resource/Bismack_Biyombo",
+            "http://dbpedia.org/resource/Charlotte_Hornets"
+        ],
+        [
+            "http://dbpedia.org/resource/Cheick_Diallo",
+            "http://dbpedia.org/resource/New_Orleans_Pelicans"
+        ],
+        [
+            "http://dbpedia.org/resource/Joel_Embiid",
+            "http://dbpedia.org/resource/Philadelphia_76ers"
+        ],
+        [
+            "http://dbpedia.org/resource/Evan_Fournier",
+            "http://dbpedia.org/resource/Orlando_Magic"
+        ],
+        [
+            "http://dbpedia.org/resource/Serge_Ibaka",
+            "http://dbpedia.org/resource/Toronto_Raptors"
+        ],
+        [
+            "http://dbpedia.org/resource/Timothe_Luwawu-Cabarrot",
+            "http://dbpedia.org/resource/Oklahoma_City_Thunder"
+        ],
+        [
+            "http://dbpedia.org/resource/Pascal_Siakam",
+            "http://dbpedia.org/resource/Toronto_Raptors"
+        ]
+    ]
+}

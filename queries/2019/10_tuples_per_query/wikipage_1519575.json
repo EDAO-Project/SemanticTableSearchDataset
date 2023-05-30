@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto_Marlboros",
+            "http://dbpedia.org/resource/Ontario_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Marlboros",
+            "http://dbpedia.org/resource/Ontario_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Omaha_Knights",
+            "http://dbpedia.org/resource/Central_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Omaha_Knights",
+            "http://dbpedia.org/resource/Central_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis_Blues",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/St._Louis_Blues",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Kings",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Los_Angeles_Kings",
+            "http://dbpedia.org/resource/National_Hockey_League"
+        ]
+    ]
+}

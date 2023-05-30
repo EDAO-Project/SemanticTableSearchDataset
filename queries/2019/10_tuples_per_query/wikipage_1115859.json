@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Varaztirots_II_Bagratuni",
+            "http://dbpedia.org/resource/Bagratuni_Dynasty"
+        ],
+        [
+            "http://dbpedia.org/resource/Theodore_Rshtuni",
+            "http://dbpedia.org/resource/Rshtuni"
+        ],
+        [
+            "http://dbpedia.org/resource/Theodore_Rshtuni",
+            "http://dbpedia.org/resource/Rshtuni"
+        ],
+        [
+            "http://dbpedia.org/resource/Theodore_Rshtuni",
+            "http://dbpedia.org/resource/Rshtuni"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashot_II_Bagratuni",
+            "http://dbpedia.org/resource/Bagratuni_Dynasty"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashot_III_Bagratuni",
+            "http://dbpedia.org/resource/Bagratuni_Dynasty"
+        ],
+        [
+            "http://dbpedia.org/resource/Ashot_III_Bagratuni",
+            "http://dbpedia.org/resource/Bagratuni_Dynasty"
+        ],
+        [
+            "http://dbpedia.org/resource/Mushegh_VI_Mamikonian",
+            "http://dbpedia.org/resource/Mamikonian"
+        ],
+        [
+            "http://dbpedia.org/resource/Sahak_III_Bagratuni",
+            "http://dbpedia.org/resource/Bagratuni_Dynasty"
+        ],
+        [
+            "http://dbpedia.org/resource/Smbat_VII_Bagratuni",
+            "http://dbpedia.org/resource/Bagratuni_Dynasty"
+        ]
+    ]
+}

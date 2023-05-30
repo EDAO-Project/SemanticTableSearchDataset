@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boum_sur_Paris",
+            "http://dbpedia.org/resource/Maurice_de_Canonge"
+        ],
+        [
+            "http://dbpedia.org/resource/Royal_Affairs_in_Versailles",
+            "http://dbpedia.org/resource/Sacha_Guitry"
+        ],
+        [
+            "http://dbpedia.org/resource/Beautiful_But_Dangerous",
+            "http://dbpedia.org/resource/Robert_Z._Leonard"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Singer_from_Mexico",
+            "http://dbpedia.org/resource/Richard_Pottier"
+        ],
+        [
+            "http://dbpedia.org/resource/Le_mataf",
+            "http://dbpedia.org/resource/Serge_Leroy"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Holes",
+            "http://dbpedia.org/resource/Pierre_Tchernia"
+        ],
+        [
+            "http://dbpedia.org/resource/Souvenir_of_Gibraltar",
+            "http://dbpedia.org/resource/Henri_Xhonneux"
+        ],
+        [
+            "http://dbpedia.org/resource/Le_braconnier_de_Dieu",
+            "http://dbpedia.org/resource/Jean-Pierre_Darras"
+        ],
+        [
+            "http://dbpedia.org/resource/A_City_Is_Beautiful_at_Night",
+            "http://dbpedia.org/resource/Richard_Bohringer"
+        ],
+        [
+            "http://dbpedia.org/resource/Crime_Is_Our_Business",
+            "http://dbpedia.org/resource/Pascal_Thomas"
+        ]
+    ]
+}

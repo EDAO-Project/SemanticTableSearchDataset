@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Frans_Nielsen",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Chimera",
+            "http://dbpedia.org/resource/Washington_Capitals"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyle_Clifford",
+            "http://dbpedia.org/resource/Los_Angeles_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/Brayden_Schenn",
+            "http://dbpedia.org/resource/Philadelphia_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Joffrey_Lupul",
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs"
+        ],
+        [
+            "http://dbpedia.org/resource/Martin_Hanzal",
+            "http://dbpedia.org/resource/Phoenix_Coyotes"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexei_Emelin",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/David_Legwand",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Ed_Jovanovski",
+            "http://dbpedia.org/resource/Florida_Panthers"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Hartnell",
+            "http://dbpedia.org/resource/Philadelphia_Flyers"
+        ]
+    ]
+}

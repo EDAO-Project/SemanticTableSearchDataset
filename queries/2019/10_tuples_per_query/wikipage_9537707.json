@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/JEF_United_Chiba",
+            "http://dbpedia.org/resource/2002_JEF_United_Ichihara_season"
+        ],
+        [
+            "http://dbpedia.org/resource/JEF_United_Chiba",
+            "http://dbpedia.org/resource/2003_JEF_United_Ichihara_season"
+        ],
+        [
+            "http://dbpedia.org/resource/JEF_United_Chiba",
+            "http://dbpedia.org/resource/2004_JEF_United_Ichihara_season"
+        ],
+        [
+            "http://dbpedia.org/resource/JEF_United_Chiba",
+            "http://dbpedia.org/resource/2005_JEF_United_Chiba_season"
+        ],
+        [
+            "http://dbpedia.org/resource/JEF_United_Chiba",
+            "http://dbpedia.org/resource/2006_JEF_United_Chiba_season"
+        ],
+        [
+            "http://dbpedia.org/resource/JEF_United_Chiba",
+            "http://dbpedia.org/resource/2007_JEF_United_Chiba_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Kawasaki_Frontale",
+            "http://dbpedia.org/resource/2008_Kawasaki_Frontale_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Kawasaki_Frontale",
+            "http://dbpedia.org/resource/2009_Kawasaki_Frontale_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanfrecce_Hiroshima",
+            "http://dbpedia.org/resource/2010_Sanfrecce_Hiroshima_season"
+        ],
+        [
+            "http://dbpedia.org/resource/Sanfrecce_Hiroshima",
+            "http://dbpedia.org/resource/2011_Sanfrecce_Hiroshima_season"
+        ]
+    ]
+}

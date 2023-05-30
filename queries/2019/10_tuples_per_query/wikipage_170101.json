@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Boogie_Woogie_Red",
+            "http://dbpedia.org/resource/Boogie_woogie"
+        ],
+        [
+            "http://dbpedia.org/resource/Forest_City_Joe",
+            "http://dbpedia.org/resource/Electric_blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Guitar_Nubbit",
+            "http://dbpedia.org/resource/Electric_blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Guitar_Slim",
+            "http://dbpedia.org/resource/Louisiana_blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Harmonica_Slim",
+            "http://dbpedia.org/resource/Texas_blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Lazy_Lester",
+            "http://dbpedia.org/resource/Swamp_blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Lefty_Dizz",
+            "http://dbpedia.org/resource/Chicago_blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Little_Joe_Blue",
+            "http://dbpedia.org/resource/Electric_blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Little_Sonny",
+            "http://dbpedia.org/resource/Electric_blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Little_Walter",
+            "http://dbpedia.org/resource/Chicago_blues"
+        ]
+    ]
+}

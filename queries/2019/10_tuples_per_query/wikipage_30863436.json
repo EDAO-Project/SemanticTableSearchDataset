@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1951_French_legislative_election",
+            "http://dbpedia.org/resource/Roger_Duchet"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_French_legislative_election",
+            "http://dbpedia.org/resource/Roger_Duchet"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_French_legislative_election",
+            "http://dbpedia.org/resource/Roger_Duchet"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_French_legislative_election",
+            "http://dbpedia.org/resource/Camille_Laurens"
+        ],
+        [
+            "http://dbpedia.org/resource/1967_French_legislative_election",
+            "http://dbpedia.org/resource/Camille_Laurens"
+        ],
+        [
+            "http://dbpedia.org/resource/1968_French_legislative_election",
+            "http://dbpedia.org/resource/Camille_Laurens"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_French_legislative_election",
+            "http://dbpedia.org/resource/Camille_Laurens"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_French_legislative_election",
+            "http://dbpedia.org/resource/Philippe_Malaud"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_French_legislative_election",
+            "http://dbpedia.org/resource/Philippe_Malaud"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_French_legislative_election",
+            "http://dbpedia.org/resource/Gilles_Bourdouleix"
+        ]
+    ]
+}

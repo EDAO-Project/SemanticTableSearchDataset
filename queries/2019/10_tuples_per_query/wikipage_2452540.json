@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/West_Frankfort_Cardinals",
+            "http://dbpedia.org/resource/Mattoon_Indians"
+        ],
+        [
+            "http://dbpedia.org/resource/Paducah_Chiefs",
+            "http://dbpedia.org/resource/Mattoon_Indians"
+        ],
+        [
+            "http://dbpedia.org/resource/Decatur_Commodores",
+            "http://dbpedia.org/resource/Hannibal_Stags"
+        ],
+        [
+            "http://dbpedia.org/resource/Decatur_Commodores",
+            "http://dbpedia.org/resource/Paris_Lakers"
+        ],
+        [
+            "http://dbpedia.org/resource/Dubuque_Packers",
+            "http://dbpedia.org/resource/Mattoon_Phillies"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris_Lakers",
+            "http://dbpedia.org/resource/Dubuque_Packers"
+        ],
+        [
+            "http://dbpedia.org/resource/Decatur_Commodores",
+            "http://dbpedia.org/resource/Clinton_Pirates"
+        ],
+        [
+            "http://dbpedia.org/resource/Fox_Cities_Foxes",
+            "http://dbpedia.org/resource/Clinton_C-Sox"
+        ],
+        [
+            "http://dbpedia.org/resource/Fox_Cities_Foxes",
+            "http://dbpedia.org/resource/Cedar_Rapids_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/Appleton_Foxes",
+            "http://dbpedia.org/resource/Wisconsin_Rapids_Twins"
+        ]
+    ]
+}

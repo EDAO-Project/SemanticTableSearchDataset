@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Paromitar_Ek_Din",
+            "http://dbpedia.org/resource/Bengali_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Nee_Thodu_Kavali",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Dhoom",
+            "http://dbpedia.org/resource/Hindi"
+        ],
+        [
+            "http://dbpedia.org/resource/Swapner_Din",
+            "http://dbpedia.org/resource/Bengali_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Andarivaadu",
+            "http://dbpedia.org/resource/Telugu_language"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyon_Ki",
+            "http://dbpedia.org/resource/Hindi"
+        ],
+        [
+            "http://dbpedia.org/resource/Deewane_Huye_Paagal",
+            "http://dbpedia.org/resource/Hindi"
+        ],
+        [
+            "http://dbpedia.org/resource/Phir_Hera_Pheri",
+            "http://dbpedia.org/resource/Hindi"
+        ],
+        [
+            "http://dbpedia.org/resource/Golmaal:_Fun_Unlimited",
+            "http://dbpedia.org/resource/Hindi"
+        ],
+        [
+            "http://dbpedia.org/resource/Dhoom_2",
+            "http://dbpedia.org/resource/Hindi"
+        ]
+    ]
+}

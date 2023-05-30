@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Murder_by_Decree",
+            "http://dbpedia.org/resource/Genie_Awards"
+        ],
+        [
+            "http://dbpedia.org/resource/Man_in_the_Chair",
+            "http://dbpedia.org/resource/Method_Fest_Independent_Film_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Man_in_the_Chair",
+            "http://dbpedia.org/resource/Palm_Beach_International_Film_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Emotional_Arithmetic",
+            "http://dbpedia.org/resource/Genie_Awards"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Last_Station",
+            "http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actor"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Last_Station",
+            "http://dbpedia.org/resource/Independent_Spirit_Award_for_Best_Supporting_Male"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Last_Station",
+            "http://dbpedia.org/resource/Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Supporting_Role"
+        ],
+        [
+            "http://dbpedia.org/resource/Beginners",
+            "http://dbpedia.org/resource/Chicago_Film_Critics_Association_Award_for_Best_Supporting_Actor"
+        ],
+        [
+            "http://dbpedia.org/resource/Beginners",
+            "http://dbpedia.org/resource/JoBlo.com"
+        ],
+        [
+            "http://dbpedia.org/resource/Beginners",
+            "http://dbpedia.org/resource/Gotham_Independent_Film_Award_for_Best_Ensemble_Cast"
+        ]
+    ]
+}

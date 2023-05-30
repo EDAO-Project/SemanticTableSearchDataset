@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Oklahoma",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Florida",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Texas",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Texas",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Texas",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_people_executed_in_Missouri",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Texas",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_people_executed_in_Missouri",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ],
+        [
+            "http://dbpedia.org/resource/Capital_punishment_in_Texas",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_people_executed_in_Missouri",
+            "http://dbpedia.org/resource/Lethal_injection"
+        ]
+    ]
+}

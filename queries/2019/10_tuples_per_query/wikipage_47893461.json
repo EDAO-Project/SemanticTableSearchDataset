@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Birmingham_Barons",
+            "http://dbpedia.org/resource/Memphis_Chicks"
+        ],
+        [
+            "http://dbpedia.org/resource/Little_Rock_Travelers",
+            "http://dbpedia.org/resource/Atlanta_Crackers"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Crackers",
+            "http://dbpedia.org/resource/Nashville_Vols"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville_Vols",
+            "http://dbpedia.org/resource/Atlanta_Crackers"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville_Vols",
+            "http://dbpedia.org/resource/Atlanta_Crackers"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville_Vols",
+            "http://dbpedia.org/resource/Atlanta_Crackers"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville_Vols",
+            "http://dbpedia.org/resource/Little_Rock_Travelers"
+        ],
+        [
+            "http://dbpedia.org/resource/Nashville_Vols",
+            "http://dbpedia.org/resource/Memphis_Chicks"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Crackers",
+            "http://dbpedia.org/resource/Memphis_Chicks"
+        ],
+        [
+            "http://dbpedia.org/resource/Mobile_Bears",
+            "http://dbpedia.org/resource/Nashville_Vols"
+        ]
+    ]
+}

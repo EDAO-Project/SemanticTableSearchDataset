@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Southfield_Town_Center",
+            "http://dbpedia.org/resource/Southfield,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Southfield_Town_Center",
+            "http://dbpedia.org/resource/Southfield,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Southfield_Town_Center",
+            "http://dbpedia.org/resource/Southfield,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Top_of_Troy",
+            "http://dbpedia.org/resource/Troy,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Center",
+            "http://dbpedia.org/resource/Southfield,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Southfield_Town_Center",
+            "http://dbpedia.org/resource/Southfield,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Southfield_Town_Center",
+            "http://dbpedia.org/resource/Southfield,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chrysler_Headquarters",
+            "http://dbpedia.org/resource/Auburn_Hills,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mott_Foundation_Building",
+            "http://dbpedia.org/resource/Flint,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Parklane_Towers",
+            "http://dbpedia.org/resource/Dearborn,_Michigan"
+        ]
+    ]
+}

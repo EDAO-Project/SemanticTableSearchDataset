@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/David_Kranjec",
+            "http://dbpedia.org/resource/Brooklee_Han"
+        ],
+        [
+            "http://dbpedia.org/resource/Luiz_Manella",
+            "http://dbpedia.org/resource/Isadora_Williams"
+        ],
+        [
+            "http://dbpedia.org/resource/Petr_Coufal",
+            "http://dbpedia.org/resource/Elizaveta_Ukolova"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthias_Versluis",
+            "http://dbpedia.org/resource/Jenni_Saarinen"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Hocquaux",
+            "http://dbpedia.org/resource/Laurine_Lecavelier"
+        ],
+        [
+            "http://dbpedia.org/resource/Martin_Rappe",
+            "http://dbpedia.org/resource/Nathalie_Weinzierl"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Britain",
+            "http://dbpedia.org/resource/Amani_Fancy"
+        ],
+        [
+            "http://dbpedia.org/resource/Sondre_Oddvoll_Boe",
+            "http://dbpedia.org/resource/Camilla_Gjersem"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Christian_Martinez",
+            "http://dbpedia.org/resource/Alisson_Krystle_Perticheto"
+        ],
+        [
+            "http://dbpedia.org/resource/Marco_Klepoch",
+            "http://dbpedia.org/resource/Nicole_Rajicova"
+        ]
+    ]
+}

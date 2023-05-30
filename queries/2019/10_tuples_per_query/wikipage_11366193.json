@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Balaenopteridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Balaenoptiidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Balaenoptiidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Balaenoptiidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Balaenoptiidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Physeteridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Physeteridae"
+        ],
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Globicephala"
+        ],
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Delphinidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Cetacea",
+            "http://dbpedia.org/resource/Delphinidae"
+        ]
+    ]
+}

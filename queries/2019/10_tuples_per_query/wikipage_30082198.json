@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/USJA_Carquefou",
+            "http://dbpedia.org/resource/Angers_SCO"
+        ],
+        [
+            "http://dbpedia.org/resource/USSA_Vertou",
+            "http://dbpedia.org/resource/FC_Nantes"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Roche_ESOF",
+            "http://dbpedia.org/resource/Stade_Brestois_29"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Montceau_Bourgogne",
+            "http://dbpedia.org/resource/Grenoble_Foot_38"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympique_Lyonnais",
+            "http://dbpedia.org/resource/AS_Saint-Priest"
+        ],
+        [
+            "http://dbpedia.org/resource/Jura_Sud_Foot",
+            "http://dbpedia.org/resource/Montpellier_HSC"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Libourne-Saint-Seurin",
+            "http://dbpedia.org/resource/US_Colomiers_Football"
+        ],
+        [
+            "http://dbpedia.org/resource/Rodez_AF",
+            "http://dbpedia.org/resource/Toulouse_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/AC_Ajaccio",
+            "http://dbpedia.org/resource/AS_Monaco_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Istres",
+            "http://dbpedia.org/resource/US_Marignane"
+        ]
+    ]
+}

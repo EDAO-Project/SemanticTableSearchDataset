@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shailene_Woodley",
+            "http://dbpedia.org/resource/The_Descendants"
+        ],
+        [
+            "http://dbpedia.org/resource/Judi_Dench",
+            "http://dbpedia.org/resource/Skyfall"
+        ],
+        [
+            "http://dbpedia.org/resource/Octavia_Spencer",
+            "http://dbpedia.org/resource/Fruitvale_Station"
+        ],
+        [
+            "http://dbpedia.org/resource/Oprah_Winfrey",
+            "http://dbpedia.org/resource/The_Butler"
+        ],
+        [
+            "http://dbpedia.org/resource/Jessica_Chastain",
+            "http://dbpedia.org/resource/A_Most_Violent_Year"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Imitation_Game",
+            "http://dbpedia.org/resource/Joan_Clarke"
+        ],
+        [
+            "http://dbpedia.org/resource/Tilda_Swinton",
+            "http://dbpedia.org/resource/Snowpiercer"
+        ],
+        [
+            "http://dbpedia.org/resource/Greta_Gerwig",
+            "http://dbpedia.org/resource/20th_Century_Women"
+        ],
+        [
+            "http://dbpedia.org/resource/Hidden_Figures",
+            "http://dbpedia.org/resource/Dorothy_Vaughan"
+        ],
+        [
+            "http://dbpedia.org/resource/I,_Tonya",
+            "http://dbpedia.org/resource/LaVona_Golden"
+        ]
+    ]
+}

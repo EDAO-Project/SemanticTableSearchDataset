@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1963_South_Pacific_Games",
+            "http://dbpedia.org/resource/Suva"
+        ],
+        [
+            "http://dbpedia.org/resource/1969_South_Pacific_Games",
+            "http://dbpedia.org/resource/Port_Moresby"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_South_Pacific_Games",
+            "http://dbpedia.org/resource/Papeete"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_South_Pacific_Games",
+            "http://dbpedia.org/resource/Suva"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_South_Pacific_Games",
+            "http://dbpedia.org/resource/Apia"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_South_Pacific_Games",
+            "http://dbpedia.org/resource/Port_Moresby"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_South_Pacific_Games",
+            "http://dbpedia.org/resource/Papeete"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_South_Pacific_Games",
+            "http://dbpedia.org/resource/Santa_Rita,_Guam"
+        ],
+        [
+            "http://dbpedia.org/resource/2003_South_Pacific_Games",
+            "http://dbpedia.org/resource/Suva"
+        ],
+        [
+            "http://dbpedia.org/resource/2007_Pacific_Games",
+            "http://dbpedia.org/resource/Apia"
+        ]
+    ]
+}

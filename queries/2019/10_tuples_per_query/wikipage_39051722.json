@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Krishnan_Sasikiran",
+            "http://dbpedia.org/resource/Darmen_Sadvakasov"
+        ],
+        [
+            "http://dbpedia.org/resource/Pentala_Harikrishna",
+            "http://dbpedia.org/resource/Murtas_Kazhgaleyev"
+        ],
+        [
+            "http://dbpedia.org/resource/Humpy_Koneru",
+            "http://dbpedia.org/resource/Dana_Tuleyeva-Aketayeva"
+        ],
+        [
+            "http://dbpedia.org/resource/Enamul_Hossain",
+            "http://dbpedia.org/resource/Bu_Xiangzhi"
+        ],
+        [
+            "http://dbpedia.org/resource/Reefat_Bin-Sattar",
+            "http://dbpedia.org/resource/Wang_Yue"
+        ],
+        [
+            "http://dbpedia.org/resource/Shamima_Akter_Liza",
+            "http://dbpedia.org/resource/Zhao_Xue"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohammed_Al-Modiahki",
+            "http://dbpedia.org/resource/Ehsan_Ghaemmaghami"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohammed_Al-Sayed",
+            "http://dbpedia.org/resource/Elshan_Moradi"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhu_Chen",
+            "http://dbpedia.org/resource/Atousa_Pourkashian"
+        ],
+        [
+            "http://dbpedia.org/resource/Utut_Adianto",
+            "http://dbpedia.org/resource/Rustam_Kasimdzhanov"
+        ]
+    ]
+}

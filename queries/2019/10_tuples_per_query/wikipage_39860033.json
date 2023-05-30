@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bristol,_Connecticut",
+            "http://dbpedia.org/resource/Muzzy_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Bristol,_Connecticut",
+            "http://dbpedia.org/resource/Muzzy_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_Creek,_Michigan",
+            "http://dbpedia.org/resource/C._O._Brown_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_Creek,_Michigan",
+            "http://dbpedia.org/resource/C._O._Brown_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_Creek,_Michigan",
+            "http://dbpedia.org/resource/C._O._Brown_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_Creek,_Michigan",
+            "http://dbpedia.org/resource/C._O._Brown_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_Creek,_Michigan",
+            "http://dbpedia.org/resource/C._O._Brown_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Salem,_Virginia",
+            "http://dbpedia.org/resource/Kiwanis_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Salem,_Virginia",
+            "http://dbpedia.org/resource/Salem_Memorial_Baseball_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Salem,_Virginia",
+            "http://dbpedia.org/resource/Salem_Memorial_Baseball_Stadium"
+        ]
+    ]
+}

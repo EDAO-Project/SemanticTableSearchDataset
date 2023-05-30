@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1911_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Thomas_Wilford"
+        ],
+        [
+            "http://dbpedia.org/resource/1921_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Robert_Alexander_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/1923_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Robert_Alexander_Wright"
+        ],
+        [
+            "http://dbpedia.org/resource/1925_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Charles_Norwood"
+        ],
+        [
+            "http://dbpedia.org/resource/1944_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Will_Appleton"
+        ],
+        [
+            "http://dbpedia.org/resource/1947_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Will_Appleton"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Robert_Macalister"
+        ],
+        [
+            "http://dbpedia.org/resource/1953_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Robert_Macalister"
+        ],
+        [
+            "http://dbpedia.org/resource/1956_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Ernest_Toop"
+        ],
+        [
+            "http://dbpedia.org/resource/1959_Wellington_City_mayoral_election",
+            "http://dbpedia.org/resource/Ernest_Toop"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Speaker_of_the_Dead",
+            "http://dbpedia.org/resource/Emmure"
+        ],
+        [
+            "http://dbpedia.org/resource/The_End_of_the_World_Party",
+            "http://dbpedia.org/resource/I_See_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Reckless_&_Relentless",
+            "http://dbpedia.org/resource/Asking_Alexandria"
+        ],
+        [
+            "http://dbpedia.org/resource/Digital_Renegade",
+            "http://dbpedia.org/resource/I_See_Stars"
+        ],
+        [
+            "http://dbpedia.org/resource/Slave_to_the_Game",
+            "http://dbpedia.org/resource/Emmure"
+        ],
+        [
+            "http://dbpedia.org/resource/Death_Is_the_Only_Mortal",
+            "http://dbpedia.org/resource/The_Acacia_Strain"
+        ],
+        [
+            "http://dbpedia.org/resource/From_Death_to_Destiny",
+            "http://dbpedia.org/resource/Asking_Alexandria"
+        ],
+        [
+            "http://dbpedia.org/resource/Hollow_Bodies",
+            "http://dbpedia.org/resource/Blessthefall"
+        ],
+        [
+            "http://dbpedia.org/resource/Tomorrow_We_Die_Alive",
+            "http://dbpedia.org/resource/Born_of_Osiris"
+        ],
+        [
+            "http://dbpedia.org/resource/What_It_Means_to_Be_Defeated",
+            "http://dbpedia.org/resource/Dayseeker"
+        ]
+    ]
+}

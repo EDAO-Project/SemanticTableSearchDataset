@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Elaine_Thompson",
+            "http://dbpedia.org/resource/100_m"
+        ],
+        [
+            "http://dbpedia.org/resource/Shericka_Jackson",
+            "http://dbpedia.org/resource/200_m"
+        ],
+        [
+            "http://dbpedia.org/resource/Stephenie_Ann_McPherson",
+            "http://dbpedia.org/resource/400_m"
+        ],
+        [
+            "http://dbpedia.org/resource/Simoya_Campbell",
+            "http://dbpedia.org/resource/800_m"
+        ],
+        [
+            "http://dbpedia.org/resource/Simoya_Campbell",
+            "http://dbpedia.org/resource/1500_m"
+        ],
+        [
+            "http://dbpedia.org/resource/Janieve_Russell",
+            "http://dbpedia.org/resource/400_m_hurdles"
+        ],
+        [
+            "http://dbpedia.org/resource/Tissanna_Hickling",
+            "http://dbpedia.org/resource/Long_jump"
+        ],
+        [
+            "http://dbpedia.org/resource/Shanieka_Ricketts",
+            "http://dbpedia.org/resource/Triple_jump"
+        ],
+        [
+            "http://dbpedia.org/resource/Lloydricia_Cameron",
+            "http://dbpedia.org/resource/Shot_put"
+        ],
+        [
+            "http://dbpedia.org/resource/Shadae_Lawrence",
+            "http://dbpedia.org/resource/Discus_throw"
+        ]
+    ]
+}

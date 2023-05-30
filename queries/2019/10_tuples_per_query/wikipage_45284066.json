@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/America_East_Conference",
+            "http://dbpedia.org/resource/1998_America_East_Conference_Baseball_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic_Coast_Conference",
+            "http://dbpedia.org/resource/1998_Atlantic_Coast_Conference_Baseball_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_12_Conference",
+            "http://dbpedia.org/resource/1998_Big_12_Conference_Baseball_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_Ten_Conference",
+            "http://dbpedia.org/resource/1998_Big_Ten_Conference_Baseball_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Big_West_Conference",
+            "http://dbpedia.org/resource/1998_Big_West_Conference_Baseball_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Conference_USA",
+            "http://dbpedia.org/resource/1998_Conference_USA_Baseball_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivy_League",
+            "http://dbpedia.org/resource/1998_Ivy_League_Baseball_Championship_Series"
+        ],
+        [
+            "http://dbpedia.org/resource/Metro_Atlantic_Athletic_Conference",
+            "http://dbpedia.org/resource/1998_Metro_Atlantic_Athletic_Conference_Baseball_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Mid-American_Conference",
+            "http://dbpedia.org/resource/1998_Mid-American_Conference_Baseball_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Horizon_League",
+            "http://dbpedia.org/resource/Chicago,_Illinois"
+        ]
+    ]
+}

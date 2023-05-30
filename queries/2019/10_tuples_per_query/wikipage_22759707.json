@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/LB&SCR",
+            "http://dbpedia.org/resource/LB&SCR_A1_Class"
+        ],
+        [
+            "http://dbpedia.org/resource/LB&SCR",
+            "http://dbpedia.org/resource/LB&SCR_A1_Class"
+        ],
+        [
+            "http://dbpedia.org/resource/LSWR",
+            "http://dbpedia.org/resource/LSWR_B4_Class"
+        ],
+        [
+            "http://dbpedia.org/resource/LSWR",
+            "http://dbpedia.org/resource/LSWR_0415_Class"
+        ],
+        [
+            "http://dbpedia.org/resource/North_London_Railway",
+            "http://dbpedia.org/resource/NLR_Class_75"
+        ],
+        [
+            "http://dbpedia.org/resource/LB&SCR",
+            "http://dbpedia.org/resource/LB&SCR_E4_Class"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Eastern_and_Chatham_Railway",
+            "http://dbpedia.org/resource/SECR_C_class"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Eastern_and_Chatham_Railway",
+            "http://dbpedia.org/resource/SECR_P_class"
+        ],
+        [
+            "http://dbpedia.org/resource/Great_Western_Railway",
+            "http://dbpedia.org/resource/GWR_3200_Class"
+        ],
+        [
+            "http://dbpedia.org/resource/British_Rail",
+            "http://dbpedia.org/resource/BR_Standard_Class_4_2-6-4T"
+        ]
+    ]
+}

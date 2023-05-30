@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arminia_Hannover",
+            "http://dbpedia.org/resource/FC_08_Homburg"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_St._Pauli",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/Kickers_Offenbach",
+            "http://dbpedia.org/resource/Bayer_Uerdingen"
+        ],
+        [
+            "http://dbpedia.org/resource/Eintracht_Frankfurt",
+            "http://dbpedia.org/resource/FC_Bayern_Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/MSV_Duisburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen_II",
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern"
+        ],
+        [
+            "http://dbpedia.org/resource/Rot-Weiss_Essen",
+            "http://dbpedia.org/resource/SG_Wattenscheid_09"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Wangen",
+            "http://dbpedia.org/resource/SV_Darmstadt_98"
+        ],
+        [
+            "http://dbpedia.org/resource/1._FC_Pforzheim",
+            "http://dbpedia.org/resource/SpVgg_Bayreuth"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Schweinfurt_05",
+            "http://dbpedia.org/resource/Altonaer_FC_93"
+        ]
+    ]
+}

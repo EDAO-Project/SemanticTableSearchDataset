@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2014_KBS_Drama_Awards",
+            "http://dbpedia.org/resource/King_of_Baking,_Kim_Takgu"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_KBS_Drama_Awards",
+            "http://dbpedia.org/resource/Ojakgyo_Family"
+        ],
+        [
+            "http://dbpedia.org/resource/48th_Baeksang_Arts_Awards",
+            "http://dbpedia.org/resource/Ojakgyo_Family"
+        ],
+        [
+            "http://dbpedia.org/resource/KBS_Entertainment_Awards",
+            "http://dbpedia.org/resource/2_Days_&_1_Night"
+        ],
+        [
+            "http://dbpedia.org/resource/1st_K-Drama_Star_Awards",
+            "http://dbpedia.org/resource/Bridal_Mask"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_KBS_Drama_Awards",
+            "http://dbpedia.org/resource/Bridal_Mask"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_KBS_Drama_Awards",
+            "http://dbpedia.org/resource/Bridal_Mask"
+        ],
+        [
+            "http://dbpedia.org/resource/2014_KBS_Drama_Awards",
+            "http://dbpedia.org/resource/Bridal_Mask"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_MBC_Drama_Awards",
+            "http://dbpedia.org/resource/7th_Grade_Civil_Servant"
+        ],
+        [
+            "http://dbpedia.org/resource/8th_Korea_Drama_Awards",
+            "http://dbpedia.org/resource/Yong-pal"
+        ]
+    ]
+}

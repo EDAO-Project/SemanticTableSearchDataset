@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Troyes_AC",
+            "http://dbpedia.org/resource/Ligue_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Troyes_AC",
+            "http://dbpedia.org/resource/Ligue_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Troyes_AC",
+            "http://dbpedia.org/resource/Ligue_2"
+        ],
+        [
+            "http://dbpedia.org/resource/Troyes_AC",
+            "http://dbpedia.org/resource/Ligue_2"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Lorient",
+            "http://dbpedia.org/resource/Ligue_2"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Lorient",
+            "http://dbpedia.org/resource/Ligue_2"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympique_de_Marseille",
+            "http://dbpedia.org/resource/Ligue_1"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympique_de_Marseille",
+            "http://dbpedia.org/resource/Ligue_1"
+        ],
+        [
+            "http://dbpedia.org/resource/VfL_Wolfsburg",
+            "http://dbpedia.org/resource/Bundesliga"
+        ],
+        [
+            "http://dbpedia.org/resource/VfL_Wolfsburg",
+            "http://dbpedia.org/resource/Bundesliga"
+        ]
+    ]
+}

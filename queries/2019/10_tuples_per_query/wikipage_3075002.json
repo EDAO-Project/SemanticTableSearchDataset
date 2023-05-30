@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Palestine,_Arkansas",
+            "http://dbpedia.org/resource/St._Francis_County,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Pangburn,_Arkansas",
+            "http://dbpedia.org/resource/White_County,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Pankey,_Arkansas",
+            "http://dbpedia.org/resource/Pulaski_County,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Pansy,_Arkansas",
+            "http://dbpedia.org/resource/Cleveland_County,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Paragould,_Arkansas",
+            "http://dbpedia.org/resource/Greene_County,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Paraloma,_Arkansas",
+            "http://dbpedia.org/resource/Sevier_County,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Paris,_Arkansas",
+            "http://dbpedia.org/resource/Logan_County,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Parkdale,_Arkansas",
+            "http://dbpedia.org/resource/Ashley_County,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Parkers,_Arkansas",
+            "http://dbpedia.org/resource/Pulaski_County,_Arkansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Parkers-Iron_Springs,_Arkansas",
+            "http://dbpedia.org/resource/Pulaski_County,_Arkansas"
+        ]
+    ]
+}

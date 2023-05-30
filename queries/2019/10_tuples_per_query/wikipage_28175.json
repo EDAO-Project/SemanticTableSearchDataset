@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1974_Irish_local_elections",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Irish_local_elections",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_Irish_local_elections",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_Irish_local_elections",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_Northern_Ireland_local_elections",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Irish_local_elections",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/1993_Northern_Ireland_local_elections",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/1997_Northern_Ireland_local_elections",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/1999_Irish_local_elections",
+            "http://dbpedia.org/resource/Republic_of_Ireland"
+        ],
+        [
+            "http://dbpedia.org/resource/2001_Northern_Ireland_local_elections",
+            "http://dbpedia.org/resource/Northern_Ireland"
+        ]
+    ]
+}

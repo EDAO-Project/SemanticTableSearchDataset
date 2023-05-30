@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/ATP_Taipei",
+            "http://dbpedia.org/resource/Kim_Warwick"
+        ],
+        [
+            "http://dbpedia.org/resource/Donnay_Indoor_Championships",
+            "http://dbpedia.org/resource/Tom_Nijssen"
+        ],
+        [
+            "http://dbpedia.org/resource/ATP_Sydney",
+            "http://dbpedia.org/resource/Darren_Cahill"
+        ],
+        [
+            "http://dbpedia.org/resource/ATP_Stratton_Mountain",
+            "http://dbpedia.org/resource/Mark_Kratzmann"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan_Open_Tennis_Championships",
+            "http://dbpedia.org/resource/Mark_Kratzmann"
+        ],
+        [
+            "http://dbpedia.org/resource/ATP_Hong_Kong",
+            "http://dbpedia.org/resource/Pat_Cash"
+        ],
+        [
+            "http://dbpedia.org/resource/SAP_Open",
+            "http://dbpedia.org/resource/Jason_Stoltenberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Milan_Indoor",
+            "http://dbpedia.org/resource/Mark_Kratzmann"
+        ],
+        [
+            "http://dbpedia.org/resource/Eurocard_Open",
+            "http://dbpedia.org/resource/Mark_Kratzmann"
+        ],
+        [
+            "http://dbpedia.org/resource/ATP_Bristol",
+            "http://dbpedia.org/resource/Mark_Edmondson"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Malvern_RFC",
+            "http://dbpedia.org/resource/Luctonians"
+        ],
+        [
+            "http://dbpedia.org/resource/Bromsgrove_RFC",
+            "http://dbpedia.org/resource/Derby_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Burton_RFC",
+            "http://dbpedia.org/resource/Malvern_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Broadstreet_Rugby_Club",
+            "http://dbpedia.org/resource/Kenilworth_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Malvern_RFC",
+            "http://dbpedia.org/resource/Hereford_Rugby_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Bromsgrove_RFC",
+            "http://dbpedia.org/resource/Hereford_Rugby_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Burton_RFC",
+            "http://dbpedia.org/resource/Bournville_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Dudley_Kingswinford",
+            "http://dbpedia.org/resource/Sutton_Coldfield_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Sutton_Coldfield_RFC",
+            "http://dbpedia.org/resource/Bournville_RFC"
+        ],
+        [
+            "http://dbpedia.org/resource/Old_Halesonians_RFC",
+            "http://dbpedia.org/resource/Worcester_Wanderers"
+        ]
+    ]
+}

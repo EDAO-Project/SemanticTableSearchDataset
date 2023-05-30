@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1937_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Joseph_Stalin"
+        ],
+        [
+            "http://dbpedia.org/resource/1946_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Joseph_Stalin"
+        ],
+        [
+            "http://dbpedia.org/resource/1950_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Joseph_Stalin"
+        ],
+        [
+            "http://dbpedia.org/resource/1954_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Nikita_Khrushchev"
+        ],
+        [
+            "http://dbpedia.org/resource/1958_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Nikita_Khrushchev"
+        ],
+        [
+            "http://dbpedia.org/resource/1962_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Nikita_Khrushchev"
+        ],
+        [
+            "http://dbpedia.org/resource/1966_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Leonid_Brezhnev"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Leonid_Brezhnev"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Leonid_Brezhnev"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Soviet_Union_legislative_election",
+            "http://dbpedia.org/resource/Leonid_Brezhnev"
+        ]
+    ]
+}

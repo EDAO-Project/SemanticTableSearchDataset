@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bolshevism",
+            "http://dbpedia.org/resource/Russians"
+        ],
+        [
+            "http://dbpedia.org/resource/Menshevism",
+            "http://dbpedia.org/resource/Russians"
+        ],
+        [
+            "http://dbpedia.org/resource/Menshevism",
+            "http://dbpedia.org/resource/Russians"
+        ],
+        [
+            "http://dbpedia.org/resource/Communist_Party_of_Latvia",
+            "http://dbpedia.org/resource/Latvians"
+        ],
+        [
+            "http://dbpedia.org/resource/Menshevism",
+            "http://dbpedia.org/resource/Russians"
+        ],
+        [
+            "http://dbpedia.org/resource/Menshevism",
+            "http://dbpedia.org/resource/Russians"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolshevism",
+            "http://dbpedia.org/resource/Russians"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolshevism",
+            "http://dbpedia.org/resource/Russians"
+        ],
+        [
+            "http://dbpedia.org/resource/Bolshevism",
+            "http://dbpedia.org/resource/Russians"
+        ],
+        [
+            "http://dbpedia.org/resource/Social_Democracy_of_the_Kingdom_of_Poland_and_Lithuania",
+            "http://dbpedia.org/resource/Lithuanians"
+        ]
+    ]
+}

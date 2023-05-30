@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Martin_Gould",
+            "http://dbpedia.org/resource/Sanderson_Lam"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Weston",
+            "http://dbpedia.org/resource/Craig_Steadman"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyren_Wilson",
+            "http://dbpedia.org/resource/Xiao_Guodong"
+        ],
+        [
+            "http://dbpedia.org/resource/Andy_Hicks",
+            "http://dbpedia.org/resource/Robbie_Williams"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Milkins",
+            "http://dbpedia.org/resource/Gareth_Allen"
+        ],
+        [
+            "http://dbpedia.org/resource/Adam_Duffy",
+            "http://dbpedia.org/resource/Mei_Xiwen"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Stevens",
+            "http://dbpedia.org/resource/Chris_Wakelin"
+        ],
+        [
+            "http://dbpedia.org/resource/Luca_Brecel",
+            "http://dbpedia.org/resource/Robin_Hull"
+        ],
+        [
+            "http://dbpedia.org/resource/Zhou_Yuelong",
+            "http://dbpedia.org/resource/Jimmy_White"
+        ],
+        [
+            "http://dbpedia.org/resource/Judd_Trump",
+            "http://dbpedia.org/resource/Paul_Davison"
+        ]
+    ]
+}

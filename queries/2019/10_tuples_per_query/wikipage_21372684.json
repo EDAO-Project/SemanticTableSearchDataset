@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Ballina",
+            "http://dbpedia.org/resource/Jan_Barham"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bathurst",
+            "http://dbpedia.org/resource/Gerard_Martin"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Bligh",
+            "http://dbpedia.org/resource/Independent_politician"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Blue_Mountains",
+            "http://dbpedia.org/resource/Bob_Debus"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Cabramatta",
+            "http://dbpedia.org/resource/Reba_Meagher"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Camden",
+            "http://dbpedia.org/resource/Geoff_Corrigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Campbelltown",
+            "http://dbpedia.org/resource/Graham_West"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Canterbury",
+            "http://dbpedia.org/resource/Linda_Burney"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Cessnock",
+            "http://dbpedia.org/resource/Kerry_Hickey"
+        ],
+        [
+            "http://dbpedia.org/resource/Electoral_district_of_Coogee",
+            "http://dbpedia.org/resource/Paul_Pearce"
+        ]
+    ]
+}

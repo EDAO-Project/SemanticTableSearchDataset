@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Furong_District",
+            "http://dbpedia.org/resource/Changsha_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Tianxin_District",
+            "http://dbpedia.org/resource/Changsha_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuelu_District",
+            "http://dbpedia.org/resource/Changsha_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaifu_District,_Changsha",
+            "http://dbpedia.org/resource/Changsha_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuhua_District,_Changsha",
+            "http://dbpedia.org/resource/Changsha_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Wangcheng_District",
+            "http://dbpedia.org/resource/Changsha_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Ningxiang",
+            "http://dbpedia.org/resource/Changsha_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Liuyang",
+            "http://dbpedia.org/resource/Changsha_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuetang_District",
+            "http://dbpedia.org/resource/Xiangtan_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Yuhu_District",
+            "http://dbpedia.org/resource/Xiangtan_County"
+        ]
+    ]
+}

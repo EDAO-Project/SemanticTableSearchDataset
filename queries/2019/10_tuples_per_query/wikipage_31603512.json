@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Brian_Honeywood",
+            "http://dbpedia.org/resource/Griffin_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Colin_Moughton",
+            "http://dbpedia.org/resource/Griffin_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Owen_Simpson",
+            "http://dbpedia.org/resource/Griffin_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerry_Perryman",
+            "http://dbpedia.org/resource/Sealand_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Dyson",
+            "http://dbpedia.org/resource/Sealand_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Light",
+            "http://dbpedia.org/resource/Sealand_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Macedo",
+            "http://dbpedia.org/resource/Layer_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Gibbs",
+            "http://dbpedia.org/resource/Valley_Parade"
+        ],
+        [
+            "http://dbpedia.org/resource/Micky_Brown",
+            "http://dbpedia.org/resource/Sincil_Bank"
+        ],
+        [
+            "http://dbpedia.org/resource/Tony_Macedo",
+            "http://dbpedia.org/resource/Layer_Road"
+        ]
+    ]
+}

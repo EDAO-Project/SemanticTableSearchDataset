@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Park_Sang-Cheol",
+            "http://dbpedia.org/resource/Chunnam_Dragons"
+        ],
+        [
+            "http://dbpedia.org/resource/Ko_Cha-Won",
+            "http://dbpedia.org/resource/Chunnam_Dragons"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Yoon-Eui",
+            "http://dbpedia.org/resource/Gangwon_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Oh_Won-Jong",
+            "http://dbpedia.org/resource/Gangwon_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Lee_Sung-Jae",
+            "http://dbpedia.org/resource/Pohang_Steelers"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Beom-Jun",
+            "http://dbpedia.org/resource/Pohang_Steelers"
+        ],
+        [
+            "http://dbpedia.org/resource/Yoo_Chang-Hyun",
+            "http://dbpedia.org/resource/Pohang_Steelers"
+        ],
+        [
+            "http://dbpedia.org/resource/Oh_Bong-Jin",
+            "http://dbpedia.org/resource/Jeju_United_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Kim_Yong-Tae",
+            "http://dbpedia.org/resource/Ulsan_Hyundai_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Jang_Nam-Seok",
+            "http://dbpedia.org/resource/Daegu_FC"
+        ]
+    ]
+}

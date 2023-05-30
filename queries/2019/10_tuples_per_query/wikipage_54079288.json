@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Astrapotheria",
+            "http://dbpedia.org/resource/Hilarcotherium"
+        ],
+        [
+            "http://dbpedia.org/resource/Astrapotheria",
+            "http://dbpedia.org/resource/Granastrapotherium"
+        ],
+        [
+            "http://dbpedia.org/resource/Astrapotheria",
+            "http://dbpedia.org/resource/Xenastrapotherium"
+        ],
+        [
+            "http://dbpedia.org/resource/Pilosa",
+            "http://dbpedia.org/resource/Hapalops"
+        ],
+        [
+            "http://dbpedia.org/resource/Litopterna",
+            "http://dbpedia.org/resource/Theosodon"
+        ],
+        [
+            "http://dbpedia.org/resource/Notoungulata",
+            "http://dbpedia.org/resource/Huilatherium"
+        ],
+        [
+            "http://dbpedia.org/resource/Notoungulata",
+            "http://dbpedia.org/resource/Miocochilius"
+        ],
+        [
+            "http://dbpedia.org/resource/Sparassodonta",
+            "http://dbpedia.org/resource/Anachlysictis"
+        ],
+        [
+            "http://dbpedia.org/resource/Sparassodonta",
+            "http://dbpedia.org/resource/Dukecynus"
+        ],
+        [
+            "http://dbpedia.org/resource/Sparassodonta",
+            "http://dbpedia.org/resource/Lycopsis"
+        ]
+    ]
+}

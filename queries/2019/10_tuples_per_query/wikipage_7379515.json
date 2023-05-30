@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Sacha_Kljestan",
+            "http://dbpedia.org/resource/Chivas_USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Herculez_Gomez",
+            "http://dbpedia.org/resource/Colorado_Rapids"
+        ],
+        [
+            "http://dbpedia.org/resource/Jozy_Altidore",
+            "http://dbpedia.org/resource/New_York_Red_Bulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Taylor_Twellman",
+            "http://dbpedia.org/resource/New_England_Revolution"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Brown",
+            "http://dbpedia.org/resource/Real_Salt_Lake"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Dichio",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Brennan",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Dichio",
+            "http://dbpedia.org/resource/Toronto_FC"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Olsen",
+            "http://dbpedia.org/resource/D.C._United"
+        ],
+        [
+            "http://dbpedia.org/resource/Maykel_Galindo",
+            "http://dbpedia.org/resource/Chivas_USA"
+        ]
+    ]
+}

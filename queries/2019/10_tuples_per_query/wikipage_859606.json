@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Aosta_Valley",
+            "http://dbpedia.org/resource/2018_Molise_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Piedmont",
+            "http://dbpedia.org/resource/2014_Calabrian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Lombardy",
+            "http://dbpedia.org/resource/2018_Molise_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Tyrol",
+            "http://dbpedia.org/resource/2018_Molise_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Trentino",
+            "http://dbpedia.org/resource/2018_Molise_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Veneto",
+            "http://dbpedia.org/resource/2015_Apulian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Friuli-Venezia_Giulia",
+            "http://dbpedia.org/resource/2018_Molise_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Emilia-Romagna",
+            "http://dbpedia.org/resource/2014_Calabrian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Liguria",
+            "http://dbpedia.org/resource/2015_Apulian_regional_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Tuscany",
+            "http://dbpedia.org/resource/2015_Apulian_regional_election"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Old_Bill_and_Son",
+            "http://dbpedia.org/resource/Ian_Dalrymple"
+        ],
+        [
+            "http://dbpedia.org/resource/He_Found_a_Star",
+            "http://dbpedia.org/resource/John_Paddy_Carstairs"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Silver_Fleet",
+            "http://dbpedia.org/resource/Vernon_Sewell"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Man_in_Grey",
+            "http://dbpedia.org/resource/Leslie_Arliss"
+        ],
+        [
+            "http://dbpedia.org/resource/They_Met_in_the_Dark",
+            "http://dbpedia.org/resource/Karel_Lamac"
+        ],
+        [
+            "http://dbpedia.org/resource/Bees_in_Paradise",
+            "http://dbpedia.org/resource/Val_Guest"
+        ],
+        [
+            "http://dbpedia.org/resource/Give_Us_the_Moon",
+            "http://dbpedia.org/resource/Val_Guest"
+        ],
+        [
+            "http://dbpedia.org/resource/Two_Thousand_Women",
+            "http://dbpedia.org/resource/Frank_Launder"
+        ],
+        [
+            "http://dbpedia.org/resource/Madonna_of_the_Seven_Moons",
+            "http://dbpedia.org/resource/Arthur_Crabtree"
+        ],
+        [
+            "http://dbpedia.org/resource/They_Were_Sisters",
+            "http://dbpedia.org/resource/Arthur_Crabtree"
+        ]
+    ]
+}

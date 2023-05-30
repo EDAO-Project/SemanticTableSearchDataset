@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Julian_Edelman",
+            "http://dbpedia.org/resource/Tyler_Higbee"
+        ],
+        [
+            "http://dbpedia.org/resource/Trent_Brown",
+            "http://dbpedia.org/resource/Andrew_Whitworth"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Thuney",
+            "http://dbpedia.org/resource/Rodger_Saffold"
+        ],
+        [
+            "http://dbpedia.org/resource/Shaq_Mason",
+            "http://dbpedia.org/resource/Austin_Blythe"
+        ],
+        [
+            "http://dbpedia.org/resource/Marcus_Cannon",
+            "http://dbpedia.org/resource/Rob_Havenstein"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Brady",
+            "http://dbpedia.org/resource/Brandin_Cooks"
+        ],
+        [
+            "http://dbpedia.org/resource/Sony_Michel",
+            "http://dbpedia.org/resource/Jared_Goff"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Develin",
+            "http://dbpedia.org/resource/Todd_Gurley"
+        ],
+        [
+            "http://dbpedia.org/resource/Malcom_Brown",
+            "http://dbpedia.org/resource/Ndamukong_Suh"
+        ],
+        [
+            "http://dbpedia.org/resource/Lawrence_Guy",
+            "http://dbpedia.org/resource/Aaron_Donald"
+        ]
+    ]
+}

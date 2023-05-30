@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AB3",
+            "http://dbpedia.org/resource/AB_Groupe"
+        ],
+        [
+            "http://dbpedia.org/resource/AB4",
+            "http://dbpedia.org/resource/AB_Groupe"
+        ],
+        [
+            "http://dbpedia.org/resource/BRF_TV",
+            "http://dbpedia.org/resource/Belgischer_Rundfunk"
+        ],
+        [
+            "http://dbpedia.org/resource/Club_RTL",
+            "http://dbpedia.org/resource/RTL_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Une",
+            "http://dbpedia.org/resource/RTBF"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Deux",
+            "http://dbpedia.org/resource/RTBF"
+        ],
+        [
+            "http://dbpedia.org/resource/La_Trois",
+            "http://dbpedia.org/resource/RTBF"
+        ],
+        [
+            "http://dbpedia.org/resource/Ketnet",
+            "http://dbpedia.org/resource/Vlaamse_Radio-_en_Televisieomroep"
+        ],
+        [
+            "http://dbpedia.org/resource/RTL_TVI",
+            "http://dbpedia.org/resource/RTL_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Music_Factory",
+            "http://dbpedia.org/resource/Viacom_International_Media_Networks_Northern_Europe"
+        ]
+    ]
+}

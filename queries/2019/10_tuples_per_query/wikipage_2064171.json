@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/MTV_Select",
+            "http://dbpedia.org/resource/MTV_Central"
+        ],
+        [
+            "http://dbpedia.org/resource/Total_Request_Live",
+            "http://dbpedia.org/resource/MTV_Central"
+        ],
+        [
+            "http://dbpedia.org/resource/Life_Ball",
+            "http://dbpedia.org/resource/ORF1"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria_in_the_Eurovision_Song_Contest_2005",
+            "http://dbpedia.org/resource/ORF1"
+        ],
+        [
+            "http://dbpedia.org/resource/Dancing_on_Ice_around_the_world",
+            "http://dbpedia.org/resource/RTL_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Vienna_Opera_Ball",
+            "http://dbpedia.org/resource/ORF_eins"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria_in_the_Eurovision_Song_Contest",
+            "http://dbpedia.org/resource/ORF_eins"
+        ],
+        [
+            "http://dbpedia.org/resource/Die_Harald_Schmidt_Show",
+            "http://dbpedia.org/resource/Sky_Deutschland"
+        ],
+        [
+            "http://dbpedia.org/resource/Deutscher_Filmpreis",
+            "http://dbpedia.org/resource/ZDF"
+        ],
+        [
+            "http://dbpedia.org/resource/Austria_in_the_Eurovision_Song_Contest_2015",
+            "http://dbpedia.org/resource/ORF_eins"
+        ]
+    ]
+}

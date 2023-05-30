@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rodney_Ubbergen",
+            "http://dbpedia.org/resource/SC_Telstar"
+        ],
+        [
+            "http://dbpedia.org/resource/Marlon_Felter",
+            "http://dbpedia.org/resource/Walking_Boyz_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Gregory_Pokie",
+            "http://dbpedia.org/resource/Walking_Boyz_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Naldo_Kwasie",
+            "http://dbpedia.org/resource/S.V._Transvaal"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Olfers",
+            "http://dbpedia.org/resource/Aalborg_BK"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelvin_Maynard",
+            "http://dbpedia.org/resource/FC_Volendam"
+        ],
+        [
+            "http://dbpedia.org/resource/Hesdey_Suart",
+            "http://dbpedia.org/resource/Helmond_Sport"
+        ],
+        [
+            "http://dbpedia.org/resource/Sigourney_Bandjar",
+            "http://dbpedia.org/resource/SBV_Excelsior"
+        ],
+        [
+            "http://dbpedia.org/resource/Anduele_Pryor",
+            "http://dbpedia.org/resource/SBV_Vitesse"
+        ],
+        [
+            "http://dbpedia.org/resource/Giovanni_Drenthe",
+            "http://dbpedia.org/resource/SV_Voorwaarts,_Suriname"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/7th_Regiment_Drum_and_Bugle_Corps",
+            "http://dbpedia.org/resource/New_London,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/27th_Lancers_Drum_and_Bugle_Corps",
+            "http://dbpedia.org/resource/Revere,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/84th_Bucktail_Regiment",
+            "http://dbpedia.org/resource/Emporium,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Academy_Drum_and_Bugle_Corps",
+            "http://dbpedia.org/resource/Tempe,_Arizona"
+        ],
+        [
+            "http://dbpedia.org/resource/Anaheim_Kingsmen_Drum_and_Bugle_Corps",
+            "http://dbpedia.org/resource/Anaheim,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Arbella",
+            "http://dbpedia.org/resource/Salem,_Massachusetts"
+        ],
+        [
+            "http://dbpedia.org/resource/Argonne_Rebels",
+            "http://dbpedia.org/resource/Great_Bend,_Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Bleu_Raeders_Drum_and_Bugle_Corps",
+            "http://dbpedia.org/resource/New_Orleans,_Louisiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Blue_Devils_Drum_and_Bugle_Corps",
+            "http://dbpedia.org/resource/Concord,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Blue_Devils_Drum_and_Bugle_Corps",
+            "http://dbpedia.org/resource/Concord,_California"
+        ]
+    ]
+}

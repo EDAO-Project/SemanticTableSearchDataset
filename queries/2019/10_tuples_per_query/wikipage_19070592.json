@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Andretti",
+            "http://dbpedia.org/resource/Newman/Haas/Lanigan_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Emerson_Fittipaldi",
+            "http://dbpedia.org/resource/Penske_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Bobby_Rahal",
+            "http://dbpedia.org/resource/Rahal_Letterman_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Rick_Mears",
+            "http://dbpedia.org/resource/Penske_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Mario_Andretti",
+            "http://dbpedia.org/resource/Newman/Haas/Lanigan_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Eddie_Cheever",
+            "http://dbpedia.org/resource/Chip_Ganassi_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Pruett",
+            "http://dbpedia.org/resource/Truesports"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Goodyear",
+            "http://dbpedia.org/resource/Walker_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Danny_Sullivan",
+            "http://dbpedia.org/resource/Galles_Racing"
+        ],
+        [
+            "http://dbpedia.org/resource/Scott_Brayton",
+            "http://dbpedia.org/resource/Dick_Simon_Racing"
+        ]
+    ]
+}

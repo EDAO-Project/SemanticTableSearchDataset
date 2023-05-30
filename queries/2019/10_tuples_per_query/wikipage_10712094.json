@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/KB_Peja",
+            "http://dbpedia.org/resource/KB_Ylli"
+        ],
+        [
+            "http://dbpedia.org/resource/KB_Drita",
+            "http://dbpedia.org/resource/KB_Prishtina"
+        ],
+        [
+            "http://dbpedia.org/resource/KB_Peja",
+            "http://dbpedia.org/resource/KB_Prishtina"
+        ],
+        [
+            "http://dbpedia.org/resource/KB_Prishtina",
+            "http://dbpedia.org/resource/KB_Peja"
+        ],
+        [
+            "http://dbpedia.org/resource/KB_Prishtina",
+            "http://dbpedia.org/resource/KB_Bashkimi"
+        ],
+        [
+            "http://dbpedia.org/resource/KB_Prishtina",
+            "http://dbpedia.org/resource/KB_Peja"
+        ],
+        [
+            "http://dbpedia.org/resource/KB_Peja",
+            "http://dbpedia.org/resource/KB_Prishtina"
+        ],
+        [
+            "http://dbpedia.org/resource/KB_Prishtina",
+            "http://dbpedia.org/resource/KB_Peja"
+        ],
+        [
+            "http://dbpedia.org/resource/KB_Prishtina",
+            "http://dbpedia.org/resource/KB_Peja"
+        ],
+        [
+            "http://dbpedia.org/resource/KB_Prishtina",
+            "http://dbpedia.org/resource/KB_Peja"
+        ]
+    ]
+}

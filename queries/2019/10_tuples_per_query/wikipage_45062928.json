@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eddy_Merckx",
+            "http://dbpedia.org/resource/Molteni"
+        ],
+        [
+            "http://dbpedia.org/resource/Herman_Beysens",
+            "http://dbpedia.org/resource/Molteni"
+        ],
+        [
+            "http://dbpedia.org/resource/Ludo_Delcroix",
+            "http://dbpedia.org/resource/Molteni"
+        ],
+        [
+            "http://dbpedia.org/resource/Jos_Deschoenmaecker",
+            "http://dbpedia.org/resource/Molteni"
+        ],
+        [
+            "http://dbpedia.org/resource/Jos_Huysmans",
+            "http://dbpedia.org/resource/Molteni"
+        ],
+        [
+            "http://dbpedia.org/resource/Edward_Janssens",
+            "http://dbpedia.org/resource/Molteni"
+        ],
+        [
+            "http://dbpedia.org/resource/Marc_Lievens",
+            "http://dbpedia.org/resource/Molteni"
+        ],
+        [
+            "http://dbpedia.org/resource/Frans_Mintjens",
+            "http://dbpedia.org/resource/Molteni"
+        ],
+        [
+            "http://dbpedia.org/resource/Karel_Rottiers",
+            "http://dbpedia.org/resource/Molteni"
+        ],
+        [
+            "http://dbpedia.org/resource/Jozef_Spruyt",
+            "http://dbpedia.org/resource/Molteni"
+        ]
+    ]
+}

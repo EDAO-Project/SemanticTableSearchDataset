@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/East_Sheen",
+            "http://dbpedia.org/resource/Twickenham"
+        ],
+        [
+            "http://dbpedia.org/resource/Hammersmith",
+            "http://dbpedia.org/resource/Roehampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Kew",
+            "http://dbpedia.org/resource/Cobham,_Surrey"
+        ],
+        [
+            "http://dbpedia.org/resource/Brompton,_Kensington",
+            "http://dbpedia.org/resource/Maidenhead"
+        ],
+        [
+            "http://dbpedia.org/resource/Twickenham",
+            "http://dbpedia.org/resource/Hook,_London"
+        ],
+        [
+            "http://dbpedia.org/resource/Hampton_Wick",
+            "http://dbpedia.org/resource/Brentford"
+        ],
+        [
+            "http://dbpedia.org/resource/Hampton,_London",
+            "http://dbpedia.org/resource/Twickenham"
+        ],
+        [
+            "http://dbpedia.org/resource/Hampton,_London",
+            "http://dbpedia.org/resource/Harrow,_London"
+        ],
+        [
+            "http://dbpedia.org/resource/Hampton_Hill",
+            "http://dbpedia.org/resource/Teddington"
+        ],
+        [
+            "http://dbpedia.org/resource/Hanworth",
+            "http://dbpedia.org/resource/Hounslow"
+        ]
+    ]
+}

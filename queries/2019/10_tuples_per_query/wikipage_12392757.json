@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Yasuharu_Nanri",
+            "http://dbpedia.org/resource/Mao_Asada"
+        ],
+        [
+            "http://dbpedia.org/resource/Alexander_Uspenski",
+            "http://dbpedia.org/resource/Kim_Yuna"
+        ],
+        [
+            "http://dbpedia.org/resource/Dennis_Phan",
+            "http://dbpedia.org/resource/Nana_Takeda"
+        ],
+        [
+            "http://dbpedia.org/resource/Christopher_Mabee",
+            "http://dbpedia.org/resource/Kimmie_Meissner"
+        ],
+        [
+            "http://dbpedia.org/resource/Jamal_Othman",
+            "http://dbpedia.org/resource/Akiko_Kitamura"
+        ],
+        [
+            "http://dbpedia.org/resource/Mikhail_Magerovski",
+            "http://dbpedia.org/resource/Aki_Sawada"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryo_Shibata",
+            "http://dbpedia.org/resource/Danielle_Kahle"
+        ],
+        [
+            "http://dbpedia.org/resource/Sergei_Dobrin",
+            "http://dbpedia.org/resource/Meagan_Duhamel"
+        ],
+        [
+            "http://dbpedia.org/resource/Yannick_Ponsero",
+            "http://dbpedia.org/resource/Jane_Bugaeva"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrei_Lutai",
+            "http://dbpedia.org/resource/Katy_Taylor"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ivory_Coast",
+            "http://dbpedia.org/resource/Gagnoa"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivory_Coast",
+            "http://dbpedia.org/resource/Abidjan"
+        ],
+        [
+            "http://dbpedia.org/resource/Benin",
+            "http://dbpedia.org/resource/Cotonou"
+        ],
+        [
+            "http://dbpedia.org/resource/Benin",
+            "http://dbpedia.org/resource/Parakou"
+        ],
+        [
+            "http://dbpedia.org/resource/Benin",
+            "http://dbpedia.org/resource/Kandi,_Benin"
+        ],
+        [
+            "http://dbpedia.org/resource/Togo",
+            "http://dbpedia.org/resource/Mango,_Togo"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Accra"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Tamale,_Ghana"
+        ],
+        [
+            "http://dbpedia.org/resource/Ghana",
+            "http://dbpedia.org/resource/Kumasi"
+        ],
+        [
+            "http://dbpedia.org/resource/Cameroon",
+            "http://dbpedia.org/resource/Garoua"
+        ]
+    ]
+}

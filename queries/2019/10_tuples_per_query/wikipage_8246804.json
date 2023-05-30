@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hitchin",
+            "http://dbpedia.org/resource/Bedford"
+        ],
+        [
+            "http://dbpedia.org/resource/Hitchin",
+            "http://dbpedia.org/resource/Ware,_Hertfordshire"
+        ],
+        [
+            "http://dbpedia.org/resource/Bedford",
+            "http://dbpedia.org/resource/Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Stamford,_Lincolnshire",
+            "http://dbpedia.org/resource/West_Bridgford"
+        ],
+        [
+            "http://dbpedia.org/resource/Leicester",
+            "http://dbpedia.org/resource/Grantham"
+        ],
+        [
+            "http://dbpedia.org/resource/Newstead,_Nottinghamshire",
+            "http://dbpedia.org/resource/Derby"
+        ],
+        [
+            "http://dbpedia.org/resource/Nottingham",
+            "http://dbpedia.org/resource/Belper"
+        ],
+        [
+            "http://dbpedia.org/resource/Nottingham",
+            "http://dbpedia.org/resource/Ambergate"
+        ],
+        [
+            "http://dbpedia.org/resource/Nottingham",
+            "http://dbpedia.org/resource/Mansfield"
+        ],
+        [
+            "http://dbpedia.org/resource/Nottingham",
+            "http://dbpedia.org/resource/Newark-on-Trent"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/George_S._Graham",
+            "http://dbpedia.org/resource/1912_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/J._Hampton_Moore",
+            "http://dbpedia.org/resource/1906_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/George_W._Edmonds",
+            "http://dbpedia.org/resource/1912_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_E._Costello",
+            "http://dbpedia.org/resource/1914_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/George_P._Darrow",
+            "http://dbpedia.org/resource/1914_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_S._Butler",
+            "http://dbpedia.org/resource/1896_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Winfield_Watson",
+            "http://dbpedia.org/resource/1914_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/William_Walton_Griest",
+            "http://dbpedia.org/resource/1908_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/John_R._Farr",
+            "http://dbpedia.org/resource/1910_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_W._Templeton",
+            "http://dbpedia.org/resource/1916_United_States_House_of_Representatives_elections_in_Pennsylvania"
+        ]
+    ]
+}

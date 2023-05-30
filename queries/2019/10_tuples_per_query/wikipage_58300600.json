@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hold_Me_Down",
+            "http://dbpedia.org/resource/You_Me_at_Six"
+        ],
+        [
+            "http://dbpedia.org/resource/Unconditional:_Love_Songs",
+            "http://dbpedia.org/resource/Peter_Andre"
+        ],
+        [
+            "http://dbpedia.org/resource/Plastic_Beach",
+            "http://dbpedia.org/resource/Gorillaz"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Curious_Thing",
+            "http://dbpedia.org/resource/Amy_Macdonald"
+        ],
+        [
+            "http://dbpedia.org/resource/I_Speak_Because_I_Can",
+            "http://dbpedia.org/resource/Laura_Marling"
+        ],
+        [
+            "http://dbpedia.org/resource/Everybody_Wants_to_Be_on_TV",
+            "http://dbpedia.org/resource/Scouting_for_Girls"
+        ],
+        [
+            "http://dbpedia.org/resource/Simple_Times",
+            "http://dbpedia.org/resource/Joshua_Radin"
+        ],
+        [
+            "http://dbpedia.org/resource/Wake_Up_the_Nation",
+            "http://dbpedia.org/resource/Paul_Weller"
+        ],
+        [
+            "http://dbpedia.org/resource/Hang_Cool_Teddy_Bear",
+            "http://dbpedia.org/resource/Meat_Loaf"
+        ],
+        [
+            "http://dbpedia.org/resource/My_Best_Friend_Is_You",
+            "http://dbpedia.org/resource/Kate_Nash"
+        ]
+    ]
+}

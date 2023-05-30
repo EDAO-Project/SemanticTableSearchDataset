@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Esmaeil_Ebadi",
+            "http://dbpedia.org/resource/Archery_at_the_2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Ehsan_Haddadi",
+            "http://dbpedia.org/resource/Athletics_at_the_2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohammad_Daneshvar",
+            "http://dbpedia.org/resource/Cycling_at_the_2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Amir_Mehdizadeh",
+            "http://dbpedia.org/resource/Karate_at_the_2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Saeid_Hassanipour",
+            "http://dbpedia.org/resource/Karate_at_the_2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamideh_Abbasali",
+            "http://dbpedia.org/resource/Karate_at_the_2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohsen_Shadi",
+            "http://dbpedia.org/resource/Rowing_at_the_2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Najmeh_Khedmati",
+            "http://dbpedia.org/resource/Shooting_at_the_2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Farzan_Ashourzadeh",
+            "http://dbpedia.org/resource/Taekwondo_at_the_2014_Asian_Games"
+        ],
+        [
+            "http://dbpedia.org/resource/Behnam_Asbaghi",
+            "http://dbpedia.org/resource/Taekwondo_at_the_2014_Asian_Games"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1970_Copa_Libertadores",
+            "http://dbpedia.org/resource/Universitario"
+        ],
+        [
+            "http://dbpedia.org/resource/1970_Copa_Libertadores",
+            "http://dbpedia.org/resource/Defensor_Arica"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Copa_Libertadores",
+            "http://dbpedia.org/resource/Deportivo_Galicia"
+        ],
+        [
+            "http://dbpedia.org/resource/1975_Copa_Libertadores",
+            "http://dbpedia.org/resource/Universitario"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Copa_Libertadores",
+            "http://dbpedia.org/resource/Deportivo_Cuenca"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Copa_Libertadores",
+            "http://dbpedia.org/resource/Alianza_Lima"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Copa_Libertadores",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Copa_Libertadores",
+            "http://dbpedia.org/resource/Colo-Colo"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_Copa_Libertadores",
+            "http://dbpedia.org/resource/Cobreloa"
+        ],
+        [
+            "http://dbpedia.org/resource/1991_Copa_Libertadores",
+            "http://dbpedia.org/resource/Barcelona"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Canton_of_Aargau",
+            "http://dbpedia.org/resource/Canton_of_Nidwalden"
+        ],
+        [
+            "http://dbpedia.org/resource/Canton_of_Appenzell_Ausserrhoden",
+            "http://dbpedia.org/resource/Canton_of_Obwalden"
+        ],
+        [
+            "http://dbpedia.org/resource/Canton_of_Appenzell_Innerrhoden",
+            "http://dbpedia.org/resource/Canton_of_Schaffhausen"
+        ],
+        [
+            "http://dbpedia.org/resource/Canton_of_Basel-Landschaft",
+            "http://dbpedia.org/resource/Canton_of_Schwyz"
+        ],
+        [
+            "http://dbpedia.org/resource/Canton_of_Basel-Stadt",
+            "http://dbpedia.org/resource/Canton_of_Solothurn"
+        ],
+        [
+            "http://dbpedia.org/resource/Canton_of_Bern",
+            "http://dbpedia.org/resource/Canton_of_St._Gallen"
+        ],
+        [
+            "http://dbpedia.org/resource/Canton_of_Fribourg",
+            "http://dbpedia.org/resource/Canton_of_Thurgau"
+        ],
+        [
+            "http://dbpedia.org/resource/Canton_of_Geneva",
+            "http://dbpedia.org/resource/Canton_of_Ticino"
+        ],
+        [
+            "http://dbpedia.org/resource/Canton_of_Glarus",
+            "http://dbpedia.org/resource/Canton_of_Uri"
+        ],
+        [
+            "http://dbpedia.org/resource/Canton_of_Grisons",
+            "http://dbpedia.org/resource/Canton_of_Valais"
+        ]
+    ]
+}

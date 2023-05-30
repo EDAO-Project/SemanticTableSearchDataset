@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bath_City",
+            "http://dbpedia.org/resource/Southend_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Ipswich_Town",
+            "http://dbpedia.org/resource/A.F.C._Bournemouth"
+        ],
+        [
+            "http://dbpedia.org/resource/A.F.C._Bournemouth",
+            "http://dbpedia.org/resource/Ipswich_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Ipswich_Town",
+            "http://dbpedia.org/resource/A.F.C._Bournemouth"
+        ],
+        [
+            "http://dbpedia.org/resource/Queens_Park_Rangers",
+            "http://dbpedia.org/resource/Shrewsbury_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Shrewsbury_Town",
+            "http://dbpedia.org/resource/Queens_Park_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Queens_Park_Rangers",
+            "http://dbpedia.org/resource/Shrewsbury_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Coventry_City",
+            "http://dbpedia.org/resource/Bristol_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Scunthorpe_United",
+            "http://dbpedia.org/resource/Carlisle_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Halifax_Town",
+            "http://dbpedia.org/resource/Ashton_United"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Baaiduinen",
+            "http://dbpedia.org/resource/Terschelling"
+        ],
+        [
+            "http://dbpedia.org/resource/Baaium",
+            "http://dbpedia.org/resource/Waadhoeke"
+        ],
+        [
+            "http://dbpedia.org/resource/Bakhuizen",
+            "http://dbpedia.org/resource/De_Fryske_Marren"
+        ],
+        [
+            "http://dbpedia.org/resource/Bakkeveen",
+            "http://dbpedia.org/resource/Opsterland"
+        ],
+        [
+            "http://dbpedia.org/resource/Bantega",
+            "http://dbpedia.org/resource/De_Fryske_Marren"
+        ],
+        [
+            "http://dbpedia.org/resource/Bartlehiem",
+            "http://dbpedia.org/resource/Tietjerksteradeel"
+        ],
+        [
+            "http://dbpedia.org/resource/Beetsterzwaag",
+            "http://dbpedia.org/resource/Opsterland"
+        ],
+        [
+            "http://dbpedia.org/resource/Betterwird",
+            "http://dbpedia.org/resource/Dongeradeel"
+        ],
+        [
+            "http://dbpedia.org/resource/Blesdijke",
+            "http://dbpedia.org/resource/Weststellingwerf"
+        ],
+        [
+            "http://dbpedia.org/resource/Boekhorst",
+            "http://dbpedia.org/resource/Ooststellingwerf"
+        ]
+    ]
+}

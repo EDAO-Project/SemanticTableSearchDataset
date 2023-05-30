@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Albert_Hammond",
+            "http://dbpedia.org/resource/Queens_Park_Rangers"
+        ],
+        [
+            "http://dbpedia.org/resource/Douglas_Hunt",
+            "http://dbpedia.org/resource/Sheffield_Wednesday"
+        ],
+        [
+            "http://dbpedia.org/resource/Frank_Soo",
+            "http://dbpedia.org/resource/Stoke_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Cliff_Lloyd",
+            "http://dbpedia.org/resource/Wrexham"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Busby",
+            "http://dbpedia.org/resource/Liverpool"
+        ],
+        [
+            "http://dbpedia.org/resource/Maurice_Edelston",
+            "http://dbpedia.org/resource/Reading"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Fullwood",
+            "http://dbpedia.org/resource/Reading"
+        ],
+        [
+            "http://dbpedia.org/resource/Les_Goldberg",
+            "http://dbpedia.org/resource/Leeds_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Reg_Mountford",
+            "http://dbpedia.org/resource/Huddersfield_Town"
+        ],
+        [
+            "http://dbpedia.org/resource/Arthur_Banner",
+            "http://dbpedia.org/resource/West_Ham_United"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rebellion_Racing",
+            "http://dbpedia.org/resource/Rebellion_R-One"
+        ],
+        [
+            "http://dbpedia.org/resource/Jota_Sport",
+            "http://dbpedia.org/resource/Zytek_Z11SN"
+        ],
+        [
+            "http://dbpedia.org/resource/OAK_Racing",
+            "http://dbpedia.org/resource/Ligier_JS_P2"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Martin_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_Vantage_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/Proton_Competition",
+            "http://dbpedia.org/resource/Porsche_991"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Martin_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_Vantage_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/Aston_Martin_Racing",
+            "http://dbpedia.org/resource/Aston_Martin_Vantage_GT2"
+        ],
+        [
+            "http://dbpedia.org/resource/Prospeed_Competition",
+            "http://dbpedia.org/resource/Porsche_911_GT3"
+        ],
+        [
+            "http://dbpedia.org/resource/Rebellion_Racing",
+            "http://dbpedia.org/resource/Rebellion_R-One"
+        ],
+        [
+            "http://dbpedia.org/resource/Murphy_Prototypes",
+            "http://dbpedia.org/resource/Oreca_03"
+        ]
+    ]
+}

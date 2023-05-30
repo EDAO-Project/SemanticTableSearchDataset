@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arie_van_Houwelingen",
+            "http://dbpedia.org/resource/Sjoukje_Dijkstra"
+        ],
+        [
+            "http://dbpedia.org/resource/Eef_Kamerbeek",
+            "http://dbpedia.org/resource/Sjoukje_Dijkstra"
+        ],
+        [
+            "http://dbpedia.org/resource/Henk_Nijdam",
+            "http://dbpedia.org/resource/Sjoukje_Dijkstra"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Post",
+            "http://dbpedia.org/resource/Sjoukje_Dijkstra"
+        ],
+        [
+            "http://dbpedia.org/resource/Anton_Geesink",
+            "http://dbpedia.org/resource/Sjoukje_Dijkstra"
+        ],
+        [
+            "http://dbpedia.org/resource/Anton_Geesink",
+            "http://dbpedia.org/resource/Ada_Kok"
+        ],
+        [
+            "http://dbpedia.org/resource/Kees_Verkerk",
+            "http://dbpedia.org/resource/Stien_Kaiser"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Okker",
+            "http://dbpedia.org/resource/Maria_Gommers"
+        ],
+        [
+            "http://dbpedia.org/resource/Ard_Schenk",
+            "http://dbpedia.org/resource/Atje_Keulen-Deelstra"
+        ],
+        [
+            "http://dbpedia.org/resource/Ard_Schenk",
+            "http://dbpedia.org/resource/Ans_van_Gerwen"
+        ]
+    ]
+}

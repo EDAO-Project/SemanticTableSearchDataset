@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Michael_Michalsky",
+            "http://dbpedia.org/resource/Cologne"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Hayo",
+            "http://dbpedia.org/resource/Berg,_Thurgau"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Hayo",
+            "http://dbpedia.org/resource/Hanover"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Michalsky",
+            "http://dbpedia.org/resource/Ratzeburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Michalsky",
+            "http://dbpedia.org/resource/Ahlen"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Michalsky",
+            "http://dbpedia.org/resource/Neutraubling"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Michalsky",
+            "http://dbpedia.org/resource/Dresden"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Hayo",
+            "http://dbpedia.org/resource/Sulzbach-Rosenberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Michalsky",
+            "http://dbpedia.org/resource/Munich"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Michalsky",
+            "http://dbpedia.org/resource/Siegen"
+        ]
+    ]
+}

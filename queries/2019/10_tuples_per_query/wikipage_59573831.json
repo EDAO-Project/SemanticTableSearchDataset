@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Thank_U,_Next",
+            "http://dbpedia.org/resource/Ariana_Grande"
+        ],
+        [
+            "http://dbpedia.org/resource/Thank_U,_Next",
+            "http://dbpedia.org/resource/Ariana_Grande"
+        ],
+        [
+            "http://dbpedia.org/resource/Divinely_Uninspired_to_a_Hellish_Extent",
+            "http://dbpedia.org/resource/Lewis_Capaldi"
+        ],
+        [
+            "http://dbpedia.org/resource/Divinely_Uninspired_to_a_Hellish_Extent",
+            "http://dbpedia.org/resource/Lewis_Capaldi"
+        ],
+        [
+            "http://dbpedia.org/resource/Divinely_Uninspired_to_a_Hellish_Extent",
+            "http://dbpedia.org/resource/Lewis_Capaldi"
+        ],
+        [
+            "http://dbpedia.org/resource/Divinely_Uninspired_to_a_Hellish_Extent",
+            "http://dbpedia.org/resource/Lewis_Capaldi"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Stars",
+            "http://dbpedia.org/resource/Bruce_Springsteen"
+        ],
+        [
+            "http://dbpedia.org/resource/Western_Stars",
+            "http://dbpedia.org/resource/Bruce_Springsteen"
+        ],
+        [
+            "http://dbpedia.org/resource/Divinely_Uninspired_to_a_Hellish_Extent",
+            "http://dbpedia.org/resource/Lewis_Capaldi"
+        ],
+        [
+            "http://dbpedia.org/resource/No.6_Collaborations_Project",
+            "http://dbpedia.org/resource/Ed_Sheeran"
+        ]
+    ]
+}

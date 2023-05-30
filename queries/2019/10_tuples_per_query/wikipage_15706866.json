@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Shaka_Laka_Boom_Boom",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kkusum",
+            "http://dbpedia.org/resource/Sony_Entertainment_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Kkoi_Dil_Mein_Hai",
+            "http://dbpedia.org/resource/Sony_Entertainment_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyaa_Hoga_Nimmo_Kaa",
+            "http://dbpedia.org/resource/STAR_One"
+        ],
+        [
+            "http://dbpedia.org/resource/Kahaani_Ghar_Ghar_Kii",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kahin_To_Hoga",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Zara_Nachke_Dikha",
+            "http://dbpedia.org/resource/STAR_One"
+        ],
+        [
+            "http://dbpedia.org/resource/Dekh_India_Dekh",
+            "http://dbpedia.org/resource/Sony_Entertainment_Television"
+        ],
+        [
+            "http://dbpedia.org/resource/List_of_programs_broadcast_by_STAR_One",
+            "http://dbpedia.org/resource/STAR_One"
+        ],
+        [
+            "http://dbpedia.org/resource/Comedy_Circus_3",
+            "http://dbpedia.org/resource/Sony_Entertainment_Television"
+        ]
+    ]
+}

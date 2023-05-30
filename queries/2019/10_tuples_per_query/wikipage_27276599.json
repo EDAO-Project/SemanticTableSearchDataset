@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/SC_Schiltigheim",
+            "http://dbpedia.org/resource/FC_Mulhouse"
+        ],
+        [
+            "http://dbpedia.org/resource/SR_Colmar",
+            "http://dbpedia.org/resource/Jarville_JF"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Forbach",
+            "http://dbpedia.org/resource/AS_Illzach_Modenheim"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Istres",
+            "http://dbpedia.org/resource/SC_Bastia"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Pont-de-Roide",
+            "http://dbpedia.org/resource/FC_Villefranche"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Marignane",
+            "http://dbpedia.org/resource/AS_Furiani-Agliani"
+        ],
+        [
+            "http://dbpedia.org/resource/Grenoble_Foot_38",
+            "http://dbpedia.org/resource/FC_Bagnols_Pont"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Vaulx-en-Velin",
+            "http://dbpedia.org/resource/AS_Valence"
+        ],
+        [
+            "http://dbpedia.org/resource/Aurillac_FCA",
+            "http://dbpedia.org/resource/La_Roche_VF"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Gueugnon",
+            "http://dbpedia.org/resource/AS_Yzeure"
+        ]
+    ]
+}

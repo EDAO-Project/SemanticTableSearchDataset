@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2004_Fed_Cup_Europe/Africa_Zone",
+            "http://dbpedia.org/resource/Kaia_Kanepi"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Fed_Cup_Europe/Africa_Zone",
+            "http://dbpedia.org/resource/Eleni_Daniilidou"
+        ],
+        [
+            "http://dbpedia.org/resource/2004_Fed_Cup_Europe/Africa_Zone",
+            "http://dbpedia.org/resource/Klaudia_Jans-Ignacik"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Fed_Cup_Europe/Africa_Zone",
+            "http://dbpedia.org/resource/Chanelle_Scheepers"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Fed_Cup_World_Group_II",
+            "http://dbpedia.org/resource/Akiko_Morigami"
+        ],
+        [
+            "http://dbpedia.org/resource/2005_Fed_Cup_World_Group_II",
+            "http://dbpedia.org/resource/Aiko_Nakamura"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Fed_Cup",
+            "http://dbpedia.org/resource/Chang_Kai-chen"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Fed_Cup",
+            "http://dbpedia.org/resource/Suchanan_Viratprasert"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Fed_Cup",
+            "http://dbpedia.org/resource/Nigina_Abduraimova"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Fed_Cup_Asia/Oceania_Zone",
+            "http://dbpedia.org/resource/Chan_Chin-wei"
+        ]
+    ]
+}

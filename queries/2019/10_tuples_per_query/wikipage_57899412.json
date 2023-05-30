@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Simon_Magakwe",
+            "http://dbpedia.org/resource/100_m"
+        ],
+        [
+            "http://dbpedia.org/resource/Luxolo_Adams",
+            "http://dbpedia.org/resource/200_m"
+        ],
+        [
+            "http://dbpedia.org/resource/Derrick_Mokaleng",
+            "http://dbpedia.org/resource/400_m"
+        ],
+        [
+            "http://dbpedia.org/resource/Rynardt_van_Rensburg",
+            "http://dbpedia.org/resource/800_m"
+        ],
+        [
+            "http://dbpedia.org/resource/Antonio_Alkana",
+            "http://dbpedia.org/resource/110_m_hurdles"
+        ],
+        [
+            "http://dbpedia.org/resource/Lindsay_Hanekom",
+            "http://dbpedia.org/resource/400_m_hurdles"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Moleya",
+            "http://dbpedia.org/resource/High_jump"
+        ],
+        [
+            "http://dbpedia.org/resource/Luvo_Manyonga",
+            "http://dbpedia.org/resource/Long_jump"
+        ],
+        [
+            "http://dbpedia.org/resource/Godfrey_Khotso_Mokoena",
+            "http://dbpedia.org/resource/Triple_jump"
+        ],
+        [
+            "http://dbpedia.org/resource/Orazio_Cremona",
+            "http://dbpedia.org/resource/Shot_put"
+        ]
+    ]
+}

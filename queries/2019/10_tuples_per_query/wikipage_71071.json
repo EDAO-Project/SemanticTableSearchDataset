@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bingham_High_School",
+            "http://dbpedia.org/resource/South_Jordan,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Copper_Hills_High_School",
+            "http://dbpedia.org/resource/West_Jordan,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Corner_Canyon_High_School",
+            "http://dbpedia.org/resource/Draper,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Cyprus_High_School",
+            "http://dbpedia.org/resource/Magna,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Herriman_High_School",
+            "http://dbpedia.org/resource/Herriman,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Hunter_High_School",
+            "http://dbpedia.org/resource/West_Valley_City,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Kearns_High_School",
+            "http://dbpedia.org/resource/Kearns,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Olympus_High_School",
+            "http://dbpedia.org/resource/Holladay,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Taylorsville_High_School",
+            "http://dbpedia.org/resource/Taylorsville,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Jordan_High_School",
+            "http://dbpedia.org/resource/West_Jordan,_Utah"
+        ]
+    ]
+}

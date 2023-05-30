@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern",
+            "http://dbpedia.org/resource/MSV_Duisburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Karlsruher_SC",
+            "http://dbpedia.org/resource/SC_Freiburg"
+        ],
+        [
+            "http://dbpedia.org/resource/Alemannia_Aachen",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/Heidenheimer_SB",
+            "http://dbpedia.org/resource/Hertha_BSC"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamburger_SV",
+            "http://dbpedia.org/resource/FC_1908_Villingen"
+        ],
+        [
+            "http://dbpedia.org/resource/Eintracht_Frankfurt",
+            "http://dbpedia.org/resource/BSK_Neugablonz"
+        ],
+        [
+            "http://dbpedia.org/resource/Borussia_Dortmund",
+            "http://dbpedia.org/resource/Bremer_SV"
+        ],
+        [
+            "http://dbpedia.org/resource/VfL_Wolfsburg",
+            "http://dbpedia.org/resource/VfB_Stuttgart"
+        ],
+        [
+            "http://dbpedia.org/resource/Sportfreunde_Eisbachtal",
+            "http://dbpedia.org/resource/FC_Schalke_04"
+        ],
+        [
+            "http://dbpedia.org/resource/Eintracht_Trier",
+            "http://dbpedia.org/resource/Wuppertaler_SV_Borussia_II"
+        ]
+    ]
+}

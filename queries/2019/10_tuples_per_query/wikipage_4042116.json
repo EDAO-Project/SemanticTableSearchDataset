@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toronto_Aura_Lee",
+            "http://dbpedia.org/resource/Ontario_Hockey_Association"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_St._Patricks",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_St._Patricks",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_St._Patricks",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_St._Patricks",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_St._Patricks",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Toronto_Maple_Leafs",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/NHL"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Rangers",
+            "http://dbpedia.org/resource/NHL"
+        ]
+    ]
+}

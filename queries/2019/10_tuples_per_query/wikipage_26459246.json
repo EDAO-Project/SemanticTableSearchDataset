@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Toledo,_Ohio",
+            "http://dbpedia.org/resource/Toledo_Sports_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Wheeling,_West_Virginia",
+            "http://dbpedia.org/resource/Wheeling_Civic_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Hampton,_Virginia",
+            "http://dbpedia.org/resource/Hampton_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Haven,_Connecticut",
+            "http://dbpedia.org/resource/New_Haven_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/New_Haven,_Connecticut",
+            "http://dbpedia.org/resource/New_Haven_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Springfield,_Massachusetts",
+            "http://dbpedia.org/resource/Springfield_Civic_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland,_Oregon",
+            "http://dbpedia.org/resource/Cumberland_County_Civic_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Landover,_Maryland",
+            "http://dbpedia.org/resource/Capital_Centre"
+        ],
+        [
+            "http://dbpedia.org/resource/Richfield,_Ohio",
+            "http://dbpedia.org/resource/Richfield_Coliseum"
+        ],
+        [
+            "http://dbpedia.org/resource/Kalamazoo,_Michigan",
+            "http://dbpedia.org/resource/Wings_Stadium"
+        ]
+    ]
+}

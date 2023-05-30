@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Premaloka",
+            "http://dbpedia.org/resource/Hamsalekha"
+        ],
+        [
+            "http://dbpedia.org/resource/Swayamkrushi",
+            "http://dbpedia.org/resource/Ramesh_Naidu"
+        ],
+        [
+            "http://dbpedia.org/resource/Srinivasa_Kalyanam",
+            "http://dbpedia.org/resource/K._V._Mahadevan"
+        ],
+        [
+            "http://dbpedia.org/resource/Trimurtulu",
+            "http://dbpedia.org/resource/Bappi_Lahiri"
+        ],
+        [
+            "http://dbpedia.org/resource/Muthyamantha_Muddu",
+            "http://dbpedia.org/resource/Hamsalekha"
+        ],
+        [
+            "http://dbpedia.org/resource/Muddula_Menalludu",
+            "http://dbpedia.org/resource/K._V._Mahadevan"
+        ],
+        [
+            "http://dbpedia.org/resource/Nari_Nari_Naduma_Murari",
+            "http://dbpedia.org/resource/K._V._Mahadevan"
+        ],
+        [
+            "http://dbpedia.org/resource/Gang_Leader",
+            "http://dbpedia.org/resource/Bappi_Lahiri"
+        ],
+        [
+            "http://dbpedia.org/resource/Rowdy_Alludu",
+            "http://dbpedia.org/resource/Bappi_Lahiri"
+        ],
+        [
+            "http://dbpedia.org/resource/Jaitra_Yatra",
+            "http://dbpedia.org/resource/S._P._Balasubrahmanyam"
+        ]
+    ]
+}

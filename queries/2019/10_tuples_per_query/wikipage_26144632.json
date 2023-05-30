@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Token_Homemate_Cup",
+            "http://dbpedia.org/resource/Mie_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Crowns",
+            "http://dbpedia.org/resource/Aichi_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan_PGA_Championship_Nissin_Cupnoodle_Cup",
+            "http://dbpedia.org/resource/Nagasaki_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Diamond_Cup_Golf",
+            "http://dbpedia.org/resource/Saitama_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Japan_Golf_Tour_Championship_Citibank_Cup_Shishido_Hills",
+            "http://dbpedia.org/resource/Ibaraki_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Toshin_Golf_Tournament_in_LakeWood",
+            "http://dbpedia.org/resource/Mie_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Championship_by_Lexus",
+            "http://dbpedia.org/resource/Ibaraki_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansai_Open",
+            "http://dbpedia.org/resource/Kyoto_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Vana_H_Cup_KBC_Augusta",
+            "http://dbpedia.org/resource/Fukuoka_Prefecture"
+        ],
+        [
+            "http://dbpedia.org/resource/Fujisankei_Classic",
+            "http://dbpedia.org/resource/Yamanashi_Prefecture"
+        ]
+    ]
+}

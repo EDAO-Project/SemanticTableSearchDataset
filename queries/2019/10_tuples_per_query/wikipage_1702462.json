@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jejudo",
+            "http://dbpedia.org/resource/Jeju_Province"
+        ],
+        [
+            "http://dbpedia.org/resource/Geojedo",
+            "http://dbpedia.org/resource/Geoje"
+        ],
+        [
+            "http://dbpedia.org/resource/Ganghwado",
+            "http://dbpedia.org/resource/Ganghwa_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Namhaedo",
+            "http://dbpedia.org/resource/Namhae_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Anmyeondo",
+            "http://dbpedia.org/resource/Taean_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Yeongjongdo",
+            "http://dbpedia.org/resource/Jung_District,_Incheon"
+        ],
+        [
+            "http://dbpedia.org/resource/Ulleungdo",
+            "http://dbpedia.org/resource/Ulleung_County"
+        ],
+        [
+            "http://dbpedia.org/resource/Dolsando",
+            "http://dbpedia.org/resource/Yeosu"
+        ],
+        [
+            "http://dbpedia.org/resource/Baengnyeongdo",
+            "http://dbpedia.org/resource/Ongjin_County,_Incheon"
+        ],
+        [
+            "http://dbpedia.org/resource/Amtaedo",
+            "http://dbpedia.org/resource/Sinan_County,_South_Jeolla"
+        ]
+    ]
+}

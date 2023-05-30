@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Andrew_Higginson",
+            "http://dbpedia.org/resource/Nigel_Bond"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerard_Greene",
+            "http://dbpedia.org/resource/Jimmy_White"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Ebdon",
+            "http://dbpedia.org/resource/James_Wattana"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Woollaston",
+            "http://dbpedia.org/resource/Chris_Wakelin"
+        ],
+        [
+            "http://dbpedia.org/resource/Robbie_Williams",
+            "http://dbpedia.org/resource/Gareth_Allen"
+        ],
+        [
+            "http://dbpedia.org/resource/Mark_Joyce",
+            "http://dbpedia.org/resource/Zak_Surety"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Georgiou",
+            "http://dbpedia.org/resource/Noppon_Saengkham"
+        ],
+        [
+            "http://dbpedia.org/resource/Graeme_Dott",
+            "http://dbpedia.org/resource/Brandon_Sargeant"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Milkins",
+            "http://dbpedia.org/resource/Cheung_Ka_Wai"
+        ],
+        [
+            "http://dbpedia.org/resource/Kurt_Maflin",
+            "http://dbpedia.org/resource/Sanderson_Lam"
+        ]
+    ]
+}

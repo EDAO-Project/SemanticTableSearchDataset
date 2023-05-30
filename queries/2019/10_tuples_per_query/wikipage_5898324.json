@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Pittsburgh_Force",
+            "http://dbpedia.org/resource/Home_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Dayton_Diamonds",
+            "http://dbpedia.org/resource/Home_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Pittsburgh_Force",
+            "http://dbpedia.org/resource/Home_team"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Michigan_Mayhem",
+            "http://dbpedia.org/resource/Home_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Sizzle",
+            "http://dbpedia.org/resource/Home_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Kentucky_Karma",
+            "http://dbpedia.org/resource/Home_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Dayton_Diamonds",
+            "http://dbpedia.org/resource/Home_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Toledo_Reign",
+            "http://dbpedia.org/resource/Home_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Baltimore_Burn",
+            "http://dbpedia.org/resource/Home_team"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Liberty_Belles",
+            "http://dbpedia.org/resource/Home_team"
+        ]
+    ]
+}

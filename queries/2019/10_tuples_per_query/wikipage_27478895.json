@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ilkka_Heikkinen",
+            "http://dbpedia.org/resource/HC_Sibir_Novosibirsk"
+        ],
+        [
+            "http://dbpedia.org/resource/P._A._Parenteau",
+            "http://dbpedia.org/resource/New_York_Islanders"
+        ],
+        [
+            "http://dbpedia.org/resource/Jody_Shelley",
+            "http://dbpedia.org/resource/Philadelphia_Flyers"
+        ],
+        [
+            "http://dbpedia.org/resource/Alex_Auld",
+            "http://dbpedia.org/resource/Montreal_Canadiens"
+        ],
+        [
+            "http://dbpedia.org/resource/Olli_Jokinen",
+            "http://dbpedia.org/resource/Calgary_Flames"
+        ],
+        [
+            "http://dbpedia.org/resource/Corey_Locke",
+            "http://dbpedia.org/resource/Ottawa_Senators"
+        ],
+        [
+            "http://dbpedia.org/resource/Corey_Potter",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins"
+        ],
+        [
+            "http://dbpedia.org/resource/Steve_Valiquette",
+            "http://dbpedia.org/resource/HC_CSKA_Moscow"
+        ],
+        [
+            "http://dbpedia.org/resource/Matt_Zaba",
+            "http://dbpedia.org/resource/Bolzano-Bozen_Foxes"
+        ],
+        [
+            "http://dbpedia.org/resource/Enver_Lisin",
+            "http://dbpedia.org/resource/Magnitogorsk_Metallurg"
+        ]
+    ]
+}

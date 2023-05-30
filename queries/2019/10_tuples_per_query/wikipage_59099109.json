@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/B._Avant_Edenfield",
+            "http://dbpedia.org/resource/Statesboro,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Ford_Spinks",
+            "http://dbpedia.org/resource/Tifton,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Julian_Webb",
+            "http://dbpedia.org/resource/Donalsonville,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Jimmy_Carter",
+            "http://dbpedia.org/resource/Plains,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Roy_Noble",
+            "http://dbpedia.org/resource/Vienna,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Hugh_Gillis",
+            "http://dbpedia.org/resource/Soperton,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Robert_Smalley",
+            "http://dbpedia.org/resource/Griffin,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Standish_Thompson",
+            "http://dbpedia.org/resource/East_Point,_Georgia"
+        ],
+        [
+            "http://dbpedia.org/resource/Horace_Ward",
+            "http://dbpedia.org/resource/Atlanta"
+        ],
+        [
+            "http://dbpedia.org/resource/Gene_Sanders",
+            "http://dbpedia.org/resource/Tucker,_Georgia"
+        ]
+    ]
+}

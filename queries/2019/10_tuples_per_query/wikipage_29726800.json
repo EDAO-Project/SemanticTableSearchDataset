@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/CRB_Ain_Turk",
+            "http://dbpedia.org/resource/Oran"
+        ],
+        [
+            "http://dbpedia.org/resource/IRB_Maghnia",
+            "http://dbpedia.org/resource/Maghnia"
+        ],
+        [
+            "http://dbpedia.org/resource/IS_Tighennif",
+            "http://dbpedia.org/resource/Tighennif"
+        ],
+        [
+            "http://dbpedia.org/resource/RC_Relizane",
+            "http://dbpedia.org/resource/Relizane"
+        ],
+        [
+            "http://dbpedia.org/resource/RCB_Oued_Rhiou",
+            "http://dbpedia.org/resource/Oued_Rhiou"
+        ],
+        [
+            "http://dbpedia.org/resource/OM_Arzew",
+            "http://dbpedia.org/resource/Arzew"
+        ],
+        [
+            "http://dbpedia.org/resource/USMM_Hadjout",
+            "http://dbpedia.org/resource/Hadjout"
+        ],
+        [
+            "http://dbpedia.org/resource/US_Remchi",
+            "http://dbpedia.org/resource/Remchi"
+        ],
+        [
+            "http://dbpedia.org/resource/WA_Boufarik",
+            "http://dbpedia.org/resource/Boufarik"
+        ],
+        [
+            "http://dbpedia.org/resource/WA_Mostaganem",
+            "http://dbpedia.org/resource/Mostaganem"
+        ]
+    ]
+}

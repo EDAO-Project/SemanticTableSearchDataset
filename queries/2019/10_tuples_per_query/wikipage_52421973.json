@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/2010_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/Alicia_Keys"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/El_DeBarge"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/Fantasia_Barrino"
+        ],
+        [
+            "http://dbpedia.org/resource/2010_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/R._Kelly"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/Marsha_Ambrosius"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/Adele"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/Raphael_Saadiq"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/R._Kelly"
+        ],
+        [
+            "http://dbpedia.org/resource/2012_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/Nas"
+        ],
+        [
+            "http://dbpedia.org/resource/2013_Soul_Train_Music_Awards",
+            "http://dbpedia.org/resource/Tamar_Braxton"
+        ]
+    ]
+}

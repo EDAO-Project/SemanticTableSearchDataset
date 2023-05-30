@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ballarat",
+            "http://dbpedia.org/resource/Trams_in_Ballarat"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballarat",
+            "http://dbpedia.org/resource/Trams_in_Ballarat"
+        ],
+        [
+            "http://dbpedia.org/resource/Ballarat",
+            "http://dbpedia.org/resource/Ballarat_Tramway_Museum"
+        ],
+        [
+            "http://dbpedia.org/resource/Bendigo",
+            "http://dbpedia.org/resource/Trams_in_Bendigo"
+        ],
+        [
+            "http://dbpedia.org/resource/Bendigo",
+            "http://dbpedia.org/resource/Trams_in_Bendigo"
+        ],
+        [
+            "http://dbpedia.org/resource/Bendigo",
+            "http://dbpedia.org/resource/Trams_in_Bendigo"
+        ],
+        [
+            "http://dbpedia.org/resource/Geelong",
+            "http://dbpedia.org/resource/Trams_in_Geelong"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Trams_in_Melbourne"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Trams_in_Melbourne"
+        ],
+        [
+            "http://dbpedia.org/resource/Melbourne",
+            "http://dbpedia.org/resource/Trams_in_Melbourne"
+        ]
+    ]
+}

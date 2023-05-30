@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Columbus_Red_Birds",
+            "http://dbpedia.org/resource/Minneapolis_Millers"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus_Red_Birds",
+            "http://dbpedia.org/resource/Minneapolis_Millers"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus_Red_Birds",
+            "http://dbpedia.org/resource/Toledo_Mud_Hens"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus_Red_Birds",
+            "http://dbpedia.org/resource/Indianapolis_Indians"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus_Red_Birds",
+            "http://dbpedia.org/resource/Indianapolis_Indians"
+        ],
+        [
+            "http://dbpedia.org/resource/Minneapolis_Millers",
+            "http://dbpedia.org/resource/Omaha_Cardinals"
+        ],
+        [
+            "http://dbpedia.org/resource/Indianapolis_Indians",
+            "http://dbpedia.org/resource/Denver_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Minneapolis_Millers",
+            "http://dbpedia.org/resource/Denver_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Omaha_Royals",
+            "http://dbpedia.org/resource/Denver_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Denver_Bears",
+            "http://dbpedia.org/resource/Indianapolis_Indians"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/American_Idol",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Saturday_Night_Live",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Idol",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Saturday_Night_Live",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Idol",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Saturday_Night_Live",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/Saturday_Night_Live",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Tonight_Show_Starring_Jimmy_Fallon",
+            "http://dbpedia.org/resource/NBC"
+        ],
+        [
+            "http://dbpedia.org/resource/American_Idol",
+            "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+        ],
+        [
+            "http://dbpedia.org/resource/Late_Show_with_David_Letterman",
+            "http://dbpedia.org/resource/CBS"
+        ]
+    ]
+}

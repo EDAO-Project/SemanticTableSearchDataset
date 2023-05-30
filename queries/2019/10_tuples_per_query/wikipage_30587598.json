@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Torpedo_Ust-Kamenogorsk",
+            "http://dbpedia.org/resource/Soviet_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Ceske_Budejovice",
+            "http://dbpedia.org/resource/Czech_Extraliga"
+        ],
+        [
+            "http://dbpedia.org/resource/Metallurg_Magnitogorsk",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/Metallurg_Magnitogorsk",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/Metallurg_Magnitogorsk",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Lada_Togliatti",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/Severstal_Cherepovets",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/Metallurg_Novokuznetsk",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/Avangard_Omsk",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ],
+        [
+            "http://dbpedia.org/resource/HC_Sibir_Novosibirsk",
+            "http://dbpedia.org/resource/Russian_Superleague"
+        ]
+    ]
+}

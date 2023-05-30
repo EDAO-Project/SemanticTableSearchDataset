@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Buller_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Westport,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/East_Coast_Rugby_Union",
+            "http://dbpedia.org/resource/Ruatoria"
+        ],
+        [
+            "http://dbpedia.org/resource/Horowhenua-Kapiti_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Levin,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/King_Country_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Te_Kuiti"
+        ],
+        [
+            "http://dbpedia.org/resource/Mid_Canterbury_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Ashburton,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Otago_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Oamaru"
+        ],
+        [
+            "http://dbpedia.org/resource/Poverty_Bay_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Gisborne,_New_Zealand"
+        ],
+        [
+            "http://dbpedia.org/resource/South_Canterbury_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Timaru"
+        ],
+        [
+            "http://dbpedia.org/resource/Thames_Valley_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Paeroa"
+        ],
+        [
+            "http://dbpedia.org/resource/Wairarapa_Bush_Rugby_Football_Union",
+            "http://dbpedia.org/resource/Masterton,_New_Zealand"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/THX_1138",
+            "http://dbpedia.org/resource/WorldFest-Houston_International_Film_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Apocalypse_Now",
+            "http://dbpedia.org/resource/International_Federation_of_Film_Critics"
+        ],
+        [
+            "http://dbpedia.org/resource/Apocalypse_Now",
+            "http://dbpedia.org/resource/David_di_Donatello_for_Best_Foreign_Film"
+        ],
+        [
+            "http://dbpedia.org/resource/Apocalypse_Now",
+            "http://dbpedia.org/resource/London_Film_Critics_Circle_Award_for_Best_Film"
+        ],
+        [
+            "http://dbpedia.org/resource/Apocalypse_Now",
+            "http://dbpedia.org/resource/Grammy_Award_for_Best_Score_Soundtrack_Album_for_a_Motion_Picture,_Television_or_Other_Visual_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/Kagemusha",
+            "http://dbpedia.org/resource/David_di_Donatello"
+        ],
+        [
+            "http://dbpedia.org/resource/Gardens_of_Stone",
+            "http://dbpedia.org/resource/15th_Moscow_International_Film_Festival"
+        ],
+        [
+            "http://dbpedia.org/resource/Gardens_of_Stone",
+            "http://dbpedia.org/resource/Political_Film_Society_Award_for_Peace"
+        ],
+        [
+            "http://dbpedia.org/resource/Faerie_Tale_Theatre",
+            "http://dbpedia.org/resource/CableACE_Award"
+        ],
+        [
+            "http://dbpedia.org/resource/Tetro",
+            "http://dbpedia.org/resource/International_Confederation_of_Art_Cinemas"
+        ]
+    ]
+}

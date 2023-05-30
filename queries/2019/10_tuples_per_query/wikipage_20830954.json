@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gianluigi_Buffon",
+            "http://dbpedia.org/resource/Juventus"
+        ],
+        [
+            "http://dbpedia.org/resource/Ronaldinho",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Miroslav_Klose",
+            "http://dbpedia.org/resource/Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Pirlo",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Deco",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Gennaro_Gattuso",
+            "http://dbpedia.org/resource/Milan"
+        ],
+        [
+            "http://dbpedia.org/resource/Cristiano_Ronaldo",
+            "http://dbpedia.org/resource/Manchester_United"
+        ],
+        [
+            "http://dbpedia.org/resource/Carles_Puyol",
+            "http://dbpedia.org/resource/Barcelona"
+        ],
+        [
+            "http://dbpedia.org/resource/Juninho_Pernambucano",
+            "http://dbpedia.org/resource/Lyon"
+        ],
+        [
+            "http://dbpedia.org/resource/Lionel_Messi",
+            "http://dbpedia.org/resource/Barcelona"
+        ]
+    ]
+}

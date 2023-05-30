@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Human",
+            "http://dbpedia.org/resource/Hominidae"
+        ],
+        [
+            "http://dbpedia.org/resource/Philippine_tarsier",
+            "http://dbpedia.org/resource/Tarsier"
+        ],
+        [
+            "http://dbpedia.org/resource/Gray_mouse_lemur",
+            "http://dbpedia.org/resource/Lemuriformes"
+        ],
+        [
+            "http://dbpedia.org/resource/Yellow-bellied_marmot",
+            "http://dbpedia.org/resource/Rodent"
+        ],
+        [
+            "http://dbpedia.org/resource/Sea_otter",
+            "http://dbpedia.org/resource/Carnivora"
+        ],
+        [
+            "http://dbpedia.org/resource/West_Indian_manatee",
+            "http://dbpedia.org/resource/Placentalia"
+        ],
+        [
+            "http://dbpedia.org/resource/Common_wombat",
+            "http://dbpedia.org/resource/Marsupial"
+        ],
+        [
+            "http://dbpedia.org/resource/South_African_ostrich",
+            "http://dbpedia.org/resource/Bird"
+        ],
+        [
+            "http://dbpedia.org/resource/Bald_eagle",
+            "http://dbpedia.org/resource/Bird"
+        ],
+        [
+            "http://dbpedia.org/resource/Nanorana",
+            "http://dbpedia.org/resource/Amphibian"
+        ]
+    ]
+}

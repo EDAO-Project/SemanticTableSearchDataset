@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chiwan_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Shekou_Port_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Sea_World_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Shuiwan_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Dongjiaotou_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Wanxia_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Haiyue_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Dengliang_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Houhai_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ],
+        [
+            "http://dbpedia.org/resource/Keyuan_station",
+            "http://dbpedia.org/resource/Nanshan_District,_Shenzhen"
+        ]
+    ]
+}

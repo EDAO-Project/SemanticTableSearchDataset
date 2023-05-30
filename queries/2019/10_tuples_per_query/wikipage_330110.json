@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Corsica",
+            "http://dbpedia.org/resource/Mediterranean_Sea"
+        ],
+        [
+            "http://dbpedia.org/resource/Grande-Terre",
+            "http://dbpedia.org/resource/Kerguelen_Islands"
+        ],
+        [
+            "http://dbpedia.org/resource/Lifou",
+            "http://dbpedia.org/resource/New_Caledonia"
+        ],
+        [
+            "http://dbpedia.org/resource/Tahiti",
+            "http://dbpedia.org/resource/French_Polynesia"
+        ],
+        [
+            "http://dbpedia.org/resource/Basse-Terre_Island",
+            "http://dbpedia.org/resource/Guadeloupe"
+        ],
+        [
+            "http://dbpedia.org/resource/Grande-Terre",
+            "http://dbpedia.org/resource/Guadeloupe"
+        ],
+        [
+            "http://dbpedia.org/resource/Nuku_Hiva",
+            "http://dbpedia.org/resource/French_Polynesia"
+        ],
+        [
+            "http://dbpedia.org/resource/Hiva_Oa",
+            "http://dbpedia.org/resource/French_Polynesia"
+        ],
+        [
+            "http://dbpedia.org/resource/Miquelon_Island",
+            "http://dbpedia.org/resource/Saint-Pierre-et-Miquelon"
+        ],
+        [
+            "http://dbpedia.org/resource/Raiatea",
+            "http://dbpedia.org/resource/French_Polynesia"
+        ]
+    ]
+}

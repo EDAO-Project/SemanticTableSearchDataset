@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/AKM",
+            "http://dbpedia.org/resource/Assault_Rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Kbs_wz._1996_Beryl",
+            "http://dbpedia.org/resource/Assault_Rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Pallad_grenade_launcher",
+            "http://dbpedia.org/resource/Grenade_Launcher"
+        ],
+        [
+            "http://dbpedia.org/resource/SVD_rifle",
+            "http://dbpedia.org/resource/Sniper_Rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/Sako_TRG",
+            "http://dbpedia.org/resource/Sniper_Rifle"
+        ],
+        [
+            "http://dbpedia.org/resource/PK_machine_gun",
+            "http://dbpedia.org/resource/General_Purpose_Machine_Gun"
+        ],
+        [
+            "http://dbpedia.org/resource/UKM-2000",
+            "http://dbpedia.org/resource/General_Purpose_Machine_Gun"
+        ],
+        [
+            "http://dbpedia.org/resource/CZ_Scorpion_Evo_3",
+            "http://dbpedia.org/resource/Submachine_Gun"
+        ],
+        [
+            "http://dbpedia.org/resource/Heckler_&_Koch_MP5",
+            "http://dbpedia.org/resource/Submachine_Gun"
+        ],
+        [
+            "http://dbpedia.org/resource/FN_P90",
+            "http://dbpedia.org/resource/Submachine_Gun"
+        ]
+    ]
+}

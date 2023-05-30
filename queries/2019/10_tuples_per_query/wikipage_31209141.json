@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Ichihara_Seaside_Stadium",
+            "http://dbpedia.org/resource/Kyoto_Purple_Sanga"
+        ],
+        [
+            "http://dbpedia.org/resource/Kobe_Universiade_Memorial_Stadium",
+            "http://dbpedia.org/resource/Vissel_Kobe"
+        ],
+        [
+            "http://dbpedia.org/resource/Ichihara_Seaside_Stadium",
+            "http://dbpedia.org/resource/Yokohama_F._Marinos"
+        ],
+        [
+            "http://dbpedia.org/resource/Ichihara_Seaside_Stadium",
+            "http://dbpedia.org/resource/Shimizu_S-Pulse"
+        ],
+        [
+            "http://dbpedia.org/resource/Matsumoto_Stadium",
+            "http://dbpedia.org/resource/Nagoya_Grampus_Eight"
+        ],
+        [
+            "http://dbpedia.org/resource/Ichihara_Seaside_Stadium",
+            "http://dbpedia.org/resource/Sanfrecce_Hiroshima"
+        ],
+        [
+            "http://dbpedia.org/resource/Sendai_Stadium",
+            "http://dbpedia.org/resource/Vegalta_Sendai"
+        ],
+        [
+            "http://dbpedia.org/resource/Ajinomoto_Stadium",
+            "http://dbpedia.org/resource/Tokyo_Verdy_1969"
+        ],
+        [
+            "http://dbpedia.org/resource/Ichihara_Seaside_Stadium",
+            "http://dbpedia.org/resource/Consadole_Sapporo"
+        ],
+        [
+            "http://dbpedia.org/resource/Hitachi_Kashiwa_Soccer_Stadium",
+            "http://dbpedia.org/resource/Kashiwa_Reysol"
+        ]
+    ]
+}

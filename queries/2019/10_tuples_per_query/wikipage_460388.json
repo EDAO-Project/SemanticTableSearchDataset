@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1982_Yukon_general_election",
+            "http://dbpedia.org/resource/Tony_Penikett"
+        ],
+        [
+            "http://dbpedia.org/resource/1985_Yukon_general_election",
+            "http://dbpedia.org/resource/Tony_Penikett"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_Yukon_general_election",
+            "http://dbpedia.org/resource/Tony_Penikett"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_Yukon_general_election",
+            "http://dbpedia.org/resource/Tony_Penikett"
+        ],
+        [
+            "http://dbpedia.org/resource/1996_Yukon_general_election",
+            "http://dbpedia.org/resource/Piers_McDonald"
+        ],
+        [
+            "http://dbpedia.org/resource/2000_Yukon_general_election",
+            "http://dbpedia.org/resource/Piers_McDonald"
+        ],
+        [
+            "http://dbpedia.org/resource/2002_Yukon_general_election",
+            "http://dbpedia.org/resource/Todd_Hardy"
+        ],
+        [
+            "http://dbpedia.org/resource/2006_Yukon_general_election",
+            "http://dbpedia.org/resource/Todd_Hardy"
+        ],
+        [
+            "http://dbpedia.org/resource/2011_Yukon_general_election",
+            "http://dbpedia.org/resource/Elizabeth_Hanson"
+        ],
+        [
+            "http://dbpedia.org/resource/2016_Yukon_general_election",
+            "http://dbpedia.org/resource/Elizabeth_Hanson"
+        ]
+    ]
+}

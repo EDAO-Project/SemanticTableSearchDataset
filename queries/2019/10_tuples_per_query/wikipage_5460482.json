@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Zorro",
+            "http://dbpedia.org/resource/Jess_Nevins"
+        ],
+        [
+            "http://dbpedia.org/resource/Allan_Quatermain",
+            "http://dbpedia.org/resource/Brian_Stableford"
+        ],
+        [
+            "http://dbpedia.org/resource/C._Auguste_Dupin",
+            "http://dbpedia.org/resource/Samuel_T._Payne"
+        ],
+        [
+            "http://dbpedia.org/resource/Bertie_Wooster",
+            "http://dbpedia.org/resource/Randy_Lofficier"
+        ],
+        [
+            "http://dbpedia.org/resource/Bisclavret",
+            "http://dbpedia.org/resource/Sharan_Newman"
+        ],
+        [
+            "http://dbpedia.org/resource/Les_Habits_Noirs",
+            "http://dbpedia.org/resource/Alfredo_Castelli"
+        ],
+        [
+            "http://dbpedia.org/resource/Les_Habits_Noirs",
+            "http://dbpedia.org/resource/Win_Scott_Eckert"
+        ],
+        [
+            "http://dbpedia.org/resource/Cagliostro",
+            "http://dbpedia.org/resource/Brian_Stableford"
+        ],
+        [
+            "http://dbpedia.org/resource/Cat-Women_of_the_Moon",
+            "http://dbpedia.org/resource/Paul_Di_Filippo"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Dexter_Ward",
+            "http://dbpedia.org/resource/Jean-Marc_Lofficier"
+        ]
+    ]
+}

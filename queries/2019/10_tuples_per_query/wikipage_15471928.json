@@ -1,0 +1,47 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chris_Amon",
+            "http://dbpedia.org/resource/Equipe_Matra_Sports"
+        ],
+        [
+            "http://dbpedia.org/resource/Henri_Pescarolo",
+            "http://dbpedia.org/resource/Frank_Williams_Racing_Cars"
+        ],
+        [
+            "http://dbpedia.org/resource/Carlos_Reutemann",
+            "http://dbpedia.org/resource/Joakim_Bonnier"
+        ],
+        [
+            "http://dbpedia.org/resource/Reine_Wisell",
+            "http://dbpedia.org/resource/Team_Lotus"
+        ],
+        [
+            "http://dbpedia.org/resource/Wilson_Fittipaldi",
+            "http://dbpedia.org/resource/Team_Lotus"
+        ],
+        [
+            "http://dbpedia.org/resource/Rolf_Stommelen",
+            "http://dbpedia.org/resource/Surtees"
+        ],
+        [
+            "http://dbpedia.org/resource/Emerson_Fittipaldi",
+            "http://dbpedia.org/resource/Team_Lotus"
+        ],
+        [
+            "http://dbpedia.org/resource/Mario_Andretti",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Scuderia_Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacky_Ickx",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Scuderia_Ferrari"
+        ],
+        [
+            "http://dbpedia.org/resource/Clay_Regazzoni",
+            "http://dbpedia.org/resource/Scuderia_Ferrari",
+            "http://dbpedia.org/resource/Scuderia_Ferrari"
+        ]
+    ]
+}

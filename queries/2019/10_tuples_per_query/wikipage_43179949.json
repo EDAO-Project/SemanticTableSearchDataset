@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Peter_Lines",
+            "http://dbpedia.org/resource/Craig_Steadman"
+        ],
+        [
+            "http://dbpedia.org/resource/Graeme_Dott",
+            "http://dbpedia.org/resource/Michael_Georgiou"
+        ],
+        [
+            "http://dbpedia.org/resource/Tom_Ford",
+            "http://dbpedia.org/resource/Andrew_Pagett"
+        ],
+        [
+            "http://dbpedia.org/resource/Ali_Carter",
+            "http://dbpedia.org/resource/Sam_Baird"
+        ],
+        [
+            "http://dbpedia.org/resource/Gerard_Greene",
+            "http://dbpedia.org/resource/Ratchayothin_Yotharuck"
+        ],
+        [
+            "http://dbpedia.org/resource/Dechawat_Poomjaeng",
+            "http://dbpedia.org/resource/Stuart_Carrington"
+        ],
+        [
+            "http://dbpedia.org/resource/Liang_Wenbo",
+            "http://dbpedia.org/resource/Ian_Glover"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_McManus",
+            "http://dbpedia.org/resource/Zak_Surety"
+        ],
+        [
+            "http://dbpedia.org/resource/Matthew_Selt",
+            "http://dbpedia.org/resource/Lu_Chenwei"
+        ],
+        [
+            "http://dbpedia.org/resource/Kurt_Maflin",
+            "http://dbpedia.org/resource/Igor_Figueiredo"
+        ]
+    ]
+}

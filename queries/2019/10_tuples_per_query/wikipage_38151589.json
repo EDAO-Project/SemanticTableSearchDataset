@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/18_Months",
+            "http://dbpedia.org/resource/Calvin_Harris"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Next_Day",
+            "http://dbpedia.org/resource/David_Bowie"
+        ],
+        [
+            "http://dbpedia.org/resource/The_20/20_Experience",
+            "http://dbpedia.org/resource/Justin_Timberlake"
+        ],
+        [
+            "http://dbpedia.org/resource/The_20/20_Experience",
+            "http://dbpedia.org/resource/Justin_Timberlake"
+        ],
+        [
+            "http://dbpedia.org/resource/The_20/20_Experience",
+            "http://dbpedia.org/resource/Justin_Timberlake"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Shocking_Miss_Emerald",
+            "http://dbpedia.org/resource/Caro_Emerald"
+        ],
+        [
+            "http://dbpedia.org/resource/Random_Access_Memories",
+            "http://dbpedia.org/resource/Daft_Punk"
+        ],
+        [
+            "http://dbpedia.org/resource/Random_Access_Memories",
+            "http://dbpedia.org/resource/Daft_Punk"
+        ],
+        [
+            "http://dbpedia.org/resource/Yeezus",
+            "http://dbpedia.org/resource/Kanye_West"
+        ],
+        [
+            "http://dbpedia.org/resource/Magna_Carta..._Holy_Grail",
+            "http://dbpedia.org/resource/JAY_Z"
+        ]
+    ]
+}

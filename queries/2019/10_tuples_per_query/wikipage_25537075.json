@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Left-back",
+            "http://dbpedia.org/resource/Gaziantepspor"
+        ],
+        [
+            "http://dbpedia.org/resource/Left-back",
+            "http://dbpedia.org/resource/Gaziantepspor"
+        ],
+        [
+            "http://dbpedia.org/resource/Right-back",
+            "http://dbpedia.org/resource/Ankaraspor"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Fink",
+            "http://dbpedia.org/resource/Eintracht_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Attacking_midfielder",
+            "http://dbpedia.org/resource/FC_Basel"
+        ],
+        [
+            "http://dbpedia.org/resource/Rodrigo_Tello",
+            "http://dbpedia.org/resource/Sporting_Clube_de_Portugal"
+        ],
+        [
+            "http://dbpedia.org/resource/Fabian_Ernst",
+            "http://dbpedia.org/resource/FC_Schalke_04"
+        ],
+        [
+            "http://dbpedia.org/resource/Attacking_midfielder",
+            "http://dbpedia.org/resource/Bursaspor"
+        ],
+        [
+            "http://dbpedia.org/resource/Erkan_Zengin",
+            "http://dbpedia.org/resource/Hammarby_IF"
+        ],
+        [
+            "http://dbpedia.org/resource/Nihat_Kahveci",
+            "http://dbpedia.org/resource/Villarreal_CF"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1969_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Valley_Forge"
+        ],
+        [
+            "http://dbpedia.org/resource/1971_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Cardiff"
+        ],
+        [
+            "http://dbpedia.org/resource/1972_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Gorizia"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Zagreb"
+        ],
+        [
+            "http://dbpedia.org/resource/1978_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Geneva"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Palmerston_North"
+        ],
+        [
+            "http://dbpedia.org/resource/1982_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Kingsclere"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Bolzano"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Loen"
+        ],
+        [
+            "http://dbpedia.org/resource/1992_World_Field_Archery_Championships",
+            "http://dbpedia.org/resource/Margraten"
+        ]
+    ]
+}

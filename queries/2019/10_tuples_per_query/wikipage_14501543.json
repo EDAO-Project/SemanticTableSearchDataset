@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/1861_Italian_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/1861_Italian_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Historical_Right",
+            "http://dbpedia.org/resource/1861_Italian_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Historical_Right",
+            "http://dbpedia.org/resource/1865_Italian_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Historical_Right",
+            "http://dbpedia.org/resource/1867_Italian_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Historical_Right",
+            "http://dbpedia.org/resource/1870_Italian_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Independent_politician",
+            "http://dbpedia.org/resource/1874_Italian_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Historical_Right",
+            "http://dbpedia.org/resource/1874_Italian_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Historical_Left",
+            "http://dbpedia.org/resource/1876_Italian_general_election"
+        ],
+        [
+            "http://dbpedia.org/resource/Historical_Left",
+            "http://dbpedia.org/resource/1880_Italian_general_election"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Adel_El-Maamour",
+            "http://dbpedia.org/resource/El_Zamalek"
+        ],
+        [
+            "http://dbpedia.org/resource/Khalid_Gadallah",
+            "http://dbpedia.org/resource/El_Ahly"
+        ],
+        [
+            "http://dbpedia.org/resource/Rabei_Yassin",
+            "http://dbpedia.org/resource/El_Ahly"
+        ],
+        [
+            "http://dbpedia.org/resource/Mohamed_Helmi",
+            "http://dbpedia.org/resource/El_Ahly"
+        ],
+        [
+            "http://dbpedia.org/resource/Ibrahim_Youssef",
+            "http://dbpedia.org/resource/El_Zamalek"
+        ],
+        [
+            "http://dbpedia.org/resource/Moustafa_Abdou",
+            "http://dbpedia.org/resource/El_Ahly"
+        ],
+        [
+            "http://dbpedia.org/resource/Magdi_Abdel_Ghani",
+            "http://dbpedia.org/resource/El_Ahly"
+        ],
+        [
+            "http://dbpedia.org/resource/Mahmoud_El_Khatib",
+            "http://dbpedia.org/resource/El_Ahly"
+        ],
+        [
+            "http://dbpedia.org/resource/Emad_Soliman",
+            "http://dbpedia.org/resource/Ismaily"
+        ],
+        [
+            "http://dbpedia.org/resource/Taher_Abouzeid",
+            "http://dbpedia.org/resource/El_Ahly"
+        ]
+    ]
+}

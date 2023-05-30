@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Bradenton,_Florida",
+            "http://dbpedia.org/resource/LECOM_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Clearwater,_Florida",
+            "http://dbpedia.org/resource/Spectrum_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Myers,_Florida",
+            "http://dbpedia.org/resource/Jet_Blue_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Fort_Myers,_Florida",
+            "http://dbpedia.org/resource/Hammond_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Jupiter,_Florida",
+            "http://dbpedia.org/resource/Roger_Dean_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Lakeland,_Florida",
+            "http://dbpedia.org/resource/Joker_Marchant_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Port_Charlotte,_Florida",
+            "http://dbpedia.org/resource/Charlotte_Sports_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Port_St._Lucie,_Florida",
+            "http://dbpedia.org/resource/First_Data_Field"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarasota,_Florida",
+            "http://dbpedia.org/resource/Ed_Smith_Stadium"
+        ],
+        [
+            "http://dbpedia.org/resource/Tampa,_Florida",
+            "http://dbpedia.org/resource/George_M._Steinbrenner_Field"
+        ]
+    ]
+}

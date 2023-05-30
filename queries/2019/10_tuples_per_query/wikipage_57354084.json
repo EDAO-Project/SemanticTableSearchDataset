@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Armed_Forces_Radiobiology_Research_Institute",
+            "http://dbpedia.org/resource/Bethesda,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/Brigham_Young_University",
+            "http://dbpedia.org/resource/Provo,_Utah"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_State_University",
+            "http://dbpedia.org/resource/Fort_Collins,_CO"
+        ],
+        [
+            "http://dbpedia.org/resource/Dow_Chemical_Company",
+            "http://dbpedia.org/resource/Midland,_Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/General_Electric_Company",
+            "http://dbpedia.org/resource/Sunol,_California"
+        ],
+        [
+            "http://dbpedia.org/resource/Idaho_State_University",
+            "http://dbpedia.org/resource/Pocatello,_Idaho"
+        ],
+        [
+            "http://dbpedia.org/resource/Iowa_State_University",
+            "http://dbpedia.org/resource/Ames,_Iowa"
+        ],
+        [
+            "http://dbpedia.org/resource/Kansas_State_University",
+            "http://dbpedia.org/resource/Manhattan,_Kansas"
+        ],
+        [
+            "http://dbpedia.org/resource/Eastman_Kodak",
+            "http://dbpedia.org/resource/Rochester,_New_York"
+        ],
+        [
+            "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology",
+            "http://dbpedia.org/resource/Cambridge,_Massachusetts"
+        ]
+    ]
+}

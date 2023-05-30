@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/FC_Lashyn",
+            "http://dbpedia.org/resource/2007_Kazakhstan_First_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Taraz",
+            "http://dbpedia.org/resource/2008_Kazakhstan_First_Division"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Taraz",
+            "http://dbpedia.org/resource/2009_Kazakhstan_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Taraz",
+            "http://dbpedia.org/resource/2010_Kazakhstan_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Astana",
+            "http://dbpedia.org/resource/2011_Kazakhstan_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Astana",
+            "http://dbpedia.org/resource/2012_Kazakhstan_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Astana",
+            "http://dbpedia.org/resource/2013_Kazakhstan_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Shakhter_Karagandy",
+            "http://dbpedia.org/resource/2014_Kazakhstan_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Astana",
+            "http://dbpedia.org/resource/2015_Kazakhstan_Premier_League"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_Kairat",
+            "http://dbpedia.org/resource/2015_Kazakhstan_Premier_League"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Star_Wars:_The_Force_Awakens",
+            "http://dbpedia.org/resource/2015_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Avengers:_Endgame",
+            "http://dbpedia.org/resource/2019_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Avengers:_Infinity_War",
+            "http://dbpedia.org/resource/2018_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Jurassic_World",
+            "http://dbpedia.org/resource/2015_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Incredibles_2",
+            "http://dbpedia.org/resource/2018_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Avengers:_Age_of_Ultron",
+            "http://dbpedia.org/resource/2015_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Hunger_Games:_Catching_Fire",
+            "http://dbpedia.org/resource/2013_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Finding_Dory",
+            "http://dbpedia.org/resource/2016_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Captain_America:_Civil_War",
+            "http://dbpedia.org/resource/2016_in_film"
+        ],
+        [
+            "http://dbpedia.org/resource/Iron_Man_3",
+            "http://dbpedia.org/resource/2013_in_film"
+        ]
+    ]
+}

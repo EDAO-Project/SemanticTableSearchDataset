@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1993_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Downhill_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Downhill_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Super_Giant_Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Super_Giant_Slalom_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Downhill_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Downhill_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Downhill_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Downhill_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Downhill_skiing"
+        ],
+        [
+            "http://dbpedia.org/resource/1995_Alpine_Skiing_World_Cup",
+            "http://dbpedia.org/resource/Downhill_skiing"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Joey_Harrington",
+            "http://dbpedia.org/resource/Detroit_Lions"
+        ],
+        [
+            "http://dbpedia.org/resource/Maurice_Morris",
+            "http://dbpedia.org/resource/Seattle_Seahawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Rashad_Bauman",
+            "http://dbpedia.org/resource/Washington_Redskins"
+        ],
+        [
+            "http://dbpedia.org/resource/Justin_Peelle",
+            "http://dbpedia.org/resource/San_Diego_Chargers"
+        ],
+        [
+            "http://dbpedia.org/resource/Wesly_Mallard",
+            "http://dbpedia.org/resource/New_York_Giants"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Wrighster",
+            "http://dbpedia.org/resource/Jacksonville_Jaguars"
+        ],
+        [
+            "http://dbpedia.org/resource/Onterrio_Smith",
+            "http://dbpedia.org/resource/Minnesota_Vikings"
+        ],
+        [
+            "http://dbpedia.org/resource/Keenan_Howry",
+            "http://dbpedia.org/resource/Minnesota_Vikings"
+        ],
+        [
+            "http://dbpedia.org/resource/Igor_Olshansky",
+            "http://dbpedia.org/resource/San_Diego_Chargers"
+        ],
+        [
+            "http://dbpedia.org/resource/Junior_Siavii",
+            "http://dbpedia.org/resource/Kansas_City_Chiefs"
+        ]
+    ]
+}

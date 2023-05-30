@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1969",
+            "http://dbpedia.org/resource/Denis_Pittard"
+        ],
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1970",
+            "http://dbpedia.org/resource/Kevin_Junee"
+        ],
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1971",
+            "http://dbpedia.org/resource/Denis_Pittard"
+        ],
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1972",
+            "http://dbpedia.org/resource/Tommy_Raudonikis"
+        ],
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1973",
+            "http://dbpedia.org/resource/Ken_Maddison"
+        ],
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1974",
+            "http://dbpedia.org/resource/Graham_Eadie"
+        ],
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1976",
+            "http://dbpedia.org/resource/Ray_Higgs"
+        ],
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1980",
+            "http://dbpedia.org/resource/Geoff_Bugden"
+        ],
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1981",
+            "http://dbpedia.org/resource/Kevin_Hastings"
+        ],
+        [
+            "http://dbpedia.org/resource/NSWRFL_season_1982",
+            "http://dbpedia.org/resource/Greg_Brentnall"
+        ]
+    ]
+}

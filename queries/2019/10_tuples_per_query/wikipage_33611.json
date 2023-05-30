@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cheyenne,_Wyoming",
+            "http://dbpedia.org/resource/Laramie,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Casper,_Wyoming",
+            "http://dbpedia.org/resource/Natrona_County,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Laramie,_Wyoming",
+            "http://dbpedia.org/resource/Albany_County,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Gillette,_Wyoming",
+            "http://dbpedia.org/resource/Campbell_County,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Rock_Springs,_Wyoming",
+            "http://dbpedia.org/resource/Sweetwater_County,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Green_River,_Wyoming",
+            "http://dbpedia.org/resource/Sweetwater_County,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Evanston,_Wyoming",
+            "http://dbpedia.org/resource/Uinta_County,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Riverton,_Wyoming",
+            "http://dbpedia.org/resource/Fremont_County,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Jackson,_Wyoming",
+            "http://dbpedia.org/resource/Teton_County,_Wyoming"
+        ],
+        [
+            "http://dbpedia.org/resource/Cody,_Wyoming",
+            "http://dbpedia.org/resource/Park_County,_Wyoming"
+        ]
+    ]
+}

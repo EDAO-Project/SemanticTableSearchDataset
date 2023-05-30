@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Arizona_Diamondbacks",
+            "http://dbpedia.org/resource/Bob_Melvin"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlanta_Braves",
+            "http://dbpedia.org/resource/Bobby_Cox"
+        ],
+        [
+            "http://dbpedia.org/resource/Chicago_Cubs",
+            "http://dbpedia.org/resource/Dusty_Baker"
+        ],
+        [
+            "http://dbpedia.org/resource/Cincinnati_Reds",
+            "http://dbpedia.org/resource/Dave_Miley"
+        ],
+        [
+            "http://dbpedia.org/resource/Colorado_Rockies",
+            "http://dbpedia.org/resource/Clint_Hurdle"
+        ],
+        [
+            "http://dbpedia.org/resource/Florida_Marlins",
+            "http://dbpedia.org/resource/Jack_McKeon"
+        ],
+        [
+            "http://dbpedia.org/resource/Houston_Astros",
+            "http://dbpedia.org/resource/Phil_Garner"
+        ],
+        [
+            "http://dbpedia.org/resource/Milwaukee_Brewers",
+            "http://dbpedia.org/resource/Ned_Yost"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_Mets",
+            "http://dbpedia.org/resource/Willie_Randolph"
+        ],
+        [
+            "http://dbpedia.org/resource/Philadelphia_Phillies",
+            "http://dbpedia.org/resource/Charlie_Manuel"
+        ]
+    ]
+}

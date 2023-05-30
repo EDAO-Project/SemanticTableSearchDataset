@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kaise_Kahoon",
+            "http://dbpedia.org/resource/Zee_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Kaahin_Kissii_Roz",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kyunki_Saas_Bhi_Kabhi_Bahu_Thi",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Tum_Bin_Jaaoon_Kahaan",
+            "http://dbpedia.org/resource/Zee_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/Kunti",
+            "http://dbpedia.org/resource/DD_National"
+        ],
+        [
+            "http://dbpedia.org/resource/Zameen_Se_Aassman_Tak",
+            "http://dbpedia.org/resource/Sahara_One"
+        ],
+        [
+            "http://dbpedia.org/resource/Tumhari_Disha",
+            "http://dbpedia.org/resource/Zee_TV"
+        ],
+        [
+            "http://dbpedia.org/resource/K._Street_Pali_Hill",
+            "http://dbpedia.org/resource/Star_Plus"
+        ],
+        [
+            "http://dbpedia.org/resource/Kashmakash_Zindagi_Ki",
+            "http://dbpedia.org/resource/DD_National"
+        ],
+        [
+            "http://dbpedia.org/resource/Solhah_Singaarr",
+            "http://dbpedia.org/resource/Sahara_One"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Husqvarna_Motorcycles",
+            "http://dbpedia.org/resource/Tanel_Leok"
+        ],
+        [
+            "http://dbpedia.org/resource/KTM",
+            "http://dbpedia.org/resource/Tanel_Leok"
+        ],
+        [
+            "http://dbpedia.org/resource/Suzuki",
+            "http://dbpedia.org/resource/Kevin_Strijbos"
+        ],
+        [
+            "http://dbpedia.org/resource/Husqvarna_Motorcycles",
+            "http://dbpedia.org/resource/Max_Nagl"
+        ],
+        [
+            "http://dbpedia.org/resource/KTM",
+            "http://dbpedia.org/resource/Dean_Wilson"
+        ],
+        [
+            "http://dbpedia.org/resource/KTM",
+            "http://dbpedia.org/resource/Tony_Cairoli"
+        ],
+        [
+            "http://dbpedia.org/resource/KTM",
+            "http://dbpedia.org/resource/Glenn_Coldenhoff"
+        ],
+        [
+            "http://dbpedia.org/resource/Yamaha",
+            "http://dbpedia.org/resource/David_Philippaerts"
+        ],
+        [
+            "http://dbpedia.org/resource/Honda",
+            "http://dbpedia.org/resource/Gautier_Paulin"
+        ],
+        [
+            "http://dbpedia.org/resource/Joe_Gibbs_Racing",
+            "http://dbpedia.org/resource/Yamaha"
+        ]
+    ]
+}

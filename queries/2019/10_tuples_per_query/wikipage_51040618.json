@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-1",
+            "http://dbpedia.org/resource/Mir"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-2",
+            "http://dbpedia.org/resource/Mir"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-2",
+            "http://dbpedia.org/resource/Mir"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-3",
+            "http://dbpedia.org/resource/Mir"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-3",
+            "http://dbpedia.org/resource/Mir"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-4",
+            "http://dbpedia.org/resource/Mir"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-4",
+            "http://dbpedia.org/resource/Mir"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-5",
+            "http://dbpedia.org/resource/Mir"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-5",
+            "http://dbpedia.org/resource/Mir"
+        ],
+        [
+            "http://dbpedia.org/resource/Soyuz_TM-6",
+            "http://dbpedia.org/resource/Mir"
+        ]
+    ]
+}

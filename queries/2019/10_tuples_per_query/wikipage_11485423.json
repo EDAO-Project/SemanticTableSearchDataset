@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Alagoinhas",
+            "http://dbpedia.org/resource/Bahia"
+        ],
+        [
+            "http://dbpedia.org/resource/Alvorada",
+            "http://dbpedia.org/resource/Rio_Grande_do_Sul"
+        ],
+        [
+            "http://dbpedia.org/resource/Aracaju",
+            "http://dbpedia.org/resource/Sergipe"
+        ],
+        [
+            "http://dbpedia.org/resource/Arapiraca",
+            "http://dbpedia.org/resource/Alagoas"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbacena",
+            "http://dbpedia.org/resource/Minas_Gerais"
+        ],
+        [
+            "http://dbpedia.org/resource/Barreiras",
+            "http://dbpedia.org/resource/Bahia"
+        ],
+        [
+            "http://dbpedia.org/resource/Belo_Horizonte",
+            "http://dbpedia.org/resource/Minas_Gerais"
+        ],
+        [
+            "http://dbpedia.org/resource/Betim",
+            "http://dbpedia.org/resource/Minas_Gerais"
+        ],
+        [
+            "http://dbpedia.org/resource/Boa_Vista,_Roraima",
+            "http://dbpedia.org/resource/Roraima"
+        ],
+        [
+            "http://dbpedia.org/resource/Cabo_de_Santo_Agostinho",
+            "http://dbpedia.org/resource/Pernambuco"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Kaccha_Limboo",
+            "http://dbpedia.org/resource/Prasad_Oak"
+        ],
+        [
+            "http://dbpedia.org/resource/Manusangada",
+            "http://dbpedia.org/resource/Amshan_Kumar"
+        ],
+        [
+            "http://dbpedia.org/resource/Railway_Children",
+            "http://dbpedia.org/resource/Prithvi_Konanur"
+        ],
+        [
+            "http://dbpedia.org/resource/Juze",
+            "http://dbpedia.org/resource/Miransha_Naik"
+        ],
+        [
+            "http://dbpedia.org/resource/Pimpal",
+            "http://dbpedia.org/resource/Gajendra_Ahire"
+        ],
+        [
+            "http://dbpedia.org/resource/Village_Rockstars",
+            "http://dbpedia.org/resource/Rima_Das"
+        ],
+        [
+            "http://dbpedia.org/resource/Maacher_Jhol",
+            "http://dbpedia.org/resource/Pratim_D._Gupta"
+        ],
+        [
+            "http://dbpedia.org/resource/Bishorjan",
+            "http://dbpedia.org/resource/Kaushik_Ganguly"
+        ],
+        [
+            "http://dbpedia.org/resource/Kadvi_Hawa",
+            "http://dbpedia.org/resource/Nila_Madhab_Panda"
+        ],
+        [
+            "http://dbpedia.org/resource/Khyanikaa_-_The_Lost_Idea",
+            "http://dbpedia.org/resource/Amartya_Bhattacharyya"
+        ]
+    ]
+}

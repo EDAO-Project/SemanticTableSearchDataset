@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Jesus_Wept",
+            "http://dbpedia.org/resource/P.M._Dawn"
+        ],
+        [
+            "http://dbpedia.org/resource/Raoul_and_the_Kings_of_Spain",
+            "http://dbpedia.org/resource/Tears_for_Fears"
+        ],
+        [
+            "http://dbpedia.org/resource/Frampton_Comes_Alive!_II",
+            "http://dbpedia.org/resource/Peter_Frampton"
+        ],
+        [
+            "http://dbpedia.org/resource/Mind_of_Mystikal",
+            "http://dbpedia.org/resource/Mystikal"
+        ],
+        [
+            "http://dbpedia.org/resource/Riddle_Box",
+            "http://dbpedia.org/resource/Insane_Clown_Posse"
+        ],
+        [
+            "http://dbpedia.org/resource/Tragic_Kingdom",
+            "http://dbpedia.org/resource/No_Doubt"
+        ],
+        [
+            "http://dbpedia.org/resource/Life_on_a_Plate",
+            "http://dbpedia.org/resource/Millencolin"
+        ],
+        [
+            "http://dbpedia.org/resource/Alive_in_America",
+            "http://dbpedia.org/resource/Steely_Dan"
+        ],
+        [
+            "http://dbpedia.org/resource/El_Concierto",
+            "http://dbpedia.org/resource/Luis_Miguel"
+        ],
+        [
+            "http://dbpedia.org/resource/Hypnotize_the_Moon",
+            "http://dbpedia.org/resource/Clay_Walker"
+        ]
+    ]
+}

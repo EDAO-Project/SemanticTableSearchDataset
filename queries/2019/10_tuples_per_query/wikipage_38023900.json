@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Prime_Minister_of_Greece",
+            "http://dbpedia.org/resource/Xenophon_Zolotas"
+        ],
+        [
+            "http://dbpedia.org/resource/Georgios_Gennimatas",
+            "http://dbpedia.org/resource/Panhellenic_Socialist_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Apostolos_Kaklamanis",
+            "http://dbpedia.org/resource/Panhellenic_Socialist_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Costas_Simitis",
+            "http://dbpedia.org/resource/Panhellenic_Socialist_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Ministry_for_Macedonia_and_Thrace",
+            "http://dbpedia.org/resource/Ioannis_Deligiannis"
+        ],
+        [
+            "http://dbpedia.org/resource/Anastasios_Peponis",
+            "http://dbpedia.org/resource/Panhellenic_Socialist_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Akis_Tsochatzopoulos",
+            "http://dbpedia.org/resource/Panhellenic_Socialist_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Karolos_Papoulias",
+            "http://dbpedia.org/resource/Panhellenic_Socialist_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Giannis_Dragasakis",
+            "http://dbpedia.org/resource/Coalition_of_the_Left_and_Progress"
+        ],
+        [
+            "http://dbpedia.org/resource/Grigoris_Giannaros",
+            "http://dbpedia.org/resource/Coalition_of_the_Left_and_Progress"
+        ]
+    ]
+}

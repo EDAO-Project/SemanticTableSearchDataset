@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Cienciano",
+            "http://dbpedia.org/resource/2003_Copa_Sudamericana"
+        ],
+        [
+            "http://dbpedia.org/resource/Colo-Colo",
+            "http://dbpedia.org/resource/2006_Copa_Sudamericana"
+        ],
+        [
+            "http://dbpedia.org/resource/Pachuca",
+            "http://dbpedia.org/resource/2006_Copa_Sudamericana"
+        ],
+        [
+            "http://dbpedia.org/resource/Toluca",
+            "http://dbpedia.org/resource/2006_Copa_Sudamericana"
+        ],
+        [
+            "http://dbpedia.org/resource/Argentinos_Juniors",
+            "http://dbpedia.org/resource/2008_Copa_Sudamericana"
+        ],
+        [
+            "http://dbpedia.org/resource/Guadalajara",
+            "http://dbpedia.org/resource/2008_Copa_Sudamericana"
+        ],
+        [
+            "http://dbpedia.org/resource/Universidad_de_Chile",
+            "http://dbpedia.org/resource/2011_Copa_Sudamericana"
+        ],
+        [
+            "http://dbpedia.org/resource/Vasco_da_Gama",
+            "http://dbpedia.org/resource/2011_Copa_Sudamericana"
+        ],
+        [
+            "http://dbpedia.org/resource/Chapecoense",
+            "http://dbpedia.org/resource/2016_Copa_Sudamericana"
+        ],
+        [
+            "http://dbpedia.org/resource/Flamengo",
+            "http://dbpedia.org/resource/2017_Copa_Sudamericana"
+        ]
+    ]
+}

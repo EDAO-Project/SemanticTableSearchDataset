@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Naruphon_Putsorn",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Sasalak_Haiprakhon",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Go_Seul-ki",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Suchao_Nuchnum",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Jakkaphan_Kaewprom",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Bodin_Phala",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Supachok_Sarachat",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Ratthanakorn_Maikami",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Phanuphong_Phonsa",
+            "http://dbpedia.org/resource/Midfielder"
+        ],
+        [
+            "http://dbpedia.org/resource/Rafael_Bastos",
+            "http://dbpedia.org/resource/Midfielder"
+        ]
+    ]
+}

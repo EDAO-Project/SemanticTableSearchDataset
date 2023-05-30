@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Robert_Nilsson",
+            "http://dbpedia.org/resource/Salavat_Yulaev_Ufa"
+        ],
+        [
+            "http://dbpedia.org/resource/Charles_Linglet",
+            "http://dbpedia.org/resource/Torpedo_Nizhny_Novgorod"
+        ],
+        [
+            "http://dbpedia.org/resource/Chris_Minard",
+            "http://dbpedia.org/resource/Detroit_Red_Wings"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Stone",
+            "http://dbpedia.org/resource/Calgary_Flames"
+        ],
+        [
+            "http://dbpedia.org/resource/Vyacheslav_Trukhno",
+            "http://dbpedia.org/resource/HC_Sibir_Novosibirsk"
+        ],
+        [
+            "http://dbpedia.org/resource/Marc-Antoine_Pouliot",
+            "http://dbpedia.org/resource/Tampa_Bay_Lightning"
+        ],
+        [
+            "http://dbpedia.org/resource/Dean_Arsene",
+            "http://dbpedia.org/resource/St._Louis_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Fernando_Pisani",
+            "http://dbpedia.org/resource/Chicago_Blackhawks"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Comrie",
+            "http://dbpedia.org/resource/Pittsburgh_Penguins"
+        ],
+        [
+            "http://dbpedia.org/resource/Ryan_Potulny",
+            "http://dbpedia.org/resource/Chicago_Blackhawks"
+        ]
+    ]
+}

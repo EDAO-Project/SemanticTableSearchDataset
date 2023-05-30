@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/Free_agent"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/Nathan_Delfouneso"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/Anton_Forrester"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/Free_agent"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/Simeon_Jackson"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_forward",
+            "http://dbpedia.org/resource/Free_agent"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_back",
+            "http://dbpedia.org/resource/Matthew_Kilgallon"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_back",
+            "http://dbpedia.org/resource/Sam_Lavelle"
+        ],
+        [
+            "http://dbpedia.org/resource/Left_back",
+            "http://dbpedia.org/resource/Tommy_Spurr"
+        ],
+        [
+            "http://dbpedia.org/resource/Centre_midfielder",
+            "http://dbpedia.org/resource/Lee_Williamson"
+        ]
+    ]
+}

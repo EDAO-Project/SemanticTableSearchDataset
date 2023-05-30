@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Gary_Mercer",
+            "http://dbpedia.org/resource/David_Roockley"
+        ],
+        [
+            "http://dbpedia.org/resource/Keith_Mumby",
+            "http://dbpedia.org/resource/John_Joyner"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Harkin",
+            "http://dbpedia.org/resource/Roy_Southernwood"
+        ],
+        [
+            "http://dbpedia.org/resource/Jeff_Grayshon",
+            "http://dbpedia.org/resource/Alan_Shillito"
+        ],
+        [
+            "http://dbpedia.org/resource/Kelvin_Skerrett",
+            "http://dbpedia.org/resource/Martin_Ketteridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Karl_Fairbank",
+            "http://dbpedia.org/resource/John_Fifita"
+        ],
+        [
+            "http://dbpedia.org/resource/Terry_Holmes",
+            "http://dbpedia.org/resource/Bob_Lindner"
+        ],
+        [
+            "http://dbpedia.org/resource/Keith_Mumby",
+            "http://dbpedia.org/resource/David_Roockley"
+        ],
+        [
+            "http://dbpedia.org/resource/Roger_Simpson",
+            "http://dbpedia.org/resource/Gary_Hyde"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Harkin",
+            "http://dbpedia.org/resource/Bob_Beardmore"
+        ]
+    ]
+}

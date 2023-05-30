@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Lleyton_Hewitt",
+            "http://dbpedia.org/resource/Thomas_Enqvist"
+        ],
+        [
+            "http://dbpedia.org/resource/Magnus_Norman",
+            "http://dbpedia.org/resource/Michael_Chang"
+        ],
+        [
+            "http://dbpedia.org/resource/Lleyton_Hewitt",
+            "http://dbpedia.org/resource/Jason_Stoltenberg"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicolas_Kiefer",
+            "http://dbpedia.org/resource/Juan_Carlos_Ferrero"
+        ],
+        [
+            "http://dbpedia.org/resource/Marc_Rosset",
+            "http://dbpedia.org/resource/Roger_Federer"
+        ],
+        [
+            "http://dbpedia.org/resource/Andreas_Vinciguerra",
+            "http://dbpedia.org/resource/Magnus_Larsson"
+        ],
+        [
+            "http://dbpedia.org/resource/Gustavo_Kuerten",
+            "http://dbpedia.org/resource/Mariano_Puerta"
+        ],
+        [
+            "http://dbpedia.org/resource/Mariano_Puerta",
+            "http://dbpedia.org/resource/Younes_El_Aynaoui"
+        ],
+        [
+            "http://dbpedia.org/resource/Lleyton_Hewitt",
+            "http://dbpedia.org/resource/Tim_Henman"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrew_Ilie",
+            "http://dbpedia.org/resource/Jason_Stoltenberg"
+        ]
+    ]
+}

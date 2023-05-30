@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Davao_del_Norte",
+            "http://dbpedia.org/resource/Tagum"
+        ],
+        [
+            "http://dbpedia.org/resource/Davao_del_Norte",
+            "http://dbpedia.org/resource/Panabo,_Davao_del_Norte"
+        ],
+        [
+            "http://dbpedia.org/resource/Compostela_Valley",
+            "http://dbpedia.org/resource/Nabunturan,_Compostela_Valley"
+        ],
+        [
+            "http://dbpedia.org/resource/Davao_del_Sur",
+            "http://dbpedia.org/resource/Davao_City"
+        ],
+        [
+            "http://dbpedia.org/resource/Davao_del_Sur",
+            "http://dbpedia.org/resource/Digos"
+        ],
+        [
+            "http://dbpedia.org/resource/Davao_del_Sur",
+            "http://dbpedia.org/resource/Bansalan,_Davao_del_Sur"
+        ],
+        [
+            "http://dbpedia.org/resource/Davao_Oriental",
+            "http://dbpedia.org/resource/Mati,_Davao_Oriental"
+        ],
+        [
+            "http://dbpedia.org/resource/Davao_Oriental",
+            "http://dbpedia.org/resource/Baganga,_Davao_Oriental"
+        ],
+        [
+            "http://dbpedia.org/resource/Davao_Oriental",
+            "http://dbpedia.org/resource/Lupon,_Davao_Oriental"
+        ],
+        [
+            "http://dbpedia.org/resource/Sarangani",
+            "http://dbpedia.org/resource/Alabel,_Sarangani"
+        ]
+    ]
+}

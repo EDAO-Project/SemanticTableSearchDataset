@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/University_of_Manchester",
+            "http://dbpedia.org/resource/Selwyn_College,_Cambridge"
+        ],
+        [
+            "http://dbpedia.org/resource/Oxford_Brookes_University",
+            "http://dbpedia.org/resource/Jesus_College,_Oxford"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Bristol",
+            "http://dbpedia.org/resource/Courtauld_Institute_of_Art"
+        ],
+        [
+            "http://dbpedia.org/resource/London_School_of_Hygiene_&_Tropical_Medicine",
+            "http://dbpedia.org/resource/London_School_of_Economics"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Liverpool",
+            "http://dbpedia.org/resource/University_of_Sheffield"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Bath",
+            "http://dbpedia.org/resource/University_of_Glasgow"
+        ],
+        [
+            "http://dbpedia.org/resource/University_of_Leicester",
+            "http://dbpedia.org/resource/Open_University"
+        ],
+        [
+            "http://dbpedia.org/resource/Trinity_College,_Cambridge",
+            "http://dbpedia.org/resource/University_of_St_Andrews"
+        ],
+        [
+            "http://dbpedia.org/resource/University_College_London",
+            "http://dbpedia.org/resource/University_of_Exeter"
+        ],
+        [
+            "http://dbpedia.org/resource/Brasenose_College,_Oxford",
+            "http://dbpedia.org/resource/Durham_University"
+        ]
+    ]
+}

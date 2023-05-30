@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Hannover_96",
+            "http://dbpedia.org/resource/Eintracht_Frankfurt"
+        ],
+        [
+            "http://dbpedia.org/resource/Eintracht_Frankfurt",
+            "http://dbpedia.org/resource/Hannover_96"
+        ],
+        [
+            "http://dbpedia.org/resource/VfL_Wolfsburg",
+            "http://dbpedia.org/resource/VfB_Stuttgart"
+        ],
+        [
+            "http://dbpedia.org/resource/VfB_Stuttgart",
+            "http://dbpedia.org/resource/VfL_Wolfsburg"
+        ],
+        [
+            "http://dbpedia.org/resource/OSV_Hannover",
+            "http://dbpedia.org/resource/Hertha_BSC"
+        ],
+        [
+            "http://dbpedia.org/resource/Hertha_BSC",
+            "http://dbpedia.org/resource/OSV_Hannover"
+        ],
+        [
+            "http://dbpedia.org/resource/Stuttgarter_Kickers",
+            "http://dbpedia.org/resource/Eintracht_Braunschweig"
+        ],
+        [
+            "http://dbpedia.org/resource/Eintracht_Braunschweig",
+            "http://dbpedia.org/resource/Stuttgarter_Kickers"
+        ],
+        [
+            "http://dbpedia.org/resource/Wacker_04_Berlin",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/SV_Werder_Bremen",
+            "http://dbpedia.org/resource/Wacker_04_Berlin"
+        ]
+    ]
+}

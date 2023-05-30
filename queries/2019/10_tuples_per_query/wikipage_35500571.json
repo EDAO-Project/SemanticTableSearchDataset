@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Homo_sapiens",
+            "http://dbpedia.org/resource/Human"
+        ],
+        [
+            "http://dbpedia.org/resource/Nomascus_leucogenys",
+            "http://dbpedia.org/resource/Gibbon"
+        ],
+        [
+            "http://dbpedia.org/resource/Macaca_mulatta",
+            "http://dbpedia.org/resource/Rhesus_monkey"
+        ],
+        [
+            "http://dbpedia.org/resource/Callithrix_jacchus",
+            "http://dbpedia.org/resource/Marmoset"
+        ],
+        [
+            "http://dbpedia.org/resource/Mus_musculus",
+            "http://dbpedia.org/resource/Mouse"
+        ],
+        [
+            "http://dbpedia.org/resource/Loxodonta_africana",
+            "http://dbpedia.org/resource/African_elephant"
+        ],
+        [
+            "http://dbpedia.org/resource/Ailuropoda_melanoleuca",
+            "http://dbpedia.org/resource/Giant_panda"
+        ],
+        [
+            "http://dbpedia.org/resource/Bos_taurus",
+            "http://dbpedia.org/resource/Cattle"
+        ],
+        [
+            "http://dbpedia.org/resource/Monodelphis_domestica",
+            "http://dbpedia.org/resource/Opossum"
+        ],
+        [
+            "http://dbpedia.org/resource/Oreochromis_niloticus",
+            "http://dbpedia.org/resource/Nile_tilapia"
+        ]
+    ]
+}

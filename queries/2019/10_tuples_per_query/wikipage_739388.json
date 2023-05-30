@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Timewyrm:_Exodus",
+            "http://dbpedia.org/resource/Terrance_Dicks"
+        ],
+        [
+            "http://dbpedia.org/resource/Timewyrm:_Apocalypse",
+            "http://dbpedia.org/resource/Nigel_Robinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Timewyrm:_Revelation",
+            "http://dbpedia.org/resource/Paul_Cornell"
+        ],
+        [
+            "http://dbpedia.org/resource/Shadowmind",
+            "http://dbpedia.org/resource/Christopher_Bulis"
+        ],
+        [
+            "http://dbpedia.org/resource/Blood_Heat",
+            "http://dbpedia.org/resource/Jim_Mortimore"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Dimension_Riders",
+            "http://dbpedia.org/resource/Daniel_Blythe"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Left-Handed_Hummingbird",
+            "http://dbpedia.org/resource/Kate_Orman"
+        ],
+        [
+            "http://dbpedia.org/resource/Strange_England",
+            "http://dbpedia.org/resource/Simon_Messingham"
+        ],
+        [
+            "http://dbpedia.org/resource/First_Frontier",
+            "http://dbpedia.org/resource/David_A._McIntee"
+        ],
+        [
+            "http://dbpedia.org/resource/Infinite_Requiem",
+            "http://dbpedia.org/resource/Daniel_Blythe"
+        ]
+    ]
+}

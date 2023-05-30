@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Rage_Against_the_Machine",
+            "http://dbpedia.org/resource/Sony_Music_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Lady_Gaga",
+            "http://dbpedia.org/resource/Universal_Music_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Iyaz",
+            "http://dbpedia.org/resource/Warner_Music_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Owl_City",
+            "http://dbpedia.org/resource/Universal_Music_Group"
+        ],
+        [
+            "http://dbpedia.org/resource/Helping_Haiti",
+            "http://dbpedia.org/resource/Sony_Music_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Tinie_Tempah",
+            "http://dbpedia.org/resource/EMI"
+        ],
+        [
+            "http://dbpedia.org/resource/Scouting_for_Girls",
+            "http://dbpedia.org/resource/Sony_Music_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Dizzee_Rascal",
+            "http://dbpedia.org/resource/Dirtee_Stank"
+        ],
+        [
+            "http://dbpedia.org/resource/JLS",
+            "http://dbpedia.org/resource/Sony_Music_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Ne-Yo",
+            "http://dbpedia.org/resource/Universal_Music_Group"
+        ]
+    ]
+}

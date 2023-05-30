@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Smooth_Noodle_Maps",
+            "http://dbpedia.org/resource/Devo"
+        ],
+        [
+            "http://dbpedia.org/resource/Seven_Turns",
+            "http://dbpedia.org/resource/The_Allman_Brothers_Band"
+        ],
+        [
+            "http://dbpedia.org/resource/Spirits_Dancing_in_the_Flesh",
+            "http://dbpedia.org/resource/Carlos_Santana"
+        ],
+        [
+            "http://dbpedia.org/resource/Brick_by_Brick",
+            "http://dbpedia.org/resource/Iggy_Pop"
+        ],
+        [
+            "http://dbpedia.org/resource/Naked_Thunder",
+            "http://dbpedia.org/resource/Ian_Gillan"
+        ],
+        [
+            "http://dbpedia.org/resource/Tales_from_the_Twilight_World",
+            "http://dbpedia.org/resource/Blind_Guardian"
+        ],
+        [
+            "http://dbpedia.org/resource/Lovegod",
+            "http://dbpedia.org/resource/The_Soup_Dragons"
+        ],
+        [
+            "http://dbpedia.org/resource/Slave_to_the_Thrill",
+            "http://dbpedia.org/resource/Hurricane"
+        ],
+        [
+            "http://dbpedia.org/resource/Cowboys_from_Hell",
+            "http://dbpedia.org/resource/Pantera"
+        ],
+        [
+            "http://dbpedia.org/resource/Un-Led-Ed",
+            "http://dbpedia.org/resource/Dread_Zeppelin"
+        ]
+    ]
+}

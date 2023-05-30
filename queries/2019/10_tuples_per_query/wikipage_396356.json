@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Animal_Justice_Party",
+            "http://dbpedia.org/resource/Animal_welfare"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Affordable_Housing_Party",
+            "http://dbpedia.org/resource/Rent_control"
+        ],
+        [
+            "http://dbpedia.org/resource/Australian_Progressives",
+            "http://dbpedia.org/resource/Progressivism"
+        ],
+        [
+            "http://dbpedia.org/resource/Child_Protection_Party",
+            "http://dbpedia.org/resource/Child_protection"
+        ],
+        [
+            "http://dbpedia.org/resource/Citizens_Electoral_Council_of_Australia",
+            "http://dbpedia.org/resource/LaRouche_Movement"
+        ],
+        [
+            "http://dbpedia.org/resource/Love_Australia_or_Leave",
+            "http://dbpedia.org/resource/Kim_Vuga"
+        ],
+        [
+            "http://dbpedia.org/resource/Reason_Australia",
+            "http://dbpedia.org/resource/Fiona_Patten"
+        ],
+        [
+            "http://dbpedia.org/resource/Shooters,_Fishers_and_Farmers_Party",
+            "http://dbpedia.org/resource/Robert_Leslie_Brown"
+        ],
+        [
+            "http://dbpedia.org/resource/Tim_Storer_Independent_SA_Party",
+            "http://dbpedia.org/resource/Tim_Storer"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Australian_Mental_Health_Party",
+            "http://dbpedia.org/resource/Mental_health"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Neel_Jani",
+            "http://dbpedia.org/resource/Matech_Competition"
+        ],
+        [
+            "http://dbpedia.org/resource/Nicolas_Armindo",
+            "http://dbpedia.org/resource/Matech_Competition"
+        ],
+        [
+            "http://dbpedia.org/resource/Maxime_Martin",
+            "http://dbpedia.org/resource/Marc_VDS_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Bas_Leinders",
+            "http://dbpedia.org/resource/Marc_VDS_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Warren_Hughes",
+            "http://dbpedia.org/resource/Sumo_Power_GT"
+        ],
+        [
+            "http://dbpedia.org/resource/Enrique_Bernoldi",
+            "http://dbpedia.org/resource/Vitaphone_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_Westbrook",
+            "http://dbpedia.org/resource/Matech_Competition"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_Mutsch",
+            "http://dbpedia.org/resource/Matech_Competition"
+        ],
+        [
+            "http://dbpedia.org/resource/Andrea_Bertolini",
+            "http://dbpedia.org/resource/Vitaphone_Racing_Team"
+        ],
+        [
+            "http://dbpedia.org/resource/Michael_Bartels",
+            "http://dbpedia.org/resource/Vitaphone_Racing_Team"
+        ]
+    ]
+}

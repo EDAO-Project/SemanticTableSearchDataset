@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Raymond_Floyd",
+            "http://dbpedia.org/resource/1976_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Larry_Mize",
+            "http://dbpedia.org/resource/1987_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Ian_Woosnam",
+            "http://dbpedia.org/resource/1991_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Fuzzy_Zoeller",
+            "http://dbpedia.org/resource/1979_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Craig_Stadler",
+            "http://dbpedia.org/resource/1982_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Bernhard_Langer",
+            "http://dbpedia.org/resource/1985_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Sandy_Lyle",
+            "http://dbpedia.org/resource/1988_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Ben_Crenshaw",
+            "http://dbpedia.org/resource/1984_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/George_Archer",
+            "http://dbpedia.org/resource/1969_Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/Tommy_Aaron",
+            "http://dbpedia.org/resource/1973_Masters_Tournament"
+        ]
+    ]
+}

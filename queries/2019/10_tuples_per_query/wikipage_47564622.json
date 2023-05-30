@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1965_Senior_League_World_Series",
+            "http://dbpedia.org/resource/Norwich,_Connecticut"
+        ],
+        [
+            "http://dbpedia.org/resource/1973_Senior_League_World_Series",
+            "http://dbpedia.org/resource/Oxon_Hill,_Maryland"
+        ],
+        [
+            "http://dbpedia.org/resource/1974_Senior_League_World_Series",
+            "http://dbpedia.org/resource/Berwick,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/1976_Senior_League_World_Series",
+            "http://dbpedia.org/resource/New_Castle,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/1979_Senior_League_World_Series",
+            "http://dbpedia.org/resource/Auburn,_Maine"
+        ],
+        [
+            "http://dbpedia.org/resource/1980_Senior_League_World_Series",
+            "http://dbpedia.org/resource/Berwick,_Pennsylvania"
+        ],
+        [
+            "http://dbpedia.org/resource/1981_Senior_League_World_Series",
+            "http://dbpedia.org/resource/Georgetown,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_Senior_League_World_Series",
+            "http://dbpedia.org/resource/Seaford,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/1984_Senior_League_World_Series",
+            "http://dbpedia.org/resource/Seaford,_Delaware"
+        ],
+        [
+            "http://dbpedia.org/resource/1986_Senior_League_World_Series",
+            "http://dbpedia.org/resource/DuBois,_Pennsylvania"
+        ]
+    ]
+}

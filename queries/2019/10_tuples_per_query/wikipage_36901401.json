@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Francis_J._Banfield",
+            "http://dbpedia.org/resource/Police_Sergeant"
+        ],
+        [
+            "http://dbpedia.org/resource/James_Z._Bogart",
+            "http://dbpedia.org/resource/Police_captain"
+        ],
+        [
+            "http://dbpedia.org/resource/Daniel_C._Carpenter",
+            "http://dbpedia.org/resource/Police_inspector"
+        ],
+        [
+            "http://dbpedia.org/resource/Theron_S._Copeland",
+            "http://dbpedia.org/resource/Police_captain"
+        ],
+        [
+            "http://dbpedia.org/resource/John_F._Dickson",
+            "http://dbpedia.org/resource/Police_captain"
+        ],
+        [
+            "http://dbpedia.org/resource/George_W._Dilks",
+            "http://dbpedia.org/resource/Police_inspector"
+        ],
+        [
+            "http://dbpedia.org/resource/John_S._Folk",
+            "http://dbpedia.org/resource/Police_superintendent"
+        ],
+        [
+            "http://dbpedia.org/resource/Galen_Porter",
+            "http://dbpedia.org/resource/Police_captain"
+        ],
+        [
+            "http://dbpedia.org/resource/Francis_C._Speight",
+            "http://dbpedia.org/resource/Police_inspector"
+        ],
+        [
+            "http://dbpedia.org/resource/Thomas_S._Steers",
+            "http://dbpedia.org/resource/Police_captain"
+        ]
+    ]
+}

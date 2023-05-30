@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Balance_of_Power:_The_1990_Edition",
+            "http://dbpedia.org/resource/Mindscape"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbie_Fashion_Designer",
+            "http://dbpedia.org/resource/Digital_Domain"
+        ],
+        [
+            "http://dbpedia.org/resource/Barbie_Storymaker",
+            "http://dbpedia.org/resource/Mattel_Media"
+        ],
+        [
+            "http://dbpedia.org/resource/Battle_Chess",
+            "http://dbpedia.org/resource/Interplay_Entertainment"
+        ],
+        [
+            "http://dbpedia.org/resource/Battleground:_Bulge-Ardennes",
+            "http://dbpedia.org/resource/TalonSoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Battleground_2:_Gettysburg",
+            "http://dbpedia.org/resource/TalonSoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Battleground_3:_Waterloo",
+            "http://dbpedia.org/resource/TalonSoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Battleground_4:_Shiloh",
+            "http://dbpedia.org/resource/TalonSoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Battleground_5:_Antietam",
+            "http://dbpedia.org/resource/TalonSoft"
+        ],
+        [
+            "http://dbpedia.org/resource/Battleground_6:_Napoleon_in_Russia",
+            "http://dbpedia.org/resource/TalonSoft"
+        ]
+    ]
+}

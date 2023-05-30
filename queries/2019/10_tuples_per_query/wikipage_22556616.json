@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/MIF_Redhawks",
+            "http://dbpedia.org/resource/J20_SuperElit"
+        ],
+        [
+            "http://dbpedia.org/resource/MIF_Redhawks",
+            "http://dbpedia.org/resource/J20_SuperElit"
+        ],
+        [
+            "http://dbpedia.org/resource/MIF_Redhawks",
+            "http://dbpedia.org/resource/J20_SuperElit"
+        ],
+        [
+            "http://dbpedia.org/resource/MIF_Redhawks",
+            "http://dbpedia.org/resource/Swedish_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/IF_Troja/Ljungby",
+            "http://dbpedia.org/resource/HockeyAllsvenskan"
+        ],
+        [
+            "http://dbpedia.org/resource/IK_Pantern",
+            "http://dbpedia.org/resource/HockeyEttan"
+        ],
+        [
+            "http://dbpedia.org/resource/Iowa_Stars",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Idaho_Steelheads",
+            "http://dbpedia.org/resource/ECHL"
+        ],
+        [
+            "http://dbpedia.org/resource/Iowa_Stars",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ],
+        [
+            "http://dbpedia.org/resource/Iowa_Stars",
+            "http://dbpedia.org/resource/American_Hockey_League"
+        ]
+    ]
+}

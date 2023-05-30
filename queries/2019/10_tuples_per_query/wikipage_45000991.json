@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Evgeni_Berzin",
+            "http://dbpedia.org/resource/Gewiss-Ballan"
+        ],
+        [
+            "http://dbpedia.org/resource/Guido_Bontempi",
+            "http://dbpedia.org/resource/Gewiss-Ballan"
+        ],
+        [
+            "http://dbpedia.org/resource/Dario_Bottaro",
+            "http://dbpedia.org/resource/Gewiss-Ballan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruno_Cenghialta",
+            "http://dbpedia.org/resource/Gewiss-Ballan"
+        ],
+        [
+            "http://dbpedia.org/resource/Gabriele_Colombo",
+            "http://dbpedia.org/resource/Gewiss-Ballan"
+        ],
+        [
+            "http://dbpedia.org/resource/Francesco_Frattini",
+            "http://dbpedia.org/resource/Gewiss-Ballan"
+        ],
+        [
+            "http://dbpedia.org/resource/Ivan_Gotti",
+            "http://dbpedia.org/resource/Gewiss-Ballan"
+        ],
+        [
+            "http://dbpedia.org/resource/Bjarne_Riis",
+            "http://dbpedia.org/resource/Gewiss-Ballan"
+        ],
+        [
+            "http://dbpedia.org/resource/Alberto_Volpi",
+            "http://dbpedia.org/resource/Gewiss-Ballan"
+        ],
+        [
+            "http://dbpedia.org/resource/Mauro_Bettin",
+            "http://dbpedia.org/resource/Aki-Gipiemme"
+        ]
+    ]
+}

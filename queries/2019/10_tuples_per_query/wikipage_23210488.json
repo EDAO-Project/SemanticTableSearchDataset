@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Suzann_Pettersen",
+            "http://dbpedia.org/resource/Paula_Creamer"
+        ],
+        [
+            "http://dbpedia.org/resource/Becky_Brewerton",
+            "http://dbpedia.org/resource/Angela_Stanford"
+        ],
+        [
+            "http://dbpedia.org/resource/Helen_Alfredsson",
+            "http://dbpedia.org/resource/Michelle_Wie"
+        ],
+        [
+            "http://dbpedia.org/resource/Laura_Davies",
+            "http://dbpedia.org/resource/Brittany_Lang"
+        ],
+        [
+            "http://dbpedia.org/resource/Gwladys_Nocera",
+            "http://dbpedia.org/resource/Juli_Inkster"
+        ],
+        [
+            "http://dbpedia.org/resource/Catriona_Matthew",
+            "http://dbpedia.org/resource/Kristy_McPherson"
+        ],
+        [
+            "http://dbpedia.org/resource/Sophie_Gustafson",
+            "http://dbpedia.org/resource/Brittany_Lincicome"
+        ],
+        [
+            "http://dbpedia.org/resource/Diana_Luna",
+            "http://dbpedia.org/resource/Nicole_Castrale"
+        ],
+        [
+            "http://dbpedia.org/resource/Maria_Hjorth",
+            "http://dbpedia.org/resource/Cristie_Kerr"
+        ],
+        [
+            "http://dbpedia.org/resource/Anna_Nordqvist",
+            "http://dbpedia.org/resource/Morgan_Pressel"
+        ]
+    ]
+}

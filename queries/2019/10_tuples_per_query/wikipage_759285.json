@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/1977_European_Tour",
+            "http://dbpedia.org/resource/Uniroyal_International_Championship"
+        ],
+        [
+            "http://dbpedia.org/resource/1977_European_Tour",
+            "http://dbpedia.org/resource/Skol_Lager_Individual"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_European_Tour",
+            "http://dbpedia.org/resource/Paco_Rabanne_Open_de_France"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_European_Tour",
+            "http://dbpedia.org/resource/Martini_International"
+        ],
+        [
+            "http://dbpedia.org/resource/1983_European_Tour",
+            "http://dbpedia.org/resource/Ebel_Swiss_Open-European_Masters"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_European_Tour",
+            "http://dbpedia.org/resource/Torras_Hostench_Barcelona_Open"
+        ],
+        [
+            "http://dbpedia.org/resource/1988_European_Tour",
+            "http://dbpedia.org/resource/Benson_and_Hedges_International_Open"
+        ],
+        [
+            "http://dbpedia.org/resource/1989_European_Tour",
+            "http://dbpedia.org/resource/Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/1990_European_Tour",
+            "http://dbpedia.org/resource/Masters_Tournament"
+        ],
+        [
+            "http://dbpedia.org/resource/1994_European_Tour",
+            "http://dbpedia.org/resource/Alfred_Dunhill_Open"
+        ]
+    ]
+}

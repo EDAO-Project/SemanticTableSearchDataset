@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Widener_Pride",
+            "http://dbpedia.org/resource/Elizabethtown_Blue_Jays"
+        ],
+        [
+            "http://dbpedia.org/resource/Elizabethtown_Blue_Jays",
+            "http://dbpedia.org/resource/Widener_Pride"
+        ],
+        [
+            "http://dbpedia.org/resource/Elizabethtown_Blue_Jays",
+            "http://dbpedia.org/resource/Widener_Pride"
+        ],
+        [
+            "http://dbpedia.org/resource/Elizabethtown_Blue_Jays",
+            "http://dbpedia.org/resource/Widener_Pride"
+        ],
+        [
+            "http://dbpedia.org/resource/Albright_Lions",
+            "http://dbpedia.org/resource/Lebanon_Valley_Flying_Dutchmen"
+        ],
+        [
+            "http://dbpedia.org/resource/Messiah_Falcons",
+            "http://dbpedia.org/resource/Widener_Pride"
+        ],
+        [
+            "http://dbpedia.org/resource/Widener_Pride",
+            "http://dbpedia.org/resource/Juniata_Eagles"
+        ],
+        [
+            "http://dbpedia.org/resource/Widener_Pride",
+            "http://dbpedia.org/resource/Lycoming_Warriors"
+        ],
+        [
+            "http://dbpedia.org/resource/Widener_Pride",
+            "http://dbpedia.org/resource/Elizabethtown_Blue_Jays"
+        ],
+        [
+            "http://dbpedia.org/resource/Albright_Lions",
+            "http://dbpedia.org/resource/Lycoming_Warriors"
+        ]
+    ]
+}

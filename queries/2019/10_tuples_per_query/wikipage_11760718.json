@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Deputy_commissioner"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Commissioner_of_Police"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Deputy_commissioner"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Deputy_commissioner"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Deputy_commissioner"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Commissioner_of_Police"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Commissioner_of_Police"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Deputy_commissioner"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Senior_Assistant_Commissioner"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_of_Police",
+            "http://dbpedia.org/resource/Commissioner_of_Police"
+        ]
+    ]
+}

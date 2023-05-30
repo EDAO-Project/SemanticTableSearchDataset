@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Columbia,_Maryland",
+            "http://dbpedia.org/resource/Merriweather_Post_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbia,_Maryland",
+            "http://dbpedia.org/resource/Merriweather_Post_Pavilion"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/West_Side_Tennis_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/West_Side_Tennis_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/New_York_City",
+            "http://dbpedia.org/resource/West_Side_Tennis_Club"
+        ],
+        [
+            "http://dbpedia.org/resource/Hartford,_Connecticut",
+            "http://dbpedia.org/resource/XL_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Saratoga_Springs,_New_York",
+            "http://dbpedia.org/resource/Saratoga_Performing_Arts_Center"
+        ],
+        [
+            "http://dbpedia.org/resource/Portland,_Maine",
+            "http://dbpedia.org/resource/Cross_Insurance_Arena"
+        ],
+        [
+            "http://dbpedia.org/resource/Clarkston,_Michigan",
+            "http://dbpedia.org/resource/DTE_Energy_Music_Theatre"
+        ],
+        [
+            "http://dbpedia.org/resource/Clarkston,_Michigan",
+            "http://dbpedia.org/resource/DTE_Energy_Music_Theatre"
+        ]
+    ]
+}

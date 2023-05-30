@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Royal_Excel_Mouscron",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ],
+        [
+            "http://dbpedia.org/resource/K.A.S._Eupen",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ],
+        [
+            "http://dbpedia.org/resource/K.R.C._Genk",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ],
+        [
+            "http://dbpedia.org/resource/Club_Brugge_KV",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ],
+        [
+            "http://dbpedia.org/resource/Waasland-Beveren",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ],
+        [
+            "http://dbpedia.org/resource/S.V._Zulte_Waregem",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ],
+        [
+            "http://dbpedia.org/resource/K.V._Kortrijk",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ],
+        [
+            "http://dbpedia.org/resource/K.A.A._Gent",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ],
+        [
+            "http://dbpedia.org/resource/K.V.C._Westerlo",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ],
+        [
+            "http://dbpedia.org/resource/K.S.C._Lokeren_Oost-Vlaanderen",
+            "http://dbpedia.org/resource/AFAS-stadion_Achter_de_Kazerne"
+        ]
+    ]
+}

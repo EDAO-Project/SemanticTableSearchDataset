@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_Naber",
+            "http://dbpedia.org/resource/Swimming_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Shirley_Babashoff",
+            "http://dbpedia.org/resource/Swimming_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Hencken",
+            "http://dbpedia.org/resource/Swimming_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Peter_Rocca",
+            "http://dbpedia.org/resource/Swimming_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Wendy_Boglioli",
+            "http://dbpedia.org/resource/Swimming_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Mike_Bruner",
+            "http://dbpedia.org/resource/Swimming_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmund_Coffin",
+            "http://dbpedia.org/resource/Equestrian_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Bruce_Furniss",
+            "http://dbpedia.org/resource/Swimming_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Brian_Goodell",
+            "http://dbpedia.org/resource/Swimming_at_the_1976_Summer_Olympics"
+        ],
+        [
+            "http://dbpedia.org/resource/Jack_Babashoff",
+            "http://dbpedia.org/resource/Swimming_at_the_1976_Summer_Olympics"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eugene_Emeralds",
+            "http://dbpedia.org/resource/Salem_Senators"
+        ],
+        [
+            "http://dbpedia.org/resource/Wenatchee_Chiefs",
+            "http://dbpedia.org/resource/Eugene_Emeralds"
+        ],
+        [
+            "http://dbpedia.org/resource/Yakima_Bears",
+            "http://dbpedia.org/resource/Lewiston_Broncs"
+        ],
+        [
+            "http://dbpedia.org/resource/Yakima_Bears",
+            "http://dbpedia.org/resource/Salem_Senators"
+        ],
+        [
+            "http://dbpedia.org/resource/Lewiston_Broncs",
+            "http://dbpedia.org/resource/Yakima_Bears"
+        ],
+        [
+            "http://dbpedia.org/resource/Wenatchee_Chiefs",
+            "http://dbpedia.org/resource/Tri-City_Braves"
+        ],
+        [
+            "http://dbpedia.org/resource/Yakima_Bears",
+            "http://dbpedia.org/resource/Lewiston_Broncs"
+        ],
+        [
+            "http://dbpedia.org/resource/Yakima_Bears",
+            "http://dbpedia.org/resource/Eugene_Emeralds"
+        ],
+        [
+            "http://dbpedia.org/resource/Tri-City_Atoms",
+            "http://dbpedia.org/resource/Lewiston_Broncs"
+        ],
+        [
+            "http://dbpedia.org/resource/Eugene_Emeralds",
+            "http://dbpedia.org/resource/Bellingham_Dodgers"
+        ]
+    ]
+}

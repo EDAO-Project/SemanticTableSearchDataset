@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/John_J._Cochran",
+            "http://dbpedia.org/resource/Missouri"
+        ],
+        [
+            "http://dbpedia.org/resource/Carter_Manasco",
+            "http://dbpedia.org/resource/Alabama"
+        ],
+        [
+            "http://dbpedia.org/resource/Clare_Hoffman",
+            "http://dbpedia.org/resource/Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Clare_Hoffman",
+            "http://dbpedia.org/resource/Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chester_E._Holifield",
+            "http://dbpedia.org/resource/California"
+        ],
+        [
+            "http://dbpedia.org/resource/John_Conyers",
+            "http://dbpedia.org/resource/Michigan"
+        ],
+        [
+            "http://dbpedia.org/resource/Dan_Burton",
+            "http://dbpedia.org/resource/Indiana"
+        ],
+        [
+            "http://dbpedia.org/resource/Henry_Waxman",
+            "http://dbpedia.org/resource/California"
+        ],
+        [
+            "http://dbpedia.org/resource/Darrell_Issa",
+            "http://dbpedia.org/resource/California"
+        ],
+        [
+            "http://dbpedia.org/resource/Jason_Chaffetz",
+            "http://dbpedia.org/resource/Utah"
+        ]
+    ]
+}

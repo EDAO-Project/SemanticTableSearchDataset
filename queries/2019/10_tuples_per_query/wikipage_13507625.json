@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Regina_Rams",
+            "http://dbpedia.org/resource/Hamilton_Hurricanes"
+        ],
+        [
+            "http://dbpedia.org/resource/Ottawa_Sooners",
+            "http://dbpedia.org/resource/Vancouver_Meralomas"
+        ],
+        [
+            "http://dbpedia.org/resource/Regina_Rams",
+            "http://dbpedia.org/resource/Ottawa_Sooners"
+        ],
+        [
+            "http://dbpedia.org/resource/Hamilton_Hurricanes",
+            "http://dbpedia.org/resource/Regina_Rams"
+        ],
+        [
+            "http://dbpedia.org/resource/Regina_Rams",
+            "http://dbpedia.org/resource/Burlington_Braves"
+        ],
+        [
+            "http://dbpedia.org/resource/Regina_Rams",
+            "http://dbpedia.org/resource/Burlington_Braves"
+        ],
+        [
+            "http://dbpedia.org/resource/Saskatoon_Hilltops",
+            "http://dbpedia.org/resource/Ottawa_Sooners"
+        ],
+        [
+            "http://dbpedia.org/resource/Saskatoon_Hilltops",
+            "http://dbpedia.org/resource/Ottawa_Sooners"
+        ],
+        [
+            "http://dbpedia.org/resource/Edmonton_Wildcats",
+            "http://dbpedia.org/resource/Burlington_Braves"
+        ],
+        [
+            "http://dbpedia.org/resource/Regina_Rams",
+            "http://dbpedia.org/resource/NDG_Maple_Leafs"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Natalie_Coughlin",
+            "http://dbpedia.org/resource/USA"
+        ],
+        [
+            "http://dbpedia.org/resource/Antje_Buschschulte",
+            "http://dbpedia.org/resource/Germany"
+        ],
+        [
+            "http://dbpedia.org/resource/Reiko_Nakamura",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Hanae_Ito",
+            "http://dbpedia.org/resource/Japan"
+        ],
+        [
+            "http://dbpedia.org/resource/Kirsty_Coventry",
+            "http://dbpedia.org/resource/Zimbabwe"
+        ],
+        [
+            "http://dbpedia.org/resource/Sophie_Edington",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Stanislava_Komarova",
+            "http://dbpedia.org/resource/Russia"
+        ],
+        [
+            "http://dbpedia.org/resource/Alessia_Filippi",
+            "http://dbpedia.org/resource/Italy"
+        ],
+        [
+            "http://dbpedia.org/resource/Giaan_Rooney",
+            "http://dbpedia.org/resource/Australia"
+        ],
+        [
+            "http://dbpedia.org/resource/Janine_Pietsch",
+            "http://dbpedia.org/resource/Germany"
+        ]
+    ]
+}

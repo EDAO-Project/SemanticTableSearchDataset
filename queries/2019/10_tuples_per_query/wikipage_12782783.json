@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Iain_Dowie",
+            "http://dbpedia.org/resource/Paulo_Sousa"
+        ],
+        [
+            "http://dbpedia.org/resource/Aidy_Boothroyd",
+            "http://dbpedia.org/resource/Brendan_Rodgers"
+        ],
+        [
+            "http://dbpedia.org/resource/Alan_Pardew",
+            "http://dbpedia.org/resource/Phil_Parkinson"
+        ],
+        [
+            "http://dbpedia.org/resource/Simon_Grayson",
+            "http://dbpedia.org/resource/Ian_Holloway"
+        ],
+        [
+            "http://dbpedia.org/resource/Colin_Calderwood",
+            "http://dbpedia.org/resource/Billy_Davies"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Jewell",
+            "http://dbpedia.org/resource/Nigel_Clough"
+        ],
+        [
+            "http://dbpedia.org/resource/Glenn_Roeder",
+            "http://dbpedia.org/resource/Bryan_Gunn"
+        ],
+        [
+            "http://dbpedia.org/resource/Jan_Poortvliet",
+            "http://dbpedia.org/resource/Mark_Wotte"
+        ],
+        [
+            "http://dbpedia.org/resource/Jim_Magilton",
+            "http://dbpedia.org/resource/Roy_Keane"
+        ],
+        [
+            "http://dbpedia.org/resource/Paul_Ince",
+            "http://dbpedia.org/resource/Roberto_Di_Matteo"
+        ]
+    ]
+}

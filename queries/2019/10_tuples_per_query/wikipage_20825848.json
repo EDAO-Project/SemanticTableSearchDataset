@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Springfield,_Missouri",
+            "http://dbpedia.org/resource/Abou_Ben_Adhem_Shrine_Mosque"
+        ],
+        [
+            "http://dbpedia.org/resource/Memphis,_Tennessee",
+            "http://dbpedia.org/resource/Memphis_in_May"
+        ],
+        [
+            "http://dbpedia.org/resource/North_Myrtle_Beach,_South_Carolina",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Lake_Buena_Vista,_Florida",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Birmingham",
+            "http://dbpedia.org/resource/Sloss_Furnaces"
+        ],
+        [
+            "http://dbpedia.org/resource/Atlantic_City,_New_Jersey",
+            "http://dbpedia.org/resource/House_of_Blues"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus,_Ohio",
+            "http://dbpedia.org/resource/Rock_on_the_Range"
+        ],
+        [
+            "http://dbpedia.org/resource/Nuremberg",
+            "http://dbpedia.org/resource/Rock_am_Ring_and_Rock_im_Park"
+        ],
+        [
+            "http://dbpedia.org/resource/Zagreb",
+            "http://dbpedia.org/resource/Croatia"
+        ],
+        [
+            "http://dbpedia.org/resource/Donington_Park",
+            "http://dbpedia.org/resource/Download_Festival"
+        ]
+    ]
+}

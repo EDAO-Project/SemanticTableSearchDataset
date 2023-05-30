@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/The_Wedding_Party_2",
+            "http://dbpedia.org/resource/Niyi_Akinmolayan"
+        ],
+        [
+            "http://dbpedia.org/resource/Chief_Daddy",
+            "http://dbpedia.org/resource/Niyi_Akinmolayan"
+        ],
+        [
+            "http://dbpedia.org/resource/King_of_Boys",
+            "http://dbpedia.org/resource/Kemi_Adetiba"
+        ],
+        [
+            "http://dbpedia.org/resource/A_Trip_to_Jamaica",
+            "http://dbpedia.org/resource/Robert_O._Peters"
+        ],
+        [
+            "http://dbpedia.org/resource/30_Days_in_Atlanta",
+            "http://dbpedia.org/resource/Robert_O._Peters"
+        ],
+        [
+            "http://dbpedia.org/resource/Wives_on_Strike",
+            "http://dbpedia.org/resource/Omoni_Oboli"
+        ],
+        [
+            "http://dbpedia.org/resource/Moms_at_War",
+            "http://dbpedia.org/resource/Omoni_Oboli"
+        ],
+        [
+            "http://dbpedia.org/resource/The_CEO",
+            "http://dbpedia.org/resource/Kunle_Afolayan"
+        ],
+        [
+            "http://dbpedia.org/resource/The_Royal_Hibiscus_Hotel",
+            "http://dbpedia.org/resource/Ishaya_Bako"
+        ],
+        [
+            "http://dbpedia.org/resource/Last_Flight_to_Abuja",
+            "http://dbpedia.org/resource/Obi_Emelonye"
+        ]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Chattanooga_Lookouts",
+            "http://dbpedia.org/resource/Augusta_Tourists"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus_Foxes",
+            "http://dbpedia.org/resource/Columbia_Commies"
+        ],
+        [
+            "http://dbpedia.org/resource/Jacksonville_Tarpons",
+            "http://dbpedia.org/resource/Columbus_Foxes"
+        ],
+        [
+            "http://dbpedia.org/resource/Savannah_Colts",
+            "http://dbpedia.org/resource/Albany_Babies"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbia_Comers",
+            "http://dbpedia.org/resource/Macon_Peaches"
+        ],
+        [
+            "http://dbpedia.org/resource/Augusta_Tourists",
+            "http://dbpedia.org/resource/Columbia_Comers"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbia_Comers",
+            "http://dbpedia.org/resource/Charleston_Sea_Gulls"
+        ],
+        [
+            "http://dbpedia.org/resource/Knoxville_Smokies",
+            "http://dbpedia.org/resource/Asheville_Tourists"
+        ],
+        [
+            "http://dbpedia.org/resource/Greenville_Spinners",
+            "http://dbpedia.org/resource/Macon_Peaches"
+        ],
+        [
+            "http://dbpedia.org/resource/Columbus_Red_Birds",
+            "http://dbpedia.org/resource/Jacksonville_Tars"
+        ]
+    ]
+}

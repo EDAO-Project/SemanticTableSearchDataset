@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Catherine_Webb",
+            "http://dbpedia.org/resource/The_First_Fifteen_Lives_of_Harry_August"
+        ],
+        [
+            "http://dbpedia.org/resource/Cormac_McCarthy",
+            "http://dbpedia.org/resource/The_Road"
+        ],
+        [
+            "http://dbpedia.org/resource/Richard_K._Morgan",
+            "http://dbpedia.org/resource/Market_Forces"
+        ],
+        [
+            "http://dbpedia.org/resource/George_R.R._Martin",
+            "http://dbpedia.org/resource/A_Storm_of_Swords"
+        ],
+        [
+            "http://dbpedia.org/resource/Andreas_Eschbach",
+            "http://dbpedia.org/resource/The_Carpet_Makers"
+        ],
+        [
+            "http://dbpedia.org/resource/George_R.R._Martin",
+            "http://dbpedia.org/resource/A_Clash_of_Kings"
+        ],
+        [
+            "http://dbpedia.org/resource/George_R.R._Martin",
+            "http://dbpedia.org/resource/A_Game_of_Thrones"
+        ],
+        [
+            "http://dbpedia.org/resource/China_Mieville",
+            "http://dbpedia.org/resource/Perdido_Street_Station"
+        ],
+        [
+            "http://dbpedia.org/resource/Neal_Stephenson",
+            "http://dbpedia.org/resource/Snow_Crash"
+        ],
+        [
+            "http://dbpedia.org/resource/Connie_Willis",
+            "http://dbpedia.org/resource/To_Say_Nothing_of_the_Dog"
+        ]
+    ]
+}

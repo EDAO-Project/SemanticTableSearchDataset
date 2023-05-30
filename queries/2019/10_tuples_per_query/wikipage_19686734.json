@@ -1,0 +1,44 @@
+{
+    "queries": [
+        [
+            "http://dbpedia.org/resource/Eintracht_Braunschweig",
+            "http://dbpedia.org/resource/Eintracht_Nordhorn"
+        ],
+        [
+            "http://dbpedia.org/resource/Blumenthaler_SV_1919",
+            "http://dbpedia.org/resource/SV_Werder_Bremen"
+        ],
+        [
+            "http://dbpedia.org/resource/FSV_Ludwigshafen",
+            "http://dbpedia.org/resource/1._FC_Kaiserslautern"
+        ],
+        [
+            "http://dbpedia.org/resource/VfB_Oldenburg",
+            "http://dbpedia.org/resource/VfL_Bochum"
+        ],
+        [
+            "http://dbpedia.org/resource/Wuppertaler_SV_Borussia",
+            "http://dbpedia.org/resource/SC_Herford"
+        ],
+        [
+            "http://dbpedia.org/resource/KSV_Baunatal",
+            "http://dbpedia.org/resource/Alemannia_Aachen"
+        ],
+        [
+            "http://dbpedia.org/resource/FC_1908_Villingen",
+            "http://dbpedia.org/resource/SpVgg_Bayreuth"
+        ],
+        [
+            "http://dbpedia.org/resource/Heidenheimer_SB",
+            "http://dbpedia.org/resource/FK_Pirmasens"
+        ],
+        [
+            "http://dbpedia.org/resource/Bayer_04_Leverkusen",
+            "http://dbpedia.org/resource/FSV_Salmrohr"
+        ],
+        [
+            "http://dbpedia.org/resource/Arminia_Hannover",
+            "http://dbpedia.org/resource/FC_Augsburg_II"
+        ]
+    ]
+}
