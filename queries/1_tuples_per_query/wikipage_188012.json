@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Seoul_Metro",
-            "http://dbpedia.org/resource/Seoul_Subway_Line_1",
-            "http://dbpedia.org/resource/Seoul_Station"
-        ]
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Alps",
-            "http://dbpedia.org/resource/Zugspitze",
-            "http://dbpedia.org/resource/Bavaria"
-        ]
-    ]
-}

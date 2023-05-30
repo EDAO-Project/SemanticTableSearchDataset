@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/University_of_Cambridge",
-            "http://dbpedia.org/resource/Lancaster_University",
-            "http://dbpedia.org/resource/University_of_Glasgow"
-        ]
-    ]
-}

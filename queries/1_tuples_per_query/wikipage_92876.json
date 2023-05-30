@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/The_Good,_the_Bad_and_the_Ugly",
-            "http://dbpedia.org/resource/Ennio_Morricone",
-            "http://dbpedia.org/resource/Sergio_Leone"
-        ]
-    ]
-}

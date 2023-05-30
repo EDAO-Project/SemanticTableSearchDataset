@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Santa_Clara_County,_California",
-            "http://dbpedia.org/resource/San_Jose,_California",
-            "http://dbpedia.org/resource/Santa_Clara,_California"
-        ]
-    ]
-}

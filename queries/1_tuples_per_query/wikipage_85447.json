@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/San_Bernardino_County,_California",
-            "http://dbpedia.org/resource/California",
-            "http://dbpedia.org/resource/San_Bernardino,_California"
-        ]
-    ]
-}

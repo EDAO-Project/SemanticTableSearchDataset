@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Batzarro",
-            "http://dbpedia.org/resource/Superman/Batman",
-            "http://dbpedia.org/resource/Bizarro"
-        ]
-    ]
-}

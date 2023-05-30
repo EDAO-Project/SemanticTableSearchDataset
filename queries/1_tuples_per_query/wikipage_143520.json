@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Boston_Public_Library",
-            "http://dbpedia.org/resource/Boston",
-            "http://dbpedia.org/resource/Massachusetts"
-        ]
-    ]
-}

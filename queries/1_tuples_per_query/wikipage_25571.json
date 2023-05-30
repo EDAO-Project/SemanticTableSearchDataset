@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/WCCO-TV",
-            "http://dbpedia.org/resource/CBS",
-            "http://dbpedia.org/resource/CBS_Television_Stations"
-        ]
-    ]
-}

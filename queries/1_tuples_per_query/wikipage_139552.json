@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Finland",
-            "http://dbpedia.org/resource/West_Germany",
-            "http://dbpedia.org/resource/East_Germany"
-        ]
-    ]
-}

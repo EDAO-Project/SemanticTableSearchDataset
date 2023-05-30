@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Los_Angeles_Times",
-            "http://dbpedia.org/resource/Los_Angeles",
-            "http://dbpedia.org/resource/Tribune_Media"
-        ]
-    ]
-}

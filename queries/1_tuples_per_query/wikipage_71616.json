@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Broadway",
-            "http://dbpedia.org/resource/New_York_City",
-            "http://dbpedia.org/resource/Broadway_theatre"
-        ]
-    ]
-}

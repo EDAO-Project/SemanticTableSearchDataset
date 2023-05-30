@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Arthur_Compton",
-            "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
-            "http://dbpedia.org/resource/Compton_scattering"
-        ]
-    ]
-}

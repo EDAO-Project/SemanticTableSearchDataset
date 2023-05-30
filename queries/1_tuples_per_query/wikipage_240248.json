@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Energy",
-            "http://dbpedia.org/resource/Starvation",
-            "http://dbpedia.org/resource/Obesity"
-        ]
-    ]
-}

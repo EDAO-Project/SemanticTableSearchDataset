@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/New_York_City",
-            "http://dbpedia.org/resource/United_States",
-            "http://dbpedia.org/resource/Madison_Square_Garden"
-        ]
-    ]
-}

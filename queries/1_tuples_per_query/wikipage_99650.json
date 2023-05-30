@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Harvard_University",
-            "http://dbpedia.org/resource/University_of_Southern_California",
-            "http://dbpedia.org/resource/Massachusetts_Institute_of_Technology"
-        ]
-    ]
-}

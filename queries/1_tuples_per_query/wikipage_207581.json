@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/United_Kingdom",
-            "http://dbpedia.org/resource/Heathrow_Airport",
-            "http://dbpedia.org/resource/London"
-        ]
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/New_York_City",
-            "http://dbpedia.org/resource/WWOR-TV",
-            "http://dbpedia.org/resource/Fox_Television_Stations"
-        ]
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Paleogene",
-            "http://dbpedia.org/resource/Oligocene",
-            "http://dbpedia.org/resource/Chattian"
-        ]
-    ]
-}

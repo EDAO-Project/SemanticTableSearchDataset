@@ -1,9 +1,0 @@
-{
-    "queries": [
-        [
-            "http://dbpedia.org/resource/Germany",
-            "http://dbpedia.org/resource/Switzerland",
-            "http://dbpedia.org/resource/Slovenia"
-        ]
-    ]
-}
