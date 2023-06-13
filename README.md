@@ -69,30 +69,14 @@ def ground_truth(query_filename, ground_truth_folder, table_corpus_folder, pickl
     with open(pickle_mapping_file, 'rb') as file:
         mapping = pickle.load(file)
 
-    for key, value in wikipages.items():
-        table_folders = os.listdir(table_corpus_folder)
-        wikipage = 'https://en.wikipedia.org/wiki/' + key
-        tables = None
+    for key in mapping['wikipage'].keys():
+        wiki_id = mapping['wikipage'][key].split('/')[-1]
 
-        for key in mapping['wikipage'].keys():
-            if wikipage == mapping['wikipage'][key]:
-                tables = mapping['tables'][key]
-                break
+        if wiki_id in wikipages.keys():
+            relevance = wikipages[wiki_id]
 
-        if (tables == None):
-            tables = []
-
-        for table in tables:
-            for table_folder in table_folders:
-                if '.' in table_folder:
-                    continue
-
-                table_files = os.listdir(table_corpus_folder + '/' + table_folder)
-
-                if table in table_files:
-                    with open(table_corpus_folder + '/' + table_folder + '/' + table, 'r') as file:
-                        json_table = json.load(file)['rows']
-                        relevances.append([value, json_table])
+            for table in mapping['tables'][key]:
+                relevances.append([relevance, table])
 
     return query, relevances
 ```
