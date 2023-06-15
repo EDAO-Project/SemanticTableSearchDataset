@@ -41,7 +41,7 @@ The [ground_truth/](ground_truth/) directory contains the following files/sub-di
 * `wikipage_to_categories/`: Contains the extracted Wikipedia Categories for each Wikipedia Page in our corpus
 * `wikipage_to_navigation_links`: Contains the extracted Navigation Links for each Wikipedia Page in our corpus
 
-Below is a snippet of a subset of the ground truth tables for a query.
+Below is a snippet of a subset of the ground truth tables for a query, where tables that cannot be found by keyword search are marked with red borders.
 
 <img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/gt_example.png" width="600">
 
