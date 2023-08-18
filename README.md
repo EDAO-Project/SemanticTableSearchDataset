@@ -191,6 +191,7 @@ We will now move on to the two table corpora from 2013 and 2019.
 First, extract to table-to-entity links files.
 
 ```bash
+cd table_corpus/
 tar -xf tableIDToEntities_2013.ttl.tar.gz
 tar -xf tableIDToEntities_2019.ttl.tar.gz
 rm tableIDToEntities_*.ttl.tar.gz
@@ -199,7 +200,7 @@ rm tableIDToEntities_*.ttl.tar.gz
 Run the following commands to extract the tables on CSV format first.
 
 ```bash
-cd table_corpus/csv_tables_2013/
+cd csv_tables_2013/
 for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv csv_tables_2013/${F:0:-7}/* . ; done && rm -rf csv_tables_2013
 cd ../csv_tables_2019/
 for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv csv_tables_2019/${F:0:-7}/* . ; done && rm -rf csv_tables_2019
