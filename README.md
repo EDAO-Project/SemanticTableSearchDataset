@@ -191,6 +191,7 @@ We will now move on to the two table corpora from 2013 and 2019.
 First, extract to table-to-entity links files.
 
 ```bash
+cd table_corpus/
 tar -xf tableIDToEntities_2013.ttl.tar.gz
 tar -xf tableIDToEntities_2019.ttl.tar.gz
 rm tableIDToEntities_*.ttl.tar.gz
@@ -199,7 +200,7 @@ rm tableIDToEntities_*.ttl.tar.gz
 Run the following commands to extract the tables on CSV format first.
 
 ```bash
-cd table_corpus/csv_tables_2013/
+cd csv_tables_2013/
 for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv csv_tables_2013/${F:0:-7}/* . ; done && rm -rf csv_tables_2013
 cd ../csv_tables_2019/
 for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv csv_tables_2019/${F:0:-7}/* . ; done && rm -rf csv_tables_2019
@@ -237,6 +238,7 @@ Run the following commands to extract BM25 and download Elasticsearch.
 ```bash
 tar -xf bm25.tar.gz
 rm bm25.tar.gz
+cd bm25/
 wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.3.0.tar.gz
 tar -xf elasticsearch-5.3.0.tar.gz
 rm elasticsearch-5.3.0.tar.gz
@@ -246,7 +248,6 @@ mv elasticsearch-5.3.0 bm25/
 Process the JSON table corpus into a single JSON file that we will use to construct the BM25 indexes.
 
 ```bash
-cd bm25/
 mkdir -p bm25_tables/
 python3 json_converter.py --input_dir ../table_corpus/tables_2013/ --output_dir bm25_tables/ \
 --table_id_to_entities_path ../table_corpus/tableIDToEntities_2013.ttl
