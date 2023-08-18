@@ -54,7 +54,7 @@ import os
 import pickle
 
 # Returns: query, [relevance score, table]
-def ground_truth(query_filename, ground_truth_folder, table_corpus_folder, pickle_mapping_file):
+def ground_truth(query_filename, ground_truth_folder, pickle_mapping_file):
     query = None
     relevances = list()
     wikipages = None
@@ -84,8 +84,7 @@ def ground_truth(query_filename, ground_truth_folder, table_corpus_folder, pickl
 **Arguments**:
 - `query_filename`: The absolute path to a query file
 - `ground_truth_folder`: Folder of ground truth files (folders of categories of navigational links)
-- `table_corpus_folder`: Folder of uncompressed table corpus folders
-- `pickle_mapping_file`: Pickle file of mappings from Wikipedia page ID to Wikipedia page name its tables
+- `pickle_mapping_file`: Pickle file of mappings from Wikipedia page ID to Wikipedia page name and its tables
 
 An example of calling the Python snippet function using Wikipedia page categories is below:
 
@@ -131,3 +130,260 @@ We then use the DBpedia knowledge graph to measure similarities between pairs of
 **Embeddings Cosine Similarity Heatmap of a Selected Set of DBpedia Entities**
 
 <img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/heatmap.png">
+
+## Reproducing Evaluation Results
+We first describe the steps to setup this benchmark.
+Then, we describe how to execute the benchmark.
+
+### Setup
+First, decompress the necessary files using the following commands
+
+```bash
+cd ground_truth/2013/wikipage_to_categories/
+tar -xf wikipage_to_categories.tar.gz
+rm wikipage_to_categories.tar.gz
+cd ../wikipage_to_navigation_links/
+for F in ./* ; do tar -xf ${F} ; rm ${F} ; done
+```
+
+Concatenate the Wikipage-to-navigational links into a single JSON file using the following Python script
+
+```python
+import os
+import json
+
+files = os.listdir('.')
+concat = dict()
+
+for file in files:
+    if not '.json' in file:
+        continue
+
+    with open(file, 'r') as handle:
+        lst = json.load(handle)
+
+        for wikipage in lst.keys():
+            concat[wikipage] = lst[wikipage]
+
+with open('wikipage-to-navigational-link.json', 'w') as handle:
+    json.dump(concat, handle, indent = 4)
+```
+
+This Python script can also be used to concatenate the JSON files for the 2019 ground truth.
+
+Now, enter the 2019 ground truth which requires a bit more work.
+
+```bash
+cd ../../2019/navigational_links/
+for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv ${F:0:-7}/* . ; rmdir ${F:0:-7} ; done
+cd ../wikipedia_categories/
+for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv ${F:0:-7}/* . ; rmdir ${F:0:-7} ; done
+cd ../wikipage_to_categories/
+tar -xf wikipage_to_categories.tar.gz
+rm wikipage_to_categories.tar.gz
+cd ../wikipage_to_navigation_links/
+for F in ./* ; do tar -xf ${F} ; rm ${F} ; done
+cd ../../../
+```
+
+Now, the ground truth is fully prepared.
+We will now move on to the two table corpora from 2013 and 2019.
+First, extract to table-to-entity links files.
+
+```bash
+tar -xf tableIDToEntities_2013.ttl.tar.gz
+tar -xf tableIDToEntities_2019.ttl.tar.gz
+rm tableIDToEntities_*.ttl.tar.gz
+```
+
+Run the following commands to extract the tables on CSV format first.
+
+```bash
+cd table_corpus/csv_tables_2013/
+for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv csv_tables_2013/${F:0:-7}/* . ; done && rm -rf csv_tables_2013
+cd ../csv_tables_2019/
+for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv csv_tables_2019/${F:0:-7}/* . ; done && rm -rf csv_tables_2019
+```
+
+Now, run the following commands to extract the annotated JSON tables.
+
+```bash
+cd ../tables_2013/
+for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv ${F:0:-7}/* . ; rmdir ${F:0:-7} ; done
+cd ../tables_2019/
+for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv ${F:0:-7}/* . ; rmdir ${F:0:-7} ; done
+cd ../../
+```
+
+The benchmark files are now fully extracted.
+We can now move on to setting up the actual bechmark.
+
+We evaluate two baselines on this benchmark: BM25 and TURL.
+We first setup BM25.
+Run the following commands with root access to install the necessary packages.
+
+```bash
+apt-get update
+apt-get install software-properties-common -y
+add-apt-repository ppa:deadsnakes/ppa
+apt update
+apt install python3.8.10
+apt-get install curl tar net-tools nano htop wget openjdk-11-jdk -y
+pip3 install pandas elasticsearch==5.5.3 scipy joblib tqdm nltk==3.4.5
+```
+
+Run the following commands to extract BM25 and download Elasticsearch.
+
+```bash
+tar -xf bm25.tar.gz
+rm bm25.tar.gz
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.3.0.tar.gz
+tar -xf elasticsearch-5.3.0.tar.gz
+rm elasticsearch-5.3.0.tar.gz
+mv elasticsearch-5.3.0 bm25/
+```
+
+Process the JSON table corpus into a single JSON file that we will use to construct the BM25 indexes.
+
+```bash
+cd bm25/
+mkdir -p bm25_tables/
+python3 json_converter.py --input_dir ../table_corpus/tables_2013/ --output_dir bm25_tables/ \
+--table_id_to_entities_path ../table_corpus/tableIDToEntities_2013.ttl
+```
+
+You can substitute the `2013` with `2019` if you want to use the more recent Wikipedia tables.
+We can now load the BM25 indexes.
+
+```bash
+elasticsearch-8.5.3/bin/elasticsearch &
+sleep 2m
+python3 indexer.py --index_name bm25_index --input bm25_tables/tables.json
+cd ..
+```
+
+To stop the Elasticsearch instance running BM25 when you are done, run `kill $!`.
+
+// TODO: Insert here instructions to setup benchmarking of TURL.
+
+The benchmark is now fully prepared, and we can move on to execution the benchmark.
+
+### Benchmark Execution
+To execute BM25 over the queries in this benchmark for top-100, run the following commands.
+
+```bash
+cd bm25/
+mkdir results/
+python3 pool_ranker.py --output_dir ./results/ --input_dir ../queries/2013/1_tuples_per_qury/ --index_name bm25_index --topn 100
+```
+
+To use the queries based on the 2019 Wikipedia tables, substitute `2013` with `2019`.
+The queries in this example are 1-tuple queries.
+Change the number `1` to either `2`, `5`, or `10` to increase query size.
+The results will be stores in the `results/` folder.
+
+// TODO: Insert here instructions to run TURL on our queries.
+
+Finally, we can start evaluating the results using NDCG and recall.
+Create a Python3 script that contains the function for retrieving ground truth from the beginning of this README document.
+Add the following function to retrieve the scores from BM25 and TURL.
+
+```python
+# Parameters:
+#   - query_id: Name of query file
+#   - tuples: Size of query
+#   - k: Top-K value
+#   - gt_tables: List of ground truth tables
+#   - results_path: Path to results file
+#   - approach: Either 'BM25' or 'TURL' depending on the result to retrieve scores from
+#   - only_tables: If true, only the list of resuling tables are returns (use this to measure recall)
+# Returns ranked list of scores for each corpus table
+def results(query_id, tuples, k, gt_tables, results_path, approach = None, only_tables)
+    if approach is None or (approach != 'BM25' and approach != 'TURL') or not os.path.exists(results_path):
+        return None
+
+    with open(path, 'r') as f:
+        predicted = dict()
+
+        if approach == 'BM25':
+            for line in f:
+                split = line.split('\t')
+                qid = 'wikipage_' + split[0]
+                table = split[2]
+                score = float(split[4])
+
+                if (qid == query_id.replace('.json', '')):
+                    predicted[table] = score
+
+        else:
+            first = True
+
+            for line in f:
+                if first:
+                    first = False
+                    continue
+
+                split = line.strip().split(',')
+                predicted[split[0]] = float(split[1])
+
+        scores = {table:0 for table in gt_tables}
+
+        for table in predicted:
+            scores[table] = predicted[table]
+
+        sort = list(sorted(predicted.items(), key = operator.itemgetter(1), reverse = True))
+
+        if only_tables:
+            return [e[0] for e in sort][0:k]
+
+        return list(scores.values())
+```
+
+We use the following function to compute recall.
+
+```python
+def recall(tables, gt):
+    count = 0
+
+    for table in tables:
+        if table in gt:
+            count += 1
+
+    if len(tables) == 0:
+        return 0
+
+    if count > len(gt):
+        return 1.0
+
+    return float(count) / len(gt)
+```
+
+Now, to compute NDCG and recall, collect ground truth, load the ground truth into the corpus tables, collect baseline results, and measure recall and NDCG.
+
+```python
+import os
+import numpy as np
+from sklearn.metrics import ndcg_score
+
+k = 100
+query_file = 'queries/013/1_tuples_per_query/wikipage_192952.json'
+gt_folder = 'round_truth/2013/wikipedia_categories/'
+corpus = 'table_corpus/tables_2013/'
+mapping = 'table_corpus/wikipages_df_2013.pickle'
+gt = ground_truth(query_file, gt_folder, mapping)
+gt_relevance_scores = {table:0 for table in os.listdir(corpus)}
+
+for relevance in gt[1]:
+    gt_relevance_scores[relevance[1]] = relevance[0]
+
+gt_tables = gt[1]
+gt_tables.sort(reverse = True, key = lambda rel: rel[0])
+gt_tables = [table[1] for relevance in gt_tables][0:k]
+
+bm25_results_ndcg = results('wikipage_207751', 1, k, None, 'bm25/results/content.txt', approach = 'BM25', False)
+bm25_results_recall = results('wikipage_207751', k, 100, None, 'bm25/results/content.txt', approach = 'BM25', True)
+ndcg_score = ndcg_score(np.array([list(gt_relevance_scores.values())]), np.array([bm25_results_ndcg]), k = k)
+recall_score = recall(bm25_results_recall, gt_tables)
+```
+
+The variables `ndcg_score` and `recall_score` hold the NDCG and recall values for this example, respectively.
