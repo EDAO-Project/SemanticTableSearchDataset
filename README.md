@@ -265,7 +265,9 @@ cd ..
 
 To stop the Elasticsearch instance running BM25 when you are done, run `kill $!`.
 
-// TODO: Insert here instructions to setup benchmarking of TURL.
+For the comparison using TURL we need to extract TURL table embeddings for each table corpus and query.
+To do that we have created a fork for TURL at: https://github.com/leventidis/TURL_embeddings_for_thetis
+To set it up follow the TURL readme instructions and then generate the embeddings by following the instructions [here](https://github.com/leventidis/TURL_embeddings_for_thetis/blob/release_ongoing/README_for_Thetis.md).
 
 The benchmark is now fully prepared, and we can move on to execution the benchmark.
 
