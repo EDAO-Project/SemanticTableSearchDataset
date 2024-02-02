@@ -45,6 +45,8 @@ Below is a snippet of a subset of the ground truth tables for a query, where tab
 
 <img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/gt_example.png" width="600">
 
+We also release our [user study](ground_truth/2013/user-study/) of 500 query-table pairs from the 2013 corpus.
+
 ### Retreiving Ground Truth of Query
 Below is a code snippet of a Python function to retrieve ground truth of a query. Given a query file, it returns the query and the ground truth judgements of each table, along the tables themselves. All compresses table folders are assumed to be extracted.
 
