@@ -133,6 +133,14 @@ We then use the DBpedia knowledge graph to measure similarities between pairs of
 
 <img src="https://github.com/EDAO-Project/SemanticTableSearchDataset/blob/main/figures/heatmap.png">
 
+## Benchmark Statistics
+Below are statistics of the benchmarks for both snapshots from 2013 and 2019.
+
+|             | **# queries** | **Average # rows** | **Average # columns** | **Average # ground truth tables** | **# tables** | **Average # rows** | **Average # columns** | **Entity coverage** |
+|-------------|---------------|--------------------|-----------------------|-----------------------------------|--------------|--------------------|-----------------------|---------------------|
+| **STSD'13** | 9,296         | 25.1               | 3.4                   | 65.7                              | 238,038      | 35.1               | 5.8                   | 27.7%               |
+| **STSD'19** | 2,560         | 24.9               | 2.4                   | 374.4                             | 457,714      | 23.9               | 6.3                   | 18.2%               |
+
 ## Reproducing Evaluation Results
 We first describe the steps to setup this benchmark.
 Then, we describe how to execute the benchmark.
