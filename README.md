@@ -295,8 +295,6 @@ The queries in this example are 1-tuple queries.
 Change the number `1` to either `2`, `5`, or `10` to increase query size.
 The results will be stores in the `results/` folder.
 
-// TODO: Insert here instructions to run TURL on our queries.
-
 Finally, we can start evaluating the results using NDCG and recall.
 Create a Python3 script that contains the function for retrieving ground truth from the beginning of this README document.
 Add the following function to retrieve the scores from BM25 and TURL.
