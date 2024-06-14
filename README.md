@@ -1,6 +1,8 @@
 # Semantic Table Search Dataset
 Resource: A Large Scale Test Corpus for Semantic Table Search
 
+The main repository is <a href="https://github.com/dkw-aau/SemanticTableSearchDataset">here</a>.
+
 ## Table Corpus
 The full table corpus of 238,038 Wikipedia tables from 2013 can be found under the [table_corpus/tables_2013/](table_corpus/tables_2013/) directory. 
 Alternatively it can also be downloaded via this <a href="https://www.dropbox.com/s/7vii3pdue5suxjj/tables.tar.gz?dl=0">link</a>.
