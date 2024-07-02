@@ -224,7 +224,7 @@ Now, run the following commands to extract the annotated JSON tables.
 cd ../tables_2013/
 for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv ${F:0:-7}/* . ; rmdir ${F:0:-7} ; done
 cd ../tables_2019/
-for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv ${F:0:-7}/* . ; rmdir ${F:0:-7} ; done
+for F in ./* ; do tar -xf ${F} ; rm ${F} ; mv tables_2019/${F:0:-7}/* . ; done && rm -r tables_2019/
 cd ../../
 ```
 
